@@ -1,0 +1,351 @@
+/* Local mirror of joyceproject.com — dark grey/black theme.
+   Annotation link colors (data-color) are preserved as on the original. */
+:root {
+  color-scheme: dark;
+  --page-bg: #161616;
+  --panel-bg: #222222;
+  --reader-bg: #1d1d1d;
+  --inset-bg: #1d1d1d;
+  --ink: #e9e6df;
+  --muted: #a3a3a3;
+  --line: #3a3a3a;
+  --btn-bg: #333333;
+  --btn-hover: #3f3f3f;
+  --link-default: #7aa8ff;
+}
+* { box-sizing: border-box; }
+html, body { height: 100%; }
+body {
+  margin: 0;
+  background-color: var(--page-bg);
+  font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: var(--ink);
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* ---- three-column layout: flush panes with shared hard edges ---- */
+#layout {
+  flex: 1 1 auto;
+  min-height: 0;
+  display: flex;
+  align-items: stretch;
+  padding: 0;
+}
+#chapters-col, #preview-col {
+  background-color: var(--panel-bg);
+  border: 0;
+  border-radius: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  min-width: 0;
+  overflow: hidden;
+  flex: 0 0 auto;
+}
+#text-col {
+  background-color: var(--reader-bg);
+  border: 0;
+  border-radius: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  min-width: 0;
+  overflow: hidden;
+}
+.col-resizer {
+  flex: 0 0 5px;
+  cursor: col-resize;
+  position: relative;
+  touch-action: none;
+  background: var(--page-bg);
+}
+.col-resizer::after {
+  content: "";
+  position: absolute;
+  top: 0; bottom: 0;
+  left: 2px; width: 1px;
+  background: var(--line);
+}
+.col-resizer:hover::after, .col-resizer.dragging::after { background: #777; }
+.col-heading {
+  font-weight: bold;
+  padding: 0.5rem 0.75rem 0.25rem;
+  color: var(--ink);
+}
+
+/* ---- left column ---- */
+#chapter-list {
+  list-style: none;
+  margin: 0;
+  padding: 0.25rem 0.5rem;
+  overflow-y: auto;
+}
+#chapter-list li { margin: 0.15rem 0; }
+#chapter-list button {
+  width: 100%;
+  text-align: left;
+  padding: 0.3rem 0.5rem;
+  border: none;
+  border-radius: 0;
+  background: transparent;
+  cursor: pointer;
+  font-size: 0.9rem;
+  color: var(--ink);
+}
+#chapter-list button:hover { background: var(--btn-hover); }
+#chapter-list li.active button { background: #3d3d3d; font-weight: bold; }
+#chapter-list .ep-num { display: inline-block; width: 1.8em; color: var(--muted); }
+.about-heading { border-top: 1px solid var(--line); margin-top: 0.25rem; }
+#info-list { list-style: none; margin: 0; padding: 0 0.5rem; }
+#info-list button {
+  background: none; border: none; cursor: pointer;
+  color: var(--link-default); font-size: 0.85rem;
+  padding: 0.15rem 0.5rem; text-align: left;
+}
+.attrib { margin-top: auto; padding: 0.5rem 0.75rem; font-size: 0.72rem; color: var(--muted); }
+
+/* ---- page-mode toggle ---- */
+#pagemode-row {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.1rem 0.75rem 0.4rem;
+  font-size: 0.88rem;
+  cursor: pointer;
+  user-select: none;
+}
+#pagemode-row input { accent-color: #888; }
+#pagemode-row .dim { margin-left: auto; }
+
+/* ---- center reader ---- */
+#chapter-nav {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.6rem 1rem 0.3rem;
+  flex: 0 0 auto;
+}
+#chapter-nav h1 {
+  flex: 1;
+  text-align: center;
+  font-size: 1.35rem;
+  margin: 0;
+  color: var(--ink);
+  font-family: Georgia, "Times New Roman", serif;
+}
+#chapter-nav button, #page-footer button {
+  border: 1px solid var(--line);
+  border-radius: 0;
+  background: var(--btn-bg);
+  color: var(--ink);
+  cursor: pointer;
+  padding: 0.25rem 0.6rem;
+  white-space: nowrap;
+}
+#chapter-nav button:hover, #page-footer button:hover { background: var(--btn-hover); }
+#chapter-nav button:disabled, #page-footer button:disabled { opacity: 0.4; cursor: default; }
+#text-body {
+  overflow-y: auto;
+  padding: 1rem 1.5rem 4rem;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.06em;
+  line-height: 1.55;
+  cursor: default;
+  color: var(--ink);
+}
+#text-body > div.read-width { max-width: 60em; margin: 0 auto; }
+#text-body p { margin: 0.5em 0; }
+/* annotation links keep their data-color; underline on hover like original */
+#text-body.annotations a { cursor: pointer; text-decoration: none; border-radius: 3px; }
+#text-body.annotations a:hover { text-decoration: underline; }
+#text-body a.active-note { outline: 2px solid #888; }
+/* original content classes */
+#text-body .header { margin-top: 3em; margin-bottom: 1em; text-indent: 0; }
+#text-body .subheader { text-indent: 0; margin-top: 1em; margin-bottom: 0.5em; font-size: 1.1em; }
+#text-body h3 { text-align: center; font-size: calc(0.8rem + 0.6vw); margin: 0.5em 0; }
+/* Edition page-break markers exist in the source data but the original
+   site hides them in the reader (display:none) — same here. */
+#text-body span[data-edition], #note-body span[data-edition] { display: none; }
+
+/* ---- e-reader page mode (screen-sized columns, turned with arrows) ---- */
+#page-footer {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  padding: 0.35rem;
+  flex: 0 0 auto;
+  border-top: 1px solid var(--line);
+}
+#page-footer button { font-size: 1.1rem; padding: 0.05rem 0.75rem; }
+#page-count { min-width: 5em; text-align: center; color: var(--muted); font-size: 0.85rem; }
+body.paged #page-footer { display: flex; }
+body.paged #text-body { overflow: hidden; padding-bottom: 0; }
+body.paged #text-col #text-body { flex: 1 1 auto; }
+body.paged #text-body .read-width { height: 100%; max-width: none; }
+body.paged #text-body img,
+body.paged #text-body figure,
+body.paged #text-body h1,
+body.paged #text-body h2,
+body.paged #text-body h3,
+body.paged #text-body h4 { break-inside: avoid; }
+
+/* ---- right commentary panel ---- */
+#preview-empty { padding: 2rem 1.25rem; color: var(--ink); }
+#preview-empty .dim, .dim { color: var(--muted); font-size: 0.9em; }
+#preview-content {
+  overflow-y: auto;
+  background: var(--inset-bg);
+  margin: 0;
+  border: 0;
+  border-radius: 0;
+  flex: 1 1 auto;
+  min-height: 0;
+  color: var(--ink);
+}
+#preview-header {
+  background-color: #262626;
+  border-bottom: 1px solid var(--line);
+  padding: 0.4rem 0.5rem;
+  position: sticky;
+  top: 0;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+#preview-header h2 { flex: 1; font-size: 1.2rem; margin: 0; color: var(--ink); }
+#preview-header button {
+  background: none;
+  border: none;
+  color: var(--muted);
+  font-size: 1.1rem;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0.15rem 0.35rem;
+  border-radius: 0;
+}
+#preview-header button:hover:not(:disabled) { color: #fff; background: var(--btn-hover); }
+#preview-header button:disabled { visibility: hidden; }
+#note-body { padding: 0.5rem 0.9rem; font-family: Georgia, serif; line-height: 1.5; }
+#note-body .subheader { text-indent: 0; margin-top: 1em; margin-bottom: 0.5em; font-size: 1.1em; }
+#note-body a { cursor: pointer; text-decoration: none; }
+#note-body a:hover { text-decoration: underline; }
+#note-body em, #text-body em { color: inherit; }
+#media-gallery { padding: 0 0.9rem 1rem; }
+#media-gallery figure { margin: 1rem 0; }
+#media-gallery img {
+  max-width: 100%;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
+  border: 1px solid var(--line);
+  border-radius: 5px;
+  display: block;
+  background: #fff;
+}
+#media-gallery figcaption, #media-gallery .caption {
+  font-style: italic;
+  margin-top: 0.6em;
+  font-size: 0.92em;
+  color: var(--muted);
+}
+#media-gallery iframe { width: 100%; min-height: 220px; border: 1px solid var(--line); border-radius: 5px; }
+#preview-status { padding: 0.25rem 0.75rem 0.5rem; }
+
+/* ---- word lookup popup (dark) ---- */
+#lookup-popup {
+  position: fixed;
+  z-index: 1000;
+  width: 340px;
+  max-width: calc(100vw - 16px);
+  background: #262626;
+  color: #f0f0f0;
+  border: 1px solid #4a4a4a;
+  border-radius: 10px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.55);
+  font-size: 0.92rem;
+}
+#lookup-popup .lookup-arrow {
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  background: #262626;
+  transform: rotate(45deg);
+}
+.lookup-head {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  padding: 0.6rem 0.8rem 0;
+}
+.lookup-head #lookup-word {
+  flex: 1;
+  font-weight: 700;
+  font-size: 1.05rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.lookup-head #lookup-close {
+  background: none;
+  border: none;
+  color: #bbb;
+  font-size: 1.2rem;
+  cursor: pointer;
+  line-height: 1;
+  padding: 0 0.1rem;
+}
+.lookup-head #lookup-close:hover { color: #fff; }
+.lookup-tabs { display: flex; gap: 0.4rem; padding: 0.4rem 0.8rem 0.1rem; }
+.lookup-tabs button {
+  background: #3a3a3a;
+  color: #ddd;
+  border: 1px solid #555;
+  border-radius: 6px;
+  padding: 0.2rem 0.65rem;
+  cursor: pointer;
+  font-size: 0.8rem;
+}
+.lookup-tabs button.active {
+  background: #e8e8e8;
+  color: #111;
+  border-color: #e8e8e8;
+  font-weight: bold;
+}
+#lookup-body {
+  max-height: 300px;
+  overflow-y: auto;
+  padding: 0.3rem 0.9rem 0.8rem;
+  line-height: 1.45;
+}
+#lookup-body p { margin: 0.45em 0; }
+#lookup-body .dim { color: #aaa; }
+#lookup-body a { color: #8ab4ff; }
+#lookup-body .dict-head { font-weight: bold; margin-bottom: 0.2rem; }
+#lookup-body .dict-src { color: #999; font-size: 0.75rem; margin-top: 0.6rem; }
+#lookup-body .wiki-desc { color: #bbb; font-style: italic; margin: 0 0 0.3rem; }
+#lookup-body .wiki-title { font-weight: bold; font-size: 1rem; }
+#lookup-body img.wiki-thumb {
+  float: right;
+  max-width: 90px;
+  margin: 0 0 0.4rem 0.6rem;
+  border-radius: 4px;
+}
+#lookup-body .linklike {
+  background: none; border: none; padding: 0;
+  color: #8ab4ff; cursor: pointer; font-size: inherit;
+  text-decoration: underline;
+}
+#lookup-body .wiki-more { display: inline-block; margin-top: 0.5rem; }
+
+/* narrow screens: stack columns vertically */
+@media (max-width: 900px) {
+  body { overflow: auto; height: auto; }
+  #layout { flex-direction: column; }
+  .col-resizer { display: none; }
+  #chapters-col, #text-col, #preview-col { width: auto !important; flex: none !important; }
+  #chapter-list { max-height: 30vh; }
+  #text-body { max-height: 70vh; }
+  #preview-content { max-height: 70vh; }
+}

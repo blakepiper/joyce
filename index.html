@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>The Joyce Project (local mirror)</title>
+<link rel="icon" type="image/png" href="static/icon.png" />
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<div id="layout">
+  <!-- LEFT: skinny chapter column -->
+  <aside id="chapters-col" aria-label="Chapters">
+    <div class="col-heading">Chapters</div>
+    <ol id="chapter-list"></ol>
+    <div class="col-heading">Reading</div>
+    <label id="pagemode-row" title="Split chapters into screen-sized pages">
+      <input type="checkbox" id="pagemode-toggle" /> Page mode
+      <span class="dim">&larr; &rarr;</span>
+    </label>
+    <div class="col-heading about-heading">About</div>
+    <ul id="info-list"></ul>
+    <div class="attrib">Text: public domain.<br />Notes &amp; images: Joyce&nbsp;Project contributors.</div>
+  </aside>
+
+  <div class="col-resizer" id="resize-left" title="Drag to resize (double-click to reset)"></div>
+
+  <!-- CENTER: primary interactive text -->
+  <main id="text-col" aria-label="Novel text">
+    <div id="chapter-nav">
+      <button id="prev-chapter" title="Previous chapter">&larr; Prev</button>
+      <h1 id="chapter-title">Loading&hellip;</h1>
+      <button id="next-chapter" title="Next chapter">Next &rarr;</button>
+    </div>
+    <div id="text-body" class="annotations"></div>
+    <div id="page-footer">
+      <button id="page-prev" title="Previous page">&lsaquo;</button>
+      <span id="page-count"></span>
+      <button id="page-next" title="Next page">&rsaquo;</button>
+    </div>
+  </main>
+
+  <div class="col-resizer" id="resize-right" title="Drag to resize (double-click to reset)"></div>
+
+  <!-- RIGHT: commentary panel -->
+  <aside id="preview-col" aria-label="Commentary">
+    <div id="preview-empty">
+      <p>Click any highlighted passage in the text.</p>
+      <p class="dim">The note will appear here instead of a popup.</p>
+    </div>
+    <div id="preview-content" hidden>
+      <div id="preview-header">
+        <button id="preview-back" title="Back to previous note" disabled>&larr;</button>
+        <h2 id="note-title"></h2>
+        <button id="preview-clear" title="Clear panel">&times;</button>
+      </div>
+      <div id="note-body"></div>
+      <div id="media-gallery"></div>
+    </div>
+    <div id="preview-status" class="dim"></div>
+  </aside>
+</div>
+
+<script src="app.js"></script>
+
+<!-- Foliate-style word lookup popup: dictionary by default, Wikipedia tab -->
+<div id="lookup-popup" hidden>
+  <div class="lookup-arrow" id="lookup-arrow"></div>
+  <div class="lookup-head">
+    <span id="lookup-word"></span>
+    <button id="lookup-close" title="Close (Esc)">&times;</button>
+  </div>
+  <div class="lookup-tabs">
+    <button id="tab-dict" class="active">Definition</button>
+    <button id="tab-wiki">Wikipedia</button>
+  </div>
+  <div id="lookup-body"></div>
+</div>
+</body>
+</html>
