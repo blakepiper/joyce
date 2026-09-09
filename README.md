@@ -37,7 +37,7 @@ Any static file server works (plain `file://` will not, because the app
 uses `fetch()` for the local JSON):
 
 ```sh
-cd /home/przvl/joyce
+cd joyce
 python3 -m http.server 8000
 # open http://localhost:8000/
 ```
