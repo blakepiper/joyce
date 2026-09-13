@@ -33,8 +33,19 @@ Layout, left to right:
 
 ## Run it
 
-Any static file server works (plain `file://` will not, because the app
-uses `fetch()` for the local JSON):
+Run the included launcher to start a local server and open the book in your
+default browser:
+
+```sh
+./joyce
+```
+
+Keep the terminal open while reading; press `Ctrl-C` to stop the server.
+The launcher uses port 8000 by default and chooses a free port if that one is
+busy. Set `JOYCE_PORT` to choose a specific port.
+
+Alternatively, any static file server works (plain `file://` will not,
+because the app uses `fetch()` for the local JSON):
 
 ```sh
 cd joyce

@@ -1,0 +1,122 @@
+#!/usr/bin/env bash
+set -Eeuo pipefail
+
+ROOT_DIR="$(CDPATH= cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
+HOST="${JOYCE_HOST:-127.0.0.1}"
+PORT="${JOYCE_PORT:-8000}"
+SERVER_PID=""
+
+if ! command -v python3 >/dev/null 2>&1; then
+  printf 'Joyce needs python3 to serve the book locally.\n' >&2
+  exit 1
+fi
+
+if [[ ! "$PORT" =~ ^[0-9]+$ ]] || (( PORT < 1 || PORT > 65535 )); then
+  printf 'Invalid JOYCE_PORT: %s\n' "$PORT" >&2
+  exit 1
+fi
+
+port_available() {
+  python3 - "$HOST" "$1" <<'PY'
+import socket
+import sys
+
+host, port = sys.argv[1], int(sys.argv[2])
+sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+sock.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
+try:
+    sock.bind((host, port))
+except OSError:
+    raise SystemExit(1)
+finally:
+    sock.close()
+PY
+}
+
+if ! port_available "$PORT"; then
+  if [[ -n "${JOYCE_PORT:-}" ]]; then
+    printf 'Port %s is already in use. Set JOYCE_PORT to another port.\n' "$PORT" >&2
+    exit 1
+  fi
+
+  PORT="$(python3 - "$HOST" <<'PY'
+import socket
+import sys
+
+sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+try:
+    sock.bind((sys.argv[1], 0))
+    print(sock.getsockname()[1])
+finally:
+    sock.close()
+PY
+)"
+  printf 'Port 8000 is busy; using port %s instead.\n' "$PORT"
+fi
+
+URL="http://${HOST}:${PORT}/"
+
+cleanup() {
+  if [[ -n "$SERVER_PID" ]] && kill -0 "$SERVER_PID" 2>/dev/null; then
+    kill "$SERVER_PID" 2>/dev/null || true
+    wait "$SERVER_PID" 2>/dev/null || true
+  fi
+}
+trap cleanup EXIT
+trap 'exit 130' INT
+trap 'exit 143' TERM
+
+python3 -m http.server "$PORT" --bind "$HOST" --directory "$ROOT_DIR" &
+SERVER_PID=$!
+
+ready=0
+for _ in {1..50}; do
+  if ! kill -0 "$SERVER_PID" 2>/dev/null; then
+    break
+  fi
+  if python3 - "$HOST" "$PORT" <<'PY'
+import socket
+import sys
+
+sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+sock.settimeout(0.2)
+try:
+    sock.connect((sys.argv[1], int(sys.argv[2])))
+except OSError:
+    raise SystemExit(1)
+finally:
+    sock.close()
+PY
+  then
+    ready=1
+    break
+  fi
+  sleep 0.1
+done
+
+if (( ! ready )); then
+  printf 'Could not start the Joyce server.\n' >&2
+  exit 1
+fi
+
+open_book() {
+  if [[ -n "${JOYCE_BROWSER:-}" ]]; then
+    "$JOYCE_BROWSER" "$URL" >/dev/null 2>&1 &
+  elif command -v xdg-open >/dev/null 2>&1; then
+    xdg-open "$URL" >/dev/null 2>&1 &
+  elif command -v open >/dev/null 2>&1; then
+    open "$URL" >/dev/null 2>&1 &
+  elif command -v gio >/dev/null 2>&1; then
+    gio open "$URL" >/dev/null 2>&1 &
+  else
+    printf 'No browser opener found. Open %s manually.\n' "$URL" >&2
+    return 1
+  fi
+}
+
+if ! open_book; then
+  exit 1
+fi
+
+printf 'Joyce is open at %s (press Ctrl-C to stop the server).\n' "$URL"
+wait "$SERVER_PID"
