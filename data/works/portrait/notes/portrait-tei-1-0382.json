@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0382",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Neologism: kindlooking",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a neologism.</p><blockquote><p>kindlooking</p></blockquote><p class=\"tei-detail\">TEI type: neologism</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:382"
+  },
+  "anchor": {
+    "text": "kindlooking",
+    "prefix": "m like the old leather of chairs.\n\n His heart was beating fast on account of the solemn place he was in and the silence of the room: and he looked at the skull and at the rector’s ",
+    "suffix": " face.\n\n —Well, my little man, said the rector, what is it?\n\n Stephen swallowed down the thing in his throat and said:\n\n —I broke my glasses, sir.\n\n The rector opened his mouth and",
+    "start": 89398,
+    "end": 89410,
+    "canonical_text": "kind-looking"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "type": "neologism"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "9C632A"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4805573",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Michael Cusack",
+  "html_source": "<p>(1847-1907), the founder of the Gaelic Athletic Association, the model for the Citizen in the <em>Cyclops</em> episode of <em>Ulysses</em>.</p><p><img src=\"https://images.rapgenius.com/d34f0fd52027f331c1bf190e7abbf87b.176x340x1.gif\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4805573/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Michael-cusack",
+    "original_id": "4805573",
+    "referent_id": 4805573,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "Michael Cusack",
+    "prefix": ", drawing it by a quiet inbred courtesy of attention or by a quaint turn of old English speech or by the force of its delight in rude bodily skill—for Davin had sat at the feet of ",
+    "suffix": ", the Gael—repelling swiftly and suddenly by a grossness of intelligence or by a bluntness of feeling or by a dull stare of terror in the eyes, the terror of soul of a starving Iri",
+    "start": 13025,
+    "end": 13039,
+    "canonical_text": "Michael Cusack"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4805573,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1356898,
+        "login": "ecbiv",
+        "name": "ecbiv",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

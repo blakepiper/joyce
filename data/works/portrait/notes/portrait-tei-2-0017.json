@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-2-0017",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "Place: Harold's Cross",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Harold&#x27;s Cross</p></blockquote><p class=\"tei-detail\">Coordinates: 53.324608 -6.281580</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-2:17"
+  },
+  "anchor": {
+    "text": "Harold's Cross",
+    "prefix": "t it was Josephine. I thought you were Josephine, Stephen.\n\n And, repeating this several times, she fell to laughing feebly.\n\n He was sitting in the midst of a children’s party at ",
+    "suffix": ". His silent watchful manner had grown upon him and he took little part in the games. The children, wearing the spoils of their crackers, danced and romped noisily and, though he t",
+    "start": 17086,
+    "end": 17100,
+    "canonical_text": "Harold’s Cross"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.324608 -6.281580",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0092",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Wells",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Wells</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:92"
+  },
+  "anchor": {
+    "text": "Wells",
+    "prefix": "labeg.\n\n Then he went away from the door and Wells came over to Stephen and said:\n\n —Tell us, Dedalus, do you kiss your mother before you go to bed?\n\n Stephen answered:\n\n —I do.\n\n ",
+    "suffix": " turned to the other fellows and said:\n\n —O, I say, here’s a fellow says he kisses his mother every night before he goes to bed.\n\n The other fellows stopped their game and turned r",
+    "start": 12714,
+    "end": 12719,
+    "canonical_text": "Wells"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

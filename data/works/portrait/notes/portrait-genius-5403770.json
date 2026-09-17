@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-5403770",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "The language in which we are speaking is his before it is mine.",
+  "html_source": "<p>Stephan perhaps feels foreign to his writing, he believes that English will always be an acquired language to him. Does he feel freed by his language when writing? Is he lost in his own translation?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5403770/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/The-language-in-which-we-are-speaking-is-his-before-it-is-mine",
+    "original_id": "5403770",
+    "referent_id": 5403770,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "The language in which we are speaking is his before it is mine.",
+    "prefix": "of his sensitiveness against this courteous and vigilant foe. He felt with a smart of dejection that the man to whom he was speaking was a countryman of Ben Jonson. He thought:\n\n —",
+    "suffix": " How different are the words home, Christ, ale, master, on his lips and on mine! I cannot speak or write these words without unrest of spirit. His language, so familiar and so fore",
+    "start": 30478,
+    "end": 30541,
+    "canonical_text": "The language in which we are speaking is his before it is mine."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5403770,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1504526,
+        "login": "katherine_tran",
+        "name": "katherine_tran",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

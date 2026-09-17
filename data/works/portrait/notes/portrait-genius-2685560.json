@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2685560",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Doctor Cornwell’s Spelling Book",
+  "html_source": "<p><a href=\"http://books.google.com/books?id=274DAAAAQAAJ&amp;dq=Cornwell%20Spelling&amp;pg=PA48#v=onepage&amp;q&amp;f=false\" rel=\"noopener nofollow\">Spelling for Beginners</a>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2685560/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Doctor-cornwells-spelling-book",
+    "original_id": "2685560",
+    "referent_id": 2685560,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Doctor Cornwell's Spelling Book",
+    "prefix": "t the community ate. It was nice and warm to see the lights in the castle. It was like something in a book. Perhaps Leicester Abbey was like that. And there were nice sentences in ",
+    "suffix": ". They were like poetry but they were only sentences to learn the spelling from.\n\n Wolsey died in Leicester Abbey\nWhere the abbots buried him.\nCanker is a disease of plants,\nCancer",
+    "start": 5399,
+    "end": 5430,
+    "canonical_text": "Doctor Cornwell’s Spelling Book"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2685560,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 212428,
+        "login": "ciaranaustin",
+        "name": "Ciaran Austin",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

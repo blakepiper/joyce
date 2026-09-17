@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-6320778",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "Cajole",
+  "html_source": "<p>To cajole means to persuade/coax someone into doing something by being overly flattering or making many promises to them.</p><p><img src=\"https://images.rapgenius.com/f11d9c123e6f46154825f377e8386bf5.539x318x1.jpg\" alt=\"\" /></p><p>Stephen feels like his classmates are so easily manipulated and hypocrites because they blindly follow the faith with their “dull piety”.</p><p><img src=\"https://images.rapgenius.com/a2464ffa47d689052fb6a4be9e7e9ee4.480x723x1.jpg\" alt=\"\" /></p><p>They are nothing but “religious” puppets to Stephen.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6320778/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3/Cajole",
+    "original_id": "6320778",
+    "referent_id": 6320778,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3-annotated"
+  },
+  "anchor": {
+    "text": "cajole",
+    "prefix": "l with which they had anointed their heads repelled him from the altar they prayed at. He stooped to the evil of hypocrisy with others, sceptical of their innocence which he could ",
+    "suffix": " so easily.\n\n On the wall of his bedroom hung an illuminated scroll, the certificate of his prefecture in the college of the sodality of the Blessed Virgin Mary. On Saturday mornin",
+    "start": 4835,
+    "end": 4841,
+    "canonical_text": "cajole"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6320778,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1504511,
+        "login": "mjimeny",
+        "name": "mjimeny",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

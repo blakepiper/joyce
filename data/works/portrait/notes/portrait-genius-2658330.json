@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2658330",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "He had often thought it strange that Vincent Heron had a bird’s face as well as a bird’s name. A shock of pale hair lay on the forehead like a ruffled crest: the forehead was narrow and bony and a thin hooked nose stood out between the close-set prominent eyes which were light and inexpressive.",
+  "html_source": "<p>A <a href=\"http://en.wikipedia.org/wiki/Heron\" rel=\"noopener nofollow\">Heron</a> looks like this,</p><p><img src=\"https://images.rapgenius.com/8ca0bb2e6d64edf53b3f0c13e43a3ebd.463x577x1.jpg\" alt=\"\" /></p><p>Stephen cleverly observes a similarity between the bird and Vincent Heron.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2658330/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2/He-had-often-thought-it-strange-that-vincent-heron-had-a-birds-face-as-well-as-a-birds-name-a-shock-of-pale-hair-lay-on-the-forehead-like-a-ruffled-crest-the-forehead-was-narrow-and-bony-and-a-thin-hooked-nose-stood-out-between-the-close-set-prominent-eyes-which-were-light-and-inexpressive",
+    "original_id": "2658330",
+    "referent_id": 2658330,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2-annotated"
+  },
+  "anchor": {
+    "text": "He had often thought it strange that Vincent Heron had a bird's face as well as a bird's name. A shock of pale hair lay on the forehead like a ruffled crest: the forehead was narrow and bony and a thin hooked nose stood out between the close-set prominent eyes which were light and inexpressive.",
+    "prefix": "sn’t go to bazaars and he doesn’t flirt and he doesn’t damn anything or damn all.\n\n Stephen shook his head and smiled in his rival’s flushed and mobile face, beaked like a bird’s. ",
+    "suffix": " The rivals were school friends. They sat together in class, knelt together in the chapel, talked together after beads over their lunches. As the fellows in number one were undisti",
+    "start": 32080,
+    "end": 32374,
+    "canonical_text": "He had often thought it strange that Vincent Heron had a bird’s face as well as a bird’s name. A shock of pale hair lay on the forehead like a ruffled crest: the forehead was narrow and bony and a thin hooked nose stood out between the closeset prominent eyes which were light and inexpressive."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2658330,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

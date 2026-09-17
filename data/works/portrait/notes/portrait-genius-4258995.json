@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4258995",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Among the few worshippers",
+  "html_source": "<p>There are only a few worshippers – few that take on such devotion like Stephen.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4258995/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Among-the-few-worshippers",
+    "original_id": "4258995",
+    "referent_id": 4258995,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "among the few worshippers",
+    "prefix": " of its every moment of thought or action for the intentions of the sovereign pontiff and with an early mass. The raw morning air whetted his resolute piety; and often as he knelt ",
+    "suffix": " at the sidealtar, following with his interleaved prayerbook the murmur of the priest, he glanced up for an instant towards the vested figure standing in the gloom between the two ",
+    "start": 581,
+    "end": 606,
+    "canonical_text": "among the few worshippers"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4258995,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1254020,
+        "login": "JoyceScholar",
+        "name": "JoyceScholar",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

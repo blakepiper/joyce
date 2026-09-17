@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0326",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Dante",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Dante</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:326"
+  },
+  "anchor": {
+    "text": "Dante",
+    "prefix": "hat’s quite enough now. Not another word now.\n\n —Yes, yes, said Mr Dedalus quickly.\n\n He uncovered the dish boldly and said:\n\n —Now then, who’s for more turkey?\n\n Nobody answered. ",
+    "suffix": " said:\n\n —Nice language for any catholic to use!\n\n —Mrs Riordan, I appeal to you, said Mrs Dedalus, to let the matter drop now.\n\n Dante turned on her and said:\n\n —And am I to sit h",
+    "start": 44036,
+    "end": 44041,
+    "canonical_text": "Dante"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

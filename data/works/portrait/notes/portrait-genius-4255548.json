@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4255548",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Don’t spy on us,",
+  "html_source": "<p>“Don’t tell on us.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4255548/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Dont-spy-on-us",
+    "original_id": "4255548",
+    "referent_id": 4255548,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "don't spy on us,",
+    "prefix": "essed for mass. It was a mean thing to do, to shoulder him into the square ditch, they were saying.\n\n Then their voices ceased; they had gone. A voice at his bed said:\n\n —Dedalus, ",
+    "suffix": " sure you won’t?\n\n Wells’s face was there. He looked at it and saw that Wells was afraid.\n\n —I didn’t mean to. Sure you won’t?\n\n His father had told him, whatever he did, never to ",
+    "start": 26307,
+    "end": 26323,
+    "canonical_text": "don’t spy on us,"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4255548,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1252799,
+        "login": "hi-im-jae",
+        "name": "hi-im-jae",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

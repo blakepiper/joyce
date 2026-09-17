@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0167",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Neologism: deathwound",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a neologism.</p><blockquote><p>deathwound</p></blockquote><p class=\"tei-detail\">TEI type: neologism</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:167"
+  },
+  "anchor": {
+    "text": "deathwound",
+    "prefix": "he dark was cold and strange. There were pale strange faces there, great eyes like carriagelamps. They were the ghosts of murderers, the figures of marshals who had received their ",
+    "suffix": " on battlefields far away over the sea. What did they wish to say that their faces were so strange?\n\n Visit, we beseech Thee, O Lord, this habitation and drive away from it all...\n",
+    "start": 23248,
+    "end": 23258,
+    "canonical_text": "deathwound"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "type": "neologism"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "9C632A"
+}

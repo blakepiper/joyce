@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2647466",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "The other fellows stopped their game and turned round, laughing. Stephen blushed under their eyes and said:\n \n —I do not.",
+  "html_source": "<p>Observe here how Stephen initially says that he does in fact kiss his mother, but under social duress, “I do not.”</p><p>Stephen is just trying to supply the correct answer, first answering with truth, then with fabrication to avert social duress.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2647466/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/The-other-fellows-stopped-their-game-and-turned-round-laughing-stephen-blushed-under-their-eyes-and-said-i-do-not",
+    "original_id": "2647466",
+    "referent_id": 2647466,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "The other fellows stopped their game and turned round, laughing. Stephen blushed under their eyes and said:\n \n —I do not.",
+    "prefix": "u go to bed?\n\n Stephen answered:\n\n —I do.\n\n Wells turned to the other fellows and said:\n\n —O, I say, here’s a fellow says he kisses his mother every night before he goes to bed.\n\n ",
+    "suffix": "\n\n Wells said:\n\n —O, I say, here’s a fellow says he doesn’t kiss his mother before he goes to bed.\n\n They all laughed again. Stephen tried to laugh with them. He felt his whole bod",
+    "start": 12850,
+    "end": 12970,
+    "canonical_text": "The other fellows stopped their game and turned round, laughing. Stephen blushed under their eyes and said:\n\n —I do not."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2647466,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

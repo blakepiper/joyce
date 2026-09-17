@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0033",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "LA passage: in tanto discrimine",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>in tanto discrimine</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:33"
+  },
+  "anchor": {
+    "text": "in tanto discrimine",
+    "prefix": "k written by a Portuguese priest.\n\n Contrahit orator, variant in carmine vates.\n\n The crises and victories and secessions in Roman history were handed on to him in the trite words ",
+    "suffix": " and he had tried to peer into the social life of the city of cities through the words implere ollam denariorum which the rector had rendered sonorously as the filling of a pot wit",
+    "start": 10508,
+    "end": 10527,
+    "canonical_text": "in tanto discrimine"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

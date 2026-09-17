@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2649361",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "THE COUNT OF MONTE CRISTO.",
+  "html_source": "<p><a href=\"http://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo\" rel=\"noopener nofollow\">Alexandre Dumas' novel</a>, depicting a merchant who was wrongfully imprisoned and seeks revenge.</p><p><img src=\"https://images.rapgenius.com/c6929e435efafcb576934d02ecde0231.418x629x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2649361/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2/The-count-of-monte-cristo",
+    "original_id": "2649361",
+    "referent_id": 2649361,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2-annotated"
+  },
+  "anchor": {
+    "text": "THE COUNT OF MONTE CRISTO.",
+    "prefix": "an to make ready for the great part which he felt awaited him the nature of which he only dimly apprehended.\n\n His evenings were his own; and he pored over a ragged translation of ",
+    "suffix": " The figure of that dark avenger stood forth in his mind for whatever he had heard or divined in childhood of the strange and terrible. At night he built up on the parlour table an",
+    "start": 5148,
+    "end": 5174,
+    "canonical_text": "The Count of Monte Cristo."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2649361,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

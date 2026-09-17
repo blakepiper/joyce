@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0185",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Wells",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Wells</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:185"
+  },
+  "anchor": {
+    "text": "Wells",
+    "prefix": "t Wells was afraid.\n\n —I didn’t mean to. Sure you won’t?\n\n His father had told him, whatever he did, never to peach on a fellow. He shook his head and answered no and felt glad.\n\n ",
+    "suffix": " said:\n\n —I didn’t mean to, honour bright. It was only for cod. I’m sorry.\n\n The face and the voice went away. Sorry because he was afraid. Afraid that it was some disease. Canker ",
+    "start": 26573,
+    "end": 26578,
+    "canonical_text": "Wells"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

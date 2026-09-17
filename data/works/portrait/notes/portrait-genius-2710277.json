@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2710277",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Like a train going in and out of tunnels",
+  "html_source": "<p>So Stephen is the train, the tracks are his life’s timeline, school is the tunnels, and vacation is the open spaces.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2710277/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Like-a-train-going-in-and-out-of-tunnels",
+    "original_id": "2710277",
+    "referent_id": 2710277,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "like a train going in and out of tunnels",
+    "prefix": "tudied trigonometry. That was very far away. First came the vacation and then the next term and then vacation again and then again another term and then again the vacation. It was ",
+    "suffix": " and that was like the noise of the boys eating in the refectory when you opened and closed the flaps of the ears. Term, vacation; tunnel, out; noise, stop. How far away it was! It",
+    "start": 18025,
+    "end": 18065,
+    "canonical_text": "like a train going in and out of tunnels"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2710277,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

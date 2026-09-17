@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0353",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Neologism: priestridden",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a neologism.</p><blockquote><p>priestridden</p></blockquote><p class=\"tei-detail\">TEI type: neologism</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:353"
+  },
+  "anchor": {
+    "text": "priestridden",
+    "prefix": "tridden race and always were and always will be till the end of the chapter.\n\n Uncle Charles shook his head, saying:\n\n —A bad business! A bad business!\n\n Mr Dedalus repeated:\n\n —A ",
+    "suffix": " Godforsaken race!\n\n He pointed to the portrait of his grandfather on the wall to his right.\n\n —Do you see that old chap up there, John? he said. He was a good Irishman when there ",
+    "start": 54700,
+    "end": 54712,
+    "canonical_text": "priestridden"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "type": "neologism"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "9C632A"
+}

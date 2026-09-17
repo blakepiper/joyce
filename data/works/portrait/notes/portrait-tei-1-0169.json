@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0169",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Place: Bodenstown",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Bodenstown</p></blockquote><p class=\"tei-detail\">Coordinates: 53.262617 -6.666295</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:169"
+  },
+  "anchor": {
+    "text": "Bodenstown",
+    "prefix": "he rector!\n\n Hurray! Hurray! Hurray!\n\n The cars drove past the chapel and all caps were raised. They drove merrily along the country roads. The drivers pointed with their whips to ",
+    "suffix": ". The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after cheer after cheer. Through Clane they drove, cheering and cheered. The peasant women stood at the ",
+    "start": 23829,
+    "end": 23839,
+    "canonical_text": "Bodenstown"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.262617 -6.666295",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

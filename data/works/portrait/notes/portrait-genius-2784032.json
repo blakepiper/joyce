@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2784032",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "A creature of clay",
+  "html_source": "<p>Compare with <a href=\"http://www.biblegateway.com/passage/?search=Genesis+2:7&amp;version=KJV\" rel=\"noopener nofollow\">Genesis 2:7</a>,</p><blockquote><p>And the Lord God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.</p></blockquote><p>and <a href=\"http://www.kingjamesbibleonline.org/Isaiah-64-8/\" rel=\"noopener nofollow\">Isaiah 64:8</a>,</p><blockquote><p>But now, O LORD, thou art our father; we are the clay, and thou our potter; and we all are the work of thy hand.</p></blockquote>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2784032/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3/A-creature-of-clay",
+    "original_id": "2784032",
+    "referent_id": 2784032,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3-annotated"
+  },
+  "anchor": {
+    "text": "a creature of clay",
+    "prefix": "wed deeper and deeper in the mire of sin. God appealed to you, threatened you, entreated you to return to Him. O, what shame, what misery! The Ruler of the universe entreated you, ",
+    "suffix": ", to love Him Who made you and to keep His law. No. You would not. And now, though you were to flood all hell with your tears if you could still weep, all that sea of repentance wo",
+    "start": 57741,
+    "end": 57759,
+    "canonical_text": "a creature of clay"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2784032,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

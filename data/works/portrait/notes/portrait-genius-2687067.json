@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2687067",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "—O, yes, Lord Tennyson, said Nash.",
+  "html_source": "<p><a href=\"http://en.wikipedia.org/wiki/Tennyson\" rel=\"noopener nofollow\">Alfred, Lord Tennyson</a>, a renown poet of England.</p><p>Some of his more famous poems include <a href=\"http://poetry.genius.com/Alfred-lord-tennyson-ulysses-annotated\" rel=\"noopener nofollow\">Ulysses</a> and <a href=\"http://poetry.genius.com/Alfred-lord-tennyson-the-charge-of-the-light-brigade-annotated\" rel=\"noopener nofollow\">The Charge of the Light Brigade</a>.</p><p><img src=\"https://images.rapgenius.com/c5a12d9e56fd44f0d4da932a884a3a83.369x600x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2687067/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2/O-yes-lord-tennyson-said-nash",
+    "original_id": "2687067",
+    "referent_id": 2687067,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2-annotated"
+  },
+  "anchor": {
+    "text": "—O, yes, Lord Tennyson, said Nash.",
+    "prefix": "rose style, Heron said to the other two in explanation, of course he’s not a poet.\n\n —And who is the best poet, Heron? asked Boland.\n\n —Lord Tennyson, of course, answered Heron.\n\n ",
+    "suffix": " We have all his poetry at home in a book.\n\n At this Stephen forgot the silent vows he had been making and burst out:\n\n —Tennyson a poet! Why, he’s only a rhymester!\n\n —O, get out!",
+    "start": 40243,
+    "end": 40277,
+    "canonical_text": "—O, yes, Lord Tennyson, said Nash."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2687067,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

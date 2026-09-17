@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4259066",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Intense sense of power",
+  "html_source": "<p>counteracts the “perilous attraction” Stephen feels towards the idea of surrender.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4259066/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Intense-sense-of-power",
+    "original_id": "4259066",
+    "referent_id": 4259066,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "intense sense of power",
+    "prefix": " for his mind now that he felt his soul beset once again by the insistent voices of the flesh which began to murmur to him again during his prayers and meditations. It gave him an ",
+    "suffix": " to know that he could, by a single act of consent, in a moment of thought, undo all that he had done. He seemed to feel a flood slowly advancing towards his naked feet and to be w",
+    "start": 11513,
+    "end": 11535,
+    "canonical_text": "intense sense of power"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4259066,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1254036,
+        "login": "selfPortrait",
+        "name": "selfPortrait",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

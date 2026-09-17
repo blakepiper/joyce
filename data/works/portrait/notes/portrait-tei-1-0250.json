@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0250",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Mr Dedalus",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Mr Dedalus</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:250"
+  },
+  "anchor": {
+    "text": "Mr Dedalus",
+    "prefix": "he shadow of the window, Dante and Mr Casey, who sat in the easychairs at either side of the hearth, Stephen, seated on a chair between them, his feet resting on the toasted boss. ",
+    "suffix": " looked at himself in the pierglass above the mantelpiece, waxed out his moustache ends and then, parting his coat tails, stood with his back to the glowing fire: and still from ti",
+    "start": 37118,
+    "end": 37128,
+    "canonical_text": "Mr Dedalus"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2902928",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "—EGO CREDO UT VITA PAUPERUM EST SIMPLICITER ATROX, SIMPLICITER SANGUINARIUS ATROX, IN LIVERPOOLIO",
+  "html_source": "<p>Latin,<br />   <em>I believe that the life of the poor is simply atrocious, simply bloody atrocious, in Liverpool</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2902928/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Ego-credo-ut-vita-pauperum-est-simpliciter-atrox-simpliciter-sanguinarius-atrox-in-liverpoolio",
+    "original_id": "2902928",
+    "referent_id": 2902928,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "—EGO CREDO UT VITA PAUPERUM EST SIMPLICITER ATROX, SIMPLICITER SANGUINARIUS ATROX, IN LIVERPOOLIO",
+    "prefix": "...\n\n —Hynes has no brains. He got through by stewing, pure stewing.\n\n —Don’t mind him. There’s plenty of money to be made in a big commercial city.\n\n —Depends on the practice.\n\n —",
+    "suffix": ".\n\n Their voices reached his ears as if from a distance in interrupted pulsation. She was preparing to go away with her companions.\n\n The quick light shower had drawn off, tarrying",
+    "start": 79659,
+    "end": 79755,
+    "canonical_text": "Ego credo ut vita pauperum est simpliciter atrox, simpliciter sanguinarius atrox, in Liverpoolio"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2902928,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

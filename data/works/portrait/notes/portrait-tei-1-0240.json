@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0240",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Brother Michael",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Brother Michael</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:240"
+  },
+  "anchor": {
+    "text": "Brother Michael",
+    "prefix": "noise on the playgrounds. The class must be doing the themes or perhaps Father Arnall was reading out of the book.\n\n It was queer that they had not given him any medicine. Perhaps ",
+    "suffix": " would bring it back when he came. They said you got stinking stuff to drink when you were in the infirmary. But he felt better now than before. It would be nice getting better slo",
+    "start": 34932,
+    "end": 34947,
+    "canonical_text": "Brother Michael"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

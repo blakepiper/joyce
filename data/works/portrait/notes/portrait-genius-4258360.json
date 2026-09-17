@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4258360",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "A new thrill of power and satisfaction shook his soul to know that he had not yielded nor undone all",
+  "html_source": "<p>Stephen seems to get a high or thrill out of coming close to doing the wrong thing but turning away from temptation just before he does so.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4258360/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/A-new-thrill-of-power-and-satisfaction-shook-his-soul-to-know-that-he-had-not-yielded-nor-undone-all",
+    "original_id": "4258360",
+    "referent_id": 4258360,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "a new thrill of power and satisfaction shook his soul to know that he had not yielded nor undone all",
+    "prefix": "on a dry shore, saved by a sudden act of the will or a sudden ejaculation; and, seeing the silver line of the flood far away and beginning again its slow advance towards his feet, ",
+    "suffix": ".\n\n When he had eluded the flood of temptation many times in this way he grew troubled and wondered whether the grace which he had refused to lose was not being filched from him li",
+    "start": 12107,
+    "end": 12207,
+    "canonical_text": "a new thrill of power and satisfaction shook his soul to know that he had not yielded nor undone all"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4258360,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1253784,
+        "login": "Caroline_Walden",
+        "name": "Caroline_Walden",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

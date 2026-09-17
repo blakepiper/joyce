@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4812332",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Through the dark narrow streets of the poorer jews",
+  "html_source": "<p>The small Jewish community lived just north of Grantham Street.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4812332/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Through-the-dark-narrow-streets-of-the-poorer-jews",
+    "original_id": "4812332",
+    "referent_id": 4812332,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "through the dark narrow streets of the poorer jews",
+    "prefix": "uage in which Stephen escaped from the cold silence of intellectual revolt, had called up before Stephen’s mind a strange vision. The two were walking slowly towards Davin’s rooms ",
+    "suffix": ".\n\n —A thing happened to myself, Stevie, last autumn, coming on winter, and I never told it to a living soul and you are the first person now I ever told it to. I disremember if it",
+    "start": 14813,
+    "end": 14863,
+    "canonical_text": "through the dark narrow streets of the poorer jews"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4812332,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1356898,
+        "login": "ecbiv",
+        "name": "ecbiv",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

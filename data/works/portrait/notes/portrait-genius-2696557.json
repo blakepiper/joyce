@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2696557",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Who will win?",
+  "html_source": "<p>The Jesuits encouraged competition as a teaching strategy.</p><p><img src=\"https://images.rapgenius.com/8150e821766835ebc45b450777a4f7e7.235x235x1.png\" alt=\"\" /></p><p>Section 296 of the <a href=\"http://www.newadvent.org/cathen/12654a.htm\" rel=\"noopener nofollow\">Ratio Studiorum</a>:</p><blockquote><p>In the second hour of the morning, the last lesson should be reviewed briefly, and a new one should be taught for half an hour or for a little more. Right away the students should be asked to repeat it, and, if there is any time left, they should compete with each other on it.</p></blockquote>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2696557/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Who-will-win",
+    "original_id": "2696557",
+    "referent_id": 2696557,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "who will win?",
+    "prefix": "e same: and when the fellows stopped talking in the playroom you could hear it.\n\n It was the hour for sums. Father Arnall wrote a hard sum on the board and then said:\n\n —Now then, ",
+    "suffix": " Go ahead, York! Go ahead, Lancaster!\n\n Stephen tried his best but the sum was too hard and he felt confused. The little silk badge with the white rose on it that was pinned on the",
+    "start": 8334,
+    "end": 8347,
+    "canonical_text": "who will win?"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2696557,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 293151,
+        "login": "jeeho",
+        "name": "Jeeho",
+        "role": "contributor",
+        "attribution": 0.9191919191919191
+      },
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.08080808080808081
+      }
+    ]
+  },
+  "color": "F59627"
+}

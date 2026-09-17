@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0050",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Person: Stephen",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Stephen</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:50"
+  },
+  "anchor": {
+    "text": "Stephen",
+    "prefix": "o be quick and go out quietly by the back. Stephen laughed and said:\n\n —He has a curious idea of genders if he thinks a bitch is masculine.\n\n —Ah, it’s a scandalous shame for you, ",
+    "suffix": ", said his mother, and you’ll live to rue the day you set your foot in that place. I know how it has changed you.\n\n —Good morning, everybody, said Stephen, smiling and kissing the ",
+    "start": 2348,
+    "end": 2355,
+    "canonical_text": "Stephen"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

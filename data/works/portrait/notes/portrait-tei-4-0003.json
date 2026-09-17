@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-4-0003",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "FR passage: Les jupes.",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a fr passage.</p><blockquote><p>Les jupes.</p></blockquote><p class=\"tei-detail\">Language: fr</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-4:3"
+  },
+  "anchor": {
+    "text": "Les jupes.",
+    "prefix": "ith this thing up about their knees! It was really ridiculous. Les jupes, they call them in Belgium.\n\n The vowel was so modified as to be indistinct.\n\n —What do they call them?\n\n —",
+    "suffix": "\n\n —O!\n\n Stephen smiled again in answer to the smile which he could not see on the priest’s shadowed face, its image or spectre only passing rapidly across his mind as the low disc",
+    "start": 16717,
+    "end": 16727,
+    "canonical_text": "Les jupes."
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "fr"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

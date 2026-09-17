@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2647456",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "But you could not have a green rose. But perhaps somewhere in the world you could.",
+  "html_source": "<p>Compare with <a href=\"http://poetry.genius.com/2646274\" rel=\"noopener nofollow\">this</a> from earlier in the chapter,</p><blockquote><p>O, the green wothe botheth<br /><em>(O, the green rose blossoms)</em></p></blockquote>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2647456/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/But-you-could-not-have-a-green-rose-but-perhaps-somewhere-in-the-world-you-could",
+    "original_id": "2647456",
+    "referent_id": 2647456,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "But you could not have a green rose. But perhaps somewhere in the world you could.",
+    "prefix": "cream and pink roses were beautiful to think of. Perhaps a wild rose might be like those colours and he remembered the song about the wild rose blossoms on the little green place. ",
+    "suffix": "\n\n The bell rang and then the classes began to file out of the rooms and along the corridors towards the refectory. He sat looking at the two prints of butter on his plate but coul",
+    "start": 9924,
+    "end": 10006,
+    "canonical_text": "But you could not have a green rose. But perhaps somewhere in the world you could."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2647456,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

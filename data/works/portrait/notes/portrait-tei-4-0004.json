@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-4-0004",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Place: Stradbrook",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Stradbrook</p></blockquote><p class=\"tei-detail\">Coordinates: 53.293003 -6.168866</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-4:4"
+  },
+  "anchor": {
+    "text": "Stradbrook",
+    "prefix": "aking brought always to his mind a delicate and sinful perfume. As a boy he had imagined the reins by which horses are driven as slender silken bands and it shocked him to feel at ",
+    "suffix": "e the greasy leather of harness. It had shocked him, too, when he had felt for the first time beneath his tremulous fingers the brittle texture of a woman’s stocking for, retaining",
+    "start": 17376,
+    "end": 17386,
+    "canonical_text": "Stradbrook"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.293003 -6.168866",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

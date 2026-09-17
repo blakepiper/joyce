@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2694559",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Without even answering the fellow",
+  "html_source": "<p>An expression of superior status.</p><p><img src=\"https://images.rapgenius.com/0f7adead7c2fb55e36c2f1a66aa4e99f.340x350x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2694559/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Without-even-answering-the-fellow",
+    "original_id": "2694559",
+    "referent_id": 2694559,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "without even answering the fellow",
+    "prefix": "rs closed around, flushed and muddy, and he went among them, glad to go in. Rody Kickham held the ball by its greasy lace. A fellow asked him to give it one last: but he walked on ",
+    "suffix": ". Simon Moonan told him not to because the prefect was looking. The fellow turned to Simon Moonan and said:\n\n —We all know why you speak. You are McGlade’s suck.\n\n Suck was a queer",
+    "start": 7018,
+    "end": 7051,
+    "canonical_text": "without even answering the fellow"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2694559,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 212428,
+        "login": "ciaranaustin",
+        "name": "Ciaran Austin",
+        "role": "contributor",
+        "attribution": 0.8571428571428571
+      },
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.14285714285714288
+      }
+    ]
+  },
+  "color": "F59627"
+}

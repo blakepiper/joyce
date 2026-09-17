@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0342",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Place: Armagh",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Armagh</p></blockquote><p class=\"tei-detail\">Coordinates: 54.350280 -6.652792</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:342"
+  },
+  "anchor": {
+    "text": "Armagh",
+    "prefix": "o respect for the pastors of the church.\n\n Mr Dedalus threw his knife and fork noisily on his plate.\n\n —Respect! he said. Is it for Billy with the lip or for the tub of guts up in ",
+    "suffix": "? Respect!\n\n —Princes of the church, said Mr Casey with slow scorn.\n\n —Lord Leitrim’s coachman, yes, said Mr Dedalus.\n\n —They are the Lord’s anointed, Dante said. They are an honou",
+    "start": 46904,
+    "end": 46910,
+    "canonical_text": "Armagh"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "54.350280 -6.652792",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

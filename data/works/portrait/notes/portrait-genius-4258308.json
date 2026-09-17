@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4258308",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Seven deadly sins",
+  "html_source": "<p>Each a form of self (subjective) reigning over the greater good (objective), the seven deadly sins are wrath, greed, sloth, pride, lust, envy, and gluttony. They have been used since early times to guide Christian ethics.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4258308/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Seven-deadly-sins",
+    "original_id": "4258308",
+    "referent_id": 4258308,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "seven deadly sins",
+    "prefix": "s mysteries.\n\n On each of the seven days of the week he further prayed that one of the seven gifts of the Holy Ghost might descend upon his soul and drive out of it day by day the ",
+    "suffix": " which had defiled it in the past; and he prayed for each gift on its appointed day, confident that it would descend upon him, though it seemed strange to him at times that wisdom ",
+    "start": 3100,
+    "end": 3117,
+    "canonical_text": "seven deadly sins"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4258308,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1253784,
+        "login": "Caroline_Walden",
+        "name": "Caroline_Walden",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-2-0002",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "Place: Stillorgan",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Stillorgan</p></blockquote><p class=\"tei-detail\">Coordinates: 53.287857 -6.203573</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-2:2"
+  },
+  "anchor": {
+    "text": "Stillorgan",
+    "prefix": "r and his granduncle took their constitutional. The old man was a nimble walker in spite of his corns and often ten or twelve miles of the road were covered. The little village of ",
+    "suffix": " was the parting of the ways. Either they went to the left towards the Dublin mountains or along the Goatstown road and thence into Dundrum, coming home by Sandyford. Trudging alon",
+    "start": 4276,
+    "end": 4286,
+    "canonical_text": "Stillorgan"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.287857 -6.203573",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

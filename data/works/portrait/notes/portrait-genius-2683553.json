@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2683553",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Uncle Charles was older than Dante",
+  "html_source": "<p>Based on his maternal uncle William O'Connell, who lived with the Joyces for ten years until his death in 1892 around age 70. ‘Dante’ Hearn Conway’s birthyear is unknown.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2683553/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Uncle-charles-was-older-than-dante",
+    "original_id": "2683553",
+    "referent_id": 2683553,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "uncle Charles was older than Dante",
+    "prefix": "pipe for him to dance. He danced:\n\n Tralala lala,\nTralala tralaladdy,\nTralala lala,\nTralala lala.\n\n Uncle Charles and Dante clapped. They were older than his father and mother but ",
+    "suffix": ".\n\n Dante had two brushes in her press. The brush with the maroon velvet back was for Michael Davitt and the brush with the green velvet back was for Parnell. Dante gave him a cach",
+    "start": 983,
+    "end": 1017,
+    "canonical_text": "uncle Charles was older than Dante"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2683553,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

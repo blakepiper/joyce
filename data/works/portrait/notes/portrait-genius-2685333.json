@@ -1,0 +1,56 @@
+{
+  "id": "portrait-genius-2685333",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "The queer smell",
+  "html_source": "<p>Stephen’s experience is so limited so far in life that the oilsheet doesn’t just have <em>a</em> queer smell; rather, it is “the queer smell.”</p><p>It’s also an oral tendency in Irish to use the definite rather than indefinite article.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2685333/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/The-queer-smell",
+    "original_id": "2685333",
+    "referent_id": 2685333,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "the queer smell",
+    "prefix": "n place.\n\n He sang that song. That was his song.\n\n O, the green wothe botheth.\n\n When you wet the bed, first it is warm then it gets cold. His mother put on the oilsheet. That had ",
+    "suffix": ".\n\n His mother had a nicer smell than his father. She played on the piano the sailor’s hornpipe for him to dance. He danced:\n\n Tralala lala,\nTralala tralaladdy,\nTralala lala,\nTrala",
+    "start": 697,
+    "end": 712,
+    "canonical_text": "the queer smell"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2685333,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 0.4102564102564103
+      },
+      {
+        "id": 149810,
+        "login": "perfectrhyme",
+        "name": "Perfectrhyme",
+        "role": "editor",
+        "attribution": 0.3846153846153846
+      },
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.20512820512820515
+      }
+    ]
+  },
+  "color": "F59627"
+}

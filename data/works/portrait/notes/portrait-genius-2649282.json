@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2649282",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Cod.",
+  "html_source": "<p>A joke.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2649282/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Cod",
+    "original_id": "2649282",
+    "referent_id": 2649282,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "cod.",
+    "prefix": "ather had told him, whatever he did, never to peach on a fellow. He shook his head and answered no and felt glad.\n\n Wells said:\n\n —I didn’t mean to, honour bright. It was only for ",
+    "suffix": " I’m sorry.\n\n The face and the voice went away. Sorry because he was afraid. Afraid that it was some disease. Canker was a disease of plants and cancer one of animals: or another d",
+    "start": 26637,
+    "end": 26641,
+    "canonical_text": "cod."
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 2649282,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

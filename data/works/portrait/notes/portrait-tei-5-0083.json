@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0083",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: Leopardstown",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Leopardstown</p></blockquote><p class=\"tei-detail\">Coordinates: 53.267776 -6.198408</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:83"
+  },
+  "anchor": {
+    "text": "Leopardstown",
+    "prefix": " professor paused in his reading and called the next name:\n\n —Cranly!\n\n No answer.\n\n —Mr Cranly!\n\n A smile flew across Stephen’s face as he thought of his friend’s studies.\n\n —Try ",
+    "suffix": "! said a voice from the bench behind.\n\n Stephen glanced up quickly but Moynihan’s snoutish face, outlined on the grey light, was impassive. A formula was given out. Amid the rustli",
+    "start": 33383,
+    "end": 33395,
+    "canonical_text": "Leopardstown"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.267776 -6.198408",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

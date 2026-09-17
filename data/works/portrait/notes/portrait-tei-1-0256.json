@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0256",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Mr Casey",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Mr Casey</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:256"
+  },
+  "anchor": {
+    "text": "Mr Casey",
+    "prefix": "as not true that Mr Casey had a purse of silver in his throat. He smiled to think how the silvery noise which Mr Casey used to make had deceived him. And when he had tried to open ",
+    "suffix": "’s hand to see if the purse of silver was hidden there he had seen that the fingers could not be straightened out: and Mr Casey had told him that he had got those three cramped fin",
+    "start": 37721,
+    "end": 37729,
+    "canonical_text": "Mr Casey"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-3970073",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Catafalque",
+  "html_source": "<p>Merriam Webster’s: “an ornamental structure sometimes used in funerals for the lying in state of the body”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3970073/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Catafalque",
+    "original_id": "3970073",
+    "referent_id": 3970073,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "catafalque",
+    "prefix": ". Wells too would be there but no fellow would look at him. The rector would be there in a cope of black and gold and there would be tall yellow candles on the altar and round the ",
+    "suffix": ". And they would carry the coffin out of the chapel slowly and he would be buried in the little graveyard of the community off the main avenue of limes. And Wells would be sorry th",
+    "start": 30839,
+    "end": 30849,
+    "canonical_text": "catafalque"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 3970073,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1141957,
+        "login": "Velcro_River",
+        "name": "Velcro_River",
+        "role": null,
+        "attribution": 0.9411764705882354
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.05882352941176471
+      }
+    ]
+  },
+  "color": "F59627"
+}

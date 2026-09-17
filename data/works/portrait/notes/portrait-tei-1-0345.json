@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0345",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Song: O, come all you Roman catholics That never went to mass.",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a song.</p><blockquote><p>O, come all you Roman catholics That never went to mass.</p></blockquote><p class=\"tei-detail\">TEI type: song</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:345"
+  },
+  "anchor": {
+    "text": "O, come all you Roman catholics That never went to mass.",
+    "prefix": "ke a country singer.\n\n —I am no protestant, I tell you again, said Mr Casey, flushing.\n\n Mr Dedalus, still crooning and swaying his head, began to sing in a grunting nasal tone:\n\n ",
+    "suffix": "\n\n He took up his knife and fork again in good humour and set to eating, saying to Mr Casey:\n\n —Let us have the story, John. It will help us to digest.\n\n Stephen looked with affect",
+    "start": 49826,
+    "end": 49882,
+    "canonical_text": "O, come all you Roman catholics\nThat never went to mass."
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "type": "song"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "CF2929"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4805589",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Young fenian",
+  "html_source": "<p>A member of the Irish Republican Brotherhood founded in 1858. The organization was dedicated to the use of physical force to remove the British from Ireland. They had a glamorous reputation.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4805589/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Young-fenian",
+    "original_id": "4805589",
+    "referent_id": 4805589,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "young fenian",
+    "prefix": "orshipped the sorrowful legend of Ireland. The gossip of his fellow-students which strove to render the flat life of the college significant at any cost loved to think of him as a ",
+    "suffix": ". His nurse had taught him Irish and shaped his rude imagination by the broken lights of Irish myth. He stood towards the myth upon which no individual mind had ever drawn out a li",
+    "start": 13567,
+    "end": 13579,
+    "canonical_text": "young fenian"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4805589,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1356898,
+        "login": "ecbiv",
+        "name": "ecbiv",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

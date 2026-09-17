@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0080",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: Lower Drumcondra",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Lower Drumcondra</p></blockquote><p class=\"tei-detail\">Coordinates: 53.364757 -6.256734</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:80"
+  },
+  "anchor": {
+    "text": "Lower Drumcondra",
+    "prefix": " tundish?\n\n —What is a tundish?\n\n —That. The... the funnel.\n\n —Is that called a tundish in Ireland? asked the dean. I never heard the word in my life.\n\n —It is called a tundish in ",
+    "suffix": ", said Stephen, laughing, where they speak the best English.\n\n —A tundish, said the dean reflectively. That is a most interesting word. I must look that word up. Upon my word I mus",
+    "start": 28546,
+    "end": 28562,
+    "canonical_text": "Lower Drumcondra"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.364757 -6.256734",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

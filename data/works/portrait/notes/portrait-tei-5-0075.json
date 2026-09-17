@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0075",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Person: Parnell",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Parnell</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:75"
+  },
+  "anchor": {
+    "text": "Parnell",
+    "prefix": "e he had heard that in Buck Whaley’s time there was a secret staircase there? Or was the jesuit house extra-territorial and was he walking among aliens? The Ireland of Tone and of ",
+    "suffix": " seemed to have receded in space.\n\n He opened the door of the theatre and halted in the chilly grey light that struggled through the dusty windows. A figure was crouching before th",
+    "start": 21075,
+    "end": 21082,
+    "canonical_text": "Parnell"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

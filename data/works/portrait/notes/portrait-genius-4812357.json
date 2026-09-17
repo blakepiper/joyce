@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4812357",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Minding cool",
+  "html_source": "<p>Keeping goal, from Irish <em>cúl</em>, a goal.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4812357/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Minding-cool",
+    "original_id": "4812357",
+    "referent_id": 4812357,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "minding cool",
+    "prefix": " a hurling match between the Croke’s Own Boys and the Fearless Thurles and by God, Stevie, that was the hard fight. My first cousin, Fonsy Davin, was stripped to his buff that day ",
+    "suffix": " for the Limericks but he was up with the forwards half the time and shouting like mad. I never will forget that day. One of the Crokes made a woeful wipe at him one time with his ",
+    "start": 15588,
+    "end": 15600,
+    "canonical_text": "minding cool"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4812357,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1356898,
+        "login": "ecbiv",
+        "name": "ecbiv",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

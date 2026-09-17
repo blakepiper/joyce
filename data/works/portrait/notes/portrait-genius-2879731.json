@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2879731",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "IMPLERE OLLAM DENARIORUM",
+  "html_source": "<p>Latin,<br />   <em>To fill the jar with denarii</em></p><p>(<a href=\"http://en.wikipedia.org/wiki/Denarii\" rel=\"noopener nofollow\">Denarii</a> were coins used by Rome)</p><p><img src=\"https://images.rapgenius.com/52d6a8f1d7895b54ad5adf70ad495322.928x464x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2879731/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Implere-ollam-denariorum",
+    "original_id": "2879731",
+    "referent_id": 2879731,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "IMPLERE OLLAM DENARIORUM",
+    "prefix": " and secessions in Roman history were handed on to him in the trite words in tanto discrimine and he had tried to peer into the social life of the city of cities through the words ",
+    "suffix": " which the rector had rendered sonorously as the filling of a pot with denaries. The pages of his timeworn Horace never felt cold to the touch even when his own fingers were cold; ",
+    "start": 10614,
+    "end": 10638,
+    "canonical_text": "implere ollam denariorum"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2879731,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

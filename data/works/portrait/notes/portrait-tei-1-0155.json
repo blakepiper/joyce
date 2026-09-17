@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0155",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Neologism: half- door",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a neologism.</p><blockquote><p>half- door</p></blockquote><p class=\"tei-detail\">TEI type: neologism</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:155"
+  },
+  "anchor": {
+    "text": "half- door",
+    "prefix": "sants. They breathed behind him on his neck and sighed as they prayed. They lived in Clane, a fellow said: there were little cottages there and he had seen a woman standing at the ",
+    "suffix": " of a cottage with a child in her arms, as the cars had come past from Sallins. It would be lovely to sleep for one night in that cottage before the fire of smoking turf, in the da",
+    "start": 20011,
+    "end": 20019,
+    "canonical_text": "halfdoor"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "type": "neologism"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "9C632A"
+}

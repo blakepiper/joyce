@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4941891",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "I will try to learn it, said Stephen",
+  "html_source": "<p>Stephen is clearly being sarcastic. The dean is trying to point out to Stephen that useful things like math, science, history, Latin, basically all the subjects he’s neglecting have a certain ‘art’ to it. By playing on the description of art the dean is trying to get Stephen to connect artistry, or the liberal arts, to the other subjects.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4941891/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/I-will-try-to-learn-it-said-stephen",
+    "original_id": "4941891",
+    "referent_id": 4941891,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "I will try to learn it, said Stephen",
+    "prefix": "said:\n\n —One moment now, Mr Dedalus, and you will see. There is an art in lighting a fire. We have the liberal arts and we have the useful arts. This is one of the useful arts.\n\n —",
+    "suffix": ".\n\n —Not too much coal, said the dean, working briskly at his task, that is one of the secrets.\n\n He produced four candle-butts from the sidepockets of his soutane and placed them ",
+    "start": 21683,
+    "end": 21719,
+    "canonical_text": "I will try to learn it, said Stephen"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4941891,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1424519,
+        "login": "iDreamofJami",
+        "name": "iDreamofJami",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

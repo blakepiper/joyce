@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0352",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Neologism: priestridden",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a neologism.</p><blockquote><p>priestridden</p></blockquote><p class=\"tei-detail\">TEI type: neologism</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:352"
+  },
+  "anchor": {
+    "text": "priestridden",
+    "prefix": "e had taken off his hat when the band played God save the Queen at the end.\n\n Mr Dedalus gave a snort of contempt.\n\n —Ah, John, he said. It is true for them. We are an unfortunate ",
+    "suffix": " race and always were and always will be till the end of the chapter.\n\n Uncle Charles shook his head, saying:\n\n —A bad business! A bad business!\n\n Mr Dedalus repeated:\n\n —A priestr",
+    "start": 54515,
+    "end": 54527,
+    "canonical_text": "priestridden"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "type": "neologism"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "9C632A"
+}

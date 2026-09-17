@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0047",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: Ireland",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Ireland</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:47"
+  },
+  "anchor": {
+    "text": "Ireland",
+    "prefix": "e curfew was still a nightly fear.\n\n Side by side with his memory of the deeds of prowess of his uncle Mat Davin, the athlete, the young peasant worshipped the sorrowful legend of ",
+    "suffix": ". The gossip of his fellow-students which strove to render the flat life of the college significant at any cost loved to think of him as a young fenian. His nurse had taught him Ir",
+    "start": 13421,
+    "end": 13428,
+    "canonical_text": "Ireland"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

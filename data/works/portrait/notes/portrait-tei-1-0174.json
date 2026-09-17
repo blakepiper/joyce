@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0174",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Neologism: pierglass",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a neologism.</p><blockquote><p>pierglass</p></blockquote><p class=\"tei-detail\">TEI type: neologism</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:174"
+  },
+  "anchor": {
+    "text": "pierglass",
+    "prefix": "les were passing, passing. The train went on and on. It knew. There were lanterns in the hall of his father’s house and ropes of green branches. There were holly and ivy round the ",
+    "suffix": " and holly and ivy, green and red, twined round the chandeliers. There were red holly and green ivy round the old portraits on the walls. Holly and ivy for him and for Christmas.\n\n",
+    "start": 24734,
+    "end": 24743,
+    "canonical_text": "pierglass"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "type": "neologism"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "9C632A"
+}

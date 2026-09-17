@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2724442",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "On the desk he read the word FOETUS cut several times in the dark stained wood.",
+  "html_source": "<p>An irregular spelling of <a href=\"http://en.wiktionary.org/wiki/fetus#English\" rel=\"noopener nofollow\">fetus</a>.</p><p>Notice how deeply seeing this word cut here affects Stephen in the remainder of the chapter.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2724442/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2/On-the-desk-he-read-the-word-foetus-cut-several-times-in-the-dark-stained-wood",
+    "original_id": "2724442",
+    "referent_id": 2724442,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2-annotated"
+  },
+  "anchor": {
+    "text": "On the desk he read the word FOETUS cut several times in the dark stained wood.",
+    "prefix": "e desks for his initials. Stephen remained in the background, depressed more than ever by the darkness and silence of the theatre and by the air it wore of jaded and formal study. ",
+    "suffix": " The sudden legend startled his blood: he seemed to feel the absent students of the college about him and to shrink from their company. A vision of their life, which his father’s w",
+    "start": 56798,
+    "end": 56876,
+    "canonical_text": "On the desk he read the word Fœtus cut several times in the dark stained wood."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2724442,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

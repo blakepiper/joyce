@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4812354",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Stripped to his buff",
+  "html_source": "<p>Stripped naked to the waist.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4812354/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Stripped-to-his-buff",
+    "original_id": "4812354",
+    "referent_id": 4812354,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "stripped to his buff",
+    "prefix": "w if you know where that is—at a hurling match between the Croke’s Own Boys and the Fearless Thurles and by God, Stevie, that was the hard fight. My first cousin, Fonsy Davin, was ",
+    "suffix": " that day minding cool for the Limericks but he was up with the forwards half the time and shouting like mad. I never will forget that day. One of the Crokes made a woeful wipe at ",
+    "start": 15558,
+    "end": 15578,
+    "canonical_text": "stripped to his buff"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4812354,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1356898,
+        "login": "ecbiv",
+        "name": "ecbiv",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

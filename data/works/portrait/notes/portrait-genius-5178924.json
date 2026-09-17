@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-5178924",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "What is a tundish",
+  "html_source": "<p>Tundish is the Irish term for a funnel. The inability of the English dean to understand even simple words that an Irish boy like Stephen uses shows the true cultural divide that Stephen experiences in college. This likely plays into his strong distaste for college throughout his time there.</p><p><img src=\"https://images.rapgenius.com/10d24685d8bebe250e7ecb11d232e3b8.500x281x12.gif\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5178924/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/What-is-a-tundish",
+    "original_id": "5178924",
+    "referent_id": 5178924,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "What is a tundish",
+    "prefix": "unnel can hold.\n\n —What funnel? asked Stephen.\n\n —The funnel through which you pour the oil into your lamp.\n\n —That? said Stephen. Is that called a funnel? Is it not a tundish?\n\n —",
+    "suffix": "?\n\n —That. The... the funnel.\n\n —Is that called a tundish in Ireland? asked the dean. I never heard the word in my life.\n\n —It is called a tundish in Lower Drumcondra, said Stephen",
+    "start": 28379,
+    "end": 28396,
+    "canonical_text": "What is a tundish"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5178924,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1508799,
+        "login": "CRG02",
+        "name": "CRG02",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

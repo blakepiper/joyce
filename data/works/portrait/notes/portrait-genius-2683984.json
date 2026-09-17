@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2683984",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Press",
+  "html_source": "<p>From <a href=\"http://www.merriam-webster.com/dictionary/press\" rel=\"noopener nofollow\">Merriam-Webster</a>’s definition 3, a <em>closet, cupboard</em>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2683984/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Press",
+    "original_id": "2683984",
+    "referent_id": 2683984,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "press",
+    "prefix": "y,\nTralala lala,\nTralala lala.\n\n Uncle Charles and Dante clapped. They were older than his father and mother but uncle Charles was older than Dante.\n\n Dante had two brushes in her ",
+    "suffix": ". The brush with the maroon velvet back was for Michael Davitt and the brush with the green velvet back was for Parnell. Dante gave him a cachou every time he brought her a piece o",
+    "start": 1050,
+    "end": 1055,
+    "canonical_text": "press"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 2683984,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 0.7142857142857143
+      },
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.28571428571428575
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0030",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "LA passage: India mittit ebur",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>India mittit ebur</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:30"
+  },
+  "anchor": {
+    "text": "India mittit ebur",
+    "prefix": "is brain, clearer and brighter than any ivory sawn from the mottled tusks of elephants. Ivory, ivoire, avorio, ebur. One of the first examples that he had learnt in Latin had run: ",
+    "suffix": "; and he recalled the shrewd northern face of the rector who had taught him to construe the Metamorphoses of Ovid in a courtly English, made whimsical by the mention of porkers and",
+    "start": 10021,
+    "end": 10038,
+    "canonical_text": "India mittit ebur"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-6704396",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "O, TWINE ME A BOWER or BLUE EYES AND GOLDEN HAIR or THE GROVES OF BLARNEY",
+  "html_source": "<blockquote><p>These songs of ideal love, beauty, and setting are among the first signs of Stephen’s increasing awareness of the blemishes of reality in contrast to the perfections supposed in his innocence. The beauty of the songs can hardly be fully appreciated with Stephen now painfully cognizant of “the reeking outhouse” which provides the incongrous setting for their execution. – Zack R. Bowen, <em>Musical Allusions in the Works of James Joyce</em></p></blockquote><p>For your listening pleasure:</p><p><a href=\"https://www.youtube.com/watch?v=Os1XCOxccI4\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=Os1XCOxccI4</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6704396/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2/O-twine-me-a-bower-or-blue-eyes-and-golden-hair-or-the-groves-of-blarney",
+    "original_id": "6704396",
+    "referent_id": 6704396,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2-annotated"
+  },
+  "anchor": {
+    "text": "O, TWINE ME A BOWER or BLUE EYES AND GOLDEN HAIR or THE GROVES OF BLARNEY",
+    "prefix": "alled the reeking outhouse which he shared with the cat and the garden tools, served him also as a soundingbox: and every morning he hummed contentedly one of his favourite songs: ",
+    "suffix": " while the grey and blue coils of smoke rose slowly from his pipe and vanished in the pure air.\n\n During the first part of the summer in Blackrock uncle Charles was Stephen’s const",
+    "start": 1007,
+    "end": 1080,
+    "canonical_text": "O, twine me a bower or Blue eyes and golden hair or The Groves of Blarney"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 6704396,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1771411,
+        "login": "viviandarkbloom",
+        "name": "viviandarkbloom",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

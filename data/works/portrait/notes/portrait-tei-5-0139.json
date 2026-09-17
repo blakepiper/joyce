@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0139",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: Rotunda",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Rotunda</p></blockquote><p class=\"tei-detail\">Coordinates: 53.353368 -6.262135</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:139"
+  },
+  "anchor": {
+    "text": "Rotunda",
+    "prefix": "? About what? That she will never be out again.\n\n Blake wrote:\n\n I wonder if William Bond will die\nFor assuredly he is very ill.\n\n Alas, poor William!\n\n I was once at a diorama in ",
+    "suffix": ". At the end were pictures of big nobs. Among them William Ewart Gladstone, just then dead. Orchestra played O, Willie, we have missed you.\n\n A race of clodhoppers!\n\n March 25, mor",
+    "start": 139391,
+    "end": 139398,
+    "canonical_text": "Rotunda"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.353368 -6.262135",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

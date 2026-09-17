@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2879492",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "A SYNOPSIS PHILOSOPHIAE SCHOLASTICAE AD MENTEM DIVI THOMAE.",
+  "html_source": "<p>A <em>Synopsis of the Philosophy and Scholastic Opinions of <a href=\"http://en.wikipedia.org/wiki/Thomas_Aquinas\" rel=\"noopener nofollow\">Saint Thomas</a> (Aquinas)</em></p><p><img src=\"https://images.rapgenius.com/c29fb7735b30c61016676eb96e610c7e.387x544x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2879492/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/A-synopsis-philosophiae-scholasticae-ad-mentem-divi-thomae",
+    "original_id": "2879492",
+    "referent_id": 2879492,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "a SYNOPSIS PHILOSOPHIAE SCHOLASTICAE AD MENTEM DIVI THOMAE.",
+    "prefix": " believed to pass his days brooding upon so that it had rapt him from the companionship of youth was only a garner of slender sentences from Aristotle’s poetics and psychology and ",
+    "suffix": " His thinking was a dusk of doubt and selfmistrust, lit up at moments by the lightnings of intuition, but lightnings of so clear a splendour that in those moments the world perishe",
+    "start": 5019,
+    "end": 5075,
+    "canonical_text": "a Synopsis Philosophiæ Scholasticæ ad mentem divi Thomæ."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2879492,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

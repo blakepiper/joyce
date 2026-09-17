@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2658351",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "All day he had thought of nothing but their leave-taking on the steps of the tram at Harold’s Cross, the stream of moody emotions it had made to course through him and the poem he had written about it. All day he had imagined a new meeting with her for he knew that she was to come to the play.",
+  "html_source": "<p>Stephen, now older, is remembering the earlier incident after the party where he and “E.C.” rode in the tram together and the thoughts it brought about for him.</p><p>He also imagines if “she was to come to the play.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2658351/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2/All-day-he-had-thought-of-nothing-but-their-leave-taking-on-the-steps-of-the-tram-at-harolds-cross-the-stream-of-moody-emotions-it-had-made-to-course-through-him-and-the-poem-he-had-written-about-it-all-day-he-had-imagined-a-new-meeting-with-her-for-he-knew-that-she-was-to-come-to-the-play",
+    "original_id": "2658351",
+    "referent_id": 2658351,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2-annotated"
+  },
+  "anchor": {
+    "text": "All day he had thought of nothing but their leave-taking on the steps of the tram at Harold's Cross, the stream of moody emotions it had made to course through him and the poem he had written about it. All day he had imagined a new meeting with her for he knew that she was to come to the play.",
+    "prefix": "shaft of momentary anger flew through Stephen’s mind at these indelicate allusions in the hearing of a stranger. For him there was nothing amusing in a girl’s interest and regard. ",
+    "suffix": " The old restless moodiness had again filled his breast as it had done on the night of the party, but had not found an outlet in verse. The growth and knowledge of two years of boy",
+    "start": 33968,
+    "end": 34261,
+    "canonical_text": "All day he had thought of nothing but their leavetaking on the steps of the tram at Harold’s Cross, the stream of moody emotions it had made to course through him and the poem he had written about it. All day he had imagined a new meeting with her for he knew that she was to come to the play."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2658351,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0001",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Quotation: Et ignotas animum dimittit in artes.",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a quotation.</p><blockquote><p>Et ignotas animum dimittit in artes.</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:1"
+  },
+  "anchor": {
+    "text": "Et ignotas animum dimittit in artes.",
+    "prefix": "“",
+    "suffix": "”\nOvid, Metamorphoses, VIII., 188.\n\n Chapter I\n\n Once upon a time and a very good time it was there was a moocow coming down along the road and this moocow that was coming down alo",
+    "start": 1,
+    "end": 37,
+    "canonical_text": "Et ignotas animum dimittit in artes."
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "quote",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

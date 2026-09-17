@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-3316871",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "The sun, the great luminary of the universe, had become as sackcloth of hair. The moon was blood-red.",
+  "html_source": "<p>Reference <a href=\"http://biblehub.com/revelation/6-12.htm\" rel=\"noopener nofollow\">Revelation 6:12</a></p><blockquote><p>and the sun became black as sackcloth made of hair, and the whole moon became like blood\"</p></blockquote>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3316871/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3/The-sun-the-great-luminary-of-the-universe-had-become-as-sackcloth-of-hair-the-moon-was-blood-red",
+    "original_id": "3316871",
+    "referent_id": 3316871,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3-annotated"
+  },
+  "anchor": {
+    "text": "The sun, the great luminary of the universe, had become as sackcloth of hair. The moon was blood-red.",
+    "prefix": "ed the general judgement. The last day had come. Doomsday was at hand. The stars of heaven were falling upon the earth like the figs cast by the figtree which the wind has shaken. ",
+    "suffix": " The firmament was as a scroll rolled away. The archangel Michael, the prince of the heavenly host, appeared glorious and terrible against the sky. With one foot on the sea and one",
+    "start": 23118,
+    "end": 23218,
+    "canonical_text": "The sun, the great luminary of the universe, had become as sackcloth of hair. The moon was bloodred."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 3316871,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 972621,
+        "login": "LucaMaletta",
+        "name": "LucaMaletta",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

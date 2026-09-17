@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0121",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Place: The Universe",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>The Universe</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:121"
+  },
+  "anchor": {
+    "text": "The Universe",
+    "prefix": " and read what he had written there: himself, his name and where he was.\n\n Stephen Dedalus\nClass of Elements\nClongowes Wood College\nSallins\nCounty Kildare\nIreland\nEurope\nThe World\n",
+    "suffix": "\n\n That was in his writing: and Fleming one night for a cod had written on the opposite page:\n\n Stephen Dedalus is my name,\nIreland is my nation.\nClongowes is my dwellingplace\nAnd ",
+    "start": 15662,
+    "end": 15674,
+    "canonical_text": "The Universe"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0031",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Cecil Thunder",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Cecil Thunder</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:31"
+  },
+  "anchor": {
+    "text": "Cecil Thunder",
+    "prefix": "t. And belt was also to give a fellow a belt. One day a fellow said to Cantwell:\n\n —I’d give you such a belt in a second.\n\n Cantwell had answered:\n\n —Go and fight your match. Give ",
+    "suffix": " a belt. I’d like to see you. He’d give you a toe in the rump for yourself.\n\n That was not a nice expression. His mother had told him not to speak with the rough boys in the colleg",
+    "start": 3233,
+    "end": 3246,
+    "canonical_text": "Cecil Thunder"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

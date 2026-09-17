@@ -1,0 +1,70 @@
+{
+  "id": "portrait-genius-2646286",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Once upon a time and a very good time it was there was a moocow",
+  "html_source": "<p>The story opens with <a href=\"http://en.wikipedia.org/wiki/Stephen_Dedalus\" rel=\"noopener nofollow\">Stephen Dedalus</a> as a young child being told a story by his father. Since the text focuses on Stephen, Joyce presents the reader not only with what Stephen can remember, but also how he remembers it. The narrative voice mimics the childish perception: it is written as <a href=\"https://genius.com/2895722\" rel=\"noopener nofollow\">free indirect discourse</a>.</p><p>As the novel progresses, such syntax and vocabulary dissipates with Stephen’s growth.</p><p><img src=\"https://images.rapgenius.com/ea73719bce8ed65da8fda6af202614bb.358x251x3.gif\" alt=\"\" /></p><p><strong>Fun fact:</strong> According to <a href=\"http://www.urbandictionary.com/define.php?term=moocow\" rel=\"noopener nofollow\">Urban Dictionary</a>, moocows are different from regular cows.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2646286/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Once-upon-a-time-and-a-very-good-time-it-was-there-was-a-moocow",
+    "original_id": "2646286",
+    "referent_id": 2646286,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Once upon a time and a very good time it was there was a moocow",
+    "prefix": "“Et ignotas animum dimittit in artes.”\nOvid, Metamorphoses, VIII., 188.\n\n Chapter I\n\n ",
+    "suffix": " coming down along the road and this moocow that was coming down along the road met a nicens little boy named baby tuckoo....\n\n His father told him that story: his father looked at",
+    "start": 86,
+    "end": 149,
+    "canonical_text": "Once upon a time and a very good time it was there was a moocow"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2646286,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1774786,
+        "login": "dropstring",
+        "name": "dropstring",
+        "role": "contributor",
+        "attribution": 0.39814814814814814
+      },
+      {
+        "id": 293151,
+        "login": "jeeho",
+        "name": "Jeeho",
+        "role": "contributor",
+        "attribution": 0.2777777777777778
+      },
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 0.2037037037037037
+      },
+      {
+        "id": 12128,
+        "login": "dalmo",
+        "name": "Dalmo Mendonça",
+        "role": "editor",
+        "attribution": 0.1111111111111111
+      },
+      {
+        "id": 149810,
+        "login": "perfectrhyme",
+        "name": "Perfectrhyme",
+        "role": "editor",
+        "attribution": 0.009259259259259259
+      }
+    ]
+  },
+  "color": "F59627"
+}

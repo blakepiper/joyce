@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4803974",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Firbolg in the borrowed cloak of a Milesian;",
+  "html_source": "<p>Firbolgs were the primitive inhabitants of Ireland. Milesians were later, more cultivated, invaders.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4803974/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Firbolg-in-the-borrowed-cloak-of-a-milesian",
+    "original_id": "4803974",
+    "referent_id": 4803974,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "Firbolg in the borrowed cloak of a Milesian;",
+    "prefix": "the soul crept over it like unseen vermin, over the shuffling feet and up the folds of the cloak and around the servile head, it seemed humbly conscious of its indignity. It was a ",
+    "suffix": " and he thought of his friend Davin, the peasant student. It was a jesting name between them, but the young peasant bore with it lightly:\n\n —Go on, Stevie, I have a hard head, you ",
+    "start": 12053,
+    "end": 12097,
+    "canonical_text": "Firbolg in the borrowed cloak of a Milesian;"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4803974,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1356898,
+        "login": "ecbiv",
+        "name": "ecbiv",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

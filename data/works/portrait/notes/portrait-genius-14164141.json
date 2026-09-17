@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-14164141",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Pierglass",
+  "html_source": "<p>A pier glass or trumeau mirror is a mirror which is placed on a pier, i.e. a wall between two windows.</p><p><img src=\"https://images.genius.com/960b089bf47cce5d860f152219a709e8.1000x744x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/14164141/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Pierglass",
+    "original_id": "14164141",
+    "referent_id": 14164141,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "pierglass",
+    "prefix": "les were passing, passing. The train went on and on. It knew. There were lanterns in the hall of his father’s house and ropes of green branches. There were holly and ivy round the ",
+    "suffix": " and holly and ivy, green and red, twined round the chandeliers. There were red holly and green ivy round the old portraits on the walls. Holly and ivy for him and for Christmas.\n\n",
+    "start": 24734,
+    "end": 24743,
+    "canonical_text": "pierglass"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 14164141,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 6144889,
+        "login": "IvanMitin",
+        "name": "IvanMitin",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

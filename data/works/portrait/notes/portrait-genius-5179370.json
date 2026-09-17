@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-5179370",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Surplices",
+  "html_source": "<p>Loose white linen vestments worn by clergy at Christian church services.</p><p><img src=\"https://images.rapgenius.com/5cfe642d28b0125549160796f649cebc.471x525x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5179370/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Surplices",
+    "original_id": "5179370",
+    "referent_id": 5179370,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "surplices",
+    "prefix": "istening. A faint sickness of awe made him feel weak. How could they have done that? He thought of the dark silent sacristy. There were dark wooden presses there where the crimped ",
+    "suffix": " lay quietly folded. It was not the chapel but still you had to speak under your breath. It was a holy place. He remembered the summer evening he had been there to be dressed as bo",
+    "start": 59595,
+    "end": 59604,
+    "canonical_text": "surplices"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5179370,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1644926,
+        "login": "ooggggg",
+        "name": "ooggggg",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

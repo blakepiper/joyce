@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0329",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Simon",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Simon</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:329"
+  },
+  "anchor": {
+    "text": "Simon",
+    "prefix": "ooking. The fellow turned to Simon Moonan and said:\n\n —We all know why you speak. You are McGlade’s suck.\n\n Suck was a queer word. The fellow called Simon Moonan that name because ",
+    "suffix": " Moonan used to tie the prefect’s false sleeves behind his back and the prefect used to let on to be angry. But the sound was ugly. Once he had washed his hands in the lavatory of ",
+    "start": 7287,
+    "end": 7292,
+    "canonical_text": "Simon"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

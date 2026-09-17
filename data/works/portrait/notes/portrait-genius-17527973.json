@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-17527973",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Coursing matches",
+  "html_source": "<p>hunting dogs</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/17527973/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Coursing-matches",
+    "original_id": "17527973",
+    "referent_id": 17527973,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "coursing matches",
+    "prefix": " moment of thoughtlessness, his father was sixtyone when he was born. Can see him. Strong farmer type. Pepper and salt suit. Square feet. Unkempt, grizzled beard. Probably attends ",
+    "suffix": ". Pays his dues regularly but not plentifully to Father Dwyer of Larras. Sometimes talks to girls after nightfall. But his mother? Very young or very old? Hardly the first. If so, ",
+    "start": 136417,
+    "end": 136433,
+    "canonical_text": "coursing matches"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 17527973,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 8753690,
+        "login": "FBA-ML",
+        "name": "FBA-ML",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

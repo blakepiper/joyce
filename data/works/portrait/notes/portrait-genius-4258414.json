@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4258414",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "To triumph, to recreate life out of life!",
+  "html_source": "<p>The main character or the artists has through power of conscious alone to transform the outside world. That is why there has been continued use of an objectified third person’s account of Stephen’s growth up to the point of epiphany.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4258414/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/To-triumph-to-recreate-life-out-of-life",
+    "original_id": "4258414",
+    "referent_id": 4258414,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "to triumph, to recreate life out of life!",
+    "prefix": "ge had passed into his soul for ever and no word had broken the holy silence of his ecstasy. Her eyes had called him and his soul had leaped at the call. To live, to err, to fall, ",
+    "suffix": " A wild angel had appeared to him, the angel of mortal youth and beauty, an envoy from the fair courts of life, to throw open before him in an instant of ecstasy the gates of all t",
+    "start": 50760,
+    "end": 50801,
+    "canonical_text": "to triumph, to recreate life out of life!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4258414,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1253780,
+        "login": "Leopold-Bloom",
+        "name": "Leopold-Bloom",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

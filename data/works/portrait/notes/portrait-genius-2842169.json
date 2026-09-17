@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2842169",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "—Becauseboro theboro landboro lordboro willboro putboro usboro outboro",
+  "html_source": "<p>Same as <a href=\"http://poetry.genius.com/2841700\" rel=\"noopener nofollow\">above</a>,<br /><em>—Because the land lord will put us out.</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2842169/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Becauseboro-theboro-landboro-lordboro-willboro-putboro-usboro-outboro",
+    "original_id": "2842169",
+    "referent_id": 2842169,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "—Becauseboro theboro landboro lordboro willboro putboro usboro outboro",
+    "prefix": "o often. A frown of scorn darkened quickly his forehead as he heard again the silly laugh of the questioner.\n\n He asked:\n\n —Why are we on the move again if it’s a fair question?\n\n ",
+    "suffix": ".\n\n The voice of his youngest brother from the farther side of the fireplace began to sing the air Oft in the Stilly Night. One by one the others took up the air until a full choir",
+    "start": 34024,
+    "end": 34094,
+    "canonical_text": "—Becauseboro theboro landboro lordboro willboro putboro usboro outboro"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2842169,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0045",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Person: Michael Cusack",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Michael Cusack</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:45"
+  },
+  "anchor": {
+    "text": "Michael Cusack",
+    "prefix": ", drawing it by a quiet inbred courtesy of attention or by a quaint turn of old English speech or by the force of its delight in rude bodily skill—for Davin had sat at the feet of ",
+    "suffix": ", the Gael—repelling swiftly and suddenly by a grossness of intelligence or by a bluntness of feeling or by a dull stare of terror in the eyes, the terror of soul of a starving Iri",
+    "start": 13025,
+    "end": 13039,
+    "canonical_text": "Michael Cusack"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

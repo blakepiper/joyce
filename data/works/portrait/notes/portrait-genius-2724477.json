@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2724477",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "TEMPORA MUTANTUR ET NOS MUTAMUR IN ILLIS.",
+  "html_source": "<p>Via <a href=\"http://translate.google.com/#la/en/TEMPORA%20MUTANTUR%20ET%20NOS%20MUTAMUR%20IN%20ILLIS.%0A%0ATEMPORA%20MUTANTUR%20NOS%20ET%20MUTAMUR%20IN%20ILLIS\" rel=\"noopener nofollow\">Google Translate</a>, this is</p><blockquote><p>Change, and we change with them.</p></blockquote>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2724477/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2/Tempora-mutantur-et-nos-mutamur-in-illis",
+    "original_id": "2724477",
+    "referent_id": 2724477,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2-annotated"
+  },
+  "anchor": {
+    "text": "TEMPORA MUTANTUR ET NOS MUTAMUR IN ILLIS.",
+    "prefix": "n order to put his Latin to the proof, had made him translate short passages from Dilectus and asked him whether it was correct to say: Tempora mutantur nos et mutamur in illis or ",
+    "suffix": " Another, a brisk old man, whom Mr Dedalus called Johnny Cashman, had covered him with confusion by asking him to say which were prettier, the Dublin girls or the Cork girls.\n\n —He",
+    "start": 65747,
+    "end": 65788,
+    "canonical_text": "Tempora mutantur et nos mutamur in illis."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2724477,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

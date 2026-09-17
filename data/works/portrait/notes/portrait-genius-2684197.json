@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2684197",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Change the number pasted up inside his desk from seventy-seven to seventy-six",
+  "html_source": "<p>Joyce started <a href=\"http://en.wikipedia.org/wiki/Clongowes_Wood_College\" rel=\"noopener nofollow\">Clongowes</a> on 1 Sept 1888. Christmas holidays would start on 20 December, so this suggests the date is Thursday 4 Oct 1888. –     (<a href=\"http://www.timeanddate.com/calendar/?year=1888&amp;country=9\" rel=\"noopener nofollow\">http://www.timeanddate.com/calendar/?year=1888&amp;country=9</a>)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2684197/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Change-the-number-pasted-up-inside-his-desk-from-seventy-seven-to-seventy-six",
+    "original_id": "2684197",
+    "referent_id": 2684197,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "change the number pasted up inside his desk from seventy-seven to seventy-six",
+    "prefix": " legs ran after. He ran after them a little way and then stopped. It was useless to run on. Soon they would be going home for the holidays. After supper in the study hall he would ",
+    "suffix": ".\n\n It would be better to be in the study hall than out there in the cold. The sky was pale and cold but there were lights in the castle. He wondered from which window Hamilton Row",
+    "start": 4697,
+    "end": 4772,
+    "canonical_text": "change the number pasted up inside his desk from seventyseven to seventysix"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2684197,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.9814814814814815
+      },
+      {
+        "id": 212428,
+        "login": "ciaranaustin",
+        "name": "Ciaran Austin",
+        "role": "contributor",
+        "attribution": 0.018518518518518517
+      }
+    ]
+  },
+  "color": "F59627"
+}

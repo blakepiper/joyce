@@ -1,0 +1,44 @@
+[
+  {
+    "source_id": "portrait-genius-2698890",
+    "referent": "A Portrait of the Artist as a Young Man",
+    "best_candidate": "the portrait of his grandfather on",
+    "score": 0.5205,
+    "reason": "fuzzy score below acceptance policy"
+  },
+  {
+    "source_id": "portrait-tei-1-0336",
+    "referent": "Matthew 18.7",
+    "best_candidate": "",
+    "score": 0.0,
+    "reason": "no candidate in chapter"
+  },
+  {
+    "source_id": "portrait-tei-1-0339",
+    "referent": "Luke 17.1-2",
+    "best_candidate": "",
+    "score": 0.0,
+    "reason": "no candidate in chapter"
+  },
+  {
+    "source_id": "portrait-tei-1-0356",
+    "referent": "Zacharia 2:8",
+    "best_candidate": "",
+    "score": 0.0,
+    "reason": "no candidate in chapter"
+  },
+  {
+    "source_id": "portrait-genius-6323407",
+    "referent": "That. The... funnel",
+    "best_candidate": "That. The... the funnel.",
+    "score": 0.8837,
+    "reason": "fuzzy score below acceptance policy"
+  },
+  {
+    "source_id": "portrait-tei-5-0006",
+    "referent": "Maggie",
+    "best_candidate": "image",
+    "score": 0.7273,
+    "reason": "fuzzy score below acceptance policy"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0337",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Mrs Riordan",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Mrs Riordan</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:337"
+  },
+  "anchor": {
+    "text": "Mrs Riordan",
+    "prefix": " no longer worthy to lead, said Dante. He was a public sinner.\n\n —We are all sinners and black sinners, said Mr Casey coldly.\n\n —Woe be to the man by whom the scandal cometh! said ",
+    "suffix": ". It would be better for him that a millstone were tied about his neck and that he were cast into the depths of the sea rather than that he should scandalise one of these, my least",
+    "start": 44980,
+    "end": 44991,
+    "canonical_text": "Mrs Riordan"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

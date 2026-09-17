@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0350",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Place: Dublin",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Dublin</p></blockquote><p class=\"tei-detail\">Coordinates: 53.349805 -6.260310</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:350"
+  },
+  "anchor": {
+    "text": "Dublin",
+    "prefix": " had come to the house and had stood in the hall, talking in a low voice with his father and chewing nervously at the chinstrap of his cap. And that night Mr Casey had not gone to ",
+    "suffix": " by train but a car had come to the door and he had heard his father say something about the Cabinteely road.\n\n He was for Ireland and Parnell and so was his father: and so was Dan",
+    "start": 54036,
+    "end": 54042,
+    "canonical_text": "Dublin"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.349805 -6.260310",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4803874",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Nominal definitions, essential definitions and examples or dates of birth or death, chief works, a favourable and an unfavourable criticism side by side",
+  "html_source": "<p>A distinction Aristotle makes in his Posterior Analytics, nominal referring to descriptions of effect and essential to analysis of cause.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4803874/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Nominal-definitions-essential-definitions-and-examples-or-dates-of-birth-or-death-chief-works-a-favourable-and-an-unfavourable-criticism-side-by-side",
+    "original_id": "4803874",
+    "referent_id": 4803874,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "nominal definitions, essential definitions and examples or dates of birth or death, chief works, a favourable and an unfavourable criticism side by side",
+    "prefix": "ecture and felt, even at that distance, restless and helpless. He saw the heads of his classmates meekly bent as they wrote in their notebooks the points they were bidden to note, ",
+    "suffix": ". His own head was unbent for his thoughts wandered abroad and whether he looked around the little class of students or out of the window across the desolate gardens of the green a",
+    "start": 7172,
+    "end": 7324,
+    "canonical_text": "nominal definitions, essential definitions and examples or dates of birth or death, chief works, a favourable and an unfavourable criticism side by side"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4803874,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1356898,
+        "login": "ecbiv",
+        "name": "ecbiv",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

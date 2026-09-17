@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4847146",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "PERNOBILIS ET PERVETUSTA FAMILIA",
+  "html_source": "<p>“Of a noble and venerable family”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4847146/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Pernobilis-et-pervetusta-familia",
+    "original_id": "4847146",
+    "referent_id": 4847146,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "PERNOBILIS ET PERVETUSTA FAMILIA",
+    "prefix": "s says about your family?\n\n —Is he descended from Baldwin too? asked a tall consumptive student with dark eyes.\n\n —Baldhead, Cranly repeated, sucking at a crevice in his teeth.\n\n —",
+    "suffix": ", Temple said to Stephen.\n\n The stout student who stood below them on the steps farted briefly. Dixon turned towards him, saying in a soft voice:\n\n —Did an angel speak?\n\n Cranly tu",
+    "start": 104886,
+    "end": 104918,
+    "canonical_text": "Pernobilis et pervetusta familia"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4847146,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1497331,
+        "login": "SalmaIraqui",
+        "name": "SalmaIraqui",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

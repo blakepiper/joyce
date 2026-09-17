@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0032",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Neologism: fiveshilling",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a neologism.</p><blockquote><p>fiveshilling</p></blockquote><p class=\"tei-detail\">TEI type: neologism</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:32"
+  },
+  "anchor": {
+    "text": "fiveshilling",
+    "prefix": "r nose and eyes were red. But he had pretended not to see that she was going to cry. She was a nice mother but she was not so nice when she cried. And his father had given him two ",
+    "suffix": " pieces for pocket money. And his father had told him if he wanted anything to write home to him and, whatever he did, never to peach on a fellow. Then at the door of the castle th",
+    "start": 3750,
+    "end": 3763,
+    "canonical_text": "five-shilling"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "type": "neologism"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "9C632A"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0348",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Place: Paris",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Paris</p></blockquote><p class=\"tei-detail\">Coordinates: 48.856614 2.352222</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:348"
+  },
+  "anchor": {
+    "text": "Paris",
+    "prefix": "dy, and a drunken old harridan she was surely, that paid all her attention to me. She kept dancing along beside me in the mud bawling and screaming into my face: Priesthunter! The ",
+    "suffix": " Funds! Mr Fox! Kitty O’Shea!\n\n —And what did you do, John? asked Mr Dedalus.\n\n —I let her bawl away, said Mr Casey. It was a cold day and to keep up my heart I had (saving your pr",
+    "start": 52182,
+    "end": 52187,
+    "canonical_text": "Paris"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "48.856614 2.352222",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

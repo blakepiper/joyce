@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2685547",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Hamilton Rowan",
+  "html_source": "<p>“In 1794 the patriot Hamilton Rowan, convicted of sedition, escaped by the ruse of throwing down his hat and thus fooling his pursuers while he hid in the tower of the restored castle.” – (<a href=\"http://digicoll.library.wisc.edu/cgi-bin/JoyceColl/JoyceColl-idx?type=div&amp;did=JOYCECOLL.SCHOLESWORKSHOP.I0019&amp;isize=text\" rel=\"noopener nofollow\">http://digicoll.library.wisc.edu/cgi-bin/JoyceColl/JoyceColl-idx?type=div&amp;did=JOYCECOLL.SCHOLESWORKSHOP.I0019&amp;isize=text</a>)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2685547/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Hamilton-rowan",
+    "original_id": "2685547",
+    "referent_id": 2685547,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Hamilton Rowan",
+    "prefix": "o seventysix.\n\n It would be better to be in the study hall than out there in the cold. The sky was pale and cold but there were lights in the castle. He wondered from which window ",
+    "suffix": " had thrown his hat on the haha and had there been flowerbeds at that time under the windows. One day when he had been called to the castle the butler had shown him the marks of th",
+    "start": 4940,
+    "end": 4954,
+    "canonical_text": "Hamilton Rowan"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 2685547,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

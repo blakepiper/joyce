@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-6316406",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "The red rose wins",
+  "html_source": "<p>This is a reference to the war of the roses, between the houses of Lancaster and York.</p><p><img src=\"https://images.rapgenius.com/8fbc7e52cefbf5e579a9bba6af012f0f.450x225x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6316406/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/The-red-rose-wins",
+    "original_id": "6316406",
+    "referent_id": 6316406,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "The red rose wins",
+    "prefix": "face looked very black but he was not in a wax: he was laughing. Then Jack Lawton cracked his fingers and Father Arnall looked at his copybook and said:\n\n —Right. Bravo Lancaster! ",
+    "suffix": ". Come on now, York! Forge ahead!\n\n Jack Lawton looked over from his side. The little silk badge with the red rose on it looked very rich because he had a blue sailor top on. Steph",
+    "start": 8837,
+    "end": 8854,
+    "canonical_text": "The red rose wins"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6316406,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1509340,
+        "login": "abbyburridge",
+        "name": "abbyburridge",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

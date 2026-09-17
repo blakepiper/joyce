@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-3930786",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "That night at Dalkey the train had roared like that and then, when it went into the tunnel, the roar stopped.",
+  "html_source": "<p>Actually in reality this is exactly opposite: the noise of the running train immensely increases when it gets INTO the tunnel (sort of effect of being in a closed drum or pot is created) and decreases when it gets OUT OF it into an open area. ;-)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3930786/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/That-night-at-dalkey-the-train-had-roared-like-that-and-then-when-it-went-into-the-tunnel-the-roar-stopped",
+    "original_id": "3930786",
+    "referent_id": 3930786,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "That night at Dalkey the train had roared like that and then, when it went into the tunnel, the roar stopped.",
+    "prefix": "he refectory every time he opened the flaps of his ears. It made a roar like a train at night. And when he closed the flaps the roar was shut off like a train going into a tunnel. ",
+    "suffix": " He closed his eyes and the train went on, roaring and then stopping; roaring again, stopping. It was nice to hear it roar and stop and then roar out of the tunnel again and then s",
+    "start": 11605,
+    "end": 11714,
+    "canonical_text": "That night at Dalkey the train had roared like that and then, when it went into the tunnel, the roar stopped."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3930786,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1128100,
+        "login": "szaroczek",
+        "name": "szaroczek",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

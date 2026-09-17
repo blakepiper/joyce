@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0301",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Stephen",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Stephen</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:301"
+  },
+  "anchor": {
+    "text": "Stephen",
+    "prefix": "h when he’s speaking to you, don’t you know. He’s very moist and watery about the dewlaps, God bless him.\n\n Mr Casey was still struggling through his fit of coughing and laughter. ",
+    "suffix": ", seeing and hearing the hotel keeper through his father’s face and voice, laughed.\n\n Mr Dedalus put up his eyeglass and, staring down at him, said quietly and kindly:\n\n —What are ",
+    "start": 39592,
+    "end": 39599,
+    "canonical_text": "Stephen"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0064",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Person: Davin",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Davin</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:64"
+  },
+  "anchor": {
+    "text": "Davin",
+    "prefix": "ds it and flung it back again, drawing it by a quiet inbred courtesy of attention or by a quaint turn of old English speech or by the force of its delight in rude bodily skill—for ",
+    "suffix": " had sat at the feet of Michael Cusack, the Gael—repelling swiftly and suddenly by a grossness of intelligence or by a bluntness of feeling or by a dull stare of terror in the eyes",
+    "start": 12996,
+    "end": 13001,
+    "canonical_text": "Davin"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

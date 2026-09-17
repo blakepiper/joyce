@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0238",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Place: Holland",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Holland</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:238"
+  },
+  "anchor": {
+    "text": "Holland",
+    "prefix": " drink when you were in the infirmary. But he felt better now than before. It would be nice getting better slowly. You could get a book then. There was a book in the library about ",
+    "suffix": ". There were lovely foreign names in it and pictures of strangelooking cities and ships. It made you feel so happy.\n\n How pale the light was at the window! But that was nice. The f",
+    "start": 35197,
+    "end": 35204,
+    "canonical_text": "Holland"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

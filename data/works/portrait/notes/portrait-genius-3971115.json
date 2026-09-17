@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-3971115",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "LES JUPES, they call them in Belgium",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/2fd6e1493c6fda7675c119f063fe8d17.350x295x1.jpg\" alt=\"\" /></p><p>“Les Jupes” means <em>the skirts</em> in french, and in Belgium, French is one of the two primary languages. (the other being Dutch)</p><p>The director appears to be quite offended by the idea of a skirt (“this thing up about their knees”), especially while cycling. Maybe he’s just sensitive about that kind of thing…</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3971115/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Les-jupes-they-call-them-in-belgium",
+    "original_id": "3971115",
+    "referent_id": 3971115,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "LES JUPES, they call them in Belgium",
+    "prefix": " course it is, of course. Just imagine when I was in Belgium I used to see them out cycling in all kinds of weather with this thing up about their knees! It was really ridiculous. ",
+    "suffix": ".\n\n The vowel was so modified as to be indistinct.\n\n —What do they call them?\n\n —Les jupes.\n\n —O!\n\n Stephen smiled again in answer to the smile which he could not see on the priest",
+    "start": 16600,
+    "end": 16636,
+    "canonical_text": "Les jupes, they call them in Belgium"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 3971115,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4257876",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Paraclete",
+  "html_source": "<p>The Holy Ghost</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4257876/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Paraclete",
+    "original_id": "4257876",
+    "referent_id": 4257876,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "Paraclete",
+    "prefix": " enlightened by the Third Person of the Most Blessed Trinity. He believed this all the more, and with trepidation, because of the divine gloom and silence wherein dwelt the unseen ",
+    "suffix": ", Whose symbols were a dove and a mighty wind, to sin against Whom was a sin beyond forgiveness, the eternal mysterious secret Being to Whom, as God, the priests offered up mass on",
+    "start": 3758,
+    "end": 3767,
+    "canonical_text": "Paraclete"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4257876,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1253623,
+        "login": "RollsJoyce",
+        "name": "RollsJoyce",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

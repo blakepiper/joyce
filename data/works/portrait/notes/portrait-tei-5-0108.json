@@ -1,0 +1,33 @@
+{
+  "id": "portrait-tei-5-0108",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Song: Impleta sunt quae concinit David fideli carmine Dicendo nationibus Re…",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a song.</p><blockquote><p>Impleta sunt quae concinit David fideli carmine Dicendo nationibus Regnavit a ligno Deus.</p></blockquote><p class=\"tei-detail\">Language: la · TEI type: song</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:108"
+  },
+  "anchor": {
+    "text": "Impleta sunt quae concinit David fideli carmine Dicendo nationibus Regnavit a ligno Deus.",
+    "prefix": "n that can be put beside that mournful and majestic processional song, the Vexilla Regis of Venantius Fortunatus.\n\n Lynch began to sing softly and solemnly in a deep bass voice:\n\n ",
+    "suffix": "\n\n —That’s great! he said, well pleased. Great music!\n\n They turned into Lower Mount Street. A few steps from the corner a fat young man, wearing a silk neckcloth, saluted them and",
+    "start": 67790,
+    "end": 67878,
+    "canonical_text": "Inpleta sunt quæ concinit\nDavid fideli carmine\nDicendo nationibus\nRegnavit a ligno Deus."
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "lg",
+    "attributes": {
+      "type": "song",
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9888
+  },
+  "color": "CF2929"
+}

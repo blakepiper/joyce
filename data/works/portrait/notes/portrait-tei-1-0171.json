@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0171",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Neologism: halfdoors",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a neologism.</p><blockquote><p>halfdoors</p></blockquote><p class=\"tei-detail\">TEI type: neologism</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:171"
+  },
+  "anchor": {
+    "text": "halfdoors",
+    "prefix": ". The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after cheer after cheer. Through Clane they drove, cheering and cheered. The peasant women stood at the ",
+    "suffix": ", the men stood here and there. The lovely smell there was in the wintry air: the smell of Clane: rain and wintry air and turf smouldering and corduroy.\n\n The train was full of fel",
+    "start": 24019,
+    "end": 24028,
+    "canonical_text": "halfdoors"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "type": "neologism"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "9C632A"
+}

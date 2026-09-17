@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-6322521",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "Vestry",
+  "html_source": "<p>A vestry is a room in a church where sacred items such as communion vessels or collection plates are, vestments are kept, meetings are held, and official records are stored.</p><p><img src=\"https://images.rapgenius.com/a19345d2762fd7bdbbd952b1bff7c424.352x265x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6322521/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2/Vestry",
+    "original_id": "6322521",
+    "referent_id": 6322521,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2-annotated"
+  },
+  "anchor": {
+    "text": "vestry",
+    "prefix": " was now at the end of his second year at Belvedere and in number two.\n\n A score of the younger boys in white knickers and singlets came pattering down from the stage, through the ",
+    "suffix": " and into the chapel. The vestry and chapel were peopled with eager masters and boys. The plump bald sergeant major was testing with his foot the springboard of the vaulting horse.",
+    "start": 26990,
+    "end": 26996,
+    "canonical_text": "vestry"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 6322521,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1507433,
+        "login": "vtomic",
+        "name": "vtomic",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

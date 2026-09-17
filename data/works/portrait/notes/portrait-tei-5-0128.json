@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0128",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "LA passage: paulo post futurum",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>paulo post futurum</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:128"
+  },
+  "anchor": {
+    "text": "paulo post futurum",
+    "prefix": "now.\n\n —I had it on my mind to say that, Goggins answered firmly. It did no one any harm, did it?\n\n —We hope, Dixon said suavely, that it was not of the kind known to science as a ",
+    "suffix": ".\n\n —Didn’t I tell you he was a smiler? said Temple, turning right and left. Didn’t I give him that name?\n\n —You did. We’re not deaf, said the tall consumptive.\n\n Cranly still frow",
+    "start": 105393,
+    "end": 105411,
+    "canonical_text": "paulo post futurum"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

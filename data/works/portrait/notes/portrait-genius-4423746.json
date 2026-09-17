@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-4423746",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Rounders",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Rounders\" rel=\"noopener nofollow\">Ronders</a> is a game similar to baseball, often played by schoolchildren in the UK and Ireland.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4423746/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Rounders",
+    "original_id": "4423746",
+    "referent_id": 4423746,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "rounders",
+    "prefix": "s no play on the football grounds for cricket was coming: and some said that Barnes would be prof and some said it would be Flowers. And all over the playgrounds they were playing ",
+    "suffix": " and bowling twisters and lobs. And from here and from there came the sounds of the cricket bats through the soft grey air. They said: pick, pack, pock, puck: little drops of water",
+    "start": 61064,
+    "end": 61072,
+    "canonical_text": "rounders"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4423746,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.6875
+      },
+      {
+        "id": 1293868,
+        "login": "PhiliCheeseSteakJackson",
+        "name": "PhiliCheeseSteakJackson",
+        "role": null,
+        "attribution": 0.3125
+      }
+    ]
+  },
+  "color": "F59627"
+}

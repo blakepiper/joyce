@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2647473",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Stephen tried to laugh with them. He felt his whole body hot and confused in a moment. What was the right answer to the question? He had given two and still Wells laughed. But Wells must know the right answer for he was in third of grammar.",
+  "html_source": "<p>Stephen is young enough that he believes that Wells might not be laughing to harass, and that he (Stephen) just doesn’t know the answer. (“But Wells must know the right answer for he was in third grammar”)</p><p>This “naivety” is corresponding with Stephen’s young age, as he is still relatively young at this point in the novel.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2647473/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Stephen-tried-to-laugh-with-them-he-felt-his-whole-body-hot-and-confused-in-a-moment-what-was-the-right-answer-to-the-question-he-had-given-two-and-still-wells-laughed-but-wells-must-know-the-right-answer-for-he-was-in-third-of-grammar",
+    "original_id": "2647473",
+    "referent_id": 2647473,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Stephen tried to laugh with them. He felt his whole body hot and confused in a moment. What was the right answer to the question? He had given two and still Wells laughed. But Wells must know the right answer for he was in third of grammar.",
+    "prefix": "Stephen blushed under their eyes and said:\n\n —I do not.\n\n Wells said:\n\n —O, I say, here’s a fellow says he doesn’t kiss his mother before he goes to bed.\n\n They all laughed again. ",
+    "suffix": " He tried to think of Wells’s mother but he did not dare to raise his eyes to Wells’s face. He did not like Wells’s face. It was Wells who had shouldered him into the square ditch ",
+    "start": 13095,
+    "end": 13335,
+    "canonical_text": "Stephen tried to laugh with them. He felt his whole body hot and confused in a moment. What was the right answer to the question? He had given two and still Wells laughed. But Wells must know the right answer for he was in third of grammar."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2647473,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

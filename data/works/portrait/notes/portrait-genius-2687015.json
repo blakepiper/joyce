@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2687015",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "—Newman, I think.",
+  "html_source": "<p>Stephen isn’t very definite here. He follows his belief with “I think”, perhaps because he hasn’t made up his mind, or that he is being somewhat reticent to avoid judgement or anything of the sort.</p><p><a href=\"http://en.wikipedia.org/wiki/Cardinal_Newman\" rel=\"noopener nofollow\">John Henry Newman</a>, “Cardinal Newman,” was a Roman Catholic Cardinal (after leaving the <a href=\"http://en.wikipedia.org/wiki/Church_of_england\" rel=\"noopener nofollow\">Church of England</a>), that Joyce held <a href=\"http://en.wikipedia.org/wiki/Cardinal_Newman#Writer\" rel=\"noopener nofollow\">“a lifelong admiration”</a> for his writing.</p><p><img src=\"https://images.rapgenius.com/165073907a58f026ca6f2bfd7e85e41a.773x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2687015/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2/Newman-i-think",
+    "original_id": "2687015",
+    "referent_id": 2687015,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2-annotated"
+  },
+  "anchor": {
+    "text": "—Newman, I think.",
+    "prefix": "e greatest writer.\n\n —Fudge! said Heron. Ask Dedalus. Who is the greatest writer, Dedalus?\n\n Stephen noted the mockery in the question and said:\n\n —Of prose do you mean?\n\n —Yes.\n\n ",
+    "suffix": "\n\n —Is it Cardinal Newman? asked Boland.\n\n —Yes, answered Stephen.\n\n The grin broadened on Nash’s freckled face as he turned to Stephen and said:\n\n —And do you like Cardinal Newman",
+    "start": 39814,
+    "end": 39831,
+    "canonical_text": "—Newman, I think."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2687015,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

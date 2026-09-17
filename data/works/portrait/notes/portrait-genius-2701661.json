@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2701661",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Balbus was building a wall",
+  "html_source": "<p>This line is from <a href=\"http://bit.ly/1gveZeI\" rel=\"noopener nofollow\">this book</a> for learning Latin!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2701661/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Balbus-was-building-a-wall",
+    "original_id": "2701661",
+    "referent_id": 2701661,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Balbus was building a wall",
+    "prefix": "d behind the door of one of the closets there was a drawing in red pencil of a bearded man in a Roman dress with a brick in each hand and underneath was the name of the drawing:\n\n ",
+    "suffix": ".\n\n Some fellow had drawn it there for a cod. It had a funny face but it was very like a man with a beard. And on the wall of another closet there was written in backhand in beauti",
+    "start": 64185,
+    "end": 64211,
+    "canonical_text": "Balbus was building a wall"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2701661,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

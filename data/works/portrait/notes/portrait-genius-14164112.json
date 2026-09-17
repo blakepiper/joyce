@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-14164112",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Bodenstown",
+  "html_source": "<p>Bodenstown (Irish: Baile Uí Bhuadáin) is a townland on the outskirts of Sallins, in County Kildare, Ireland</p><p><img src=\"https://images.genius.com/682d640c70ac3df66c57088766080290.1000x667x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/14164112/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Bodenstown",
+    "original_id": "14164112",
+    "referent_id": 14164112,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Bodenstown",
+    "prefix": "he rector!\n\n Hurray! Hurray! Hurray!\n\n The cars drove past the chapel and all caps were raised. They drove merrily along the country roads. The drivers pointed with their whips to ",
+    "suffix": ". The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after cheer after cheer. Through Clane they drove, cheering and cheered. The peasant women stood at the ",
+    "start": 23829,
+    "end": 23839,
+    "canonical_text": "Bodenstown"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 14164112,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 6144889,
+        "login": "IvanMitin",
+        "name": "IvanMitin",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

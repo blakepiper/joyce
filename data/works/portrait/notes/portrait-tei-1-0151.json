@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0151",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: uncle Charles",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>uncle Charles</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:151"
+  },
+  "anchor": {
+    "text": "uncle Charles",
+    "prefix": " his shoulders shaking as he murmured:\n\n God bless my father and my mother and spare them to me!\nGod bless my little brothers and sisters and spare them to me!\nGod bless Dante and ",
+    "suffix": " and spare them to me!\n\n He blessed himself and climbed quickly into bed and, tucking the end of the nightshirt under his feet, curled himself together under the cold white sheets,",
+    "start": 21393,
+    "end": 21406,
+    "canonical_text": "uncle Charles"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

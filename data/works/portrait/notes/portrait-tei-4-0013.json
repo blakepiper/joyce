@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-4-0013",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Place: jesuit house in Gardiner Street",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>jesuit house in Gardiner Street</p></blockquote><p class=\"tei-detail\">Coordinates: 53.358000 -6.259655</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-4:13"
+  },
+  "anchor": {
+    "text": "jesuit house in Gardiner Street",
+    "prefix": "anger. Was it not a mental spectre of the face of one of the jesuits whom some of the boys called Lantern Jaws and others Foxy Campbell?\n\n He was passing at that moment before the ",
+    "suffix": ", and wondered vaguely which window would be his if he ever joined the order. Then he wondered at the vagueness of his wonder, at the remoteness of his own soul from what he had hi",
+    "start": 30279,
+    "end": 30310,
+    "canonical_text": "jesuit house in Gardiner Street"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.358000 -6.259655",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2696515",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "The names printed on the cocks",
+  "html_source": "<p>“Cocks” like sink faucet handles.</p><p><img src=\"https://images.rapgenius.com/97a7f262c7fc274d1dda32f8ba9ad52c.249x249x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2696515/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/The-names-printed-on-the-cocks",
+    "original_id": "2696515",
+    "referent_id": 2696515,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "the names printed on the cocks",
+    "prefix": "e look of the lavatory made him feel cold and then hot. There were two cocks that you turned and water came out: cold and hot. He felt cold and then a little hot: and he could see ",
+    "suffix": ". That was a very queer thing.\n\n And the air in the corridor chilled him too. It was queer and wettish. But soon the gas would be lit and in burning it made a light noise like a li",
+    "start": 7924,
+    "end": 7954,
+    "canonical_text": "the names printed on the cocks"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2696515,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.8571428571428571
+      },
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 0.14285714285714288
+      }
+    ]
+  },
+  "color": "F59627"
+}

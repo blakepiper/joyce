@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-2-0009",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "Place: Stradbrook",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Stradbrook</p></blockquote><p class=\"tei-detail\">Coordinates: 53.300791 -6.177067</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-2:9"
+  },
+  "anchor": {
+    "text": "Stradbrook",
+    "prefix": "the boys would take turns in riding the tractable mare round the field. But when autumn came the cows were driven home from the grass: and the first sight of the filthy cowyard at ",
+    "suffix": " with its foul green puddles and clots of liquid dung and steaming bran troughs, sickened Stephen’s heart. The cattle which had seemed so beautiful in the country on sunny days rev",
+    "start": 7430,
+    "end": 7440,
+    "canonical_text": "Stradbrook"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.300791 -6.177067",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

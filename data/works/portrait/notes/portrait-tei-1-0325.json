@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0325",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Mr Casey",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Mr Casey</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:325"
+  },
+  "anchor": {
+    "text": "Mr Casey",
+    "prefix": "r Dedalus, so long as they don’t meddle in politics.\n\n —The bishops and priests of Ireland have spoken, said Dante, and they must be obeyed.\n\n —Let them leave politics alone, said ",
+    "suffix": ", or the people may leave their church alone.\n\n —You hear? said Dante, turning to Mrs Dedalus.\n\n —Mr Casey! Simon! said Mrs Dedalus, let it end now.\n\n —Too bad! Too bad! said uncle",
+    "start": 44506,
+    "end": 44514,
+    "canonical_text": "Mr Casey"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

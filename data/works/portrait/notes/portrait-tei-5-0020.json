@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0020",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Person: Aristotle",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Aristotle</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:20"
+  },
+  "anchor": {
+    "text": "Aristotle",
+    "prefix": " lurking-place.\n\n The lore which he was believed to pass his days brooding upon so that it had rapt him from the companionship of youth was only a garner of slender sentences from ",
+    "suffix": "’s poetics and psychology and a Synopsis Philosophiæ Scholasticæ ad mentem divi Thomæ. His thinking was a dusk of doubt and selfmistrust, lit up at moments by the lightnings of int",
+    "start": 4980,
+    "end": 4989,
+    "canonical_text": "Aristotle"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

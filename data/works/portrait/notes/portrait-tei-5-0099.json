@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0099",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: London",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>London</p></blockquote><p class=\"tei-detail\">Coordinates: 51.507351 -0.127758</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:99"
+  },
+  "anchor": {
+    "text": "London",
+    "prefix": " human sufferings and unites it with the secret cause.\n\n —Repeat, said Lynch.\n\n Stephen repeated the definitions slowly.\n\n —A girl got into a hansom a few days ago, he went on, in ",
+    "suffix": ". She was on her way to meet her mother whom she had not seen for many years. At the corner of a street the shaft of a lorry shivered the window of the hansom in the shape of a sta",
+    "start": 57485,
+    "end": 57491,
+    "canonical_text": "London"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "51.507351 -0.127758",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

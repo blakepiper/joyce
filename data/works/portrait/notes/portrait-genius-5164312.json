@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-5164312",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "O Lord open our lips\n And our mouths shall announce Thy praise.",
+  "html_source": "<p>Psalm 51:15.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5164312/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/O-lord-open-our-lips-and-our-mouths-shall-announce-thy-praise",
+    "original_id": "5164312",
+    "referent_id": 5164312,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "O Lord open our lips\n And our mouths shall announce Thy praise.",
+    "prefix": "der the seawall beside his father’s house. But the kettle would be on the hob to make punch.\n\n The prefect of the chapel prayed above his head and his memory knew the responses:\n\n ",
+    "suffix": ".\nIncline unto our aid, O God!\nO Lord, make haste to help us!\n\n There was a cold night smell in the chapel. But it was a holy smell. It was not like the smell of the old peasants w",
+    "start": 19455,
+    "end": 19517,
+    "canonical_text": "O Lord, open our lips\nAnd our mouths shall announce Thy praise"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 5164312,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1644926,
+        "login": "ooggggg",
+        "name": "ooggggg",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

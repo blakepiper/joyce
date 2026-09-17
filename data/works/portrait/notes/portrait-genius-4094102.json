@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4094102",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "—QUIS EST IN MALO HUMORE, said Stephen, EGO AUT VOS?",
+  "html_source": "<p><em>Which</em> (or <em>who</em>) <em>is in bad humor</em>, said Stephen, <em>me or you?</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4094102/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Quis-est-in-malo-humore-said-stephen-ego-aut-vos",
+    "original_id": "4094102",
+    "referent_id": 4094102,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "—QUIS EST IN MALO HUMORE, said Stephen, EGO AUT VOS?",
+    "prefix": "o my ear. Can you?\n\n A dull scowl appeared on Cranly’s forehead. He stared at the table where Moynihan had bent to write his name on the roll, and then said flatly:\n\n —A sugar!\n\n —",
+    "suffix": "\n\n Cranly did not take up the taunt. He brooded sourly on his judgement and repeated with the same flat force:\n\n —A flaming bloody sugar, that’s what he is!\n\n It was his epitaph fo",
+    "start": 40855,
+    "end": 40906,
+    "canonical_text": "Quis est in malo humore, said Stephen, ego aut vos?"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4094102,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

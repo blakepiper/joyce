@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-2-0022",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "Place: Dublin",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Dublin</p></blockquote><p class=\"tei-detail\">Coordinates: 53.349307 -6.263654</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-2:22"
+  },
+  "anchor": {
+    "text": "Dublin",
+    "prefix": " left in me yet, Stephen, old chap, said Mr Dedalus, poking at the dull fire with fierce energy. We’re not dead yet, sonny. No, by the Lord Jesus (God forgive me) nor half dead.\n\n ",
+    "suffix": " was a new and complex sensation. Uncle Charles had grown so witless that he could no longer be sent out on errands and the disorder in settling in the new house left Stephen freer",
+    "start": 12636,
+    "end": 12642,
+    "canonical_text": "Dublin"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.349307 -6.263654",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

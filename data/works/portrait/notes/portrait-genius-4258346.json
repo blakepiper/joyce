@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4258346",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "He was so easily at the mercy of childish and unworthy imperfections",
+  "html_source": "<p>Stephen is surprised at the fact that he is still human and subject to temptation and moral error.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4258346/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/He-was-so-easily-at-the-mercy-of-childish-and-unworthy-imperfections",
+    "original_id": "4258346",
+    "referent_id": 4258346,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "he was so easily at the mercy of childish and unworthy imperfections",
+    "prefix": " in his pockets or clasped behind him.\n\n He had no temptations to sin mortally. It surprised him however to find that at the end of his course of intricate piety and selfrestraint ",
+    "suffix": ". His prayers and fasts availed him little for the suppression of anger at hearing his mother sneeze or at being disturbed in his devotions. It needed an immense effort of his will",
+    "start": 9335,
+    "end": 9403,
+    "canonical_text": "he was so easily at the mercy of childish and unworthy imperfections"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4258346,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1253784,
+        "login": "Caroline_Walden",
+        "name": "Caroline_Walden",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

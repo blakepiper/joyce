@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2685450",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Prefects",
+  "html_source": "<p>“In the context of schools, a prefect is a pupil who has been given limited authority over other pupils in the school, similar to the authority given to a hall monitor or safety patrol member.” –<br />(<a href=\"https://en.wikipedia.org/wiki/Prefect#Academic\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Prefect#Academic</a>)</p><p>“RC Church: one of two senior masters in a Jesuit school or college (the prefect of studies and the prefect of discipline or first prefect) ” – <a href=\"http://dictionary.reference.com/browse/prefect\" rel=\"noopener nofollow\">cite</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2685450/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Prefects",
+    "original_id": "2685450",
+    "referent_id": 2685450,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "prefects",
+    "prefix": "es,\nApologise,\nApologise,\nPull out his eyes.\n\nApologise,\nPull out his eyes,\nPull out his eyes,\nApologise.\n\n The wide playgrounds were swarming with boys. All were shouting and the ",
+    "suffix": " urged them on with strong cries. The evening air was pale and chilly and after every charge and thud of the footballers the greasy leather orb flew like a heavy bird through the g",
+    "start": 1760,
+    "end": 1768,
+    "canonical_text": "prefects"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9713
+  },
+  "genius": {
+    "referent_id": 2685450,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

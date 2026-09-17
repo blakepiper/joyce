@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0225",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Athy",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Athy</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:225"
+  },
+  "anchor": {
+    "text": "Athy",
+    "prefix": "lling in the brimming bowl.\n\n Athy, who had been silent, said quietly:\n\n —You are all wrong.\n\n All turned towards him eagerly.\n\n —Why?\n\n —Do you know?\n\n —Who told you?\n\n —Tell us, ",
+    "suffix": ".\n\n Athy pointed across the playground to where Simon Moonan was walking by himself kicking a stone before him.\n\n —Ask him, he said.\n\n The fellows looked there and then said:\n\n —Wh",
+    "start": 61456,
+    "end": 61460,
+    "canonical_text": "Athy"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

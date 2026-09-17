@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-5081822",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "The greasy leather orb flew like a heavy bird",
+  "html_source": "<p>Soccer—or, as Europeans call it, football—was a very popular sport in Ireland at the time as the sport was growing all over the world. “The greasy leather orb” refers to the ball itself: soccer balls were made of full grain leather as opposed to the synthetic material used today.</p><p><img src=\"https://images.rapgenius.com/a24bd759fe19fa0c017967ec55fd8432.900x900x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5081822/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/The-greasy-leather-orb-flew-like-a-heavy-bird",
+    "original_id": "5081822",
+    "referent_id": 5081822,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "the greasy leather orb flew like a heavy bird",
+    "prefix": "were swarming with boys. All were shouting and the prefects urged them on with strong cries. The evening air was pale and chilly and after every charge and thud of the footballers ",
+    "suffix": " through the grey light. He kept on the fringe of his line, out of sight of his prefect, out of the reach of the rude feet, feigning to run now and then. He felt his body small and",
+    "start": 1889,
+    "end": 1934,
+    "canonical_text": "the greasy leather orb flew like a heavy bird"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5081822,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1508799,
+        "login": "CRG02",
+        "name": "CRG02",
+        "role": "contributor",
+        "attribution": 0.9629629629629629
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.037037037037037035
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0381",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "LA passage: Ad Majorem Dei Gloriam",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>Ad Majorem Dei Gloriam</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:381"
+  },
+  "anchor": {
+    "text": "Ad Majorem Dei Gloriam",
+    "prefix": "ere the portraits of the saints and great men of the order who were looking down on him silently as he passed: saint Ignatius Loyola holding an open book and pointing to the words ",
+    "suffix": " in it, saint Francis Xavier pointing to his chest, Lorenzo Ricci with his berretta on his head like one of the prefects of the lines, the three patrons of holy youth, saint Stanis",
+    "start": 87982,
+    "end": 88004,
+    "canonical_text": "Ad Majorem Dei Gloriam"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

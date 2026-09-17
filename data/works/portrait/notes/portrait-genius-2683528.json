@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2683528",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Father told him that story",
+  "html_source": "<p>John Joyce to his son James, 1931:</p><blockquote><p>I wonder do you recollect the old days in Brighton Square, when you were Babie Tuckoo, and I used to take you out in the Square and tell you all about the moo-cow that used to come down from the mountain and take little boys across?</p></blockquote>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2683528/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Father-told-him-that-story",
+    "original_id": "2683528",
+    "referent_id": 2683528,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "father told him that story",
+    "prefix": "e and a very good time it was there was a moocow coming down along the road and this moocow that was coming down along the road met a nicens little boy named baby tuckoo....\n\n His ",
+    "suffix": ": his father looked at him through a glass: he had a hairy face.\n\n He was baby tuckoo. The moocow came down the road where Betty Byrne lived: she sold lemon platt.\n\n O, the wild ro",
+    "start": 281,
+    "end": 307,
+    "canonical_text": "father told him that story"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2683528,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.9056603773584905
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.09433962264150944
+      }
+    ]
+  },
+  "color": "F59627"
+}

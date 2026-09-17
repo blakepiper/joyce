@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2685403",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Nicens",
+  "html_source": "<p>“Nicens” is a made-up dreamword, like all of <a href=\"http://poetry.genius.com/James-joyce-finnegans-wake-chap-11-annotated\" rel=\"noopener nofollow\">Finnegans Wake</a>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2685403/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Nicens",
+    "original_id": "2685403",
+    "referent_id": 2685403,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "nicens",
+    "prefix": "ses, VIII., 188.\n\n Chapter I\n\n Once upon a time and a very good time it was there was a moocow coming down along the road and this moocow that was coming down along the road met a ",
+    "suffix": " little boy named baby tuckoo....\n\n His father told him that story: his father looked at him through a glass: he had a hairy face.\n\n He was baby tuckoo. The moocow came down the ro",
+    "start": 235,
+    "end": 241,
+    "canonical_text": "nicens"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2685403,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.8
+      },
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 0.2
+      }
+    ]
+  },
+  "color": "F59627"
+}

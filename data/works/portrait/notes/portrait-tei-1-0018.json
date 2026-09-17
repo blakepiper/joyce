@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0018",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Rody Kickham",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Rody Kickham</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:18"
+  },
+  "anchor": {
+    "text": "Rody Kickham",
+    "prefix": " of his prefect, out of the reach of the rude feet, feigning to run now and then. He felt his body small and weak amid the throng of the players and his eyes were weak and watery. ",
+    "suffix": " was not like that: he would be captain of the third line all the fellows said.\n\n Rody Kickham was a decent fellow but Nasty Roche was a stink. Rody Kickham had greaves in his numb",
+    "start": 2186,
+    "end": 2198,
+    "canonical_text": "Rody Kickham"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

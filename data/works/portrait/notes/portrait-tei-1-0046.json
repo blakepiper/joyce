@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0046",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Neologism: snuffbox",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a neologism.</p><blockquote><p>snuffbox</p></blockquote><p class=\"tei-detail\">TEI type: neologism</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:46"
+  },
+  "anchor": {
+    "text": "snuffbox",
+    "prefix": "hink on those sentences. He shivered as if he had cold slimy water next his skin. That was mean of Wells to shoulder him into the square ditch because he would not swop his little ",
+    "suffix": " for Wells’s seasoned hacking chestnut, the conqueror of forty. How cold and slimy the water had been! A fellow had once seen a big rat jump into the scum. Mother was sitting at th",
+    "start": 5905,
+    "end": 5913,
+    "canonical_text": "snuffbox"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "type": "neologism"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "9C632A"
+}

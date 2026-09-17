@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-5179106",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "He sang that song",
+  "html_source": "<p>Starting the book with a story and a song shows that Stephen will become an Artist as the title of the book exhibits. Story-telling and singing are two of the most artistic activities that occur on Earth, and Stephen has truly been predisposed to the beauty of art at a young age.</p><p>Stories can also open a young person’s creativity and sparks imagination as is seen with Stephen throughout the story.</p><p><img src=\"https://images.rapgenius.com/7e024bb19af5e7af0f8dce584d9fda79.413x404x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5179106/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/He-sang-that-song",
+    "original_id": "5179106",
+    "referent_id": 5179106,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "He sang that song",
+    "prefix": "s: he had a hairy face.\n\n He was baby tuckoo. The moocow came down the road where Betty Byrne lived: she sold lemon platt.\n\n O, the wild rose blossoms\nOn the little green place.\n\n ",
+    "suffix": ". That was his song.\n\n O, the green wothe botheth.\n\n When you wet the bed, first it is warm then it gets cold. His mother put on the oilsheet. That had the queer smell.\n\n His mothe",
+    "start": 528,
+    "end": 545,
+    "canonical_text": "He sang that song"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5179106,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1508799,
+        "login": "CRG02",
+        "name": "CRG02",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

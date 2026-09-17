@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0102",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Neologism: snuffbox",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a neologism.</p><blockquote><p>snuffbox</p></blockquote><p class=\"tei-detail\">TEI type: neologism</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:102"
+  },
+  "anchor": {
+    "text": "snuffbox",
+    "prefix": "dare to raise his eyes to Wells’s face. He did not like Wells’s face. It was Wells who had shouldered him into the square ditch the day before because he would not swop his little ",
+    "suffix": " for Wells’s seasoned hacking chestnut, the conqueror of forty. It was a mean thing to do; all the fellows said it was. And how cold and slimy the water had been! And a fellow had ",
+    "start": 13567,
+    "end": 13575,
+    "canonical_text": "snuffbox"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "type": "neologism"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "9C632A"
+}

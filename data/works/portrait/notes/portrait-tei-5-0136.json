@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0136",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: Sallygap",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Sallygap</p></blockquote><p class=\"tei-detail\">Coordinates: 53.136900 -6.310000</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:136"
+  },
+  "anchor": {
+    "text": "Sallygap",
+    "prefix": ", smiling in spite of himself at Cranly’s way of remembering thoughts in connexion with places. The night you spent half an hour wrangling with Doherty about the shortest way from ",
+    "suffix": " to Larras.\n\n —Pothead! Cranly said with calm contempt. What does he know about the way from Sallygap to Larras? Or what does he know about anything for that matter? And the big sl",
+    "start": 132252,
+    "end": 132260,
+    "canonical_text": "Sallygap"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.136900 -6.310000",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

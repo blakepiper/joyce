@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-17429828",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Quarantines",
+  "html_source": "<p>Quarantine: A period of forty days</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/17429828/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Quarantines",
+    "original_id": "17429828",
+    "referent_id": 17429828,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "quarantines",
+    "prefix": "n the catacombs.\n\n His daily life was laid out in devotional areas. By means of ejaculations and prayers he stored up ungrudgingly for the souls in purgatory centuries of days and ",
+    "suffix": " and years; yet the spiritual triumph which he felt in achieving with ease so many fabulous ages of canonical penances did not wholly reward his zeal of prayer, since he could neve",
+    "start": 1061,
+    "end": 1072,
+    "canonical_text": "quarantines"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 17429828,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 8753690,
+        "login": "FBA-ML",
+        "name": "FBA-ML",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

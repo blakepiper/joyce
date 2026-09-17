@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0057",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: Castletownroche",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Castletownroche</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:57"
+  },
+  "anchor": {
+    "text": "Castletownroche",
+    "prefix": "ise after the match that I missed the train home and I couldn’t get any kind of a yoke to give me a lift for, as luck would have it, there was a mass meeting that same day over in ",
+    "suffix": " and all the cars in the country were there. So there was nothing for it only to stay the night or to foot it out. Well, I started to walk and on I went and it was coming on night ",
+    "start": 16323,
+    "end": 16338,
+    "canonical_text": "Castletownroche"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

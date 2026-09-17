@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2649706",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "—Smugging.",
+  "html_source": "<p>“Slang for \"a mild form of homosexual petting.”\"</p><p><em>(Courtesy of <a href=\"http://faculty.gvsu.edu/websterm/Portrait.htm\" rel=\"noopener nofollow\">Grand Valley State University</a>)</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2649706/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Smugging",
+    "original_id": "2649706",
+    "referent_id": 2649706,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "—Smugging.",
+    "prefix": " said mysteriously:\n\n —They were caught with Simon Moonan and Tusker Boyle in the square one night.\n\n The fellows looked at him and asked:\n\n —Caught?\n\n —What doing?\n\n Athy said:\n\n ",
+    "suffix": "\n\n All the fellows were silent: and Athy said:\n\n —And that’s why.\n\n Stephen looked at the faces of the fellows but they were all looking across the playground. He wanted to ask som",
+    "start": 62048,
+    "end": 62058,
+    "canonical_text": "—Smugging."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2649706,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

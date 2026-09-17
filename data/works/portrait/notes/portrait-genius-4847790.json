@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4847790",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "RISOTTO ALLA BERGAMASCA.",
+  "html_source": "<p>An Italian rice dish prepared in the style of the city of Bergamo.</p><p><img src=\"https://images.rapgenius.com/75180182c23328c93575bccb272913b2.1000x755x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4847790/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Risotto-alla-bergamasca",
+    "original_id": "4847790",
+    "referent_id": 4847790,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "RISOTTO ALLA BERGAMASCA.",
+    "prefix": "Italian and ended in pidgin English. He said Bruno was a terrible heretic. I said he was terribly burned. He agreed to this with some sorrow. Then gave me recipe for what he calls ",
+    "suffix": " When he pronounces a soft o he protrudes his full carnal lips as if he kissed the vowel. Has he? And could he repent? Yes, he could: and cry two round rogue’s tears, one from each",
+    "start": 138614,
+    "end": 138638,
+    "canonical_text": "risotto alla bergamasca."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4847790,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1497331,
+        "login": "SalmaIraqui",
+        "name": "SalmaIraqui",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

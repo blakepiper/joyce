@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4860701",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "His coat-tails",
+  "html_source": "<p>Another sign of wealth, coat-tails were proper dinner attire for those in the middle and upper class</p><p><img src=\"https://images.rapgenius.com/83938539960e306e4c9a7048bbf3c257.200x288x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4860701/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/His-coat-tails",
+    "original_id": "4860701",
+    "referent_id": 4860701,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "his coat-tails",
+    "prefix": " on a chair between them, his feet resting on the toasted boss. Mr Dedalus looked at himself in the pierglass above the mantelpiece, waxed out his moustache ends and then, parting ",
+    "suffix": ", stood with his back to the glowing fire: and still from time to time he withdrew a hand from his coat tail to wax out one of his moustache ends. Mr Casey leaned his head to one s",
+    "start": 37234,
+    "end": 37248,
+    "canonical_text": "his coat tails"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 4860701,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1424519,
+        "login": "iDreamofJami",
+        "name": "iDreamofJami",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-5108673",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "Saint Francis Xavier",
+  "html_source": "<p><a href=\"http://www.catholic.org/saints/saint.php?saint_id=423\" rel=\"noopener nofollow\">Saint Francis Xavier</a> is the co-patron saint of Navarre, an autonomous community in Northern Spain. He was the right hand man of St. Ignatius of Loyola and one of <a href=\"http://www.historylearningsite.co.uk/Jesuits.htm\" rel=\"noopener nofollow\">six other companions</a> who began the Society of Jesus.</p><p><img src=\"https://images.rapgenius.com/3863752b99b4647aeb3414080ca26de4.300x400x1.jpg\" alt=\"\" /></p><p> <a href=\"https://www.youtube.com/watch?v=t3erLl7cTTI\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=t3erLl7cTTI</a></p><p>The Day of Navarre in Spain marks the anniversary of Saint Francis Xavier’s death on December 3, 1552. The other co-patron of Navarre, Saint Fermin, is honored in Spain with the more exciting and famous Running of the Bulls festival.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5108673/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3/Saint-francis-xavier",
+    "original_id": "5108673",
+    "referent_id": 5108673,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3-annotated"
+  },
+  "anchor": {
+    "text": "saint Francis Xavier",
+    "prefix": "’s grim smile. Stephen’s heart began slowly to fold and fade with fear like a withering flower.\n\n The rector went on gravely:\n\n —You are all familiar with the story of the life of ",
+    "suffix": ", I suppose, the patron of your college. He came of an old and illustrious Spanish family and you remember that he was one of the first followers of saint Ignatius. They met in Par",
+    "start": 11158,
+    "end": 11178,
+    "canonical_text": "saint Francis Xavier"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 5108673,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1507433,
+        "login": "vtomic",
+        "name": "vtomic",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

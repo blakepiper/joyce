@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-2-0020",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "Place: Harold's Cross",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Harold&#x27;s Cross</p></blockquote><p class=\"tei-detail\">Coordinates: 53.324608 -6.281580</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-2:20"
+  },
+  "anchor": {
+    "text": "Harold's Cross",
+    "prefix": "n the hearing of a stranger. For him there was nothing amusing in a girl’s interest and regard. All day he had thought of nothing but their leavetaking on the steps of the tram at ",
+    "suffix": ", the stream of moody emotions it had made to course through him and the poem he had written about it. All day he had imagined a new meeting with her for he knew that she was to co",
+    "start": 34052,
+    "end": 34066,
+    "canonical_text": "Harold’s Cross"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.324608 -6.281580",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

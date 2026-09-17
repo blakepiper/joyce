@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0026",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Person: Stephen",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Stephen</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:26"
+  },
+  "anchor": {
+    "text": "Stephen",
+    "prefix": "nterstices at the wings of his nose.\n\n —Well, it’s a poor case, she said, when a university student is so dirty that his mother has to wash him.\n\n —But it gives you pleasure, said ",
+    "suffix": " calmly.\n\n An ear-splitting whistle was heard from upstairs and his mother thrust a damp overall into his hands, saying:\n\n —Dry yourself and hurry out for the love of goodness.\n\n A",
+    "start": 1727,
+    "end": 1734,
+    "canonical_text": "Stephen"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-3-0002",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "Place: island of Sancian",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>island of Sancian</p></blockquote><p class=\"tei-detail\">Coordinates: 21.705010 112.791206</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-3:2"
+  },
+  "anchor": {
+    "text": "island of Sancian",
+    "prefix": "rown powerless from having been raised so often over the heads of those whom he baptised. He wished then to go to China to win still more souls for God but he died of fever on the ",
+    "suffix": ". A great saint, saint Francis Xavier! A great soldier of God!\n\n The rector paused and then, shaking his clasped hands before him, went on:\n\n —He had the faith in him that moves mo",
+    "start": 12093,
+    "end": 12110,
+    "canonical_text": "island of Sancian"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "21.705010 112.791206",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

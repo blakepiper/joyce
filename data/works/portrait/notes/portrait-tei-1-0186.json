@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0186",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Place: Leicester Abbey",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Leicester Abbey</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:186"
+  },
+  "anchor": {
+    "text": "Leicester Abbey",
+    "prefix": " That was a long time ago then out on the playgrounds in the evening light, creeping from point to point on the fringe of his line, a heavy bird flying low through the grey light. ",
+    "suffix": " lit up. Wolsey died there. The abbots buried him themselves.\n\n It was not Wells’s face, it was the prefect’s. He was not foxing. No, no: he was sick really. He was not foxing. And",
+    "start": 27010,
+    "end": 27025,
+    "canonical_text": "Leicester Abbey"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

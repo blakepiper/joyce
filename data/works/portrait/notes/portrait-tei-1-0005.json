@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0005",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Song: O, the geen wothe botheth.",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a song.</p><blockquote><p>O, the geen wothe botheth.</p></blockquote><p class=\"tei-detail\">TEI type: song</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:5"
+  },
+  "anchor": {
+    "text": "O, the geen wothe botheth.",
+    "prefix": "ckoo. The moocow came down the road where Betty Byrne lived: she sold lemon platt.\n\n O, the wild rose blossoms\nOn the little green place.\n\n He sang that song. That was his song.\n\n ",
+    "suffix": "\n\n When you wet the bed, first it is warm then it gets cold. His mother put on the oilsheet. That had the queer smell.\n\n His mother had a nicer smell than his father. She played on",
+    "start": 568,
+    "end": 595,
+    "canonical_text": "O, the green wothe botheth."
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "lg",
+    "attributes": {
+      "type": "song"
+    }
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9811
+  },
+  "color": "CF2929"
+}

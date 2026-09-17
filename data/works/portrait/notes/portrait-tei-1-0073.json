@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0073",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Jack Lawton",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Jack Lawton</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:73"
+  },
+  "anchor": {
+    "text": "Jack Lawton",
+    "prefix": "h the red rose on it looked very rich because he had a blue sailor top on. Stephen felt his own face red too, thinking of all the bets about who would get first place in elements, ",
+    "suffix": " or he. Some weeks Jack Lawton got the card for first and some weeks he got the card for first. His white silk badge fluttered and fluttered as he worked at the next sum and heard ",
+    "start": 9134,
+    "end": 9145,
+    "canonical_text": "Jack Lawton"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

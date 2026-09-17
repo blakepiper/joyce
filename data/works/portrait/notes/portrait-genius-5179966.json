@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-5179966",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Machine",
+  "html_source": "<p>Bicycle</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5179966/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Machine",
+    "original_id": "5179966",
+    "referent_id": 5179966,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "machine",
+    "prefix": "fellows seemed to him to have grown smaller: that was because a sprinter had knocked him down the day before, a fellow out of second of grammar. He had been thrown by the fellow’s ",
+    "suffix": " lightly on the cinderpath and his spectacles had been broken in three pieces and some of the grit of the cinders had gone into his mouth.\n\n That was why the fellows seemed to him ",
+    "start": 60592,
+    "end": 60599,
+    "canonical_text": "machine"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5179966,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1644926,
+        "login": "ooggggg",
+        "name": "ooggggg",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

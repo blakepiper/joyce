@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-3-0003",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "LA passage: ad majorem Dei gloriam",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>ad majorem Dei gloriam</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-3:3"
+  },
+  "anchor": {
+    "text": "ad majorem Dei gloriam",
+    "prefix": "s before him, went on:\n\n —He had the faith in him that moves mountains. Ten thousand souls won for God in a single month! That is a true conqueror, true to the motto of our order: ",
+    "suffix": "! A saint who has great power in heaven, remember: power to intercede for us in our grief; power to obtain whatever we pray for if it be for the good of our souls; power above all ",
+    "start": 12407,
+    "end": 12429,
+    "canonical_text": "ad majorem Dei gloriam"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

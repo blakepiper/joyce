@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0364",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Chant: It can't be helped; It must be done. So down with your breeches And o…",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a chant.</p><blockquote><p>It can&#x27;t be helped; It must be done. So down with your breeches And out with your bum.</p></blockquote><p class=\"tei-detail\">TEI type: chant</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:364"
+  },
+  "anchor": {
+    "text": "It can't be helped; It must be done. So down with your breeches And out with your bum.",
+    "prefix": "’ll both get it on the vital spot.\n\n Wells rubbed himself and said in a crying voice:\n\n —Please, sir, let me off!\n\n Athy grinned and turned up the sleeves of his jacket, saying:\n\n ",
+    "suffix": "\n\n The fellows laughed; but he felt that they were a little afraid. In the silence of the soft grey air he heard the cricket bats from here and from there: pock. That was a sound t",
+    "start": 66439,
+    "end": 66525,
+    "canonical_text": "It can’t be helped;\nIt must be done.\nSo down with your breeches\nAnd out with your bum."
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "type": "chant"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "CF2929"
+}

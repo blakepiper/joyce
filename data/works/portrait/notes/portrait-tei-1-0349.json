@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0349",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Place: Tullamore",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Tullamore</p></blockquote><p class=\"tei-detail\">Coordinates: 53.275526 -7.493385</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:349"
+  },
+  "anchor": {
+    "text": "Tullamore",
+    "prefix": "hea!\n\n —And what did you do, John? asked Mr Dedalus.\n\n —I let her bawl away, said Mr Casey. It was a cold day and to keep up my heart I had (saving your presence, ma’am) a quid of ",
+    "suffix": " in my mouth and sure I couldn’t say a word in any case because my mouth was full of tobacco juice.\n\n —Well, John?\n\n —Well. I let her bawl away, to her heart’s content, Kitty O’She",
+    "start": 52392,
+    "end": 52401,
+    "canonical_text": "Tullamore"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.275526 -7.493385",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

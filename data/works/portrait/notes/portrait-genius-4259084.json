@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4259084",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Towels",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/7e1b9f38c2f27de83b2d7d861d7c91bd.359x500x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4259084/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Towels",
+    "original_id": "4259084",
+    "referent_id": 4259084,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "towels",
+    "prefix": "s rude supports and rocking under their plunges, and the rough-hewn stones of the sloping breakwater over which they scrambled in their horseplay gleamed with cold wet lustre. The ",
+    "suffix": " with which they smacked their bodies were heavy with cold seawater; and drenched with cold brine was their matted hair.\n\n He stood still in deference to their calls and parried th",
+    "start": 43337,
+    "end": 43343,
+    "canonical_text": "towels"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4259084,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1254026,
+        "login": "Anonymous4123",
+        "name": "Anonymous4123",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

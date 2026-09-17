@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0011",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: the North Strand Road",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>the North Strand Road</p></blockquote><p class=\"tei-detail\">Coordinates: 53.357548 -6.242725</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:11"
+  },
+  "anchor": {
+    "text": "the North Strand Road",
+    "prefix": "g walk across the city had begun, and he foreknew that as he passed the sloblands of Fairview he would think of the cloistral silverveined prose of Newman; that as he walked along ",
+    "suffix": ", glancing idly at the windows of the provision shops, he would recall the dark humour of Guido Cavalcanti and smile; that as he went by Baird’s stonecutting works in Talbot Place ",
+    "start": 3848,
+    "end": 3869,
+    "canonical_text": "the North Strand Road"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.357548 -6.242725",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

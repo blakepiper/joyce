@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0022",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Nasty Roche",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Nasty Roche</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:22"
+  },
+  "anchor": {
+    "text": "Nasty Roche",
+    "prefix": "ptain of the third line all the fellows said.\n\n Rody Kickham was a decent fellow but Nasty Roche was a stink. Rody Kickham had greaves in his number and a hamper in the refectory. ",
+    "suffix": " had big hands. He called the Friday pudding dog-in-the-blanket. And one day he had asked:\n\n —What is your name?\n\n Stephen had answered: Stephen Dedalus.\n\n Then Nasty Roche had sai",
+    "start": 2412,
+    "end": 2423,
+    "canonical_text": "Nasty Roche"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

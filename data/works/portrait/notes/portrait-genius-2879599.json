@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2879599",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "SIMILITER ATQUE SENIS BACULUS",
+  "html_source": "<p>Latin,<br />   <em>Like the walking stick of an old person</em></p><p><img src=\"https://images.rapgenius.com/594d4bbd36f6b1710ea1be090d9d107f.487x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2879599/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Similiter-atque-senis-baculus",
+    "original_id": "2879599",
+    "referent_id": 2879599,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "SIMILITER ATQUE SENIS BACULUS",
+    "prefix": "em, with a firm gesture of obedience back upon themselves and for all this silent service it seemed as if he loved not at all the master and little, if at all, the ends he served. ",
+    "suffix": ", he was, as the founder would have had him, like a staff in an old man’s hand, to be leaned on in the road at nightfall or in stress of weather, to lie with a lady’s nosegay on a ",
+    "start": 24839,
+    "end": 24868,
+    "canonical_text": "Similiter atque senis baculus"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2879599,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

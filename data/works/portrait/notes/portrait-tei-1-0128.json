@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0128",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Place: the universe",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>the universe</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:128"
+  },
+  "anchor": {
+    "text": "the universe",
+    "prefix": "e flyleaf from the bottom to the top till he came to his own name. That was he: and he read down the page again. What was after the universe? Nothing. But was there anything round ",
+    "suffix": " to show where it stopped before the nothing place began? It could not be a wall but there could be a thin thin line there all round everything. It was very big to think about ever",
+    "start": 16134,
+    "end": 16146,
+    "canonical_text": "the universe"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

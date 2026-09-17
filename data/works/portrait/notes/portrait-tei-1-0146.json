@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0146",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Dante",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Dante</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:146"
+  },
+  "anchor": {
+    "text": "Dante",
+    "prefix": "ain in the moon. Father Arnall knew more than Dante because he was a priest but both his father and uncle Charles said that Dante was a clever woman and a wellread woman. And when ",
+    "suffix": " made that noise after dinner and then put up her hand to her mouth: that was heartburn.\n\n A voice cried far out on the playground:\n\n —All in!\n\n Then other voices cried from the lo",
+    "start": 6602,
+    "end": 6607,
+    "canonical_text": "Dante"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

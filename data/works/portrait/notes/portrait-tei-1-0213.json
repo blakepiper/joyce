@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0213",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Stephen",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Stephen</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:213"
+  },
+  "anchor": {
+    "text": "Stephen",
+    "prefix": "ound the chandeliers. There were red holly and green ivy round the old portraits on the walls. Holly and ivy for him and for Christmas.\n\n Lovely...\n\n All the people. Welcome home, ",
+    "suffix": "! Noises of welcome. His mother kissed him. Was that right? His father was a marshal now: higher than a magistrate. Welcome home, Stephen!\n\n Noises...\n\n There was a noise of curtai",
+    "start": 24966,
+    "end": 24973,
+    "canonical_text": "Stephen"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

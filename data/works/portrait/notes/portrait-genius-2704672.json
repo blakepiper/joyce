@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2704672",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Doesn’t kiss his mother",
+  "html_source": "<p>“St. Aloysius Gonzaga, patron saint of James Aloysius Augustine Joyce, was too ‘pure’ to kiss his mother. St. Alphonsus Liguori says that ‘St. Aloysius Gonzaga did not dare to raise his eyes to look even at his own mother….’”</p><p>(<a href=\"http://web.archive.org/web/20120609145408/http://www.robotwisdom.com/jaj/portrait/notes1.html\" rel=\"noopener nofollow\">http://web.archive.org/web/20120609145408/http://www.robotwisdom.com/jaj/portrait/notes1.html</a>)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2704672/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Doesnt-kiss-his-mother",
+    "original_id": "2704672",
+    "referent_id": 2704672,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "doesn't kiss his mother",
+    "prefix": " bed.\n\n The other fellows stopped their game and turned round, laughing. Stephen blushed under their eyes and said:\n\n —I do not.\n\n Wells said:\n\n —O, I say, here’s a fellow says he ",
+    "suffix": " before he goes to bed.\n\n They all laughed again. Stephen tried to laugh with them. He felt his whole body hot and confused in a moment. What was the right answer to the question? ",
+    "start": 13022,
+    "end": 13045,
+    "canonical_text": "doesn’t kiss his mother"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2704672,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

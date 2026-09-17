@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0016",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: Liffey",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Liffey</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:16"
+  },
+  "anchor": {
+    "text": "Liffey",
+    "prefix": "ting works in Talbot Place the spirit of Ibsen would blow through him like a keen wind, a spirit of wayward boyish beauty; and that passing a grimy marine dealer’s shop beyond the ",
+    "suffix": " he would repeat the song by Ben Jonson which begins:\n\n I was not wearier where I lay.\n\n His mind when wearied of its search for the essence of beauty amid the spectral words of Ar",
+    "start": 4202,
+    "end": 4208,
+    "canonical_text": "Liffey"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

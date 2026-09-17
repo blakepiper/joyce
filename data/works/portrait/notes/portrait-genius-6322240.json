@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-6322240",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Hogwash",
+  "html_source": "<p>Hogwash: (noun) Worthless, false, or ridiculous speech or writing; nonsense.</p><p><img src=\"https://images.rapgenius.com/09a42c649f52c8ee532850708f403d64.500x375x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6322240/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Hogwash",
+    "original_id": "6322240",
+    "referent_id": 6322240,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "hogwash",
+    "prefix": "amp too or whether all white things were cold and damp. Nasty Roche and Saurin drank cocoa that their people sent them in tins. They said they could not drink the tea; that it was ",
+    "suffix": ". Their fathers were magistrates, the fellows said.\n\n All the boys seemed to him very strange. They had all fathers and mothers and different clothes and voices. He longed to be at",
+    "start": 10579,
+    "end": 10586,
+    "canonical_text": "hogwash"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6322240,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1511881,
+        "login": "MckenzieRaeSwart",
+        "name": "MckenzieRaeSwart",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

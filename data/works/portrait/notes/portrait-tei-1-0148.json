@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0148",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Parnell",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Parnell</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:148"
+  },
+  "anchor": {
+    "text": "Parnell",
+    "prefix": "was right, to be for the green or for the maroon, because Dante had ripped the green velvet back off the brush that was for Parnell one day with her scissors and had told him that ",
+    "suffix": " was a bad man. He wondered if they were arguing at home about that. That was called politics. There were two sides in it: Dante was on one side and his father and Mr Casey were on",
+    "start": 17300,
+    "end": 17307,
+    "canonical_text": "Parnell"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

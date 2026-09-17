@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0323",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Mr Dedalus",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Mr Dedalus</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:323"
+  },
+  "anchor": {
+    "text": "Mr Dedalus",
+    "prefix": "et the matter drop now.\n\n Dante turned on her and said:\n\n —And am I to sit here and listen to the pastors of my church being flouted?\n\n —Nobody is saying a word against them, said ",
+    "suffix": ", so long as they don’t meddle in politics.\n\n —The bishops and priests of Ireland have spoken, said Dante, and they must be obeyed.\n\n —Let them leave politics alone, said Mr Casey,",
+    "start": 44325,
+    "end": 44335,
+    "canonical_text": "Mr Dedalus"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0083",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Place: Dalkey",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Dalkey</p></blockquote><p class=\"tei-detail\">Coordinates: 53.277911 -6.105844</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:83"
+  },
+  "anchor": {
+    "text": "Dalkey",
+    "prefix": "very time he opened the flaps of his ears. It made a roar like a train at night. And when he closed the flaps the roar was shut off like a train going into a tunnel. That night at ",
+    "suffix": " the train had roared like that and then, when it went into the tunnel, the roar stopped. He closed his eyes and the train went on, roaring and then stopping; roaring again, stoppi",
+    "start": 11619,
+    "end": 11625,
+    "canonical_text": "Dalkey"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.277911 -6.105844",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0077",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "LA passage: Bonum est in quod tendit appetitus",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>Bonum est in quod tendit appetitus</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:77"
+  },
+  "anchor": {
+    "text": "Bonum est in quod tendit appetitus",
+    "prefix": " eye. Will it therefore be beautiful?\n\n —In so far as it is apprehended by the sight, which I suppose means here esthetic intellection, it will be beautiful. But Aquinas also says ",
+    "suffix": ". In so far as it satisfies the animal craving for warmth fire is a good. In hell, however, it is an evil.\n\n —Quite so, said the dean, you have certainly hit the nail on the head.\n",
+    "start": 23709,
+    "end": 23743,
+    "canonical_text": "Bonum est in quod tendit appetitus"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

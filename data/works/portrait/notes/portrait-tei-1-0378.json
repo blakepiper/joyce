@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0378",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Place: Rome",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Rome</p></blockquote><p class=\"tei-detail\">Coordinates: 41.902783 12.496366</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:378"
+  },
+  "anchor": {
+    "text": "Rome",
+    "prefix": "Those were the great men whose names were in Richmal Magnall’s Questions. History was all about those men and what they did and that was what Peter Parley’s Tales about Greece and ",
+    "suffix": " were all about. Peter Parley himself was on the first page in a picture. There was a road over a heath with grass at the side and little bushes: and Peter Parley had a broad hat l",
+    "start": 83538,
+    "end": 83542,
+    "canonical_text": "Rome"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "41.902783 12.496366",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

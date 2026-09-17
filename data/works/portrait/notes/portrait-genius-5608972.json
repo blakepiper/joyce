@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-5608972",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "The sailor’s hornpipe",
+  "html_source": "<p>“The Sailor’s Hornpipe” is a famous folk melody that started as a dance performed usually to the sounds of a hornpipe, which is a Celtic instrument. According to songfacts.com, “The Sailors' Hornpipe” is also known by many variant names including the “College Hornpipe”, and of course has numerous different arrangements. The nautical connection did not develop until about the end of the Seventeenth and beginning of the Eighteenth Centuries when it found its way into the repertoire of sailors.</p><p><a href=\"https://www.youtube.com/watch?v=hfJ9QLlYIXU\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=hfJ9QLlYIXU</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5608972/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/The-sailors-hornpipe",
+    "original_id": "5608972",
+    "referent_id": 5608972,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "the sailor's hornpipe",
+    "prefix": " wet the bed, first it is warm then it gets cold. His mother put on the oilsheet. That had the queer smell.\n\n His mother had a nicer smell than his father. She played on the piano ",
+    "suffix": " for him to dance. He danced:\n\n Tralala lala,\nTralala tralaladdy,\nTralala lala,\nTralala lala.\n\n Uncle Charles and Dante clapped. They were older than his father and mother but uncl",
+    "start": 786,
+    "end": 807,
+    "canonical_text": "the sailor’s hornpipe"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 5608972,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1509571,
+        "login": "AshleyPradhan",
+        "name": "AshleyPradhan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

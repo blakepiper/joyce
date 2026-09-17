@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0232",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Saurin",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Saurin</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:232"
+  },
+  "anchor": {
+    "text": "Saurin",
+    "prefix": " back on the pillow and said:\n\n —There is another way but I won’t tell you what it is.\n\n Why did he not tell it? His father, who kept the racehorses, must be a magistrate too like ",
+    "suffix": "’s father and Nasty Roche’s father. He thought of his own father, of how he sang songs while his mother played and of how he always gave him a shilling when he asked for sixpence a",
+    "start": 33812,
+    "end": 33818,
+    "canonical_text": "Saurin"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

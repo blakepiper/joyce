@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0111",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Fleming",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Fleming</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:111"
+  },
+  "anchor": {
+    "text": "Fleming",
+    "prefix": " That was like the two brushes in Dante’s press, the brush with the green velvet back for Parnell and the brush with the maroon velvet back for Michael Davitt. But he had not told ",
+    "suffix": " to colour them those colours. Fleming had done it himself.\n\n He opened the geography to study the lesson; but he could not learn the names of places in America. Still they were al",
+    "start": 15061,
+    "end": 15068,
+    "canonical_text": "Fleming"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

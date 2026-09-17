@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4805405",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Daly or MacEvoy",
+  "html_source": "<p>Assumed names for the pawnshop.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4805405/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Daly-or-macevoy",
+    "original_id": "4805405",
+    "referent_id": 4805405,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "Daly or MacEvoy",
+    "prefix": "had just been rifled and he took up idly one after another in his greasy fingers the blue and white dockets, scrawled and sanded and creased and bearing the name of the pledger as ",
+    "suffix": ".\n\n 1 Pair Buskins.\n1 D. Coat.\n3 Articles and White.\n1 Man’s Pants.\n\n Then he put them aside and gazed thoughtfully at the lid of the box, speckled with louse marks, and asked vagu",
+    "start": 554,
+    "end": 569,
+    "canonical_text": "Daly or MacEvoy"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4805405,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1356898,
+        "login": "ecbiv",
+        "name": "ecbiv",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

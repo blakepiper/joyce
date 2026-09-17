@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2741434",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "He was born of a virgin pure",
+  "html_source": "<p>“Pure” is associated with virginity here. This may further the effects this preacher’s teachings have on Stephen, due to his promiscuous encounters.</p><p><img src=\"https://images.rapgenius.com/59eda1d0b3be33f6b3cc8e2d8c90d61e.715x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2741434/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3/He-was-born-of-a-virgin-pure",
+    "original_id": "2741434",
+    "referent_id": 2741434,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3-annotated"
+  },
+  "anchor": {
+    "text": "He was born of a virgin pure",
+    "prefix": "o the kingdom of heaven: and that One, that Redeemer of fallen man, was to be God’s only begotten Son, the Second Person of the Most Blessed Trinity, the Eternal Word.\n\n —He came. ",
+    "suffix": ", Mary the virgin mother. He was born in a poor cowhouse in Judea and lived as a humble carpenter for thirty years until the hour of His mission had come. And then, filled with lov",
+    "start": 34586,
+    "end": 34614,
+    "canonical_text": "He was born of a virgin pure"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2741434,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

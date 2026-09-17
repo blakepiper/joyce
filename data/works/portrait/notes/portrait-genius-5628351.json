@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-5628351",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Song about the wild rose blossoms on the little green place",
+  "html_source": "<p>Here, he’s referring to the little song his father was singing at the opening of the chapter.<br />“O, the wild rose blossoms<br />On the little green place”<br />These lyrics are a slightly altered part of the song “Lilly Dale,” an 1852 song by H.S. Thompson, about a young maiden felled by disease. It is significant that he would reference the song as the title fits well with all the discussion around lavender and roses, but the part about disease is also telling. Is it foreshadowing? Is it ironic?</p><p>Here’s a rendition of the full song<br /><a href=\"https://www.youtube.com/watch?v=VVfjIM3gMtE\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=VVfjIM3gMtE</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5628351/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Song-about-the-wild-rose-blossoms-on-the-little-green-place",
+    "original_id": "5628351",
+    "referent_id": 5628351,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "song about the wild rose blossoms on the little green place",
+    "prefix": "tiful colours too: pink and cream and lavender. Lavender and cream and pink roses were beautiful to think of. Perhaps a wild rose might be like those colours and he remembered the ",
+    "suffix": ". But you could not have a green rose. But perhaps somewhere in the world you could.\n\n The bell rang and then the classes began to file out of the rooms and along the corridors tow",
+    "start": 9863,
+    "end": 9922,
+    "canonical_text": "song about the wild rose blossoms on the little green place"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5628351,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1509571,
+        "login": "AshleyPradhan",
+        "name": "AshleyPradhan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0245",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: uncle Charles",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>uncle Charles</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:245"
+  },
+  "anchor": {
+    "text": "uncle Charles",
+    "prefix": " were arranged.\n\n —Sit over, she said.\n\n Mr Dedalus went to the end of the table and said:\n\n —Now, Mrs Riordan, sit over. John, sit you down, my hearty.\n\n He looked round to where ",
+    "suffix": " sat and said:\n\n —Now then, sir, there’s a bird here waiting for you.\n\n When all had taken their seats he laid his hand on the cover and then said quickly, withdrawing it:\n\n —Now, ",
+    "start": 40093,
+    "end": 40106,
+    "canonical_text": "uncle Charles"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

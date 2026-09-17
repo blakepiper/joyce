@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0062",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Person: Stevie",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Stevie</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:62"
+  },
+  "anchor": {
+    "text": "Stevie",
+    "prefix": "s away all that day from my own place over in Buttevant—I don’t know if you know where that is—at a hurling match between the Croke’s Own Boys and the Fearless Thurles and by God, ",
+    "suffix": ", that was the hard fight. My first cousin, Fonsy Davin, was stripped to his buff that day minding cool for the Limericks but he was up with the forwards half the time and shouting",
+    "start": 15491,
+    "end": 15497,
+    "canonical_text": "Stevie"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

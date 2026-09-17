@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-2-0024",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "Place: Clonliffe Road",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Clonliffe Road</p></blockquote><p class=\"tei-detail\">Coordinates: 53.362304 -6.249867</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-2:24"
+  },
+  "anchor": {
+    "text": "Clonliffe Road",
+    "prefix": "d, marched beside him, a large grin on his face, while Nash came on a few steps behind, blowing from the pace and wagging his great red head.\n\n As soon as the boys had turned into ",
+    "suffix": " together they began to speak about books and writers, saying what books they were reading and how many books there were in their fathers’ bookcases at home. Stephen listened to th",
+    "start": 39252,
+    "end": 39266,
+    "canonical_text": "Clonliffe Road"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.362304 -6.249867",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

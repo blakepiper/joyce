@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0093",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Stephen",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Stephen</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:93"
+  },
+  "anchor": {
+    "text": "Stephen",
+    "prefix": " at the door with some boys and Simon Moonan was knotting his false sleeves. He was telling them something about Tullabeg.\n\n Then he went away from the door and Wells came over to ",
+    "suffix": " and said:\n\n —Tell us, Dedalus, do you kiss your mother before you go to bed?\n\n Stephen answered:\n\n —I do.\n\n Wells turned to the other fellows and said:\n\n —O, I say, here’s a fello",
+    "start": 12598,
+    "end": 12605,
+    "canonical_text": "Stephen"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

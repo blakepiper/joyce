@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-11070234",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Dante",
+  "html_source": "<p>Its interesting how great artists, and not just artists, seep into our consciousness mundanely and  passively throughout our youth, only to become firmly embedded and important. Joyce knew the  name Dante long before he begin reading him. The root back from flower to  seed was an association with the word Auntie.</p><p>Or this is just a pointless reference to the great poet!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11070234/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Dante",
+    "original_id": "11070234",
+    "referent_id": 11070234,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Dante",
+    "prefix": "ell than his father. She played on the piano the sailor’s hornpipe for him to dance. He danced:\n\n Tralala lala,\nTralala tralaladdy,\nTralala lala,\nTralala lala.\n\n Uncle Charles and ",
+    "suffix": " clapped. They were older than his father and mother but uncle Charles was older than Dante.\n\n Dante had two brushes in her press. The brush with the maroon velvet back was for Mic",
+    "start": 921,
+    "end": 926,
+    "canonical_text": "Dante"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9747
+  },
+  "genius": {
+    "referent_id": 11070234,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 4017165,
+        "login": "KevinFoy",
+        "name": "KevinFoy",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

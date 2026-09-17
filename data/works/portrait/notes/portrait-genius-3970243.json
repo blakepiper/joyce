@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-3970243",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Boss",
+  "html_source": "<p>Merriam-Webster’s: “an ornamental projecting block used in architecture”.</p><p><img src=\"https://images.rapgenius.com/47e2a7ad38c22129c0b18f65a3eb862a.180x198x1.png\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3970243/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Boss",
+    "original_id": "3970243",
+    "referent_id": 3970243,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "boss",
+    "prefix": "y in the shadow of the window, Dante and Mr Casey, who sat in the easychairs at either side of the hearth, Stephen, seated on a chair between them, his feet resting on the toasted ",
+    "suffix": ". Mr Dedalus looked at himself in the pierglass above the mantelpiece, waxed out his moustache ends and then, parting his coat tails, stood with his back to the glowing fire: and s",
+    "start": 37112,
+    "end": 37116,
+    "canonical_text": "boss"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3970243,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1141957,
+        "login": "Velcro_River",
+        "name": "Velcro_River",
+        "role": null,
+        "attribution": 0.9736842105263157
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.026315789473684213
+      }
+    ]
+  },
+  "color": "F59627"
+}

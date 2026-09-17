@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2979127",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Wolsey died in Leicester Abbey\n     Where the abbots buried him.",
+  "html_source": "<p><a href=\"http://en.wikipedia.org/wiki/Cardinal_Thomas_Wolsey\" rel=\"noopener nofollow\">Cardinal Thomas Wolsey</a>, often referred to as an <em>alter rex</em>, who died at the abbey in 1530.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2979127/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Wolsey-died-in-leicester-abbey-where-the-abbots-buried-him",
+    "original_id": "2979127",
+    "referent_id": 2979127,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Wolsey died in Leicester Abbey\n     Where the abbots buried him.",
+    "prefix": "s Leicester Abbey was like that. And there were nice sentences in Doctor Cornwell’s Spelling Book. They were like poetry but they were only sentences to learn the spelling from.\n\n ",
+    "suffix": "\nCanker is a disease of plants,\nCancer one of animals.\n\n It would be nice to lie on the hearthrug before the fire, leaning his head upon his hands, and think on those sentences. He",
+    "start": 5513,
+    "end": 5572,
+    "canonical_text": "Wolsey died in Leicester Abbey\nWhere the abbots buried him."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2979127,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 212428,
+        "login": "ciaranaustin",
+        "name": "Ciaran Austin",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

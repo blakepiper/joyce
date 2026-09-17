@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-3316872",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "The firmament was as a scroll rolled away.",
+  "html_source": "<p>Reference <a href=\"http://biblehub.com/revelation/6-14.htm\" rel=\"noopener nofollow\">Revelation 6:14</a></p><blockquote><p>The sky was split apart like a scroll when it is rolled up</p></blockquote>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3316872/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3/The-firmament-was-as-a-scroll-rolled-away",
+    "original_id": "3316872",
+    "referent_id": 3316872,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3-annotated"
+  },
+  "anchor": {
+    "text": "The firmament was as a scroll rolled away.",
+    "prefix": "ng upon the earth like the figs cast by the figtree which the wind has shaken. The sun, the great luminary of the universe, had become as sackcloth of hair. The moon was bloodred. ",
+    "suffix": " The archangel Michael, the prince of the heavenly host, appeared glorious and terrible against the sky. With one foot on the sea and one foot on the land he blew from the archange",
+    "start": 23219,
+    "end": 23261,
+    "canonical_text": "The firmament was as a scroll rolled away."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3316872,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 972621,
+        "login": "LucaMaletta",
+        "name": "LucaMaletta",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

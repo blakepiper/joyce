@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0262",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: John",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>John</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:262"
+  },
+  "anchor": {
+    "text": "John",
+    "prefix": "ia. Mr Casey tapped the gland of his neck and smiled at Stephen with sleepy eyes: and Mr Dedalus said to him:\n\n —Yes. Well now, that’s all right. O, we had a good walk, hadn’t we, ",
+    "suffix": "? Yes... I wonder if there’s any likelihood of dinner this evening. Yes... O, well now, we got a good breath of ozone round the Head today. Ay, bedad.\n\n He turned to Dante and said",
+    "start": 38136,
+    "end": 38140,
+    "canonical_text": "John"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

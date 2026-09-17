@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0036",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Person: John Duncan Inverarity",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>John Duncan Inverarity</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:36"
+  },
+  "anchor": {
+    "text": "John Duncan Inverarity",
+    "prefix": " of his timeworn Horace never felt cold to the touch even when his own fingers were cold; they were human pages and fifty years before they had been turned by the human fingers of ",
+    "suffix": " and by his brother, William Malcolm Inverarity. Yes, those were noble names on the dusky flyleaf and, even for so poor a Latinist as he, the dusky verses were as fragrant as thoug",
+    "start": 10908,
+    "end": 10930,
+    "canonical_text": "John Duncan Inverarity"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

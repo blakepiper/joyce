@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0164",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Neologism: deathwound",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a neologism.</p><blockquote><p>deathwound</p></blockquote><p class=\"tei-detail\">TEI type: neologism</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:164"
+  },
+  "anchor": {
+    "text": "deathwound",
+    "prefix": "im and saw their master’s face and cloak and knew that he had received his deathwound. But only the dark was where they looked: only dark silent air. Their master had received his ",
+    "suffix": " on the battlefield of Prague far away over the sea. He was standing on the field; his hand was pressed to his side; his face was pale and strange and he wore the white cloak of a ",
+    "start": 22814,
+    "end": 22824,
+    "canonical_text": "deathwound"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "type": "neologism"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "9C632A"
+}

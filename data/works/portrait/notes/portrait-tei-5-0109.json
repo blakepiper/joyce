@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0109",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: Lower Mount Street",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Lower Mount Street</p></blockquote><p class=\"tei-detail\">Coordinates: 53.338573 -6.243389</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:109"
+  },
+  "anchor": {
+    "text": "Lower Mount Street",
+    "prefix": "deep bass voice:\n\n Inpleta sunt quæ concinit\nDavid fideli carmine\nDicendo nationibus\nRegnavit a ligno Deus.\n\n —That’s great! he said, well pleased. Great music!\n\n They turned into ",
+    "suffix": ". A few steps from the corner a fat young man, wearing a silk neckcloth, saluted them and stopped.\n\n —Did you hear the results of the exams? he asked. Griffin was plucked. Halpin a",
+    "start": 67951,
+    "end": 67969,
+    "canonical_text": "Lower Mount Street"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.338573 -6.243389",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

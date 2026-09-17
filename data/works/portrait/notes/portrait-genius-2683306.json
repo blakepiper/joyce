@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2683306",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Lemon platt.",
+  "html_source": "<p>A flat sugar-stick, flavored with lemon,commonly sold as ‘yellowman’ at fairs in the North of Ireland (<a href=\"http://www.harryheuser.com/Raising_Daedalus-A_Close_Reading_of_Joyces_Portrait_of_the_Artist_as_a_Young_Man_3.html\" rel=\"noopener nofollow\"><em>OED</em></a>).</p><p><img src=\"https://images.rapgenius.com/eaa26ae202b145ec00665aec394a8e1e.1000x715x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2683306/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Lemon-platt",
+    "original_id": "2683306",
+    "referent_id": 2683306,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "lemon platt.",
+    "prefix": "is father told him that story: his father looked at him through a glass: he had a hairy face.\n\n He was baby tuckoo. The moocow came down the road where Betty Byrne lived: she sold ",
+    "suffix": "\n\n O, the wild rose blossoms\nOn the little green place.\n\n He sang that song. That was his song.\n\n O, the green wothe botheth.\n\n When you wet the bed, first it is warm then it gets ",
+    "start": 458,
+    "end": 470,
+    "canonical_text": "lemon platt."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2683306,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-7673186",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Michael Robartes",
+  "html_source": "<p>A character from W.B. Yeats' mythology</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7673186/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Michael-robartes",
+    "original_id": "7673186",
+    "referent_id": 7673186,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "Michael Robartes",
+    "prefix": "e it brings forth the future. Statues of women, if Lynch be right, should always be fully draped, one hand of the woman feeling regretfully her own hinder parts.\n\n April 6, later. ",
+    "suffix": " remembers forgotten beauty and, when his arms wrap her round, he presses in his arms the loveliness which has long faded from the world. Not this. Not at all. I desire to press in",
+    "start": 142349,
+    "end": 142365,
+    "canonical_text": "Michael Robartes"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 7673186,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2132394,
+        "login": "farbsson",
+        "name": "farbsson",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

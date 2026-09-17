@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2704485",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Gallnuts",
+  "html_source": "<p><a href=\"http://en.wikipedia.org/wiki/Gallnuts\" rel=\"noopener nofollow\">Galls</a> (or “gallnuts”) are masses that may form on many living things.</p><p><img src=\"https://images.rapgenius.com/f46f7d41a4ba1f95fe87b7c0777c9177.640x410x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2704485/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Gallnuts",
+    "original_id": "2704485",
+    "referent_id": 2704485,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "gallnuts",
+    "prefix": "ountry where they digged up turnips to peel them and eat them when they went out for a walk to Major Barton’s, the smell there was in the little wood beyond the pavilion where the ",
+    "suffix": " were.\n\n The fellows were practising long shies and bowling lobs and slow twisters. In the soft grey silence he could hear the bump of the balls: and from here and from there throu",
+    "start": 93508,
+    "end": 93516,
+    "canonical_text": "gallnuts"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2704485,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

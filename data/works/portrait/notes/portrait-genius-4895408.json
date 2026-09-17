@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4895408",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "The words of Shelley’s fragment upon the moon wandering companionless, pale for weariness.",
+  "html_source": "<p>The speakers tone in the <a href=\"http://www.poetryfoundation.org/poem/174398\" rel=\"noopener nofollow\">poem</a> is probably the way Stephen feels about himself in society.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4895408/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3/The-words-of-shelleys-fragment-upon-the-moon-wandering-companionless-pale-for-weariness",
+    "original_id": "4895408",
+    "referent_id": 4895408,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3-annotated"
+  },
+  "anchor": {
+    "text": "the words of Shelley's fragment upon the moon wandering companionless, pale for weariness.",
+    "prefix": "ore his weary mind outward to its verge and inward to its centre, a distant music accompanying him outward and inward. What music? The music came nearer and he recalled the words, ",
+    "suffix": " The stars began to crumble and a cloud of fine stardust fell through space.\n\n The dull light fell more faintly upon the page whereon another equation began to unfold itself slowly",
+    "start": 2086,
+    "end": 2176,
+    "canonical_text": "the words of Shelley’s fragment upon the moon wandering companionless, pale for weariness."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4895408,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1424519,
+        "login": "iDreamofJami",
+        "name": "iDreamofJami",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

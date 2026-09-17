@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2696628",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Elements",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Clongowes_Wood_College\" rel=\"noopener nofollow\">Clongowes' term for first-year classes</a>.</p><p><img src=\"https://images.rapgenius.com/9be61e1586e4ca4267abe1d29d7dcbf3.220x147x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2696628/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Elements",
+    "original_id": "2696628",
+    "referent_id": 2696628,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "elements",
+    "prefix": " badge with the red rose on it looked very rich because he had a blue sailor top on. Stephen felt his own face red too, thinking of all the bets about who would get first place in ",
+    "suffix": ", Jack Lawton or he. Some weeks Jack Lawton got the card for first and some weeks he got the card for first. His white silk badge fluttered and fluttered as he worked at the next s",
+    "start": 9124,
+    "end": 9132,
+    "canonical_text": "elements"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2696628,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

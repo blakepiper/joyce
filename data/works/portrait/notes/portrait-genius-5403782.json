@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-5403782",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Leopardstown",
+  "html_source": "<p>Leopardstown is a district in Ireland. A suburb of Dublin.</p><p><img src=\"https://images.rapgenius.com/8582a7468040b7c1ac20f336f17fe371.250x312x1.png\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5403782/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Leopardstown",
+    "original_id": "5403782",
+    "referent_id": 5403782,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "Leopardstown",
+    "prefix": " professor paused in his reading and called the next name:\n\n —Cranly!\n\n No answer.\n\n —Mr Cranly!\n\n A smile flew across Stephen’s face as he thought of his friend’s studies.\n\n —Try ",
+    "suffix": "! said a voice from the bench behind.\n\n Stephen glanced up quickly but Moynihan’s snoutish face, outlined on the grey light, was impassive. A formula was given out. Amid the rustli",
+    "start": 33383,
+    "end": 33395,
+    "canonical_text": "Leopardstown"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5403782,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1504526,
+        "login": "katherine_tran",
+        "name": "katherine_tran",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

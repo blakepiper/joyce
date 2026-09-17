@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0144",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: Grafton Street",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Grafton Street</p></blockquote><p class=\"tei-detail\">Coordinates: 53.342556 -6.259573</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:144"
+  },
+  "anchor": {
+    "text": "Grafton Street",
+    "prefix": " night till day come, till he or I lie dead, gripping him by the sinewy throat till... Till what? Till he yield to me? No. I mean no harm.\n\n April 15. Met her today point blank in ",
+    "suffix": ". The crowd brought us together. We both stopped. She asked me why I never came, said she had heard all sorts of stories about me. This was only to gain time. Asked me was I writin",
+    "start": 144294,
+    "end": 144308,
+    "canonical_text": "Grafton Street"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.342556 -6.259573",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

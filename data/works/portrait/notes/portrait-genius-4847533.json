@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4847533",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "—ET TU CUM JESU GALILAEO ERAS",
+  "html_source": "<p>“And you were with Jesus of Galilee”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4847533/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Et-tu-cum-jesu-galilaeo-eras",
+    "original_id": "4847533",
+    "referent_id": 4847533,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "—ET TU CUM JESU GALILAEO ERAS",
+    "prefix": "er voice, frail and high as a boy’s, was heard intoning from a distant choir the first words of a woman which pierce the gloom and clamour of the first chanting of the passion:\n\n —",
+    "suffix": ".\n\n And all hearts were touched and turned to her voice, shining like a young star, shining clearer as the voice intoned the proparoxyton and more faintly as the cadence died.\n\n Th",
+    "start": 130037,
+    "end": 130064,
+    "canonical_text": "Et tu cum Jesu Galilæo eras"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4847533,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1497331,
+        "login": "SalmaIraqui",
+        "name": "SalmaIraqui",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

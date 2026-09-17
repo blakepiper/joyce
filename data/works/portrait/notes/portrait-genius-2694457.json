@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2694457",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "The name of the highest mountain in the moon",
+  "html_source": "<p>It’s unlikely that she had <a href=\"https://en.wikipedia.org/wiki/List_of_mountains_on_the_Moon_by_height\" rel=\"noopener nofollow\">this list</a> in mind in 1888.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2694457/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/The-name-of-the-highest-mountain-in-the-moon",
+    "original_id": "2694457",
+    "referent_id": 2694457,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "the name of the highest mountain in the moon",
+    "prefix": "o hot and they had such a lovely warm smell! Dante knew a lot of things. She had taught him where the Mozambique Channel was and what was the longest river in America and what was ",
+    "suffix": ". Father Arnall knew more than Dante because he was a priest but both his father and uncle Charles said that Dante was a clever woman and a wellread woman. And when Dante made that",
+    "start": 6393,
+    "end": 6437,
+    "canonical_text": "the name of the highest mountain in the moon"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2694457,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 12128,
+        "login": "dalmo",
+        "name": "Dalmo Mendonça",
+        "role": "editor",
+        "attribution": 0.8181818181818181
+      },
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.18181818181818182
+      }
+    ]
+  },
+  "color": "F59627"
+}

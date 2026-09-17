@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-6322921",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Dainty songs of the Elizabethans",
+  "html_source": "<p>During the reign of Queen Elizabeth I, or the Elizabethan era, English art and high culture reached the height of the <a href=\"http://en.wikipedia.org/wiki/English_Renaissance#Music\" rel=\"noopener nofollow\">English renaissance</a>. There was a shift in popularity from sacred to secular music, especially though instrumental music.<br /><a href=\"https://www.youtube.com/watch?v=97iZyoLRt-M\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=97iZyoLRt-M</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6322921/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Dainty-songs-of-the-elizabethans",
+    "original_id": "6322921",
+    "referent_id": 6322921,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "dainty songs of the Elizabethans",
+    "prefix": "I was not wearier where I lay.\n\n His mind when wearied of its search for the essence of beauty amid the spectral words of Aristotle or Aquinas turned often for its pleasure to the ",
+    "suffix": ". His mind, in the vesture of a doubting monk, stood often in shadow under the windows of that age, to hear the grave and mocking music of the lutenists or the frank laughter of wa",
+    "start": 4444,
+    "end": 4476,
+    "canonical_text": "dainty songs of the Elizabethans"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6322921,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1507433,
+        "login": "vtomic",
+        "name": "vtomic",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

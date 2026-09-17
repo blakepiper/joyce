@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0332",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Mr Dedalus",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Mr Dedalus</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:332"
+  },
+  "anchor": {
+    "text": "Mr Dedalus",
+    "prefix": " their church alone.\n\n —You hear? said Dante, turning to Mrs Dedalus.\n\n —Mr Casey! Simon! said Mrs Dedalus, let it end now.\n\n —Too bad! Too bad! said uncle Charles.\n\n —What? cried ",
+    "suffix": ". Were we to desert him at the bidding of the English people?\n\n —He was no longer worthy to lead, said Dante. He was a public sinner.\n\n —We are all sinners and black sinners, said ",
+    "start": 44719,
+    "end": 44729,
+    "canonical_text": "Mr Dedalus"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0375",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Neologism: nocoloured",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a neologism.</p><blockquote><p>nocoloured</p></blockquote><p class=\"tei-detail\">TEI type: neologism</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:375"
+  },
+  "anchor": {
+    "text": "nocoloured",
+    "prefix": "s. Perhaps he was sorry now and wanted to be decent. But it was unfair and cruel. The prefect of studies was a priest but that was cruel and unfair. And his whitegrey face and the ",
+    "suffix": " eyes behind the steel rimmed spectacles were cruel looking because he had steadied the hand first with his firm soft fingers and that was to hit it better and louder.\n\n —It’s a st",
+    "start": 81049,
+    "end": 81060,
+    "canonical_text": "no-coloured"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "type": "neologism"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "9C632A"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0101",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: canal bridge",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>canal bridge</p></blockquote><p class=\"tei-detail\">Coordinates: 53.342399 -6.238434</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:101"
+  },
+  "anchor": {
+    "text": "canal bridge",
+    "prefix": "what it brings forth, from sound and shape and colour which are the prison gates of our soul, an image of the beauty we have come to understand—that is art.\n\n They had reached the ",
+    "suffix": " and, turning from their course, went on by the trees. A crude grey light, mirrored in the sluggish water and a smell of wet branches over their heads seemed to war against the cou",
+    "start": 61535,
+    "end": 61547,
+    "canonical_text": "canal bridge"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.342399 -6.238434",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

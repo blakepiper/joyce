@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0267",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Mr Dedalus",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Mr Dedalus</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:267"
+  },
+  "anchor": {
+    "text": "Mr Dedalus",
+    "prefix": "e got a good breath of ozone round the Head today. Ay, bedad.\n\n He turned to Dante and said:\n\n —You didn’t stir out at all, Mrs Riordan?\n\n Dante frowned and said shortly:\n\n —No.\n\n ",
+    "suffix": " dropped his coat tails and went over to the sideboard. He brought forth a great stone jar of whisky from the locker and filled the decanter slowly, bending now and then to see how",
+    "start": 38409,
+    "end": 38419,
+    "canonical_text": "Mr Dedalus"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

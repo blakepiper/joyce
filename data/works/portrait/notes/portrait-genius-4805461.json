@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4805461",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Ben Jonson which begins:\n \n I was not wearier where I lay",
+  "html_source": "<p>Ben Jonson (1572-1637), English poet and dramatist. The line is from the Epilogue spoken by Aurora in <em>The Vision of Delight</em> (1617).</p><p><img src=\"https://images.rapgenius.com/a18df3dbe8dac0ec818055ccdece150f.365x480x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4805461/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Ben-jonson-which-begins-i-was-not-wearier-where-i-lay",
+    "original_id": "4805461",
+    "referent_id": 4805461,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "Ben Jonson which begins:\n \n I was not wearier where I lay",
+    "prefix": "it of Ibsen would blow through him like a keen wind, a spirit of wayward boyish beauty; and that passing a grimy marine dealer’s shop beyond the Liffey he would repeat the song by ",
+    "suffix": ".\n\n His mind when wearied of its search for the essence of beauty amid the spectral words of Aristotle or Aquinas turned often for its pleasure to the dainty songs of the Elizabeth",
+    "start": 4237,
+    "end": 4293,
+    "canonical_text": "Ben Jonson which begins:\n\n I was not wearier where I lay"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4805461,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1356898,
+        "login": "ecbiv",
+        "name": "ecbiv",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

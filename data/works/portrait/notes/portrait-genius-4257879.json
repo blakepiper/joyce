@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4257879",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "He had no temptations to sin mortally.",
+  "html_source": "<p>Ironic, considering how he slept with a prostitute at the end of Chapter 2.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4257879/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/He-had-no-temptations-to-sin-mortally",
+    "original_id": "4257879",
+    "referent_id": 4257879,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "He had no temptations to sin mortally.",
+    "prefix": "dried so that air might sting them and, whenever he was not saying his beads, carried his arms stiffly at his sides like a runner and never in his pockets or clasped behind him.\n\n ",
+    "suffix": " It surprised him however to find that at the end of his course of intricate piety and selfrestraint he was so easily at the mercy of childish and unworthy imperfections. His praye",
+    "start": 9196,
+    "end": 9234,
+    "canonical_text": "He had no temptations to sin mortally."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4257879,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1253623,
+        "login": "RollsJoyce",
+        "name": "RollsJoyce",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

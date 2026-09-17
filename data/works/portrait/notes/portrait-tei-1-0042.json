@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0042",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Doctor Cornwell",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Doctor Cornwell</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:42"
+  },
+  "anchor": {
+    "text": "Doctor Cornwell",
+    "prefix": "t the community ate. It was nice and warm to see the lights in the castle. It was like something in a book. Perhaps Leicester Abbey was like that. And there were nice sentences in ",
+    "suffix": "’s Spelling Book. They were like poetry but they were only sentences to learn the spelling from.\n\n Wolsey died in Leicester Abbey\nWhere the abbots buried him.\nCanker is a disease o",
+    "start": 5399,
+    "end": 5414,
+    "canonical_text": "Doctor Cornwell"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0073",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: Ireland",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Ireland</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:73"
+  },
+  "anchor": {
+    "text": "Ireland",
+    "prefix": "watchful? Was it because he had heard that in Buck Whaley’s time there was a secret staircase there? Or was the jesuit house extra-territorial and was he walking among aliens? The ",
+    "suffix": " of Tone and of Parnell seemed to have receded in space.\n\n He opened the door of the theatre and halted in the chilly grey light that struggled through the dusty windows. A figure ",
+    "start": 21052,
+    "end": 21059,
+    "canonical_text": "Ireland"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4258986",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Since he could never know how much temporal punishment he had remitted by way of suffrage for the agonizing souls",
+  "html_source": "<p>Even though he is practicing the faith, he still looks for a type of reward for his actions, even if it is a reward for others. He yearns for some type of quantifiable result.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4258986/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Since-he-could-never-know-how-much-temporal-punishment-he-had-remitted-by-way-of-suffrage-for-the-agonizing-souls",
+    "original_id": "4258986",
+    "referent_id": 4258986,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "since he could never know how much temporal punishment he had remitted by way of suffrage for the agonizing souls",
+    "prefix": "ays and quarantines and years; yet the spiritual triumph which he felt in achieving with ease so many fabulous ages of canonical penances did not wholly reward his zeal of prayer, ",
+    "suffix": " and fearful lest in the midst of the purgatorial fire, which differed from the infernal only in that it was not everlasting, his penance might avail no more than a drop of moistur",
+    "start": 1233,
+    "end": 1347,
+    "canonical_text": "since he could never know how much temporal punishment he had remitted by way of suffrage for the agonising souls;"
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9868
+  },
+  "genius": {
+    "referent_id": 4258986,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1254036,
+        "login": "selfPortrait",
+        "name": "selfPortrait",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

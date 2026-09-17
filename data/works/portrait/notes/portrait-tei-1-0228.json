@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0228",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Stephen",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Stephen</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:228"
+  },
+  "anchor": {
+    "text": "Stephen",
+    "prefix": "as every kind of news in the paper: accidents, shipwrecks, sports and politics.\n\n —Now it is all about politics in the papers, he said. Do your people talk about that too?\n\n —Yes, ",
+    "suffix": " said.\n\n —Mine too, he said.\n\n Then he thought for a moment and said:\n\n —You have a queer name, Dedalus, and I have a queer name too, Athy. My name is the name of a town. Your name",
+    "start": 32613,
+    "end": 32620,
+    "canonical_text": "Stephen"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

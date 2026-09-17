@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0368",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Neologism: highup",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a neologism.</p><blockquote><p>highup</p></blockquote><p class=\"tei-detail\">TEI type: neologism</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:368"
+  },
+  "anchor": {
+    "text": "highup",
+    "prefix": " provincial: and the provincial to the general of the jesuits. That was called the order: and he had heard his father say that they were all clever men. They could all have become ",
+    "suffix": " people in the world if they had not become jesuits. And he wondered what Father Arnall and Paddy Barrett would have become and what Mr McGlade and Mr Gleeson would have become if ",
+    "start": 73392,
+    "end": 73399,
+    "canonical_text": "high-up"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "type": "neologism"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "9C632A"
+}

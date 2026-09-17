@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0338",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Quotation: It would be better for him that a millstone were tied about his neck…",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a quotation.</p><blockquote><p>It would be better for him that a millstone were tied about his neck and that he were cast into the depths of the sea rather than that he should scandalise one of these, my least little ones.</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:338"
+  },
+  "anchor": {
+    "text": "It would be better for him that a millstone were tied about his neck and that he were cast into the depths of the sea rather than that he should scandalise one of these, my least little ones.",
+    "prefix": "rthy to lead, said Dante. He was a public sinner.\n\n —We are all sinners and black sinners, said Mr Casey coldly.\n\n —Woe be to the man by whom the scandal cometh! said Mrs Riordan. ",
+    "suffix": " That is the language of the Holy Ghost.\n\n —And very bad language if you ask me, said Mr Dedalus coolly.\n\n —Simon! Simon! said uncle Charles. The boy.\n\n —Yes, yes, said Mr Dedalus.",
+    "start": 44993,
+    "end": 45184,
+    "canonical_text": "It would be better for him that a millstone were tied about his neck and that he were cast into the depths of the sea rather than that he should scandalise one of these, my least little ones."
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "quote",
+    "attributes": {
+      "rend": "italics"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

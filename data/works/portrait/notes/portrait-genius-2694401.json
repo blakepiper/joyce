@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2694401",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Conqueror",
+  "html_source": "<p>One etymology for ‘conkers’ associates it with its homonym <a href=\"https://en.wikipedia.org/wiki/Conkers\" rel=\"noopener nofollow\"><em>conquers</em></a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2694401/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Conqueror",
+    "original_id": "2694401",
+    "referent_id": 2694401,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "conqueror",
+    "prefix": "ld slimy water next his skin. That was mean of Wells to shoulder him into the square ditch because he would not swop his little snuffbox for Wells’s seasoned hacking chestnut, the ",
+    "suffix": " of forty. How cold and slimy the water had been! A fellow had once seen a big rat jump into the scum. Mother was sitting at the fire with Dante waiting for Brigid to bring in the ",
+    "start": 5957,
+    "end": 5966,
+    "canonical_text": "conqueror"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 2694401,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.9
+      },
+      {
+        "id": 27699,
+        "login": "Scottish-Lady",
+        "name": "Scottish-Lady",
+        "role": "contributor",
+        "attribution": 0.1
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0111",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: Merrion Square",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Merrion Square</p></blockquote><p class=\"tei-detail\">Coordinates: 53.339658 -6.249165</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:111"
+  },
+  "anchor": {
+    "text": "Merrion Square",
+    "prefix": " devil’s mask:\n\n —To think that that yellow pancake-eating excrement can get a good job, he said at length, and I have to smoke cheap cigarettes!\n\n They turned their faces towards ",
+    "suffix": " and went for a little in silence.\n\n —To finish what I was saying about beauty, said Stephen, the most satisfying relations of the sensible must therefore correspond to the necessa",
+    "start": 70358,
+    "end": 70372,
+    "canonical_text": "Merrion Square"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.339658 -6.249165",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

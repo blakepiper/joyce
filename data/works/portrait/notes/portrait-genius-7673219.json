@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-7673219",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Beautiful and the sublime",
+  "html_source": "<p>Kantian aesthetics describes the Beautiful as something physically and superficially appealing, whereas the Sublime excites the mind. In short, Beauty is what it looks like (“material”) and Sublime is what it is (“moral”)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7673219/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Beautiful-and-the-sublime",
+    "original_id": "7673219",
+    "referent_id": 7673219,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "beautiful and the sublime",
+    "prefix": "ays be for me an acquired speech. I have not made or accepted its words. My voice holds them at bay. My soul frets in the shadow of his language.\n\n —And to distinguish between the ",
+    "suffix": ", the dean added, to distinguish between moral beauty and material beauty. And to inquire what kind of beauty is proper to each of the various arts. These are some interesting poin",
+    "start": 30914,
+    "end": 30939,
+    "canonical_text": "beautiful and the sublime"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 7673219,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2132394,
+        "login": "farbsson",
+        "name": "farbsson",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

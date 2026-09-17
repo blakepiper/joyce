@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0035",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Person: Horace",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Horace</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:35"
+  },
+  "anchor": {
+    "text": "Horace",
+    "prefix": "ial life of the city of cities through the words implere ollam denariorum which the rector had rendered sonorously as the filling of a pot with denaries. The pages of his timeworn ",
+    "suffix": " never felt cold to the touch even when his own fingers were cold; they were human pages and fifty years before they had been turned by the human fingers of John Duncan Inverarity ",
+    "start": 10745,
+    "end": 10751,
+    "canonical_text": "Horace"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

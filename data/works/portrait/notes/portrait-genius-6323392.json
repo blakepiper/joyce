@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-6323392",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "A living thing, new and soaring and beautiful, impalpable, imperishable",
+  "html_source": "<p>Stephen, in essence, has qualities of both the artificer and the youth that can fly. He is becoming an artist, but also can’t seem to follow instructions and could very well end up flying too high.</p><p><img src=\"https://images.rapgenius.com/d13d7c1b2dedb91b3b10f3179aca54d4.470x359x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6323392/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/A-living-thing-new-and-soaring-and-beautiful-impalpable-imperishable",
+    "original_id": "6323392",
+    "referent_id": 6323392,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "a living thing, new and soaring and beautiful, impalpable, imperishable",
+    "prefix": "n from the grave of boyhood, spurning her graveclothes. Yes! Yes! Yes! He would create proudly out of the freedom and power of his soul, as the great artificer whose name he bore, ",
+    "suffix": ".\n\n He started up nervously from the stoneblock for he could no longer quench the flame in his blood. He felt his cheeks aflame and his throat throbbing with song. There was a lust",
+    "start": 46578,
+    "end": 46649,
+    "canonical_text": "a living thing, new and soaring and beautiful, impalpable, imperishable"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6323392,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1509694,
+        "login": "the_RapMasterP",
+        "name": "the_RapMasterP",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0340",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Mr Dedalus",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Mr Dedalus</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:340"
+  },
+  "anchor": {
+    "text": "Mr Dedalus",
+    "prefix": "he depths of the sea rather than that he should scandalise one of these, my least little ones. That is the language of the Holy Ghost.\n\n —And very bad language if you ask me, said ",
+    "suffix": " coolly.\n\n —Simon! Simon! said uncle Charles. The boy.\n\n —Yes, yes, said Mr Dedalus. I meant about the... I was thinking about the bad language of the railway porter. Well now, tha",
+    "start": 45270,
+    "end": 45280,
+    "canonical_text": "Mr Dedalus"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

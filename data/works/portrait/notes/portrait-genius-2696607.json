@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2696607",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "A light noise like a little song.",
+  "html_source": "<p>Stephen’s hypersensitivity leads him to experience the world as objects sending him messages: like feverish hallucinations or schizophrenia.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2696607/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/A-light-noise-like-a-little-song",
+    "original_id": "2696607",
+    "referent_id": 2696607,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "a light noise like a little song.",
+    "prefix": "es printed on the cocks. That was a very queer thing.\n\n And the air in the corridor chilled him too. It was queer and wettish. But soon the gas would be lit and in burning it made ",
+    "suffix": " Always the same: and when the fellows stopped talking in the playroom you could hear it.\n\n It was the hour for sums. Father Arnall wrote a hard sum on the board and then said:\n\n —",
+    "start": 8111,
+    "end": 8144,
+    "canonical_text": "a light noise like a little song."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2696607,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

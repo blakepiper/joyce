@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0346",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Neologism: chainies",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a neologism.</p><blockquote><p>chainies</p></blockquote><p class=\"tei-detail\">TEI type: neologism</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:346"
+  },
+  "anchor": {
+    "text": "chainies",
+    "prefix": " his father say that she was a spoiled nun and that she had come out of the convent in the Alleghanies when her brother had got the money from the savages for the trinkets and the ",
+    "suffix": ". Perhaps that made her severe against Parnell. And she did not like him to play with Eileen because Eileen was a protestant and when she was young she knew children that used to p",
+    "start": 50561,
+    "end": 50569,
+    "canonical_text": "chainies"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "type": "neologism"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "9C632A"
+}

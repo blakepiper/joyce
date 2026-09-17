@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-29277413",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Turf smouldering",
+  "html_source": "<p>Turf was traditionally cut from peat bogs in order to heat homes in Ireland, and is known for its smoky burn.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/29277413/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Turf-smouldering",
+    "original_id": "29277413",
+    "referent_id": 29277413,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "turf smouldering",
+    "prefix": "ring and cheered. The peasant women stood at the halfdoors, the men stood here and there. The lovely smell there was in the wintry air: the smell of Clane: rain and wintry air and ",
+    "suffix": " and corduroy.\n\n The train was full of fellows: a long long chocolate train with cream facings. The guards went to and fro opening, closing, locking, unlocking the doors. They were",
+    "start": 24150,
+    "end": 24166,
+    "canonical_text": "turf smouldering"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 29277413,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 6340069,
+        "login": "relyen",
+        "name": "relyen",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

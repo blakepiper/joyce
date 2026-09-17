@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0170",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Place: Clane",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Clane</p></blockquote><p class=\"tei-detail\">Coordinates: 53.293785 -6.687040</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:170"
+  },
+  "anchor": {
+    "text": "Clane",
+    "prefix": "g the country roads. The drivers pointed with their whips to Bodenstown. The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after cheer after cheer. Through ",
+    "suffix": " they drove, cheering and cheered. The peasant women stood at the halfdoors, the men stood here and there. The lovely smell there was in the wintry air: the smell of Clane: rain an",
+    "start": 23948,
+    "end": 23953,
+    "canonical_text": "Clane"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.293785 -6.687040",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

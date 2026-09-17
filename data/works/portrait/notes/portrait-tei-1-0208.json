@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0208",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Brigid",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Brigid</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:208"
+  },
+  "anchor": {
+    "text": "Brigid",
+    "prefix": "ff the main avenue of limes. And Wells would be sorry then for what he had done. And the bell would toll slowly.\n\n He could hear the tolling. He said over to himself the song that ",
+    "suffix": " had taught him.\n\n Dingdong! The castle bell!\nFarewell, my mother!\nBury me in the old churchyard\nBeside my eldest brother.\nMy coffin shall be black,\nSix angels at my back,\nTwo to s",
+    "start": 31153,
+    "end": 31159,
+    "canonical_text": "Brigid"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

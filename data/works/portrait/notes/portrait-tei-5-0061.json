@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0061",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: Queenstown",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Queenstown</p></blockquote><p class=\"tei-detail\">Coordinates: 53.273188 -6.092767</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:61"
+  },
+  "anchor": {
+    "text": "Queenstown",
+    "prefix": "d her shoulders were bare. She asked me was I tired and would I like to stop the night there. She said she was all alone in the house and that her husband had gone that morning to ",
+    "suffix": " with his sister to see her off. And all the time she was talking, Stevie, she had her eyes fixed on my face and she stood so close to me I could hear her breathing. When I handed ",
+    "start": 17708,
+    "end": 17718,
+    "canonical_text": "Queenstown"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.273188 -6.092767",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

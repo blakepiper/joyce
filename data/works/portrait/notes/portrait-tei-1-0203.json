@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0203",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Letter: Dear Mother I am sick. I want to go home. Please come and take me hom…",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a letter.</p><blockquote><p>Dear Mother I am sick. I want to go home. Please come and take me home. I am in the infirmary. Your fond son, Stephen</p></blockquote><p class=\"tei-detail\">TEI type: letter</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:203"
+  },
+  "anchor": {
+    "text": "Dear Mother I am sick. I want to go home. Please come and take me home. I am in the infirmary. Your fond son, Stephen",
+    "prefix": "d they written home to tell his mother and father? But it would be quicker for one of the priests to go himself to tell them. Or he would write a letter for the priest to bring.\n\n ",
+    "suffix": "\n\n How far away they were! There was cold sunlight outside the window. He wondered if he would die. You could die just the same on a sunny day. He might die before his mother came.",
+    "start": 30172,
+    "end": 30292,
+    "canonical_text": "Dear Mother,\n\nI am sick. I want to go home. Please come and take me home. I am in the infirmary.\n\nYour fond son,\nStephen"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "lg",
+    "attributes": {
+      "type": "letter"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "40B324"
+}

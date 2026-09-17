@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0115",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Place: Clongowes Wood College",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Clongowes Wood College</p></blockquote><p class=\"tei-detail\">Coordinates: 53.310769 -6.684716</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:115"
+  },
+  "anchor": {
+    "text": "Clongowes Wood College",
+    "prefix": " world was in the universe.\n\n He turned to the flyleaf of the geography and read what he had written there: himself, his name and where he was.\n\n Stephen Dedalus\nClass of Elements\n",
+    "suffix": "\nSallins\nCounty Kildare\nIreland\nEurope\nThe World\nThe Universe\n\n That was in his writing: and Fleming one night for a cod had written on the opposite page:\n\n Stephen Dedalus is my n",
+    "start": 15591,
+    "end": 15613,
+    "canonical_text": "Clongowes Wood College"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.310769 -6.684716",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0351",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Place: the Cabinteely road",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>the Cabinteely road</p></blockquote><p class=\"tei-detail\">Coordinates: 53.265647 -6.156109</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:351"
+  },
+  "anchor": {
+    "text": "the Cabinteely road",
+    "prefix": "ewing nervously at the chinstrap of his cap. And that night Mr Casey had not gone to Dublin by train but a car had come to the door and he had heard his father say something about ",
+    "suffix": ".\n\n He was for Ireland and Parnell and so was his father: and so was Dante too for one night at the band on the esplanade she had hit a gentleman on the head with her umbrella beca",
+    "start": 54131,
+    "end": 54150,
+    "canonical_text": "the Cabinteely road"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.265647 -6.156109",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-6319339",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "Saint Francis Xavier",
+  "html_source": "<p>Saint Francis Xavier was a cofounder of the Society of Jesus.  He led a very long mission in Asia (Portuguese Empire) to help the people their learn to read and write.</p><p><img src=\"https://images.rapgenius.com/3863752b99b4647aeb3414080ca26de4.300x400x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6319339/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3/Saint-francis-xavier",
+    "original_id": "6319339",
+    "referent_id": 6319339,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3-annotated"
+  },
+  "anchor": {
+    "text": "saint Francis Xavier",
+    "prefix": "uestion.\n\n The rector did not ask for a catechism to hear the lesson from. He clasped his hands on the desk and said:\n\n —The retreat will begin on Wednesday afternoon in honour of ",
+    "suffix": " whose feast day is Saturday. The retreat will go on from Wednesday to Friday. On Friday confession will be heard all the afternoon after beads. If any boys have special confessors",
+    "start": 10308,
+    "end": 10328,
+    "canonical_text": "saint Francis Xavier"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 6319339,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1507643,
+        "login": "micnik",
+        "name": "micnik",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

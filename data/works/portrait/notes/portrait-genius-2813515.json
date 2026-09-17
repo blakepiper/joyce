@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2813515",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "I had arranged to go for a spin on the bike with some fellows out by Malahide.",
+  "html_source": "<p><a href=\"http://en.wikipedia.org/wiki/Malahide\" rel=\"noopener nofollow\">Malahide</a> is a coastal town near Dublin.</p><p><img src=\"https://images.rapgenius.com/50461935ecbd3c4492fe2069f1e8dcf2.600x371x1.gif\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2813515/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3/I-had-arranged-to-go-for-a-spin-on-the-bike-with-some-fellows-out-by-malahide",
+    "original_id": "2813515",
+    "referent_id": 2813515,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3-annotated"
+  },
+  "anchor": {
+    "text": "I had arranged to go for a spin on the bike with some fellows out by Malahide.",
+    "prefix": "n the familiar world of the school. Mr Tate and Vincent Heron stood at the window, talking, jesting, gazing out at the bleak rain, moving their heads.\n\n —I wish it would clear up. ",
+    "suffix": " But the roads must be kneedeep.\n\n —It might clear up, sir.\n\n The voices that he knew so well, the common words, the quiet of the classroom when the voices paused and the silence w",
+    "start": 48831,
+    "end": 48909,
+    "canonical_text": "I had arranged to go for a spin on the bike with some fellows out by Malahide."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2813515,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

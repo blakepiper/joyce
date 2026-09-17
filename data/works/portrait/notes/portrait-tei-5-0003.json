@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0003",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Person: MacEvoy",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>MacEvoy</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:3"
+  },
+  "anchor": {
+    "text": "MacEvoy",
+    "prefix": " been rifled and he took up idly one after another in his greasy fingers the blue and white dockets, scrawled and sanded and creased and bearing the name of the pledger as Daly or ",
+    "suffix": ".\n\n 1 Pair Buskins.\n1 D. Coat.\n3 Articles and White.\n1 Man’s Pants.\n\n Then he put them aside and gazed thoughtfully at the lid of the box, speckled with louse marks, and asked vagu",
+    "start": 562,
+    "end": 569,
+    "canonical_text": "MacEvoy"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

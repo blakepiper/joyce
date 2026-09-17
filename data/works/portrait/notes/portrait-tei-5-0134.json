@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0134",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "LA passage: Et tu cum Jesu Galilaeo eras.",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>Et tu cum Jesu Galilaeo eras.</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:134"
+  },
+  "anchor": {
+    "text": "Et tu cum Jesu Galilaeo eras.",
+    "prefix": "er voice, frail and high as a boy’s, was heard intoning from a distant choir the first words of a woman which pierce the gloom and clamour of the first chanting of the passion:\n\n —",
+    "suffix": "\n\n And all hearts were touched and turned to her voice, shining like a young star, shining clearer as the voice intoned the proparoxyton and more faintly as the cadence died.\n\n The",
+    "start": 130037,
+    "end": 130065,
+    "canonical_text": "Et tu cum Jesu Galilæo eras."
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2649686",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Pandybat",
+  "html_source": "<p>A “pandybat” is something used for punishment.</p><p><img src=\"https://images.rapgenius.com/15bf91ec536d33644a2a3f5fc7a6e5c9.860x160x1.jpg\" alt=\"\" /></p><p><em>(Also see <a href=\"http://en.wiktionary.org/wiki/pandybat\" rel=\"noopener nofollow\">Wiktionary’s definition</a>)</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2649686/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Pandybat",
+    "original_id": "2649686",
+    "referent_id": 2649686,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "pandybat",
+    "prefix": "reastbone to show how good it was: and he remembered the man’s voice when he had said:\n\n —Take that one, sir. That’s the real Ally Daly.\n\n Why did Mr Barrett in Clongowes call his ",
+    "suffix": " a turkey? But Clongowes was far away: and the warm heavy smell of turkey and ham and celery rose from the plates and dishes and the great fire was banked high and red in the grate",
+    "start": 41026,
+    "end": 41034,
+    "canonical_text": "pandybat"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 2649686,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

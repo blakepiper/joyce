@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4423734",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Twice nine",
+  "html_source": "<p>Nine strokes on each hand.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4423734/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Twice-nine",
+    "original_id": "4423734",
+    "referent_id": 4423734,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "twice nine",
+    "prefix": " of his play not to, Fleming said.\n\n —I wouldn’t like to be Simon Moonan and Tusker, Cecil Thunder said. But I don’t believe they will be flogged. Perhaps they will be sent up for ",
+    "suffix": ".\n\n —No, no, said Athy. They’ll both get it on the vital spot.\n\n Wells rubbed himself and said in a crying voice:\n\n —Please, sir, let me off!\n\n Athy grinned and turned up the sleev",
+    "start": 66221,
+    "end": 66231,
+    "canonical_text": "twice nine"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4423734,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1293868,
+        "login": "PhiliCheeseSteakJackson",
+        "name": "PhiliCheeseSteakJackson",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

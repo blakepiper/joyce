@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-7673149",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Crocodile said all right if she told him what he was going to do with the child, eat it or not eat It",
+  "html_source": "<p>The only response that will allow the mother to take her child back is to state that the alligator will eat the child. If she says the alligator won’t eat the child, then if it does eat the child it makes her statement false, which allows the alligator to keep the child as per its terms. If she says the alligator will eat the child, it has to give the child back, because to not do so (and, presumably, eat the child) would disagree with the alligator’s promise to give the child back if she guessed correctly.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7673149/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Crocodile-said-all-right-if-she-told-him-what-he-was-going-to-do-with-the-child-eat-it-or-not-eat-it",
+    "original_id": "7673149",
+    "referent_id": 7673149,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "Crocodile said all right if she told him what he was going to do with the child, eat it or not eat It",
+    "prefix": " library, proposing a problem to Dixon and her brother. A mother let her child fall into the Nile. Still harping on the mother. A crocodile seized the child. Mother asked it back. ",
+    "suffix": ".\n\n This mentality, Lepidus would say, is indeed bred out of your mud by the operation of your sun.\n\n And mine? Is it not too? Then into Nile mud with it!\n\n April 1. Disapprove of ",
+    "start": 140421,
+    "end": 140522,
+    "canonical_text": "Crocodile said all right if she told him what he was going to do with the child, eat it or not eat it"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 7673149,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2132394,
+        "login": "farbsson",
+        "name": "farbsson",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

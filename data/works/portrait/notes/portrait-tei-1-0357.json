@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0357",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Neologism: confession box",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a neologism.</p><blockquote><p>confession box</p></blockquote><p class=\"tei-detail\">TEI type: neologism</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:357"
+  },
+  "anchor": {
+    "text": "confession box",
+    "prefix": "dn’t the bishops and priests sell the aspirations of their country in 1829 in return for catholic emancipation? Didn’t they denounce the fenian movement from the pulpit and in the ",
+    "suffix": "? And didn’t they dishonour the ashes of Terence Bellew MacManus?\n\n His face was glowing with anger and Stephen felt the glow rise to his own cheek as the spoken words thrilled him",
+    "start": 55993,
+    "end": 56007,
+    "canonical_text": "confession box"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "type": "neologism"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "9C632A"
+}

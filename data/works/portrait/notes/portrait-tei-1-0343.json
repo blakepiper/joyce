@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0343",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Neologism: Lowlived",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a neologism.</p><blockquote><p>Lowlived</p></blockquote><p class=\"tei-detail\">TEI type: neologism</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:343"
+  },
+  "anchor": {
+    "text": "Lowlived",
+    "prefix": "o his grave. Let him remember that too when he grows up.\n\n —Sons of bitches! cried Mr Dedalus. When he was down they turned on him to betray him and rend him like rats in a sewer. ",
+    "suffix": " dogs! And they look it! By Christ, they look it!\n\n —They behaved rightly, cried Dante. They obeyed their bishops and their priests. Honour to them!\n\n —Well, it is perfectly dreadf",
+    "start": 47963,
+    "end": 47971,
+    "canonical_text": "Lowlived"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "type": "neologism"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "9C632A"
+}

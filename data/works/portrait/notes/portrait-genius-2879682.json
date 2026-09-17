@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2879682",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "And he recalled the shrewd northern face of the rector who had taught him to construe the Metamorphoses of Ovid in a courtly English",
+  "html_source": "<p>Recall <a href=\"http://poetry.genius.com/2646268\" rel=\"noopener nofollow\">the epigraph</a>, from Ovid’s Metamorphoses:</p><blockquote><p>Et ignotas animum dimittit in artes.</p></blockquote><p><em>(And he turned his mind to unknown arts.)</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2879682/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/And-he-recalled-the-shrewd-northern-face-of-the-rector-who-had-taught-him-to-construe-the-metamorphoses-of-ovid-in-a-courtly-english",
+    "original_id": "2879682",
+    "referent_id": 2879682,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "and he recalled the shrewd northern face of the rector who had taught him to construe the Metamorphoses of Ovid in a courtly English",
+    "prefix": "nd brighter than any ivory sawn from the mottled tusks of elephants. Ivory, ivoire, avorio, ebur. One of the first examples that he had learnt in Latin had run: India mittit ebur; ",
+    "suffix": ", made whimsical by the mention of porkers and potsherds and chines of bacon. He had learnt what little he knew of the laws of Latin verse from a ragged book written by a Portugues",
+    "start": 10040,
+    "end": 10172,
+    "canonical_text": "and he recalled the shrewd northern face of the rector who had taught him to construe the Metamorphoses of Ovid in a courtly English"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2879682,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

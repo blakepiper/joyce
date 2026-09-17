@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0264",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Dante",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Dante</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:264"
+  },
+  "anchor": {
+    "text": "Dante",
+    "prefix": "ead. We saw him lying upon the catafalque. A wail of sorrow went up from the people.\n\n —Parnell! Parnell! He is dead!\n\n They fell upon their knees, moaning in sorrow.\n\n And he saw ",
+    "suffix": " in a maroon velvet dress and with a green velvet mantle hanging from her shoulders walking proudly and silently past the people who knelt by the water’s edge.\n\n A great fire, bank",
+    "start": 36323,
+    "end": 36328,
+    "canonical_text": "Dante"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

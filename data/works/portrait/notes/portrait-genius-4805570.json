@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4805570",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Grantham Street",
+  "html_source": "<p>A street to the west of University college in Stephen’s green.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4805570/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Grantham-street",
+    "original_id": "4805570",
+    "referent_id": 4805570,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "Grantham Street",
+    "prefix": "me on the lips of his friend had touched Stephen pleasantly when first heard for he was as formal in speech with others as they were with him. Often, as he sat in Davin’s rooms in ",
+    "suffix": ", wondering at his friend’s well-made boots that flanked the wall pair by pair and repeating for his friend’s simple ear the verses and cadences of others which were the veils of h",
+    "start": 12529,
+    "end": 12544,
+    "canonical_text": "Grantham Street"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4805570,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1356898,
+        "login": "ecbiv",
+        "name": "ecbiv",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

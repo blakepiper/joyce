@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4259072",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Two",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/888ec33b1d79dce06978b072849e9bf3.500x335x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4259072/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Two",
+    "original_id": "4259072",
+    "referent_id": 4259072,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "Two",
+    "prefix": "n ecstasy of flight made radiant his eyes and wild his breath and tremulous and wild and radiant his windswept limbs.\n\n —One! Two!... Look out!\n\n —O, Cripes, I’m drownded!\n\n —One! ",
+    "suffix": "! Three and away!\n\n —The next! The next!\n\n —One!... Uk!\n\n —Stephaneforos!\n\n His throat ached with a desire to cry aloud, the cry of a hawk or eagle on high, to cry piercingly of hi",
+    "start": 45632,
+    "end": 45635,
+    "canonical_text": "Two"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 4259072,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1254026,
+        "login": "Anonymous4123",
+        "name": "Anonymous4123",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

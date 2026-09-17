@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-6323205",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "Belvedere",
+  "html_source": "<p>Belvedere College is a private Jesuit secondary school for boys in Dublin, Ireland. It is also known as St. Francis Xavier’s College named after one of the co-founders of the Society of Jesus.</p><p><img src=\"https://images.rapgenius.com/64c5a458a9a20da308ac879c82767815.208x193x1.png\" alt=\"\" /></p><p>James Joyce was offered a place and attended Belvedere after his family was unable to afford Clongowes.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6323205/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2/Belvedere",
+    "original_id": "6323205",
+    "referent_id": 6323205,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2-annotated"
+  },
+  "anchor": {
+    "text": "Belvedere",
+    "prefix": "he names of the scattered and dead revellers who had been the companions of his father’s youth. And a faint sickness sighed in his heart. He recalled his own equivocal position in ",
+    "suffix": ", a free boy, a leader afraid of his own authority, proud and sensitive and suspicious, battling against the squalor of his life and against the riot of his mind. The letters cut i",
+    "start": 59609,
+    "end": 59618,
+    "canonical_text": "Belvedere"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 6323205,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1507433,
+        "login": "vtomic",
+        "name": "vtomic",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

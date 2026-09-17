@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0096",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Wells",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Wells</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:96"
+  },
+  "anchor": {
+    "text": "Wells",
+    "prefix": "hey all laughed again. Stephen tried to laugh with them. He felt his whole body hot and confused in a moment. What was the right answer to the question? He had given two and still ",
+    "suffix": " laughed. But Wells must know the right answer for he was in third of grammar. He tried to think of Wells’s mother but he did not dare to raise his eyes to Wells’s face. He did not",
+    "start": 13252,
+    "end": 13257,
+    "canonical_text": "Wells"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

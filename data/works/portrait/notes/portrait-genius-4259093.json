@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4259093",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Guzzle",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/24f34f63da4b317654f64c03ed9ce3e5.375x500x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4259093/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Guzzle",
+    "original_id": "4259093",
+    "referent_id": 4259093,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "Guzzle",
+    "prefix": "lling you, or I’ll give you a stuff in the kisser for yourself.... Ao!\n\n —Good man, Towser! Duck him!\n\n —Come along, Dedalus! Bous Stephanoumenos! Bous Stephaneforos!\n\n —Duck him! ",
+    "suffix": " him now, Towser!\n\n —Help! Help!... Ao!\n\n He recognised their speech collectively before he distinguished their faces. The mere sight of that medley of wet nakedness chilled him to",
+    "start": 42803,
+    "end": 42809,
+    "canonical_text": "Guzzle"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4259093,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1254026,
+        "login": "Anonymous4123",
+        "name": "Anonymous4123",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

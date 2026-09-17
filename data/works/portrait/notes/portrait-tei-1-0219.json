@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0219",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Place: Athy",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Athy</p></blockquote><p class=\"tei-detail\">Coordinates: 52.991834 -6.985728</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:219"
+  },
+  "anchor": {
+    "text": "Athy",
+    "prefix": "ur people talk about that too?\n\n —Yes, Stephen said.\n\n —Mine too, he said.\n\n Then he thought for a moment and said:\n\n —You have a queer name, Dedalus, and I have a queer name too, ",
+    "suffix": ". My name is the name of a town. Your name is like Latin.\n\n Then he asked:\n\n —Are you good at riddles?\n\n Stephen answered:\n\n —Not very good.\n\n Then he said:\n\n —Can you answer me th",
+    "start": 32754,
+    "end": 32758,
+    "canonical_text": "Athy"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "52.991834 -6.985728",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

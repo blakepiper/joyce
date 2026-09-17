@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0134",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Dieu",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Dieu</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:134"
+  },
+  "anchor": {
+    "text": "Dieu",
+    "prefix": "erything and everywhere. Only God could do that. He tried to think what a big thought that must be but he could only think of God. God was God’s name just as his name was Stephen. ",
+    "suffix": " was the French for God and that was God’s name too; and when anyone prayed to God and said Dieu then God knew at once that it was a French person that was praying. But though ther",
+    "start": 16504,
+    "end": 16508,
+    "canonical_text": "Dieu"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

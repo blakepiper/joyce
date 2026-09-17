@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0369",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Neologism: cinderpath",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a neologism.</p><blockquote><p>cinderpath</p></blockquote><p class=\"tei-detail\">TEI type: neologism</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:369"
+  },
+  "anchor": {
+    "text": "cinderpath",
+    "prefix": "o have grown smaller: that was because a sprinter had knocked him down the day before, a fellow out of second of grammar. He had been thrown by the fellow’s machine lightly on the ",
+    "suffix": " and his spectacles had been broken in three pieces and some of the grit of the cinders had gone into his mouth.\n\n That was why the fellows seemed to him smaller and farther away a",
+    "start": 60615,
+    "end": 60625,
+    "canonical_text": "cinderpath"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "type": "neologism"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "9C632A"
+}

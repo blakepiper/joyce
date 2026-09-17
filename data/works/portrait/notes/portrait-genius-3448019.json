@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-3448019",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Uncreated conscience of my race",
+  "html_source": "<p>A conscience which is free from the dominant forces of the church and the empire.</p><p><img src=\"https://images.rapgenius.com/d066876fefd4e53411864e80686b61e6.427x300x1.jpg\" alt=\"\" /></p><p><img src=\"https://images.rapgenius.com/92c6d62b1675a1422b9d5bd06777640d.530x340x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3448019/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Uncreated-conscience-of-my-race",
+    "original_id": "3448019",
+    "referent_id": 3448019,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "uncreated conscience of my race",
+    "prefix": " what the heart is and what it feels. Amen. So be it. Welcome, O life! I go to encounter for the millionth time the reality of experience and to forge in the smithy of my soul the ",
+    "suffix": ".\n\n April 27. Old father, old artificer, stand me now and ever in good stead.\n\n \n\n\n\n Dublin, 1904.\nTrieste, 1914.\n\n",
+    "start": 146122,
+    "end": 146153,
+    "canonical_text": "uncreated conscience of my race"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3448019,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-16071498",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Speak",
+  "html_source": "<p>Speak (slang) : telling someone to stop or shut up</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/16071498/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Speak",
+    "original_id": "16071498",
+    "referent_id": 16071498,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "speak",
+    "prefix": "ut he walked on without even answering the fellow. Simon Moonan told him not to because the prefect was looking. The fellow turned to Simon Moonan and said:\n\n —We all know why you ",
+    "suffix": ". You are McGlade’s suck.\n\n Suck was a queer word. The fellow called Simon Moonan that name because Simon Moonan used to tie the prefect’s false sleeves behind his back and the pre",
+    "start": 7182,
+    "end": 7187,
+    "canonical_text": "speak"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 16071498,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3265261,
+        "login": "DanielDreesen",
+        "name": "DanielDreesen",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

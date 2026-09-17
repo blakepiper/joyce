@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-16071578",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Tullabeg",
+  "html_source": "<p>The Jesuits founded St Stanislaus College in Tullabeg in 1818 : it was founded as a boarding school for boys under the age of thirteen.<br />However, in 1886, the school was closed and the boys were transferred to Clongowes.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/16071578/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Tullabeg",
+    "original_id": "16071578",
+    "referent_id": 16071578,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Tullabeg",
+    "prefix": " to hear for an instant the little song of the gas. The prefect was at the door with some boys and Simon Moonan was knotting his false sleeves. He was telling them something about ",
+    "suffix": ".\n\n Then he went away from the door and Wells came over to Stephen and said:\n\n —Tell us, Dedalus, do you kiss your mother before you go to bed?\n\n Stephen answered:\n\n —I do.\n\n Wells",
+    "start": 12531,
+    "end": 12539,
+    "canonical_text": "Tullabeg"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 16071578,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3265261,
+        "login": "DanielDreesen",
+        "name": "DanielDreesen",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

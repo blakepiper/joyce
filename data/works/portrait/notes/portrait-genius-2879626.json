@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2879626",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "It is like looking down from the cliffs of Moher into the depths.",
+  "html_source": "<p>The <a href=\"http://en.wikipedia.org/wiki/Cliffs_of_moher\" rel=\"noopener nofollow\">Cliffs of Moher</a> on the western coast of Ireland, renown for their height—up to 390 ft / 120 m.</p><p><img src=\"https://images.rapgenius.com/1b8ca3b9f9927c5ad6a36fd9dac8ec01.1000x750x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2879626/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/It-is-like-looking-down-from-the-cliffs-of-moher-into-the-depths",
+    "original_id": "2879626",
+    "referent_id": 2879626,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "It is like looking down from the cliffs of Moher into the depths.",
+    "prefix": "question? he asked.\n\n —From me! said Stephen in astonishment. I stumble on an idea once a fortnight if I am lucky.\n\n —These questions are very profound, Mr Dedalus, said the dean. ",
+    "suffix": " Many go down into the depths and never come up. Only the trained diver can go down into those depths and explore them and come to the surface again.\n\n —If you mean speculation, si",
+    "start": 25394,
+    "end": 25459,
+    "canonical_text": "It is like looking down from the cliffs of Moher into the depths."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2879626,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

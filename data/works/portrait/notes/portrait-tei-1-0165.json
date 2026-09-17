@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0165",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Place: Prague",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Prague</p></blockquote><p class=\"tei-detail\">Coordinates: 50.075538 14.437800</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:165"
+  },
+  "anchor": {
+    "text": "Prague",
+    "prefix": "d cloak and knew that he had received his deathwound. But only the dark was where they looked: only dark silent air. Their master had received his deathwound on the battlefield of ",
+    "suffix": " far away over the sea. He was standing on the field; his hand was pressed to his side; his face was pale and strange and he wore the white cloak of a marshal.\n\n O how cold and str",
+    "start": 22847,
+    "end": 22853,
+    "canonical_text": "Prague"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "50.075538 14.437800",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

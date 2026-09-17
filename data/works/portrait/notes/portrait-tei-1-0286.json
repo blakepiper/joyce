@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0286",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Place: Dunn's of D'Olier Street",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Dunn&#x27;s of D&#x27;Olier Street</p></blockquote><p class=\"tei-detail\">Coordinates: 53.346308 -6.257925</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:286"
+  },
+  "anchor": {
+    "text": "Dunn's of D'Olier Street",
+    "prefix": "he edge with glistening drops.\n\n Stephen looked at the plump turkey which had lain, trussed and skewered, on the kitchen table. He knew that his father had paid a guinea for it in ",
+    "suffix": " and that the man had prodded it often at the breastbone to show how good it was: and he remembered the man’s voice when he had said:\n\n —Take that one, sir. That’s the real Ally Da",
+    "start": 40775,
+    "end": 40799,
+    "canonical_text": "Dunn’s of D’Olier Street"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.346308 -6.257925",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

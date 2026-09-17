@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-3-0009",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "LA passage: Corpus Domini nostri.",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>Corpus Domini nostri.</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-3:9"
+  },
+  "anchor": {
+    "text": "Corpus Domini nostri.",
+    "prefix": "altar cloth with them over a living rail of hands. His hands were trembling and his soul trembled as he heard the priest pass with the ciborium from communicant to communicant.\n\n —",
+    "suffix": "\n\n Could it be? He knelt there sinless and timid; and he would hold upon his tongue the host and God would enter his purified body.\n\n —In vitam eternam. Amen.\n\n Another life! A lif",
+    "start": 90098,
+    "end": 90119,
+    "canonical_text": "Corpus Domini nostri."
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

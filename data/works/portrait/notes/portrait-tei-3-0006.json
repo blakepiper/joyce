@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-3-0006",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "Place: Malahide",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Malahide</p></blockquote><p class=\"tei-detail\">Coordinates: 53.450924 -6.150138</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-3:6"
+  },
+  "anchor": {
+    "text": "Malahide",
+    "prefix": "t the window, talking, jesting, gazing out at the bleak rain, moving their heads.\n\n —I wish it would clear up. I had arranged to go for a spin on the bike with some fellows out by ",
+    "suffix": ". But the roads must be kneedeep.\n\n —It might clear up, sir.\n\n The voices that he knew so well, the common words, the quiet of the classroom when the voices paused and the silence ",
+    "start": 48900,
+    "end": 48908,
+    "canonical_text": "Malahide"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.450924 -6.150138",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

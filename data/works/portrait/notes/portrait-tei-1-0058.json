@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0058",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Dante",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Dante</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:58"
+  },
+  "anchor": {
+    "text": "Dante",
+    "prefix": "e had taught him where the Mozambique Channel was and what was the longest river in America and what was the name of the highest mountain in the moon. Father Arnall knew more than ",
+    "suffix": " because he was a priest but both his father and uncle Charles said that Dante was a clever woman and a wellread woman. And when Dante made that noise after dinner and then put up ",
+    "start": 6468,
+    "end": 6473,
+    "canonical_text": "Dante"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0224",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Place: Athy",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Athy</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:224"
+  },
+  "anchor": {
+    "text": "Athy",
+    "prefix": " there came the sounds of the cricket bats through the soft grey air. They said: pick, pack, pock, puck: little drops of water in a fountain slowly falling in the brimming bowl.\n\n ",
+    "suffix": ", who had been silent, said quietly:\n\n —You are all wrong.\n\n All turned towards him eagerly.\n\n —Why?\n\n —Do you know?\n\n —Who told you?\n\n —Tell us, Athy.\n\n Athy pointed across the pl",
+    "start": 61306,
+    "end": 61310,
+    "canonical_text": "Athy"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

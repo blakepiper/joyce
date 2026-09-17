@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4805420",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Prose of Newman",
+  "html_source": "<p>The delicacy of Newman’s prose is his counteragent to the sloblands.</p><p><img src=\"https://images.rapgenius.com/f94ada4e0d3ea357aae37a5195bf9256.640x828x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4805420/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Prose-of-newman",
+    "original_id": "4805420",
+    "referent_id": 4805420,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "prose of Newman",
+    "prefix": "ingled in a mood of quiet joy. His morning walk across the city had begun, and he foreknew that as he passed the sloblands of Fairview he would think of the cloistral silverveined ",
+    "suffix": "; that as he walked along the North Strand Road, glancing idly at the windows of the provision shops, he would recall the dark humour of Guido Cavalcanti and smile; that as he went",
+    "start": 3807,
+    "end": 3822,
+    "canonical_text": "prose of Newman"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4805420,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1356898,
+        "login": "ecbiv",
+        "name": "ecbiv",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

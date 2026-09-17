@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2910256",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "—CREDO UT VOS SANGUINARIUS MENDAX ESTIS, said Cranly, QUIA FACIES VOSTRA MONSTRAT UT VOS IN DAMNO MALO HUMORE ESTIS",
+  "html_source": "<p>Latin,<br /><em>I believe that you are a bloody liar,… because your face shows you are in a damned bad humor.</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2910256/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Credo-ut-vos-sanguinarius-mendax-estis-said-cranly-quia-facies-vostra-monstrat-ut-vos-in-damno-malo-humore-estis",
+    "original_id": "2910256",
+    "referent_id": 2910256,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "—CREDO UT VOS SANGUINARIUS MENDAX ESTIS, said Cranly, QUIA FACIES VOSTRA MONSTRAT UT VOS IN DAMNO MALO HUMORE ESTIS",
+    "prefix": "ger in his voice brought Cranly’s eyes back from a calm survey of the walls of the hall.\n\n —Are you annoyed? he asked.\n\n —No, answered Stephen.\n\n —Are you in bad humour?\n\n —No.\n\n —",
+    "suffix": ".\n\n Moynihan, on his way to the table, said in Stephen’s ear:\n\n —MacCann is in tiptop form. Ready to shed the last drop. Brand new world. No stimulants and votes for the bitches.\n\n",
+    "start": 40193,
+    "end": 40307,
+    "canonical_text": "Credo ut vos sanguinarius mendax estis, said Cranly, quia facies vostra monstrat ut vos in damno malo humore estis"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2910256,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

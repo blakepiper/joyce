@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2841679",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "—Hello, Stephanos!",
+  "html_source": "<p><em>Stephanos</em> is just Stephen’s name transliterated from Greek, Στεφανος, meaning “crown, wreath, or garland.”</p><hr /><p>Recall Stephen’s Greek connections from his surname, <em>Dedalus.</em> <a href=\"http://en.wikipedia.org/wiki/Daedalus\" rel=\"noopener nofollow\">Daedalus</a> was a mythological craftsman of <a href=\"http://en.wikipedia.org/wiki/Crete\" rel=\"noopener nofollow\">Crete</a>, most known for <a href=\"http://en.wikipedia.org/wiki/Daedalus#Daedalus_and_Icarus\" rel=\"noopener nofollow\">flying with his son, Icarus</a>. (flying with wings he made)</p><p>This whole Greek connection may be related to Stephen getting “his wings”, as it is essentially from here onward that Stephen truly recognizes what he is “destined” to be.</p><p><img src=\"https://images.rapgenius.com/3170183ec18df5b58b4694f9b4ed7a36.900x734x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2841679/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Hello-stephanos",
+    "original_id": "2841679",
+    "referent_id": 2841679,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "—Hello, Stephanos!",
+    "prefix": "g trail of nebulous music there fell always one longdrawn calling note, piercing like a star the dusk of silence. Again! Again! Again! A voice from beyond the world was calling.\n\n ",
+    "suffix": "\n\n —Here comes The Dedalus!\n\n —Ao!... Eh, give it over, Dwyer, I’m telling you, or I’ll give you a stuff in the kisser for yourself.... Ao!\n\n —Good man, Towser! Duck him!\n\n —Come a",
+    "start": 42536,
+    "end": 42554,
+    "canonical_text": "—Hello, Stephanos!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2841679,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

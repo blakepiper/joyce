@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4259043",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "On and on and on and on!",
+  "html_source": "<p>He is overwhelmed with spirituality and joy, and Joyce manages to express this powerful sense using only two words.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4259043/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/On-and-on-and-on-and-on",
+    "original_id": "4259043",
+    "referent_id": 4259043,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "On and on and on and on!",
+    "prefix": "o him, the angel of mortal youth and beauty, an envoy from the fair courts of life, to throw open before him in an instant of ecstasy the gates of all the ways of error and glory. ",
+    "suffix": "\n\n He halted suddenly and heard his heart in the silence. How far had he walked? What hour was it?\n\n There was no human figure near him nor any sound borne to him over the air. But",
+    "start": 51009,
+    "end": 51033,
+    "canonical_text": "On and on and on and on!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4259043,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1254060,
+        "login": "epiphanies",
+        "name": "epiphanies",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0037",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Person: William Malcolm Inverarity",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>William Malcolm Inverarity</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:37"
+  },
+  "anchor": {
+    "text": "William Malcolm Inverarity",
+    "prefix": "the touch even when his own fingers were cold; they were human pages and fifty years before they had been turned by the human fingers of John Duncan Inverarity and by his brother, ",
+    "suffix": ". Yes, those were noble names on the dusky flyleaf and, even for so poor a Latinist as he, the dusky verses were as fragrant as though they had lain all those years in myrtle and l",
+    "start": 10951,
+    "end": 10977,
+    "canonical_text": "William Malcolm Inverarity"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

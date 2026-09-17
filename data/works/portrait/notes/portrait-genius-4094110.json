@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4094110",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "—NOS AD MANUM BALLUM JOCABIMUS",
+  "html_source": "<p><em>Let’s go play hand-ball</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4094110/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Nos-ad-manum-ballum-jocabimus",
+    "original_id": "4094110",
+    "referent_id": 4094110,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "—NOS AD MANUM BALLUM JOCABIMUS",
+    "prefix": "\n —He thinks I’m an imbecile, Temple explained to Stephen, because I’m a believer in the power of mind.\n\n Cranly linked his arms into those of Stephen and his admirer and said:\n\n —",
+    "suffix": ".\n\n Stephen, in the act of being led away, caught sight of MacCann’s flushed bluntfeatured face.\n\n —My signature is of no account, he said politely. You are right to go your way. L",
+    "start": 46639,
+    "end": 46668,
+    "canonical_text": "Nos ad manum ballum jocabimus"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4094110,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

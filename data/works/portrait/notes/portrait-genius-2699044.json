@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2699044",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Decline the noun mare",
+  "html_source": "<p>The ablative plural is <a href=\"https://en.wiktionary.org/wiki/mare#Latin\" rel=\"noopener nofollow\">maribus</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2699044/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Decline-the-noun-mare",
+    "original_id": "2699044",
+    "referent_id": 2699044,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "decline the noun mare",
+    "prefix": "the pages were stuck together by a blot: and Father Arnall held it up by a corner and said it was an insult to any master to send him up such a theme. Then he asked Jack Lawton to ",
+    "suffix": " and Jack Lawton stopped at the ablative singular and could not go on with the plural.\n\n —You should be ashamed of yourself, said Father Arnall sternly. You, the leader of the clas",
+    "start": 71724,
+    "end": 71745,
+    "canonical_text": "decline the noun mare"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2699044,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

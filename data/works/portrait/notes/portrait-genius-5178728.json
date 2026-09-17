@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-5178728",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "Cork accent",
+  "html_source": "<p>The cork accent is one of the strongest accents in Ireland, and isn’t exactly one that people like to carry around in other parts of Ireland, like Dublin.</p><p>They even mock themselves about it.<br /><a href=\"https://www.youtube.com/watch?v=gZR8XqNX4LY\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=gZR8XqNX4LY</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5178728/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2/Cork-accent",
+    "original_id": "5178728",
+    "referent_id": 5178728,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2-annotated"
+  },
+  "anchor": {
+    "text": "Cork accent",
+    "prefix": "n and barmaids, to the beggars who importuned him for a lob Mr Dedalus told the same tale, that he was an old Corkonian, that he had been trying for thirty years to get rid of his ",
+    "suffix": " up in Dublin and that Peter Pickackafax beside him was his eldest son but that he was only a Dublin jackeen.\n\n They had set out early in the morning from Newcombe’s coffeehouse, w",
+    "start": 64706,
+    "end": 64717,
+    "canonical_text": "Cork accent"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 5178728,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1508799,
+        "login": "CRG02",
+        "name": "CRG02",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

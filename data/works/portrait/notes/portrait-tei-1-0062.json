@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0062",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: McGlade",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>McGlade</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:62"
+  },
+  "anchor": {
+    "text": "McGlade",
+    "prefix": " without even answering the fellow. Simon Moonan told him not to because the prefect was looking. The fellow turned to Simon Moonan and said:\n\n —We all know why you speak. You are ",
+    "suffix": "’s suck.\n\n Suck was a queer word. The fellow called Simon Moonan that name because Simon Moonan used to tie the prefect’s false sleeves behind his back and the prefect used to let ",
+    "start": 7197,
+    "end": 7204,
+    "canonical_text": "McGlade"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

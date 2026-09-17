@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-2-0008",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "Place: Carrickmines",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Carrickmines</p></blockquote><p class=\"tei-detail\">Coordinates: 53.250224 -6.179926</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-2:8"
+  },
+  "anchor": {
+    "text": "Carrickmines",
+    "prefix": "eshore in their nostrils and the rank oils of the seawrack upon their hands and in their hair.\n\n Aubrey and Stephen had a common milkman and often they drove out in the milkcar to ",
+    "suffix": " where the cows were at grass. While the men were milking the boys would take turns in riding the tractable mare round the field. But when autumn came the cows were driven home fro",
+    "start": 7180,
+    "end": 7192,
+    "canonical_text": "Carrickmines"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.250224 -6.179926",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

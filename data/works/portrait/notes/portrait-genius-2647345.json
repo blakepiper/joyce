@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2647345",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Pull out his eyes,\n     Apologize,\n     Apologize,\n     Pull out his eyes.\n \n     Apologize,\n     Pull out his eyes,\n     Pull out his eyes,\n     Apologize.",
+  "html_source": "<p>Notice the musicality of this.</p><p>“Pull out his eyes,<br />Apologize,”</p><p>It’s all in <a href=\"http://bit.ly/1agSC9O\" rel=\"noopener nofollow\">iambic</a> <a href=\"http://en.wikipedia.org/wiki/Dimeter\" rel=\"noopener nofollow\">dimeter</a>, and is all quite <a href=\"http://en.wikipedia.org/wiki/Assonance\" rel=\"noopener nofollow\">assonant</a> and the ends rhyme. (consider the <a href=\"http://en.wikipedia.org/wiki/International_Phonetic_Alphabet\" rel=\"noopener nofollow\">aɪz</a> sound in “eyes” and “-gize”)</p><p>The musical—near songlike—nature of these lines minimizes the whole concept—that telling a young child (in this instance) if he does not apologize, “the eagles will come and pull out his eyes.”</p><p><img src=\"https://images.rapgenius.com/24ec875366c9df1eaa764842868f792c.640x469x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2647345/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Pull-out-his-eyes-apologize-apologize-pull-out-his-eyes-apologize-pull-out-his-eyes-pull-out-his-eyes-apologize",
+    "original_id": "2647345",
+    "referent_id": 2647345,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Pull out his eyes,\n     Apologize,\n     Apologize,\n     Pull out his eyes.\n \n     Apologize,\n     Pull out his eyes,\n     Pull out his eyes,\n     Apologize.",
+    "prefix": " up he was going to marry Eileen. He hid under the table. His mother said:\n\n —O, Stephen will apologise.\n\n Dante said:\n\n —O, if not, the eagles will come and pull out his eyes.—\n\n ",
+    "suffix": "\n\n The wide playgrounds were swarming with boys. All were shouting and the prefects urged them on with strong cries. The evening air was pale and chilly and after every charge and ",
+    "start": 1565,
+    "end": 1685,
+    "canonical_text": "Pull out his eyes,\nApologise,\nApologise,\nPull out his eyes.\n\nApologise,\nPull out his eyes,\nPull out his eyes,\nApologise."
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9664
+  },
+  "genius": {
+    "referent_id": 2647345,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 0.9504950495049505
+      },
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.04950495049504951
+      }
+    ]
+  },
+  "color": "F59627"
+}

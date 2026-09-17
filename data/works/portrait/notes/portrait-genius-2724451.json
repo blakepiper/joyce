@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2724451",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "Where Mr Dedalus’s cup had rattled noisily against its saucer, and Stephen had tried to cover that shameful sign of his father’s drinking bout of the night before by moving his chair and coughing.",
+  "html_source": "<p>Mr. Dedalus has become an alcoholic, which thoroughly embarrasses Stephen.</p><p>He is doing quite a bit to try to hide this problem, “moving his chair and coughing”, so he is pretty concerned perhaps for his father in general, his father’s image, or his own image.</p><p><img src=\"https://images.rapgenius.com/ff84a9b0a72712d0223affd2275710e4.668x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2724451/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2/Where-mr-dedaluss-cup-had-rattled-noisily-against-its-saucer-and-stephen-had-tried-to-cover-that-shameful-sign-of-his-fathers-drinking-bout-of-the-night-before-by-moving-his-chair-and-coughing",
+    "original_id": "2724451",
+    "referent_id": 2724451,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2-annotated"
+  },
+  "anchor": {
+    "text": "where Mr Dedalus's cup had rattled noisily against its saucer, and Stephen had tried to cover that shameful sign of his father's drinking bout of the night before by moving his chair and coughing.",
+    "prefix": "t up in Dublin and that Peter Pickackafax beside him was his eldest son but that he was only a Dublin jackeen.\n\n They had set out early in the morning from Newcombe’s coffeehouse, ",
+    "suffix": " One humiliation had succeeded another—the false smiles of the market sellers, the curvetings and oglings of the barmaids with whom his father flirted, the compliments and encourag",
+    "start": 64896,
+    "end": 65091,
+    "canonical_text": "where Mr Dedalus’ cup had rattled noisily against its saucer, and Stephen had tried to cover that shameful sign of his father’s drinking bout of the night before by moving his chair and coughing."
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9974
+  },
+  "genius": {
+    "referent_id": 2724451,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

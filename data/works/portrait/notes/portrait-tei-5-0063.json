@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0063",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Person: Stevie",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Stevie</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:63"
+  },
+  "anchor": {
+    "text": "Stevie",
+    "prefix": "the night there. She said she was all alone in the house and that her husband had gone that morning to Queenstown with his sister to see her off. And all the time she was talking, ",
+    "suffix": ", she had her eyes fixed on my face and she stood so close to me I could hear her breathing. When I handed her back the mug at last she took my hand to draw me in over the threshol",
+    "start": 17785,
+    "end": 17791,
+    "canonical_text": "Stevie"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

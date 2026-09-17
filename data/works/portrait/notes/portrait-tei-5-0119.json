@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0119",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: Kildare house",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Kildare house</p></blockquote><p class=\"tei-detail\">Coordinates: 53.340762 -6.258382</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:119"
+  },
+  "anchor": {
+    "text": "Kildare house",
+    "prefix": "aken island? No wonder the artist retired within or behind his handiwork after having perpetrated this country.\n\n The rain fell faster. When they passed through the passage beside ",
+    "suffix": " they found many students sheltering under the arcade of the library. Cranly, leaning against a pillar, was picking his teeth with a sharpened match, listening to some companions. ",
+    "start": 78289,
+    "end": 78302,
+    "canonical_text": "Kildare house"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.340762 -6.258382",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

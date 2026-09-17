@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-5403801",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "A go-by-the-wall",
+  "html_source": "<p>This phrase “go-by-the-wall” also means one who takes on great risk or to hold out to the very last on some issue.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5403801/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/A-go-by-the-wall",
+    "original_id": "5403801",
+    "referent_id": 5403801,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "a go-by-the-wall",
+    "prefix": "’m proud that I’m an emotionalist.\n\n He sidled out of the alley, smiling slily. Cranly watched him with a blank expressionless face.\n\n —Look at him! he said. Did you ever see such ",
+    "suffix": "?\n\n His phrase was greeted by a strange laugh from a student who lounged against the wall, his peaked cap down on his eyes. The laugh, pitched in a high key and coming from a so mu",
+    "start": 50883,
+    "end": 50899,
+    "canonical_text": "a go-by-the-wall"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5403801,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1504526,
+        "login": "katherine_tran",
+        "name": "katherine_tran",
+        "role": null,
+        "attribution": 0.8148148148148148
+      },
+      {
+        "id": 127576,
+        "login": "WCWTF",
+        "name": "Daniel E. Burke",
+        "role": "editor",
+        "attribution": 0.1851851851851852
+      }
+    ]
+  },
+  "color": "F59627"
+}

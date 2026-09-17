@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-4-0011",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Place: Clongowes",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Clongowes</p></blockquote><p class=\"tei-detail\">Coordinates: 53.348746 -6.275034</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-4:11"
+  },
+  "anchor": {
+    "text": "Clongowes",
+    "prefix": " sports in Clongowes and eating slim jim out of his cricketcap. Some jesuits were walking round the cycle-track in the company of ladies. The echoes of certain expressions used in ",
+    "suffix": " sounded in remote caves of his mind.\n\n His ears were listening to these distant echoes amid the silence of the parlour when he became aware that the priest was addressing him in a",
+    "start": 20853,
+    "end": 20862,
+    "canonical_text": "Clongowes"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.348746 -6.275034",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

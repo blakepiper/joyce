@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-3-0010",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "LA passage: In vitam eternam. Amen.",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>In vitam eternam. Amen.</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-3:10"
+  },
+  "anchor": {
+    "text": "In vitam eternam. Amen.",
+    "prefix": "cant to communicant.\n\n —Corpus Domini nostri.\n\n Could it be? He knelt there sinless and timid; and he would hold upon his tongue the host and God would enter his purified body.\n\n —",
+    "suffix": "\n\n Another life! A life of grace and virtue and happiness! It was true. It was not a dream from which he would wake. The past was past.\n\n —Corpus Domini nostri.\n\n The ciborium had ",
+    "start": 90254,
+    "end": 90277,
+    "canonical_text": "In vitam eternam. Amen."
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

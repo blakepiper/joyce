@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4258305",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Soul",
+  "html_source": "<p>Interesting to note that the word God appears more than the word soul in this chapter. The next however focuses more on the soul. Stephen fears for the salvation of his soul so begins to pray to God for his salvation.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4258305/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Soul",
+    "original_id": "4258305",
+    "referent_id": 4258305,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "soul",
+    "prefix": "t in the midst of the purgatorial fire, which differed from the infernal only in that it was not everlasting, his penance might avail no more than a drop of moisture, he drove his ",
+    "suffix": " daily through an increasing circle of works of supererogation.\n\n Every part of his day, divided by what he regarded now as the duties of his station in life, circled about its own",
+    "start": 1543,
+    "end": 1547,
+    "canonical_text": "soul"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 4258305,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1253780,
+        "login": "Leopold-Bloom",
+        "name": "Leopold-Bloom",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

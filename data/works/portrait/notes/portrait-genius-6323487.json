@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-6323487",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "I want to see Rosie first",
+  "html_source": "<p>Does this sentence reflect and finally conclude Stephen’s stance on his values, and how he will remain faithful to his aesthetic philosophy?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6323487/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/I-want-to-see-rosie-first",
+    "original_id": "6323487",
+    "referent_id": 6323487,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "I want to see Rosie first",
+    "prefix": " poetry for you, he said. There’s real love.\n\n He glanced sideways at Stephen with a strange smile and said:\n\n —Do you consider that poetry? Or do you know what the words mean?\n\n —",
+    "suffix": ", said Stephen.\n\n —She’s easy to find, Cranly said.\n\n His hat had come down on his forehead. He shoved it back and in the shadow of the trees Stephen saw his pale face, framed by t",
+    "start": 130657,
+    "end": 130682,
+    "canonical_text": "I want to see Rosie first"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6323487,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1511019,
+        "login": "eltigrechino",
+        "name": "eltigrechino",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

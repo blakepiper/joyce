@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4258293",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Mass in the catacombs",
+  "html_source": "<p>A metaphor for the fact that his creativity is dead. He has fallen into a routine and structure that limits his personal growth.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4258293/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Mass-in-the-catacombs",
+    "original_id": "4258293",
+    "referent_id": 4258293,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "mass in the catacombs",
+    "prefix": " glanced up for an instant towards the vested figure standing in the gloom between the two candles, which were the old and the new testaments, and imagined that he was kneeling at ",
+    "suffix": ".\n\n His daily life was laid out in devotional areas. By means of ejaculations and prayers he stored up ungrudgingly for the souls in purgatory centuries of days and quarantines and",
+    "start": 875,
+    "end": 896,
+    "canonical_text": "mass in the catacombs"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4258293,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1253780,
+        "login": "Leopold-Bloom",
+        "name": "Leopold-Bloom",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

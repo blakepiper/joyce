@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0075",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Father Arnall",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Father Arnall</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:75"
+  },
+  "anchor": {
+    "text": "Father Arnall",
+    "prefix": " or he. Some weeks Jack Lawton got the card for first and some weeks he got the card for first. His white silk badge fluttered and fluttered as he worked at the next sum and heard ",
+    "suffix": "’s voice. Then all his eagerness passed away and he felt his face quite cool. He thought his face must be white because it felt so cool. He could not get out the answer for the sum",
+    "start": 9325,
+    "end": 9338,
+    "canonical_text": "Father Arnall"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

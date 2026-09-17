@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0105",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "LA passage: Pange lingua gloriosi",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>Pange lingua gloriosi</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:105"
+  },
+  "anchor": {
+    "text": "Pange lingua gloriosi",
+    "prefix": "art.\n\n —Who knows? said Stephen, smiling. Perhaps Aquinas would understand me better than you. He was a poet himself. He wrote a hymn for Maundy Thursday. It begins with the words ",
+    "suffix": ". They say it is the highest glory of the hymnal. It is an intricate and soothing hymn. I like it; but there is no hymn that can be put beside that mournful and majestic procession",
+    "start": 67471,
+    "end": 67492,
+    "canonical_text": "Pange lingua gloriosi"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

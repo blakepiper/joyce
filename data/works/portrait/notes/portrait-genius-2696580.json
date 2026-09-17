@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2696580",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "He was no good at sums",
+  "html_source": "<p>Joyce is systematically exaggerating his own vulnerability at Clongowes: but math was his weakest subject [<a href=\"http://web.archive.org/web/20120601134435/http://www.robotwisdom.com/jaj/dedalus.html\" rel=\"noopener nofollow\">table</a>].</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2696580/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/He-was-no-good-at-sums",
+    "original_id": "2696580",
+    "referent_id": 2696580,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "He was no good at sums",
+    "prefix": "Stephen tried his best but the sum was too hard and he felt confused. The little silk badge with the white rose on it that was pinned on the breast of his jacket began to flutter. ",
+    "suffix": " but he tried his best so that York might not lose. Father Arnall’s face looked very black but he was not in a wax: he was laughing. Then Jack Lawton cracked his fingers and Father",
+    "start": 8567,
+    "end": 8589,
+    "canonical_text": "He was no good at sums"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2696580,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

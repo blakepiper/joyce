@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-39281743",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "VISA",
+  "html_source": "<p>Literally, the Latin word for “<em>seen</em>”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/39281743/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Visa",
+    "original_id": "39281743",
+    "referent_id": 39281743,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "VISA",
+    "prefix": "\n\n —Aquinas, said Stephen, says that is beautiful the apprehension of which pleases.\n\n Lynch nodded.\n\n —I remember that, he said, Pulcra sunt quæ visa placent.\n\n —He uses the word ",
+    "suffix": ", said Stephen, to cover esthetic apprehensions of all kinds, whether through sight or hearing or through any other avenue of apprehension. This word, though it is vague, is clear ",
+    "start": 62918,
+    "end": 62922,
+    "canonical_text": "visa"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 39281743,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 21885753,
+        "login": "eliasdecaro",
+        "name": "eliasdecaro",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

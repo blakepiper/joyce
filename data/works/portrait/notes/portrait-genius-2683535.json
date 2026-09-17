@@ -1,0 +1,56 @@
+{
+  "id": "portrait-genius-2683535",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Hairy face",
+  "html_source": "<p>Evidently, Stephen hasn’t learned the word for “beard” or “moustache” yet.</p><p><img src=\"https://images.rapgenius.com/b99ffccc30db45a5dddafd74735febe5.144x144x1.jpg\" alt=\"\" /></p><p>Here’s a picture of Joyce with his parents and grandfather:</p><p><img src=\"https://images.rapgenius.com/a769617eccc893c2b79e5e342ea094c1.361x494x1.jpg\" alt=\"\" /></p><p>(L-R: John Murray (maternal grandfather), James Joyce, Mary Joyce, and John Joyce – the picture and information is from <a href=\"http://web.archive.org/web/20120320214909/http://www.themodernword.com/Joyce/jj_family.html\" rel=\"noopener nofollow\">here</a>)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2683535/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Hairy-face",
+    "original_id": "2683535",
+    "referent_id": 2683535,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "hairy face",
+    "prefix": " this moocow that was coming down along the road met a nicens little boy named baby tuckoo....\n\n His father told him that story: his father looked at him through a glass: he had a ",
+    "suffix": ".\n\n He was baby tuckoo. The moocow came down the road where Betty Byrne lived: she sold lemon platt.\n\n O, the wild rose blossoms\nOn the little green place.\n\n He sang that song. Tha",
+    "start": 360,
+    "end": 370,
+    "canonical_text": "hairy face"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2683535,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 0.6095238095238095
+      },
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.28571428571428575
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.10476190476190476
+      }
+    ]
+  },
+  "color": "F59627"
+}

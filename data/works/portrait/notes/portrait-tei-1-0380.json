@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0380",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Neologism: nocoloured",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a neologism.</p><blockquote><p>nocoloured</p></blockquote><p class=\"tei-detail\">TEI type: neologism</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:380"
+  },
+  "anchor": {
+    "text": "nocoloured",
+    "prefix": "ies.\n\n He was walking down along the matting and he saw the door before him. It was impossible: he could not. He thought of the baldy head of the prefect of studies with the cruel ",
+    "suffix": " eyes looking at him and he heard the voice of the prefect of studies asking him twice what his name was. Why could he not remember the name when he was told the first time? Was he",
+    "start": 86616,
+    "end": 86627,
+    "canonical_text": "no-coloured"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "type": "neologism"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "9C632A"
+}

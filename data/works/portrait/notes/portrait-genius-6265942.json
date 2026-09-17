@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-6265942",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Beef-tea",
+  "html_source": "<p>According to <a href=\"http://tablematters.com/2013/10/02/beef-tea-for-the-soul/\" rel=\"noopener nofollow\">this website</a>, beef tea was used to help the sick.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6265942/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Beef-tea",
+    "original_id": "6265942",
+    "referent_id": 6265942,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "beef-tea",
+    "prefix": "he words, so beautiful and sad, like music. The bell! The bell! Farewell! O farewell!\n\n The cold sunlight was weaker and Brother Michael was standing at his bedside with a bowl of ",
+    "suffix": ". He was glad for his mouth was hot and dry. He could hear them playing in the playgrounds. And the day was going on in the college just as if he were there.\n\n Then Brother Michael",
+    "start": 31789,
+    "end": 31796,
+    "canonical_text": "beeftea"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 6265942,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1508944,
+        "login": "EC43",
+        "name": "EC43",
+        "role": null,
+        "attribution": 0.9166666666666667
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.08333333333333334
+      }
+    ]
+  },
+  "color": "F59627"
+}

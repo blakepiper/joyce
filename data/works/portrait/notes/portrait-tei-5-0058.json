@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0058",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: Ballyhoura hills",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Ballyhoura hills</p></blockquote><p class=\"tei-detail\">Coordinates: 52.303056 -8.538611</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:58"
+  },
+  "anchor": {
+    "text": "Ballyhoura hills",
+    "prefix": " the country were there. So there was nothing for it only to stay the night or to foot it out. Well, I started to walk and on I went and it was coming on night when I got into the ",
+    "suffix": ", that’s better than ten miles from Kilmallock and there’s a long lonely road after that. You wouldn’t see the sign of a christian house along the road or hear a sound. It was pitc",
+    "start": 16538,
+    "end": 16554,
+    "canonical_text": "Ballyhoura hills"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "52.303056 -8.538611",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0273",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Mr Casey",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Mr Casey</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:273"
+  },
+  "anchor": {
+    "text": "Mr Casey",
+    "prefix": "speak with the voice of the hotel keeper.\n\n —And he has such a soft mouth when he’s speaking to you, don’t you know. He’s very moist and watery about the dewlaps, God bless him.\n\n ",
+    "suffix": " was still struggling through his fit of coughing and laughter. Stephen, seeing and hearing the hotel keeper through his father’s face and voice, laughed.\n\n Mr Dedalus put up his e",
+    "start": 39520,
+    "end": 39528,
+    "canonical_text": "Mr Casey"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

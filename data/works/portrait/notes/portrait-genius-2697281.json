@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2697281",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "The card for first",
+  "html_source": "<p>See below: “the cards for first place and second place and third place were beautiful colours too: pink and cream and lavender.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2697281/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/The-card-for-first",
+    "original_id": "2697281",
+    "referent_id": 2697281,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "the card for first",
+    "prefix": "he had a blue sailor top on. Stephen felt his own face red too, thinking of all the bets about who would get first place in elements, Jack Lawton or he. Some weeks Jack Lawton got ",
+    "suffix": " and some weeks he got the card for first. His white silk badge fluttered and fluttered as he worked at the next sum and heard Father Arnall’s voice. Then all his eagerness passed ",
+    "start": 9180,
+    "end": 9198,
+    "canonical_text": "the card for first"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 2697281,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

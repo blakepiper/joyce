@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0029",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Cantwell",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Cantwell</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:29"
+  },
+  "anchor": {
+    "text": "Cantwell",
+    "prefix": "ish with cold. He kept his hands in the side pockets of his belted grey suit. That was a belt round his pocket. And belt was also to give a fellow a belt. One day a fellow said to ",
+    "suffix": ":\n\n —I’d give you such a belt in a second.\n\n Cantwell had answered:\n\n —Go and fight your match. Give Cecil Thunder a belt. I’d like to see you. He’d give you a toe in the rump for ",
+    "start": 3124,
+    "end": 3132,
+    "canonical_text": "Cantwell"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

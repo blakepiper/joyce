@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-6257670",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Welcome, O life, I go to encounter for the millionth time the reality of experience",
+  "html_source": "<p>Here, Stephen is signifying that he’s ready to leave his home and pursue his dream of becoming an artist. Stephen thinks that by leaving, he will be able to truly get “the reality of experience” by using his individuality and no longer be controlled by the church, nation and his family.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6257670/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Welcome-o-life-i-go-to-encounter-for-the-millionth-time-the-reality-of-experience",
+    "original_id": "6257670",
+    "referent_id": 6257670,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "Welcome, O life, I go to encounter for the millionth time the reality of experience",
+    "prefix": "ng my new secondhand clothes in order. She prays now, she says, that I may learn in my own life and away from home and friends what the heart is and what it feels. Amen. So be it. ",
+    "suffix": " and to forge in the smithy of my soul the uncreated conscience of my race.\n\n April 27. Old father, old artificer, stand me now and ever in good stead.\n\n \n\n\n\n Dublin, 1904.\nTrieste",
+    "start": 145996,
+    "end": 146079,
+    "canonical_text": "Welcome, O life! I go to encounter for the millionth time the reality of experience"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 6257670,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1509901,
+        "login": "Andrea95",
+        "name": "Andrea95",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

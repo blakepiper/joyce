@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2646268",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "“Et ignotas animum dimittit in artes.”",
+  "html_source": "<p>From Latin,</p><blockquote><p>And he turned his mind to unknown arts.</p></blockquote><p>The ‘he’ being the original Daedalus.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2646268/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Et-ignotas-animum-dimittit-in-artes",
+    "original_id": "2646268",
+    "referent_id": 2646268,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "\"Et ignotas animum dimittit in artes.\"",
+    "prefix": "",
+    "suffix": "\nOvid, Metamorphoses, VIII., 188.\n\n Chapter I\n\n Once upon a time and a very good time it was there was a moocow coming down along the road and this moocow that was coming down alon",
+    "start": 0,
+    "end": 38,
+    "canonical_text": "“Et ignotas animum dimittit in artes.”"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2646268,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 0.5238095238095238
+      },
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.4761904761904762
+      }
+    ]
+  },
+  "color": "F59627"
+}

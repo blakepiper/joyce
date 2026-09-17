@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0044",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Person: Firbolg",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Firbolg</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:44"
+  },
+  "anchor": {
+    "text": "Firbolg",
+    "prefix": "oots that flanked the wall pair by pair and repeating for his friend’s simple ear the verses and cadences of others which were the veils of his own longing and dejection, the rude ",
+    "suffix": " mind of his listener had drawn his mind towards it and flung it back again, drawing it by a quiet inbred courtesy of attention or by a quaint turn of old English speech or by the ",
+    "start": 12763,
+    "end": 12770,
+    "canonical_text": "Firbolg"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

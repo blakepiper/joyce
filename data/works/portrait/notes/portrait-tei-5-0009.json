@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0009",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Person: Gerhart Hauptmann",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Gerhart Hauptmann</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:9"
+  },
+  "anchor": {
+    "text": "Gerhart Hauptmann",
+    "prefix": "mell of the wet leaves and bark, his soul was loosed of her miseries.\n\n The rainladen trees of the avenue evoked in him, as always, memories of the girls and women in the plays of ",
+    "suffix": "; and the memory of their pale sorrows and the fragrance falling from the wet branches mingled in a mood of quiet joy. His morning walk across the city had begun, and he foreknew t",
+    "start": 3522,
+    "end": 3539,
+    "canonical_text": "Gerhart Hauptmann"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2658141",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "Belvedere.",
+  "html_source": "<p><a href=\"http://en.wikipedia.org/wiki/Belvedere_College\" rel=\"noopener nofollow\">Belvedere</a> is another Jesuit private school in Dublin.</p><p><img src=\"https://images.rapgenius.com/95a693fdf01fd7d1990653767b2abe0d.400x282x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2658141/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2/Belvedere",
+    "original_id": "2658141",
+    "referent_id": 2658141,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2-annotated"
+  },
+  "anchor": {
+    "text": "Belvedere.",
+    "prefix": "\n\n —I walked bang into him, said Mr Dedalus for the fourth time, just at the corner of the square.\n\n —Then I suppose, said Mrs Dedalus, he will be able to arrange it. I mean about ",
+    "suffix": "\n\n —Of course he will, said Mr Dedalus. Don’t I tell you he’s provincial of the order now?\n\n —I never liked the idea of sending him to the christian brothers myself, said Mrs Dedal",
+    "start": 22662,
+    "end": 22672,
+    "canonical_text": "Belvedere."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2658141,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

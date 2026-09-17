@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4259124",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Kinship of the Three Persons of the Trinity",
+  "html_source": "<p>Religious reference despite decreasing religious affinity.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4259124/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Kinship-of-the-three-persons-of-the-trinity",
+    "original_id": "4259124",
+    "referent_id": 4259124,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "kinship of the Three Persons of the Trinity",
+    "prefix": "e eternal mysterious secret Being to Whom, as God, the priests offered up mass once a year, robed in the scarlet of the tongues of fire.\n\n The imagery through which the nature and ",
+    "suffix": " were darkly shadowed forth in the books of devotion which he read—the Father contemplating from all eternity as in a mirror His Divine Perfections and thereby begetting eternally ",
+    "start": 4046,
+    "end": 4089,
+    "canonical_text": "kinship of the Three Persons of the Trinity"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4259124,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1254053,
+        "login": "jrod1096",
+        "name": "jrod1096",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

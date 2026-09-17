@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2687090",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "—Byron, of course, answered Stephen.",
+  "html_source": "<p><a href=\"http://en.wikipedia.org/wiki/Byron\" rel=\"noopener nofollow\">Lord Byron</a>, a Romanticist poet of England.</p><p>Recall Stephen’s earlier reliance on Byron’s work, (also in chapter 2)</p><blockquote><p>He knew it was right to begin so for he had seen similar titles in the collected poems of Lord Byron.</p></blockquote><p><img src=\"https://images.rapgenius.com/97911cda8a859877d72010e55bde3498.250x331x1.jpg\" alt=\"\" /></p><p><a href=\"http://poetry.genius.com/George-gordon-lord-byron-she-walks-in-beauty-annotated\" rel=\"noopener nofollow\">Here</a> is one of his most famous (and shorter) works.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2687090/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2/Byron-of-course-answered-stephen",
+    "original_id": "2687090",
+    "referent_id": 2687090,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2-annotated"
+  },
+  "anchor": {
+    "text": "—Byron, of course, answered Stephen.",
+    "prefix": "nly a rhymester!\n\n —O, get out! said Heron. Everyone knows that Tennyson is the greatest poet.\n\n —And who do you think is the greatest poet? asked Boland, nudging his neighbour.\n\n ",
+    "suffix": "\n\n Heron gave the lead and all three joined in a scornful laugh.\n\n —What are you laughing at? asked Stephen.\n\n —You, said Heron. Byron the greatest poet! He’s only a poet for unedu",
+    "start": 40606,
+    "end": 40642,
+    "canonical_text": "—Byron, of course, answered Stephen."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2687090,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

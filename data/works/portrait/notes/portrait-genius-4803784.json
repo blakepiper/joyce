@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4803784",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "The nuns’ madhouse beyond the wall",
+  "html_source": "<p>St. Vincent´s Lunatic Asylum in Fairview, run by nuns.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4803784/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/The-nuns-madhouse-beyond-the-wall",
+    "original_id": "4803784",
+    "referent_id": 4803784,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "the nuns' madhouse beyond the wall",
+    "prefix": "f his fingers in adieu.\n\n The lane behind the terrace was waterlogged and as he went down it slowly, choosing his steps amid heaps of wet rubbish, he heard a mad nun screeching in ",
+    "suffix": ".\n\n —Jesus! O Jesus! Jesus!\n\n He shook the sound out of his ears by an angry toss of his head and hurried on, stumbling through the mouldering offal, his heart already bitten by an",
+    "start": 2721,
+    "end": 2755,
+    "canonical_text": "the nuns’ madhouse beyond the wall"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4803784,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1356898,
+        "login": "ecbiv",
+        "name": "ecbiv",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

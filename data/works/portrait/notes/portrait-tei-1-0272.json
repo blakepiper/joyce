@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0272",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Christy",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Christy</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:272"
+  },
+  "anchor": {
+    "text": "Christy",
+    "prefix": " Christopher manufacturing...\n\n He broke into a fit of laughter and coughing and added:\n\n —...manufacturing that champagne for those fellows.\n\n Mr Dedalus laughed loudly.\n\n —Is it ",
+    "suffix": "? he said. There’s more cunning in one of those warts on his bald head than in a pack of jack foxes.\n\n He inclined his head, closed his eyes, and, licking his lips profusely, began",
+    "start": 39149,
+    "end": 39156,
+    "canonical_text": "Christy"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0341",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Neologism: carvingfork",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a neologism.</p><blockquote><p>carvingfork</p></blockquote><p class=\"tei-detail\">TEI type: neologism</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:341"
+  },
+  "anchor": {
+    "text": "carvingfork",
+    "prefix": "with the carvers at the end of the dish and said:\n\n —There’s a tasty bit here we call the pope’s nose. If any lady or gentleman...\n\n He held a piece of fowl up on the prong of the ",
+    "suffix": ". Nobody spoke. He put it on his own plate, saying:\n\n —Well, you can’t say but you were asked. I think I had better eat it myself because I’m not well in my health lately.\n\n He win",
+    "start": 45964,
+    "end": 45975,
+    "canonical_text": "carvingfork"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "type": "neologism"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "9C632A"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2710269",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Different names for God in all the different languages in the world",
+  "html_source": "<p><a href=\"https://en.wiktionary.org/wiki/god#Translations\" rel=\"noopener nofollow\">Here’s</a> a list of how God is said in many languages.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2710269/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Different-names-for-god-in-all-the-different-languages-in-the-world",
+    "original_id": "2710269",
+    "referent_id": 2710269,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "different names for God in all the different languages in the world",
+    "prefix": "e French for God and that was God’s name too; and when anyone prayed to God and said Dieu then God knew at once that it was a French person that was praying. But though there were ",
+    "suffix": " and God understood what all the people who prayed said in their different languages still God remained always the same God and God’s real name was God.\n\n It made him very tired to",
+    "start": 16695,
+    "end": 16762,
+    "canonical_text": "different names for God in all the different languages in the world"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2710269,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 0.9090909090909091
+      },
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.09090909090909091
+      }
+    ]
+  },
+  "color": "F59627"
+}

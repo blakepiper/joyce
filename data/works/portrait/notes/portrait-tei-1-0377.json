@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0377",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Place: Greece",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Greece</p></blockquote><p class=\"tei-detail\">Coordinates: 39.074208 21.824312</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:377"
+  },
+  "anchor": {
+    "text": "Greece",
+    "prefix": "aint winy smell off the rector’s breath after the wine of the mass. The word was beautiful: wine. It made you think of dark purple because the grapes were dark purple that grew in ",
+    "suffix": " outside houses like white temples. But the faint smell of the rector’s breath had made him feel a sick feeling on the morning of his first communion. The day of your first communi",
+    "start": 70716,
+    "end": 70722,
+    "canonical_text": "Greece"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "39.074208 21.824312",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

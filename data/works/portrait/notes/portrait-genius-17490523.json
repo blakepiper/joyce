@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-17490523",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "League class",
+  "html_source": "<p>Irish class</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/17490523/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/League-class",
+    "original_id": "17490523",
+    "referent_id": 17490523,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "league class",
+    "prefix": "with me now to the office of arms and I will show you the tree of my family, said Stephen.\n\n —Then be one of us, said Davin. Why don’t you learn Irish? Why did you drop out of the ",
+    "suffix": " after the first lesson?\n\n —You know one reason why, answered Stephen.\n\n Davin tossed his head and laughed.\n\n —Oh, come now, he said. Is it on account of that certain young lady an",
+    "start": 52938,
+    "end": 52950,
+    "canonical_text": "league class"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 17490523,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 8753690,
+        "login": "FBA-ML",
+        "name": "FBA-ML",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

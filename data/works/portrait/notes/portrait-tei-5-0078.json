@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0078",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "LA passage: Similiter atque senis baculus",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>Similiter atque senis baculus</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:78"
+  },
+  "anchor": {
+    "text": "Similiter atque senis baculus",
+    "prefix": "em, with a firm gesture of obedience back upon themselves and for all this silent service it seemed as if he loved not at all the master and little, if at all, the ends he served. ",
+    "suffix": ", he was, as the founder would have had him, like a staff in an old man’s hand, to be leaned on in the road at nightfall or in stress of weather, to lie with a lady’s nosegay on a ",
+    "start": 24839,
+    "end": 24868,
+    "canonical_text": "Similiter atque senis baculus"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

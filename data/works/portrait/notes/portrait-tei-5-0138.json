@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0138",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: my green",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>my green</p></blockquote><p class=\"tei-detail\">Coordinates: 53.338174 -6.259119</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:138"
+  },
+  "anchor": {
+    "text": "my green",
+    "prefix": "udes his full carnal lips as if he kissed the vowel. Has he? And could he repent? Yes, he could: and cry two round rogue’s tears, one from each eye.\n\n Crossing Stephen’s, that is, ",
+    "suffix": ", remembered that his countrymen and not mine had invented what Cranly the other night called our religion. A quartet of them, soldiers of the ninetyseventh infantry regiment, sat ",
+    "start": 138855,
+    "end": 138863,
+    "canonical_text": "my Green"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.338174 -6.259119",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

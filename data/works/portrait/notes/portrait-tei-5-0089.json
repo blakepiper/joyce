@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0089",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "LA passage: Per pax universalis.",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>Per pax universalis.</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:89"
+  },
+  "anchor": {
+    "text": "Per pax universalis.",
+    "prefix": "muned with himself an instant and answered:\n\n —Ego habeo.\n\n —What is it for?\n\n —Quod?\n\n —What is it for?\n\n Cranly turned his pale face to Stephen and said blandly and bitterly:\n\n —",
+    "suffix": "\n\n Stephen pointed to the Tsar’s photograph and said:\n\n —He has the face of a besotted Christ.\n\n The scorn and anger in his voice brought Cranly’s eyes back from a calm survey of t",
+    "start": 39880,
+    "end": 39900,
+    "canonical_text": "Per pax universalis."
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

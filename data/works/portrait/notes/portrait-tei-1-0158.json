@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0158",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Prayer: God bless my father and my mother and spare them to me! God bless my…",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a prayer.</p><blockquote><p>God bless my father and my mother and spare them to me! God bless my little brothers and sisters and spare them to me! God bless Dante and uncle Charles and spare them to me!</p></blockquote><p class=\"tei-detail\">TEI type: prayer</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:158"
+  },
+  "anchor": {
+    "text": "God bless my father and my mother and spare them to me! God bless my little brothers and sisters and spare them to me! God bless Dante and uncle Charles and spare them to me!",
+    "prefix": " on his nightshirt quickly and knelt trembling at his bedside and repeated his prayers quickly, fearing that the gas would go down. He felt his shoulders shaking as he murmured:\n\n ",
+    "suffix": "\n\n He blessed himself and climbed quickly into bed and, tucking the end of the nightshirt under his feet, curled himself together under the cold white sheets, shaking and trembling",
+    "start": 21254,
+    "end": 21428,
+    "canonical_text": "God bless my father and my mother and spare them to me!\nGod bless my little brothers and sisters and spare them to me!\nGod bless Dante and uncle Charles and spare them to me!"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "lg",
+    "attributes": {
+      "type": "prayer"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

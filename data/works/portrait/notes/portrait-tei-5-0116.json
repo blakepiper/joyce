@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0116",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "LA passage: claritas",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>claritas</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:116"
+  },
+  "anchor": {
+    "text": "claritas",
+    "prefix": "e, divisible, separable, made up of its parts, the result of its parts and their sum, harmonious. That is consonantia.\n\n —Bull’s eye again! said Lynch wittily. Tell me now what is ",
+    "suffix": " and you win the cigar.\n\n —The connotation of the word, Stephen said, is rather vague. Aquinas uses a term which seems to be inexact. It baffled me for a long time. It would lead y",
+    "start": 72446,
+    "end": 72454,
+    "canonical_text": "claritas"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2741321",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "I think you, Lawless, are likely to make that mistake",
+  "html_source": "<p>Is it a coincidence that the child the Rector chose to deride was named “Lawless”?</p><p><a href=\"http://www.oxforddictionaries.com/us/definition/american_english/lawless?q=lawless\" rel=\"noopener nofollow\">As defined by the Oxford American dictionary</a>,</p><p>“not governed by or obedient to laws; characterized by a lack of civic order”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2741321/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3/I-think-you-lawless-are-likely-to-make-that-mistake",
+    "original_id": "2741321",
+    "referent_id": 2741321,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3-annotated"
+  },
+  "anchor": {
+    "text": "I think you, Lawless, are likely to make that mistake",
+    "prefix": "e college. Saturday will be a free day. But Saturday and Sunday being free days some boys might be inclined to think that Monday is a free day also. Beware of making that mistake. ",
+    "suffix": ".\n\n —I sir? Why, sir?\n\n A little wave of quiet mirth broke forth over the class of boys from the rector’s grim smile. Stephen’s heart began slowly to fold and fade with fear like a",
+    "start": 10822,
+    "end": 10875,
+    "canonical_text": "I think you, Lawless, are likely to make that mistake"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2741321,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

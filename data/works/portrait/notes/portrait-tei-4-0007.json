@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-4-0007",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Place: Clongowes",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Clongowes</p></blockquote><p class=\"tei-detail\">Coordinates: 53.348746 -6.275034</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-4:7"
+  },
+  "anchor": {
+    "text": "Clongowes",
+    "prefix": "im to live a good life and, when he had fallen into grievous sin, it was they who had led him back to grace. Their presence had made him diffident of himself when he was a muff in ",
+    "suffix": " and it had made him diffident of himself also while he had held his equivocal position in Belvedere. A constant sense of this had remained with him up to the last year of his scho",
+    "start": 18939,
+    "end": 18948,
+    "canonical_text": "Clongowes"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.348746 -6.275034",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

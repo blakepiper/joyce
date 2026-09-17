@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-3316905",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "A single tear",
+  "html_source": "<p>Quite similar to Bonconte da Montefeltro’s scene in Dante’s <a href=\"http://en.wikisource.org/wiki/The_Divine_Comedy/Purgatorio/Canto_V\" rel=\"noopener nofollow\">Purgatorio V, 109</a></p><blockquote><p>For one poor little tear, that takes him from me</p></blockquote><p><img src=\"https://images.rapgenius.com/49a083361a2b6663c0a7302c43562992.600x617x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3316905/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3/A-single-tear",
+    "original_id": "3316905",
+    "referent_id": 3316905,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3-annotated"
+  },
+  "anchor": {
+    "text": "a single tear",
+    "prefix": " and to keep His law. No. You would not. And now, though you were to flood all hell with your tears if you could still weep, all that sea of repentance would not gain for you what ",
+    "suffix": " of true repentance shed during your mortal life would have gained for you. You implore now a moment of earthly life wherein to repent: in vain. That time is gone: gone for ever.\n\n",
+    "start": 57965,
+    "end": 57978,
+    "canonical_text": "a single tear"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3316905,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 972621,
+        "login": "LucaMaletta",
+        "name": "LucaMaletta",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

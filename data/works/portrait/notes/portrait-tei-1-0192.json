@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0192",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Brother Michael",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Brother Michael</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:192"
+  },
+  "anchor": {
+    "text": "Brother Michael",
+    "prefix": "the bath. As he passed the door he remembered with a vague fear the warm turfcoloured bogwater, the warm moist air, the noise of plunges, the smell of the towels, like medicine.\n\n ",
+    "suffix": " was standing at the door of the infirmary and from the door of the dark cabinet on his right came a smell like medicine. That came from the bottles on the shelves. The prefect spo",
+    "start": 28509,
+    "end": 28524,
+    "canonical_text": "Brother Michael"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

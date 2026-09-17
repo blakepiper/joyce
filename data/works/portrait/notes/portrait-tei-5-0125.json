@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0125",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: Lammermoor",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Lammermoor</p></blockquote><p class=\"tei-detail\">Coordinates: 55.775902 -4.136255</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:125"
+  },
+  "anchor": {
+    "text": "Lammermoor",
+    "prefix": " said.\n\n Cranly smiled and said kindly:\n\n —The captain has only one love: sir Walter Scott. Isn’t that so, captain?\n\n —What are you reading now, captain? Dixon asked. The Bride of ",
+    "suffix": "?\n\n —I love old Scott, the flexible lips said, I think he writes something lovely. There is no writer can touch sir Walter Scott.\n\n He moved a thin shrunken brown hand gently in th",
+    "start": 100935,
+    "end": 100945,
+    "canonical_text": "Lammermoor"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "55.775902 -4.136255",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0006",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Song: Tralala lala Tralala tralaladdy Tralala lala Tralala lala.",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a song.</p><blockquote><p>Tralala lala Tralala tralaladdy Tralala lala Tralala lala.</p></blockquote><p class=\"tei-detail\">TEI type: song</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:6"
+  },
+  "anchor": {
+    "text": "Tralala lala Tralala tralaladdy Tralala lala Tralala lala.",
+    "prefix": " mother put on the oilsheet. That had the queer smell.\n\n His mother had a nicer smell than his father. She played on the piano the sailor’s hornpipe for him to dance. He danced:\n\n ",
+    "suffix": ".\n\n Uncle Charles and Dante clapped. They were older than his father and mother but uncle Charles was older than Dante.\n\n Dante had two brushes in her press. The brush with the mar",
+    "start": 839,
+    "end": 899,
+    "canonical_text": "Tralala lala,\nTralala tralaladdy,\nTralala lala,\nTralala lala"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "lg",
+    "attributes": {
+      "type": "song"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "CF2929"
+}

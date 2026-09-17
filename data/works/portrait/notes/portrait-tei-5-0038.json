@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0038",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: of Trinity",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>of Trinity</p></blockquote><p class=\"tei-detail\">Coordinates: 53.345478 -6.257690</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:38"
+  },
+  "anchor": {
+    "text": "of Trinity",
+    "prefix": "which he was striving to forge out an esthetic philosophy, was held no higher by the age he lived in than the subtle and curious jargons of heraldry and falconry.\n\n The grey block ",
+    "suffix": " on his left, set heavily in the city’s ignorance like a dull stone set in a cumbrous ring, pulled his mind downward and while he was striving this way and that to free his feet fr",
+    "start": 11508,
+    "end": 11518,
+    "canonical_text": "of Trinity"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.345478 -6.257690",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

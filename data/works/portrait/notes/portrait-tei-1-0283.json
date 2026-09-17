@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0283",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Prayer: Bless us, O Lord, and these Thy gifts which through Thy bounty we are…",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a prayer.</p><blockquote><p>Bless us, O Lord, and these Thy gifts which through Thy bounty we are about to receive through Christ Our Lord. Amen.</p></blockquote><p class=\"tei-detail\">TEI type: prayer</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:283"
+  },
+  "anchor": {
+    "text": "Bless us, O Lord, and these Thy gifts which through Thy bounty we are about to receive through Christ Our Lord. Amen.",
+    "prefix": "en all had taken their seats he laid his hand on the cover and then said quickly, withdrawing it:\n\n —Now, Stephen.\n\n Stephen stood up in his place to say the grace before meals:\n\n ",
+    "suffix": "\n\n All blessed themselves and Mr Dedalus with a sigh of pleasure lifted from the dish the heavy cover pearled around the edge with glistening drops.\n\n Stephen looked at the plump t",
+    "start": 40360,
+    "end": 40477,
+    "canonical_text": "Bless us, O Lord, and these Thy gifts which through Thy bounty we are about to receive through Christ our Lord. Amen."
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "type": "prayer"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

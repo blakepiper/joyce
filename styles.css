@@ -84,6 +84,21 @@ body {
   overflow-y: auto;
 }
 #chapter-list li { margin: 0.15rem 0; }
+#chapter-list li.work-heading {
+  margin: 0.55rem 0 0.15rem;
+  border-top: 1px solid var(--line);
+}
+#chapter-list li.work-heading:first-child { border-top: 0; margin-top: 0; }
+#chapter-list li.work-heading button {
+  padding: 0.45rem 0.5rem 0.2rem;
+  color: var(--muted);
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+#chapter-list li.work-heading button:hover,
+#chapter-list li.work-heading.active-work button { color: var(--ink); }
 #chapter-list button {
   width: 100%;
   text-align: left;
@@ -160,12 +175,15 @@ body {
 #text-body p { margin: 0.5em 0; }
 /* annotation links keep their data-color; underline on hover like original */
 #text-body.annotations a { cursor: pointer; text-decoration: none; border-radius: 3px; }
+#text-body.annotations a { user-select: text; -webkit-user-select: text; }
 #text-body.annotations a:hover { text-decoration: underline; }
 #text-body a.active-note { outline: 2px solid #888; }
 /* original content classes */
 #text-body .header { margin-top: 3em; margin-bottom: 1em; text-indent: 0; }
 #text-body .subheader { text-indent: 0; margin-top: 1em; margin-bottom: 0.5em; font-size: 1.1em; }
 #text-body h3 { text-align: center; font-size: calc(0.8rem + 0.6vw); margin: 0.5em 0; }
+#text-body p.poem, #text-body .poem { margin-left: 2em; white-space: normal; }
+#text-body p.poem + p.poem { margin-top: -0.35em; }
 /* Edition page-break markers exist in the source data but the original
    site hides them in the reader (display:none) — same here. */
 #text-body span[data-edition], #note-body span[data-edition] { display: none; }
@@ -230,8 +248,12 @@ body.paged #text-body h4 { break-inside: avoid; }
 #preview-header button:hover:not(:disabled) { color: #fff; background: var(--btn-hover); }
 #preview-header button:disabled { visibility: hidden; }
 #note-body { padding: 0.5rem 0.9rem; font-family: Georgia, serif; line-height: 1.5; }
+#note-body .note-group + .note-group { border-top: 1px solid var(--line); margin-top: 1rem; padding-top: 0.75rem; }
+#note-body .note-group h3 { font-size: 1rem; margin: 0 0 0.4rem; color: var(--ink); }
+#note-body .note-provenance { margin-top: 0.55rem; font: 0.72rem -apple-system, "Segoe UI", sans-serif; color: var(--muted); }
+#note-body .note-provenance a { color: var(--muted); }
 #note-body .subheader { text-indent: 0; margin-top: 1em; margin-bottom: 0.5em; font-size: 1.1em; }
-#note-body a { cursor: pointer; text-decoration: none; }
+#note-body a { cursor: pointer; text-decoration: none; user-select: text; -webkit-user-select: text; }
 #note-body a:hover { text-decoration: underline; }
 #note-body em, #text-body em { color: inherit; }
 #media-gallery { padding: 0 0.9rem 1rem; }

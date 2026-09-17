@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2682626",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Cranly seized his arm",
+  "html_source": "<p>Cranly’s arm is recalled by Stephen in the opening pages of Ulysses, <a href=\"http://poetry.genius.com/1868100\" rel=\"noopener nofollow\">compared there</a> to Buck Mulligan’s.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2682626/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Cranly-seized-his-arm",
+    "original_id": "2682626",
+    "referent_id": 2682626,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "Cranly seized his arm",
+    "prefix": "try to express myself in some mode of life or art as freely as I can and as wholly as I can, using for my defence the only arms I allow myself to use—silence, exile and cunning.\n\n ",
+    "suffix": " and steered him round so as to lead him back towards Leeson Park. He laughed almost slily and pressed Stephen’s arm with an elder’s affection.\n\n —Cunning indeed! he said. Is it yo",
+    "start": 134567,
+    "end": 134588,
+    "canonical_text": "Cranly seized his arm"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2682626,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.9411764705882354
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.05882352941176471
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0017",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Stephen",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Stephen</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:17"
+  },
+  "anchor": {
+    "text": "Stephen",
+    "prefix": " They had a different father and mother. They were Eileen’s father and mother. When they were grown up he was going to marry Eileen. He hid under the table. His mother said:\n\n —O, ",
+    "suffix": " will apologise.\n\n Dante said:\n\n —O, if not, the eagles will come and pull out his eyes.—\n\n Pull out his eyes,\nApologise,\nApologise,\nPull out his eyes.\n\nApologise,\nPull out his eye",
+    "start": 1466,
+    "end": 1473,
+    "canonical_text": "Stephen"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2685549",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Ha-ha",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Ha-ha\" rel=\"noopener nofollow\">A hidden wall</a>.</p><p><img src=\"https://images.rapgenius.com/e2ace5be2988bb65edc340bf8543bcc1.800x600x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2685549/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Ha-ha",
+    "original_id": "2685549",
+    "referent_id": 2685549,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "ha-ha",
+    "prefix": "in the study hall than out there in the cold. The sky was pale and cold but there were lights in the castle. He wondered from which window Hamilton Rowan had thrown his hat on the ",
+    "suffix": " and had there been flowerbeds at that time under the windows. One day when he had been called to the castle the butler had shown him the marks of the soldiers’ slugs in the wood o",
+    "start": 4981,
+    "end": 4985,
+    "canonical_text": "haha"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2685549,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 212428,
+        "login": "ciaranaustin",
+        "name": "Ciaran Austin",
+        "role": "contributor",
+        "attribution": 0.9090909090909091
+      },
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.09090909090909091
+      }
+    ]
+  },
+  "color": "F59627"
+}

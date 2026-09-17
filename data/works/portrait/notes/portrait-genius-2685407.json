@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2685407",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "That was his song",
+  "html_source": "<p>We can imagine Stephen feeling offended if anyone else sings it, but he’ll outgrow this ‘infantile egoism’ quickly.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2685407/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/That-was-his-song",
+    "original_id": "2685407",
+    "referent_id": 2685407,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "That was his song",
+    "prefix": "ace.\n\n He was baby tuckoo. The moocow came down the road where Betty Byrne lived: she sold lemon platt.\n\n O, the wild rose blossoms\nOn the little green place.\n\n He sang that song. ",
+    "suffix": ".\n\n O, the green wothe botheth.\n\n When you wet the bed, first it is warm then it gets cold. His mother put on the oilsheet. That had the queer smell.\n\n His mother had a nicer smell",
+    "start": 547,
+    "end": 564,
+    "canonical_text": "That was his song"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2685407,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

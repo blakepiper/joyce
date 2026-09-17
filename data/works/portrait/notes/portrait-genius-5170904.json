@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-5170904",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "For a cod",
+  "html_source": "<p>A colloquial phrase meaning “as a joke.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5170904/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/For-a-cod",
+    "original_id": "5170904",
+    "referent_id": 5170904,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "for a cod",
+    "prefix": "re he was.\n\n Stephen Dedalus\nClass of Elements\nClongowes Wood College\nSallins\nCounty Kildare\nIreland\nEurope\nThe World\nThe Universe\n\n That was in his writing: and Fleming one night ",
+    "suffix": " had written on the opposite page:\n\n Stephen Dedalus is my name,\nIreland is my nation.\nClongowes is my dwellingplace\nAnd heaven my expectation.\n\n He read the verses backwards but t",
+    "start": 15724,
+    "end": 15733,
+    "canonical_text": "for a cod"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 5170904,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.5714285714285715
+      },
+      {
+        "id": 1644926,
+        "login": "ooggggg",
+        "name": "ooggggg",
+        "role": null,
+        "attribution": 0.42857142857142855
+      }
+    ]
+  },
+  "color": "F59627"
+}

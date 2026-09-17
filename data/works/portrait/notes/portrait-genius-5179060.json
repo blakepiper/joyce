@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-5179060",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Now I call that friendly, don’t you?",
+  "html_source": "<p>This breakthrough encounter shows that Stephen has finally achieved the ability to speak to a girl of importance to him without the same awkwardness as before. He can feel an air of power in his new confidence with women. Women will no longer control his life through putting him into constant fear.</p><p><img src=\"https://images.rapgenius.com/2557a8232f8ec6b7cc4d4f181cb8ccd7.225x225x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5179060/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Now-i-call-that-friendly-dont-you",
+    "original_id": "5179060",
+    "referent_id": 5179060,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "Now I call that friendly, don't you?",
+    "prefix": "oked like a fellow throwing a handful of peas into the air. People began to look at us. She shook hands a moment after and, in going away, said she hoped I would do what I said.\n\n ",
+    "suffix": "\n\n Yes, I liked her today. A little or much? Don’t know. I liked her and it seems a new feeling to me. Then, in that case, all the rest, all that I thought I thought and all that I",
+    "start": 145031,
+    "end": 145067,
+    "canonical_text": "Now I call that friendly, don’t you?"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 5179060,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1508799,
+        "login": "CRG02",
+        "name": "CRG02",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

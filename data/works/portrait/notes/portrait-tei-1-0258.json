@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0258",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Queen Victoria",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Queen Victoria</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:258"
+  },
+  "anchor": {
+    "text": "Queen Victoria",
+    "prefix": "er was hidden there he had seen that the fingers could not be straightened out: and Mr Casey had told him that he had got those three cramped fingers making a birthday present for ",
+    "suffix": ". Mr Casey tapped the gland of his neck and smiled at Stephen with sleepy eyes: and Mr Dedalus said to him:\n\n —Yes. Well now, that’s all right. O, we had a good walk, hadn’t we, Jo",
+    "start": 37944,
+    "end": 37958,
+    "canonical_text": "Queen Victoria"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

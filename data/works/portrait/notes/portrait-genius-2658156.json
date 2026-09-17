@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2658156",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "The night of the Whitsuntide play had come and Stephen from the window of the dressing-room looked out on the small grass-plot across which lines of Chinese lanterns were stretched.",
+  "html_source": "<p><a href=\"http://en.wikipedia.org/wiki/Whitsun\" rel=\"noopener nofollow\">Whitsuntide</a>, also known as <a href=\"http://en.wikipedia.org/wiki/Pentecost\" rel=\"noopener nofollow\">Pentecost</a> elsewhere, is the seventh sunday after <a href=\"http://en.wikipedia.org/wiki/Easter\" rel=\"noopener nofollow\">Easter</a>.</p><p>A play is being held that evening at Belvedere.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2658156/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2/The-night-of-the-whitsuntide-play-had-come-and-stephen-from-the-window-of-the-dressing-room-looked-out-on-the-small-grass-plot-across-which-lines-of-chinese-lanterns-were-stretched",
+    "original_id": "2658156",
+    "referent_id": 2658156,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2-annotated"
+  },
+  "anchor": {
+    "text": "The night of the Whitsuntide play had come and Stephen from the window of the dressing-room looked out on the small grass-plot across which lines of Chinese lanterns were stretched.",
+    "prefix": " He reassumed the provincial’s voice and repeated:\n\n —I told them all at dinner about it and Father Dolan and I and all of us we had a hearty laugh together over it. Ha! Ha! Ha!\n\n ",
+    "suffix": " He watched the visitors come down the steps from the house and pass into the theatre. Stewards in evening dress, old Belvedereans, loitered in groups about the entrance to the the",
+    "start": 25413,
+    "end": 25592,
+    "canonical_text": "The night of the Whitsuntide play had come and Stephen from the window of the dressingroom looked out on the small grassplot across which lines of Chinese lanterns were stretched."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2658156,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

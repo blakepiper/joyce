@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0354",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Neologism: priestridden",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a neologism.</p><blockquote><p>priestridden</p></blockquote><p class=\"tei-detail\">TEI type: neologism</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:354"
+  },
+  "anchor": {
+    "text": "priestridden",
+    "prefix": "th as a whiteboy. But he had a saying about our clerical friends, that he would never let one of them put his two feet under his mahogany.\n\n Dante broke in angrily:\n\n —If we are a ",
+    "suffix": " race we ought to be proud of it! They are the apple of God’s eye. Touch them not, says Christ, for they are the apple of My eye.\n\n —And can we not love our country then? asked Mr ",
+    "start": 55120,
+    "end": 55132,
+    "canonical_text": "priestridden"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "type": "neologism"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "9C632A"
+}

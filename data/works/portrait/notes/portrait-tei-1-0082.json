@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0082",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Fleming",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Fleming</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:82"
+  },
+  "anchor": {
+    "text": "Fleming",
+    "prefix": ", because your face looks white. It will go away.\n\n —O yes, Stephen said.\n\n But he was not sick there. He thought that he was sick in his heart if you could be sick in that place. ",
+    "suffix": " was very decent to ask him. He wanted to cry. He leaned his elbows on the table and shut and opened the flaps of his ears. Then he heard the noise of the refectory every time he o",
+    "start": 11266,
+    "end": 11273,
+    "canonical_text": "Fleming"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

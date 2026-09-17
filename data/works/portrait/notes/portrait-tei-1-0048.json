@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0048",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Dante",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Dante</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:48"
+  },
+  "anchor": {
+    "text": "Dante",
+    "prefix": " was older than Dante.\n\n Dante had two brushes in her press. The brush with the maroon velvet back was for Michael Davitt and the brush with the green velvet back was for Parnell. ",
+    "suffix": " gave him a cachou every time he brought her a piece of tissue paper.\n\n The Vances lived in number seven. They had a different father and mother. They were Eileen’s father and moth",
+    "start": 1176,
+    "end": 1181,
+    "canonical_text": "Dante"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

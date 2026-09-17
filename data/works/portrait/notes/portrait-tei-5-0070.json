@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0070",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Person: Buck Egan",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Buck Egan</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:70"
+  },
+  "anchor": {
+    "text": "Buck Egan",
+    "prefix": "nk with time to a faint mortal odour rising from the earth and he knew that in a moment when he entered the sombre college he would be conscious of a corruption other than that of ",
+    "suffix": " and Burnchapel Whaley.\n\n It was too late to go upstairs to the French class. He crossed the hall and took the corridor to the left which led to the physics theatre. The corridor w",
+    "start": 20610,
+    "end": 20619,
+    "canonical_text": "Buck Egan"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

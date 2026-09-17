@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2685416",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Tuckoo",
+  "html_source": "<p>Professor <a href=\"http://www.theatlantic.com/past/docs/issues/95sep/links/kell.htm\" rel=\"noopener nofollow\">John V. Kelleher</a> of Harvard University wonders if Stephen sees himself as “the cuckoo’s fledgling in the cowbird’s nest.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2685416/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Tuckoo",
+    "original_id": "2685416",
+    "referent_id": 2685416,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "tuckoo",
+    "prefix": "\n Once upon a time and a very good time it was there was a moocow coming down along the road and this moocow that was coming down along the road met a nicens little boy named baby ",
+    "suffix": "....\n\n His father told him that story: his father looked at him through a glass: he had a hairy face.\n\n He was baby tuckoo. The moocow came down the road where Betty Byrne lived: s",
+    "start": 264,
+    "end": 270,
+    "canonical_text": "tuckoo"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 2685416,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.7
+      },
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 0.3
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2651602",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "L. D. S.",
+  "html_source": "<p>From Latin, “Laus Deo Semper,”</p><blockquote><p>Praise God always</p></blockquote>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2651602/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2/L-d-s",
+    "original_id": "2651602",
+    "referent_id": 2651602,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2-annotated"
+  },
+  "anchor": {
+    "text": "L. D. S.",
+    "prefix": "ts as they stood in silence beneath the leafless trees and when the moment of farewell had come the kiss, which had been withheld by one, was given by both. After this the letters ",
+    "suffix": " were written at the foot of the page, and, having hidden the book, he went into his mother’s bedroom and gazed at his face for a long time in the mirror of her dressingtable.\n\n Bu",
+    "start": 21875,
+    "end": 21883,
+    "canonical_text": "L. D. S."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2651602,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2696571",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "White rose",
+  "html_source": "<p>The white rose was the insignia of York, traditionally favored by the Irish.</p><p><img src=\"https://images.rapgenius.com/342f71cd36a27ab0fc68db7e41368d2c.335x302x1.png\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2696571/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/White-rose",
+    "original_id": "2696571",
+    "referent_id": 2696571,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "white rose",
+    "prefix": "d then said:\n\n —Now then, who will win? Go ahead, York! Go ahead, Lancaster!\n\n Stephen tried his best but the sum was too hard and he felt confused. The little silk badge with the ",
+    "suffix": " on it that was pinned on the breast of his jacket began to flutter. He was no good at sums but he tried his best so that York might not lose. Father Arnall’s face looked very blac",
+    "start": 8488,
+    "end": 8498,
+    "canonical_text": "white rose"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2696571,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

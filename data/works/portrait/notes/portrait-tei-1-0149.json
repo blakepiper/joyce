@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0149",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Dante",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Dante</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:149"
+  },
+  "anchor": {
+    "text": "Dante",
+    "prefix": " ball in the middle of clouds. Fleming had a box of crayons and one night during free study he had coloured the earth green and the clouds maroon. That was like the two brushes in ",
+    "suffix": "’s press, the brush with the green velvet back for Parnell and the brush with the maroon velvet back for Michael Davitt. But he had not told Fleming to colour them those colours. F",
+    "start": 14915,
+    "end": 14920,
+    "canonical_text": "Dante"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

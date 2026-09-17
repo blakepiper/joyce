@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0198",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Brother Michael",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Brother Michael</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:198"
+  },
+  "anchor": {
+    "text": "Brother Michael",
+    "prefix": "led out:\n\n —Hello! It’s young Dedalus! What’s up?\n\n —The sky is up, Brother Michael said.\n\n He was a fellow out of the third of grammar and, while Stephen was undressing, he asked ",
+    "suffix": " to bring him a round of buttered toast.\n\n —Ah, do! he said.\n\n —Butter you up! said Brother Michael. You’ll get your walking papers in the morning when the doctor comes.\n\n —Will I?",
+    "start": 29337,
+    "end": 29352,
+    "canonical_text": "Brother Michael"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

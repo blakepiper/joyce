@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2696722",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "When they were grown up",
+  "html_source": "<p>According to Ellmann, Eileen Vance Harris survived past 100, <a href=\"https://en.wikipedia.org/wiki/List_of_Indian_reserves_in_Saskatchewan\" rel=\"noopener nofollow\">teaching at an Indian reservation in Saskatoon.</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2696722/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/When-they-were-grown-up",
+    "original_id": "2696722",
+    "referent_id": 2696722,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "When they were grown up",
+    "prefix": "e him a cachou every time he brought her a piece of tissue paper.\n\n The Vances lived in number seven. They had a different father and mother. They were Eileen’s father and mother. ",
+    "suffix": " he was going to marry Eileen. He hid under the table. His mother said:\n\n —O, Stephen will apologise.\n\n Dante said:\n\n —O, if not, the eagles will come and pull out his eyes.—\n\n Pul",
+    "start": 1365,
+    "end": 1388,
+    "canonical_text": "When they were grown up"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2696722,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

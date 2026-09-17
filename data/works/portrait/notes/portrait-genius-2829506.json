@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2829506",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "—CORPUS DOMINI NOSTRI",
+  "html_source": "<p>From Latin, <em>The body of our Lord</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2829506/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3/Corpus-domini-nostri",
+    "original_id": "2829506",
+    "referent_id": 2829506,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3-annotated"
+  },
+  "anchor": {
+    "text": "—CORPUS DOMINI NOSTRI",
+    "prefix": "altar cloth with them over a living rail of hands. His hands were trembling and his soul trembled as he heard the priest pass with the ciborium from communicant to communicant.\n\n —",
+    "suffix": ".\n\n Could it be? He knelt there sinless and timid; and he would hold upon his tongue the host and God would enter his purified body.\n\n —In vitam eternam. Amen.\n\n Another life! A li",
+    "start": 90098,
+    "end": 90118,
+    "canonical_text": "Corpus Domini nostri"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9779
+  },
+  "genius": {
+    "referent_id": 2829506,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2685465",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Soutane",
+  "html_source": "<p>A garment worn by clergymen of the Roman Catholic Church (among others).</p><p><img src=\"https://images.rapgenius.com/303e0c55fa4629fcbc8003ee94265e93.300x449x1.jpg\" alt=\"\" /></p><p>(They’re also called <a href=\"http://en.wikipedia.org/wiki/Soutane\" rel=\"noopener nofollow\">Cassocks</a>)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2685465/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Soutane",
+    "original_id": "2685465",
+    "referent_id": 2685465,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "soutane",
+    "prefix": "e wanted anything to write home to him and, whatever he did, never to peach on a fellow. Then at the door of the castle the rector had shaken hands with his father and mother, his ",
+    "suffix": " fluttering in the breeze, and the car had driven off with his father and mother on it. They had cried to him from the car, waving their hands:\n\n —Goodbye, Stephen, goodbye!\n\n —Goo",
+    "start": 4001,
+    "end": 4008,
+    "canonical_text": "soutane"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 2685465,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.6521739130434783
+      },
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 0.34782608695652173
+      }
+    ]
+  },
+  "color": "F59627"
+}

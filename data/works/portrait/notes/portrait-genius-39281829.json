@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-39281829",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "VEXILLA REGIS",
+  "html_source": "<p>Latin for <em>The king’s standard</em>, with a more direct translation of <em>royal banners</em>. “Standard” here refers to a flag or ensign.</p><p><em>Vexilla Regis Prodeunt</em>, written by Venantius Fortunatus, is a hymn to celebrate the arrival of the True Cross. You can read the hymn <a href=\"https://en.wikipedia.org/wiki/Vexilla_regis_prodeunt\" rel=\"noopener nofollow\">here</a>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/39281829/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Vexilla-regis",
+    "original_id": "39281829",
+    "referent_id": 39281829,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "VEXILLA REGIS",
+    "prefix": " is the highest glory of the hymnal. It is an intricate and soothing hymn. I like it; but there is no hymn that can be put beside that mournful and majestic processional song, the ",
+    "suffix": " of Venantius Fortunatus.\n\n Lynch began to sing softly and solemnly in a deep bass voice:\n\n Inpleta sunt quæ concinit\nDavid fideli carmine\nDicendo nationibus\nRegnavit a ligno Deus.",
+    "start": 67685,
+    "end": 67698,
+    "canonical_text": "Vexilla Regis"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 39281829,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 21885753,
+        "login": "eliasdecaro",
+        "name": "eliasdecaro",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

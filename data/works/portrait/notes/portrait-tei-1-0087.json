@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0087",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Place: Tullabeg",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Tullabeg</p></blockquote><p class=\"tei-detail\">Coordinates: 52.888640 -8.428450</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:87"
+  },
+  "anchor": {
+    "text": "Tullabeg",
+    "prefix": " to hear for an instant the little song of the gas. The prefect was at the door with some boys and Simon Moonan was knotting his false sleeves. He was telling them something about ",
+    "suffix": ".\n\n Then he went away from the door and Wells came over to Stephen and said:\n\n —Tell us, Dedalus, do you kiss your mother before you go to bed?\n\n Stephen answered:\n\n —I do.\n\n Wells",
+    "start": 12531,
+    "end": 12539,
+    "canonical_text": "Tullabeg"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "52.888640 -8.428450",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

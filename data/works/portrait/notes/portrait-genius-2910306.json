@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2910306",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Marx is only a bloody cod",
+  "html_source": "<p>Referring to <a href=\"http://en.wikipedia.org/wiki/Karl_marx\" rel=\"noopener nofollow\">Karl Marx</a>, who wrote the <a href=\"http://en.wikipedia.org/wiki/The_Communist_Manifesto\" rel=\"noopener nofollow\">Communist Manifesto</a> in 1848, hence Temple relating “universal brotherhood” to Marx.</p><p><img src=\"https://images.rapgenius.com/514831dc5ca67531f48edec78b1dcea7.463x653x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2910306/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Marx-is-only-a-bloody-cod",
+    "original_id": "2910306",
+    "referent_id": 2910306,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "Marx is only a bloody cod",
+    "prefix": "n, Temple, said a stout ruddy student near him. I’ll stand you a pint after.\n\n —I’m a believer in universal brotherhood, said Temple, glancing about him out of his dark oval eyes. ",
+    "suffix": ".\n\n Cranly gripped his arm tightly to check his tongue, smiling uneasily, and repeated:\n\n —Easy, easy, easy!\n\n Temple struggled to free his arm but continued, his mouth flecked by ",
+    "start": 43858,
+    "end": 43883,
+    "canonical_text": "Marx is only a bloody cod"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2910306,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

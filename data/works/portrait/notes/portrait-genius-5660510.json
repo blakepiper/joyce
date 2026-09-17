@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-5660510",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Sallins",
+  "html_source": "<p>Sallins is a suburban village in County Kildare, Ireland, situated 3.5 km north of the town centre of Naas, from which it is separated by the M7 motorway. Sallins is the anglicised name of Na Solláin which means “The Willows”</p><p><img src=\"https://images.rapgenius.com/6d12587ed87c3bd4de2bade87258eed3.250x188x1.jpg\" alt=\"\" /></p><p>Source:<a href=\"http://en.wikipedia.org/wiki/Sallins\" rel=\"noopener nofollow\">http://en.wikipedia.org/wiki/Sallins</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5660510/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Sallins",
+    "original_id": "5660510",
+    "referent_id": 5660510,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Sallins",
+    "prefix": "rse.\n\n He turned to the flyleaf of the geography and read what he had written there: himself, his name and where he was.\n\n Stephen Dedalus\nClass of Elements\nClongowes Wood College\n",
+    "suffix": "\nCounty Kildare\nIreland\nEurope\nThe World\nThe Universe\n\n That was in his writing: and Fleming one night for a cod had written on the opposite page:\n\n Stephen Dedalus is my name,\nIre",
+    "start": 15614,
+    "end": 15621,
+    "canonical_text": "Sallins"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 5660510,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1509571,
+        "login": "AshleyPradhan",
+        "name": "AshleyPradhan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

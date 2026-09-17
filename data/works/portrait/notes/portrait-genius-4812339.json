@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4812339",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Buttevant",
+  "html_source": "<p>A town in County Cork.</p><p><img src=\"https://images.rapgenius.com/3b6b743dfce75f5f98f5fa463573a209.580x436x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4812339/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Buttevant",
+    "original_id": "4812339",
+    "referent_id": 4812339,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "Buttevant",
+    "prefix": "s smiling eyes towards his friend’s face, flattered by his confidence and won over to sympathy by the speaker’s simple accent.\n\n —I was away all that day from my own place over in ",
+    "suffix": "—I don’t know if you know where that is—at a hurling match between the Croke’s Own Boys and the Fearless Thurles and by God, Stevie, that was the hard fight. My first cousin, Fonsy",
+    "start": 15357,
+    "end": 15366,
+    "canonical_text": "Buttevant"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 4812339,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1356898,
+        "login": "ecbiv",
+        "name": "ecbiv",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-4-0010",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Place: Findlater's church",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Findlater&#x27;s church</p></blockquote><p class=\"tei-detail\">Coordinates: 53.354445 -6.263812</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-4:10"
+  },
+  "anchor": {
+    "text": "Findlater's church",
+    "prefix": "is hand as if already to a companion in the spiritual life. Stephen passed out on to the wide platform above the steps and was conscious of the caress of mild evening air. Towards ",
+    "suffix": " a quartet of young men were striding along with linked arms, swaying their heads and stepping to the agile melody of their leader’s concertina. The music passed in an instant, as ",
+    "start": 27301,
+    "end": 27319,
+    "canonical_text": "Findlater’s church"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.354445 -6.263812",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

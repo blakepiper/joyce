@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-2-0013",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "Place: Blackrock",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Blackrock</p></blockquote><p class=\"tei-detail\">Coordinates: 53.300907 -6.177049</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-2:13"
+  },
+  "anchor": {
+    "text": "Blackrock",
+    "prefix": "es and golden hair or The Groves of Blarney while the grey and blue coils of smoke rose slowly from his pipe and vanished in the pure air.\n\n During the first part of the summer in ",
+    "suffix": " uncle Charles was Stephen’s constant companion. Uncle Charles was a hale old man with a well tanned skin, rugged features and white side whiskers. On week days he did messages bet",
+    "start": 1217,
+    "end": 1226,
+    "canonical_text": "Blackrock"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.300907 -6.177049",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

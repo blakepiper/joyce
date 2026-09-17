@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0026",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Nasty Roche",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Nasty Roche</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:26"
+  },
+  "anchor": {
+    "text": "Nasty Roche",
+    "prefix": "d asked:\n\n —What is your name?\n\n Stephen had answered: Stephen Dedalus.\n\n Then Nasty Roche had said:\n\n —What kind of a name is that?\n\n And when Stephen had not been able to answer ",
+    "suffix": " had asked:\n\n —What is your father?\n\n Stephen had answered:\n\n —A gentleman.\n\n Then Nasty Roche had asked:\n\n —Is he a magistrate?\n\n He crept about from point to point on the fringe ",
+    "start": 2685,
+    "end": 2696,
+    "canonical_text": "Nasty Roche"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

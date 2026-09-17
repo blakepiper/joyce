@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2233039",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Forge",
+  "html_source": "<p>Dedalus' use of the word “forge” here could indicate two things.</p><p><img src=\"https://images.rapgenius.com/8c8c797bb4a33e2bec5d725c48b7e5bd.764x573x1.jpg\" alt=\"\" /></p><p>1) He could simply be saying that he will create, by use of his own artistic powers, this “conscience of his race.”</p><p>2) However, the word “forge” could also be alluding to the act of forgery or false construction. This could imply that Dedalus still feels, in spite of his transcendent experience earlier on with the composition of the villanelle, that this still could be a false vocation, and that at most he can compose – if not anything of meaning – something meaningless yet intricately produced to give the illusion of meaning.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2233039/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Forge",
+    "original_id": "2233039",
+    "referent_id": 2233039,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "forge",
+    "prefix": "life and away from home and friends what the heart is and what it feels. Amen. So be it. Welcome, O life! I go to encounter for the millionth time the reality of experience and to ",
+    "suffix": " in the smithy of my soul the uncreated conscience of my race.\n\n April 27. Old father, old artificer, stand me now and ever in good stead.\n\n \n\n\n\n Dublin, 1904.\nTrieste, 1914.\n\n",
+    "start": 146087,
+    "end": 146092,
+    "canonical_text": "forge"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 2233039,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 287726,
+        "login": "awardnopoints",
+        "name": "awardnopoints",
+        "role": null,
+        "attribution": 0.7424242424242425
+      },
+      {
+        "id": 293151,
+        "login": "jeeho",
+        "name": "Jeeho",
+        "role": "contributor",
+        "attribution": 0.25757575757575757
+      }
+    ]
+  },
+  "color": "F59627"
+}

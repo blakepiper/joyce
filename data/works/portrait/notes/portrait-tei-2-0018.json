@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-2-0018",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "Place: Clongowes",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Clongowes</p></blockquote><p class=\"tei-detail\">Coordinates: 53.310770 -6.684719</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-2:18"
+  },
+  "anchor": {
+    "text": "Clongowes",
+    "prefix": "is father’s return for there had been mutton hash that day and he knew that his father would make him dip his bread in the gravy. But he did not relish the hash for the mention of ",
+    "suffix": " had coated his palate with a scum of disgust.\n\n —I walked bang into him, said Mr Dedalus for the fourth time, just at the corner of the square.\n\n —Then I suppose, said Mrs Dedalus",
+    "start": 22427,
+    "end": 22436,
+    "canonical_text": "Clongowes"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.310770 -6.684719",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

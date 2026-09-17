@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-6316349",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "The brush with the maroon velvet back",
+  "html_source": "<p>Color plays a large role in this entire novel. Maroon, in this case, stands for Michael Davitt, and green for Parnell. At first these two colors seem to work in harmony, but eventually Stephen associates the two colors with conflict.</p><p><img src=\"https://images.rapgenius.com/27cf8440b10d5532dc204084481ab87a.672x672x1.png\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6316349/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/The-brush-with-the-maroon-velvet-back",
+    "original_id": "6316349",
+    "referent_id": 6316349,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "The brush with the maroon velvet back",
+    "prefix": "ala lala,\nTralala lala.\n\n Uncle Charles and Dante clapped. They were older than his father and mother but uncle Charles was older than Dante.\n\n Dante had two brushes in her press. ",
+    "suffix": " was for Michael Davitt and the brush with the green velvet back was for Parnell. Dante gave him a cachou every time he brought her a piece of tissue paper.\n\n The Vances lived in n",
+    "start": 1057,
+    "end": 1094,
+    "canonical_text": "The brush with the maroon velvet back"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6316349,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1509340,
+        "login": "abbyburridge",
+        "name": "abbyburridge",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

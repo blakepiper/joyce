@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-5178694",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "Followed his father meekly about the city from bar to bar",
+  "html_source": "<p>Stephen followed him “meekly” because he viewed the event of going from bar to bar as pathetic. It was embarrassing to Stephen that his own father was so easily entertained by simply getting drunk.</p><p>I don’t think he will be getting his father one of these.</p><p><img src=\"https://images.rapgenius.com/d731060f62251f522a1f086020dbcaff.570x817x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5178694/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2/Followed-his-father-meekly-about-the-city-from-bar-to-bar",
+    "original_id": "5178694",
+    "referent_id": 5178694,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2-annotated"
+  },
+  "anchor": {
+    "text": "followed his father meekly about the city from bar to bar",
+    "prefix": "ey belted suit. His hands were in his sidepockets and his trousers were tucked in at the knees by elastic bands.\n\n On the evening of the day on which the property was sold Stephen ",
+    "suffix": ". To the sellers in the market, to the barmen and barmaids, to the beggars who importuned him for a lob Mr Dedalus told the same tale, that he was an old Corkonian, that he had bee",
+    "start": 64425,
+    "end": 64482,
+    "canonical_text": "followed his father meekly about the city from bar to bar"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5178694,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1508799,
+        "login": "CRG02",
+        "name": "CRG02",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4258365",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Penance",
+  "html_source": "<p>May suggest Stephen is submitting himself to this routine not only to redeem other souls, but to gain forgiveness for his own. In a way, he may be punishing himself for his sins by praying so intensely.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4258365/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Penance",
+    "original_id": "4258365",
+    "referent_id": 4258365,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "penance",
+    "prefix": "mitted by way of suffrage for the agonising souls; and fearful lest in the midst of the purgatorial fire, which differed from the infernal only in that it was not everlasting, his ",
+    "suffix": " might avail no more than a drop of moisture, he drove his soul daily through an increasing circle of works of supererogation.\n\n Every part of his day, divided by what he regarded ",
+    "start": 1477,
+    "end": 1484,
+    "canonical_text": "penance"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 4258365,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1253808,
+        "login": "ShoutForJoyce",
+        "name": "ShoutForJoyce",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-5403793",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Socialism",
+  "html_source": "<p>“socialism” is a social and economic system characterised by social ownership of the means of production and co-operative management of the economy.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5403793/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Socialism",
+    "original_id": "5403793",
+    "referent_id": 5403793,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "Socialism",
+    "prefix": "ed his arm tightly to check his tongue, smiling uneasily, and repeated:\n\n —Easy, easy, easy!\n\n Temple struggled to free his arm but continued, his mouth flecked by a thin foam:\n\n —",
+    "suffix": " was founded by an Irishman and the first man in Europe who preached the freedom of thought was Collins. Two hundred years ago. He denounced priestcraft, the philosopher of Middles",
+    "start": 44079,
+    "end": 44088,
+    "canonical_text": "Socialism"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5403793,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1504526,
+        "login": "katherine_tran",
+        "name": "katherine_tran",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

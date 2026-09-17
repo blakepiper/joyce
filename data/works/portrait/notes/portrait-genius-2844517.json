@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2844517",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Sing the chant ITE MISSA EST.",
+  "html_source": "<p>“Ite missa est” essentially meaning <em>go, mass is over.</em> (from Latin)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2844517/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Sing-the-chant-ite-missa-est",
+    "original_id": "2844517",
+    "referent_id": 2844517,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "sing the chant ITE MISSA EST.",
+    "prefix": " when the sacrifice had been accomplished, to stand as deacon in a dalmatic of cloth of gold on the step below the celebrant, his hands joined and his face towards the people, and ",
+    "suffix": ". If ever he had seen himself celebrant it was as in the pictures of the mass in his child’s massbook, in a church without worshippers, save for the angel of the sacrifice, at a ba",
+    "start": 24497,
+    "end": 24526,
+    "canonical_text": "sing the chant, Ite missa est"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2844517,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

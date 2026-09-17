@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-3970208",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "The liberator",
+  "html_source": "<p>A reference to Danniel O'Connell, a 19th century Irish political leader who campaigned for the <a href=\"http://en.wikipedia.org/wiki/Catholic_Emancipation\" rel=\"noopener nofollow\">Catholic Emancipation</a> and against the <a href=\"http://en.wikipedia.org/wiki/Act_of_Union_1800\" rel=\"noopener nofollow\">Act of Union</a>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3970208/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/The-liberator",
+    "original_id": "3970208",
+    "referent_id": 3970208,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "the liberator",
+    "prefix": "ther boys’ fathers. Then why was he sent to that place with them? But his father had told him that he would be no stranger there because his granduncle had presented an address to ",
+    "suffix": " there fifty years before. You could know the people of that time by their old dress. It seemed to him a solemn time: and he wondered if that was the time when the fellows in Clong",
+    "start": 34242,
+    "end": 34255,
+    "canonical_text": "the Liberator"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 3970208,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1141957,
+        "login": "Velcro_River",
+        "name": "Velcro_River",
+        "role": null,
+        "attribution": 0.9565217391304348
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.043478260869565216
+      }
+    ]
+  },
+  "color": "F59627"
+}

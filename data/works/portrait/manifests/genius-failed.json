@@ -1,0 +1,53 @@
+{
+  "failed": [
+    {
+      "chapter": 3,
+      "referent_id": 5144133,
+      "referent": "God was almighty. God could call him now, call him as he sat at his desk, before he had time to be conscious of the summons",
+      "reason": "empty annotation body",
+      "annotation_id": 5144133
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated",
+      "song_id": 115989,
+      "referents": 173,
+      "notes": 173,
+      "failed_records": 0
+    },
+    {
+      "chapter": 2,
+      "url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2-annotated",
+      "song_id": 115992,
+      "referents": 36,
+      "notes": 36,
+      "failed_records": 0
+    },
+    {
+      "chapter": 3,
+      "url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3-annotated",
+      "song_id": 82310,
+      "referents": 53,
+      "notes": 52,
+      "failed_records": 1
+    },
+    {
+      "chapter": 4,
+      "url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated",
+      "song_id": 82311,
+      "referents": 107,
+      "notes": 107,
+      "failed_records": 0
+    },
+    {
+      "chapter": 5,
+      "url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated",
+      "song_id": 82312,
+      "referents": 115,
+      "notes": 115,
+      "failed_records": 0
+    }
+  ]
+}

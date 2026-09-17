@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-5124180",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "Simoom",
+  "html_source": "simoom  noun  si·moom \\sə-ˈmüm, sī-\\<p> a hot dry violent dust-laden wind from Asian and African deserts</p><p><a href=\"http://www.merriam-webster.com/dictionary/simoom\" rel=\"noopener nofollow\">http://www.merriam-webster.com/dictionary/simoom</a></p><p><img src=\"https://images.rapgenius.com/ba6eac2049265a7f7dacafa4f80e86ec.700x469x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5124180/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3/Simoom",
+    "original_id": "5124180",
+    "referent_id": 5124180,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3-annotated"
+  },
+  "anchor": {
+    "text": "simoom",
+    "prefix": "steners out of his dark stern eyes.\n\n In the silence their dark fire kindled the dusk into a tawny glow. Stephen’s heart had withered up like a flower of the desert that feels the ",
+    "suffix": " coming from afar.\n\n —Remember only thy last things and thou shalt not sin for ever—words taken, my dear little brothers in Christ, from the book of Ecclesiastes, seventh chapter, ",
+    "start": 13030,
+    "end": 13036,
+    "canonical_text": "simoom"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5124180,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1459176,
+        "login": "samuraisamrin",
+        "name": "samuraisamrin",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

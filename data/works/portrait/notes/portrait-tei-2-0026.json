@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-2-0026",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "LA passage: Confiteor",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>Confiteor</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-2:26"
+  },
+  "anchor": {
+    "text": "Confiteor",
+    "prefix": "et off towards Jones’s Road, laughing and jeering at him, while he, half blinded with tears, stumbled on, clenching his fists madly and sobbing.\n\n While he was still repeating the ",
+    "suffix": " amid the indulgent laughter of his hearers and while the scenes of that malignant episode were still passing sharply and swiftly before his mind he wondered why he bore no malice ",
+    "start": 42702,
+    "end": 42711,
+    "canonical_text": "Confiteor"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

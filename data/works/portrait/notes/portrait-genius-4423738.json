@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-4423738",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "The day of your first communion was the happiest day of your life. And once a lot of generals had asked Napoleon what was the happiest day of his life. They thought he would say the day he won some great battle or the day he was made an emperor. But he said:\n \n —Gentlemen, the happiest day of my life was the day on which I made my first holy communion.",
+  "html_source": "<p>A story Stephen and others were told that was probably not true, but meant to convey that, for everything he had accomplished, Napoleon was most happy when he made his first holy communion. The story is meant to impress on Stephen the grandiosity of Catholocism, and the importance of its rituals.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4423738/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/The-day-of-your-first-communion-was-the-happiest-day-of-your-life-and-once-a-lot-of-generals-had-asked-napoleon-what-was-the-happiest-day-of-his-life-they-thought-he-would-say-the-day-he-won-some-great-battle-or-the-day-he-was-made-an-emperor-but-he-said-gentlemen-the-happiest-day-of-my-life-was-the-day-on-which-i-made-my-first-holy-communion",
+    "original_id": "4423738",
+    "referent_id": 4423738,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "The day of your first communion was the happiest day of your life. And once a lot of generals had asked Napoleon what was the happiest day of his life. They thought he would say the day he won some great battle or the day he was made an emperor. But he said:\n \n —Gentlemen, the happiest day of my life was the day on which I made my first holy communion.",
+    "prefix": "rk purple that grew in Greece outside houses like white temples. But the faint smell of the rector’s breath had made him feel a sick feeling on the morning of his first communion. ",
+    "suffix": "\n\n Father Arnall came in and the Latin lesson began and he remained still leaning on the desk with his arms folded. Father Arnall gave out the themebooks and he said that they were",
+    "start": 70873,
+    "end": 71226,
+    "canonical_text": "The day of your first communion was the happiest day of your life. And once a lot of generals had asked Napoleon what was the happiest day of his life. They thought he would say the day he won some great battle or the day he was made an emperor. But he said:\n\n —Gentlemen, the happiest day of my life was the day on which I made my first holy communion."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4423738,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1293868,
+        "login": "PhiliCheeseSteakJackson",
+        "name": "PhiliCheeseSteakJackson",
+        "role": null,
+        "attribution": 0.7058823529411765
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.29411764705882354
+      }
+    ]
+  },
+  "color": "F59627"
+}

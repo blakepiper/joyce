@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-6322388",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "The grapes were dark purple that grew in Greece outside houses like white temples",
+  "html_source": "<p>Santorini, Greece, is a city famous for its white, temple-like buildings. And Greece is one the oldest <a href=\"http://en.wikipedia.org/wiki/Greek_wine\" rel=\"noopener nofollow\">wine</a> producing countries in the world.</p><p><img src=\"https://images.rapgenius.com/4e016f446858a7ca744af7de681c2db7.1000x625x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6322388/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/The-grapes-were-dark-purple-that-grew-in-greece-outside-houses-like-white-temples",
+    "original_id": "6322388",
+    "referent_id": 6322388,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "the grapes were dark purple that grew in Greece outside houses like white temples",
+    "prefix": "e him the holy communion he had smelt a faint winy smell off the rector’s breath after the wine of the mass. The word was beautiful: wine. It made you think of dark purple because ",
+    "suffix": ". But the faint smell of the rector’s breath had made him feel a sick feeling on the morning of his first communion. The day of your first communion was the happiest day of your li",
+    "start": 70675,
+    "end": 70756,
+    "canonical_text": "the grapes were dark purple that grew in Greece outside houses like white temples"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6322388,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1507433,
+        "login": "vtomic",
+        "name": "vtomic",
+        "role": "contributor",
+        "attribution": 0.9811320754716981
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.018867924528301886
+      }
+    ]
+  },
+  "color": "F59627"
+}

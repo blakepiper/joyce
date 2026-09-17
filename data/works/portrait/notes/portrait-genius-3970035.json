@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-3970035",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Foxing",
+  "html_source": "<p>Slang for ‘faking’ or ‘being deceitful’—in this case, pretending to be ill.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3970035/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Foxing",
+    "original_id": "3970035",
+    "referent_id": 3970035,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "foxing",
+    "prefix": "vy bird flying low through the grey light. Leicester Abbey lit up. Wolsey died there. The abbots buried him themselves.\n\n It was not Wells’s face, it was the prefect’s. He was not ",
+    "suffix": ". No, no: he was sick really. He was not foxing. And he felt the prefect’s hand on his forehead; and he felt his forehead warm and damp against the prefect’s cold damp hand. That w",
+    "start": 27147,
+    "end": 27153,
+    "canonical_text": "foxing"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 3970035,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.5384615384615384
+      },
+      {
+        "id": 1141957,
+        "login": "Velcro_River",
+        "name": "Velcro_River",
+        "role": null,
+        "attribution": 0.4615384615384615
+      }
+    ]
+  },
+  "color": "F59627"
+}

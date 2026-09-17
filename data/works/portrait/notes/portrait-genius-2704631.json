@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2704631",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Dunn’s of D’Olier Street",
+  "html_source": "<p>Anachronism: they didn’t relocate there until 1895 – (<a href=\"http://www.finesalmon.com/Salmon_Products/Irel_/Dunns_of_Dublin/index.asp\" rel=\"noopener nofollow\">http://www.finesalmon.com/Salmon_Products/Irel_/Dunns_of_Dublin/index.asp</a>).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2704631/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Dunns-of-dolier-street",
+    "original_id": "2704631",
+    "referent_id": 2704631,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Dunn's of D'Olier Street",
+    "prefix": "he edge with glistening drops.\n\n Stephen looked at the plump turkey which had lain, trussed and skewered, on the kitchen table. He knew that his father had paid a guinea for it in ",
+    "suffix": " and that the man had prodded it often at the breastbone to show how good it was: and he remembered the man’s voice when he had said:\n\n —Take that one, sir. That’s the real Ally Da",
+    "start": 40775,
+    "end": 40799,
+    "canonical_text": "Dunn’s of D’Olier Street"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2704631,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

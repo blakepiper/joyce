@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-5014216",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Being as weak of sight",
+  "html_source": "<p>Throughout his life, Joyce struggled with eye problems (like glaucoma), so, considering that Stephen is Joyce’s alter ego, “weak of sight” is referencing this.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5014216/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Being-as-weak-of-sight",
+    "original_id": "5014216",
+    "referent_id": 5014216,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "being as weak of sight",
+    "prefix": "lours: it was the poise and balance of the period itself. Did he then love the rhythmic rise and fall of words better than their associations of legend and colour? Or was it that, ",
+    "suffix": " as he was shy of mind, he drew less pleasure from the reflection of the glowing sensible world through the prism of a language manycoloured and richly storied than from the contem",
+    "start": 40464,
+    "end": 40486,
+    "canonical_text": "being as weak of sight"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5014216,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-5943404",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "He longed to be at home and lay his head on his mother’s lap.",
+  "html_source": "<p>Stephen was homesick, and hearing all the other boys talk about their parents made Stephen miss his own. Although his relationship with his family isn’t as strong as the other boy’s relationships with theirs, he just wants to be at home, where he can feel comfortable in a familiar environment. Or, perhaps he is secretly a mama’s boy?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5943404/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/He-longed-to-be-at-home-and-lay-his-head-on-his-mothers-lap",
+    "original_id": "5943404",
+    "referent_id": 5943404,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "He longed to be at home and lay his head on his mother's lap.",
+    "prefix": "hat it was hogwash. Their fathers were magistrates, the fellows said.\n\n All the boys seemed to him very strange. They had all fathers and mothers and different clothes and voices. ",
+    "suffix": " But he could not: and so he longed for the play and study and prayers to be over and to be in bed.\n\n He drank another cup of hot tea and Fleming said:\n\n —What’s up? Have you a pai",
+    "start": 10748,
+    "end": 10809,
+    "canonical_text": "He longed to be at home and lay his head on his mother’s lap."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 5943404,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1509500,
+        "login": "bchow410",
+        "name": "bchow410",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

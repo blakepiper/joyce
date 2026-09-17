@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0115",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "LA passage: claritas",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>claritas</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:115"
+  },
+  "anchor": {
+    "text": "claritas",
+    "prefix": " the necessary phases of artistic apprehension. Find these and you find the qualities of universal beauty. Aquinas says: Ad pulcritudinem tria requiruntur integritas, consonantia, ",
+    "suffix": ". I translate it so: Three things are needed for beauty, wholeness, harmony and radiance. Do these correspond to the phases of apprehension? Are you following?\n\n —Of course, I am, ",
+    "start": 70720,
+    "end": 70728,
+    "canonical_text": "claritas"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

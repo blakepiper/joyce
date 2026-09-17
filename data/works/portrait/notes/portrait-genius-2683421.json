@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2683421",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "The road where Betty Byrne lived",
+  "html_source": "<p>The 1901 census shows <a href=\"http://www.census.nationalarchives.ie/search/results.jsp?census_year=1901&amp;surname=Byrne&amp;exact=&amp;firstname=Elizabeth&amp;county=Dublin&amp;townland=&amp;ded=&amp;age=&amp;sex=F&amp;relationToHead=&amp;religion=&amp;education=&amp;occupation=&amp;marriageStatus=&amp;marriageYears=&amp;childrenBorn=&amp;childrenLiving=&amp;birthplace=&amp;language=&amp;deafdumb=&amp;search=Search&amp;sort=&amp;pageSize=100\" rel=\"noopener nofollow\">241</a> Elizabeth Byrnes in Dublin County.</p><p>Little Stephen (falsely) interprets his father’s story as taking place on a road he knows personally. <a href=\"http://poetry.genius.com/2685325\" rel=\"noopener nofollow\">(Compare with his false memories of Oxford in chapter one of Ulysses.)</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2683421/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/The-road-where-betty-byrne-lived",
+    "original_id": "2683421",
+    "referent_id": 2683421,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "the road where Betty Byrne lived",
+    "prefix": "nicens little boy named baby tuckoo....\n\n His father told him that story: his father looked at him through a glass: he had a hairy face.\n\n He was baby tuckoo. The moocow came down ",
+    "suffix": ": she sold lemon platt.\n\n O, the wild rose blossoms\nOn the little green place.\n\n He sang that song. That was his song.\n\n O, the green wothe botheth.\n\n When you wet the bed, first i",
+    "start": 415,
+    "end": 447,
+    "canonical_text": "the road where Betty Byrne lived"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2683421,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.9534883720930233
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.046511627906976744
+      }
+    ]
+  },
+  "color": "F59627"
+}

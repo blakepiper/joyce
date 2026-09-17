@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0237",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Brother Michael",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Brother Michael</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:237"
+  },
+  "anchor": {
+    "text": "Brother Michael",
+    "prefix": "is name was Athy and that his father kept a lot of racehorses that were spiffing jumpers and that his father would give a good tip to Brother Michael any time he wanted it because ",
+    "suffix": " was very decent and always told him the news out of the paper they got every day up in the castle. There was every kind of news in the paper: accidents, shipwrecks, sports and pol",
+    "start": 32311,
+    "end": 32326,
+    "canonical_text": "Brother Michael"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

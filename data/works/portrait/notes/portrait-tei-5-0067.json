@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0067",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Person: Wolfe Tone",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Wolfe Tone</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:67"
+  },
+  "anchor": {
+    "text": "Wolfe Tone",
+    "prefix": "a student of Trinity. Grafton Street, along which he walked, prolonged that moment of discouraged poverty. In the roadway at the head of the street a slab was set to the memory of ",
+    "suffix": " and he remembered having been present with his father at its laying. He remembered with bitterness that scene of tawdry tribute. There were four French delegates in a brake and on",
+    "start": 19876,
+    "end": 19886,
+    "canonical_text": "Wolfe Tone"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0093",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "LA passage: ego aut vos?",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>ego aut vos?</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:93"
+  },
+  "anchor": {
+    "text": "ego aut vos?",
+    "prefix": "red on Cranly’s forehead. He stared at the table where Moynihan had bent to write his name on the roll, and then said flatly:\n\n —A sugar!\n\n —Quis est in malo humore, said Stephen, ",
+    "suffix": "\n\n Cranly did not take up the taunt. He brooded sourly on his judgement and repeated with the same flat force:\n\n —A flaming bloody sugar, that’s what he is!\n\n It was his epitaph fo",
+    "start": 40894,
+    "end": 40906,
+    "canonical_text": "ego aut vos?"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

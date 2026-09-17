@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0118",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: the national library",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>the national library</p></blockquote><p class=\"tei-detail\">Coordinates: 53.341522 -6.254893</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:118"
+  },
+  "anchor": {
+    "text": "the national library",
+    "prefix": "ing his fingernails.\n\n —Trying to refine them also out of existence, said Lynch.\n\n A fine rain began to fall from the high veiled sky and they turned into the duke’s lawn to reach ",
+    "suffix": " before the shower came.\n\n —What do you mean, Lynch asked surlily, by prating about beauty and the imagination in this miserable Godforsaken island? No wonder the artist retired wi",
+    "start": 77953,
+    "end": 77973,
+    "canonical_text": "the national library"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.341522 -6.254893",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

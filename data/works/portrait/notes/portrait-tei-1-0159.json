@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0159",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Dante",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Dante</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:159"
+  },
+  "anchor": {
+    "text": "Dante",
+    "prefix": "turned over the flyleaf and looked wearily at the green round earth in the middle of the maroon clouds. He wondered which was right, to be for the green or for the maroon, because ",
+    "suffix": " had ripped the green velvet back off the brush that was for Parnell one day with her scissors and had told him that Parnell was a bad man. He wondered if they were arguing at home",
+    "start": 17178,
+    "end": 17183,
+    "canonical_text": "Dante"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

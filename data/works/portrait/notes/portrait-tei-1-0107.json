@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0107",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Fleming",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Fleming</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:107"
+  },
+  "anchor": {
+    "text": "Fleming",
+    "prefix": "r away: but one time it would come because the earth moved round always.\n\n There was a picture of the earth on the first page of his geography: a big ball in the middle of clouds. ",
+    "suffix": " had a box of crayons and one night during free study he had coloured the earth green and the clouds maroon. That was like the two brushes in Dante’s press, the brush with the gree",
+    "start": 14766,
+    "end": 14773,
+    "canonical_text": "Fleming"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

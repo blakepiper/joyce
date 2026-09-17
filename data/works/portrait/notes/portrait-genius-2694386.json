@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2694386",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Hacking chestnut",
+  "html_source": "<p>AKA conkers<br /><a href=\"http://www.youtube.com/watch?v=1cQ-eZOWgvI\" rel=\"noopener nofollow\">http://www.youtube.com/watch?v=1cQ-eZOWgvI</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2694386/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Hacking-chestnut",
+    "original_id": "2694386",
+    "referent_id": 2694386,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "hacking chestnut",
+    "prefix": "ivered as if he had cold slimy water next his skin. That was mean of Wells to shoulder him into the square ditch because he would not swop his little snuffbox for Wells’s seasoned ",
+    "suffix": ", the conqueror of forty. How cold and slimy the water had been! A fellow had once seen a big rat jump into the scum. Mother was sitting at the fire with Dante waiting for Brigid t",
+    "start": 5935,
+    "end": 5951,
+    "canonical_text": "hacking chestnut"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 2694386,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

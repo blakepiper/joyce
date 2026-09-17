@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0133",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "LA passage: Mulier cantat.",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>Mulier cantat.</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:133"
+  },
+  "anchor": {
+    "text": "Mulier cantat.",
+    "prefix": "e window of a kitchen and the voice of a servant was heard singing as she sharpened knives. She sang, in short broken bars:\n\n Rosie O’Grady—\n\n Cranly stopped to listen, saying:\n\n —",
+    "suffix": "\n\n The soft beauty of the Latin word touched with an enchanting touch the dark of the evening, with a touch fainter and more persuading than the touch of music or of a woman’s hand",
+    "start": 129440,
+    "end": 129454,
+    "canonical_text": "Mulier cantat."
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

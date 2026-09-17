@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2647589",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "—Certainly, said Dante. It is a question of public morality. A priest would not be a priest if he did not tell his flock what is right and what is wrong.",
+  "html_source": "<p>Mrs. Riordan, or “Dante,” is an absolute follower of the Roman Catholic Church, and she entirely follows the church’s “denunciation” of Parnell for his <a href=\"http://en.wikipedia.org/wiki/Charles_Stewart_Parnell#Divorce_crisis\" rel=\"noopener nofollow\">“divorce crisis”</a>.</p><p>Mr. Dedalus, Mr. Casey, and Uncle Charles would rather support Parnell, regardless of such circumstances, thus causing such a heated argument as this.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2647589/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Certainly-said-dante-it-is-a-question-of-public-morality-a-priest-would-not-be-a-priest-if-he-did-not-tell-his-flock-what-is-right-and-what-is-wrong",
+    "original_id": "2647589",
+    "referent_id": 2647589,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "—Certainly, said Dante. It is a question of public morality. A priest would not be a priest if he did not tell his flock what is right and what is wrong.",
+    "prefix": "t to hear election addresses.\n\n —It is religion, Dante said again. They are right. They must direct their flocks.\n\n —And preach politics from the altar, is it? asked Mr Dedalus.\n\n ",
+    "suffix": "\n\n Mrs Dedalus laid down her knife and fork, saying:\n\n —For pity sake and for pity sake let us have no political discussion on this day of all days in the year.\n\n —Quite right, ma’",
+    "start": 43487,
+    "end": 43640,
+    "canonical_text": "—Certainly, said Dante. It is a question of public morality. A priest would not be a priest if he did not tell his flock what is right and what is wrong."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2647589,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

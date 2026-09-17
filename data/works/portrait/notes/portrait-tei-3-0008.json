@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-3-0008",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "LA passage: Confiteor",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>Confiteor</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-3:8"
+  },
+  "anchor": {
+    "text": "Confiteor",
+    "prefix": "t the grating, averted from him, leaning upon a hand. He made the sign of the cross and prayed of the priest to bless him for he had sinned. Then, bowing his head, he repeated the ",
+    "suffix": " in fright. At the words my most grievous fault he ceased, breathless.\n\n —How long is it since your last confession, my child?\n\n —A long time, father.\n\n —A month, my child?\n\n —Long",
+    "start": 85536,
+    "end": 85545,
+    "canonical_text": "Confiteor"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

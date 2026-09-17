@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4259102",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Irradiate",
+  "html_source": "<p>To shed light on. this word was probably chosen for religious implications.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4259102/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Irradiate",
+    "original_id": "4259102",
+    "referent_id": 4259102,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "irradiate",
+    "prefix": "troubling odour of the long corridors of Clongowes came back to him and he heard the discreet murmur of the burning gasflames. At once from every part of his being unrest began to ",
+    "suffix": ". A feverish quickening of his pulses followed, and a din of meaningless words drove his reasoned thoughts hither and thither confusedly. His lungs dilated and sank as if he were i",
+    "start": 28562,
+    "end": 28571,
+    "canonical_text": "irradiate"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4259102,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1254031,
+        "login": "dinklebot",
+        "name": "dinklebot",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0278",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Mrs Riordan",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Mrs Riordan</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:278"
+  },
+  "anchor": {
+    "text": "Mrs Riordan",
+    "prefix": "s entered and placed the dishes on the table. Mrs Dedalus followed and the places were arranged.\n\n —Sit over, she said.\n\n Mr Dedalus went to the end of the table and said:\n\n —Now, ",
+    "suffix": ", sit over. John, sit you down, my hearty.\n\n He looked round to where uncle Charles sat and said:\n\n —Now then, sir, there’s a bird here waiting for you.\n\n When all had taken their ",
+    "start": 40012,
+    "end": 40023,
+    "canonical_text": "Mrs Riordan"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

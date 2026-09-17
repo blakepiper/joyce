@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-8265367",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Peter Parley",
+  "html_source": "<p>Samuel Griswold Goodrich was an American author, better known under the pseudonym Peter Parley.</p><p><a href=\"https://en.wikipedia.org/wiki/Samuel_Griswold_Goodrich\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Samuel_Griswold_Goodrich</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8265367/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Peter-parley",
+    "original_id": "8265367",
+    "referent_id": 8265367,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Peter Parley",
+    "prefix": "o did that had been wrongly punished. Those were the great men whose names were in Richmal Magnall’s Questions. History was all about those men and what they did and that was what ",
+    "suffix": "’s Tales about Greece and Rome were all about. Peter Parley himself was on the first page in a picture. There was a road over a heath with grass at the side and little bushes: and ",
+    "start": 83500,
+    "end": 83512,
+    "canonical_text": "Peter Parley"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 8265367,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2529123,
+        "login": "NaynaYadav",
+        "name": "NaynaYadav",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

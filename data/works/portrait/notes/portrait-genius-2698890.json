@@ -1,0 +1,50 @@
+{
+  "id": "portrait-genius-2698890",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "A Portrait of the Artist as a Young Man",
+  "html_source": "<p>This title echoes <a href=\"https://commons.wikimedia.org/wiki/File:Rembrandt_van_Rijn_-_Portrait_of_the_Artist_as_a_Young_Man_-_Google_Art_Project.jpg\" rel=\"noopener nofollow\">Rembrandt</a>’s Portrait of the Artist as a Young Man, <a href=\"http://en.wikipedia.org/wiki/Raphael\" rel=\"noopener nofollow\">Rafael</a>’s Portrait of a Young Man, and <a href=\"http://www.powellhistory.com/art/Painting/Douais_F_H_Portrait_Of_The_Artist_As_A_Young_Man.jpg\" rel=\"noopener nofollow\">others</a></p><p><img src=\"https://images.rapgenius.com/3670f5cd9198bdabc6a2f99280369b0d.380x480x1.jpg\" alt=\"\" /></p><p><em>(Rembrandt’s A Portrait of the Artist)</em></p><p><img src=\"https://images.rapgenius.com/7498e652ba62d10506a4f5eb8a01823c.804x1000x1.jpg\" alt=\"\" /></p><p><em>(Rafael’s Portrait of a Young Man)</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2698890/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/A-portrait-of-the-artist-as-a-young-man",
+    "original_id": "2698890",
+    "referent_id": 2698890,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "A Portrait of the Artist as a Young Man",
+    "prefix": "",
+    "suffix": "\n\n    \"Et ignotas animum dimittit in artes.\"\n    Ovid, Metamorphoses, VIII., 18.\n\n\nOnce upon a time and a very good time it was there was a moocow coming down along the road and th",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": [
+      0.5205
+    ]
+  },
+  "genius": {
+    "referent_id": 2698890,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 0.6195652173913043
+      },
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.3804347826086956
+      }
+    ]
+  },
+  "color": "F59627"
+}

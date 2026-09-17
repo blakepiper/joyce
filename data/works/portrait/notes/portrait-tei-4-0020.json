@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-4-0020",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Place: Irish Sea",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Irish Sea</p></blockquote><p class=\"tei-detail\">Coordinates: 53.13 -5.32</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-4:20"
+  },
+  "anchor": {
+    "text": "Irish Sea",
+    "prefix": "They were voyaging across the deserts of the sky, a host of nomads on the march, voyaging high over Ireland, westward bound. The Europe they had come from lay out there beyond the ",
+    "suffix": ", Europe of strange tongues and valleyed and woodbegirt and citadelled and of entrenched and marshalled races. He heard a confused music within him as of memories and names which h",
+    "start": 42022,
+    "end": 42031,
+    "canonical_text": "Irish Sea"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.13 -5.32",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

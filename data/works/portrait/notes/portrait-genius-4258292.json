@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4258292",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "And every single fellow had a different way of walking.",
+  "html_source": "<p>Even from a young age, Stephen has already noted differences between himself and the people around him; he notices these differences and physically sets himself apart. This may have set him up to be ostracized later on in the novel.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4258292/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/And-every-single-fellow-had-a-different-way-of-walking",
+    "original_id": "4258292",
+    "referent_id": 4258292,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "And every single fellow had a different way of walking.",
+    "prefix": "nd Jimmy Magee and the Spaniard who was allowed to smoke cigars and the little Portuguese who wore the woolly cap. And then the lower line tables and the tables of the third line. ",
+    "suffix": "\n\n He sat in a corner of the playroom pretending to watch a game of dominos and once or twice he was able to hear for an instant the little song of the gas. The prefect was at the ",
+    "start": 12191,
+    "end": 12246,
+    "canonical_text": "And every single fellow had a different way of walking."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4258292,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1253789,
+        "login": "Tia123",
+        "name": "Tia123",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

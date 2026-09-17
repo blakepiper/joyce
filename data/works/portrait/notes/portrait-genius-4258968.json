@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4258968",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "The raw morning air whetted his resolute piety",
+  "html_source": "<p>Demonstrates that Stephen’s religious fervor was driven by desire for escape from outside pain- the “raw morning air”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4258968/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/The-raw-morning-air-whetted-his-resolute-piety",
+    "original_id": "4258968",
+    "referent_id": 4258968,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "The raw morning air whetted his resolute piety",
+    "prefix": "e of some holy image or mystery. His day began with an heroic offering of its every moment of thought or action for the intentions of the sovereign pontiff and with an early mass. ",
+    "suffix": "; and often as he knelt among the few worshippers at the sidealtar, following with his interleaved prayerbook the murmur of the priest, he glanced up for an instant towards the ves",
+    "start": 511,
+    "end": 557,
+    "canonical_text": "The raw morning air whetted his resolute piety"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4258968,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1254043,
+        "login": "mbutler42",
+        "name": "mbutler42",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

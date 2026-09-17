@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2683978",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Parnell",
+  "html_source": "<p>The the <a href=\"https://en.wikipedia.org/wiki/Charles_Stewart_Parnell\" rel=\"noopener nofollow\">archetypal fallen hero in Joyce’s work</a>.</p><p><img src=\"https://images.rapgenius.com/d9e68d4f4caae931b072cc8f22c41dc4.477x599x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2683978/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Parnell",
+    "original_id": "2683978",
+    "referent_id": 2683978,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Parnell",
+    "prefix": "e Charles was older than Dante.\n\n Dante had two brushes in her press. The brush with the maroon velvet back was for Michael Davitt and the brush with the green velvet back was for ",
+    "suffix": ". Dante gave him a cachou every time he brought her a piece of tissue paper.\n\n The Vances lived in number seven. They had a different father and mother. They were Eileen’s father a",
+    "start": 1167,
+    "end": 1174,
+    "canonical_text": "Parnell"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 2683978,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 212428,
+        "login": "ciaranaustin",
+        "name": "Ciaran Austin",
+        "role": "contributor",
+        "attribution": 0.8947368421052632
+      },
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.10526315789473685
+      }
+    ]
+  },
+  "color": "F59627"
+}

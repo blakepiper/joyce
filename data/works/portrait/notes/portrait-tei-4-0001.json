@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-4-0001",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "LA passage: Inter ubera mea commorabitur",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>Inter ubera mea commorabitur</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-4:1"
+  },
+  "anchor": {
+    "text": "Inter ubera mea commorabitur",
+    "prefix": " come away, bidding her look forth, a spouse, from Amana and from the mountains of the leopards; and the soul seemed to answer with the same inaudible voice, surrendering herself: ",
+    "suffix": ".\n\n This idea of surrender had a perilous attraction for his mind now that he felt his soul beset once again by the insistent voices of the flesh which began to murmur to him again",
+    "start": 11253,
+    "end": 11281,
+    "canonical_text": "Inter ubera mea commorabitur"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2649759",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "—Did they hurt you much? Nasty Roche asked.",
+  "html_source": "<p>Notice how “Nasty Roche” cares at all here whether Stephen was hurt much.</p><p>Earlier, Nasty Roche pushed Stephen into a cold slimy ditch and didn’t seem too concerned until Stephen became sick.</p><p>They are all still young enough to not be entirely certain of proper expectation/conduct, which is shown here, as Nasty Roche cares whether Stephen was hurt much, but pushed him into a ditch earlier.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2649759/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Did-they-hurt-you-much-nasty-roche-asked",
+    "original_id": "2649759",
+    "referent_id": 2649759,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "—Did they hurt you much? Nasty Roche asked.",
+    "prefix": "I wouldn’t stand it. I’d go up and tell the rector on him.\n\n —Yes, said Cecil Thunder eagerly, and I saw him lift the pandybat over his shoulder and he’s not allowed to do that.\n\n ",
+    "suffix": "\n\n —Very much, Stephen said.\n\n —I wouldn’t stand it, Fleming repeated, from Baldyhead or any other Baldyhead. It’s a stinking mean low trick, that’s what it is. I’d go straight up ",
+    "start": 81773,
+    "end": 81816,
+    "canonical_text": "—Did they hurt you much? Nasty Roche asked."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2649759,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

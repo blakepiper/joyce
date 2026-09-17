@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4847517",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "MULIER CANTAT",
+  "html_source": "<p>“a woman is singing”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4847517/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Mulier-cantat",
+    "original_id": "4847517",
+    "referent_id": 4847517,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "MULIER CANTAT",
+    "prefix": "e window of a kitchen and the voice of a servant was heard singing as she sharpened knives. She sang, in short broken bars:\n\n Rosie O’Grady—\n\n Cranly stopped to listen, saying:\n\n —",
+    "suffix": ".\n\n The soft beauty of the Latin word touched with an enchanting touch the dark of the evening, with a touch fainter and more persuading than the touch of music or of a woman’s han",
+    "start": 129440,
+    "end": 129453,
+    "canonical_text": "Mulier cantat"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4847517,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1497331,
+        "login": "SalmaIraqui",
+        "name": "SalmaIraqui",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

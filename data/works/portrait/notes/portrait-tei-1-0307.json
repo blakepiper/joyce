@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0307",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Quotation: I'll pay you your dues, father, when you cease turning the house of G…",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a quotation.</p><blockquote><p>I&#x27;ll pay you your dues, father, when you cease turning the house of God into a pollingbooth.</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:307"
+  },
+  "anchor": {
+    "text": "I'll pay you your dues, father, when you cease turning the house of God into a pollingbooth.",
+    "prefix": "uth was full but he nodded that it was.\n\n —That was a good answer our friend made to the canon. What? said Mr Dedalus.\n\n —I didn’t think he had that much in him, said Mr Casey.\n\n —",
+    "suffix": "\n\n —A nice answer, said Dante, for any man calling himself a catholic to give to his priest.\n\n —They have only themselves to blame, said Mr Dedalus suavely. If they took a fool’s a",
+    "start": 42816,
+    "end": 42905,
+    "canonical_text": "I’ll pay your dues, father, when you cease turning the house of God into a polling-booth."
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "quote",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9778
+  },
+  "color": "7AA8FF"
+}

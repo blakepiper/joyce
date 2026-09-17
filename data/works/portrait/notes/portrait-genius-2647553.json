@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2647553",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Collywobbles!",
+  "html_source": "<p>“Bellyache”</p><p>—<a href=\"http://www.merriam-webster.com/dictionary/collywobbles\" rel=\"noopener nofollow\">Merriam-Webster</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2647553/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Collywobbles",
+    "original_id": "2647553",
+    "referent_id": 2647553,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "collywobbles!",
+    "prefix": " to get up and dress and go to the infirmary. And while he was dressing himself as quickly as he could the prefect said:\n\n —We must pack off to Brother Michael because we have the ",
+    "suffix": "\n\n He was very decent to say that. That was all to make him laugh. But he could not laugh because his cheeks and lips were all shivery: and then the prefect had to laugh by himself",
+    "start": 28005,
+    "end": 28018,
+    "canonical_text": "collywobbles!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2647553,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

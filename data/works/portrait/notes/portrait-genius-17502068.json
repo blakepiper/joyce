@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-17502068",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Stewing",
+  "html_source": "<p>“cramming”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/17502068/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Stewing",
+    "original_id": "17502068",
+    "referent_id": 17502068,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "stewing",
+    "prefix": "t midwifery cases.\n\n —Do you mean to say it is better to have a job here in the country than in a rich city like that? I know a fellow...\n\n —Hynes has no brains. He got through by ",
+    "suffix": ", pure stewing.\n\n —Don’t mind him. There’s plenty of money to be made in a big commercial city.\n\n —Depends on the practice.\n\n —Ego credo ut vita pauperum est simpliciter atrox, sim",
+    "start": 79525,
+    "end": 79532,
+    "canonical_text": "stewing"
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 17502068,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 8753690,
+        "login": "FBA-ML",
+        "name": "FBA-ML",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0010",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: the city",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>the city</p></blockquote><p class=\"tei-detail\">Coordinates: 53.363150 -6.270676</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:10"
+  },
+  "anchor": {
+    "text": "the city",
+    "prefix": "men in the plays of Gerhart Hauptmann; and the memory of their pale sorrows and the fragrance falling from the wet branches mingled in a mood of quiet joy. His morning walk across ",
+    "suffix": " had begun, and he foreknew that as he passed the sloblands of Fairview he would think of the cloistral silverveined prose of Newman; that as he walked along the North Strand Road,",
+    "start": 3682,
+    "end": 3690,
+    "canonical_text": "the city"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.363150 -6.270676",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

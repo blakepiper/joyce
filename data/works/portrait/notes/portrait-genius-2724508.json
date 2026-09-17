@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2724508",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "All the catechisms were opened and all heads bent upon them silently.",
+  "html_source": "<p><a href=\"http://en.wikipedia.org/wiki/Catechism\" rel=\"noopener nofollow\">Catechisms</a> are books, as well as general teachings regarding Catholic doctrine.</p><p><img src=\"https://images.rapgenius.com/4660705b1adfc516d8452b33eb0fda93.400x400x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2724508/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3/All-the-catechisms-were-opened-and-all-heads-bent-upon-them-silently",
+    "original_id": "2724508",
+    "referent_id": 2724508,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3-annotated"
+  },
+  "anchor": {
+    "text": "All the catechisms were opened and all heads bent upon them silently.",
+    "prefix": "rated, is Jesus Christ still present under their species as God and as man?\n\n —Here he is! Here he is!\n\n A boy from his post at the window had seen the rector come from the house. ",
+    "suffix": " The rector entered and took his seat on the dais. A gentle kick from the tall boy in the bench behind urged Stephen to ask a difficult question.\n\n The rector did not ask for a cat",
+    "start": 9922,
+    "end": 9991,
+    "canonical_text": "All the catechisms were opened and all heads bent upon them silently."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2724508,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

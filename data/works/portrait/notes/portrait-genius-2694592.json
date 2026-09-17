@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2694592",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Wicklow Hotel",
+  "html_source": "<p><a href=\"http://catalogue.nli.ie/Record/vtls000299505\" rel=\"noopener nofollow\">On Wicklow Street in Dublin</a>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2694592/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Wicklow-hotel",
+    "original_id": "2694592",
+    "referent_id": 2694592,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Wicklow Hotel",
+    "prefix": "nan used to tie the prefect’s false sleeves behind his back and the prefect used to let on to be angry. But the sound was ugly. Once he had washed his hands in the lavatory of the ",
+    "suffix": " and his father pulled the stopper up by the chain after and the dirty water went down through the hole in the basin. And when it had all gone down slowly the hole in the basin had",
+    "start": 7476,
+    "end": 7489,
+    "canonical_text": "Wicklow Hotel"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2694592,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

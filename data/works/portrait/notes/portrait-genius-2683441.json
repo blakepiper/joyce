@@ -1,0 +1,56 @@
+{
+  "id": "portrait-genius-2683441",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "First it is warm then it gets cold",
+  "html_source": "<p>Joyce was the most systematic of writers and thinkers: his images are typically arranged among their symmetrical opposites.</p><p>The word cold is reflected often through the course of this chapter, such as when Stephen falls in the bog and when he falls ill and feels an icy chill.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2683441/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/First-it-is-warm-then-it-gets-cold",
+    "original_id": "2683441",
+    "referent_id": 2683441,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "first it is warm then it gets cold",
+    "prefix": "e lived: she sold lemon platt.\n\n O, the wild rose blossoms\nOn the little green place.\n\n He sang that song. That was his song.\n\n O, the green wothe botheth.\n\n When you wet the bed, ",
+    "suffix": ". His mother put on the oilsheet. That had the queer smell.\n\n His mother had a nicer smell than his father. She played on the piano the sailor’s hornpipe for him to dance. He dance",
+    "start": 620,
+    "end": 654,
+    "canonical_text": "first it is warm then it gets cold"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2683441,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1254027,
+        "login": "yungjeezy",
+        "name": "yungjeezy",
+        "role": null,
+        "attribution": 0.625
+      },
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.2708333333333333
+      },
+      {
+        "id": 149810,
+        "login": "perfectrhyme",
+        "name": "Perfectrhyme",
+        "role": "editor",
+        "attribution": 0.10416666666666666
+      }
+    ]
+  },
+  "color": "F59627"
+}

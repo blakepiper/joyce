@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2696590",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "So that York might not lose",
+  "html_source": "<p>He’s taken on this group responsibility (in contrast to the soccer field, where he hadn’t).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2696590/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/So-that-york-might-not-lose",
+    "original_id": "2696590",
+    "referent_id": 2696590,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "so that York might not lose",
+    "prefix": "rd and he felt confused. The little silk badge with the white rose on it that was pinned on the breast of his jacket began to flutter. He was no good at sums but he tried his best ",
+    "suffix": ". Father Arnall’s face looked very black but he was not in a wax: he was laughing. Then Jack Lawton cracked his fingers and Father Arnall looked at his copybook and said:\n\n —Right.",
+    "start": 8612,
+    "end": 8639,
+    "canonical_text": "so that York might not lose"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2696590,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

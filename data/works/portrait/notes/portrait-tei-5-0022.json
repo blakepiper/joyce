@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0022",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Person: MacCann",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>MacCann</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:22"
+  },
+  "anchor": {
+    "text": "MacCann",
+    "prefix": "utes to five but, as he turned away, he heard a clock somewhere near him, but unseen, beating eleven strokes in swift precision. He laughed as he heard it for it made him think of ",
+    "suffix": "; and he saw him a squat figure in a shooting jacket and breeches and with a fair goatee, standing in the wind at Hopkins’ corner, and heard him say:\n\n —Dedalus, you’re an antisoci",
+    "start": 6355,
+    "end": 6362,
+    "canonical_text": "MacCann"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0072",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Person: Buck Whaley",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Buck Whaley</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:72"
+  },
+  "anchor": {
+    "text": "Buck Whaley",
+    "prefix": " to the left which led to the physics theatre. The corridor was dark and silent but not unwatchful. Why did he feel that it was not unwatchful? Was it because he had heard that in ",
+    "suffix": "’s time there was a secret staircase there? Or was the jesuit house extra-territorial and was he walking among aliens? The Ireland of Tone and of Parnell seemed to have receded in ",
+    "start": 20918,
+    "end": 20929,
+    "canonical_text": "Buck Whaley"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

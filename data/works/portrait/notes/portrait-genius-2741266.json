@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2741266",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "Became again a child’s soul",
+  "html_source": "<p>Recall Stephen’s actions at the end of the <a href=\"http://poetry.genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2-annotated\" rel=\"noopener nofollow\">second chapter</a> and his thoughts at the beginning of this one, considering his “sins.” Here, he seems to abandon the weights of his “sins\"—for a moment at least—upon seeing \"Father Arnall.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2741266/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3/Became-again-a-childs-soul",
+    "original_id": "2741266",
+    "referent_id": 2741266,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3-annotated"
+  },
+  "anchor": {
+    "text": "became again a child's soul",
+    "prefix": " he had dreamed of being buried, the firelight on the wall of the infirmary where he lay sick, the sorrowful face of Brother Michael. His soul, as these memories came back to him, ",
+    "suffix": ".\n\n —We are assembled here today, my dear little brothers in Christ, for one brief moment far away from the busy bustle of the outer world to celebrate and to honour one of the gre",
+    "start": 13906,
+    "end": 13933,
+    "canonical_text": "became again a child’s soul"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2741266,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

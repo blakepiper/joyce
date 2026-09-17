@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2683428",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Wet the bed",
+  "html_source": "<p>Joyce had a lifelong fascination with urine, admitting he’d even named his first book of poems <a href=\"http://www.gutenberg.org/files/2817/2817-h/2817-h.htm\" rel=\"noopener nofollow\">“Chamber Music”</a> as a winking allusion, and centering <em>Finnegans Wake</em> on a character accused of spying on nursemaids peeing in <a href=\"http://en.wikipedia.org/wiki/Phoenix_Park\" rel=\"noopener nofollow\">Phoenix Park</a>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2683428/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Wet-the-bed",
+    "original_id": "2683428",
+    "referent_id": 2683428,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "wet the bed",
+    "prefix": "re Betty Byrne lived: she sold lemon platt.\n\n O, the wild rose blossoms\nOn the little green place.\n\n He sang that song. That was his song.\n\n O, the green wothe botheth.\n\n When you ",
+    "suffix": ", first it is warm then it gets cold. His mother put on the oilsheet. That had the queer smell.\n\n His mother had a nicer smell than his father. She played on the piano the sailor’s",
+    "start": 607,
+    "end": 618,
+    "canonical_text": "wet the bed"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2683428,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

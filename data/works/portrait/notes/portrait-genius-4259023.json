@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4259023",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Alphonsus Liguori",
+  "html_source": "<p>Alphonsus Liguori was an Italian Catholic bishop best know for his literary works of “The Glories of Mary” and “The Way of the Cross”. He was known for encouraging people to confess their sins.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4259023/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Alphonsus-liguori",
+    "original_id": "4259023",
+    "referent_id": 4259023,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "Alphonsus Liguori",
+    "prefix": " spiritual communions made by him sometimes at the close of some visit to the Blessed Sacrament. The book which he used for these visits was an old neglected book written by saint ",
+    "suffix": ", with fading characters and sere foxpapered leaves. A faded world of fervent love and virginal responses seemed to be evoked for his soul by the reading of its pages in which the ",
+    "start": 10690,
+    "end": 10707,
+    "canonical_text": "Alphonsus Liguori"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4259023,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1254055,
+        "login": "ScottRBerry",
+        "name": "ScottRBerry",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

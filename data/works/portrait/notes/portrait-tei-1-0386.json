@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0386",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Place: Major Barton's",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Major Barton&#x27;s</p></blockquote><p class=\"tei-detail\">Coordinates: 53.257926 -6.585225</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:386"
+  },
+  "anchor": {
+    "text": "Major Barton's",
+    "prefix": "s coming. There was the smell of evening in the air, the smell of the fields in the country where they digged up turnips to peel them and eat them when they went out for a walk to ",
+    "suffix": ", the smell there was in the little wood beyond the pavilion where the gallnuts were.\n\n The fellows were practising long shies and bowling lobs and slow twisters. In the soft grey ",
+    "start": 93423,
+    "end": 93437,
+    "canonical_text": "Major Barton’s"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.257926 -6.585225",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

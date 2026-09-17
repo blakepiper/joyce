@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2879668",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "INDIA MITTIT EBUR",
+  "html_source": "<p>From Latin,<br />   <em>India sends Ivory</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2879668/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/India-mittit-ebur",
+    "original_id": "2879668",
+    "referent_id": 2879668,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "INDIA MITTIT EBUR",
+    "prefix": "is brain, clearer and brighter than any ivory sawn from the mottled tusks of elephants. Ivory, ivoire, avorio, ebur. One of the first examples that he had learnt in Latin had run: ",
+    "suffix": "; and he recalled the shrewd northern face of the rector who had taught him to construe the Metamorphoses of Ovid in a courtly English, made whimsical by the mention of porkers and",
+    "start": 10021,
+    "end": 10038,
+    "canonical_text": "India mittit ebur"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2879668,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

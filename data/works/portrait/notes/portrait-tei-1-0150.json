@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0150",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Mr Casey",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Mr Casey</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:150"
+  },
+  "anchor": {
+    "text": "Mr Casey",
+    "prefix": "him that Parnell was a bad man. He wondered if they were arguing at home about that. That was called politics. There were two sides in it: Dante was on one side and his father and ",
+    "suffix": " were on the other side but his mother and uncle Charles were on no side. Every day there was something in the paper about it.\n\n It pained him that he did not know well what politi",
+    "start": 17471,
+    "end": 17479,
+    "canonical_text": "Mr Casey"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

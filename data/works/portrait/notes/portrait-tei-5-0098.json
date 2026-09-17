@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0098",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "LA passage: super spottum",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>super spottum</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:98"
+  },
+  "anchor": {
+    "text": "super spottum",
+    "prefix": " from the grass at his feet, turned swiftly and said sternly:\n\n —Temple, I declare to the living God if you say another word, do you know, to anybody on any subject, I’ll kill you ",
+    "suffix": ".\n\n —He was like you, I fancy, said Stephen, an emotional man.\n\n —Blast him, curse him! said Cranly broadly. Don’t talk to him at all. Sure, you might as well be talking, do you kn",
+    "start": 50048,
+    "end": 50061,
+    "canonical_text": "super spottum"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

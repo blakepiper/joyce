@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-3970005",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Hayfoot! Strawfoot!",
+  "html_source": "<p>According to <a href=\"http://www.americanheritage.com/content/hayfoot-strawfoot\" rel=\"noopener nofollow\">americanheritage.com</a>, the martial call ‘Hayfoot! Strawfoot!’ derives from a mnemonic device contrived by American Civil War sergeants in order to teach their (grossly) under-educated recruits to differentiate their left foot from their right. After binding a little wisp of hay to their men’s left boots, and a bit of straw to their right boots, they would use the call as a substitute for the more common ‘Left! Right! Left! Right!’</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3970005/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Hayfoot-strawfoot",
+    "original_id": "3970005",
+    "referent_id": 3970005,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Hayfoot! Strawfoot!",
+    "prefix": " was all to make him laugh. But he could not laugh because his cheeks and lips were all shivery: and then the prefect had to laugh by himself.\n\n The prefect cried:\n\n —Quick march! ",
+    "suffix": "\n\n They went together down the staircase and along the corridor and past the bath. As he passed the door he remembered with a vague fear the warm turfcoloured bogwater, the warm mo",
+    "start": 28237,
+    "end": 28256,
+    "canonical_text": "Hayfoot! Strawfoot!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3970005,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1141957,
+        "login": "Velcro_River",
+        "name": "Velcro_River",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

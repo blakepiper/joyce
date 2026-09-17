@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4847393",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Whited sepulchre",
+  "html_source": "<p>Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men’s bones, and of all uncleanness.<br />-King James Bible</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4847393/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Whited-sepulchre",
+    "original_id": "4847393",
+    "referent_id": 4847393,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "whited sepulchre",
+    "prefix": "as Jesus himself.\n\n —I mean, Cranly said, hardening in his speech, did the idea ever occur to you that he was himself a conscious hypocrite, what he called the jews of his time, a ",
+    "suffix": "? Or, to put it more plainly, that he was a blackguard?\n\n —That idea never occurred to me, Stephen answered. But I am curious to know are you trying to make a convert of me or a pe",
+    "start": 126697,
+    "end": 126713,
+    "canonical_text": "whited sepulchre"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4847393,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1497331,
+        "login": "SalmaIraqui",
+        "name": "SalmaIraqui",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

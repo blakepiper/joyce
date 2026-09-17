@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0220",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Athy",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Athy</p></blockquote><p class=\"tei-detail\">Coordinates: 52.991834 -6.985728</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:220"
+  },
+  "anchor": {
+    "text": "Athy",
+    "prefix": "re like the leg of a fellow’s breeches?\n\n Stephen thought what could be the answer and then said:\n\n —I give it up.\n\n —Because there is a thigh in it, he said. Do you see the joke? ",
+    "suffix": " is the town in the county Kildare and a thigh is the other thigh.\n\n —Oh, I see, Stephen said.\n\n —That’s an old riddle, he said.\n\n After a moment he said:\n\n —I say!\n\n —What? asked ",
+    "start": 33152,
+    "end": 33156,
+    "canonical_text": "Athy"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {},
+    "coordinates": "52.991834 -6.985728",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

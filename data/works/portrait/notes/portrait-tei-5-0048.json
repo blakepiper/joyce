@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0048",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: France",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>France</p></blockquote><p class=\"tei-detail\">Coordinates: 46.227638 2.213749</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:48"
+  },
+  "anchor": {
+    "text": "France",
+    "prefix": " him from England or by way of English culture his mind stood armed against in obedience to a password; and of the world that lay beyond England he knew only the foreign legion of ",
+    "suffix": " in which he spoke of serving.\n\n Coupling this ambition with the young man’s humour Stephen had often called him one of the tame geese and there was even a point of irritation in t",
+    "start": 14177,
+    "end": 14183,
+    "canonical_text": "France"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "46.227638 2.213749",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

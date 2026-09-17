@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0028",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "ITA passage: avorio",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a ita passage.</p><blockquote><p>avorio</p></blockquote><p class=\"tei-detail\">Language: ita</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:28"
+  },
+  "anchor": {
+    "text": "avorio",
+    "prefix": "right. Yellow ivory also. And what about ivory ivy?\n\n The word now shone in his brain, clearer and brighter than any ivory sawn from the mottled tusks of elephants. Ivory, ivoire, ",
+    "suffix": ", ebur. One of the first examples that he had learnt in Latin had run: India mittit ebur; and he recalled the shrewd northern face of the rector who had taught him to construe the ",
+    "start": 9944,
+    "end": 9950,
+    "canonical_text": "avorio"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "ita"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

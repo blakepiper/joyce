@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0023",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: Hopkins' corner",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Hopkins&#x27; corner</p></blockquote><p class=\"tei-detail\">Coordinates: 53.351242 -6.260779</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:23"
+  },
+  "anchor": {
+    "text": "Hopkins' corner",
+    "prefix": "cision. He laughed as he heard it for it made him think of MacCann; and he saw him a squat figure in a shooting jacket and breeches and with a fair goatee, standing in the wind at ",
+    "suffix": ", and heard him say:\n\n —Dedalus, you’re an antisocial being, wrapped up in yourself. I’m not. I’m a democrat and I’ll work and act for social liberty and equality among all classes",
+    "start": 6476,
+    "end": 6491,
+    "canonical_text": "Hopkins’ corner"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.351242 -6.260779",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

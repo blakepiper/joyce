@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4257844",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Cash register",
+  "html_source": "<p>Comparison of spiritual values to a cash register shows he is actually very materialistic and hasn’t risen to spiritual greatness like he wants to.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4257844/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Cash-register",
+    "original_id": "4257844",
+    "referent_id": 4257844,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "cash register",
+    "prefix": " radiantly in heaven; and at times his sense of such immediate repercussion was so lively that he seemed to feel his soul in devotion pressing like fingers the keyboard of a great ",
+    "suffix": " and to see the amount of his purchase start forth immediately in heaven, not as a number but as a frail column of incense or as a slender flower.\n\n The rosaries, too, which he sai",
+    "start": 2072,
+    "end": 2085,
+    "canonical_text": "cash register"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4257844,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1253603,
+        "login": "Shef",
+        "name": "Shef",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

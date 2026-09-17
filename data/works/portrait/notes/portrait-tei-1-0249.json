@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0249",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Stephen",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Stephen</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:249"
+  },
+  "anchor": {
+    "text": "Stephen",
+    "prefix": " is the town in the county Kildare and a thigh is the other thigh.\n\n —Oh, I see, Stephen said.\n\n —That’s an old riddle, he said.\n\n After a moment he said:\n\n —I say!\n\n —What? asked ",
+    "suffix": ".\n\n —You know, he said, you can ask that riddle another way.\n\n —Can you? said Stephen.\n\n —The same riddle, he said. Do you know the other way to ask it?\n\n —No, said Stephen.\n\n —Can",
+    "start": 33336,
+    "end": 33343,
+    "canonical_text": "Stephen"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

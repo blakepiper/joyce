@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-6257634",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "His father looked at him through a glass",
+  "html_source": "<p>By having a story start out the novel, Joyce is trying to symbolize the innocence and age of Stephen by using childish language like “moo cow” and “baby tuckoo”. Joyce is also trying to show that Stephen is only able to identify himself through his dad’s words since he’s still too young to locate himself in society.</p><p><img src=\"https://images.rapgenius.com/e2fbdfc8d945c2d9d9b267c7548dcd2f.1000x500x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6257634/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/His-father-looked-at-him-through-a-glass",
+    "original_id": "6257634",
+    "referent_id": 6257634,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "his father looked at him through a glass",
+    "prefix": "s there was a moocow coming down along the road and this moocow that was coming down along the road met a nicens little boy named baby tuckoo....\n\n His father told him that story: ",
+    "suffix": ": he had a hairy face.\n\n He was baby tuckoo. The moocow came down the road where Betty Byrne lived: she sold lemon platt.\n\n O, the wild rose blossoms\nOn the little green place.\n\n H",
+    "start": 309,
+    "end": 349,
+    "canonical_text": "his father looked at him through a glass"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6257634,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1509901,
+        "login": "Andrea95",
+        "name": "Andrea95",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

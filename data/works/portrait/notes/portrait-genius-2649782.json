@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2649782",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Ad Majorem Dei Gloriam",
+  "html_source": "<p>From Latin,</p><blockquote><p>For the greater glory of God</p></blockquote>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2649782/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Ad-majorem-dei-gloriam",
+    "original_id": "2649782",
+    "referent_id": 2649782,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Ad Majorem Dei Gloriam",
+    "prefix": "ere the portraits of the saints and great men of the order who were looking down on him silently as he passed: saint Ignatius Loyola holding an open book and pointing to the words ",
+    "suffix": " in it, saint Francis Xavier pointing to his chest, Lorenzo Ricci with his berretta on his head like one of the prefects of the lines, the three patrons of holy youth, saint Stanis",
+    "start": 87982,
+    "end": 88004,
+    "canonical_text": "Ad Majorem Dei Gloriam"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2649782,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

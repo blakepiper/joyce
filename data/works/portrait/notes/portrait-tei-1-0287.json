@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0287",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Mr Barrett",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Mr Barrett</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:287"
+  },
+  "anchor": {
+    "text": "Mr Barrett",
+    "prefix": "man had prodded it often at the breastbone to show how good it was: and he remembered the man’s voice when he had said:\n\n —Take that one, sir. That’s the real Ally Daly.\n\n Why did ",
+    "suffix": " in Clongowes call his pandybat a turkey? But Clongowes was far away: and the warm heavy smell of turkey and ham and celery rose from the plates and dishes and the great fire was b",
+    "start": 40993,
+    "end": 41003,
+    "canonical_text": "Mr Barrett"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

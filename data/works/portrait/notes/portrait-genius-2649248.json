@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2649248",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "The Paris Funds! Mr Fox! Kitty O’Shea!",
+  "html_source": "<p>“Parnell was accused of misappropriating some party funds; he used the pseudonym of Mr. Fox in his <a href=\"http://en.wikipedia.org/wiki/Katharine_O%27Shea#Relationship_with_Parnell\" rel=\"noopener nofollow\">adulterous liaison</a> with <a href=\"http://en.wikipedia.org/wiki/Katharine_O%27Shea\" rel=\"noopener nofollow\">Mrs. Katherine O'Shea</a>.”</p><p>(Courtesy of <a href=\"http://faculty.gvsu.edu/websterm/Portrait.htm\" rel=\"noopener nofollow\">Grand Valley State University</a>)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2649248/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/The-paris-funds-mr-fox-kitty-oshea",
+    "original_id": "2649248",
+    "referent_id": 2649248,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "The Paris Funds! Mr Fox! Kitty O'Shea!",
+    "prefix": "d lady, and a drunken old harridan she was surely, that paid all her attention to me. She kept dancing along beside me in the mud bawling and screaming into my face: Priesthunter! ",
+    "suffix": "\n\n —And what did you do, John? asked Mr Dedalus.\n\n —I let her bawl away, said Mr Casey. It was a cold day and to keep up my heart I had (saving your presence, ma’am) a quid of Tull",
+    "start": 52178,
+    "end": 52216,
+    "canonical_text": "The Paris Funds! Mr Fox! Kitty O’Shea!"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2649248,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

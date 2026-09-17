@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-5124292",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "Stephen’s heart had withered up",
+  "html_source": "<p>Stephen knows that with this religious retreat there is going to be some sort of enlightenment or some kind of reckoning. It also shows that he was always aware of his sins and that his guilty conscience was always there in the background.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5124292/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3/Stephens-heart-had-withered-up",
+    "original_id": "5124292",
+    "referent_id": 5124292,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3-annotated"
+  },
+  "anchor": {
+    "text": "Stephen's heart had withered up",
+    "prefix": "g them against his forehead, looked right and left of them keenly at his listeners out of his dark stern eyes.\n\n In the silence their dark fire kindled the dusk into a tawny glow. ",
+    "suffix": " like a flower of the desert that feels the simoom coming from afar.\n\n —Remember only thy last things and thou shalt not sin for ever—words taken, my dear little brothers in Christ",
+    "start": 12955,
+    "end": 12986,
+    "canonical_text": "Stephen’s heart had withered up"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 5124292,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1459176,
+        "login": "samuraisamrin",
+        "name": "samuraisamrin",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

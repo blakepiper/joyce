@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0021",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "LA passage: Synopsis Philosophiae Scholasticae ad mentem divi Thomae",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>Synopsis Philosophiae Scholasticae ad mentem divi Thomae</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:21"
+  },
+  "anchor": {
+    "text": "Synopsis Philosophiae Scholasticae ad mentem divi Thomae",
+    "prefix": "elieved to pass his days brooding upon so that it had rapt him from the companionship of youth was only a garner of slender sentences from Aristotle’s poetics and psychology and a ",
+    "suffix": ". His thinking was a dusk of doubt and selfmistrust, lit up at moments by the lightnings of intuition, but lightnings of so clear a splendour that in those moments the world perish",
+    "start": 5021,
+    "end": 5074,
+    "canonical_text": "Synopsis Philosophiæ Scholasticæ ad mentem divi Thomæ"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

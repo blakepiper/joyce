@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2879347",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "—He has a curious idea of genders if he thinks a bitch is masculine.",
+  "html_source": "<p>Stephen has a somewhat unfamiliar response to his father’s rather brash discourse. He responds in a pretty snarky way, showing a degree of confidence in his assertions that we haven’t seen before, especially through his many crises.</p><p><img src=\"https://images.rapgenius.com/ada0c8dad21ae5a16fbd370b1d56f93f.357x328x1.png\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2879347/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/He-has-a-curious-idea-of-genders-if-he-thinks-a-bitch-is-masculine",
+    "original_id": "2879347",
+    "referent_id": 2879347,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "—He has a curious idea of genders if he thinks a bitch is masculine.",
+    "prefix": "her gone out yet?\n\n —Yes, father.\n\n —Sure?\n\n —Yes, father.\n\n —Hm!\n\n The girl came back, making signs to him to be quick and go out quietly by the back. Stephen laughed and said:\n\n ",
+    "suffix": "\n\n —Ah, it’s a scandalous shame for you, Stephen, said his mother, and you’ll live to rue the day you set your foot in that place. I know how it has changed you.\n\n —Good morning, e",
+    "start": 2239,
+    "end": 2307,
+    "canonical_text": "—He has a curious idea of genders if he thinks a bitch is masculine."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2879347,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

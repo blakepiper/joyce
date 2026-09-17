@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2685402",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Coming down along the road",
+  "html_source": "<p>The storyteller simplifies the narration it by repeating whole phrases and avoiding ambiguous referents.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2685402/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Coming-down-along-the-road",
+    "original_id": "2685402",
+    "referent_id": 2685402,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "coming down along the road",
+    "prefix": "ittit in artes.”\nOvid, Metamorphoses, VIII., 188.\n\n Chapter I\n\n Once upon a time and a very good time it was there was a moocow coming down along the road and this moocow that was ",
+    "suffix": " met a nicens little boy named baby tuckoo....\n\n His father told him that story: his father looked at him through a glass: he had a hairy face.\n\n He was baby tuckoo. The moocow cam",
+    "start": 202,
+    "end": 228,
+    "canonical_text": "coming down along the road"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9504
+  },
+  "genius": {
+    "referent_id": 2685402,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.5714285714285715
+      },
+      {
+        "id": 12128,
+        "login": "dalmo",
+        "name": "Dalmo Mendonça",
+        "role": "editor",
+        "attribution": 0.42857142857142855
+      }
+    ]
+  },
+  "color": "F59627"
+}

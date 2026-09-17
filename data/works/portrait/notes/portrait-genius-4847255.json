@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4847255",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "IPSO FACTO",
+  "html_source": "<p>“obviously”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4847255/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Ipso-facto",
+    "original_id": "4847255",
+    "referent_id": 4847255,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "IPSO FACTO",
+    "prefix": "roke off, pointed bluntly to the munched pulp of the fig, and said loudly:\n\n —I allude to that.\n\n —Um, Cranly said as before.\n\n —Do you intend that now, the squat student said, as ",
+    "suffix": " or, let us say, as so to speak?\n\n Dixon turned aside from his group, saying:\n\n —Goggins was waiting for you, Glynn. He has gone round to the Adelphi to look for you and Moynihan. ",
+    "start": 114122,
+    "end": 114132,
+    "canonical_text": "ipso facto"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4847255,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1497331,
+        "login": "SalmaIraqui",
+        "name": "SalmaIraqui",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

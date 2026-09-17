@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-6320903",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "He had awakened from a slumber of centuries.",
+  "html_source": "<p>Stephen has had virtually no outlet to express himself–no family or friends to be vulnerable around. This is the first time after a long time that he is getting some kind of satisfaction after a series of disappointments.</p><p><img src=\"https://images.rapgenius.com/0c07e6ffa64b5a9de08e66a2ece65d22.245x276x29.gif\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6320903/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2/He-had-awakened-from-a-slumber-of-centuries",
+    "original_id": "6320903",
+    "referent_id": 6320903,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2-annotated"
+  },
+  "anchor": {
+    "text": "he had awakened from a slumber of centuries.",
+    "prefix": "ed vision against the vapoury sky, burning as if before an altar. Before the doors and in the lighted halls groups were gathered arrayed as for some rite. He was in another world: ",
+    "suffix": "\n\n He stood still in the middle of the roadway, his heart clamouring against his bosom in a tumult. A young woman dressed in a long pink gown laid her hand on his arm to detain him",
+    "start": 78276,
+    "end": 78320,
+    "canonical_text": "he had awakened from a slumber of centuries."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6320903,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1509694,
+        "login": "the_RapMasterP",
+        "name": "the_RapMasterP",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

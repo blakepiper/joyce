@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0344",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Place: county Wicklow",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>county Wicklow</p></blockquote><p class=\"tei-detail\">Coordinates: 52.986231 -6.367254</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:344"
+  },
+  "anchor": {
+    "text": "county Wicklow",
+    "prefix": " I tell you that story about a very famous spit?\n\n —You did not, John, said Mr Dedalus.\n\n —Why then, said Mr Casey, it is a most instructive story. It happened not long ago in the ",
+    "suffix": " where we are now.\n\n He broke off and, turning towards Dante, said with quiet indignation:\n\n —And I may tell you, ma’am, that I, if you mean me, am no renegade catholic. I am a cat",
+    "start": 48982,
+    "end": 48996,
+    "canonical_text": "county Wicklow"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "52.986231 -6.367254",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

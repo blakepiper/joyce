@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-6326026",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Clongowes",
+  "html_source": "<p>A secondary Bording school for boys in Kildare Ireland. This is the school that Stephen attended. It is Ireland’s oldest Catholic school and was founded by the Society of Jesus (Jesuits).</p><p><img src=\"https://images.rapgenius.com/fb7c9ab1a6dd36959ff87d7bd9570240.375x448x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6326026/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Clongowes",
+    "original_id": "6326026",
+    "referent_id": 6326026,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "Clongowes",
+    "prefix": " He wondered how he would pass the first night in the novitiate and with what dismay he would wake the first morning in the dormitory. The troubling odour of the long corridors of ",
+    "suffix": " came back to him and he heard the discreet murmur of the burning gasflames. At once from every part of his being unrest began to irradiate. A feverish quickening of his pulses fol",
+    "start": 28423,
+    "end": 28432,
+    "canonical_text": "Clongowes"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 6326026,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1154950,
+        "login": "SebastianEisbach",
+        "name": "SebastianEisbach",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

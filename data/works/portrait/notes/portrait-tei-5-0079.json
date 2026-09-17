@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0079",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: cliffs of Moher",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>cliffs of Moher</p></blockquote><p class=\"tei-detail\">Coordinates: 53.545240 -7.943510</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:79"
+  },
+  "anchor": {
+    "text": "cliffs of Moher",
+    "prefix": "aid Stephen in astonishment. I stumble on an idea once a fortnight if I am lucky.\n\n —These questions are very profound, Mr Dedalus, said the dean. It is like looking down from the ",
+    "suffix": " into the depths. Many go down into the depths and never come up. Only the trained diver can go down into those depths and explore them and come to the surface again.\n\n —If you mea",
+    "start": 25427,
+    "end": 25442,
+    "canonical_text": "cliffs of Moher"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.545240 -7.943510",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

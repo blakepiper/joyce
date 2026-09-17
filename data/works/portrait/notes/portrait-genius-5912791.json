@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-5912791",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "All the people. Welcome home, Stephen! Noises of welcome. His mother kissed him. Was that right?",
+  "html_source": "<p>Stephen questions whether his mom should kiss him because, back at boarding school, that was one of the many things the boys would say to tease him. Stephen is so happy to be home that the idea is merely a fleeting thought in his mind.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5912791/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/All-the-people-welcome-home-stephen-noises-of-welcome-his-mother-kissed-him-was-that-right",
+    "original_id": "5912791",
+    "referent_id": 5912791,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "All the people. Welcome home, Stephen! Noises of welcome. His mother kissed him. Was that right?",
+    "prefix": "d ivy, green and red, twined round the chandeliers. There were red holly and green ivy round the old portraits on the walls. Holly and ivy for him and for Christmas.\n\n Lovely...\n\n ",
+    "suffix": " His father was a marshal now: higher than a magistrate. Welcome home, Stephen!\n\n Noises...\n\n There was a noise of curtainrings running back along the rods, of water being splashed",
+    "start": 24936,
+    "end": 25032,
+    "canonical_text": "All the people. Welcome home, Stephen! Noises of welcome. His mother kissed him. Was that right?"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5912791,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1509778,
+        "login": "1ecullen1",
+        "name": "1ecullen1",
+        "role": null,
+        "attribution": 0.9333333333333332
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.06666666666666667
+      }
+    ]
+  },
+  "color": "F59627"
+}

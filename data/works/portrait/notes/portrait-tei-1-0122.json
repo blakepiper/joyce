@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0122",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Fleming",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Fleming</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:122"
+  },
+  "anchor": {
+    "text": "Fleming",
+    "prefix": ", his name and where he was.\n\n Stephen Dedalus\nClass of Elements\nClongowes Wood College\nSallins\nCounty Kildare\nIreland\nEurope\nThe World\nThe Universe\n\n That was in his writing: and ",
+    "suffix": " one night for a cod had written on the opposite page:\n\n Stephen Dedalus is my name,\nIreland is my nation.\nClongowes is my dwellingplace\nAnd heaven my expectation.\n\n He read the ve",
+    "start": 15706,
+    "end": 15713,
+    "canonical_text": "Fleming"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

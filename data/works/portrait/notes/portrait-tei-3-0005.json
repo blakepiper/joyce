@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-3-0005",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "LA passage: non serviam",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>non serviam</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-3:5"
+  },
+  "anchor": {
+    "text": "non serviam",
+    "prefix": "and was hurled with his rebellious angels into hell. What his sin was we cannot say. Theologians consider that it was the sin of pride, the sinful thought conceived in an instant: ",
+    "suffix": ": I will not serve. That instant was his ruin.\n\n He offended the majesty of God by the sinful thought of one instant and God cast him out of heaven into hell for ever.\n\n —Adam and ",
+    "start": 32289,
+    "end": 32300,
+    "canonical_text": "non serviam"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

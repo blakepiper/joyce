@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0054",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Dante",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Dante</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:54"
+  },
+  "anchor": {
+    "text": "Dante",
+    "prefix": " seasoned hacking chestnut, the conqueror of forty. How cold and slimy the water had been! A fellow had once seen a big rat jump into the scum. Mother was sitting at the fire with ",
+    "suffix": " waiting for Brigid to bring in the tea. She had her feet on the fender and her jewelly slippers were so hot and they had such a lovely warm smell! Dante knew a lot of things. She ",
+    "start": 6105,
+    "end": 6110,
+    "canonical_text": "Dante"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

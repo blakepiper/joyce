@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2724517",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "A great fisher of souls!",
+  "html_source": "<p>Likely referencing <a href=\"http://en.wikipedia.org/wiki/Matthew_4:19\" rel=\"noopener nofollow\">Matthew 4:19</a>,</p><blockquote><p>He said to them, “Come after me,<br />and I will make you fishers for men.”</p></blockquote>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2724517/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3/A-great-fisher-of-souls",
+    "original_id": "2724517",
+    "referent_id": 2724517,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3-annotated"
+  },
+  "anchor": {
+    "text": "A great fisher of souls!",
+    "prefix": "power to obtain whatever we pray for if it be for the good of our souls; power above all to obtain for us the grace to repent if we be in sin. A great saint, saint Francis Xavier! ",
+    "suffix": "\n\n He ceased to shake his clasped hands and, resting them against his forehead, looked right and left of them keenly at his listeners out of his dark stern eyes.\n\n In the silence t",
+    "start": 12700,
+    "end": 12724,
+    "canonical_text": "A great fisher of souls!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2724517,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

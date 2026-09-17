@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4259002",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "The capuchin dress, he thought, was rather too...",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/605ca6edf75848d25b1186259135f2d7.634x884x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4259002/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/The-capuchin-dress-he-thought-was-rather-too",
+    "original_id": "4259002",
+    "referent_id": 4259002,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "The capuchin dress, he thought, was rather too...",
+    "prefix": "door turning and the swish of a soutane.\n\n The director had begun to speak of the Dominican and Franciscan orders and of the friendship between saint Thomas and saint Bonaventure. ",
+    "suffix": ".\n\n Stephen’s face gave back the priest’s indulgent smile and, not being anxious to give an opinion, he made a slight dubitative movement with his lips.\n\n —I believe, continued the",
+    "start": 15786,
+    "end": 15835,
+    "canonical_text": "The Capuchin dress, he thought, was rather too..."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4259002,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1254026,
+        "login": "Anonymous4123",
+        "name": "Anonymous4123",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

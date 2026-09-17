@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4259048",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "Sodality",
+  "html_source": "<p>A sodality is a religious brotherhood often seen as a Roman Catholic religious guild.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4259048/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3/Sodality",
+    "original_id": "4259048",
+    "referent_id": 4259048,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3-annotated"
+  },
+  "anchor": {
+    "text": "sodality",
+    "prefix": "ers, sceptical of their innocence which he could cajole so easily.\n\n On the wall of his bedroom hung an illuminated scroll, the certificate of his prefecture in the college of the ",
+    "suffix": " of the Blessed Virgin Mary. On Saturday mornings when the sodality met in the chapel to recite the little office his place was a cushioned kneeling-desk at the right of the altar ",
+    "start": 4966,
+    "end": 4974,
+    "canonical_text": "sodality"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 4259048,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1254055,
+        "login": "ScottRBerry",
+        "name": "ScottRBerry",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

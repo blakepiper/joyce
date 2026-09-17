@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4805582",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Mat Davin",
+  "html_source": "<p>Maurice Davin (1864-1927), athlete and cofounder with Michael Cusack of the Gaelic Athletic Association. During the 1870s he and his brothers, Tom and Pat, held more than half the world’s records for running, jumping, hurdling and weight-throwing.</p><p><img src=\"https://images.rapgenius.com/cd24b86983bc69fb87cc8e9c2ef9c99a.348x640x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4805582/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Mat-davin",
+    "original_id": "4805582",
+    "referent_id": 4805582,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "Mat Davin",
+    "prefix": "error in the eyes, the terror of soul of a starving Irish village in which the curfew was still a nightly fear.\n\n Side by side with his memory of the deeds of prowess of his uncle ",
+    "suffix": ", the athlete, the young peasant worshipped the sorrowful legend of Ireland. The gossip of his fellow-students which strove to render the flat life of the college significant at an",
+    "start": 13344,
+    "end": 13353,
+    "canonical_text": "Mat Davin"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4805582,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1356898,
+        "login": "ecbiv",
+        "name": "ecbiv",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

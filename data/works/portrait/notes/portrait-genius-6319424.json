@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-6319424",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "To E— C—",
+  "html_source": "<p>Stephen’s immitation of the style of many famous writers' send off as seen in Lord Byron’s works, turning his beloved’s name Emma Clery, into an acronym.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6319424/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2/To-e-c",
+    "original_id": "6319424",
+    "referent_id": 6319424,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2-annotated"
+  },
+  "anchor": {
+    "text": "To E— C—",
+    "prefix": "e had written at the top of the first page the initial letters of the jesuit motto: A.M.D.G. On the first line of the page appeared the title of the verses he was trying to write: ",
+    "suffix": "——. He knew it was right to begin so for he had seen similar titles in the collected poems of Lord Byron. When he had written this title and drawn an ornamental line underneath he ",
+    "start": 20519,
+    "end": 20527,
+    "canonical_text": "To E—— C"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 6319424,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1511047,
+        "login": "HaileyPotter",
+        "name": "HaileyPotter",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

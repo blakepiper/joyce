@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0085",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: Ulster",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Ulster</p></blockquote><p class=\"tei-detail\">Coordinates: 54.407332 -7.024250</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:85"
+  },
+  "anchor": {
+    "text": "Ulster",
+    "prefix": " on the ebonite bobbins just where my finger is. If it were wound single an extra current would be induced in the coils. The bobbins are saturated in hot paraffin wax...\n\n A sharp ",
+    "suffix": " voice said from the bench below Stephen:\n\n —Are we likely to be asked questions on applied science?\n\n The professor began to juggle gravely with the terms pure science and applied",
+    "start": 37356,
+    "end": 37362,
+    "canonical_text": "Ulster"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "54.407332 -7.024250",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

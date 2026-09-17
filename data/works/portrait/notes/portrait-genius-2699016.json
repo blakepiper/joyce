@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2699016",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "McGlade",
+  "html_source": "<p>Below he’s called Mister, not Father McGlade <a href=\"http://web.archive.org/web/20120609145408/http://www.robotwisdom.com/jaj/portrait/notes1.html\" rel=\"noopener nofollow\">(based on Andrew Macardle, SJ)</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2699016/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Mcglade",
+    "original_id": "2699016",
+    "referent_id": 2699016,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "McGlade",
+    "prefix": " without even answering the fellow. Simon Moonan told him not to because the prefect was looking. The fellow turned to Simon Moonan and said:\n\n —We all know why you speak. You are ",
+    "suffix": "’s suck.\n\n Suck was a queer word. The fellow called Simon Moonan that name because Simon Moonan used to tie the prefect’s false sleeves behind his back and the prefect used to let ",
+    "start": 7197,
+    "end": 7204,
+    "canonical_text": "McGlade"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 2699016,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

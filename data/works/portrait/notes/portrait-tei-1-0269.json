@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0269",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Mr Casey",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Mr Casey</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:269"
+  },
+  "anchor": {
+    "text": "Mr Casey",
+    "prefix": "ker he poured a little of the whisky into two glasses, added a little water and came back with them to the fireplace.\n\n —A thimbleful, John, he said, just to whet your appetite.\n\n ",
+    "suffix": " took the glass, drank, and placed it near him on the mantelpiece. Then he said:\n\n —Well, I can’t help thinking of our friend Christopher manufacturing...\n\n He broke into a fit of ",
+    "start": 38836,
+    "end": 38844,
+    "canonical_text": "Mr Casey"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

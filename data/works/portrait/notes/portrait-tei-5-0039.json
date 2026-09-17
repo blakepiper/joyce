@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0039",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: Ireland",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Ireland</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:39"
+  },
+  "anchor": {
+    "text": "Ireland",
+    "prefix": "ed his mind downward and while he was striving this way and that to free his feet from the fetters of the reformed conscience he came upon the droll statue of the national poet of ",
+    "suffix": ".\n\n He looked at it without anger; for, though sloth of the body and of the soul crept over it like unseen vermin, over the shuffling feet and up the folds of the cloak and around ",
+    "start": 11794,
+    "end": 11801,
+    "canonical_text": "Ireland"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

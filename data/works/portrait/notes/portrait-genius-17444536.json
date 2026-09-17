@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-17444536",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Novena",
+  "html_source": "<p>A nine-day devotion</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/17444536/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Novena",
+    "original_id": "17444536",
+    "referent_id": 17444536,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "novena",
+    "prefix": "ording to the order of Melchisedec.\n\n —I will offer up my mass tomorrow morning, said the director, that Almighty God may reveal to you His holy will. And let you, Stephen, make a ",
+    "suffix": " to your holy patron saint, the first martyr, who is very powerful with God, that God may enlighten your mind. But you must be quite sure, Stephen, that you have a vocation because",
+    "start": 26415,
+    "end": 26421,
+    "canonical_text": "novena"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 17444536,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 8753690,
+        "login": "FBA-ML",
+        "name": "FBA-ML",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

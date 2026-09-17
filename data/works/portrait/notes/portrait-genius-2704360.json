@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2704360",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Leicester Abbey",
+  "html_source": "<p>An Augustinian religious house in the city of Leicester.</p><p><img src=\"https://images.rapgenius.com/28ddf0448e8b5350f3b85e28f8254f3d.413x295x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2704360/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Leicester-abbey",
+    "original_id": "2704360",
+    "referent_id": 2704360,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Leicester Abbey",
+    "prefix": "the wood of the door and had given him a piece of shortbread that the community ate. It was nice and warm to see the lights in the castle. It was like something in a book. Perhaps ",
+    "suffix": " was like that. And there were nice sentences in Doctor Cornwell’s Spelling Book. They were like poetry but they were only sentences to learn the spelling from.\n\n Wolsey died in Le",
+    "start": 5335,
+    "end": 5350,
+    "canonical_text": "Leicester Abbey"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 2704360,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.7692307692307692
+      },
+      {
+        "id": 212428,
+        "login": "ciaranaustin",
+        "name": "Ciaran Austin",
+        "role": "contributor",
+        "attribution": 0.23076923076923075
+      }
+    ]
+  },
+  "color": "F59627"
+}

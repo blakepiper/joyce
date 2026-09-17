@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0104",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: sir Patrick Dun's hospital",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>sir Patrick Dun&#x27;s hospital</p></blockquote><p class=\"tei-detail\">Coordinates: 53.339029 -6.241523</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:104"
+  },
+  "anchor": {
+    "text": "sir Patrick Dun's hospital",
+    "prefix": "lly.\n\n —There remains another way out, said Stephen, laughing.\n\n —To wit? said Lynch.\n\n —This hypothesis, Stephen began.\n\n A long dray laden with old iron came round the corner of ",
+    "suffix": " covering the end of Stephen’s speech with the harsh roar of jangled and rattling metal. Lynch closed his ears and gave out oath after oath till the dray had passed. Then he turned",
+    "start": 65747,
+    "end": 65773,
+    "canonical_text": "Sir Patrick Dun’s hospital"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.339029 -6.241523",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2693679",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Is he a magistrate?",
+  "html_source": "<p>We aren’t told how Stephen answered, but we get a glimpse of an unwinnable battle for superior standing. In a few paragraphs we’ll hear: “Nasty Roche and Saurin… Their fathers were magistrates, the fellows said.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2693679/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Is-he-a-magistrate",
+    "original_id": "2693679",
+    "referent_id": 2693679,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Is he a magistrate?",
+    "prefix": "ame is that?\n\n And when Stephen had not been able to answer Nasty Roche had asked:\n\n —What is your father?\n\n Stephen had answered:\n\n —A gentleman.\n\n Then Nasty Roche had asked:\n\n —",
+    "suffix": "\n\n He crept about from point to point on the fringe of his line, making little runs now and then. But his hands were bluish with cold. He kept his hands in the side pockets of his ",
+    "start": 2805,
+    "end": 2824,
+    "canonical_text": "Is he a magistrate?"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2693679,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

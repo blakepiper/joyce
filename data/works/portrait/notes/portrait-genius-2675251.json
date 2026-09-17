@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2675251",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "He wondered if he would die.",
+  "html_source": "<p>Young Dedalus is very concerned here, perhaps much more than one might normally be if afflicted with a fever.</p><p>This may be another place that his youth shows through, as he leapt from thinking “how far away” his parents were to whether “he would die”, and ran through what would occur after his death and during his funeral. “He could hear the tolling.” Seems like quite a leap…</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2675251/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/He-wondered-if-he-would-die",
+    "original_id": "2675251",
+    "referent_id": 2675251,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "He wondered if he would die.",
+    "prefix": ",\n\nI am sick. I want to go home. Please come and take me home. I am in the infirmary.\n\nYour fond son,\nStephen\n\n How far away they were! There was cold sunlight outside the window. ",
+    "suffix": " You could die just the same on a sunny day. He might die before his mother came. Then he would have a dead mass in the chapel like the way the fellows had told him it was when Lit",
+    "start": 30363,
+    "end": 30391,
+    "canonical_text": "He wondered if he would die."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2675251,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2902954",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "AD PULCRITUDINEM TRIA REQUIRUNTUR INTEGRITAS, CONSONANTIA, CLARITAS.",
+  "html_source": "<p>A more literal translation from the Latin for the three is:<br />   <em>Beauty requires three things: Integrity, Harmony, and Clarity.</em></p><p>Incidentally, these three are pretty easy <a href=\"http://en.wikipedia.org/wiki/Cognate\" rel=\"noopener nofollow\">cognates</a> to English.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2902954/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Ad-pulcritudinem-tria-requiruntur-integritas-consonantia-claritas",
+    "original_id": "2902954",
+    "referent_id": 2902954,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "AD PULCRITUDINEM TRIA REQUIRUNTUR INTEGRITAS, CONSONANTIA, CLARITAS.",
+    "prefix": "ying relations of the sensible must therefore correspond to the necessary phases of artistic apprehension. Find these and you find the qualities of universal beauty. Aquinas says: ",
+    "suffix": " I translate it so: Three things are needed for beauty, wholeness, harmony and radiance. Do these correspond to the phases of apprehension? Are you following?\n\n —Of course, I am, s",
+    "start": 70661,
+    "end": 70729,
+    "canonical_text": "Ad pulcritudinem tria requiruntur integritas, consonantia, claritas."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2902954,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

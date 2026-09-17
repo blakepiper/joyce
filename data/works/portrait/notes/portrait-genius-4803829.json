@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4803829",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Waist-coateers until a laugh too low, a phrase, tarnished by time, of chambering and false honour stung his monkish",
+  "html_source": "<p><strong>Waist-coateers</strong>: prostitutes<br /><strong>Chambering</strong>: sexual promiscuity</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4803829/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Waist-coateers-until-a-laugh-too-low-a-phrase-tarnished-by-time-of-chambering-and-false-honour-stung-his-monkish",
+    "original_id": "4803829",
+    "referent_id": 4803829,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "waist-coateers until a laugh too low, a phrase, tarnished by time, of chambering and false honour stung his monkish",
+    "prefix": "ns. His mind, in the vesture of a doubting monk, stood often in shadow under the windows of that age, to hear the grave and mocking music of the lutenists or the frank laughter of ",
+    "suffix": " pride and drove him on from his lurking-place.\n\n The lore which he was believed to pass his days brooding upon so that it had rapt him from the companionship of youth was only a g",
+    "start": 4654,
+    "end": 4768,
+    "canonical_text": "waistcoateers until a laugh too low, a phrase, tarnished by time, of chambering and false honour stung his monkish"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4803829,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1356898,
+        "login": "ecbiv",
+        "name": "ecbiv",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

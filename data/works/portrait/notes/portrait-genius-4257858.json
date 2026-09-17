@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4257858",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Sunday was dedicated to the mystery of the Holy Trinity, Monday to the Holy Ghost, Tuesday to the Guardian Angels, Wednesday to saint Joseph, Thursday to the Most Blessed Sacrament of the Altar, Friday to the Suffering Jesus, Saturday to the Blessed Virgin Mary",
+  "html_source": "<p>Part 4 is the most straightforward because his religiousness is in the way of his artistry.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4257858/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Sunday-was-dedicated-to-the-mystery-of-the-holy-trinity-monday-to-the-holy-ghost-tuesday-to-the-guardian-angels-wednesday-to-saint-joseph-thursday-to-the-most-blessed-sacrament-of-the-altar-friday-to-the-suffering-jesus-saturday-to-the-blessed-virgin-mary",
+    "original_id": "4257858",
+    "referent_id": 4257858,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "Sunday was dedicated to the mystery of the Holy Trinity, Monday to the Holy Ghost, Tuesday to the Guardian Angels, Wednesday to saint Joseph, Thursday to the Most Blessed Sacrament of the Altar, Friday to the Suffering Jesus, Saturday to the Blessed Virgin Mary",
+    "prefix": "Chapter IV\n\n ",
+    "suffix": ".\n\n Every morning he hallowed himself anew in the presence of some holy image or mystery. His day began with an heroic offering of its every moment of thought or action for the int",
+    "start": 13,
+    "end": 274,
+    "canonical_text": "Sunday was dedicated to the mystery of the Holy Trinity, Monday to the Holy Ghost, Tuesday to the Guardian Angels, Wednesday to Saint Joseph, Thursday to the Most Blessed Sacrament of the Altar, Friday to the Suffering Jesus, Saturday to the Blessed Virgin Mary"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4257858,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1253603,
+        "login": "Shef",
+        "name": "Shef",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

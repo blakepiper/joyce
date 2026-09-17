@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0318",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Mr Dedalus",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Mr Dedalus</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:318"
+  },
+  "anchor": {
+    "text": "Mr Dedalus",
+    "prefix": "no political discussion on this day of all days in the year.\n\n —Quite right, ma’am, said uncle Charles. Now Simon, that’s quite enough now. Not another word now.\n\n —Yes, yes, said ",
+    "suffix": " quickly.\n\n He uncovered the dish boldly and said:\n\n —Now then, who’s for more turkey?\n\n Nobody answered. Dante said:\n\n —Nice language for any catholic to use!\n\n —Mrs Riordan, I ap",
+    "start": 43920,
+    "end": 43930,
+    "canonical_text": "Mr Dedalus"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

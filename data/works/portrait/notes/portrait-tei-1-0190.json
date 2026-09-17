@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0190",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Brother Michael",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Brother Michael</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:190"
+  },
+  "anchor": {
+    "text": "Brother Michael",
+    "prefix": "that Father Minister had said he was to get up and dress and go to the infirmary. And while he was dressing himself as quickly as he could the prefect said:\n\n —We must pack off to ",
+    "suffix": " because we have the collywobbles!\n\n He was very decent to say that. That was all to make him laugh. But he could not laugh because his cheeks and lips were all shivery: and then t",
+    "start": 27969,
+    "end": 27984,
+    "canonical_text": "Brother Michael"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

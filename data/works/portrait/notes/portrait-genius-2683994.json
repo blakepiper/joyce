@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2683994",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Tissue paper",
+  "html_source": "<p>Possibly this arrangement shamed her for some reason– did she use it as toilet paper? or was she embarrassed to need breathmints? or to save paper scraps like a poor person?</p><p>It could have been merely a <em>gift for a gift</em>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2683994/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Tissue-paper",
+    "original_id": "2683994",
+    "referent_id": 2683994,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "tissue paper",
+    "prefix": "The brush with the maroon velvet back was for Michael Davitt and the brush with the green velvet back was for Parnell. Dante gave him a cachou every time he brought her a piece of ",
+    "suffix": ".\n\n The Vances lived in number seven. They had a different father and mother. They were Eileen’s father and mother. When they were grown up he was going to marry Eileen. He hid und",
+    "start": 1237,
+    "end": 1249,
+    "canonical_text": "tissue paper"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2683994,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.7317073170731707
+      },
+      {
+        "id": 27699,
+        "login": "Scottish-Lady",
+        "name": "Scottish-Lady",
+        "role": "contributor",
+        "attribution": 0.2682926829268293
+      }
+    ]
+  },
+  "color": "F59627"
+}

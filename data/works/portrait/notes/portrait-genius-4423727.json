@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4423727",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Six and eight",
+  "html_source": "<p>Six and eight refers to the strokes on the hand given as punishment: three on each hand, then four more on each hand again.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4423727/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Six-and-eight",
+    "original_id": "4423727",
+    "referent_id": 4423727,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "six and eight",
+    "prefix": "aid:\n\n —And we are all to be punished for what other fellows did?\n\n —I won’t come back, see if I do, Cecil Thunder said. Three days’ silence in the refectory and sending us up for ",
+    "suffix": " every minute.\n\n —Yes, said Wells. And old Barrett has a new way of twisting the note so that you can’t open it and fold it again to see how many ferulæ you are to get. I won’t com",
+    "start": 64932,
+    "end": 64945,
+    "canonical_text": "six and eight"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4423727,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1293868,
+        "login": "PhiliCheeseSteakJackson",
+        "name": "PhiliCheeseSteakJackson",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

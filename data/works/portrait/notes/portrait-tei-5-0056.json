@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0056",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Person: Stevie",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Stevie</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:56"
+  },
+  "anchor": {
+    "text": "Stevie",
+    "prefix": "led up before Stephen’s mind a strange vision. The two were walking slowly towards Davin’s rooms through the dark narrow streets of the poorer jews.\n\n —A thing happened to myself, ",
+    "suffix": ", last autumn, coming on winter, and I never told it to a living soul and you are the first person now I ever told it to. I disremember if it was October or November. It was Octobe",
+    "start": 14896,
+    "end": 14902,
+    "canonical_text": "Stevie"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

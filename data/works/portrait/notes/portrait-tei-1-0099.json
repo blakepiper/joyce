@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0099",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Wells",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Wells</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:99"
+  },
+  "anchor": {
+    "text": "Wells",
+    "prefix": "iven two and still Wells laughed. But Wells must know the right answer for he was in third of grammar. He tried to think of Wells’s mother but he did not dare to raise his eyes to ",
+    "suffix": "’s face. He did not like Wells’s face. It was Wells who had shouldered him into the square ditch the day before because he would not swop his little snuffbox for Wells’s seasoned h",
+    "start": 13413,
+    "end": 13418,
+    "canonical_text": "Wells"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

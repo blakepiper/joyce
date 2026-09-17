@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4259008",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "His soul traversed a period of desolation in which the sacraments themselves seemed to have turned into dried-up sources.",
+  "html_source": "<p>Religion is of decreasing importance to him.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4259008/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/His-soul-traversed-a-period-of-desolation-in-which-the-sacraments-themselves-seemed-to-have-turned-into-dried-up-sources",
+    "original_id": "4259008",
+    "referent_id": 4259008,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "His soul traversed a period of desolation in which the sacraments themselves seemed to have turned into dried-up sources.",
+    "prefix": "and it was his constant failure to do this to his own satisfaction which caused in his soul at last a sensation of spiritual dryness together with a growth of doubts and scruples. ",
+    "suffix": " His confession became a channel for the escape of scrupulous and unrepented imperfections. His actual reception of the eucharist did not bring him the same dissolving moments of v",
+    "start": 10174,
+    "end": 10295,
+    "canonical_text": "His soul traversed a period of desolation in which the sacraments themselves seemed to have turned into dried up sources."
+  },
+  "provenance": {
+    "match_method": "compact-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4259008,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1254053,
+        "login": "jrod1096",
+        "name": "jrod1096",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0161",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Neologism: carriagelamps",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a neologism.</p><blockquote><p>carriagelamps</p></blockquote><p class=\"tei-detail\">TEI type: neologism</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:161"
+  },
+  "anchor": {
+    "text": "carriagelamps",
+    "prefix": " away. Where? Down the staircase and along the corridors or to his room at the end? He saw the dark. Was it true about the black dog that walked there at night with eyes as big as ",
+    "suffix": "? They said it was the ghost of a murderer. A long shiver of fear flowed over his body. He saw the dark entrance hall of the castle. Old servants in old dress were in the ironingro",
+    "start": 22099,
+    "end": 22112,
+    "canonical_text": "carriagelamps"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "type": "neologism"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "9C632A"
+}

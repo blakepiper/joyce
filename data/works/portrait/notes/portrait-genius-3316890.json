@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-3316890",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "Pope Innocent the Third",
+  "html_source": "<p>Pope <a href=\"http://en.wikipedia.org/wiki/Pope_Innocent_III\" rel=\"noopener nofollow\">Innocent III</a> (1160 – 1216) reigned from 8 January 1198 to his death. His birth name was Lotario dei Conti di Segni. He was one of the most powerful and influential popes.</p><p><img src=\"https://images.rapgenius.com/b46545d921141c2d0c7478285b6fed13.435x501x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3316890/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3/Pope-innocent-the-third",
+    "original_id": "3316890",
+    "referent_id": 3316890,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3-annotated"
+  },
+  "anchor": {
+    "text": "Pope Innocent the Third",
+    "prefix": " dead bodies worms are engendered by putrefaction, so in the souls of the lost there arises a perpetual remorse from the putrefaction of sin, the sting of conscience, the worm, as ",
+    "suffix": " calls it, of the triple sting. The first sting inflicted by this cruel worm will be the memory of past pleasures. O what a dreadful memory will that be! In the lake of alldevourin",
+    "start": 55186,
+    "end": 55209,
+    "canonical_text": "Pope Innocent the Third"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3316890,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 972621,
+        "login": "LucaMaletta",
+        "name": "LucaMaletta",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

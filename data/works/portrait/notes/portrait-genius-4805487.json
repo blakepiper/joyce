@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4805487",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Hopkins’ corner",
+  "html_source": "<p>Hopkins and Hopkins was a jeweler’s and watchmaker’s shop at the southern end of Lower Sackville (now O'Connell) Street.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4805487/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Hopkins-corner",
+    "original_id": "4805487",
+    "referent_id": 4805487,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "Hopkins' corner",
+    "prefix": "cision. He laughed as he heard it for it made him think of MacCann; and he saw him a squat figure in a shooting jacket and breeches and with a fair goatee, standing in the wind at ",
+    "suffix": ", and heard him say:\n\n —Dedalus, you’re an antisocial being, wrapped up in yourself. I’m not. I’m a democrat and I’ll work and act for social liberty and equality among all classes",
+    "start": 6476,
+    "end": 6491,
+    "canonical_text": "Hopkins’ corner"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4805487,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1356898,
+        "login": "ecbiv",
+        "name": "ecbiv",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

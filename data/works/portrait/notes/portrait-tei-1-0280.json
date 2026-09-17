@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0280",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: uncle Charles",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>uncle Charles</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:280"
+  },
+  "anchor": {
+    "text": "uncle Charles",
+    "prefix": "r and oldish: and that morning when his mother had brought him down to the parlour, dressed for mass, his father had cried. That was because he was thinking of his own father. And ",
+    "suffix": " had said so too.\n\n Mr Dedalus covered the dish and began to eat hungrily. Then he said:\n\n —Poor old Christy, he’s nearly lopsided now with roguery.\n\n —Simon, said Mrs Dedalus, you",
+    "start": 41871,
+    "end": 41884,
+    "canonical_text": "uncle Charles"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

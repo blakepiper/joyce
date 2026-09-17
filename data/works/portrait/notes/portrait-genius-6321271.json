@@ -1,0 +1,56 @@
+{
+  "id": "portrait-genius-6321271",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Moocow",
+  "html_source": "<p>Definition: a child’s name for a cow.</p><p>By using this babytalk word in this first sentence, Joyce establishes the narrator as employing a childish diction and idiom.</p><p><img src=\"https://images.rapgenius.com/29137c9436a447a359be9dcfc4696f43.300x168x1.jpg\" alt=\"\" /></p><p>Awww look at the cute moocow!</p><p>We’ll see the narrator’s language, grammatical complexity, and intelligence increase with Stephen as he grows up and develops intellectually.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6321271/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Moocow",
+    "original_id": "6321271",
+    "referent_id": 6321271,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "moocow",
+    "prefix": "notas animum dimittit in artes.”\nOvid, Metamorphoses, VIII., 188.\n\n Chapter I\n\n Once upon a time and a very good time it was there was a moocow coming down along the road and this ",
+    "suffix": " that was coming down along the road met a nicens little boy named baby tuckoo....\n\n His father told him that story: his father looked at him through a glass: he had a hairy face.\n",
+    "start": 186,
+    "end": 192,
+    "canonical_text": "moocow"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.959
+  },
+  "genius": {
+    "referent_id": 6321271,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1511881,
+        "login": "MckenzieRaeSwart",
+        "name": "MckenzieRaeSwart",
+        "role": "contributor",
+        "attribution": 0.6707317073170732
+      },
+      {
+        "id": 127576,
+        "login": "WCWTF",
+        "name": "Daniel E. Burke",
+        "role": "editor",
+        "attribution": 0.25609756097560976
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.07317073170731708
+      }
+    ]
+  },
+  "color": "F59627"
+}

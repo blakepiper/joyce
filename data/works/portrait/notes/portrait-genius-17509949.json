@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-17509949",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Consumptive",
+  "html_source": "<p>ill-looking</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/17509949/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Consumptive",
+    "original_id": "17509949",
+    "referent_id": 17509949,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "consumptive",
+    "prefix": "ll the history of your family, too, Temple said, turning to Stephen. Do you know what Giraldus Cambrensis says about your family?\n\n —Is he descended from Baldwin too? asked a tall ",
+    "suffix": " student with dark eyes.\n\n —Baldhead, Cranly repeated, sucking at a crevice in his teeth.\n\n —Pernobilis et pervetusta familia, Temple said to Stephen.\n\n The stout student who stood",
+    "start": 104782,
+    "end": 104793,
+    "canonical_text": "consumptive"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 17509949,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 8753690,
+        "login": "FBA-ML",
+        "name": "FBA-ML",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4259058",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "He was unheeded, happy and near to the wild heart of life.",
+  "html_source": "<p>He seems most at peace when considering his own portrait in solitude. The person who seems to have the largest impact on his sense of self is himself.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4259058/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/He-was-unheeded-happy-and-near-to-the-wild-heart-of-life",
+    "original_id": "4259058",
+    "referent_id": 4259058,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "He was unheeded, happy and near to the wild heart of life.",
+    "prefix": " upon the shame of her wounds and in her house of squalor and subterfuge to queen it in faded cerements and in wreaths that withered at the touch? Or where was he?\n\n He was alone. ",
+    "suffix": " He was alone and young and wilful and wildhearted, alone amid a waste of wild air and brackish waters and the seaharvest of shells and tangle and veiled grey sunlight and gayclad ",
+    "start": 48566,
+    "end": 48624,
+    "canonical_text": "He was unheeded, happy and near to the wild heart of life."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4259058,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1254060,
+        "login": "epiphanies",
+        "name": "epiphanies",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0054",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Person: Stephen",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Stephen</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:54"
+  },
+  "anchor": {
+    "text": "Stephen",
+    "prefix": "nt bore with it lightly:\n\n —Go on, Stevie, I have a hard head, you tell me. Call me what you will.\n\n The homely version of his christian name on the lips of his friend had touched ",
+    "suffix": " pleasantly when first heard for he was as formal in speech with others as they were with him. Often, as he sat in Davin’s rooms in Grantham Street, wondering at his friend’s well-",
+    "start": 12390,
+    "end": 12397,
+    "canonical_text": "Stephen"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0127",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "LA passage: Pernobilis et pervetusta familia",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>Pernobilis et pervetusta familia</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:127"
+  },
+  "anchor": {
+    "text": "Pernobilis et pervetusta familia",
+    "prefix": "s says about your family?\n\n —Is he descended from Baldwin too? asked a tall consumptive student with dark eyes.\n\n —Baldhead, Cranly repeated, sucking at a crevice in his teeth.\n\n —",
+    "suffix": ", Temple said to Stephen.\n\n The stout student who stood below them on the steps farted briefly. Dixon turned towards him, saying in a soft voice:\n\n —Did an angel speak?\n\n Cranly tu",
+    "start": 104886,
+    "end": 104918,
+    "canonical_text": "Pernobilis et pervetusta familia"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

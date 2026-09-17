@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0123",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: Moycullen",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Moycullen</p></blockquote><p class=\"tei-detail\">Coordinates: 53.338748 -9.181478</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:123"
+  },
+  "anchor": {
+    "text": "Moycullen",
+    "prefix": "in coarse railing at her paramour, whose name and voice and features offended his baffled pride: a priested peasant, with a brother a policeman in Dublin and a brother a potboy in ",
+    "suffix": ". To him she would unveil her soul’s shy nakedness, to one who was but schooled in the discharging of a formal rite rather than to him, a priest of the eternal imagination, transmu",
+    "start": 88916,
+    "end": 88925,
+    "canonical_text": "Moycullen"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.338748 -9.181478",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

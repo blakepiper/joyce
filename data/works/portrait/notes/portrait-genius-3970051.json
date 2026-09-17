@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-3970051",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "A cope of black and gold",
+  "html_source": "<p>“<a href=\"http://www.merriam-webster.com/\" rel=\"noopener nofollow\">A long, loose piece of clothing that is worn by a priest on special occasions</a>”.</p><p><img src=\"https://images.rapgenius.com/996eedeec1612814e88de0c489d44b42.700x525x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3970051/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/A-cope-of-black-and-gold",
+    "original_id": "3970051",
+    "referent_id": 3970051,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "a cope of black and gold",
+    "prefix": "Little had died. All the fellows would be at the mass, dressed in black, all with sad faces. Wells too would be there but no fellow would look at him. The rector would be there in ",
+    "suffix": " and there would be tall yellow candles on the altar and round the catafalque. And they would carry the coffin out of the chapel slowly and he would be buried in the little graveya",
+    "start": 30748,
+    "end": 30772,
+    "canonical_text": "a cope of black and gold"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3970051,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1141957,
+        "login": "Velcro_River",
+        "name": "Velcro_River",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

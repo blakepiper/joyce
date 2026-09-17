@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4258628",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Howth",
+  "html_source": "<p>Headland on Dublin Bay’s northeast coast</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4258628/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Howth",
+    "original_id": "4258628",
+    "referent_id": 4258628,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "Howth",
+    "prefix": "ning would deepen above the sea, night fall upon the plains, dawn glimmer before the wanderer and show him strange fields and hills and faces. Where?\n\n He looked northward towards ",
+    "suffix": ". The sea had fallen below the line of seawrack on the shallow side of the breakwater and already the tide was running out fast along the foreshore. Already one long oval bank of s",
+    "start": 47121,
+    "end": 47126,
+    "canonical_text": "Howth"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4258628,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1253836,
+        "login": "BingSoo",
+        "name": "BingSoo",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

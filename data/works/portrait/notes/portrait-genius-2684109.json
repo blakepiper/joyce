@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2684109",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Greaves in his number",
+  "html_source": "<p>He had shin guards in his locker.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2684109/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Greaves-in-his-number",
+    "original_id": "2684109",
+    "referent_id": 2684109,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "greaves in his number",
+    "prefix": "atery. Rody Kickham was not like that: he would be captain of the third line all the fellows said.\n\n Rody Kickham was a decent fellow but Nasty Roche was a stink. Rody Kickham had ",
+    "suffix": " and a hamper in the refectory. Nasty Roche had big hands. He called the Friday pudding dog-in-the-blanket. And one day he had asked:\n\n —What is your name?\n\n Stephen had answered: ",
+    "start": 2359,
+    "end": 2380,
+    "canonical_text": "greaves in his number"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2684109,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 0.5714285714285715
+      },
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.42857142857142855
+      }
+    ]
+  },
+  "color": "F59627"
+}

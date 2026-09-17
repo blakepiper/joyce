@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0234",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Place: Clongowes",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Clongowes</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:234"
+  },
+  "anchor": {
+    "text": "Clongowes",
+    "prefix": "land\nEurope\nThe World\nThe Universe\n\n That was in his writing: and Fleming one night for a cod had written on the opposite page:\n\n Stephen Dedalus is my name,\nIreland is my nation.\n",
+    "suffix": " is my dwellingplace\nAnd heaven my expectation.\n\n He read the verses backwards but then they were not poetry. Then he read the flyleaf from the bottom to the top till he came to hi",
+    "start": 15820,
+    "end": 15829,
+    "canonical_text": "Clongowes"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

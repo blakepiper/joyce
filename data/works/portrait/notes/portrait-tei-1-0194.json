@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0194",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Brother Michael",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Brother Michael</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:194"
+  },
+  "anchor": {
+    "text": "Brother Michael",
+    "prefix": "of the infirmary and from the door of the dark cabinet on his right came a smell like medicine. That came from the bottles on the shelves. The prefect spoke to Brother Michael and ",
+    "suffix": " answered and called the prefect sir. He had reddish hair mixed with grey and a queer look. It was queer that he would always be a brother. It was queer too that you could not call",
+    "start": 28730,
+    "end": 28745,
+    "canonical_text": "Brother Michael"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

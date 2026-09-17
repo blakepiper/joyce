@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0143",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: God",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>God</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:143"
+  },
+  "anchor": {
+    "text": "God",
+    "prefix": "nt names for God in all the different languages in the world and God understood what all the people who prayed said in their different languages still God remained always the same ",
+    "suffix": " and God’s real name was God.\n\n It made him very tired to think that way. It made him feel his head very big. He turned over the flyleaf and looked wearily at the green round earth",
+    "start": 16882,
+    "end": 16885,
+    "canonical_text": "God"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

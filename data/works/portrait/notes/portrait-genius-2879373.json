@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2879373",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "He drained his third cup of watery tea to the dregs and set to chewing the crusts of fried bread that were scattered near him, staring into the dark pool of the jar. The yellow dripping had been scooped out like a boghole and the pool under it brought back to his memory the dark turf-coloured water of the bath in Clongowes.",
+  "html_source": "<p>Doesn’t all this just sound awful! <em>Watery tea</em>, <em>the dark pool of the jar</em>, <em>yellow dripping</em>, etc. This is the Dedalus household now, which has even started to remind Stephen of his days at Clongowes! Terrible…</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2879373/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/He-drained-his-third-cup-of-watery-tea-to-the-dregs-and-set-to-chewing-the-crusts-of-fried-bread-that-were-scattered-near-him-staring-into-the-dark-pool-of-the-jar-the-yellow-dripping-had-been-scooped-out-like-a-boghole-and-the-pool-under-it-brought-back-to-his-memory-the-dark-turf-coloured-water-of-the-bath-in-clongowes",
+    "original_id": "2879373",
+    "referent_id": 2879373,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "He drained his third cup of watery tea to the dregs and set to chewing the crusts of fried bread that were scattered near him, staring into the dark pool of the jar. The yellow dripping had been scooped out like a boghole and the pool under it brought back to his memory the dark turf-coloured water of the bath in Clongowes.",
+    "prefix": "Chapter V\n\n ",
+    "suffix": " The box of pawn tickets at his elbow had just been rifled and he took up idly one after another in his greasy fingers the blue and white dockets, scrawled and sanded and creased a",
+    "start": 12,
+    "end": 336,
+    "canonical_text": "He drained his third cup of watery tea to the dregs and set to chewing the crusts of fried bread that were scattered near him, staring into the dark pool of the jar. The yellow dripping had been scooped out like a boghole and the pool under it brought back to his memory the dark turfcoloured water of the bath in Clongowes."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2879373,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

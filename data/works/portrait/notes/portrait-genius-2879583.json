@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2879583",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "BONUM EST IN QUOD TENDIT APPETITUS.",
+  "html_source": "<p>Also from Latin (unsurprisingly at this point…),<br />   <em>The good is in that toward which the appetite tends</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2879583/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Bonum-est-in-quod-tendit-appetitus",
+    "original_id": "2879583",
+    "referent_id": 2879583,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "BONUM EST IN QUOD TENDIT APPETITUS.",
+    "prefix": " eye. Will it therefore be beautiful?\n\n —In so far as it is apprehended by the sight, which I suppose means here esthetic intellection, it will be beautiful. But Aquinas also says ",
+    "suffix": " In so far as it satisfies the animal craving for warmth fire is a good. In hell, however, it is an evil.\n\n —Quite so, said the dean, you have certainly hit the nail on the head.\n\n",
+    "start": 23709,
+    "end": 23744,
+    "canonical_text": "Bonum est in quod tendit appetitus."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2879583,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

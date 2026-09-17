@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4258318",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Third Person of the Most Blessed Trinity",
+  "html_source": "<p>The “Most Blessed Trinity” is “The Father, the Son, and the Holy Spirit”, or God, Jesus, and the Holy Spirit. Here, Stephen is referring to the Holy Spirit.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4258318/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Third-person-of-the-most-blessed-trinity",
+    "original_id": "4258318",
+    "referent_id": 4258318,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "Third Person of the Most Blessed Trinity",
+    "prefix": "t he believed that at some future stage of his spiritual progress this difficulty would be removed when his sinful soul had been raised up from its weakness and enlightened by the ",
+    "suffix": ". He believed this all the more, and with trepidation, because of the divine gloom and silence wherein dwelt the unseen Paraclete, Whose symbols were a dove and a mighty wind, to s",
+    "start": 3598,
+    "end": 3638,
+    "canonical_text": "Third Person of the Most Blessed Trinity"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4258318,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1253784,
+        "login": "Caroline_Walden",
+        "name": "Caroline_Walden",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0002",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Bibliographic reference: - Ovid, Metamorphoses , VIII, 188",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a bibliographic reference.</p><blockquote><p>- Ovid, Metamorphoses , VIII, 188</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:2"
+  },
+  "anchor": {
+    "text": "- Ovid, Metamorphoses , VIII, 188",
+    "prefix": "“Et ignotas animum dimittit in artes.”\n",
+    "suffix": "\n\n Chapter I\n\n Once upon a time and a very good time it was there was a moocow coming down along the road and this moocow that was coming down along the road met a nicens little bo",
+    "start": 39,
+    "end": 71,
+    "canonical_text": "Ovid, Metamorphoses, VIII., 188."
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "bibl",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9524
+  },
+  "color": "7AA8FF"
+}

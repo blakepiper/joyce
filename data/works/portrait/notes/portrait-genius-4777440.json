@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-4777440",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Tomorrow and tomorrow and tomorrow",
+  "html_source": "<p>A throaway allusion to a famous line from the end of <em>Macbeth</em>. Act V, Scene V:</p><blockquote><p><strong>To-morrow, and to-morrow, and to-morrow</strong>,<br />Creeps in this petty pace from day to day<br />To the last syllable of recorded time,<br />And all our yesterdays have lighted fools<br />The way to dusty death. Out, out, brief candle!<br />Life’s but a walking shadow, a poor player<br />That struts and frets his hour upon the stage<br />And then is heard no more: it is a tale<br />Told by an idiot, full of sound and fury,<br />Signifying nothing.</p></blockquote><p>The prefect of studies makes ironic use of this grandiose meditation on mortality by applying it to the small-time responsibilities of schoolboys.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4777440/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Tomorrow-and-tomorrow-and-tomorrow",
+    "original_id": "4777440",
+    "referent_id": 4777440,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Tomorrow and tomorrow and tomorrow",
+    "prefix": "l be in tomorrow.\n\n He poked one of the boys in the side with his pandybat, saying:\n\n —You, boy! When will Father Dolan be in again?\n\n —Tomorrow, sir, said Tom Furlong’s voice.\n\n —",
+    "suffix": ", said the prefect of studies. Make up your minds for that. Every day Father Dolan. Write away. You, boy, who are you?\n\n Stephen’s heart jumped suddenly.\n\n —Dedalus, sir.\n\n —Why ar",
+    "start": 75729,
+    "end": 75763,
+    "canonical_text": "Tomorrow and tomorrow and tomorrow"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4777440,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.9557522123893806
+      },
+      {
+        "id": 1356898,
+        "login": "ecbiv",
+        "name": "ecbiv",
+        "role": "contributor",
+        "attribution": 0.04424778761061947
+      }
+    ]
+  },
+  "color": "F59627"
+}

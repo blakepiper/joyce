@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2607185",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Whatever else is unsure in this stinking dunghill of a world a mother’s love is not. Your mother brings you into the world, carries you first in her body. What do we know about what she feels? But whatever she feels, it, at least, must be real. It must be.",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/38bf513afb2a9a27916d27220cd40347.900x900x1.jpg\" alt=\"\" /></p><p>Cranly vehemently believes in the importance and reality of <em>a mother’s love</em>.  Everything else to him is nebulous.</p><p>He doesn’t claim to understand what mothers feel, but he is sure that their love exists.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2607185/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Whatever-else-is-unsure-in-this-stinking-dunghill-of-a-world-a-mothers-love-is-not-your-mother-brings-you-into-the-world-carries-you-first-in-her-body-what-do-we-know-about-what-she-feels-but-whatever-she-feels-it-at-least-must-be-real-it-must-be",
+    "original_id": "2607185",
+    "referent_id": 2607185,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "Whatever else is unsure in this stinking dunghill of a world a mother's love is not. Your mother brings you into the world, carries you first in her body. What do we know about what she feels? But whatever she feels, it, at least, must be real. It must be.",
+    "prefix": "ng else. And you will set her mind at rest.\n\n He ceased and, as Stephen did not reply, remained silent. Then, as if giving utterance to the process of his own thought, he said:\n\n —",
+    "suffix": " What are our ideas or ambitions? Play. Ideas! Why, that bloody bleating goat Temple has ideas. MacCann has ideas too. Every jackass going the roads thinks he has ideas.\n\n Stephen,",
+    "start": 125195,
+    "end": 125451,
+    "canonical_text": "Whatever else is unsure in this stinking dunghill of a world a mother’s love is not. Your mother brings you into the world, carries you first in her body. What do we know about what she feels? But whatever she feels, it, at least, must be real. It must be."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2607185,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 293151,
+        "login": "jeeho",
+        "name": "Jeeho",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

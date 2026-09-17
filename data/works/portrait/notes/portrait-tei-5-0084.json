@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0084",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Song: On a cloth untrue With a twisted cue And elliptical billiard balls.",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a song.</p><blockquote><p>On a cloth untrue With a twisted cue And elliptical billiard balls.</p></blockquote><p class=\"tei-detail\">TEI type: song</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:84"
+  },
+  "anchor": {
+    "text": "On a cloth untrue With a twisted cue And elliptical billiard balls.",
+    "prefix": " and ellipsoidal. Perhaps some of you gentlemen may be familiar with the works of Mr W. S. Gilbert. In one of his songs he speaks of the billiard sharp who is condemned to play:\n\n ",
+    "suffix": "\n\n —He means a ball having the form of the ellipsoid of the principal axes of which I spoke a moment ago.\n\n Moynihan leaned down towards Stephen’s ear and murmured:\n\n —What price e",
+    "start": 34661,
+    "end": 34728,
+    "canonical_text": "On a cloth untrue\nWith a twisted cue\nAnd elliptical billiard balls."
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "lg",
+    "attributes": {
+      "type": "song"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "CF2929"
+}

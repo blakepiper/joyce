@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0053",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Person: Stevie",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Stevie</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:53"
+  },
+  "anchor": {
+    "text": "Stevie",
+    "prefix": "he borrowed cloak of a Milesian; and he thought of his friend Davin, the peasant student. It was a jesting name between them, but the young peasant bore with it lightly:\n\n —Go on, ",
+    "suffix": ", I have a hard head, you tell me. Call me what you will.\n\n The homely version of his christian name on the lips of his friend had touched Stephen pleasantly when first heard for h",
+    "start": 12245,
+    "end": 12251,
+    "canonical_text": "Stevie"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

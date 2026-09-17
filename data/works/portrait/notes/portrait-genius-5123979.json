@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-5123979",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "His heart trembled in an ecstasy of fear and his soul was in flight.",
+  "html_source": "<p>He has finally realized what his destiny is. It is this epiphany of no longer being uncertain that took over his boyhood that fills him up with elation. However, he’s also scared of maybe flying too close to the sun just like Icarus did.</p><p><em>ay what up Bastille reference</em><br /><a href=\"https://www.youtube.com/watch?v=bjFCbLEbLZY\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=bjFCbLEbLZY</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5123979/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/His-heart-trembled-in-an-ecstasy-of-fear-and-his-soul-was-in-flight",
+    "original_id": "5123979",
+    "referent_id": 5123979,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "His heart trembled in an ecstasy of fear and his soul was in flight.",
+    "prefix": "er of the earth a new soaring impalpable imperishable being?\n\n His heart trembled; his breath came faster and a wild spirit passed over his limbs as though he was soaring sunward. ",
+    "suffix": " His soul was soaring in an air beyond the world and the body he knew was purified in a breath and delivered of incertitude and made radiant and commingled with the element of the ",
+    "start": 45195,
+    "end": 45263,
+    "canonical_text": "His heart trembled in an ecstasy of fear and his soul was in flight."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5123979,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1459176,
+        "login": "samuraisamrin",
+        "name": "samuraisamrin",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

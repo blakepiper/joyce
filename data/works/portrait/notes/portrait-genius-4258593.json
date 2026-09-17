@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4258593",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Cerements",
+  "html_source": "<p>Graveclothes</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4258593/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Cerements",
+    "original_id": "4258593",
+    "referent_id": 4258593,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "cerements",
+    "prefix": "e pale service of the altar. An instant of wild flight had delivered him and the cry of triumph which his lips withheld cleft his brain.\n\n —Stephaneforos!\n\n What were they now but ",
+    "suffix": " shaken from the body of death—the fear he had walked in night and day, the incertitude that had ringed him round, the shame that had abased him within and without—cerements, the l",
+    "start": 46169,
+    "end": 46178,
+    "canonical_text": "cerements"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 4258593,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1253836,
+        "login": "BingSoo",
+        "name": "BingSoo",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

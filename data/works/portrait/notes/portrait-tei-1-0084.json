@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0084",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Paddy Rath",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Paddy Rath</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:84"
+  },
+  "anchor": {
+    "text": "Paddy Rath",
+    "prefix": "e to hear it roar and stop and then roar out of the tunnel again and then stop.\n\n Then the higher line fellows began to come down along the matting in the middle of the refectory, ",
+    "suffix": " and Jimmy Magee and the Spaniard who was allowed to smoke cigars and the little Portuguese who wore the woolly cap. And then the lower line tables and the tables of the third line",
+    "start": 11999,
+    "end": 12009,
+    "canonical_text": "Paddy Rath"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

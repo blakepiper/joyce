@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4805537",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "The grey block of Trinity on his left",
+  "html_source": "<p>Trinity College, the only college of Dublin University, stands opposite the Bank of Ireland on College Green. Trinity, an Elizabethan foundation, was Protestant and Anglo-Irish in its orientation. Catholics, who had long been denied entrance to it, were, from the 1870s, prohibited from entering it by the dictate of the Irish Catholic hierarchy. At the turn of the century, it was especially regarded as ‘foreign’ because it was hostile to the various revival movements, political and cultural, that had emerged.</p><p><img src=\"https://images.rapgenius.com/8f234601898a556e8a1227a55640d0a6.480x320x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4805537/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/The-grey-block-of-trinity-on-his-left",
+    "original_id": "4805537",
+    "referent_id": 4805537,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "The grey block of Trinity on his left",
+    "prefix": "g, in terms of which he was striving to forge out an esthetic philosophy, was held no higher by the age he lived in than the subtle and curious jargons of heraldry and falconry.\n\n ",
+    "suffix": ", set heavily in the city’s ignorance like a dull stone set in a cumbrous ring, pulled his mind downward and while he was striving this way and that to free his feet from the fette",
+    "start": 11493,
+    "end": 11530,
+    "canonical_text": "The grey block of Trinity on his left"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4805537,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1356898,
+        "login": "ecbiv",
+        "name": "ecbiv",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

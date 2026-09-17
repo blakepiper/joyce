@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-2-0005",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "Place: Sandyford",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Sandyford</p></blockquote><p class=\"tei-detail\">Coordinates: 53.269979 -6.224923</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-2:5"
+  },
+  "anchor": {
+    "text": "Sandyford",
+    "prefix": "le village of Stillorgan was the parting of the ways. Either they went to the left towards the Dublin mountains or along the Goatstown road and thence into Dundrum, coming home by ",
+    "suffix": ". Trudging along the road or standing in some grimy wayside public house his elders spoke constantly of the subjects nearer their hearts, of Irish politics, of Munster and of the l",
+    "start": 4442,
+    "end": 4451,
+    "canonical_text": "Sandyford"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.269979 -6.224923",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

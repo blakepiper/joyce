@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2684096",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "He hid under the table",
+  "html_source": "<p>Rewriting his own earlier ‘epiphany’:</p><blockquote><p>Bray: in the parlour of the house in Martello Terrace.<br />Mr Vance (comes in with a stick): “…O, you know, he’ll have to apologise, Mrs Joyce.”<br />Mrs Joyce: “O yes… Do you hear that, Jim?”<br />Mr Vance: “Or else– if he doesn’t the eagles’ll come and pull out his eyes.”<br />Mrs Joyce: “O, but I’m sure he will apologise.”<br />Joyce (under the table, to himself):</p><p>“Pull out his eyes,<br />Apologise,<br />Apologise,<br />Pull out his eyes.</p><p>Apologise,<br />Pull out his eyes,<br />Pull out his eyes,<br />Apologise.\"</p></blockquote><p>Joyce denies us any hint of what he’d done wrong.</p><p>By repeating the rhyme, he embeds this traumatic association deeper into his unconscious.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2684096/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/He-hid-under-the-table",
+    "original_id": "2684096",
+    "referent_id": 2684096,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "He hid under the table",
+    "prefix": "ssue paper.\n\n The Vances lived in number seven. They had a different father and mother. They were Eileen’s father and mother. When they were grown up he was going to marry Eileen. ",
+    "suffix": ". His mother said:\n\n —O, Stephen will apologise.\n\n Dante said:\n\n —O, if not, the eagles will come and pull out his eyes.—\n\n Pull out his eyes,\nApologise,\nApologise,\nPull out his ey",
+    "start": 1419,
+    "end": 1441,
+    "canonical_text": "He hid under the table"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2684096,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4257865",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Stephen smiled again in answer to the smile which he could not see on the priest’s shadowed face,",
+  "html_source": "<p>During chapter 4 Stephen is at his most religious state. He attempts to prevent any satisfaction in his life by avoiding eye contact. This scene highlights Stephen’s attempts.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4257865/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Stephen-smiled-again-in-answer-to-the-smile-which-he-could-not-see-on-the-priests-shadowed-face",
+    "original_id": "4257865",
+    "referent_id": 4257865,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "Stephen smiled again in answer to the smile which he could not see on the priest's shadowed face,",
+    "prefix": "bout their knees! It was really ridiculous. Les jupes, they call them in Belgium.\n\n The vowel was so modified as to be indistinct.\n\n —What do they call them?\n\n —Les jupes.\n\n —O!\n\n ",
+    "suffix": " its image or spectre only passing rapidly across his mind as the low discreet accent fell upon his ear. He gazed calmly before him at the waning sky, glad of the cool of the eveni",
+    "start": 16736,
+    "end": 16833,
+    "canonical_text": "Stephen smiled again in answer to the smile which he could not see on the priest’s shadowed face,"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4257865,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1253612,
+        "login": "AnnieGrohovsky",
+        "name": "AnnieGrohovsky",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

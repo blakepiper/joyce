@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-6322091",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Clane",
+  "html_source": "<p><a href=\"https://www.google.com/maps/place/Clane,+Co.+Kildare,+Ireland/@53.3806156,-6.6921098,55563m/data=!3m1!1e3!4m2!3m1!1s0x48677be3abb6a709:0xa00c7a99731ef90\" rel=\"noopener nofollow\">Clane</a> is a town in County Kildare, Ireland, about 20 miles from Dublin. In this town is Clongowes Wood College—the school that Stephen attends—and it is run by the Jesuit Fathers.</p><p><img src=\"https://images.rapgenius.com/bc9e39d130d25bcaa2e0381e809541a9.400x300x1.jpg\" alt=\"\" /></p><p>James Joyce is a notable alumni of Clongowes Wood College.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6322091/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Clane",
+    "original_id": "6322091",
+    "referent_id": 6322091,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Clane",
+    "prefix": "g the country roads. The drivers pointed with their whips to Bodenstown. The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after cheer after cheer. Through ",
+    "suffix": " they drove, cheering and cheered. The peasant women stood at the halfdoors, the men stood here and there. The lovely smell there was in the wintry air: the smell of Clane: rain an",
+    "start": 23948,
+    "end": 23953,
+    "canonical_text": "Clane"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 6322091,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1507433,
+        "login": "vtomic",
+        "name": "vtomic",
+        "role": "contributor",
+        "attribution": 0.9452054794520548
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.0547945205479452
+      }
+    ]
+  },
+  "color": "F59627"
+}

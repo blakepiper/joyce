@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2649789",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Saint Francis Xavier pointing to his chest; Lorenzo Ricci with his berretta on his head like one of the prefects of the lines, the three patrons of holy youth—saint Stanislaus Kostka, saint Aloysius Gonzago, and Blessed John Berchmans, all with young faces because they died when they were young, and Father Peter Kenny sitting in a chair wrapped in a big cloak.",
+  "html_source": "<p>These are all important figures in the <a href=\"http://en.wikipedia.org/wiki/Jesuit\" rel=\"noopener nofollow\">Jesuit Order</a>.</p><p><img src=\"https://images.rapgenius.com/e988eb26dd24a6d73e0eb9d637e9d18c.306x397x1.jpg\" alt=\"\" /></p><p><em>(<a href=\"http://en.wikipedia.org/wiki/Francis_Xavier\" rel=\"noopener nofollow\">St. Francis Xavier</a> pictured)</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2649789/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Saint-francis-xavier-pointing-to-his-chest-lorenzo-ricci-with-his-berretta-on-his-head-like-one-of-the-prefects-of-the-lines-the-three-patrons-of-holy-youthsaint-stanislaus-kostka-saint-aloysius-gonzago-and-blessed-john-berchmans-all-with-young-faces-because-they-died-when-they-were-young-and-father-peter-kenny-sitting-in-a-chair-wrapped-in-a-big-cloak",
+    "original_id": "2649789",
+    "referent_id": 2649789,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "saint Francis Xavier pointing to his chest; Lorenzo Ricci with his berretta on his head like one of the prefects of the lines, the three patrons of holy youth—saint Stanislaus Kostka, saint Aloysius Gonzago, and Blessed John Berchmans, all with young faces because they died when they were young, and Father Peter Kenny sitting in a chair wrapped in a big cloak.",
+    "prefix": "s and great men of the order who were looking down on him silently as he passed: saint Ignatius Loyola holding an open book and pointing to the words Ad Majorem Dei Gloriam in it, ",
+    "suffix": ".\n\n He came out on the landing above the entrance hall and looked about him. That was where Hamilton Rowan had passed and the marks of the soldiers’ slugs were there. And it was th",
+    "start": 88012,
+    "end": 88373,
+    "canonical_text": "saint Francis Xavier pointing to his chest, Lorenzo Ricci with his berretta on his head like one of the prefects of the lines, the three patrons of holy youth, saint Stanislaus Kostka, saint Aloysius Gonzago and Blessed John Berchmans, all with young faces because they died when they were young, and Father Peter Kenny sitting in a chair wrapped in a big cloak"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2649789,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

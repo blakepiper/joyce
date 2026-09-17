@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2814176",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "O grave, where is thy victory?\n O death, where is thy sting?",
+  "html_source": "<p>Reference <a href=\"http://biblehub.com/1_corinthians/15-55.htm\" rel=\"noopener nofollow\">Corinthians 15:55</a>,</p><blockquote><p>O death, where is thy sting? O grave, where is thy victory?</p></blockquote><p><em>(via <a href=\"http://en.wikipedia.org/wiki/King_James_Version\" rel=\"noopener nofollow\">King James Version</a>)</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2814176/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3/O-grave-where-is-thy-victory-o-death-where-is-thy-sting",
+    "original_id": "2814176",
+    "referent_id": 2814176,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3-annotated"
+  },
+  "anchor": {
+    "text": "O grave, where is thy victory?\n O death, where is thy sting?",
+    "prefix": "d, sent for the wicked young earl of Warwick to let him see how a christian can meet his end? He it is and he alone, the pious and believing christian, who can say in his heart:\n\n ",
+    "suffix": "\n\n Every word of it was for him. Against his sin, foul and secret, the whole wrath of God was aimed. The preacher’s knife had probed deeply into his disclosed conscience and he fel",
+    "start": 27004,
+    "end": 27063,
+    "canonical_text": "O grave, where is thy victory?\nO death, where is thy sting?"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2814176,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-5108992",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "Archangel Michael",
+  "html_source": "<p>An <a href=\"http://www.whyangels.com/archangels_michael_gabriel.html\" rel=\"noopener nofollow\">archangel</a> is an angel of high rank. The <a href=\"http://en.wikipedia.org/wiki/Michael_%28archangel%29\" rel=\"noopener nofollow\">Archangel Michael</a> is one of only three angels mentioned in the Bible, but is also prominent in Judaism and Islam.</p><p><img src=\"https://images.rapgenius.com/44bc179e3d425def0a8262576fdf07d1.668x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5108992/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3/Archangel-michael",
+    "original_id": "5108992",
+    "referent_id": 5108992,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3-annotated"
+  },
+  "anchor": {
+    "text": "archangel Michael",
+    "prefix": "tree which the wind has shaken. The sun, the great luminary of the universe, had become as sackcloth of hair. The moon was bloodred. The firmament was as a scroll rolled away. The ",
+    "suffix": ", the prince of the heavenly host, appeared glorious and terrible against the sky. With one foot on the sea and one foot on the land he blew from the archangelical trumpet the braz",
+    "start": 23266,
+    "end": 23283,
+    "canonical_text": "archangel Michael"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5108992,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1507433,
+        "login": "vtomic",
+        "name": "vtomic",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

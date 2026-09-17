@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0126",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: Bantry",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Bantry</p></blockquote><p class=\"tei-detail\">Coordinates: 51.680080 -9.452576</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:126"
+  },
+  "anchor": {
+    "text": "Bantry",
+    "prefix": "kled and strong and shapely and caressing was Davin’s hand.\n\n He frowned angrily upon his thought and on the shrivelled mannikin who had called it forth. His father’s gibes at the ",
+    "suffix": " gang leaped out of his memory. He held them at a distance and brooded uneasily on his own thought again. Why were they not Cranly’s hands? Had Davin’s simplicity and innocence stu",
+    "start": 102329,
+    "end": 102335,
+    "canonical_text": "Bantry"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "51.680080 -9.452576",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

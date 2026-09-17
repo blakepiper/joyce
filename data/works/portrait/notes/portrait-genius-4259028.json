@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4259028",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "LES JUPES",
+  "html_source": "<p>LES JUPES = Skirts</p><p><img src=\"https://images.rapgenius.com/26f31a30d5eb631688cb46b957714613.513x608x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4259028/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Les-jupes",
+    "original_id": "4259028",
+    "referent_id": 4259028,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "LES JUPES",
+    "prefix": "ith this thing up about their knees! It was really ridiculous. Les jupes, they call them in Belgium.\n\n The vowel was so modified as to be indistinct.\n\n —What do they call them?\n\n —",
+    "suffix": ".\n\n —O!\n\n Stephen smiled again in answer to the smile which he could not see on the priest’s shadowed face, its image or spectre only passing rapidly across his mind as the low dis",
+    "start": 16717,
+    "end": 16726,
+    "canonical_text": "Les jupes"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9757
+  },
+  "genius": {
+    "referent_id": 4259028,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1254026,
+        "login": "Anonymous4123",
+        "name": "Anonymous4123",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

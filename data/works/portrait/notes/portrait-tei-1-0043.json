@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0043",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Wolsey",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Wolsey</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:43"
+  },
+  "anchor": {
+    "text": "Wolsey",
+    "prefix": "s Leicester Abbey was like that. And there were nice sentences in Doctor Cornwell’s Spelling Book. They were like poetry but they were only sentences to learn the spelling from.\n\n ",
+    "suffix": " died in Leicester Abbey\nWhere the abbots buried him.\nCanker is a disease of plants,\nCancer one of animals.\n\n It would be nice to lie on the hearthrug before the fire, leaning his ",
+    "start": 5513,
+    "end": 5519,
+    "canonical_text": "Wolsey"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

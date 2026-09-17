@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-4-0021",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Place: Norfolk",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Norfolk</p></blockquote><p class=\"tei-detail\">Coordinates: 52.613969 0.886402</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-4:21"
+  },
+  "anchor": {
+    "text": "Norfolk",
+    "prefix": "eir banter with easy words. How characterless they looked: Shuley without his deep unbuttoned collar, Ennis without his scarlet belt with the snaky clasp, and Connolly without his ",
+    "suffix": " coat with the flapless sidepockets! It was a pain to see them, and a swordlike pain to see the signs of adolescence that made repellent their pitiable nakedness. Perhaps they had ",
+    "start": 43703,
+    "end": 43710,
+    "canonical_text": "Norfolk"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "52.613969 0.886402",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

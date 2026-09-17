@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-3971130",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "The vowel was so modified as to be indistinct",
+  "html_source": "<p>The director also seems to pronounce “les jupes” pretty terribly.</p><p>This is really the first time that Stephen proves more knowledgable than his teachers/priests, as he is able to recognize “les jupes” once he realizes that the director doesn’t know how to properly pronounce it.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3971130/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/The-vowel-was-so-modified-as-to-be-indistinct",
+    "original_id": "3971130",
+    "referent_id": 3971130,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "The vowel was so modified as to be indistinct",
+    "prefix": "hen I was in Belgium I used to see them out cycling in all kinds of weather with this thing up about their knees! It was really ridiculous. Les jupes, they call them in Belgium.\n\n ",
+    "suffix": ".\n\n —What do they call them?\n\n —Les jupes.\n\n —O!\n\n Stephen smiled again in answer to the smile which he could not see on the priest’s shadowed face, its image or spectre only passi",
+    "start": 16640,
+    "end": 16685,
+    "canonical_text": "The vowel was so modified as to be indistinct"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3971130,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

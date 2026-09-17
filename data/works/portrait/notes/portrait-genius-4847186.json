@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4847186",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "PAULO POST FUTURUM",
+  "html_source": "<p>Latin for “a little after the future”</p><p>“It’s going to be a little later”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4847186/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Paulo-post-futurum",
+    "original_id": "4847186",
+    "referent_id": 4847186,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "PAULO POST FUTURUM",
+    "prefix": "now.\n\n —I had it on my mind to say that, Goggins answered firmly. It did no one any harm, did it?\n\n —We hope, Dixon said suavely, that it was not of the kind known to science as a ",
+    "suffix": ".\n\n —Didn’t I tell you he was a smiler? said Temple, turning right and left. Didn’t I give him that name?\n\n —You did. We’re not deaf, said the tall consumptive.\n\n Cranly still frow",
+    "start": 105393,
+    "end": 105411,
+    "canonical_text": "paulo post futurum"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4847186,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1497331,
+        "login": "SalmaIraqui",
+        "name": "SalmaIraqui",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

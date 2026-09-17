@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2844503",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "The Reverend Stephen Dedalus, S.J",
+  "html_source": "<p>The “S.J.” stands for the <a href=\"http://en.wikipedia.org/wiki/Society_of_jesus\" rel=\"noopener nofollow\">Society of Jesus</a>. (i.e. the Jesuit Order)</p><p><img src=\"https://images.rapgenius.com/42abceb9de9b4ce48bf950c457ae253b.983x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2844503/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/The-reverend-stephen-dedalus-sj",
+    "original_id": "2844503",
+    "referent_id": 2844503,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "The Reverend Stephen Dedalus, S.J",
+    "prefix": "hich had made him loth to eat or drink under a strange roof? What had come of the pride of his spirit which had always made him conceive himself as a being apart in every order?\n\n ",
+    "suffix": ".\n\n His name in that new life leaped into characters before his eyes and to it there followed a mental sensation of an undefined face or colour of a face. The colour faded and beca",
+    "start": 29643,
+    "end": 29677,
+    "canonical_text": "The Reverend Stephen Dedalus, S. J"
+  },
+  "provenance": {
+    "match_method": "compact-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2844503,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

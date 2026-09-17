@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2647407",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "—What kind of a name is that?",
+  "html_source": "<p>Compare this with what <a href=\"http://en.wikipedia.org/wiki/Buck_Mulligan\" rel=\"noopener nofollow\">Buck Mulligan</a> says in the first chapter of <a href=\"http://poetry.genius.com/James-joyce-ulysses-chap-1-telemachus-lyrics\" rel=\"noopener nofollow\">Ulysses</a>,</p><blockquote><p>—The mockery of it! he said gaily. Your absurd name, an ancient Greek!</p></blockquote><p>Stephen might answer ‘Greek’ or ‘mythological’ or ‘fictional’ or ‘bestowed upon me by my Creator’.</p><p>If James Joyce was asked what kind of name is ‘Joyce’ he could cite his Irish family tree, or the supposed etymology from ‘joy’.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2647407/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/What-kind-of-a-name-is-that",
+    "original_id": "2647407",
+    "referent_id": 2647407,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "—What kind of a name is that?",
+    "prefix": "big hands. He called the Friday pudding dog-in-the-blanket. And one day he had asked:\n\n —What is your name?\n\n Stephen had answered: Stephen Dedalus.\n\n Then Nasty Roche had said:\n\n ",
+    "suffix": "\n\n And when Stephen had not been able to answer Nasty Roche had asked:\n\n —What is your father?\n\n Stephen had answered:\n\n —A gentleman.\n\n Then Nasty Roche had asked:\n\n —Is he a magi",
+    "start": 2608,
+    "end": 2637,
+    "canonical_text": "—What kind of a name is that?"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2647407,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.5846153846153846
+      },
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 0.4153846153846154
+      }
+    ]
+  },
+  "color": "F59627"
+}

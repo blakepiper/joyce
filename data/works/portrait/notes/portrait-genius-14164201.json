@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-14164201",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "My name is the name of a town",
+  "html_source": "<p>Athy is a market town at the meeting of the River Barrow and the Grand Canal in south-west County Kildare, Ireland, 72 kilometres southwest of Dublin.</p><p><img src=\"https://images.genius.com/725ab90dfdc4f7799dc8361f6466a6b6.1000x827x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/14164201/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/My-name-is-the-name-of-a-town",
+    "original_id": "14164201",
+    "referent_id": 14164201,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "My name is the name of a town",
+    "prefix": "ple talk about that too?\n\n —Yes, Stephen said.\n\n —Mine too, he said.\n\n Then he thought for a moment and said:\n\n —You have a queer name, Dedalus, and I have a queer name too, Athy. ",
+    "suffix": ". Your name is like Latin.\n\n Then he asked:\n\n —Are you good at riddles?\n\n Stephen answered:\n\n —Not very good.\n\n Then he said:\n\n —Can you answer me this one? Why is the county of Ki",
+    "start": 32760,
+    "end": 32789,
+    "canonical_text": "My name is the name of a town"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 14164201,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 6144889,
+        "login": "IvanMitin",
+        "name": "IvanMitin",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

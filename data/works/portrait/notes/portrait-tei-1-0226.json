@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0226",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Place: Kildare",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Kildare</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:226"
+  },
+  "anchor": {
+    "text": "Kildare",
+    "prefix": "wn. Your name is like Latin.\n\n Then he asked:\n\n —Are you good at riddles?\n\n Stephen answered:\n\n —Not very good.\n\n Then he said:\n\n —Can you answer me this one? Why is the county of ",
+    "suffix": " like the leg of a fellow’s breeches?\n\n Stephen thought what could be the answer and then said:\n\n —I give it up.\n\n —Because there is a thigh in it, he said. Do you see the joke? At",
+    "start": 32967,
+    "end": 32974,
+    "canonical_text": "Kildare"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

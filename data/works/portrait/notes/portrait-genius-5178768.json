@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-5178768",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "Dublin was a new and complex sensation. Uncle Charles had grown so witless",
+  "html_source": "<p>The changes in his life are starting to come about as Uncle Charles becomes a senile old man after being one of Stephen’s close companions at a younger age. This shows the changes that every young boy goes through in boyhood as people change.</p><p>No one is made better off by someone becoming senile.<br /><a href=\"https://www.youtube.com/watch?v=19THRdXxmaI\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=19THRdXxmaI</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5178768/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2/Dublin-was-a-new-and-complex-sensation-uncle-charles-had-grown-so-witless",
+    "original_id": "5178768",
+    "referent_id": 5178768,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2-annotated"
+  },
+  "anchor": {
+    "text": "Dublin was a new and complex sensation. Uncle Charles had grown so witless",
+    "prefix": " left in me yet, Stephen, old chap, said Mr Dedalus, poking at the dull fire with fierce energy. We’re not dead yet, sonny. No, by the Lord Jesus (God forgive me) nor half dead.\n\n ",
+    "suffix": " that he could no longer be sent out on errands and the disorder in settling in the new house left Stephen freer than he had been in Blackrock. In the beginning he contented himsel",
+    "start": 12636,
+    "end": 12710,
+    "canonical_text": "Dublin was a new and complex sensation. Uncle Charles had grown so witless"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5178768,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1508799,
+        "login": "CRG02",
+        "name": "CRG02",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

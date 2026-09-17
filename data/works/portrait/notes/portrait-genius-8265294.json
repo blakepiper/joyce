@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-8265294",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Arklow",
+  "html_source": "<p>Arklow is a town in County Wicklow.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8265294/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Arklow",
+    "original_id": "8265294",
+    "referent_id": 8265294,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Arklow",
+    "prefix": "and thin and cold and soft. That was ivory: a cold white thing. That was the meaning of Tower of Ivory.\n\n —The story is very short and sweet, Mr Casey said. It was one day down in ",
+    "suffix": ", a cold bitter day, not long before the chief died. May God have mercy on him!\n\n He closed his eyes wearily and paused. Mr Dedalus took a bone from his plate and tore some meat fr",
+    "start": 51427,
+    "end": 51433,
+    "canonical_text": "Arklow"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 8265294,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2529123,
+        "login": "NaynaYadav",
+        "name": "NaynaYadav",
+        "role": null,
+        "attribution": 0.7142857142857143
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.28571428571428575
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4258342",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Bous Stephaneforos!",
+  "html_source": "<p>The word bous means bulls.  The idea of a cow or calf is alludes to sacrifice, connecting his Christian namesake to his greek one</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4258342/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Bous-stephaneforos",
+    "original_id": "4258342",
+    "referent_id": 4258342,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "Bous Stephaneforos!",
+    "prefix": "e secret dread in their souls. But he, apart from them and in silence, remembered in what dread he stood of the mystery of his own body.\n\n —Stephanos Dedalos! Bous Stephanoumenos! ",
+    "suffix": "\n\n Their banter was not new to him and now it flattered his mild proud sovereignty. Now, as never before, his strange name seemed to him a prophecy. So timeless seemed the grey war",
+    "start": 44110,
+    "end": 44129,
+    "canonical_text": "Bous Stephaneforos!"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 4258342,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1253787,
+        "login": "tanguin",
+        "name": "tanguin",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-5179400",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Boatbearer",
+  "html_source": "<p>A clergyman who carries the incense before it is lit.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5179400/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Boatbearer",
+    "original_id": "5179400",
+    "referent_id": 5179400,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "boatbearer",
+    "prefix": "es lay quietly folded. It was not the chapel but still you had to speak under your breath. It was a holy place. He remembered the summer evening he had been there to be dressed as ",
+    "suffix": ", the evening of the procession to the little altar in the wood. A strange and holy place. The boy that held the censer had swung it gently to and fro near the door with the silver",
+    "start": 59782,
+    "end": 59792,
+    "canonical_text": "boatbearer"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5179400,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1644926,
+        "login": "ooggggg",
+        "name": "ooggggg",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

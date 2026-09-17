@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2685459",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "The third line",
+  "html_source": "<p>Higher Line boys at <a href=\"http://en.wikipedia.org/wiki/Clongowes_Wood_College\" rel=\"noopener nofollow\">Clongowes</a> were 15-18 years old, Lower Line were 13-15, and Third Line were 9-13. Stephen at 6 was unusually young there.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2685459/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/The-third-line",
+    "original_id": "2685459",
+    "referent_id": 2685459,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "the third line",
+    "prefix": "gning to run now and then. He felt his body small and weak amid the throng of the players and his eyes were weak and watery. Rody Kickham was not like that: he would be captain of ",
+    "suffix": " all the fellows said.\n\n Rody Kickham was a decent fellow but Nasty Roche was a stink. Rody Kickham had greaves in his number and a hamper in the refectory. Nasty Roche had big han",
+    "start": 2241,
+    "end": 2255,
+    "canonical_text": "the third line"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 2685459,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

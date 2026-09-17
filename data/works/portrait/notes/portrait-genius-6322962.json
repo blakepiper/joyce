@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-6322962",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Epictetus",
+  "html_source": "<p><a href=\"http://plato.stanford.edu/entries/epictetus/\" rel=\"noopener nofollow\">Epictetus</a> was a Greek philosopher who taught that philosophy is a way of life and not just theoretical discipline. To him, all events in life are determined by fate and beyond our control, meaning that we should accept whatever happens to us calmly.</p><p><img src=\"https://images.rapgenius.com/a6d8d0b4370288ce4d9d46dfb8a802e1.250x250x1.jpg\" alt=\"\" /></p><p>With the unfortunate experiences Stephen goes through in the book, his state of being become worse when he focuses and overthinks his problems instead of just accepting them.</p><p><img src=\"https://images.rapgenius.com/140ea2d13aee9a2d7046679275c5c762.500x261x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6322962/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Epictetus",
+    "original_id": "6322962",
+    "referent_id": 6322962,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "Epictetus",
+    "prefix": " in the bench behind. Patience. Can you say with certitude by whom the soul of your race was bartered and its elect betrayed—by the questioner or by the mocker? Patience. Remember ",
+    "suffix": ". It is probably in his character to ask such a question at such a moment in such a tone and to pronounce the word science as a monosyllable.\n\n The droning voice of the professor c",
+    "start": 38580,
+    "end": 38589,
+    "canonical_text": "Epictetus"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 6322962,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1507433,
+        "login": "vtomic",
+        "name": "vtomic",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

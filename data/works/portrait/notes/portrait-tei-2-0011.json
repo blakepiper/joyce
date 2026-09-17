@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-2-0011",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "Place: Clongowes",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Clongowes</p></blockquote><p class=\"tei-detail\">Coordinates: 53.310770 -6.684719</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-2:11"
+  },
+  "anchor": {
+    "text": "Clongowes",
+    "prefix": "ned fingers, dissipated any vision of the future. In a vague way he understood that his father was in trouble and that this was the reason why he himself had not been sent back to ",
+    "suffix": ". For some time he had felt the slight change in his house; and those changes in what he had deemed unchangeable were so many slight shocks to his boyish conception of the world. T",
+    "start": 9069,
+    "end": 9078,
+    "canonical_text": "Clongowes"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.310770 -6.684719",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

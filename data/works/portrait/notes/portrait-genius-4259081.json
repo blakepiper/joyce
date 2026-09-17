@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4259081",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Hither and thither",
+  "html_source": "<p>creates sound and rhythm within the words</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4259081/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Hither-and-thither",
+    "original_id": "4259081",
+    "referent_id": 4259081,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "hither and thither",
+    "prefix": "without shame or wantonness. Long, long she suffered his gaze and then quietly withdrew her eyes from his and bent them towards the stream, gently stirring the water with her foot ",
+    "suffix": ". The first faint noise of gently moving water broke the silence, low and faint and whispering, faint as the bells of sleep; hither and thither, hither and thither; and a faint fla",
+    "start": 49993,
+    "end": 50011,
+    "canonical_text": "hither and thither"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 4259081,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1254056,
+        "login": "sandylefeb16",
+        "name": "sandylefeb16",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

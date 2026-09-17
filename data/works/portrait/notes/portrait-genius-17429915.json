@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-17429915",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Supererogation",
+  "html_source": "<p>An abundance of good works</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/17429915/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Supererogation",
+    "original_id": "17429915",
+    "referent_id": 17429915,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "supererogation",
+    "prefix": "ed from the infernal only in that it was not everlasting, his penance might avail no more than a drop of moisture, he drove his soul daily through an increasing circle of works of ",
+    "suffix": ".\n\n Every part of his day, divided by what he regarded now as the duties of his station in life, circled about its own centre of spiritual energy. His life seemed to have drawn nea",
+    "start": 1595,
+    "end": 1609,
+    "canonical_text": "supererogation"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 17429915,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 8753690,
+        "login": "FBA-ML",
+        "name": "FBA-ML",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

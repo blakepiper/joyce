@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4803948",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Contrahit orator, variant in carmine vates",
+  "html_source": "<p>“The orator summarizes; the poet-prophets transform (elaborate) in their verses.”</p><p>Rules of scansion from the Prosodia of Emmanuel Alvarez (1526-82).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4803948/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Contrahit-orator-variant-in-carmine-vates",
+    "original_id": "4803948",
+    "referent_id": 4803948,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "Contrahit orator, variant in carmine vates",
+    "prefix": "ical by the mention of porkers and potsherds and chines of bacon. He had learnt what little he knew of the laws of Latin verse from a ragged book written by a Portuguese priest.\n\n ",
+    "suffix": ".\n\n The crises and victories and secessions in Roman history were handed on to him in the trite words in tanto discrimine and he had tried to peer into the social life of the city ",
+    "start": 10364,
+    "end": 10406,
+    "canonical_text": "Contrahit orator, variant in carmine vates"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4803948,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1356898,
+        "login": "ecbiv",
+        "name": "ecbiv",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0067",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Stephen",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Stephen</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:67"
+  },
+  "anchor": {
+    "text": "Stephen",
+    "prefix": " and mother, his soutane fluttering in the breeze, and the car had driven off with his father and mother on it. They had cried to him from the car, waving their hands:\n\n —Goodbye, ",
+    "suffix": ", goodbye!\n\n —Goodbye, Stephen, goodbye!\n\n He was caught in the whirl of a scrimmage and, fearful of the flashing eyes and muddy boots, bent down to look through the legs. The fell",
+    "start": 4164,
+    "end": 4171,
+    "canonical_text": "Stephen"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

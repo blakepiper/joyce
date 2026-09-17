@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-5179614",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Monstrance",
+  "html_source": "<p>An open or transparent receptacle in which the consecrated Host is exposed for veneration.</p><p><img src=\"https://images.rapgenius.com/c7efe3e8734ef588d9aa61c597a624cc.612x859x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5179614/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Monstrance",
+    "original_id": "5179614",
+    "referent_id": 5179614,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "monstrance",
+    "prefix": "? Wells had said that they had drunk some of the altar wine out of the press in the sacristy and that it had been found out who had done it by the smell. Perhaps they had stolen a ",
+    "suffix": " to run away with and sell it somewhere. That must have been a terrible sin, to go in there quietly at night, to open the dark press and steal the flashing gold thing into which Go",
+    "start": 69440,
+    "end": 69450,
+    "canonical_text": "monstrance"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5179614,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1644926,
+        "login": "ooggggg",
+        "name": "ooggggg",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

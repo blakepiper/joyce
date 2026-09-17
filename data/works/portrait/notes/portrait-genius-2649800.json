@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2649800",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Ovid, Metamorphoses, VIII., 18.",
+  "html_source": "<p><a href=\"http://en.wikipedia.org/wiki/Ovid\" rel=\"noopener nofollow\">Ovid</a> was a Roman poet and author of the <a href=\"http://en.wikipedia.org/wiki/Metamorphoses\" rel=\"noopener nofollow\">Metamorphoses</a>, a collection of myths.</p><p><img src=\"https://images.rapgenius.com/17a9929aab72ae8bd6b6ba9dcf8deb09.428x500x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2649800/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Ovid-metamorphoses-viii-18",
+    "original_id": "2649800",
+    "referent_id": 2649800,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Ovid, Metamorphoses, VIII., 18.",
+    "prefix": "“Et ignotas animum dimittit in artes.”\n",
+    "suffix": "8.\n\n Chapter I\n\n Once upon a time and a very good time it was there was a moocow coming down along the road and this moocow that was coming down along the road met a nicens little ",
+    "start": 39,
+    "end": 69,
+    "canonical_text": "Ovid, Metamorphoses, VIII., 18"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2649800,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 0.9318181818181819
+      },
+      {
+        "id": 149810,
+        "login": "perfectrhyme",
+        "name": "Perfectrhyme",
+        "role": "editor",
+        "attribution": 0.06818181818181818
+      }
+    ]
+  },
+  "color": "F59627"
+}

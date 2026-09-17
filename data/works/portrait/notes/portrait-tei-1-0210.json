@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0210",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Brother Michael",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Brother Michael</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:210"
+  },
+  "anchor": {
+    "text": "Brother Michael",
+    "prefix": "utiful! He wanted to cry quietly but not for himself: for the words, so beautiful and sad, like music. The bell! The bell! Farewell! O farewell!\n\n The cold sunlight was weaker and ",
+    "suffix": " was standing at his bedside with a bowl of beeftea. He was glad for his mouth was hot and dry. He could hear them playing in the playgrounds. And the day was going on in the colle",
+    "start": 31730,
+    "end": 31745,
+    "canonical_text": "Brother Michael"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

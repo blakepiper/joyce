@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0288",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Place: Eton",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Eton</p></blockquote><p class=\"tei-detail\">Coordinates: 51.487402 -0.607942</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:288"
+  },
+  "anchor": {
+    "text": "Eton",
+    "prefix": "irst Christmas dinner and he thought of his little brothers and sisters who were waiting in the nursery, as he had often waited, till the pudding came. The deep low collar and the ",
+    "suffix": " jacket made him feel queer and oldish: and that morning when his mother had brought him down to the parlour, dressed for mass, his father had cried. That was because he was thinki",
+    "start": 41661,
+    "end": 41665,
+    "canonical_text": "Eton"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "51.487402 -0.607942",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

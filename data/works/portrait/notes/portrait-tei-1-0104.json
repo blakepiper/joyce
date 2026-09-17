@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0104",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Neologism: studyhall",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a neologism.</p><blockquote><p>studyhall</p></blockquote><p class=\"tei-detail\">TEI type: neologism</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:104"
+  },
+  "anchor": {
+    "text": "studyhall",
+    "prefix": "her put her lips on his cheek; her lips were soft and they wetted his cheek; and they made a tiny little noise: kiss. Why did people do that with their two faces?\n\n Sitting in the ",
+    "suffix": " he opened the lid of his desk and changed the number pasted up inside from seventyseven to seventysix. But the Christmas vacation was very far away: but one time it would come bec",
+    "start": 14434,
+    "end": 14444,
+    "canonical_text": "study hall"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "type": "neologism"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "9C632A"
+}

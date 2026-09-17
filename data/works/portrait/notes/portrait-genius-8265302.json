@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-8265302",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Kitty O’Shea",
+  "html_source": "<p>“Kitty” itself was a slang for prostitute.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8265302/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Kitty-oshea",
+    "original_id": "8265302",
+    "referent_id": 8265302,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Kitty O'Shea",
+    "prefix": "oked terribly angry and repeated while they laughed:\n\n —Very nice! Ha! Very nice!\n\n It was not nice about the spit in the woman’s eye.\n\n But what was the name the woman had called ",
+    "suffix": " that Mr Casey would not repeat? He thought of Mr Casey walking through the crowds of people and making speeches from a wagonette. That was what he had been in prison for and he re",
+    "start": 53624,
+    "end": 53636,
+    "canonical_text": "Kitty O’Shea"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 8265302,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2529123,
+        "login": "NaynaYadav",
+        "name": "NaynaYadav",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

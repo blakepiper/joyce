@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0003",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Betty Byrne",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Betty Byrne</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:3"
+  },
+  "anchor": {
+    "text": "Betty Byrne",
+    "prefix": "oy named baby tuckoo....\n\n His father told him that story: his father looked at him through a glass: he had a hairy face.\n\n He was baby tuckoo. The moocow came down the road where ",
+    "suffix": " lived: she sold lemon platt.\n\n O, the wild rose blossoms\nOn the little green place.\n\n He sang that song. That was his song.\n\n O, the green wothe botheth.\n\n When you wet the bed, f",
+    "start": 430,
+    "end": 441,
+    "canonical_text": "Betty Byrne"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

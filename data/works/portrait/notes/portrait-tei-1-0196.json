@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0196",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Brother Michael",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Brother Michael</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:196"
+  },
+  "anchor": {
+    "text": "Brother Michael",
+    "prefix": "on the others?\n\n There were two beds in the room and in one bed there was a fellow: and when they went in he called out:\n\n —Hello! It’s young Dedalus! What’s up?\n\n —The sky is up, ",
+    "suffix": " said.\n\n He was a fellow out of the third of grammar and, while Stephen was undressing, he asked Brother Michael to bring him a round of buttered toast.\n\n —Ah, do! he said.\n\n —Butt",
+    "start": 29225,
+    "end": 29240,
+    "canonical_text": "Brother Michael"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

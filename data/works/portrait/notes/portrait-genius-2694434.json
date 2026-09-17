@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2694434",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Longest river in America",
+  "html_source": "<p><a href=\"http://en.wikipedia.org/wiki/Mississippi_river\" rel=\"noopener nofollow\">The Mississippi River</a></p><p><img src=\"https://images.rapgenius.com/83ed9477ee0d4ffd1df35a104c76ef9e.611x480x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2694434/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Longest-river-in-america",
+    "original_id": "2694434",
+    "referent_id": 2694434,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "longest river in America",
+    "prefix": "fender and her jewelly slippers were so hot and they had such a lovely warm smell! Dante knew a lot of things. She had taught him where the Mozambique Channel was and what was the ",
+    "suffix": " and what was the name of the highest mountain in the moon. Father Arnall knew more than Dante because he was a priest but both his father and uncle Charles said that Dante was a c",
+    "start": 6355,
+    "end": 6379,
+    "canonical_text": "longest river in America"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2694434,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.9696969696969697
+      },
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 0.030303030303030304
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2987558",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "On the little green place.",
+  "html_source": "<p>The song is of “Lilly Dale”, and the original lyrics  are “o'er her little green grave”– his parents have sweetened the tragic element.</p><p><a href=\"http://www.loc.gov/jukebox/recordings/detail/id/8895/\" rel=\"noopener nofollow\">Listen to the original song here.</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2987558/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/On-the-little-green-place",
+    "original_id": "2987558",
+    "referent_id": 2987558,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "On the little green place.",
+    "prefix": " looked at him through a glass: he had a hairy face.\n\n He was baby tuckoo. The moocow came down the road where Betty Byrne lived: she sold lemon platt.\n\n O, the wild rose blossoms\n",
+    "suffix": "\n\n He sang that song. That was his song.\n\n O, the green wothe botheth.\n\n When you wet the bed, first it is warm then it gets cold. His mother put on the oilsheet. That had the quee",
+    "start": 499,
+    "end": 525,
+    "canonical_text": "On the little green place."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2987558,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

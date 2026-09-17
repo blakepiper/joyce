@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2879707",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "IN TANTO DISCRIMINE",
+  "html_source": "<p>Latin,<br />   <em>In such a crisis</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2879707/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/In-tanto-discrimine",
+    "original_id": "2879707",
+    "referent_id": 2879707,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "IN TANTO DISCRIMINE",
+    "prefix": "k written by a Portuguese priest.\n\n Contrahit orator, variant in carmine vates.\n\n The crises and victories and secessions in Roman history were handed on to him in the trite words ",
+    "suffix": " and he had tried to peer into the social life of the city of cities through the words implere ollam denariorum which the rector had rendered sonorously as the filling of a pot wit",
+    "start": 10508,
+    "end": 10527,
+    "canonical_text": "in tanto discrimine"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2879707,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

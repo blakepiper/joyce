@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2675265",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Dingdong! The castle bell!\n Farewell, my mother!\n Bury me in the old churchyard\n Beside my eldest brother.\n My coffin shall be black,\n Six angels at my back,\n Two to sing and two to pray\n And two to carry my soul away.",
+  "html_source": "<p>Stephen seems to have changed the lyrics from the original to suit his current concerns,</p><blockquote><p>Ding, dong, bell,<br />Pussy’s in the well.<br />Who put her in?<br />Little Johnny Flynn.<br />Who pulled her out?<br />Little Tommy Stout.<br />What a naughty boy was that,<br />To try to drown poor pussy cat,<br />Who ne’er did him any harm,<br />But killed all the mice in the farmer’s barn.</p></blockquote><p><em>(ref. <a href=\"http://en.wikipedia.org/wiki/Ding_Dong_Bell#Lyrics\" rel=\"noopener nofollow\">Wikipedia</a>)</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2675265/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Dingdong-the-castle-bell-farewell-my-mother-bury-me-in-the-old-churchyard-beside-my-eldest-brother-my-coffin-shall-be-black-six-angels-at-my-back-two-to-sing-and-two-to-pray-and-two-to-carry-my-soul-away",
+    "original_id": "2675265",
+    "referent_id": 2675265,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Dingdong! The castle bell!\n Farewell, my mother!\n Bury me in the old churchyard\n Beside my eldest brother.\n My coffin shall be black,\n Six angels at my back,\n Two to sing and two to pray\n And two to carry my soul away.",
+    "prefix": "es. And Wells would be sorry then for what he had done. And the bell would toll slowly.\n\n He could hear the tolling. He said over to himself the song that Brigid had taught him.\n\n ",
+    "suffix": "\n\n How beautiful and sad that was! How beautiful the words were where they said Bury me in the old churchyard! A tremor passed over his body. How sad and how beautiful! He wanted t",
+    "start": 31178,
+    "end": 31389,
+    "canonical_text": "Dingdong! The castle bell!\nFarewell, my mother!\nBury me in the old churchyard\nBeside my eldest brother.\nMy coffin shall be black,\nSix angels at my back,\nTwo to sing and two to pray\nAnd two to carry my soul away."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2675265,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

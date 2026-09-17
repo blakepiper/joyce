@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2696560",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Go ahead, York! Go ahead, Lancaster!",
+  "html_source": "<p>The fifteenth century <a href=\"https://en.wikipedia.org/wiki/Wars_of_the_Roses\" rel=\"noopener nofollow\">Wars of the Roses</a> were battles for the British crown between the houses of <em>York</em> and <em>Lancaster.</em></p><p><img src=\"https://images.rapgenius.com/b09d2759aa187277f5f57595fd80d15a.571x374x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2696560/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Go-ahead-york-go-ahead-lancaster",
+    "original_id": "2696560",
+    "referent_id": 2696560,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Go ahead, York! Go ahead, Lancaster!",
+    "prefix": "en the fellows stopped talking in the playroom you could hear it.\n\n It was the hour for sums. Father Arnall wrote a hard sum on the board and then said:\n\n —Now then, who will win? ",
+    "suffix": "\n\n Stephen tried his best but the sum was too hard and he felt confused. The little silk badge with the white rose on it that was pinned on the breast of his jacket began to flutte",
+    "start": 8348,
+    "end": 8384,
+    "canonical_text": "Go ahead, York! Go ahead, Lancaster!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2696560,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 0.62
+      },
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.38
+      }
+    ]
+  },
+  "color": "F59627"
+}

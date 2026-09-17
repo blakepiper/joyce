@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0135",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: Har- court Street station",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Har- court Street station</p></blockquote><p class=\"tei-detail\">Coordinates: 53.333446 -6.262433</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:135"
+  },
+  "anchor": {
+    "text": "Har- court Street station",
+    "prefix": "r even the clergy and their dogmas. It is the whole mass of those born into it. I don’t know what you wish to do in life. Is it what you told me the night we were standing outside ",
+    "suffix": "?\n\n —Yes, Stephen said, smiling in spite of himself at Cranly’s way of remembering thoughts in connexion with places. The night you spent half an hour wrangling with Doherty about ",
+    "start": 132027,
+    "end": 132050,
+    "canonical_text": "Harcourt Street station"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.333446 -6.262433",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

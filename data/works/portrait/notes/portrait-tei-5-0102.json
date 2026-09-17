@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0102",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "LA passage: Pulcra sunt quae visa placent.",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>Pulcra sunt quae visa placent.</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:102"
+  },
+  "anchor": {
+    "text": "Pulcra sunt quae visa placent.",
+    "prefix": " the beautiful is is another question.\n\n He rubbed his hands slowly and drily over the difficulty.\n\n —Can you solve that question now? he asked.\n\n —Aquinas, answered Stephen, says ",
+    "suffix": "\n\n —This fire before us, said the dean, will be pleasing to the eye. Will it therefore be beautiful?\n\n —In so far as it is apprehended by the sight, which I suppose means here esth",
+    "start": 23437,
+    "end": 23466,
+    "canonical_text": "pulcra sunt quæ visa placent."
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

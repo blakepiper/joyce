@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0361",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Place: Hill of Lyons",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Hill of Lyons</p></blockquote><p class=\"tei-detail\">Coordinates: 53.290670 -6.535060</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:361"
+  },
+  "anchor": {
+    "text": "Hill of Lyons",
+    "prefix": "en, raising his terrorstricken face, saw that his father’s eyes were full of tears.\n\n The fellows talked together in little groups.\n\n One fellow said:\n\n —They were caught near the ",
+    "suffix": ".\n\n —Who caught them?\n\n —Mr Gleeson and the minister. They were on a car.\n\n The same fellow added:\n\n —A fellow in the higher line told me.\n\n Fleming asked:\n\n —But why did they run ",
+    "start": 58297,
+    "end": 58310,
+    "canonical_text": "Hill of Lyons"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.290670 -6.535060",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

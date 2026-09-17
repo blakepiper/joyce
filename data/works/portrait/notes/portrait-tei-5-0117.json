@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0117",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "LA passage: quidditas",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>quidditas</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:117"
+  },
+  "anchor": {
+    "text": "quidditas",
+    "prefix": "the only synthesis which is logically and esthetically permissible. You see that it is that thing which it is and no other thing. The radiance of which he speaks in the scholastic ",
+    "suffix": ", the whatness of a thing. This supreme quality is felt by the artist when the esthetic image is first conceived in his imagination. The mind in that mysterious instant Shelley lik",
+    "start": 73453,
+    "end": 73462,
+    "canonical_text": "quidditas"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

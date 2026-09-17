@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2902932",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "—Your beloved is here",
+  "html_source": "Oh…<p>Stephen is proudly running through his theories on aesthetics and is surprised by seeing “[his] beloved”. This stops him immediately—an entirely apparent shift from philosophical thoughts to more base dialogue and Stephen simply observing things. It appears that Stephen hasn’t achieved a great deal of comfort in such a situation as this, as he essentially quiets and just observes—\"His mind emptied of theory and courage, lapsed back into a listless peace.\"</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2902932/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Your-beloved-is-here",
+    "original_id": "2902932",
+    "referent_id": 2902932,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "—Your beloved is here",
+    "prefix": "ranly, leaning against a pillar, was picking his teeth with a sharpened match, listening to some companions. Some girls stood near the entrance door. Lynch whispered to Stephen:\n\n ",
+    "suffix": ".\n\n Stephen took his place silently on the step below the group of students, heedless of the rain which fell fast, turning his eyes towards her from time to time. She too stood sil",
+    "start": 78553,
+    "end": 78574,
+    "canonical_text": "—Your beloved is here"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2902932,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

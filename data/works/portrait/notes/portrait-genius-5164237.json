@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-5164237",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Scullion",
+  "html_source": "<p>A servant assigned the most menial kitchen tasks.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5164237/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Scullion",
+    "original_id": "5164237",
+    "referent_id": 5164237,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "scullion",
+    "prefix": "ory. He sat looking at the two prints of butter on his plate but could not eat the damp bread. The tablecloth was damp and limp. But he drank off the hot weak tea which the clumsy ",
+    "suffix": ", girt with a white apron, poured into his cup. He wondered whether the scullion’s apron was damp too or whether all white things were cold and damp. Nasty Roche and Saurin drank c",
+    "start": 10297,
+    "end": 10305,
+    "canonical_text": "scullion"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 5164237,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1644926,
+        "login": "ooggggg",
+        "name": "ooggggg",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

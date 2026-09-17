@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4812342",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "At a hurling match",
+  "html_source": "<p>Hurling, an old game revived by the Gaelic Athletic Association, is played by two teams of fifteen players each. The hurley is a bladed stick. The game is played at great speed and, at its best, with grace and power.</p><p><img src=\"https://images.rapgenius.com/bdfd0a28e3152511f0a74f8e1615eee9.1000x804x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4812342/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/At-a-hurling-match",
+    "original_id": "4812342",
+    "referent_id": 4812342,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "at a hurling match",
+    "prefix": "ed by his confidence and won over to sympathy by the speaker’s simple accent.\n\n —I was away all that day from my own place over in Buttevant—I don’t know if you know where that is—",
+    "suffix": " between the Croke’s Own Boys and the Fearless Thurles and by God, Stevie, that was the hard fight. My first cousin, Fonsy Davin, was stripped to his buff that day minding cool for",
+    "start": 15406,
+    "end": 15424,
+    "canonical_text": "at a hurling match"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4812342,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1356898,
+        "login": "ecbiv",
+        "name": "ecbiv",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

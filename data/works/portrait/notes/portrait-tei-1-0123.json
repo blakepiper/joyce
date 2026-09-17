@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0123",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Stephen Dedalus",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Stephen Dedalus</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:123"
+  },
+  "anchor": {
+    "text": "Stephen Dedalus",
+    "prefix": "\nClongowes Wood College\nSallins\nCounty Kildare\nIreland\nEurope\nThe World\nThe Universe\n\n That was in his writing: and Fleming one night for a cod had written on the opposite page:\n\n ",
+    "suffix": " is my name,\nIreland is my nation.\nClongowes is my dwellingplace\nAnd heaven my expectation.\n\n He read the verses backwards but then they were not poetry. Then he read the flyleaf f",
+    "start": 15770,
+    "end": 15785,
+    "canonical_text": "Stephen Dedalus"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4258953",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "The priests offered up mass once a year, robed in the scarlet of the tongues of fire",
+  "html_source": "<p>Joyce uses sacrificial-related diction, with words such as “tongues of fire,” “offered up,” and “scarlet.”</p><p><img src=\"https://images.rapgenius.com/ed69bb426897035f2f32d1c8b321b8cc.640x446x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4258953/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/The-priests-offered-up-mass-once-a-year-robed-in-the-scarlet-of-the-tongues-of-fire",
+    "original_id": "4258953",
+    "referent_id": 4258953,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "the priests offered up mass once a year, robed in the scarlet of the tongues of fire",
+    "prefix": "ein dwelt the unseen Paraclete, Whose symbols were a dove and a mighty wind, to sin against Whom was a sin beyond forgiveness, the eternal mysterious secret Being to Whom, as God, ",
+    "suffix": ".\n\n The imagery through which the nature and kinship of the Three Persons of the Trinity were darkly shadowed forth in the books of devotion which he read—the Father contemplating ",
+    "start": 3917,
+    "end": 4001,
+    "canonical_text": "the priests offered up mass once a year, robed in the scarlet of the tongues of fire"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4258953,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1254028,
+        "login": "JohnMitchell",
+        "name": "JohnMitchell",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

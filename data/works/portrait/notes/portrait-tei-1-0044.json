@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0044",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Place: Leicester Abbey",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Leicester Abbey</p></blockquote><p class=\"tei-detail\">Coordinates: 52.640379 -1.132563</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:44"
+  },
+  "anchor": {
+    "text": "Leicester Abbey",
+    "prefix": "ey was like that. And there were nice sentences in Doctor Cornwell’s Spelling Book. They were like poetry but they were only sentences to learn the spelling from.\n\n Wolsey died in ",
+    "suffix": "\nWhere the abbots buried him.\nCanker is a disease of plants,\nCancer one of animals.\n\n It would be nice to lie on the hearthrug before the fire, leaning his head upon his hands, and",
+    "start": 5528,
+    "end": 5543,
+    "canonical_text": "Leicester Abbey"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "52.640379 -1.132563",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

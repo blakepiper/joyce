@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2704337",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Had there been flowerbeds",
+  "html_source": "<p>Stephen (probably unknowingly) practices one of Loyola’s Jesuit spiritual exercises, ‘the composition of place’, visualizing scenes in as much detail as possible.</p><p>See, for example, <a href=\"https://archive.org/stream/a588350800loyouoft#page/n131/mode/1up\" rel=\"noopener nofollow\"><em>The Spiritual Exercises of St. Ignatious of Loyola</em>.</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2704337/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Had-there-been-flowerbeds",
+    "original_id": "2704337",
+    "referent_id": 2704337,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "had there been flowerbeds",
+    "prefix": "udy hall than out there in the cold. The sky was pale and cold but there were lights in the castle. He wondered from which window Hamilton Rowan had thrown his hat on the haha and ",
+    "suffix": " at that time under the windows. One day when he had been called to the castle the butler had shown him the marks of the soldiers’ slugs in the wood of the door and had given him a",
+    "start": 4990,
+    "end": 5015,
+    "canonical_text": "had there been flowerbeds"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2704337,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.6666666666666667
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.33333333333333337
+      }
+    ]
+  },
+  "color": "F59627"
+}

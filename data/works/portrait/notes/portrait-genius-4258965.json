@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4258965",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "His prayers and fasts availed him little for the suppression of anger at hearing his mother sneeze or at being disturbed in his devotions.",
+  "html_source": "<p>Demonstrates how serious he is in his devotions now as he hopes his continuous and strict devotion will help him receive forgiveness.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4258965/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/His-prayers-and-fasts-availed-him-little-for-the-suppression-of-anger-at-hearing-his-mother-sneeze-or-at-being-disturbed-in-his-devotions",
+    "original_id": "4258965",
+    "referent_id": 4258965,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "His prayers and fasts availed him little for the suppression of anger at hearing his mother sneeze or at being disturbed in his devotions.",
+    "prefix": "mortally. It surprised him however to find that at the end of his course of intricate piety and selfrestraint he was so easily at the mercy of childish and unworthy imperfections. ",
+    "suffix": " It needed an immense effort of his will to master the impulse which urged him to give outlet to such irritation. Images of the outbursts of trivial anger which he had often noted ",
+    "start": 9405,
+    "end": 9543,
+    "canonical_text": "His prayers and fasts availed him little for the suppression of anger at hearing his mother sneeze or at being disturbed in his devotions."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4258965,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1254039,
+        "login": "HersheyBar",
+        "name": "HersheyBar",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

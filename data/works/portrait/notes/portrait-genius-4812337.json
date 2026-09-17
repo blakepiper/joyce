@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4812337",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Disremember",
+  "html_source": "<p>To remember with a degree of uncertainty; not as blunt as to forget.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4812337/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Disremember",
+    "original_id": "4812337",
+    "referent_id": 4812337,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "disremember",
+    "prefix": "f the poorer jews.\n\n —A thing happened to myself, Stevie, last autumn, coming on winter, and I never told it to a living soul and you are the first person now I ever told it to. I ",
+    "suffix": " if it was October or November. It was October because it was before I came up here to join the matriculation class.\n\n Stephen had turned his smiling eyes towards his friend’s face",
+    "start": 15026,
+    "end": 15037,
+    "canonical_text": "disremember"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4812337,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1356898,
+        "login": "ecbiv",
+        "name": "ecbiv",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

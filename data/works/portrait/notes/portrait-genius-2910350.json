@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2910350",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "—PAX SUPER TOTUM SANGUINARIUM GLOBUM",
+  "html_source": "<p>Latin,<br /><em>Peace over the whole bloody world.</em></p><p>Cranly tries to break the argument between Stephen and MacCann with interjecting here — Notice the narration does not say anything of how no one heeded Cranly’s words as they would have for Temple if he had interjected, such as “No heed was paid to his words.”</p><p><img src=\"https://images.rapgenius.com/9ecb85fff9ea81c890fd31532fc4f7d6.1000x383x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2910350/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Pax-super-totum-sanguinarium-globum",
+    "original_id": "2910350",
+    "referent_id": 2910350,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "—PAX SUPER TOTUM SANGUINARIUM GLOBUM",
+    "prefix": " are above such trivial questions as the question of universal peace.\n\n Cranly raised his head and held the handball between the two students by way of a peaceoffering, saying:\n\n —",
+    "suffix": ".\n\n Stephen, moving away the bystanders, jerked his shoulder angrily in the direction of the Tsar’s image, saying:\n\n —Keep your icon. If we must have a Jesus let us have a legitima",
+    "start": 45350,
+    "end": 45385,
+    "canonical_text": "Pax super totum sanguinarium globum"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2910350,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

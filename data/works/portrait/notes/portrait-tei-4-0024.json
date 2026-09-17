@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-4-0024",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Place: strand",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>strand</p></blockquote><p class=\"tei-detail\">Coordinates: 53.366498 -6.147804</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-4:24"
+  },
+  "anchor": {
+    "text": "strand",
+    "prefix": "d thither; and a faint flame trembled on her cheek.\n\n —Heavenly God! cried Stephen’s soul, in an outburst of profane joy.\n\n He turned away from her suddenly and set off across the ",
+    "suffix": ". His cheeks were aflame; his body was aglow; his limbs were trembling. On and on and on and on he strode, far out over the sands, singing wildly to the sea, crying to greet the ad",
+    "start": 50345,
+    "end": 50351,
+    "canonical_text": "strand"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.366498 -6.147804",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

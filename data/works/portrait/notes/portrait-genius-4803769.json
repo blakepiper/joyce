@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4803769",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "I’m going for blue",
+  "html_source": "<p>Blue is a type of laundry powder.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4803769/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Im-going-for-blue",
+    "original_id": "4803769",
+    "referent_id": 4803769,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "I'm going for blue",
+    "prefix": " your lectures.\n\n —Fill out the place for me to wash, said Stephen.\n\n —Katey, fill out the place for Stephen to wash.\n\n —Boody, fill out the place for Stephen to wash.\n\n —I can’t, ",
+    "suffix": ". Fill it out, you, Maggy.\n\n When the enamelled basin had been fitted into the well of the sink and the old washing glove flung on the side of it he allowed his mother to scrub his",
+    "start": 1293,
+    "end": 1311,
+    "canonical_text": "I’m going for blue"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4803769,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1356898,
+        "login": "ecbiv",
+        "name": "ecbiv",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

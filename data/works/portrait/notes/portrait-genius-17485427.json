@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-17485427",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Fianna",
+  "html_source": "<p>Fenians in Irish, or a rallying cry.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/17485427/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Fianna",
+    "original_id": "17485427",
+    "referent_id": 17485427,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "fianna",
+    "prefix": "d the petition for universal peace, said Stephen, I suppose you will burn that little copybook I saw in your room.\n\n As Davin did not answer, Stephen began to quote:\n\n —Long pace, ",
+    "suffix": "! Right incline, fianna! Fianna, by numbers, salute, one, two!\n\n —That’s a different question, said Davin. I’m an Irish nationalist, first and foremost. But that’s you all out. You",
+    "start": 52186,
+    "end": 52192,
+    "canonical_text": "fianna"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 17485427,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 8753690,
+        "login": "FBA-ML",
+        "name": "FBA-ML",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

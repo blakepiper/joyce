@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0130",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: Covent Garden",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Covent Garden</p></blockquote><p class=\"tei-detail\">Coordinates: 51.511732 -0.123270</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:130"
+  },
+  "anchor": {
+    "text": "Covent Garden",
+    "prefix": "t of a slobbering Stuart. And he tasted in the language of memory ambered wines, dying fallings of sweet airs, the proud pavan, and saw with the eyes of memory kind gentlewomen in ",
+    "suffix": " wooing from their balconies with sucking mouths and the poxfouled wenches of the taverns and young wives that, gaily yielding to their ravishers, clipped and clipped again.\n\n The ",
+    "start": 110317,
+    "end": 110330,
+    "canonical_text": "Covent Garden"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "51.511732 -0.123270",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

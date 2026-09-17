@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2649826",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "Mercedes.",
+  "html_source": "<p>A character from “The Count of Monte Cristo”.</p><p><a href=\"http://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo#Morcerf_family\" rel=\"noopener nofollow\">She</a> is the fiancée of the protagonist, <a href=\"http://en.wikipedia.org/wiki/Edmond_Dant%C3%A8s\" rel=\"noopener nofollow\">Edmond Dantès</a>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2649826/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2/Mercedes",
+    "original_id": "2649826",
+    "referent_id": 2649826,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2-annotated"
+  },
+  "anchor": {
+    "text": "Mercedes.",
+    "prefix": "er in which chocolate is wrapped. When he had broken up this scenery, weary of its tinsel, there would come to his mind the bright picture of Marseilles, of sunny trellises and of ",
+    "suffix": "\n\n Outside Blackrock, on the road that led to the mountains, stood a small whitewashed house in the garden of which grew many rosebushes: and in this house, he told himself, anothe",
+    "start": 5670,
+    "end": 5679,
+    "canonical_text": "Mercedes."
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 2649826,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

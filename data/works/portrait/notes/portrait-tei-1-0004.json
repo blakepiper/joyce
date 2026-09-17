@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0004",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Song: O, the wild rose blossoms On the little green place.",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a song.</p><blockquote><p>O, the wild rose blossoms On the little green place.</p></blockquote><p class=\"tei-detail\">TEI type: song</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:4"
+  },
+  "anchor": {
+    "text": "O, the wild rose blossoms On the little green place.",
+    "prefix": "him that story: his father looked at him through a glass: he had a hairy face.\n\n He was baby tuckoo. The moocow came down the road where Betty Byrne lived: she sold lemon platt.\n\n ",
+    "suffix": "\n\n He sang that song. That was his song.\n\n O, the green wothe botheth.\n\n When you wet the bed, first it is warm then it gets cold. His mother put on the oilsheet. That had the quee",
+    "start": 473,
+    "end": 525,
+    "canonical_text": "O, the wild rose blossoms\nOn the little green place."
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "lg",
+    "attributes": {
+      "type": "song"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "CF2929"
+}

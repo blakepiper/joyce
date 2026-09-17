@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4847212",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Ballock",
+  "html_source": "<p>The testicles of a man or beast; also a vulgar nickname for a parson.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4847212/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Ballock",
+    "original_id": "4847212",
+    "referent_id": 4847212,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "ballock",
+    "prefix": "d together?\n\n —Out with it, Temple! the stout student cried from the steps. Get it out in bits!\n\n Temple turned right and left, making sudden feeble gestures as he spoke.\n\n —I’m a ",
+    "suffix": "s, he said, shaking his head in despair. I am and I know I am. And I admit it that I am.\n\n Dixon patted him lightly on the shoulder and said mildly:\n\n —And it does you every credit",
+    "start": 107068,
+    "end": 107075,
+    "canonical_text": "ballock"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 4847212,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1497331,
+        "login": "SalmaIraqui",
+        "name": "SalmaIraqui",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

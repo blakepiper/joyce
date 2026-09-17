@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2694350",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Square ditch",
+  "html_source": "<p>The consensus has been that this slimy water was an open sewer with human waste, which would make it a terrible health hazard even for those more-primitive times. (<a href=\"http://faculty.gvsu.edu/websterm/Portrait.htm\" rel=\"noopener nofollow\">http://faculty.gvsu.edu/websterm/Portrait.htm</a>)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2694350/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Square-ditch",
+    "original_id": "2694350",
+    "referent_id": 2694350,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "square ditch",
+    "prefix": "e the fire, leaning his head upon his hands, and think on those sentences. He shivered as if he had cold slimy water next his skin. That was mean of Wells to shoulder him into the ",
+    "suffix": " because he would not swop his little snuffbox for Wells’s seasoned hacking chestnut, the conqueror of forty. How cold and slimy the water had been! A fellow had once seen a big ra",
+    "start": 5855,
+    "end": 5867,
+    "canonical_text": "square ditch"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 2694350,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

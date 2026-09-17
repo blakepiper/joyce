@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2683989",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Cachou",
+  "html_source": "<p>brand of breath mint</p><p><img src=\"https://images.rapgenius.com/cef8882a51c45d4a0def50ebdeb08a88.729x698x1.jpg\" alt=\"\" /></p><p><a href=\"http://www.jstor.org/discover/10.2307/25473675?uid=3739536&amp;uid=2129&amp;uid=2&amp;uid=70&amp;uid=4&amp;uid=3739256&amp;sid=21103290596727\" rel=\"noopener nofollow\">More here</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2683989/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Cachou",
+    "original_id": "2683989",
+    "referent_id": 2683989,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "cachou",
+    "prefix": "ante.\n\n Dante had two brushes in her press. The brush with the maroon velvet back was for Michael Davitt and the brush with the green velvet back was for Parnell. Dante gave him a ",
+    "suffix": " every time he brought her a piece of tissue paper.\n\n The Vances lived in number seven. They had a different father and mother. They were Eileen’s father and mother. When they were",
+    "start": 1193,
+    "end": 1199,
+    "canonical_text": "cachou"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2683989,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.951219512195122
+      },
+      {
+        "id": 27699,
+        "login": "Scottish-Lady",
+        "name": "Scottish-Lady",
+        "role": "contributor",
+        "attribution": 0.04878048780487805
+      }
+    ]
+  },
+  "color": "F59627"
+}

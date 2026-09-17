@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0335",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Quotation: Woe be to the man by whom the scandal cometh!",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a quotation.</p><blockquote><p>Woe be to the man by whom the scandal cometh!</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:335"
+  },
+  "anchor": {
+    "text": "Woe be to the man by whom the scandal cometh!",
+    "prefix": "him at the bidding of the English people?\n\n —He was no longer worthy to lead, said Dante. He was a public sinner.\n\n —We are all sinners and black sinners, said Mr Casey coldly.\n\n —",
+    "suffix": " said Mrs Riordan. It would be better for him that a millstone were tied about his neck and that he were cast into the depths of the sea rather than that he should scandalise one o",
+    "start": 44929,
+    "end": 44974,
+    "canonical_text": "Woe be to the man by whom the scandal cometh!"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "quote",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

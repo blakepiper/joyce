@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-5303452",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "The cheers died away in the soft grey air.",
+  "html_source": "<p>This makes the audience question whether or not Stephen’s moment of praise actually happened. It seems as if it may have been just a fantasy or a dream of Stephen’s.</p><p><a href=\"https://www.youtube.com/watch?v=hHRNSeuvzlM\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=hHRNSeuvzlM</a><br />Dream On by Aerosmith</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5303452/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/The-cheers-died-away-in-the-soft-grey-air",
+    "original_id": "5303452",
+    "referent_id": 5303452,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "The cheers died away in the soft grey air.",
+    "prefix": "ning up and crying:\n\n —Hurroo!\n\n And they gave three groans for Baldyhead Dolan and three cheers for Conmee and they said he was the decentest rector that was ever in Clongowes.\n\n ",
+    "suffix": " He was alone. He was happy and free: but he would not be anyway proud with Father Dolan. He would be very quiet and obedient: and he wished that he could do something kind for him",
+    "start": 92934,
+    "end": 92976,
+    "canonical_text": "The cheers died away in the soft grey air."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5303452,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1507006,
+        "login": "Pipes03",
+        "name": "Pipes03",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

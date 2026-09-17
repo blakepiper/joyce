@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2649702",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Fecked",
+  "html_source": "<p>This means “stolen” in this context, “Because they had <em>stolen</em> cash”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2649702/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Fecked",
+    "original_id": "2649702",
+    "referent_id": 2649702,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "fecked",
+    "prefix": "a car.\n\n The same fellow added:\n\n —A fellow in the higher line told me.\n\n Fleming asked:\n\n —But why did they run away, tell us?\n\n —I know why, Cecil Thunder said. Because they had ",
+    "suffix": " cash out of the rector’s room.\n\n —Who fecked it?\n\n —Kickham’s brother. And they all went shares in it.\n\n —But that was stealing. How could they have done that?\n\n —A fat lot you kn",
+    "start": 58557,
+    "end": 58563,
+    "canonical_text": "fecked"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 2649702,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 0.8181818181818181
+      },
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.18181818181818182
+      }
+    ]
+  },
+  "color": "F59627"
+}

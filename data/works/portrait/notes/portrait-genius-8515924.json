@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-8515924",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Dedalus.",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Daedalus\" rel=\"noopener nofollow\">Daedalus</a> was a character from Greek Mythology, known for—among other things—building the labrynth.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8515924/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Dedalus",
+    "original_id": "8515924",
+    "referent_id": 8515924,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Dedalus.",
+    "prefix": "amper in the refectory. Nasty Roche had big hands. He called the Friday pudding dog-in-the-blanket. And one day he had asked:\n\n —What is your name?\n\n Stephen had answered: Stephen ",
+    "suffix": "\n\n Then Nasty Roche had said:\n\n —What kind of a name is that?\n\n And when Stephen had not been able to answer Nasty Roche had asked:\n\n —What is your father?\n\n Stephen had answered:\n",
+    "start": 2568,
+    "end": 2576,
+    "canonical_text": "Dedalus."
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 8515924,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.6
+      },
+      {
+        "id": 2718418,
+        "login": "RebeccaSenteney",
+        "name": "RebeccaSenteney",
+        "role": null,
+        "attribution": 0.4
+      }
+    ]
+  },
+  "color": "F59627"
+}

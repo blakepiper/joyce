@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2910198",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "A sharp Ulster voice said from the bench below Stephen:",
+  "html_source": "<p><a href=\"http://en.wikipedia.org/wiki/Ulster\" rel=\"noopener nofollow\">Ulster Ireland</a> is the predominately protestant region in northern Ireland controlled by England.</p><p><img src=\"https://images.rapgenius.com/745c52e572f2d0aa1a90e7a6529e3729.352x360x1.gif\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2910198/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/A-sharp-ulster-voice-said-from-the-bench-below-stephen",
+    "original_id": "2910198",
+    "referent_id": 2910198,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "A sharp Ulster voice said from the bench below Stephen:",
+    "prefix": "is wound on the ebonite bobbins just where my finger is. If it were wound single an extra current would be induced in the coils. The bobbins are saturated in hot paraffin wax...\n\n ",
+    "suffix": "\n\n —Are we likely to be asked questions on applied science?\n\n The professor began to juggle gravely with the terms pure science and applied science. A heavybuilt student, wearing g",
+    "start": 37348,
+    "end": 37403,
+    "canonical_text": "A sharp Ulster voice said from the bench below Stephen:"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2910198,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

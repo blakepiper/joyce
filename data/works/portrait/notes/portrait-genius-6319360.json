@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-6319360",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "AD MAJOREM DEI GLORIAM!",
+  "html_source": "<p>“For the greater glory of God.”  Motto of Society of Jesus.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6319360/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3/Ad-majorem-dei-gloriam",
+    "original_id": "6319360",
+    "referent_id": 6319360,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3-annotated"
+  },
+  "anchor": {
+    "text": "AD MAJOREM DEI GLORIAM!",
+    "prefix": "s before him, went on:\n\n —He had the faith in him that moves mountains. Ten thousand souls won for God in a single month! That is a true conqueror, true to the motto of our order: ",
+    "suffix": " A saint who has great power in heaven, remember: power to intercede for us in our grief; power to obtain whatever we pray for if it be for the good of our souls; power above all t",
+    "start": 12407,
+    "end": 12430,
+    "canonical_text": "ad majorem Dei gloriam!"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 6319360,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1507643,
+        "login": "micnik",
+        "name": "micnik",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

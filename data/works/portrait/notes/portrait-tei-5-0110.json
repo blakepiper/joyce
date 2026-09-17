@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0110",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: Glenmalure",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Glenmalure</p></blockquote><p class=\"tei-detail\">Coordinates: 52.957720 -6.354370</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:110"
+  },
+  "anchor": {
+    "text": "Glenmalure",
+    "prefix": "go out, said Stephen drily, to make a stew.\n\n The fat student laughed indulgently and said:\n\n —We are all highly respectable people in the field club. Last Saturday we went out to ",
+    "suffix": ", seven of us.\n\n —With women, Donovan? said Lynch.\n\n Donovan again laid his hand on his chest and said:\n\n —Our end is the acquisition of knowledge.\n\n Then he said quickly:\n\n —I hea",
+    "start": 69239,
+    "end": 69249,
+    "canonical_text": "Glenmalure"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "52.957720 -6.354370",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

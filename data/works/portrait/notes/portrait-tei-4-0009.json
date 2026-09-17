@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-4-0009",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "LA passage: Ite, missa est",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>Ite, missa est</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-4:9"
+  },
+  "anchor": {
+    "text": "Ite, missa est",
+    "prefix": "ice had been accomplished, to stand as deacon in a dalmatic of cloth of gold on the step below the celebrant, his hands joined and his face towards the people, and sing the chant, ",
+    "suffix": ". If ever he had seen himself celebrant it was as in the pictures of the mass in his child’s massbook, in a church without worshippers, save for the angel of the sacrifice, at a ba",
+    "start": 24513,
+    "end": 24526,
+    "canonical_text": "Ite missa est"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

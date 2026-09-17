@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0137",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: Leeson Park",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Leeson Park</p></blockquote><p class=\"tei-detail\">Coordinates: 53.328562 -6.251897</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:137"
+  },
+  "anchor": {
+    "text": "Leeson Park",
+    "prefix": " wholly as I can, using for my defence the only arms I allow myself to use—silence, exile and cunning.\n\n Cranly seized his arm and steered him round so as to lead him back towards ",
+    "suffix": ". He laughed almost slily and pressed Stephen’s arm with an elder’s affection.\n\n —Cunning indeed! he said. Is it you? You poor poet, you!\n\n —And you made me confess to you, Stephen",
+    "start": 134642,
+    "end": 134653,
+    "canonical_text": "Leeson Park"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.328562 -6.251897",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

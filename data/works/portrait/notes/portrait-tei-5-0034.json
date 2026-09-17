@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0034",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "LA passage: implere ollam denariorum",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>implere ollam denariorum</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:34"
+  },
+  "anchor": {
+    "text": "implere ollam denariorum",
+    "prefix": " and secessions in Roman history were handed on to him in the trite words in tanto discrimine and he had tried to peer into the social life of the city of cities through the words ",
+    "suffix": " which the rector had rendered sonorously as the filling of a pot with denaries. The pages of his timeworn Horace never felt cold to the touch even when his own fingers were cold; ",
+    "start": 10614,
+    "end": 10638,
+    "canonical_text": "implere ollam denariorum"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

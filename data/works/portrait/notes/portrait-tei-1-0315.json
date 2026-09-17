@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0315",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Mrs Dedalus",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Mrs Dedalus</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:315"
+  },
+  "anchor": {
+    "text": "Mrs Dedalus",
+    "prefix": "it? asked Mr Dedalus.\n\n —Certainly, said Dante. It is a question of public morality. A priest would not be a priest if he did not tell his flock what is right and what is wrong.\n\n ",
+    "suffix": " laid down her knife and fork, saying:\n\n —For pity sake and for pity sake let us have no political discussion on this day of all days in the year.\n\n —Quite right, ma’am, said uncle",
+    "start": 43643,
+    "end": 43654,
+    "canonical_text": "Mrs Dedalus"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

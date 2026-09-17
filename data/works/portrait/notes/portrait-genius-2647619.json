@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2647619",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "—I am no protestant, I tell you again, said Mr Casey, flushing.",
+  "html_source": "<p>There was/is a great deal of tension between <a href=\"http://en.wikipedia.org/wiki/Protestantism_in_Ireland\" rel=\"noopener nofollow\">Protestant Irish</a> and <a href=\"http://en.wikipedia.org/wiki/Catholic_Irish\" rel=\"noopener nofollow\">Catholic Irish</a>. (Such protestants are “orange,” and such Catholics are “green”)</p><p>The <a href=\"http://en.wikipedia.org/wiki/Northern_Ireland\" rel=\"noopener nofollow\">northern part of Ireland</a> ruled by England is primarily protestant, where the remainder is predominately Catholic.</p><p><img src=\"https://images.rapgenius.com/27e73a3245f4dbfb708bd0456147a62d.466x350x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2647619/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/I-am-no-protestant-i-tell-you-again-said-mr-casey-flushing",
+    "original_id": "2647619",
+    "referent_id": 2647619,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "—I am no protestant, I tell you again, said Mr Casey, flushing.",
+    "prefix": "ally. The blackest protestant in the land would not speak the language I have heard this evening.\n\n Mr Dedalus began to sway his head to and fro, crooning like a country singer.\n\n ",
+    "suffix": "\n\n Mr Dedalus, still crooning and swaying his head, began to sing in a grunting nasal tone:\n\n O, come all you Roman catholics\nThat never went to mass.\n\n He took up his knife and fo",
+    "start": 49669,
+    "end": 49732,
+    "canonical_text": "—I am no protestant, I tell you again, said Mr Casey, flushing."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2647619,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

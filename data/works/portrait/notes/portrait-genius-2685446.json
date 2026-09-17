@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2685446",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Swarming with boys",
+  "html_source": "<p><a href=\"http://en.wikipedia.org/wiki/Clongowes_Wood_College\" rel=\"noopener nofollow\">Clongowes</a> had about 300 pupils in 1888.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2685446/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Swarming-with-boys",
+    "original_id": "2685446",
+    "referent_id": 2685446,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "swarming with boys",
+    "prefix": "come and pull out his eyes.—\n\n Pull out his eyes,\nApologise,\nApologise,\nPull out his eyes.\n\nApologise,\nPull out his eyes,\nPull out his eyes,\nApologise.\n\n The wide playgrounds were ",
+    "suffix": ". All were shouting and the prefects urged them on with strong cries. The evening air was pale and chilly and after every charge and thud of the footballers the greasy leather orb ",
+    "start": 1714,
+    "end": 1732,
+    "canonical_text": "swarming with boys"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2685446,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

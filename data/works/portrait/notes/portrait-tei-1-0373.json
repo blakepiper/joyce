@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0373",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Neologism: nocoloured",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a neologism.</p><blockquote><p>nocoloured</p></blockquote><p class=\"tei-detail\">TEI type: neologism</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:373"
+  },
+  "anchor": {
+    "text": "nocoloured",
+    "prefix": "d his eyes in wonder and saw for a moment Father Dolan’s whitegrey not young face, his baldy whitegrey head with fluff at the sides of it, the steel rims of his spectacles and his ",
+    "suffix": " eyes looking through the glasses. Why did he say he knew that trick?\n\n —Lazy idle little loafer! cried the prefect of studies. Broke my glasses! An old schoolboy trick! Out with y",
+    "start": 76791,
+    "end": 76802,
+    "canonical_text": "no-coloured"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "type": "neologism"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "9C632A"
+}

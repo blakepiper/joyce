@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-2-0025",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "Place: Jones's Road",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Jones&#x27;s Road</p></blockquote><p class=\"tei-detail\">Coordinates: 53.360891 -6.251230</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-2:25"
+  },
+  "anchor": {
+    "text": "Jones's Road",
+    "prefix": "ire fence.\n\n —Admit that Byron was no good.\n\n —No.\n\n —Admit.\n\n —No.\n\n —Admit.\n\n —No. No.\n\n At last after a fury of plunges he wrenched himself free. His tormentors set off towards ",
+    "suffix": ", laughing and jeering at him, while he, half blinded with tears, stumbled on, clenching his fists madly and sobbing.\n\n While he was still repeating the Confiteor amid the indulgen",
+    "start": 42537,
+    "end": 42549,
+    "canonical_text": "Jones’s Road"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.360891 -6.251230",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

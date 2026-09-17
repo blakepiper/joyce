@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-6326013",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Concertina",
+  "html_source": "<p>Concertina is a reed instrument, which is similar to the accordion. It is used in classical music, especially the traditional music of Ireland. It is also used in polka, and some tango music.</p><p><img src=\"https://images.rapgenius.com/3c0b26f53a6200ff8bb29c7de06e04e8.873x778x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6326013/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Concertina",
+    "original_id": "6326013",
+    "referent_id": 6326013,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "concertina",
+    "prefix": "of mild evening air. Towards Findlater’s church a quartet of young men were striding along with linked arms, swaying their heads and stepping to the agile melody of their leader’s ",
+    "suffix": ". The music passed in an instant, as the first bars of sudden music always did, over the fantastic fabrics of his mind, dissolving them painlessly and noiselessly as a sudden wave ",
+    "start": 27452,
+    "end": 27462,
+    "canonical_text": "concertina"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6326013,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1154950,
+        "login": "SebastianEisbach",
+        "name": "SebastianEisbach",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

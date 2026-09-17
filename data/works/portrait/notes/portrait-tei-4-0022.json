@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-4-0022",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Place: Howth",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Howth</p></blockquote><p class=\"tei-detail\">Coordinates: 53.378569 -6.057013</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-4:22"
+  },
+  "anchor": {
+    "text": "Howth",
+    "prefix": "ning would deepen above the sea, night fall upon the plains, dawn glimmer before the wanderer and show him strange fields and hills and faces. Where?\n\n He looked northward towards ",
+    "suffix": ". The sea had fallen below the line of seawrack on the shallow side of the breakwater and already the tide was running out fast along the foreshore. Already one long oval bank of s",
+    "start": 47121,
+    "end": 47126,
+    "canonical_text": "Howth"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.378569 -6.057013",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

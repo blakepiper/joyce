@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-2-0027",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "Place: Jones's Road",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Jones&#x27;s Road</p></blockquote><p class=\"tei-detail\">Coordinates: 53.360891 -6.251230</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-2:27"
+  },
+  "anchor": {
+    "text": "Jones's Road",
+    "prefix": "orth no anger from him. All the descriptions of fierce love and hatred which he had met in books had seemed to him therefore unreal. Even that night as he stumbled homewards along ",
+    "suffix": " he had felt that some power was divesting him of that suddenwoven anger as easily as a fruit is divested of its soft ripe peel.\n\n He remained standing with his two companions at t",
+    "start": 43195,
+    "end": 43207,
+    "canonical_text": "Jones’s Road"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.360891 -6.251230",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

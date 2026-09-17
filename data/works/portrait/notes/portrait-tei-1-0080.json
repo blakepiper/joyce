@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0080",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Fleming",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Fleming</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:80"
+  },
+  "anchor": {
+    "text": "Fleming",
+    "prefix": " to be in bed.\n\n He drank another cup of hot tea and Fleming said:\n\n —What’s up? Have you a pain or what’s up with you?\n\n —I don’t know, Stephen said.\n\n —Sick in your breadbasket, ",
+    "suffix": " said, because your face looks white. It will go away.\n\n —O yes, Stephen said.\n\n But he was not sick there. He thought that he was sick in his heart if you could be sick in that pl",
+    "start": 11074,
+    "end": 11081,
+    "canonical_text": "Fleming"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4257851",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Stephen followed also with his ears the accents and intervals of the priest’s voice as he spoke gravely and cordially of indifferent themes, the vacation which had just ended, the colleges of the order abroad, the transference of masters.",
+  "html_source": "<p>This sentence highlights Stephen’s use of his senses especially hearing. He focuses on how the Priest is talking, not what the Priest is saying.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4257851/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Stephen-followed-also-with-his-ears-the-accents-and-intervals-of-the-priests-voice-as-he-spoke-gravely-and-cordially-of-indifferent-themes-the-vacation-which-had-just-ended-the-colleges-of-the-order-abroad-the-transference-of-masters",
+    "original_id": "4257851",
+    "referent_id": 4257851,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "Stephen followed also with his ears the accents and intervals of the priest's voice as he spoke gravely and cordially of indifferent themes, the vacation which had just ended, the colleges of the order abroad, the transference of masters.",
+    "prefix": "t movements of the priestly fingers. The priest’s face was in total shadow, but the waning daylight from behind him touched the deeply grooved temples and the curves of the skull. ",
+    "suffix": " The grave and cordial voice went on easily with its tale and in the pauses Stephen felt bound to set it on again with respectful questions. He knew that the tale was a prelude and",
+    "start": 14615,
+    "end": 14853,
+    "canonical_text": "Stephen followed also with his ears the accents and intervals of the priest’s voice as he spoke gravely and cordially of indifferent themes, the vacation which had just ended, the colleges of the order abroad, the transference of masters."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4257851,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1253612,
+        "login": "AnnieGrohovsky",
+        "name": "AnnieGrohovsky",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

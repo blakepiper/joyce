@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0069",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: Stephen's Green",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Stephen&#x27;s Green</p></blockquote><p class=\"tei-detail\">Coordinates: 53.338174 -6.259119</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:69"
+  },
+  "anchor": {
+    "text": "Stephen's Green",
+    "prefix": "There were four French delegates in a brake and one, a plump smiling young man, held, wedged on a stick, a card on which were printed the words: Vive l’Irlande!\n\n But the trees in ",
+    "suffix": " were fragrant of rain and the rainsodden earth gave forth its mortal odour, a faint incense rising upward through the mould from many hearts. The soul of the gallant venal city wh",
+    "start": 20196,
+    "end": 20211,
+    "canonical_text": "Stephen’s Green"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.338174 -6.259119",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

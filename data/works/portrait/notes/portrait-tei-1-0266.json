@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0266",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Dante",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Dante</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:266"
+  },
+  "anchor": {
+    "text": "Dante",
+    "prefix": "pen and for the servants to come in, holding the big dishes covered with their heavy metal covers.\n\n All were waiting: uncle Charles, who sat far away in the shadow of the window, ",
+    "suffix": " and Mr Casey, who sat in the easychairs at either side of the hearth, Stephen, seated on a chair between them, his feet resting on the toasted boss. Mr Dedalus looked at himself i",
+    "start": 36963,
+    "end": 36968,
+    "canonical_text": "Dante"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

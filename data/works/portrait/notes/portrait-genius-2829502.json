@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2829502",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "—IN VITAM ETERNAM. AMEN",
+  "html_source": "<p>From Latin, <em>In eternal life. Amen</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2829502/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3/In-vitam-eternam-amen",
+    "original_id": "2829502",
+    "referent_id": 2829502,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3-annotated"
+  },
+  "anchor": {
+    "text": "—IN VITAM ETERNAM. AMEN",
+    "prefix": "cant to communicant.\n\n —Corpus Domini nostri.\n\n Could it be? He knelt there sinless and timid; and he would hold upon his tongue the host and God would enter his purified body.\n\n —",
+    "suffix": ".\n\n Another life! A life of grace and virtue and happiness! It was true. It was not a dream from which he would wake. The past was past.\n\n —Corpus Domini nostri.\n\n The ciborium had",
+    "start": 90254,
+    "end": 90276,
+    "canonical_text": "In vitam eternam. Amen"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2829502,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

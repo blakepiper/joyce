@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-4-0014",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Place: Tolka",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Tolka</p></blockquote><p class=\"tei-detail\">Coordinates: 53.361845 -6.242480</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-4:14"
+  },
+  "anchor": {
+    "text": "Tolka",
+    "prefix": " lapse of his soul, as it would be at some instant to come, falling, falling, but not yet fallen, still unfallen, but about to fall.\n\n He crossed the bridge over the stream of the ",
+    "suffix": " and turned his eyes coldly for an instant towards the faded blue shrine of the Blessed Virgin which stood fowl-wise on a pole in the middle of a hamshaped encampment of poor cotta",
+    "start": 31710,
+    "end": 31715,
+    "canonical_text": "Tolka"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.361845 -6.242480",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

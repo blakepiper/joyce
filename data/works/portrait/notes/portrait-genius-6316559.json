@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-6316559",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Refectory",
+  "html_source": "<p>A refectory is a large dining hall.</p><p><img src=\"https://images.rapgenius.com/401dfa0f842ceed94d0540be16302794.954x524x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6316559/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Refectory",
+    "original_id": "6316559",
+    "referent_id": 6316559,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "refectory",
+    "prefix": "ck in that place. Fleming was very decent to ask him. He wanted to cry. He leaned his elbows on the table and shut and opened the flaps of his ears. Then he heard the noise of the ",
+    "suffix": " every time he opened the flaps of his ears. It made a roar like a train at night. And when he closed the flaps the roar was shut off like a train going into a tunnel. That night a",
+    "start": 11428,
+    "end": 11437,
+    "canonical_text": "refectory"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 6316559,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1509340,
+        "login": "abbyburridge",
+        "name": "abbyburridge",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2724467",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "And oglings of the barmaids with whom his father flirted,",
+  "html_source": "<p>Remember that his father is married, and that he is with Stephen in all of these encounters… Pretty awkward for Stephen…</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2724467/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2/And-oglings-of-the-barmaids-with-whom-his-father-flirted",
+    "original_id": "2724467",
+    "referent_id": 2724467,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2-annotated"
+  },
+  "anchor": {
+    "text": "and oglings of the barmaids with whom his father flirted,",
+    "prefix": "gn of his father’s drinking bout of the night before by moving his chair and coughing. One humiliation had succeeded another—the false smiles of the market sellers, the curvetings ",
+    "suffix": " the compliments and encouraging words of his father’s friends. They had told him that he had a great look of his grandfather and Mr Dedalus had agreed that he was an ugly likeness",
+    "start": 65185,
+    "end": 65242,
+    "canonical_text": "and oglings of the barmaids with whom his father flirted,"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2724467,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

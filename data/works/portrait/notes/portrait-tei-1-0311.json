@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0311",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Mr Casey",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Mr Casey</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:311"
+  },
+  "anchor": {
+    "text": "Mr Casey",
+    "prefix": " took a fool’s advice they would confine their attention to religion.\n\n —It is religion, Dante said. They are doing their duty in warning the people.\n\n —We go to the house of God, ",
+    "suffix": " said, in all humility to pray to our Maker and not to hear election addresses.\n\n —It is religion, Dante said again. They are right. They must direct their flocks.\n\n —And preach po",
+    "start": 43249,
+    "end": 43257,
+    "canonical_text": "Mr Casey"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

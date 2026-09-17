@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0347",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Place: Arklow",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Arklow</p></blockquote><p class=\"tei-detail\">Coordinates: 52.797693 -6.159929</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:347"
+  },
+  "anchor": {
+    "text": "Arklow",
+    "prefix": "and thin and cold and soft. That was ivory: a cold white thing. That was the meaning of Tower of Ivory.\n\n —The story is very short and sweet, Mr Casey said. It was one day down in ",
+    "suffix": ", a cold bitter day, not long before the chief died. May God have mercy on him!\n\n He closed his eyes wearily and paused. Mr Dedalus took a bone from his plate and tore some meat fr",
+    "start": 51427,
+    "end": 51433,
+    "canonical_text": "Arklow"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "52.797693 -6.159929",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2694520",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Knew more",
+  "html_source": "<p>Another comparative ranking, to go with age and social standing</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2694520/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Knew-more",
+    "original_id": "2694520",
+    "referent_id": 2694520,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "knew more",
+    "prefix": "t of things. She had taught him where the Mozambique Channel was and what was the longest river in America and what was the name of the highest mountain in the moon. Father Arnall ",
+    "suffix": " than Dante because he was a priest but both his father and uncle Charles said that Dante was a clever woman and a wellread woman. And when Dante made that noise after dinner and t",
+    "start": 6453,
+    "end": 6462,
+    "canonical_text": "knew more"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2694520,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0156",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Place: Sallins",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Sallins</p></blockquote><p class=\"tei-detail\">Coordinates: 53.251067 -6.665231</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:156"
+  },
+  "anchor": {
+    "text": "Sallins",
+    "prefix": "ed in Clane, a fellow said: there were little cottages there and he had seen a woman standing at the halfdoor of a cottage with a child in her arms, as the cars had come past from ",
+    "suffix": ". It would be lovely to sleep for one night in that cottage before the fire of smoking turf, in the dark lit by the fire, in the warm dark, breathing the smell of the peasants, air",
+    "start": 20090,
+    "end": 20097,
+    "canonical_text": "Sallins"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.251067 -6.665231",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

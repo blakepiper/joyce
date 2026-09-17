@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0235",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Neologism: rabbit- skin",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a neologism.</p><blockquote><p>rabbit- skin</p></blockquote><p class=\"tei-detail\">TEI type: neologism</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:235"
+  },
+  "anchor": {
+    "text": "rabbit- skin",
+    "prefix": " old dress. It seemed to him a solemn time: and he wondered if that was the time when the fellows in Clongowes wore blue coats with brass buttons and yellow waistcoats and caps of ",
+    "suffix": " and drank beer like grownup people and kept greyhounds of their own to course the hares with.\n\n He looked at the window and saw that the daylight had grown weaker. There would be ",
+    "start": 34509,
+    "end": 34519,
+    "canonical_text": "rabbitskin"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "type": "neologism"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "9C632A"
+}

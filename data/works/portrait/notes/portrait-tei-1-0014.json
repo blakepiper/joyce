@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0014",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Vances",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Vances</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:14"
+  },
+  "anchor": {
+    "text": "Vances",
+    "prefix": "aroon velvet back was for Michael Davitt and the brush with the green velvet back was for Parnell. Dante gave him a cachou every time he brought her a piece of tissue paper.\n\n The ",
+    "suffix": " lived in number seven. They had a different father and mother. They were Eileen’s father and mother. When they were grown up he was going to marry Eileen. He hid under the table. ",
+    "start": 1257,
+    "end": 1263,
+    "canonical_text": "Vances"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

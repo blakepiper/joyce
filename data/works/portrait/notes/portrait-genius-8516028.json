@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-8516028",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Cold and then hot.",
+  "html_source": "<p>The sequential juxtaposition of “cold” and “hot” runs throughout the chapter, and this moment directly recalls the bed wetting right at the beginning of the novel.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8516028/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Cold-and-then-hot",
+    "original_id": "8516028",
+    "referent_id": 8516028,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "cold and then hot.",
+    "prefix": "asin. And when it had all gone down slowly the hole in the basin had made a sound like that: suck. Only louder.\n\n To remember that and the white look of the lavatory made him feel ",
+    "suffix": " There were two cocks that you turned and water came out: cold and hot. He felt cold and then a little hot: and he could see the names printed on the cocks. That was a very queer t",
+    "start": 7781,
+    "end": 7799,
+    "canonical_text": "cold and then hot."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8516028,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.6923076923076923
+      },
+      {
+        "id": 2718418,
+        "login": "RebeccaSenteney",
+        "name": "RebeccaSenteney",
+        "role": null,
+        "attribution": 0.3076923076923077
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2814229",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "DEPART FROM ME, YE CURSED, INTO EVERLASTING FIRE WHICH WAS PREPARED FOR THE DEVIL AND HIS ANGELS.",
+  "html_source": "<p>Reference <a href=\"http://biblehub.com/matthew/25-41.htm\" rel=\"noopener nofollow\">Matthew 25:41</a>,</p><blockquote><p>Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels:</p></blockquote><p><em>(via the <a href=\"http://en.wikipedia.org/wiki/King_James_Version\" rel=\"noopener nofollow\">King James Version</a>)</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2814229/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3/Depart-from-me-ye-cursed-into-everlasting-fire-which-was-prepared-for-the-devil-and-his-angels",
+    "original_id": "2814229",
+    "referent_id": 2814229,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3-annotated"
+  },
+  "anchor": {
+    "text": "DEPART FROM ME, YE CURSED, INTO EVERLASTING FIRE WHICH WAS PREPARED FOR THE DEVIL AND HIS ANGELS.",
+    "prefix": " appeal. He calls the just to His side, bidding them enter into the kingdom, the eternity of bliss prepared for them. The unjust He casts from Him, crying in His offended majesty: ",
+    "suffix": " O, what agony then for the miserable sinners! Friend is torn apart from friend, children are torn from their parents, husbands from their wives. The poor sinner holds out his arms",
+    "start": 24667,
+    "end": 24764,
+    "canonical_text": "Depart from me, ye cursed, into everlasting fire which was prepared for the devil and his angels."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2814229,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-2-0016",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "Place: Marseilles",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Marseilles</p></blockquote><p class=\"tei-detail\">Coordinates: 43.295207 5.364077</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-2:16"
+  },
+  "anchor": {
+    "text": "Marseilles",
+    "prefix": "in him the unrest which had sent him wandering in the evening from garden to garden in search of Mercedes. And amid this new bustling life he might have fancied himself in another ",
+    "suffix": " but that he missed the bright sky and the sun-warmed trellises of the wineshops. A vague dissatisfaction grew up within him as he looked on the quays and on the river and on the l",
+    "start": 13743,
+    "end": 13753,
+    "canonical_text": "Marseilles"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "43.295207 5.364077",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

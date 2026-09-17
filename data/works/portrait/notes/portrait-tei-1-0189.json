@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0189",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Father Minister",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Father Minister</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:189"
+  },
+  "anchor": {
+    "text": "Father Minister",
+    "prefix": "re dead they lay on their sides. Their coats dried then. They were only dead things.\n\n The prefect was there again and it was his voice that was saying that he was to get up, that ",
+    "suffix": " had said he was to get up and dress and go to the infirmary. And while he was dressing himself as quickly as he could the prefect said:\n\n —We must pack off to Brother Michael beca",
+    "start": 27794,
+    "end": 27809,
+    "canonical_text": "Father Minister"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

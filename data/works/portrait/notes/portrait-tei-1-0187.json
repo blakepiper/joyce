@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0187",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Wolsey",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Wolsey</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:187"
+  },
+  "anchor": {
+    "text": "Wolsey",
+    "prefix": "o then out on the playgrounds in the evening light, creeping from point to point on the fringe of his line, a heavy bird flying low through the grey light. Leicester Abbey lit up. ",
+    "suffix": " died there. The abbots buried him themselves.\n\n It was not Wells’s face, it was the prefect’s. He was not foxing. No, no: he was sick really. He was not foxing. And he felt the pr",
+    "start": 27034,
+    "end": 27040,
+    "canonical_text": "Wolsey"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

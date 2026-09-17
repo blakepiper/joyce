@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0024",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: Europe",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Europe</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:24"
+  },
+  "anchor": {
+    "text": "Europe",
+    "prefix": " an antisocial being, wrapped up in yourself. I’m not. I’m a democrat and I’ll work and act for social liberty and equality among all classes and sexes in the United States of the ",
+    "suffix": " of the future.\n\n Eleven! Then he was late for that lecture too. What day of the week was it? He stopped at a newsagent’s to read the headline of a placard. Thursday. Ten to eleven",
+    "start": 6710,
+    "end": 6716,
+    "canonical_text": "Europe"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

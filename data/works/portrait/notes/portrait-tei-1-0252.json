@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0252",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Mr Casey",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Mr Casey</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:252"
+  },
+  "anchor": {
+    "text": "Mr Casey",
+    "prefix": " and then, parting his coat tails, stood with his back to the glowing fire: and still from time to time he withdrew a hand from his coat tail to wax out one of his moustache ends. ",
+    "suffix": " leaned his head to one side and, smiling, tapped the gland of his neck with his fingers. And Stephen smiled too for he knew now that it was not true that Mr Casey had a purse of s",
+    "start": 37395,
+    "end": 37403,
+    "canonical_text": "Mr Casey"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2649746",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Ferulae",
+  "html_source": "<p>“The stroke of a cane.”</p><p>—<a href=\"http://en.wiktionary.org/wiki/ferulae\" rel=\"noopener nofollow\">Wiktionary</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2649746/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Ferulae",
+    "original_id": "2649746",
+    "referent_id": 2649746,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "ferulae",
+    "prefix": "nd sending us up for six and eight every minute.\n\n —Yes, said Wells. And old Barrett has a new way of twisting the note so that you can’t open it and fold it again to see how many ",
+    "suffix": " you are to get. I won’t come back too.\n\n —Yes, said Cecil Thunder, and the prefect of studies was in second of grammar this morning.\n\n —Let us get up a rebellion, Fleming said. Wi",
+    "start": 65091,
+    "end": 65097,
+    "canonical_text": "ferulæ"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2649746,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

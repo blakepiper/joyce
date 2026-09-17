@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4756265",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "There is another way but I won’t tell you what it is.",
+  "html_source": "<p>Joyce insisted that there were several unprintable variations of this riddle:</p><p>In what town can one enjoy a woman best?</p><p>– In Athy (a thigh), for that’s near the middle of the Queen’s County.</p><p>Yeah…her “county”…</p><p><img src=\"https://images.rapgenius.com/915a4c25b85ee017f8d52e89e76d28e7.500x500x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4756265/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/There-is-another-way-but-i-wont-tell-you-what-it-is",
+    "original_id": "4756265",
+    "referent_id": 4756265,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "There is another way but I won't tell you what it is.",
+    "prefix": "to ask it?\n\n —No, said Stephen.\n\n —Can you not think of the other way? he said.\n\n He looked at Stephen over the bedclothes as he spoke. Then he lay back on the pillow and said:\n\n —",
+    "suffix": "\n\n Why did he not tell it? His father, who kept the racehorses, must be a magistrate too like Saurin’s father and Nasty Roche’s father. He thought of his own father, of how he sang",
+    "start": 33665,
+    "end": 33718,
+    "canonical_text": "There is another way but I won’t tell you what it is."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4756265,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1356898,
+        "login": "ecbiv",
+        "name": "ecbiv",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

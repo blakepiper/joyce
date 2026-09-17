@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2694446",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Mozambique Channel",
+  "html_source": "<p>The <a href=\"http://en.wikipedia.org/wiki/Mozambique_Channel\" rel=\"noopener nofollow\">Mozambique Channel</a> is a part of the <a href=\"http://en.wikipedia.org/wiki/Indian_Ocean\" rel=\"noopener nofollow\">Indian Ocean</a> between Africa and Madagascar</p><p><img src=\"https://images.rapgenius.com/9d0ea692b9bef7aa668728881458647c.778x823x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2694446/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Mozambique-channel",
+    "original_id": "2694446",
+    "referent_id": 2694446,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Mozambique Channel",
+    "prefix": "ing in the tea. She had her feet on the fender and her jewelly slippers were so hot and they had such a lovely warm smell! Dante knew a lot of things. She had taught him where the ",
+    "suffix": " was and what was the longest river in America and what was the name of the highest mountain in the moon. Father Arnall knew more than Dante because he was a priest but both his fa",
+    "start": 6315,
+    "end": 6333,
+    "canonical_text": "Mozambique Channel"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2694446,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.7727272727272727
+      },
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 0.22727272727272727
+      }
+    ]
+  },
+  "color": "F59627"
+}

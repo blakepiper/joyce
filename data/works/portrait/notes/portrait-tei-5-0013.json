@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0013",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Person: Baird",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Baird</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:13"
+  },
+  "anchor": {
+    "text": "Baird",
+    "prefix": "at as he walked along the North Strand Road, glancing idly at the windows of the provision shops, he would recall the dark humour of Guido Cavalcanti and smile; that as he went by ",
+    "suffix": "’s stonecutting works in Talbot Place the spirit of Ibsen would blow through him like a keen wind, a spirit of wayward boyish beauty; and that passing a grimy marine dealer’s shop ",
+    "start": 4006,
+    "end": 4011,
+    "canonical_text": "Baird"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

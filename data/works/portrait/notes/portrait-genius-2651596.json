@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2651596",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "The jesuit motto: A.M.D.G.",
+  "html_source": "<p>Again (as from chapter I), “the jesuit motto” in Latin, “ad majorem Dei gloriam,”</p><blockquote><p>For the greater glory of God</p></blockquote>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2651596/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2/The-jesuit-motto-amdg",
+    "original_id": "2651596",
+    "referent_id": 2651596,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2-annotated"
+  },
+  "anchor": {
+    "text": "the jesuit motto: A.M.D.G.",
+    "prefix": "om for many hours. Before him lay a new pen, a new bottle of ink and a new emerald exercise. From force of habit he had written at the top of the first page the initial letters of ",
+    "suffix": " On the first line of the page appeared the title of the verses he was trying to write: To E—— C——. He knew it was right to begin so for he had seen similar titles in the collected",
+    "start": 20405,
+    "end": 20431,
+    "canonical_text": "the jesuit motto: A.M.D.G."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2651596,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

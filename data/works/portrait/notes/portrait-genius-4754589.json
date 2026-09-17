@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-4754589",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "A wax",
+  "html_source": "<p>To be ‘in a wax’ is to have a bad temper.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4754589/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/A-wax",
+    "original_id": "4754589",
+    "referent_id": 4754589,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "a wax",
+    "prefix": "ed on the breast of his jacket began to flutter. He was no good at sums but he tried his best so that York might not lose. Father Arnall’s face looked very black but he was not in ",
+    "suffix": ": he was laughing. Then Jack Lawton cracked his fingers and Father Arnall looked at his copybook and said:\n\n —Right. Bravo Lancaster! The red rose wins. Come on now, York! Forge ah",
+    "start": 8698,
+    "end": 8703,
+    "canonical_text": "a wax"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 4754589,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.7272727272727273
+      },
+      {
+        "id": 1356898,
+        "login": "ecbiv",
+        "name": "ecbiv",
+        "role": "contributor",
+        "attribution": 0.2727272727272727
+      }
+    ]
+  },
+  "color": "F59627"
+}

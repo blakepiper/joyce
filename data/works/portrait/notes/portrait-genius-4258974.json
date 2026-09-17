@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4258974",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Ungrudgingly",
+  "html_source": "<p>emphasizes his willingness to practice the faith</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4258974/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Ungrudgingly",
+    "original_id": "4258974",
+    "referent_id": 4258974,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "ungrudgingly",
+    "prefix": "he new testaments, and imagined that he was kneeling at mass in the catacombs.\n\n His daily life was laid out in devotional areas. By means of ejaculations and prayers he stored up ",
+    "suffix": " for the souls in purgatory centuries of days and quarantines and years; yet the spiritual triumph which he felt in achieving with ease so many fabulous ages of canonical penances ",
+    "start": 999,
+    "end": 1011,
+    "canonical_text": "ungrudgingly"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4258974,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1254036,
+        "login": "selfPortrait",
+        "name": "selfPortrait",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

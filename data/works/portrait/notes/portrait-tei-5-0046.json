@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0046",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Person: Mat Davin",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Mat Davin</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:46"
+  },
+  "anchor": {
+    "text": "Mat Davin",
+    "prefix": "error in the eyes, the terror of soul of a starving Irish village in which the curfew was still a nightly fear.\n\n Side by side with his memory of the deeds of prowess of his uncle ",
+    "suffix": ", the athlete, the young peasant worshipped the sorrowful legend of Ireland. The gossip of his fellow-students which strove to render the flat life of the college significant at an",
+    "start": 13344,
+    "end": 13353,
+    "canonical_text": "Mat Davin"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

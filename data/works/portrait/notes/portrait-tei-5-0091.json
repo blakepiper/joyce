@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0091",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "LA passage: quia facies vostra monstrat ut vos in damno malo humore estis.",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>quia facies vostra monstrat ut vos in damno malo humore estis.</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:91"
+  },
+  "anchor": {
+    "text": "quia facies vostra monstrat ut vos in damno malo humore estis.",
+    "prefix": "lm survey of the walls of the hall.\n\n —Are you annoyed? he asked.\n\n —No, answered Stephen.\n\n —Are you in bad humour?\n\n —No.\n\n —Credo ut vos sanguinarius mendax estis, said Cranly, ",
+    "suffix": "\n\n Moynihan, on his way to the table, said in Stephen’s ear:\n\n —MacCann is in tiptop form. Ready to shed the last drop. Brand new world. No stimulants and votes for the bitches.\n\n ",
+    "start": 40246,
+    "end": 40308,
+    "canonical_text": "quia facies vostra monstrat ut vos in damno malo humore estis."
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

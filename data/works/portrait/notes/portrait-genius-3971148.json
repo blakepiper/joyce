@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-3971148",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "INTER UBERA MEA COMMORABITUR",
+  "html_source": "<p>An allusion to the <a href=\"https://www.biblegateway.com/passage/?search=Song+of+Solomon+1%3A13&amp;version=KJV\" rel=\"noopener nofollow\">Song of Solomon, 1:13</a>:</p><blockquote><p>A bundle of myrrh is my well-beloved unto me; he shall lie all night betwixt my breasts.</p></blockquote><p><em>(That’s the whole verse, but the Latin here is often translates to “He shall lie between by breasts”)</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3971148/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Inter-ubera-mea-commorabitur",
+    "original_id": "3971148",
+    "referent_id": 3971148,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "INTER UBERA MEA COMMORABITUR",
+    "prefix": " come away, bidding her look forth, a spouse, from Amana and from the mountains of the leopards; and the soul seemed to answer with the same inaudible voice, surrendering herself: ",
+    "suffix": ".\n\n This idea of surrender had a perilous attraction for his mind now that he felt his soul beset once again by the insistent voices of the flesh which began to murmur to him again",
+    "start": 11253,
+    "end": 11281,
+    "canonical_text": "Inter ubera mea commorabitur"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 3971148,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

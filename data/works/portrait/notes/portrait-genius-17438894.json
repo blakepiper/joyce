@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-17438894",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Muff",
+  "html_source": "<p>A rookie or failure</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/17438894/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Muff",
+    "original_id": "17438894",
+    "referent_id": 17438894,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "muff",
+    "prefix": " urged him to live a good life and, when he had fallen into grievous sin, it was they who had led him back to grace. Their presence had made him diffident of himself when he was a ",
+    "suffix": " in Clongowes and it had made him diffident of himself also while he had held his equivocal position in Belvedere. A constant sense of this had remained with him up to the last yea",
+    "start": 18931,
+    "end": 18935,
+    "canonical_text": "muff"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 17438894,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 8753690,
+        "login": "FBA-ML",
+        "name": "FBA-ML",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

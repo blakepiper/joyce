@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0314",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Dante",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Dante</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:314"
+  },
+  "anchor": {
+    "text": "Dante",
+    "prefix": "alus.\n\n —I didn’t think he had that much in him, said Mr Casey.\n\n —I’ll pay your dues, father, when you cease turning the house of God into a polling-booth.\n\n —A nice answer, said ",
+    "suffix": ", for any man calling himself a catholic to give to his priest.\n\n —They have only themselves to blame, said Mr Dedalus suavely. If they took a fool’s advice they would confine thei",
+    "start": 42929,
+    "end": 42934,
+    "canonical_text": "Dante"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

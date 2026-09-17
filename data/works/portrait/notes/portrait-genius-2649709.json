@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2649709",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Julius Caesar wrote The Calico Belly.",
+  "html_source": "<p>The “Calico Belly” actually refers to the “<a href=\"http://en.wikipedia.org/wiki/Bello_Gallico\" rel=\"noopener nofollow\">Bello Gallico</a>”, the Gallic Wars. Young Stephen mistakes the similarly sounding words. (Gallico – Calico, Belly – Bello)</p><p>This is another instance that it Stephen’s age is made evident—he is still young and misinterprets the words.</p><p>The “<a href=\"http://en.wikipedia.org/wiki/Commentarii_de_Bello_Gallico\" rel=\"noopener nofollow\">Commentarii de Bello Gallico</a>” was written by <a href=\"http://en.wikipedia.org/wiki/Julius_Caesar\" rel=\"noopener nofollow\">Julius Caesar</a>, describing what he saw in the Gallic Wars.</p><p><img src=\"https://images.rapgenius.com/49c2e337d8ce0234b874e536455a9637.1000x750x1.jpg\" alt=\"\" /></p><p><em>(The painting is of <a href=\"http://en.wikipedia.org/wiki/Vercingetorix\" rel=\"noopener nofollow\">Vercingetorix</a> surrounding to Julius Caeser after the <a href=\"http://en.wikipedia.org/wiki/Battle_of_Alesia\" rel=\"noopener nofollow\">Battle of Alesia</a>, thus ending the Gallic Wars)</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2649709/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Julius-caesar-wrote-the-calico-belly",
+    "original_id": "2649709",
+    "referent_id": 2649709,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Julius Caesar wrote The Calico Belly.",
+    "prefix": " had drawn it there for a cod. It had a funny face but it was very like a man with a beard. And on the wall of another closet there was written in backhand in beautiful writing:\n\n ",
+    "suffix": "\n\n Perhaps that was why they were there because it was a place where some fellows wrote things for cod. But all the same it was queer what Athy said and the way he said it. It was ",
+    "start": 64406,
+    "end": 64442,
+    "canonical_text": "Julius Cæsar wrote The Calico Belly."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2649709,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

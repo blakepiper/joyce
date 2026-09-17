@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4257882",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Flood of temptation",
+  "html_source": "<p>Water throughout the novel represents the state of Stephen’s soul. Here the flood shows how strong his temptations are to leave religious life to be an artist.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4257882/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Flood-of-temptation",
+    "original_id": "4257882",
+    "referent_id": 4257882,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "flood of temptation",
+    "prefix": "d beginning again its slow advance towards his feet, a new thrill of power and satisfaction shook his soul to know that he had not yielded nor undone all.\n\n When he had eluded the ",
+    "suffix": " many times in this way he grew troubled and wondered whether the grace which he had refused to lose was not being filched from him little by little. The clear certitude of his own",
+    "start": 12234,
+    "end": 12253,
+    "canonical_text": "flood of temptation"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4257882,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1253603,
+        "login": "Shef",
+        "name": "Shef",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

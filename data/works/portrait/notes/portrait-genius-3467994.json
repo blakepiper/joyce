@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-3467994",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "—Tell us, Dedalus, do you kiss your mother before you go to bed?\n \n Stephen answered:\n \n —I do.",
+  "html_source": "<p>A mother’s bedtime kiss also figures prominently in <a href=\"http://lit.genius.com/Marcel-proust-swanns-way-chap-1-annotated\" rel=\"noopener nofollow\"><em>In Search of Lost Time</em>,</a> by Marcel Proust, often considered Joyce’s rival as the greatest novelist of the early 20th century.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3467994/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Tell-us-dedalus-do-you-kiss-your-mother-before-you-go-to-bed-stephen-answered-i-do",
+    "original_id": "3467994",
+    "referent_id": 3467994,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "—Tell us, Dedalus, do you kiss your mother before you go to bed?\n \n Stephen answered:\n \n —I do.",
+    "prefix": "e boys and Simon Moonan was knotting his false sleeves. He was telling them something about Tullabeg.\n\n Then he went away from the door and Wells came over to Stephen and said:\n\n —",
+    "suffix": "\n\n Wells turned to the other fellows and said:\n\n —O, I say, here’s a fellow says he kisses his mother every night before he goes to bed.\n\n The other fellows stopped their game and ",
+    "start": 12619,
+    "end": 12711,
+    "canonical_text": "Tell us, Dedalus, do you kiss your mother before you go to bed?\n\n Stephen answered:\n\n —I do."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 3467994,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 149810,
+        "login": "perfectrhyme",
+        "name": "Perfectrhyme",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

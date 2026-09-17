@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2841700",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "—Goneboro toboro lookboro atboro aboro houseboro",
+  "html_source": "<p>Some <a href=\"http://en.wikipedia.org/wiki/Pig_latin\" rel=\"noopener nofollow\">pig-latin</a>-like gibberish adding “boro” as a suffix,<br />—<em>Gone to look at a house.</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2841700/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Goneboro-toboro-lookboro-atboro-aboro-houseboro",
+    "original_id": "2841700",
+    "referent_id": 2841700,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "—Goneboro toboro lookboro atboro aboro houseboro",
+    "prefix": "the eldest; but the quiet glow of evening showed him in their faces no sign of rancour.\n\n He sat near them at the table and asked where his father and mother were. One answered:\n\n ",
+    "suffix": ".\n\n Still another removal! A boy named Fallon, in Belvedere, had often asked him with a silly laugh why they moved so often. A frown of scorn darkened quickly his forehead as he he",
+    "start": 33680,
+    "end": 33728,
+    "canonical_text": "—Goneboro toboro lookboro atboro aboro houseboro"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2841700,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

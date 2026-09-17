@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0141",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: cigar shop opposite Findlater's church",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>cigar shop opposite Findlater&#x27;s church</p></blockquote><p class=\"tei-detail\">Coordinates: 53.353437 -6.261749</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:141"
+  },
+  "anchor": {
+    "text": "cigar shop opposite Findlater's church",
+    "prefix": "her. Did he bring his crocodile? Is he the shining light now? Well, I discovered him. I protest I did. Shining quietly behind a bushel of Wicklow bran.\n\n April 3. Met Davin at the ",
+    "suffix": ". He was in a black sweater and had a hurley stick. Asked me was it true I was going away and why. Told him the shortest way to Tara was via Holyhead. Just then my father came up. ",
+    "start": 141076,
+    "end": 141114,
+    "canonical_text": "cigar shop opposite Findlater’s church"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.353437 -6.261749",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

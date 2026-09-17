@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4259000",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "The cry of a hawk",
+  "html_source": "<p>Reiterates motif of birds and flight.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4259000/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/The-cry-of-a-hawk",
+    "original_id": "4259000",
+    "referent_id": 4259000,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "the cry of a hawk",
+    "prefix": "! Two!... Look out!\n\n —O, Cripes, I’m drownded!\n\n —One! Two! Three and away!\n\n —The next! The next!\n\n —One!... Uk!\n\n —Stephaneforos!\n\n His throat ached with a desire to cry aloud, ",
+    "suffix": " or eagle on high, to cry piercingly of his deliverance to the winds. This was the call of life to his soul not the dull gross voice of the world of duties and despair, not the inh",
+    "start": 45756,
+    "end": 45773,
+    "canonical_text": "the cry of a hawk"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4259000,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1254029,
+        "login": "Neeki_Memarzadeh",
+        "name": "Neeki_Memarzadeh",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

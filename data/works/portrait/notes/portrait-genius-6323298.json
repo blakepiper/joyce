@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-6323298",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Artificer",
+  "html_source": "<p>An artificer is one who creates or builds (like in the story of Daedalus and the young boy). Stephen is kind of like Harry Potter, who was always meant for great things.</p><p><img src=\"https://images.rapgenius.com/6f9ae3dc0d2c2ed1758fb41c867262ab.377x134x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6323298/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Artificer",
+    "original_id": "6323298",
+    "referent_id": 6323298,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "artificer",
+    "prefix": "he grave?\n\n His soul had arisen from the grave of boyhood, spurning her graveclothes. Yes! Yes! Yes! He would create proudly out of the freedom and power of his soul, as the great ",
+    "suffix": " whose name he bore, a living thing, new and soaring and beautiful, impalpable, imperishable.\n\n He started up nervously from the stoneblock for he could no longer quench the flame ",
+    "start": 46548,
+    "end": 46557,
+    "canonical_text": "artificer"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 6323298,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1509694,
+        "login": "the_RapMasterP",
+        "name": "the_RapMasterP",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

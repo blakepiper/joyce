@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-3-0007",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "LA passage: poena damni",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>poena damni</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-3:7"
+  },
+  "anchor": {
+    "text": "poena damni",
+    "prefix": "t good, from God, and to feel the anguish of that separation, knowing full well that it is unchangeable: this is the greatest torment which the created soul is capable of bearing, ",
+    "suffix": ", the pain of loss.\n\n The second pain which will afflict the souls of the damned in hell is the pain of conscience. Just as in dead bodies worms are engendered by putrefaction, so ",
+    "start": 54870,
+    "end": 54880,
+    "canonical_text": "pœna damni"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

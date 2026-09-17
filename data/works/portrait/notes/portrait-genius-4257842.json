@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4257842",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Ejaculations",
+  "html_source": "<p>Short prayers emotionally performed. Interestingly, this repetition demonstrates a follow up to the religiousness of Stephen in Chapter 3.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4257842/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Ejaculations",
+    "original_id": "4257842",
+    "referent_id": 4257842,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "ejaculations",
+    "prefix": " two candles, which were the old and the new testaments, and imagined that he was kneeling at mass in the catacombs.\n\n His daily life was laid out in devotional areas. By means of ",
+    "suffix": " and prayers he stored up ungrudgingly for the souls in purgatory centuries of days and quarantines and years; yet the spiritual triumph which he felt in achieving with ease so man",
+    "start": 961,
+    "end": 973,
+    "canonical_text": "ejaculations"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4257842,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1253623,
+        "login": "RollsJoyce",
+        "name": "RollsJoyce",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

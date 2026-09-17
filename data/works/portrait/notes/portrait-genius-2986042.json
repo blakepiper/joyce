@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2986042",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "But his hands were bluish with cold",
+  "html_source": "<p>Here is another point of how cold the environment Stephen thinks this place is. he always uses the color white when it comes to describing the walls indoors. In this case he throws readers off using the color blue.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2986042/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/But-his-hands-were-bluish-with-cold",
+    "original_id": "2986042",
+    "referent_id": 2986042,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "But his hands were bluish with cold",
+    "prefix": "had answered:\n\n —A gentleman.\n\n Then Nasty Roche had asked:\n\n —Is he a magistrate?\n\n He crept about from point to point on the fringe of his line, making little runs now and then. ",
+    "suffix": ". He kept his hands in the side pockets of his belted grey suit. That was a belt round his pocket. And belt was also to give a fellow a belt. One day a fellow said to Cantwell:\n\n —",
+    "start": 2922,
+    "end": 2957,
+    "canonical_text": "But his hands were bluish with cold"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2986042,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 589823,
+        "login": "Summerforever22",
+        "name": "Summerforever22",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

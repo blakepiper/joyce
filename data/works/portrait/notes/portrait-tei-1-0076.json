@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0076",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Nasty Roche",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Nasty Roche</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:76"
+  },
+  "anchor": {
+    "text": "Nasty Roche",
+    "prefix": " tea which the clumsy scullion, girt with a white apron, poured into his cup. He wondered whether the scullion’s apron was damp too or whether all white things were cold and damp. ",
+    "suffix": " and Saurin drank cocoa that their people sent them in tins. They said they could not drink the tea; that it was hogwash. Their fathers were magistrates, the fellows said.\n\n All th",
+    "start": 10455,
+    "end": 10466,
+    "canonical_text": "Nasty Roche"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

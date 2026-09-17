@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0081",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "LA passage: Per aspera ad astra.",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>Per aspera ad astra.</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:81"
+  },
+  "anchor": {
+    "text": "Per aspera ad astra.",
+    "prefix": "ot there.\n\n —I may not have his talent, said Stephen quietly.\n\n —You never know, said the dean brightly. We never can say what is in us. I most certainly should not be despondent. ",
+    "suffix": "\n\n He left the hearth quickly and went towards the landing to oversee the arrival of the first arts’ class.\n\n Leaning against the fireplace Stephen heard him greet briskly and impa",
+    "start": 31894,
+    "end": 31914,
+    "canonical_text": "Per aspera ad astra."
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

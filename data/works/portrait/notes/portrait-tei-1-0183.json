@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0183",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Wells",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Wells</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:183"
+  },
+  "anchor": {
+    "text": "Wells",
+    "prefix": " to do, to shoulder him into the square ditch, they were saying.\n\n Then their voices ceased; they had gone. A voice at his bed said:\n\n —Dedalus, don’t spy on us, sure you won’t?\n\n ",
+    "suffix": "’s face was there. He looked at it and saw that Wells was afraid.\n\n —I didn’t mean to. Sure you won’t?\n\n His father had told him, whatever he did, never to peach on a fellow. He sh",
+    "start": 26342,
+    "end": 26347,
+    "canonical_text": "Wells"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0365",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Neologism: rolledup",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a neologism.</p><blockquote><p>rolledup</p></blockquote><p class=\"tei-detail\">TEI type: neologism</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:365"
+  },
+  "anchor": {
+    "text": "rolledup",
+    "prefix": " same in the bath when you undressed yourself. He wondered who had to let them down, the master or the boy himself. O how could they laugh about it that way?\n\n He looked at Athy’s ",
+    "suffix": " sleeves and knuckly inky hands. He had rolled up his sleeves to show how Mr Gleeson would roll up his sleeves. But Mr Gleeson had round shiny cuffs and clean white wrists and fatt",
+    "start": 67453,
+    "end": 67462,
+    "canonical_text": "rolled-up"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "type": "neologism"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "9C632A"
+}

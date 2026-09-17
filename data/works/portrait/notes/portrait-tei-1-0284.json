@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0284",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Mr Dedalus",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Mr Dedalus</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:284"
+  },
+  "anchor": {
+    "text": "Mr Dedalus",
+    "prefix": "to say the grace before meals:\n\n Bless us, O Lord, and these Thy gifts which through Thy bounty we are about to receive through Christ our Lord. Amen.\n\n All blessed themselves and ",
+    "suffix": " with a sigh of pleasure lifted from the dish the heavy cover pearled around the edge with glistening drops.\n\n Stephen looked at the plump turkey which had lain, trussed and skewer",
+    "start": 40507,
+    "end": 40517,
+    "canonical_text": "Mr Dedalus"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

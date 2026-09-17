@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0097",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "LA passage: Nos ad manum ballum jocabimus.",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>Nos ad manum ballum jocabimus.</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:97"
+  },
+  "anchor": {
+    "text": "Nos ad manum ballum jocabimus.",
+    "prefix": "\n —He thinks I’m an imbecile, Temple explained to Stephen, because I’m a believer in the power of mind.\n\n Cranly linked his arms into those of Stephen and his admirer and said:\n\n —",
+    "suffix": "\n\n Stephen, in the act of being led away, caught sight of MacCann’s flushed bluntfeatured face.\n\n —My signature is of no account, he said politely. You are right to go your way. Le",
+    "start": 46639,
+    "end": 46669,
+    "canonical_text": "Nos ad manum ballum jocabimus."
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

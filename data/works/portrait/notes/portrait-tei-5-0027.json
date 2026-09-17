@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0027",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Person: Cranly",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Cranly</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:27"
+  },
+  "anchor": {
+    "text": "Cranly",
+    "prefix": "ose, in the shadowings below the eyes and along the jaws, priestlike in the lips that were long and bloodless and faintly smiling; and Stephen, remembering swiftly how he had told ",
+    "suffix": " of all the tumults and unrest and longings in his soul, day after day and night by night, only to be answered by his friend’s listening silence, would have told himself that it wa",
+    "start": 8393,
+    "end": 8399,
+    "canonical_text": "Cranly"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

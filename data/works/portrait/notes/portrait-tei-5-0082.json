@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0082",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: Kentish",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Kentish</p></blockquote><p class=\"tei-detail\">Coordinates: 51.278708 0.521725</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:82"
+  },
+  "anchor": {
+    "text": "Kentish",
+    "prefix": "ded, during all their history, at the bar of God’s justice for the souls of the lax and the lukewarm and the prudent.\n\n The entry of the professor was signalled by a few rounds of ",
+    "suffix": " fire from the heavy boots of those students who sat on the highest tier of the gloomy theatre under the grey cobwebbed windows. The calling of the roll began and the responses to ",
+    "start": 32809,
+    "end": 32816,
+    "canonical_text": "Kentish"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "51.278708 0.521725",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

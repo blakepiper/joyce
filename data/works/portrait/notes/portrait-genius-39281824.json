@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-39281824",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "PANGE LINGUA GLORIOSI.",
+  "html_source": "<p>From the Latin:<br /><em>Speak with the tongue of the glorious one.</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/39281824/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Pange-lingua-gloriosi",
+    "original_id": "39281824",
+    "referent_id": 39281824,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "PANGE LINGUA GLORIOSI.",
+    "prefix": "art.\n\n —Who knows? said Stephen, smiling. Perhaps Aquinas would understand me better than you. He was a poet himself. He wrote a hymn for Maundy Thursday. It begins with the words ",
+    "suffix": " They say it is the highest glory of the hymnal. It is an intricate and soothing hymn. I like it; but there is no hymn that can be put beside that mournful and majestic processiona",
+    "start": 67471,
+    "end": 67493,
+    "canonical_text": "Pange lingua gloriosi."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 39281824,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 21885753,
+        "login": "eliasdecaro",
+        "name": "eliasdecaro",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

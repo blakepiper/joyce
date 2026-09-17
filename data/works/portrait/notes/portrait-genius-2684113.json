@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2684113",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "A hamper in the refectory",
+  "html_source": "<p>a private supply of treats in the dining hall</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2684113/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/A-hamper-in-the-refectory",
+    "original_id": "2684113",
+    "referent_id": 2684113,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "a hamper in the refectory",
+    "prefix": "t like that: he would be captain of the third line all the fellows said.\n\n Rody Kickham was a decent fellow but Nasty Roche was a stink. Rody Kickham had greaves in his number and ",
+    "suffix": ". Nasty Roche had big hands. He called the Friday pudding dog-in-the-blanket. And one day he had asked:\n\n —What is your name?\n\n Stephen had answered: Stephen Dedalus.\n\n Then Nasty ",
+    "start": 2385,
+    "end": 2410,
+    "canonical_text": "a hamper in the refectory"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2684113,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

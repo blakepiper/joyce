@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-8515910",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Eagles",
+  "html_source": "<p><a href=\"http://www.newadvent.org/cathen/02576b.htm\" rel=\"noopener nofollow\">http://www.newadvent.org/cathen/02576b.htm</a></p><p>The Eagle is both a symbol of Christ and St. John</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8515910/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Eagles",
+    "original_id": "8515910",
+    "referent_id": 8515910,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "eagles",
+    "prefix": "n’s father and mother. When they were grown up he was going to marry Eileen. He hid under the table. His mother said:\n\n —O, Stephen will apologise.\n\n Dante said:\n\n —O, if not, the ",
+    "suffix": " will come and pull out his eyes.—\n\n Pull out his eyes,\nApologise,\nApologise,\nPull out his eyes.\n\nApologise,\nPull out his eyes,\nPull out his eyes,\nApologise.\n\n The wide playgrounds",
+    "start": 1522,
+    "end": 1528,
+    "canonical_text": "eagles"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8515910,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2718418,
+        "login": "RebeccaSenteney",
+        "name": "RebeccaSenteney",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

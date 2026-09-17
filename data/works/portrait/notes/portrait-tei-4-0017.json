@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-4-0017",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Place: the Bull",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>the Bull</p></blockquote><p class=\"tei-detail\">Coordinates: 53.359381 -6.179831</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-4:17"
+  },
+  "anchor": {
+    "text": "the Bull",
+    "prefix": "an Crosby, the tutor, to find out for him something about the university. For a full hour he had paced up and down, waiting: but he could wait no longer.\n\n He set off abruptly for ",
+    "suffix": ", walking rapidly lest his father’s shrill whistle might call him back; and in a few moments he had rounded the curve at the police barrack and was safe.\n\n Yes, his mother was host",
+    "start": 35928,
+    "end": 35936,
+    "canonical_text": "the Bull"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.359381 -6.179831",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

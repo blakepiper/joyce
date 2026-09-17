@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0371",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Neologism: whitegrey",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a neologism.</p><blockquote><p>whitegrey</p></blockquote><p class=\"tei-detail\">TEI type: neologism</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:371"
+  },
+  "anchor": {
+    "text": "whitegrey",
+    "prefix": " studies.\n\n —The cinderpath, sir.\n\n —Hoho! The cinderpath! cried the prefect of studies. I know that trick.\n\n Stephen lifted his eyes in wonder and saw for a moment Father Dolan’s ",
+    "suffix": " not young face, his baldy whitegrey head with fluff at the sides of it, the steel rims of his spectacles and his no-coloured eyes looking through the glasses. Why did he say he kn",
+    "start": 76668,
+    "end": 76677,
+    "canonical_text": "whitegrey"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "type": "neologism"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "9C632A"
+}

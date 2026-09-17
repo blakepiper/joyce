@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0276",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Mrs Dedalus",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Mrs Dedalus</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:276"
+  },
+  "anchor": {
+    "text": "Mrs Dedalus",
+    "prefix": "t up his eyeglass and, staring down at him, said quietly and kindly:\n\n —What are you laughing at, you little puppy, you?\n\n The servants entered and placed the dishes on the table. ",
+    "suffix": " followed and the places were arranged.\n\n —Sit over, she said.\n\n Mr Dedalus went to the end of the table and said:\n\n —Now, Mrs Riordan, sit over. John, sit you down, my hearty.\n\n H",
+    "start": 39878,
+    "end": 39889,
+    "canonical_text": "Mrs Dedalus"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

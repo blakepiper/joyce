@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2685452",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "After every charge and thud",
+  "html_source": "<p>Soccer boiled down to two words: charge-thud, charge-thud.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2685452/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/After-every-charge-and-thud",
+    "original_id": "2685452",
+    "referent_id": 2685452,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "after every charge and thud",
+    "prefix": "ut his eyes,\nApologise.\n\n The wide playgrounds were swarming with boys. All were shouting and the prefects urged them on with strong cries. The evening air was pale and chilly and ",
+    "suffix": " of the footballers the greasy leather orb flew like a heavy bird through the grey light. He kept on the fringe of his line, out of sight of his prefect, out of the reach of the ru",
+    "start": 1842,
+    "end": 1869,
+    "canonical_text": "after every charge and thud"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2685452,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

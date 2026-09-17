@@ -1,86 +1,97 @@
-# The Joyce Project — local mirror
+# Joyce Reader — local mirror
 
-A local copy of [joyceproject.com](https://joyceproject.com/) (an annotated
-*Ulysses*), with **one deliberate change**: clicking an in-text hyperlink
-opens the note in a dedicated **Commentary panel to the right of the
-text** instead of a popup.
+A static local reader for James Joyce with the annotated *Ulysses* mirror and
+*A Portrait of the Artist as a Young Man*. The reading pane, annotation links,
+Commentary pane, dictionary/Wikipedia lookup, page mode, resizable layout and
+local reading state are shared by both works.
 
-Layout, left to right:
+## Supported works
 
-1. skinny column — chapter selector (plus About pages),
-2. primary column — interactive novel text,
-3. commentary column — blank until a hyperlink is clicked.
+- *Ulysses* — 18 episodes, sourced from the local Joyce Project mirror.
+- *A Portrait of the Artist as a Young Man* — all five chapters, with the
+  Gutenberg canonical text, imported Genius commentary and selected semantic
+  annotations from Open Editions.
 
 ## Use
 
-- Click a chapter (left) to read it (centre). Click any highlighted
-  passage and the note opens in the **Commentary** panel (right),
-  with its images/video. Links inside notes drill deeper with a Back
-  button.
-- **Word lookup:** select any word — double-click it or drag across it —
-  and a Foliate-style popup appears showing the **dictionary definition**
-  (Webster's Unabridged 1913, bundled offline under `data/dict/`).
-  A **Wikipedia** tab in the popup fetches the article summary
-  (needs internet). Single-click a passage instead and you get the
-  Joyce Project note as before — click = note, select = definition.
-- **Layout:** drag the gutters between columns to resize them
-  (double-click a gutter to reset). Text and commentary default to 60:40.
-  Sizes persist across visits. The theme is dark grey/black; the
-  annotation link colors are unchanged from the original.
-- **Page mode:** tick *Page mode* in the left column to read ereader-style —
-  the chapter is split into screen-sized pages turned with &larr; / &rarr;
-  (or the footer buttons). Your page per chapter is remembered.
-
-## Run it
-
-Run the included launcher to start a local server and open the book in your
-default browser:
+Run the included launcher:
 
 ```sh
 ./joyce
 ```
 
-Keep the terminal open while reading; press `Ctrl-C` to stop the server.
-The launcher uses port 8000 by default and chooses a free port if that one is
-busy. Set `JOYCE_PORT` to choose a specific port.
-
-Alternatively, any static file server works (plain `file://` will not,
-because the app uses `fetch()` for the local JSON):
+Or serve the repository with any static server:
 
 ```sh
-cd joyce
 python3 -m http.server 8000
-# open http://localhost:8000/
 ```
 
-No build step, no dependencies, works fully offline — all chapter text,
-notes, media metadata and images are mirrored under `data/` and
-`static/img/`.
+`fetch()` is used for local JSON, so a static HTTP server is required instead
+of opening `index.html` directly. Work-aware links look like
+`#/ulysses/chapter/…` and `#/portrait/chapter/1`; old Ulysses
+`#/chapter/…` links remain compatible.
 
-## Refreshing the mirror
+Click a highlighted passage to open commentary on the right. Select or
+double-click text for the dictionary/Wikipedia lookup. Drag the column gutters
+to resize them, and enable Page mode for screen-sized reading pages. Work,
+chapter, page, scroll and layout state are stored separately in localStorage.
+
+## Rebuilding Portrait
+
+The generated Portrait data can be rebuilt from cached sources without network
+access:
 
 ```sh
-python3 scripts/rip.py --images --workers 12   # re-fetch JSON + images
-python3 scripts/build_dict.py                  # rebuild offline dictionary
+python3 scripts/build_portrait.py
+python3 scripts/build_portrait.py --offline --report
+python3 scripts/validate.py
+```
+
+The build keeps raw, normalized and rendered layers under
+`data/works/portrait/`. It writes failed and ambiguous anchor reports to
+`data/works/portrait/manifests/unmatched.json` and `ambiguous.json`.
+Manual anchor corrections belong in
+`data/works/portrait/overrides.json`; generated chapter and note files should
+not be edited by hand. The validator treats a small set of pre-existing
+dangling Ulysses source IDs as compatibility warnings; Portrait data failures
+are validation errors.
+
+Useful importer options include `--fetch`, `--offline`, `--no-fetch`,
+`--genius-only`, `--tei-only` and `--reanchor`. Cached Genius HTML/API data is
+reparsed by `--offline`, so parser repairs do not require downloading pages
+again.
+
+## Portrait sources
+
+- The displayed base text is Project Gutenberg ebook **4217**:
+  <https://www.gutenberg.org/ebooks/4217>.
+- Explanatory annotations are imported at build time from the configured
+  Genius chapter pages. Their source URLs, IDs and contributor metadata remain
+  in the normalized note data.
+- Semantic annotations are selected from the Open Editions project
+  `open-editions/corpus-joyce-portrait-TEI`:
+  <https://github.com/open-editions/corpus-joyce-portrait-TEI>.
+
+The browser never fetches Genius or TEI at runtime. The import scripts convert
+these sources into one normalized work/chapter/annotated-span/note model.
+
+## Refreshing the Ulysses mirror
+
+```sh
+python3 scripts/rip.py --images --workers 12
+python3 scripts/build_dict.py
 python3 scripts/rip.py --help
 ```
 
-## How it works
+Ulysses content remains in its original `data/chapters`, `data/notes`,
+`data/media` layout through the compatibility paths in `data/works.json`.
+Portrait uses the work-scoped layout under `data/works/portrait/`.
 
-- Content comes from the site's own public JSON API (`/api/chapters/`,
-  `/api/notes/`, `/api/media/`, `/api/info/`), which is what the original
-  frontend queries. `scripts/rip.py` pages through it into `data/`.
-- In-text links in the chapter HTML are `<a href="<note-id>"
-  data-color="..." data-type="annotation">`. `app.js` colours them from
-  `data-color` (as the original does) and intercepts clicks to render the
-  note + its images/video into the right panel. Links inside notes push
-  onto a history stack (Back button). External links open in a new tab.
-- Images resolve to `static/img/<media-id>/img.<ext>`, with a fallback to
-  the live site if a file is ever missing.
+## Attribution and use
 
-## Attribution
-
-*Ulysses* itself is public domain. Annotations, commentary and images are
-the work of the Joyce Project contributors — this mirror is for personal
-local use; please don't redistribute it. When in doubt, use the
-[original site](https://joyceproject.com/).
+*Ulysses* and the Gutenberg text of *Portrait* are public-domain texts.
+Ulysses annotations, commentary and images are the work of Joyce Project
+contributors. Portrait commentary is third-party Genius material and its
+provenance is retained in the data. This repository is intended for private
+local use; review bulk third-party annotation material before any public
+redistribution.

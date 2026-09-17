@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2646274",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "O, the green wothe botheth.",
+  "html_source": "<p>Stephen has a lisp, and is trying to say, “O, the green rose blossoms.”</p><p><img src=\"https://images.rapgenius.com/1d13a8b51321aef1cc9c2612f4b6ebfd.1000x664x1.jpg\" alt=\"\" /></p><p>He may have the lyrics mixed up—maybe he’s saying ‘bushes.’</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2646274/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/O-the-green-wothe-botheth",
+    "original_id": "2646274",
+    "referent_id": 2646274,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "O, the green wothe botheth.",
+    "prefix": "ckoo. The moocow came down the road where Betty Byrne lived: she sold lemon platt.\n\n O, the wild rose blossoms\nOn the little green place.\n\n He sang that song. That was his song.\n\n ",
+    "suffix": "\n\n When you wet the bed, first it is warm then it gets cold. His mother put on the oilsheet. That had the queer smell.\n\n His mother had a nicer smell than his father. She played on",
+    "start": 568,
+    "end": 595,
+    "canonical_text": "O, the green wothe botheth."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2646274,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 0.8032786885245902
+      },
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.19672131147540983
+      }
+    ]
+  },
+  "color": "F59627"
+}

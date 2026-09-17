@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-3020489",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Tralala lala,\n     Tralala tralaladdy,\n     Tralala lala,\n     Tralala lala.",
+  "html_source": "<p>Compare this song by Russian singer Eduard Khil. Not actually related to Joyce’s “tralala,” but reminiscent. <a href=\"https://www.youtube.com/watch?v=2Z4m4lnjxkY\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=2Z4m4lnjxkY</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3020489/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Tralala-lala-tralala-tralaladdy-tralala-lala-tralala-lala",
+    "original_id": "3020489",
+    "referent_id": 3020489,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Tralala lala,\n     Tralala tralaladdy,\n     Tralala lala,\n     Tralala lala.",
+    "prefix": " mother put on the oilsheet. That had the queer smell.\n\n His mother had a nicer smell than his father. She played on the piano the sailor’s hornpipe for him to dance. He danced:\n\n ",
+    "suffix": "\n\n Uncle Charles and Dante clapped. They were older than his father and mother but uncle Charles was older than Dante.\n\n Dante had two brushes in her press. The brush with the maro",
+    "start": 839,
+    "end": 900,
+    "canonical_text": "Tralala lala,\nTralala tralaladdy,\nTralala lala,\nTralala lala."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 3020489,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 730174,
+        "login": "ChristinaCrupie",
+        "name": "ChristinaCrupie",
+        "role": null,
+        "attribution": 0.826086956521739
+      },
+      {
+        "id": 149810,
+        "login": "perfectrhyme",
+        "name": "Perfectrhyme",
+        "role": "editor",
+        "attribution": 0.17391304347826086
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4847236",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "CORNELIUS A LAPIDE",
+  "html_source": "<p>Cornelius Cornelii a Lapide was a Flemish Jesuit (Society of Jesus) and exegete.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4847236/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Cornelius-a-lapide",
+    "original_id": "4847236",
+    "referent_id": 4847236,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "CORNELIUS A LAPIDE",
+    "prefix": " brittle as a grain of rice, between thumb and finger for an instant before he let it fall from him and wondered would it live or die. There came to his mind a curious phrase from ",
+    "suffix": " which said that the lice born of human sweat were not created by God with the other animals on the sixth day. But the tickling of the skin of his neck made his mind raw and red. T",
+    "start": 111602,
+    "end": 111620,
+    "canonical_text": "Cornelius a Lapide"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4847236,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1497331,
+        "login": "SalmaIraqui",
+        "name": "SalmaIraqui",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

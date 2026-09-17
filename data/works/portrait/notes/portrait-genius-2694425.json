@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2694425",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Jewelly slippers",
+  "html_source": "<p>For “jewelly”, we’d probably say “sequined”.</p><p><img src=\"https://images.rapgenius.com/9e7db0ff18134585c6866abb55b6c369.1000x750x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2694425/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Jewelly-slippers",
+    "original_id": "2694425",
+    "referent_id": 2694425,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "jewelly slippers",
+    "prefix": "been! A fellow had once seen a big rat jump into the scum. Mother was sitting at the fire with Dante waiting for Brigid to bring in the tea. She had her feet on the fender and her ",
+    "suffix": " were so hot and they had such a lovely warm smell! Dante knew a lot of things. She had taught him where the Mozambique Channel was and what was the longest river in America and wh",
+    "start": 6190,
+    "end": 6206,
+    "canonical_text": "jewelly slippers"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2694425,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.8611111111111112
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.1388888888888889
+      }
+    ]
+  },
+  "color": "F59627"
+}

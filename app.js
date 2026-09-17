@@ -7,11 +7,67 @@
   "use strict";
   var REMOTE = "https://joyceproject.com";
   var cache = { chapters: {}, notes: {}, media: {} };
+  var works = [];
+  var currentWork = null;
   var chapterList = [];
   var infoList = [];
   var currentChapter = null;
-  var noteStack = []; // history of note ids (plain strings) for Back nav
+  var noteStack = []; // {workId, ids} or {infoId} entries for Back nav
   var loadingNote = null;
+
+  function workById(workId) {
+    return works.find(function (work) { return work.id === workId; }) || null;
+  }
+
+  function workDataPath(workId, type, id) {
+    var work = workById(workId);
+    var legacy = work && work.legacy_paths && work.legacy_paths[type];
+    var base = legacy || ("data/works/" + encodeURIComponent(workId) + "/" + type);
+    return base + "/" + encodeURIComponent(id) + ".json";
+  }
+
+  function cacheKey(workId, id) {
+    return String(workId) + ":" + String(id);
+  }
+
+  function chapterDescriptor(workId, idOrLabel) {
+    var work = workById(workId);
+    if (!work) return null;
+    var token = String(idOrLabel);
+    return (work.chapters || []).find(function (chapter) {
+      return String(chapter.id) === token ||
+        String(chapter.number) === token ||
+        String(chapter.label || "").toLowerCase() === token.toLowerCase();
+    }) || null;
+  }
+
+  function routeFor(workId, chapterId) {
+    return "#/" + encodeURIComponent(workId) + "/chapter/" +
+      encodeURIComponent(chapterId);
+  }
+
+  function parseRoute() {
+    var hash = location.hash || "";
+    var match = hash.match(/^#\/([^/]+)\/chapter\/([^/]+)/);
+    if (match) {
+      return { workId: decodeURIComponent(match[1]), chapter: decodeURIComponent(match[2]) };
+    }
+    // Compatibility with links copied from the original single-work reader.
+    match = hash.match(/^#\/chapter\/([A-Za-z0-9\-_]+)/);
+    if (match) return { workId: "ulysses", chapter: match[1] };
+    return null;
+  }
+
+  function storageGet(key, fallback) {
+    try {
+      var value = localStorage.getItem(key);
+      return value === null ? fallback : value;
+    } catch (e) { return fallback; }
+  }
+
+  function storageSet(key, value) {
+    try { localStorage.setItem(key, value); } catch (e) { /* private mode */ }
+  }
 
   function $(id) { return document.getElementById(id); }
   function fetchJSON(url) {
@@ -75,25 +131,48 @@
     for (var i = 0; i < prev.length; i++) prev[i].classList.remove("active-note");
     var inReader = !!a.closest("#text-body");
     if (inReader) a.classList.add("active-note");
-    showNoteById(href, true);
+    var ids = (a.getAttribute("data-notes") || "").split(/[,\s]+/)
+      .filter(Boolean);
+    if (!ids.length && href) ids = [href];
+    if (ids.length === 1 && ids[0].indexOf("info:") === 0) {
+      openInfo(ids[0].slice(5), null, true);
+    } else if (ids.length) {
+      showNoteByIds(currentWork ? currentWork.id : "ulysses", ids, true);
+    }
   }
 
   /* ---------- chapters (left + center) ---------- */
   function renderChapterList() {
     var ol = $("chapter-list");
     ol.innerHTML = "";
-    chapterList.forEach(function (c) {
-      var li = document.createElement("li");
-      if (currentChapter && c.id === currentChapter.id) li.className = "active";
-      var b = document.createElement("button");
-      var num = document.createElement("span");
-      num.className = "ep-num";
-      num.textContent = c.number + ".";
-      b.appendChild(num);
-      b.appendChild(document.createTextNode(c.title));
-      b.addEventListener("click", function () { loadChapter(c.id, true); });
-      li.appendChild(b);
-      ol.appendChild(li);
+    works.forEach(function (work) {
+      var heading = document.createElement("li");
+      heading.className = "work-heading" +
+        (currentWork && currentWork.id === work.id ? " active-work" : "");
+      var headingButton = document.createElement("button");
+      headingButton.textContent = work.short_title || work.title;
+      headingButton.title = work.title;
+      headingButton.addEventListener("click", function () {
+        var last = storageGet("joyce:last-chapter:" + work.id, "");
+        var descriptor = chapterDescriptor(work.id, last) || (work.chapters || [])[0];
+        if (descriptor) loadChapter(work.id, descriptor.id, true);
+      });
+      heading.appendChild(headingButton);
+      ol.appendChild(heading);
+      (work.chapters || []).forEach(function (c) {
+        var li = document.createElement("li");
+        if (currentWork && currentWork.id === work.id &&
+            currentChapter && c.id === currentChapter.id) li.className = "active";
+        var b = document.createElement("button");
+        var num = document.createElement("span");
+        num.className = "ep-num";
+        num.textContent = c.label || (c.number + ".");
+        b.appendChild(num);
+        b.appendChild(document.createTextNode(c.title));
+        b.addEventListener("click", function () { loadChapter(work.id, c.id, true); });
+        li.appendChild(b);
+        ol.appendChild(li);
+      });
     });
     var idx = chapterList.findIndex(function (c) {
       return currentChapter && c.id === currentChapter.id;
@@ -102,61 +181,83 @@
     $("next-chapter").disabled = idx < 0 || idx >= chapterList.length - 1;
   }
 
-  function getChapter(id) {
-    if (cache.chapters[id]) return Promise.resolve(cache.chapters[id]);
-    return fetchJSON("data/chapters/" + id + ".json").then(function (d) {
-      cache.chapters[id] = d;
+  function getChapter(workId, id) {
+    var key = cacheKey(workId, id);
+    if (cache.chapters[key]) return Promise.resolve(cache.chapters[key]);
+    return fetchJSON(workDataPath(workId, "chapters", id)).then(function (d) {
+      if (!d.work_id) d.work_id = workId; // legacy Ulysses data compatibility
+      cache.chapters[key] = d;
       return d;
     });
   }
 
-  function loadChapter(id, pushHash) {
+  var chapterLoadSeq = 0;
+  function loadChapter(workId, id, pushHash) {
+    var work = workById(workId);
+    if (!work) return;
+    var descriptor = chapterDescriptor(workId, id);
+    if (!descriptor) return;
+    var loadSeq = ++chapterLoadSeq;
     var body = $("text-body");
     hideLookup();
+    if (currentChapter && (currentChapter.id !== descriptor.id ||
+        !currentWork || currentWork.id !== workId)) clearPreview();
+    currentWork = work;
+    chapterList = work.chapters || [];
     body.innerHTML = "<p><em>Loading&hellip;</em></p>";
-    getChapter(id).then(function (d) {
+    getChapter(workId, descriptor.id).then(function (d) {
+      if (loadSeq !== chapterLoadSeq) return;
       currentChapter = d;
-      $("chapter-title").textContent = d.number + ". " + d.title;
-      document.title = d.title + " — The Joyce Project (local)";
+      $("chapter-title").textContent = work.id === "ulysses" ?
+        (d.number + ". " + d.title) : (d.title || descriptor.title);
+      document.title = (d.title || descriptor.title) + " — " + work.title;
       body.innerHTML = "";
       var wrap = document.createElement("div");
       wrap.className = "read-width";
       wrap.innerHTML = d.html_source;
       body.appendChild(wrap);
       colorizeLinks(body);
-      body.scrollTop = 0;
+      body.scrollTop = pageMode ? 0 : Number(storageGet(
+        "joyce:scroll:" + workId + ":" + descriptor.id, "0")) || 0;
       body.scrollLeft = 0;
       pageIndex = 0;
+      storageSet("joyce:last-work", workId);
+      storageSet("joyce:last-chapter:" + workId, descriptor.id);
       renderChapterList();
       scheduleLayout(false); // fresh chapter: restore its saved page
       if (pushHash !== false) {
         try {
-          history.pushState({ chapter: id }, "", "#/chapter/" + id);
-        } catch (e) { location.hash = "#/chapter/" + id; }
+          history.pushState({ work: workId, chapter: descriptor.id }, "",
+            routeFor(workId, descriptor.id));
+        } catch (e) { location.hash = routeFor(workId, descriptor.id); }
       }
     }).catch(function (err) {
+      if (loadSeq !== chapterLoadSeq) return;
       body.innerHTML = "<p>Could not load chapter: " +
         String(err && err.message || err) + "</p>";
     });
   }
 
   /* ---------- notes (right panel) ---------- */
-  function getNote(id) {
-    if (cache.notes[id]) return Promise.resolve(cache.notes[id]);
-    return fetchJSON("data/notes/" + id + ".json").then(function (d) {
-      cache.notes[id] = d;
+  function getNote(workId, id) {
+    var key = cacheKey(workId, id);
+    if (cache.notes[key]) return Promise.resolve(cache.notes[key]);
+    return fetchJSON(workDataPath(workId, "notes", id)).then(function (d) {
+      if (!d.work_id) d.work_id = workId; // legacy Ulysses data compatibility
+      cache.notes[key] = d;
       return d;
     });
   }
-  function getMedia(id) {
-    if (cache.media[id]) return Promise.resolve(cache.media[id]);
-    return fetchJSON("data/media/" + id + ".json").then(function (d) {
-      cache.media[id] = d;
+  function getMedia(workId, id) {
+    var key = cacheKey(workId, id);
+    if (cache.media[key]) return Promise.resolve(cache.media[key]);
+    return fetchJSON(workDataPath(workId, "media", id)).then(function (d) {
+      cache.media[key] = d;
       return d;
     }).catch(function () { return null; });
   }
 
-  function mediaFigure(m) {
+  function mediaFigure(m, workId) {
     if (!m) return null;
     if (m.type === "yt" && m.youtube_url) {
       var frame = document.createElement("iframe");
@@ -177,10 +278,12 @@
       var img = document.createElement("img");
       img.alt = m.title || "";
       img.loading = "lazy";
-      img.src = "static/img/" + m.id + "/img." + m.file_ext;
+      img.src = m.local_path || ("static/img/" + m.id + "/img." + m.file_ext);
       img.onerror = function () {
         img.onerror = null;
-        img.src = REMOTE + "/static/img/" + m.id + "/img." + m.file_ext;
+        if (!m.local_path) {
+          img.src = REMOTE + "/static/img/" + m.id + "/img." + m.file_ext;
+        }
       };
       fig2.appendChild(img);
       if (m.html_source) {
@@ -193,17 +296,46 @@
     return null;
   }
 
-  function renderNotePanel(note, mediaDocs) {
+  function renderNotePanel(noteOrNotes, mediaDocs) {
+    var notes = Array.isArray(noteOrNotes) ? noteOrNotes : [noteOrNotes];
+    notes = notes.filter(Boolean);
+    var first = notes[0] || { title: "(untitled note)", html_source: "" };
     $("preview-empty").hidden = true;
     $("preview-content").hidden = false;
-    $("note-title").textContent = note.title || "(untitled note)";
+    $("note-title").textContent = notes.length > 1 ?
+      "Related commentary" : (first.title || "(untitled note)");
     var nb = $("note-body");
-    nb.innerHTML = note.html_source || "<p><em>(empty note)</em></p>";
+    nb.innerHTML = "";
+    notes.forEach(function (note, index) {
+      var group = document.createElement("section");
+      group.className = "note-group";
+      if (note.id) group.setAttribute("data-note-id", note.id);
+      if (notes.length > 1) {
+        var heading = document.createElement("h3");
+        heading.textContent = note.title || "Related note " + (index + 1);
+        group.appendChild(heading);
+      }
+      var body = document.createElement("div");
+      body.innerHTML = note.html_source || "<p><em>(empty note)</em></p>";
+      group.appendChild(body);
+      if (note.source && note.source.url) {
+        var provenance = document.createElement("div");
+        provenance.className = "note-provenance";
+        var sourceLink = document.createElement("a");
+        sourceLink.href = note.source.url;
+        sourceLink.target = "_blank";
+        sourceLink.rel = "noopener";
+        sourceLink.textContent = "Source";
+        provenance.appendChild(sourceLink);
+        group.appendChild(provenance);
+      }
+      nb.appendChild(group);
+    });
     colorizeLinks(nb);
     var gal = $("media-gallery");
     gal.innerHTML = "";
     (mediaDocs || []).forEach(function (m) {
-      var f = mediaFigure(m);
+      var f = mediaFigure(m, first.work_id);
       if (f) gal.appendChild(f);
     });
     $("preview-content").scrollTop = 0;
@@ -211,41 +343,67 @@
     $("preview-back").disabled = noteStack.length <= 1;
   }
 
-  function openNote(id) {
-    if (!id) return;
+  function openNotes(workId, ids) {
+    if (!ids || !ids.length) return;
     $("preview-empty").hidden = true;
     $("preview-content").hidden = true;
     $("preview-status").textContent = "Loading note…";
     var token = loadingNote = {};
-    getNote(id).then(function (note) {
+    Promise.all(ids.map(function (id) {
+      return getNote(workId, id).catch(function () { return null; });
+    })).then(function (notes) {
       if (loadingNote !== token) return;
-      var ids = note.media_doc_ids || [];
-      return Promise.all(ids.map(getMedia)).then(function (docs) {
-        if (loadingNote !== token) return;
-        renderNotePanel(note, docs.filter(Boolean));
+      notes = notes.filter(Boolean);
+      if (!notes.length) throw new Error("note not found");
+      var mediaIds = [];
+      notes.forEach(function (note) {
+        (note.media_doc_ids || []).forEach(function (id) {
+          if (mediaIds.indexOf(id) < 0) mediaIds.push(id);
+        });
       });
+      return Promise.all(mediaIds.map(function (id) { return getMedia(workId, id); }))
+        .then(function (docs) {
+          if (loadingNote !== token) return;
+          renderNotePanel(notes, docs.filter(Boolean));
+        });
     }).catch(function () {
       if (loadingNote !== token) return;
       $("preview-content").hidden = true;
       $("preview-empty").hidden = false;
       $("preview-status").textContent =
-        "Note not found locally (" + id + "). " +
+        "Note not found locally (" + ids.join(", ") + "). " +
         "It may be a dangling reference in the source data.";
     });
   }
 
+  function sameNoteEntry(left, right) {
+    if (!left || !right || left.infoId || right.infoId) return false;
+    return left.workId === right.workId &&
+      left.ids.join(",") === right.ids.join(",");
+  }
+
+  function showNoteByIds(workId, ids, push) {
+    ids = ids.filter(function (id, index) { return id && ids.indexOf(id) === index; });
+    if (!ids.length) return;
+    var entry = { workId: workId, ids: ids };
+    if (push === true && !sameNoteEntry(noteStack[noteStack.length - 1], entry)) {
+      noteStack.push(entry);
+    }
+    openNotes(workId, ids);
+  }
+
   function showNoteById(id, push) {
-    // push === true: navigating forward (link click) -> record history.
-    // push === false: restoring from history -> do not record.
-    if (push === true) {
-      var top = noteStack[noteStack.length - 1];
-      if (!top || top !== id) noteStack.push(id);
-    }
     if (String(id).indexOf("info:") === 0) {
-      openInfo(String(id).slice(5), null, false);
+      openInfo(String(id).slice(5), null, push);
     } else {
-      openNote(id);
+      showNoteByIds(currentWork ? currentWork.id : "ulysses", [id], push);
     }
+  }
+
+  function showHistoryEntry(entry) {
+    if (!entry) return;
+    if (entry.infoId) openInfo(entry.infoId, entry.title, false);
+    else openNotes(entry.workId, entry.ids);
   }
 
   function clearPreview() {
@@ -262,15 +420,15 @@
   /* ---------- info pages (About links -> right panel) ---------- */
   function openInfo(id, title, push) {
     if (push !== false) {
-      var key = "info:" + id;
+      var entry = { infoId: id, title: title };
       var top = noteStack[noteStack.length - 1];
-      if (!top || top !== key) noteStack.push(key);
+      if (!top || top.infoId !== id) noteStack.push(entry);
     }
     $("preview-empty").hidden = true;
     $("preview-content").hidden = true;
     $("preview-status").textContent = "Loading…";
     fetchJSON("data/info/" + id + ".json").then(function (d) {
-      renderNotePanel({ title: title || d.title, html_source: d.html_source },
+      renderNotePanel([{ title: title || d.title, html_source: d.html_source }],
                       []);
     }).catch(function () {
       $("preview-status").textContent = "Could not load page.";
@@ -672,13 +830,51 @@
     try { return JSON.parse(localStorage.getItem(PAGES_KEY) || "{}") || {}; }
     catch (e) { return {}; }
   }
+
+  function pageKey() {
+    if (!currentWork || !currentChapter) return null;
+    return "joyce:page:" + currentWork.id + ":" + currentChapter.id;
+  }
+
+  function savedPage() {
+    var key = pageKey();
+    var namespaced = key ? storageGet(key, null) : null;
+    if (namespaced !== null) return Number(namespaced) || 0;
+    // Keep page positions from the original Ulysses-only reader usable.
+    if (currentWork && currentWork.id === "ulysses" && currentChapter) {
+      return Number(savedPages()[currentChapter.id]) || 0;
+    }
+    return 0;
+  }
+
   function savePage() {
-    if (!currentChapter) return;
-    try {
-      var m = savedPages();
-      m[currentChapter.id] = pageIndex;
-      localStorage.setItem(PAGES_KEY, JSON.stringify(m));
-    } catch (e) { /* ignore */ }
+    var key = pageKey();
+    if (key) storageSet(key, String(pageIndex));
+    // Also update the legacy object for old Ulysses sessions.
+    if (currentWork && currentWork.id === "ulysses" && currentChapter) {
+      try {
+        var m = savedPages();
+        m[currentChapter.id] = pageIndex;
+        localStorage.setItem(PAGES_KEY, JSON.stringify(m));
+      } catch (e) { /* ignore */ }
+    }
+  }
+
+  function saveScroll() {
+    if (!currentWork || !currentChapter || pageMode) return;
+    storageSet("joyce:scroll:" + currentWork.id + ":" + currentChapter.id,
+      String($("text-body").scrollTop || 0));
+  }
+
+  function wireReadingPosition() {
+    var pending = null;
+    $("text-body").addEventListener("scroll", function () {
+      if (pageMode || pending) return;
+      pending = window.setTimeout(function () {
+        pending = null;
+        saveScroll();
+      }, 120);
+    });
   }
 
   function applyPageMode() {
@@ -724,7 +920,7 @@
     pageCount = Math.max(1, Math.round(total / (pageW + PAGE_GAP)));
     pageIndex = keepPosition ?
       Math.round(ratio * (pageCount - 1)) :
-      (currentChapter ? (savedPages()[currentChapter.id] || 0) : 0);
+      savedPage();
     goToPage(Math.max(0, Math.min(pageCount - 1, pageIndex)), true);
   }
 
@@ -797,39 +993,47 @@
     wirePages();
     applyPageMode();
     wireLookup();
+    wireReadingPosition();
     $("text-body").addEventListener("click", onAnnotatedClick);
     $("note-body").addEventListener("click", onAnnotatedClick);
     $("preview-clear").addEventListener("click", clearPreview);
     $("preview-back").addEventListener("click", function () {
       if (noteStack.length <= 1) return;
       noteStack.pop(); // drop current
-      showNoteById(noteStack[noteStack.length - 1], false);
+      showHistoryEntry(noteStack[noteStack.length - 1]);
     });
     $("prev-chapter").addEventListener("click", function () {
       var idx = chapterList.findIndex(function (c) {
         return currentChapter && c.id === currentChapter.id;
       });
-      if (idx > 0) loadChapter(chapterList[idx - 1].id, true);
+      if (idx > 0 && currentWork) {
+        loadChapter(currentWork.id, chapterList[idx - 1].id, true);
+      }
     });
     $("next-chapter").addEventListener("click", function () {
       var idx = chapterList.findIndex(function (c) {
         return currentChapter && c.id === currentChapter.id;
       });
       if (idx >= 0 && idx < chapterList.length - 1) {
-        loadChapter(chapterList[idx + 1].id, true);
+        if (currentWork) loadChapter(currentWork.id, chapterList[idx + 1].id, true);
       }
     });
-    window.addEventListener("popstate", function (e) {
-      var m = (location.hash || "").match(/^#\/chapter\/([A-Za-z0-9\-_]+)/);
-      if (m) loadChapter(m[1], false);
-    });
+    function routeChanged() {
+      var route = parseRoute();
+      var work = route && workById(route.workId);
+      var descriptor = work && chapterDescriptor(work.id, route.chapter);
+      if (descriptor) loadChapter(work.id, descriptor.id, false);
+    }
+    window.addEventListener("popstate", routeChanged);
+    window.addEventListener("hashchange", routeChanged);
 
     Promise.all([
-      fetchJSON("data/chapters.json"),
+      fetchJSON("data/works.json"),
       fetchJSON("data/info.json").catch(function () { return []; })
     ]).then(function (res) {
-      chapterList = res[0];
+      works = res[0] || [];
       infoList = res[1] || [];
+      if (!works.length) throw new Error("data/works.json contains no works");
       var ul = $("info-list");
       infoList.forEach(function (info) {
         var li = document.createElement("li");
@@ -841,10 +1045,18 @@
         li.appendChild(b);
         ul.appendChild(li);
       });
-      var m = (location.hash || "").match(/^#\/chapter\/([A-Za-z0-9\-_]+)/);
-      var first = (m && m[1]) ||
-        (chapterList.length ? chapterList[0].id : null);
-      if (first) loadChapter(first, false);
+      var route = parseRoute();
+      var work = route && workById(route.workId);
+      if (!work) work = workById(storageGet("joyce:last-work", ""));
+      if (!work) work = works[0];
+      var descriptor = route && work && route.workId === work.id &&
+        chapterDescriptor(work.id, route.chapter);
+      if (!descriptor) {
+        descriptor = chapterDescriptor(work.id,
+          storageGet("joyce:last-chapter:" + work.id, ""));
+      }
+      if (!descriptor) descriptor = (work.chapters || [])[0];
+      if (descriptor) loadChapter(work.id, descriptor.id, false);
       else $("chapter-title").textContent = "No chapters found";
     }).catch(function (err) {
       $("chapter-title").textContent = "Failed to load";

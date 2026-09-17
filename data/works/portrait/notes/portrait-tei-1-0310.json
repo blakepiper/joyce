@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0310",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Mr Dedalus",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Mr Dedalus</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:310"
+  },
+  "anchor": {
+    "text": "Mr Dedalus",
+    "prefix": "ning the house of God into a polling-booth.\n\n —A nice answer, said Dante, for any man calling himself a catholic to give to his priest.\n\n —They have only themselves to blame, said ",
+    "suffix": " suavely. If they took a fool’s advice they would confine their attention to religion.\n\n —It is religion, Dante said. They are doing their duty in warning the people.\n\n —We go to t",
+    "start": 43042,
+    "end": 43052,
+    "canonical_text": "Mr Dedalus"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

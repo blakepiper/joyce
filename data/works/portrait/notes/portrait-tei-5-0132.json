@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0132",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: Pembroke",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Pembroke</p></blockquote><p class=\"tei-detail\">Coordinates: 51.873620 -8.347738</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:132"
+  },
+  "anchor": {
+    "text": "Pembroke",
+    "prefix": "f liberation would that be to forsake an absurdity which is logical and coherent and to embrace one which is illogical and incoherent?\n\n They had walked on towards the township of ",
+    "suffix": " and now, as they went on slowly along the avenues, the trees and the scattered lights in the villas soothed their minds. The air of wealth and repose diffused about them seemed to",
+    "start": 128998,
+    "end": 129006,
+    "canonical_text": "Pembroke"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "51.873620 -8.347738",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

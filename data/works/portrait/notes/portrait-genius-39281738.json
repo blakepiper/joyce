@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-39281738",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "PULCRA SUNT QUAE VISA PLACENT",
+  "html_source": "<p>Once again, the Latin of:<br /><em>Beautiful are those things that please the eyes</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/39281738/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Pulcra-sunt-quae-visa-placent",
+    "original_id": "39281738",
+    "referent_id": 39281738,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "PULCRA SUNT QUAE VISA PLACENT",
+    "prefix": "last one that remained, saying simply:\n\n —Proceed!\n\n —Aquinas, said Stephen, says that is beautiful the apprehension of which pleases.\n\n Lynch nodded.\n\n —I remember that, he said, ",
+    "suffix": ".\n\n —He uses the word visa, said Stephen, to cover esthetic apprehensions of all kinds, whether through sight or hearing or through any other avenue of apprehension. This word, tho",
+    "start": 62868,
+    "end": 62896,
+    "canonical_text": "Pulcra sunt quæ visa placent"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 39281738,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 21885753,
+        "login": "eliasdecaro",
+        "name": "eliasdecaro",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

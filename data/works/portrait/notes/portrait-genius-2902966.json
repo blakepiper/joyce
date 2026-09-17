@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2902966",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "THE ORIGIN OF SPECIES",
+  "html_source": "<p>Referring to <a href=\"http://en.wikipedia.org/wiki/On_the_Origin_of_Species\" rel=\"noopener nofollow\">On the Origin of Species</a>, written by <a href=\"http://en.wikipedia.org/wiki/Charles_Darwin\" rel=\"noopener nofollow\">Charles Darwin</a> and published in 1859.</p><p>The work essentially introduces the concept of <a href=\"http://en.wikipedia.org/wiki/Evolution\" rel=\"noopener nofollow\">evolution</a>, therein including such ideas as <a href=\"http://en.wikipedia.org/wiki/Natural_selection\" rel=\"noopener nofollow\">natural selection</a>.</p><p><img src=\"https://images.rapgenius.com/6a6963ec493e55559dde11dca542e6f1.623x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2902966/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/The-origin-of-species",
+    "original_id": "2902966",
+    "referent_id": 2902966,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "THE ORIGIN OF SPECIES",
+    "prefix": "agined. For my part I dislike that way out. It leads to eugenics rather than to esthetic. It leads you out of the maze into a new gaudy lectureroom where MacCann, with one hand on ",
+    "suffix": " and the other hand on the new testament, tells you that you admired the great flanks of Venus because you felt that she would bear you burly offspring and admired her great breast",
+    "start": 65228,
+    "end": 65249,
+    "canonical_text": "The Origin of Species"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2902966,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

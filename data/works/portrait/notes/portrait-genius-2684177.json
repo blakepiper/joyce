@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2684177",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Two five-shilling pieces",
+  "html_source": "<p>About 50 US dollars <a href=\"http://web.archive.org/web/20130409060236/http://www.robotwisdom.com/jaj/ulysses/prices.html\" rel=\"noopener nofollow\">today</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2684177/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Two-five-shilling-pieces",
+    "original_id": "2684177",
+    "referent_id": 2684177,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "two five-shilling pieces",
+    "prefix": "d her nose and eyes were red. But he had pretended not to see that she was going to cry. She was a nice mother but she was not so nice when she cried. And his father had given him ",
+    "suffix": " for pocket money. And his father had told him if he wanted anything to write home to him and, whatever he did, never to peach on a fellow. Then at the door of the castle the recto",
+    "start": 3746,
+    "end": 3770,
+    "canonical_text": "two five-shilling pieces"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2684177,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 0.6
+      },
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.4
+      }
+    ]
+  },
+  "color": "F59627"
+}

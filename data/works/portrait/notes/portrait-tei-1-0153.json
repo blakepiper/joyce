@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0153",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Prayer: O Lord, open our lips And our mouth shall announce Thy praise. Inclin…",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a prayer.</p><blockquote><p>O Lord, open our lips And our mouth shall announce Thy praise. Incline unto our aid, O God! O Lord, make haste to help us!</p></blockquote><p class=\"tei-detail\">TEI type: prayer</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:153"
+  },
+  "anchor": {
+    "text": "O Lord, open our lips And our mouth shall announce Thy praise. Incline unto our aid, O God! O Lord, make haste to help us!",
+    "prefix": "der the seawall beside his father’s house. But the kettle would be on the hob to make punch.\n\n The prefect of the chapel prayed above his head and his memory knew the responses:\n\n ",
+    "suffix": "\n\n There was a cold night smell in the chapel. But it was a holy smell. It was not like the smell of the old peasants who knelt at the back of the chapel at Sunday mass. That was a",
+    "start": 19455,
+    "end": 19578,
+    "canonical_text": "O Lord, open our lips\nAnd our mouths shall announce Thy praise.\nIncline unto our aid, O God!\nO Lord, make haste to help us!"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "lg",
+    "attributes": {
+      "type": "prayer"
+    }
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9959
+  },
+  "color": "AB59C2"
+}

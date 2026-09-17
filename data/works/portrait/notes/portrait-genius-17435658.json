@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-17435658",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Twigging",
+  "html_source": "<p>Brushing with a broom</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/17435658/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Twigging",
+    "original_id": "17435658",
+    "referent_id": 17435658,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "twigging",
+    "prefix": "e no attempt to flee from noises which caused him painful nervous irritation such as the sharpening of knives on the knifeboard, the gathering of cinders on the fireshovel and the ",
+    "suffix": " of the carpet. To mortify his smell was more difficult as he found in himself no instinctive repugnance to bad odours whether they were the odours of the outdoor world, such as th",
+    "start": 7942,
+    "end": 7950,
+    "canonical_text": "twigging"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 17435658,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 8753690,
+        "login": "FBA-ML",
+        "name": "FBA-ML",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

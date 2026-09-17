@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-3-0001",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "Place: Paris",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Paris</p></blockquote><p class=\"tei-detail\">Coordinates: 48.853157 2.343094</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-3:1"
+  },
+  "anchor": {
+    "text": "Paris",
+    "prefix": "ier, I suppose, the patron of your college. He came of an old and illustrious Spanish family and you remember that he was one of the first followers of saint Ignatius. They met in ",
+    "suffix": " where Francis Xavier was professor of philosophy at the university. This young and brilliant nobleman and man of letters entered heart and soul into the ideas of our glorious foun",
+    "start": 11355,
+    "end": 11360,
+    "canonical_text": "Paris"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "48.853157 2.343094",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

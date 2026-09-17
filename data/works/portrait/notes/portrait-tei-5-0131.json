@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0131",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: Adelphi hotel",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Adelphi hotel</p></blockquote><p class=\"tei-detail\">Coordinates: 53.350570 -6.254002</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:131"
+  },
+  "anchor": {
+    "text": "Adelphi hotel",
+    "prefix": "d whistled, called out:\n\n —Where are you fellows off to? What about that game, Cranly?\n\n They parleyed in shouts across the still air about a game of billiards to be played in the ",
+    "suffix": ". Stephen walked on alone and out into the quiet of Kildare Street opposite Maple’s hotel he stood to wait, patient again. The name of the hotel, a colourless polished wood, and it",
+    "start": 118308,
+    "end": 118321,
+    "canonical_text": "Adelphi hotel"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.350570 -6.254002",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

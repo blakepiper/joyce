@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4860586",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "White roses and red roses: those were beautiful colours to think of",
+  "html_source": "<p>An example of Stephen beginning to show his interest in art</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4860586/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/White-roses-and-red-roses-those-were-beautiful-colours-to-think-of",
+    "original_id": "4860586",
+    "referent_id": 4860586,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "White roses and red roses: those were beautiful colours to think of",
+    "prefix": "agerness passed away and he felt his face quite cool. He thought his face must be white because it felt so cool. He could not get out the answer for the sum but it did not matter. ",
+    "suffix": ". And the cards for first place and second place and third place were beautiful colours too: pink and cream and lavender. Lavender and cream and pink roses were beautiful to think ",
+    "start": 9542,
+    "end": 9609,
+    "canonical_text": "White roses and red roses: those were beautiful colours to think of"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4860586,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1424519,
+        "login": "iDreamofJami",
+        "name": "iDreamofJami",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

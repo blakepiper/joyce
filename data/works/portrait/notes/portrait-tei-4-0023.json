@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-4-0023",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Place: strand",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>strand</p></blockquote><p class=\"tei-detail\">Coordinates: 53.366498 -6.147804</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-4:23"
+  },
+  "anchor": {
+    "text": "strand",
+    "prefix": "laces over his shoulders and, picking a pointed salteaten stick out of the jetsam among the rocks, he clambered down the slope of the breakwater.\n\n There was a long rivulet in the ",
+    "suffix": " and, as he waded slowly up its course, he wondered at the endless drift of seaweed. Emerald and black and russet and olive, it moved beneath the current, swaying and turning. The ",
+    "start": 47842,
+    "end": 47848,
+    "canonical_text": "strand"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.366498 -6.147804",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

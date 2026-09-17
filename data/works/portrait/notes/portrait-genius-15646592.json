@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-15646592",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Sugar",
+  "html_source": "<p>From Seamus Deane:  “a dead loss, a hopeless case.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15646592/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Sugar",
+    "original_id": "15646592",
+    "referent_id": 15646592,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "sugar",
+    "prefix": "freely into my ear. Can you?\n\n A dull scowl appeared on Cranly’s forehead. He stared at the table where Moynihan had bent to write his name on the roll, and then said flatly:\n\n —A ",
+    "suffix": "!\n\n —Quis est in malo humore, said Stephen, ego aut vos?\n\n Cranly did not take up the taunt. He brooded sourly on his judgement and repeated with the same flat force:\n\n —A flaming ",
+    "start": 40845,
+    "end": 40850,
+    "canonical_text": "sugar"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 15646592,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 7060080,
+        "login": "keithalt",
+        "name": "keithalt",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

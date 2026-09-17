@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2724475",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "TEMPORA MUTANTUR NOS ET MUTAMUR IN ILLIS",
+  "html_source": "<p>Via <a href=\"http://translate.google.com/#la/en/TEMPORA%20MUTANTUR%20ET%20NOS%20MUTAMUR%20IN%20ILLIS.%0A%0ATEMPORA%20MUTANTUR%20NOS%20ET%20MUTAMUR%20IN%20ILLIS\" rel=\"noopener nofollow\">Google Translate</a>, this goes to</p><blockquote><p>Times change and we change with them</p></blockquote><p>This version seems to be the correct, and is very reflective of the Dedalus family’s position—losing their home, etc.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2724475/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2/Tempora-mutantur-nos-et-mutamur-in-illis",
+    "original_id": "2724475",
+    "referent_id": 2724475,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2-annotated"
+  },
+  "anchor": {
+    "text": "TEMPORA MUTANTUR NOS ET MUTAMUR IN ILLIS",
+    "prefix": " finer river than the Liffey. One of them, in order to put his Latin to the proof, had made him translate short passages from Dilectus and asked him whether it was correct to say: ",
+    "suffix": " or Tempora mutantur et nos mutamur in illis. Another, a brisk old man, whom Mr Dedalus called Johnny Cashman, had covered him with confusion by asking him to say which were pretti",
+    "start": 65703,
+    "end": 65743,
+    "canonical_text": "Tempora mutantur nos et mutamur in illis"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2724475,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

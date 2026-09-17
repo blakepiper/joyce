@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2647499",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Clongowes Wood College",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/6abb4c58da886ce0ddc48775436fb1e1.1000x667x1.jpg\" alt=\"\" /></p><p><em>(a building of present day <a href=\"http://en.wikipedia.org/wiki/Clongowes_Wood_College\" rel=\"noopener nofollow\">Clongowes Wood College</a>)</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2647499/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Clongowes-wood-college",
+    "original_id": "2647499",
+    "referent_id": 2647499,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Clongowes Wood College",
+    "prefix": " world was in the universe.\n\n He turned to the flyleaf of the geography and read what he had written there: himself, his name and where he was.\n\n Stephen Dedalus\nClass of Elements\n",
+    "suffix": "\nSallins\nCounty Kildare\nIreland\nEurope\nThe World\nThe Universe\n\n That was in his writing: and Fleming one night for a cod had written on the opposite page:\n\n Stephen Dedalus is my n",
+    "start": 15591,
+    "end": 15613,
+    "canonical_text": "Clongowes Wood College"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2647499,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

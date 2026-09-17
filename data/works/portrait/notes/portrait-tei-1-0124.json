@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0124",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Place: Ireland",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Ireland</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:124"
+  },
+  "anchor": {
+    "text": "Ireland",
+    "prefix": "ins\nCounty Kildare\nIreland\nEurope\nThe World\nThe Universe\n\n That was in his writing: and Fleming one night for a cod had written on the opposite page:\n\n Stephen Dedalus is my name,\n",
+    "suffix": " is my nation.\nClongowes is my dwellingplace\nAnd heaven my expectation.\n\n He read the verses backwards but then they were not poetry. Then he read the flyleaf from the bottom to th",
+    "start": 15798,
+    "end": 15805,
+    "canonical_text": "Ireland"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

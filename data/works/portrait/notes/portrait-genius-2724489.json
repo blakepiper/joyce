@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2724489",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "QUASI CEDRUS EXALTATA SUM IN LIBANON ET QUASI CUPRESSUS IN MONTE SION. QUASI PALMA EXALTATA SUM IN GADES ET QUASI PLANTATIO ROSAE IN JERICHO. QUASI ULIVA SPECIOSA IN CAMPIS ET QUASI PLATANUS EXALTATA SUM JUXTA AQUAM IN PLATEIS. SICUT CINNAMOMUM ET BALSAMUM AROMATIZANS ODOREM DEDI ET QUASI MYRRHA ELECTA DEDI SUAVITATEM ODORIS",
+  "html_source": "<p>Translated from the Latin,</p><blockquote><p>I am exalted as the cedar in Lebanon and as the cyprus on Mount Sion. I am exalted as the palm tree in Cadiz and as the rose in Jericho. I am exalted as a beautiful olive tree in the plains and as a plane-tree by the water in the streets. I gave forth a sweet fragrance like cinnamon and aromatic balm. I yielded a sweet smell like choicest myrrh.</p></blockquote><p><em>(<a href=\"http://rkc.org/joyce.html\" rel=\"noopener nofollow\">source</a>, ref. p.105 note)</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2724489/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3/Quasi-cedrus-exaltata-sum-in-libanon-et-quasi-cupressus-in-monte-sion-quasi-palma-exaltata-sum-in-gades-et-quasi-plantatio-rosae-in-jericho-quasi-uliva-speciosa-in-campis-et-quasi-platanus-exaltata-sum-juxta-aquam-in-plateis-sicut-cinnamomum-et-balsamum-aromatizans-odorem-dedi-et-quasi-myrrha-electa-dedi-suavitatem-odoris",
+    "original_id": "2724489",
+    "referent_id": 2724489,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3-annotated"
+  },
+  "anchor": {
+    "text": "QUASI CEDRUS EXALTATA SUM IN LIBANON ET QUASI CUPRESSUS IN MONTE SION. QUASI PALMA EXALTATA SUM IN GADES ET QUASI PLANTATIO ROSAE IN JERICHO. QUASI ULIVA SPECIOSA IN CAMPIS ET QUASI PLATANUS EXALTATA SUM JUXTA AQUAM IN PLATEIS. SICUT CINNAMOMUM ET BALSAMUM AROMATIZANS ODOREM DEDI ET QUASI MYRRHA ELECTA DEDI SUAVITATEM ODORIS",
+    "prefix": "gradual growth of her cultus among men. When it fell to him to read the lesson towards the close of the office he read it in a veiled voice, lulling his conscience to its music.\n\n ",
+    "suffix": ".\n\n His sin, which had covered him from the sight of God, had led him nearer to the refuge of sinners. Her eyes seemed to regard him with mild pity; her holiness, a strange light g",
+    "start": 5880,
+    "end": 6206,
+    "canonical_text": "Quasi cedrus exaltata sum in Libanon et quasi cupressus in monte Sion. Quasi palma exaltata sum in Gades et quasi plantatio rosae in Jericho. Quasi uliva speciosa in campis et quasi platanus exaltata sum juxta aquam in plateis. Sicut cinnamomum et balsamum aromatizans odorem dedi et quasi myrrha electa dedi suavitatem odoris"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2724489,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

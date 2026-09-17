@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-2-0032",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "LA passage: Tempora mutantur et nos mutamur in illis",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>Tempora mutantur et nos mutamur in illis</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-2:32"
+  },
+  "anchor": {
+    "text": "Tempora mutantur et nos mutamur in illis",
+    "prefix": "n order to put his Latin to the proof, had made him translate short passages from Dilectus and asked him whether it was correct to say: Tempora mutantur nos et mutamur in illis or ",
+    "suffix": ". Another, a brisk old man, whom Mr Dedalus called Johnny Cashman, had covered him with confusion by asking him to say which were prettier, the Dublin girls or the Cork girls.\n\n —H",
+    "start": 65747,
+    "end": 65787,
+    "canonical_text": "Tempora mutantur et nos mutamur in illis"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

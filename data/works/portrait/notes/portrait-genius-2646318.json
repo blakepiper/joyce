@@ -1,0 +1,56 @@
+{
+  "id": "portrait-genius-2646318",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "His",
+  "html_source": "<p>Stephen is referred to in third person here, establishing the narrator as being somewhat independent of the hero. (Stephen would have been too young to refer to this moment in first person.)</p><p>This is the manner by which Joyce depicts Dedalus’s growth in the <a href=\"http://en.wikipedia.org/wiki/K%C3%BCnstlerroman\" rel=\"noopener nofollow\">Künstlerroman</a>—\"a narrative about an artist’s growth to maturity.\"</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2646318/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/His",
+    "original_id": "2646318",
+    "referent_id": 2646318,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "His",
+    "prefix": " time and a very good time it was there was a moocow coming down along the road and this moocow that was coming down along the road met a nicens little boy named baby tuckoo....\n\n ",
+    "suffix": " father told him that story: his father looked at him through a glass: he had a hairy face.\n\n He was baby tuckoo. The moocow came down the road where Betty Byrne lived: she sold le",
+    "start": 277,
+    "end": 280,
+    "canonical_text": "His"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 2646318,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 0.6981132075471699
+      },
+      {
+        "id": 1424519,
+        "login": "iDreamofJami",
+        "name": "iDreamofJami",
+        "role": "contributor",
+        "attribution": 0.18867924528301888
+      },
+      {
+        "id": 149810,
+        "login": "perfectrhyme",
+        "name": "Perfectrhyme",
+        "role": "editor",
+        "attribution": 0.11320754716981131
+      }
+    ]
+  },
+  "color": "F59627"
+}

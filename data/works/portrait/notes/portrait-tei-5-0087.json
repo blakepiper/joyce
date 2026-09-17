@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0087",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "LA passage: Ego habeo.",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>Ego habeo.</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:87"
+  },
+  "anchor": {
+    "text": "Ego habeo.",
+    "prefix": "of a soft hat Cranly’s dark eyes were watching him.\n\n —Have you signed? Stephen asked.\n\n Cranly closed his long thinlipped mouth, communed with himself an instant and answered:\n\n —",
+    "suffix": "\n\n —What is it for?\n\n —Quod?\n\n —What is it for?\n\n Cranly turned his pale face to Stephen and said blandly and bitterly:\n\n —Per pax universalis.\n\n Stephen pointed to the Tsar’s phot",
+    "start": 39747,
+    "end": 39757,
+    "canonical_text": "Ego habeo."
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

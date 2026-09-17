@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0214",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Athy",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Athy</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:214"
+  },
+  "anchor": {
+    "text": "Athy",
+    "prefix": "other Michael was going away and the fellow out of the third of grammar told him to be sure and come back and tell him all the news in the paper. He told Stephen that his name was ",
+    "suffix": " and that his father kept a lot of racehorses that were spiffing jumpers and that his father would give a good tip to Brother Michael any time he wanted it because Brother Michael ",
+    "start": 32143,
+    "end": 32147,
+    "canonical_text": "Athy"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

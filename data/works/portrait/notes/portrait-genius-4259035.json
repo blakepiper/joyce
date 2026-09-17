@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4259035",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Wantonness",
+  "html_source": "<p>“disposition to willfully inflict pain and suffering on others”</p><p><a href=\"http://www.merriam-webster.com/thesaurus/wantonness\" rel=\"noopener nofollow\">http://www.merriam-webster.com/thesaurus/wantonness</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4259035/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Wantonness",
+    "original_id": "4259035",
+    "referent_id": 4259035,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "wantonness",
+    "prefix": ".\n\n She was alone and still, gazing out to sea; and when she felt his presence and the worship of his eyes her eyes turned to him in quiet sufferance of his gaze, without shame or ",
+    "suffix": ". Long, long she suffered his gaze and then quietly withdrew her eyes from his and bent them towards the stream, gently stirring the water with her foot hither and thither. The fir",
+    "start": 49830,
+    "end": 49840,
+    "canonical_text": "wantonness"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4259035,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1254056,
+        "login": "sandylefeb16",
+        "name": "sandylefeb16",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4259070",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Element of the spirit",
+  "html_source": "<p>Communicates a sense of being one with nature and the world as a whole.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4259070/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Element-of-the-spirit",
+    "original_id": "4259070",
+    "referent_id": 4259070,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "element of the spirit",
+    "prefix": " was in flight. His soul was soaring in an air beyond the world and the body he knew was purified in a breath and delivered of incertitude and made radiant and commingled with the ",
+    "suffix": ". An ecstasy of flight made radiant his eyes and wild his breath and tremulous and wild and radiant his windswept limbs.\n\n —One! Two!... Look out!\n\n —O, Cripes, I’m drownded!\n\n —On",
+    "start": 45428,
+    "end": 45449,
+    "canonical_text": "element of the spirit"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4259070,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1254060,
+        "login": "epiphanies",
+        "name": "epiphanies",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

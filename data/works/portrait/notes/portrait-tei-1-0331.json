@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0331",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: uncle Charles",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>uncle Charles</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:331"
+  },
+  "anchor": {
+    "text": "uncle Charles",
+    "prefix": " language of the railway porter. Well now, that’s all right. Here, Stephen, show me your plate, old chap. Eat away now. Here.\n\n He heaped up the food on Stephen’s plate and served ",
+    "suffix": " and Mr Casey to large pieces of turkey and splashes of sauce. Mrs Dedalus was eating little and Dante sat with her hands in her lap. She was red in the face. Mr Dedalus rooted wit",
+    "start": 45594,
+    "end": 45607,
+    "canonical_text": "uncle Charles"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

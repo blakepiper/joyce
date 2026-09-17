@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2704418",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "His eyes were weak",
+  "html_source": "<p>Nearsighted</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2704418/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/His-eyes-were-weak",
+    "original_id": "2704418",
+    "referent_id": 2704418,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "his eyes were weak",
+    "prefix": "ringe of his line, out of sight of his prefect, out of the reach of the rude feet, feigning to run now and then. He felt his body small and weak amid the throng of the players and ",
+    "suffix": " and watery. Rody Kickham was not like that: he would be captain of the third line all the fellows said.\n\n Rody Kickham was a decent fellow but Nasty Roche was a stink. Rody Kickha",
+    "start": 2155,
+    "end": 2173,
+    "canonical_text": "his eyes were weak"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 2704418,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

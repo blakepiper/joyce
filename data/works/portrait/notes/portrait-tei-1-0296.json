@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0296",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Dante",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Dante</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:296"
+  },
+  "anchor": {
+    "text": "Dante",
+    "prefix": "adn’t we, John? Yes... I wonder if there’s any likelihood of dinner this evening. Yes... O, well now, we got a good breath of ozone round the Head today. Ay, bedad.\n\n He turned to ",
+    "suffix": " and said:\n\n —You didn’t stir out at all, Mrs Riordan?\n\n Dante frowned and said shortly:\n\n —No.\n\n Mr Dedalus dropped his coat tails and went over to the sideboard. He brought forth",
+    "start": 38306,
+    "end": 38311,
+    "canonical_text": "Dante"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4860630",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Suck.",
+  "html_source": "<p>Calling him McGlade’s suck is also calling him a suck up or a teacher’s pet</p><p><img src=\"https://images.rapgenius.com/cd03ad8ba28131aa4286fe1a76603cc1.1000x750x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4860630/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Suck",
+    "original_id": "4860630",
+    "referent_id": 4860630,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "suck.",
+    "prefix": "ven answering the fellow. Simon Moonan told him not to because the prefect was looking. The fellow turned to Simon Moonan and said:\n\n —We all know why you speak. You are McGlade’s ",
+    "suffix": "\n\n Suck was a queer word. The fellow called Simon Moonan that name because Simon Moonan used to tie the prefect’s false sleeves behind his back and the prefect used to let on to be",
+    "start": 7207,
+    "end": 7212,
+    "canonical_text": "suck."
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 4860630,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1424519,
+        "login": "iDreamofJami",
+        "name": "iDreamofJami",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

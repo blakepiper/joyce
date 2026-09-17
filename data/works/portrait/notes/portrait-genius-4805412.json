@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4805412",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Sloblands of Fairview",
+  "html_source": "<p>The tidal flats where the Tolka river enters Dublin Bay. Now reclaimed land, much of the infill was provided by debris left by the Rising of 1916.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4805412/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Sloblands-of-fairview",
+    "original_id": "4805412",
+    "referent_id": 4805412,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "sloblands of Fairview",
+    "prefix": "heir pale sorrows and the fragrance falling from the wet branches mingled in a mood of quiet joy. His morning walk across the city had begun, and he foreknew that as he passed the ",
+    "suffix": " he would think of the cloistral silverveined prose of Newman; that as he walked along the North Strand Road, glancing idly at the windows of the provision shops, he would recall t",
+    "start": 3740,
+    "end": 3761,
+    "canonical_text": "sloblands of Fairview"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4805412,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1356898,
+        "login": "ecbiv",
+        "name": "ecbiv",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

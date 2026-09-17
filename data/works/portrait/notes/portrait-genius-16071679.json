@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-16071679",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Visit, we beseech Thee, O Lord, this habitation and drive away from it all the snares of the enemy. May Thy holy angels dwell herein to preserve us in peace and may Thy blessing be always upon us through Christ, Our Lord. Amen.",
+  "html_source": "<p>Short family prayer for the protection of the home.<br />Printed in capital letters it may indicate a strong  participation by the crowd (including Stephen) especially as it is a well known family prayer but probably also the final one</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/16071679/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Visit-we-beseech-thee-o-lord-this-habitation-and-drive-away-from-it-all-the-snares-of-the-enemy-may-thy-holy-angels-dwell-herein-to-preserve-us-in-peace-and-may-thy-blessing-be-always-upon-us-through-christ-our-lord-amen",
+    "original_id": "16071679",
+    "referent_id": 16071679,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Visit, we beseech Thee, O Lord, this habitation and drive away from it all the snares of the enemy. May Thy holy angels dwell herein to preserve us in peace and may Thy blessing be always upon us through Christ, Our Lord. Amen.",
+    "prefix": ". It made him afraid to think of how it was.\n\n He heard the voice of the prefect of the chapel saying the last prayer. He prayed it too against the dark outside under the trees.\n\n ",
+    "suffix": ".\n\n His fingers trembled as he undressed himself in the dormitory. He told his fingers to hurry up. He had to undress and then kneel and say his own prayers and be in bed before th",
+    "start": 20570,
+    "end": 20795,
+    "canonical_text": "Visit, we beseech Thee, O Lord, this habitation and\ndrive away from it all the snares of the enemy. May\nThy holy angels dwell herein to preserve us in peace\nand may Thy blessing be always upon us through\nChrist our Lord. Amen"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 16071679,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3265261,
+        "login": "DanielDreesen",
+        "name": "DanielDreesen",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

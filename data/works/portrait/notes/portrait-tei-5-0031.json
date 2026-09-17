@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0031",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Person: Ovid",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Ovid</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:31"
+  },
+  "anchor": {
+    "text": "Ovid",
+    "prefix": "e first examples that he had learnt in Latin had run: India mittit ebur; and he recalled the shrewd northern face of the rector who had taught him to construe the Metamorphoses of ",
+    "suffix": " in a courtly English, made whimsical by the mention of porkers and potsherds and chines of bacon. He had learnt what little he knew of the laws of Latin verse from a ragged book w",
+    "start": 10147,
+    "end": 10151,
+    "canonical_text": "Ovid"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

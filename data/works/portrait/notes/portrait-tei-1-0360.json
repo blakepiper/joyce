@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0360",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Neologism: terrorstricken",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a neologism.</p><blockquote><p>terrorstricken</p></blockquote><p class=\"tei-detail\">TEI type: neologism</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:360"
+  },
+  "anchor": {
+    "text": "terrorstricken",
+    "prefix": " from his holders, suddenly bowed his head on his hands with a sob of pain.\n\n —Poor Parnell! he cried loudly. My dead king!\n\n He sobbed loudly and bitterly.\n\n Stephen, raising his ",
+    "suffix": " face, saw that his father’s eyes were full of tears.\n\n The fellows talked together in little groups.\n\n One fellow said:\n\n —They were caught near the Hill of Lyons.\n\n —Who caught t",
+    "start": 58133,
+    "end": 58147,
+    "canonical_text": "terrorstricken"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "type": "neologism"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "9C632A"
+}

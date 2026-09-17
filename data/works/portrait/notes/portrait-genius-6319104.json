@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-6319104",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Pavan",
+  "html_source": "<p>A pavan is a type of dance, most likely of Italian origin.  It was performed in the processional style and was popular in 16th century Renaissance Europe.  Alternate spellings include pavane, paving, pavine, or even pavyn.  As exemplified in this video, the pavan was a slow dance.  A very, very slow dance.<br /><a href=\"https://www.youtube.com/watch?v=B10z9b_PRXw\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=B10z9b_PRXw</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6319104/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Pavan",
+    "original_id": "6319104",
+    "referent_id": 6319104,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "pavan",
+    "prefix": "e shimmer of the scum that mantled the cesspool of the court of a slobbering Stuart. And he tasted in the language of memory ambered wines, dying fallings of sweet airs, the proud ",
+    "suffix": ", and saw with the eyes of memory kind gentlewomen in Covent Garden wooing from their balconies with sucking mouths and the poxfouled wenches of the taverns and young wives that, g",
+    "start": 110258,
+    "end": 110263,
+    "canonical_text": "pavan"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6319104,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1509610,
+        "login": "annarc_29",
+        "name": "annarc_29",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

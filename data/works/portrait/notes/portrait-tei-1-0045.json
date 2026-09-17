@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0045",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Wells",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Wells</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:45"
+  },
+  "anchor": {
+    "text": "Wells",
+    "prefix": "e to lie on the hearthrug before the fire, leaning his head upon his hands, and think on those sentences. He shivered as if he had cold slimy water next his skin. That was mean of ",
+    "suffix": " to shoulder him into the square ditch because he would not swop his little snuffbox for Wells’s seasoned hacking chestnut, the conqueror of forty. How cold and slimy the water had",
+    "start": 5824,
+    "end": 5829,
+    "canonical_text": "Wells"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

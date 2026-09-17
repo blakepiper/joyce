@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2724407",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "He had little turns for it, grace notes that he used to put in that I haven’t got.",
+  "html_source": "<p><a href=\"http://en.wikipedia.org/wiki/Grace_note\" rel=\"noopener nofollow\">Grace Notes</a> looks like these,</p><p><img src=\"https://images.rapgenius.com/1d281e4d8164e170bd0a31b85e169379.800x379x1.png\" alt=\"\" /></p><p>They are a very short note preceding another of a normal value.</p><p>You can hear them vs ordinary <a href=\"http://en.wikipedia.org/wiki/Quarter_notes\" rel=\"noopener nofollow\">quarter notes</a> in this video<br /><a href=\"http://www.youtube.com/watch?v=FotiMHiHYaU&amp;t=0m33s\" rel=\"noopener nofollow\">http://www.youtube.com/watch?v=FotiMHiHYaU&amp;t=0m33s</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2724407/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2/He-had-little-turns-for-it-grace-notes-that-he-used-to-put-in-that-i-havent-got",
+    "original_id": "2724407",
+    "referent_id": 2724407,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-2-annotated"
+  },
+  "anchor": {
+    "text": "He had little turns for it, grace notes that he used to put in that I haven't got.",
+    "prefix": "alus.\n\n —I like it, said Stephen.\n\n —It’s a pretty old air, said Mr Dedalus, twirling the points of his moustache. Ah, but you should have heard Mick Lacy sing it! Poor Mick Lacy! ",
+    "suffix": " That was the boy who could sing a come-all-you, if you like.\n\n Mr Dedalus had ordered drisheens for breakfast and during the meal he cross-examined the waiter for local news. For ",
+    "start": 55177,
+    "end": 55259,
+    "canonical_text": "He had little turns for it, grace notes that he used to put in that I haven’t got."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2724407,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

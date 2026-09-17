@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2647565",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "—Parnell! Parnell! He is dead!",
+  "html_source": "<p><a href=\"http://en.wikipedia.org/wiki/Charles_Stewart_Parnell\" rel=\"noopener nofollow\">Charles Stewart Parnell</a>, a leading Irish politician, who <a href=\"http://en.wikipedia.org/wiki/Charles_Stewart_Parnell#Death\" rel=\"noopener nofollow\">died in 1891</a>. Parnell appears throughout the novel as a topic of discussion, and was a critical figure of the time.</p><p><img src=\"https://images.rapgenius.com/dac7e637bd1a9911723f99a34be27f0c.796x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2647565/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Parnell-parnell-he-is-dead",
+    "original_id": "2647565",
+    "referent_id": 2647565,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "—Parnell! Parnell! He is dead!",
+    "prefix": "nd towards the people and heard him say in a loud voice of sorrow over the waters:\n\n —He is dead. We saw him lying upon the catafalque. A wail of sorrow went up from the people.\n\n ",
+    "suffix": "\n\n They fell upon their knees, moaning in sorrow.\n\n And he saw Dante in a maroon velvet dress and with a green velvet mantle hanging from her shoulders walking proudly and silently",
+    "start": 36230,
+    "end": 36260,
+    "canonical_text": "—Parnell! Parnell! He is dead!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2647565,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

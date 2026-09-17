@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0095",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: Middlesex",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Middlesex</p></blockquote><p class=\"tei-detail\">Coordinates: 51.520987 -0.415985</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:95"
+  },
+  "anchor": {
+    "text": "Middlesex",
+    "prefix": "cialism was founded by an Irishman and the first man in Europe who preached the freedom of thought was Collins. Two hundred years ago. He denounced priestcraft, the philosopher of ",
+    "suffix": ". Three cheers for John Anthony Collins!\n\n A thin voice from the verge of the ring replied:\n\n —Pip! pip!\n\n Moynihan murmured beside Stephen’s ear:\n\n —And what about John Anthony’s ",
+    "start": 44261,
+    "end": 44270,
+    "canonical_text": "Middlesex"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "51.520987 -0.415985",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

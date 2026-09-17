@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0095",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Stephen",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Stephen</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:95"
+  },
+  "anchor": {
+    "text": "Stephen",
+    "prefix": "ling them something about Tullabeg.\n\n Then he went away from the door and Wells came over to Stephen and said:\n\n —Tell us, Dedalus, do you kiss your mother before you go to bed?\n\n ",
+    "suffix": " answered:\n\n —I do.\n\n Wells turned to the other fellows and said:\n\n —O, I say, here’s a fellow says he kisses his mother every night before he goes to bed.\n\n The other fellows stop",
+    "start": 12685,
+    "end": 12692,
+    "canonical_text": "Stephen"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

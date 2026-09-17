@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4805577",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Curfew was still a nightly fear",
+  "html_source": "<p>Curfew was one of the elements in many of the Coercion Acts passed at Westminster for the administration of Ireland. One hundred and five such acts were passed between 1800 and 1921.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4805577/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Curfew-was-still-a-nightly-fear",
+    "original_id": "4805577",
+    "referent_id": 4805577,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "curfew was still a nightly fear",
+    "prefix": "ftly and suddenly by a grossness of intelligence or by a bluntness of feeling or by a dull stare of terror in the eyes, the terror of soul of a starving Irish village in which the ",
+    "suffix": ".\n\n Side by side with his memory of the deeds of prowess of his uncle Mat Davin, the athlete, the young peasant worshipped the sorrowful legend of Ireland. The gossip of his fellow",
+    "start": 13243,
+    "end": 13274,
+    "canonical_text": "curfew was still a nightly fear"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4805577,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1356898,
+        "login": "ecbiv",
+        "name": "ecbiv",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

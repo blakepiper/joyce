@@ -1,0 +1,31 @@
+{
+  "id": "portrait-tei-5-0006",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Person: Maggie",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Maggie</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:6"
+  },
+  "anchor": {
+    "text": "Maggie",
+    "prefix": "",
+    "suffix": "",
+    "start": null,
+    "end": null
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": [
+      0.7273
+    ]
+  },
+  "color": "7AA8FF"
+}

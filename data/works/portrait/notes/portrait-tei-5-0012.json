@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0012",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Person: Guido Cavalcanti",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Guido Cavalcanti</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:12"
+  },
+  "anchor": {
+    "text": "Guido Cavalcanti",
+    "prefix": " the cloistral silverveined prose of Newman; that as he walked along the North Strand Road, glancing idly at the windows of the provision shops, he would recall the dark humour of ",
+    "suffix": " and smile; that as he went by Baird’s stonecutting works in Talbot Place the spirit of Ibsen would blow through him like a keen wind, a spirit of wayward boyish beauty; and that p",
+    "start": 3959,
+    "end": 3975,
+    "canonical_text": "Guido Cavalcanti"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

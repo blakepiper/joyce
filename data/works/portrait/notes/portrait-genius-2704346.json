@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2704346",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Soldiers’ slugs",
+  "html_source": "<p>The bullets fired at Rowan a century earlier</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2704346/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Soldiers-slugs",
+    "original_id": "2704346",
+    "referent_id": 2704346,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "soldiers' slugs",
+    "prefix": "ad thrown his hat on the haha and had there been flowerbeds at that time under the windows. One day when he had been called to the castle the butler had shown him the marks of the ",
+    "suffix": " in the wood of the door and had given him a piece of shortbread that the community ate. It was nice and warm to see the lights in the castle. It was like something in a book. Perh",
+    "start": 5136,
+    "end": 5151,
+    "canonical_text": "soldiers’ slugs"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 2704346,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

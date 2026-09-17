@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-11116191",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "What’s up",
+  "html_source": "<p>‘Hi, how are things, what are ye up to’. A Greeting and 2 questions, all in 2 words. The polite answer is ‘nothing much’  or ‘this and that’. But it depends on circumstance.Its  still in use today, I’m surprised to find its so old. The Brothers surly response to this mangled English is typically of the Catholic Church.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11116191/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Whats-up",
+    "original_id": "11116191",
+    "referent_id": 11116191,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "What's up",
+    "prefix": "or why could he not catch up on the others?\n\n There were two beds in the room and in one bed there was a fellow: and when they went in he called out:\n\n —Hello! It’s young Dedalus! ",
+    "suffix": "?\n\n —The sky is up, Brother Michael said.\n\n He was a fellow out of the third of grammar and, while Stephen was undressing, he asked Brother Michael to bring him a round of buttered",
+    "start": 29196,
+    "end": 29205,
+    "canonical_text": "What’s up"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 11116191,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 4017165,
+        "login": "KevinFoy",
+        "name": "KevinFoy",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

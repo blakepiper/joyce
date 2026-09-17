@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0040",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Hamilton Rowan",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Hamilton Rowan</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:40"
+  },
+  "anchor": {
+    "text": "Hamilton Rowan",
+    "prefix": "o seventysix.\n\n It would be better to be in the study hall than out there in the cold. The sky was pale and cold but there were lights in the castle. He wondered from which window ",
+    "suffix": " had thrown his hat on the haha and had there been flowerbeds at that time under the windows. One day when he had been called to the castle the butler had shown him the marks of th",
+    "start": 4940,
+    "end": 4954,
+    "canonical_text": "Hamilton Rowan"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

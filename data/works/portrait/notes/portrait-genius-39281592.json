@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-39281592",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "SUPER SPOTTUM",
+  "html_source": "<p>Literally, the Latin:<br /><em>Over the spot</em><br />But likely meant as:<br /><em>On the spot</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/39281592/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Super-spottum",
+    "original_id": "39281592",
+    "referent_id": 39281592,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "SUPER SPOTTUM",
+    "prefix": " from the grass at his feet, turned swiftly and said sternly:\n\n —Temple, I declare to the living God if you say another word, do you know, to anybody on any subject, I’ll kill you ",
+    "suffix": ".\n\n —He was like you, I fancy, said Stephen, an emotional man.\n\n —Blast him, curse him! said Cranly broadly. Don’t talk to him at all. Sure, you might as well be talking, do you kn",
+    "start": 50048,
+    "end": 50061,
+    "canonical_text": "super spottum"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 39281592,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 21885753,
+        "login": "eliasdecaro",
+        "name": "eliasdecaro",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

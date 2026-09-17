@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2694495",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Brigid",
+  "html_source": "<p>A servant, illustrating their wealth at the time</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2694495/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Brigid",
+    "original_id": "2694495",
+    "referent_id": 2694495,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Brigid",
+    "prefix": "chestnut, the conqueror of forty. How cold and slimy the water had been! A fellow had once seen a big rat jump into the scum. Mother was sitting at the fire with Dante waiting for ",
+    "suffix": " to bring in the tea. She had her feet on the fender and her jewelly slippers were so hot and they had such a lovely warm smell! Dante knew a lot of things. She had taught him wher",
+    "start": 6123,
+    "end": 6129,
+    "canonical_text": "Brigid"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 2694495,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

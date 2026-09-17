@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-2-0015",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "Place: Blackrock",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Blackrock</p></blockquote><p class=\"tei-detail\">Coordinates: 53.300907 -6.177049</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-2:15"
+  },
+  "anchor": {
+    "text": "Blackrock",
+    "prefix": "e is wrapped. When he had broken up this scenery, weary of its tinsel, there would come to his mind the bright picture of Marseilles, of sunny trellises and of Mercedes.\n\n Outside ",
+    "suffix": ", on the road that led to the mountains, stood a small whitewashed house in the garden of which grew many rosebushes: and in this house, he told himself, another Mercedes lived. Bo",
+    "start": 5690,
+    "end": 5699,
+    "canonical_text": "Blackrock"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.300907 -6.177049",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

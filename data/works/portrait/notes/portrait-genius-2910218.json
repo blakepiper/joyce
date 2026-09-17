@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2910218",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "—Closing time, gents!",
+  "html_source": "<p>Moynihan mocks the bell (and perhaps the entire setting) with this remark, comparing it to a bar type setting when the bartender must close the bar.</p><p><img src=\"https://images.rapgenius.com/10a865ac3c86779c8e5ca9029f717fe1.1000x664x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2910218/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Closing-time-gents",
+    "original_id": "2910218",
+    "referent_id": 2910218,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "—Closing time, gents!",
+    "prefix": "it spoke of, doubling, trebling, quadrupling its somnolent energy as the coil multiplied its ohms of resistance.\n\n Moynihan’s voice called from behind in echo to a distant bell:\n\n ",
+    "suffix": "\n\n The entrance hall was crowded and loud with talk. On a table near the door were two photographs in frames and between them a long roll of paper bearing an irregular tail of sign",
+    "start": 39006,
+    "end": 39027,
+    "canonical_text": "—Closing time, gents!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2910218,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

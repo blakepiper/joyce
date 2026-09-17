@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0079",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Stephen",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Stephen</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:79"
+  },
+  "anchor": {
+    "text": "Stephen",
+    "prefix": "layroom you could hear it.\n\n It was the hour for sums. Father Arnall wrote a hard sum on the board and then said:\n\n —Now then, who will win? Go ahead, York! Go ahead, Lancaster!\n\n ",
+    "suffix": " tried his best but the sum was too hard and he felt confused. The little silk badge with the white rose on it that was pinned on the breast of his jacket began to flutter. He was ",
+    "start": 8387,
+    "end": 8394,
+    "canonical_text": "Stephen"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

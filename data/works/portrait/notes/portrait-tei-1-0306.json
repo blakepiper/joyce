@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0306",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Mr Casey",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Mr Casey</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:306"
+  },
+  "anchor": {
+    "text": "Mr Casey",
+    "prefix": "ecause his mouth was full but he nodded that it was.\n\n —That was a good answer our friend made to the canon. What? said Mr Dedalus.\n\n —I didn’t think he had that much in him, said ",
+    "suffix": ".\n\n —I’ll pay your dues, father, when you cease turning the house of God into a polling-booth.\n\n —A nice answer, said Dante, for any man calling himself a catholic to give to his p",
+    "start": 42803,
+    "end": 42811,
+    "canonical_text": "Mr Casey"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

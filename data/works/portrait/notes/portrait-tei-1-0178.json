@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0178",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Fleming",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Fleming</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:178"
+  },
+  "anchor": {
+    "text": "Fleming",
+    "prefix": "e and body were very hot.\n\n He got up and sat on the side of his bed. He was weak. He tried to pull on his stocking. It had a horrid rough feel. The sunlight was queer and cold.\n\n ",
+    "suffix": " said:\n\n —Are you not well?\n\n He did not know; and Fleming said:\n\n —Get back into bed. I’ll tell McGlade you’re not well.\n\n —He’s sick.\n\n —Who is?\n\n —Tell McGlade.\n\n —Get back into",
+    "start": 25679,
+    "end": 25686,
+    "canonical_text": "Fleming"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

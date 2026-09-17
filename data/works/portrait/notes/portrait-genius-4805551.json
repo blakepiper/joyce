@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4805551",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Thought of his friend Davin",
+  "html_source": "<p>Modeled on George Clancy (1881-1921), a contemporary of Joyce at University College. He became Lord Mayor of Limerick and was murdered by members of the Black and Tans, the notorious British Army regiment, in 1921. Stephen thinks of Davin at this point because Davin (or Clancy) was an ardent supporter of the Gaelic Athletic Association, and of the Gaelic League, one of the revival movements that made a great deal of Ireland’s legendary Celtic past. (Clancy even persuaded Joyce briefly to attend Irish classes given by Padraic Pearse, the leader of the 1916 Rising.) Davin is unique in that he addresses Stephen by his first name. His other Dublin friends address him more formally as ‘Dedalus’.</p><p><a href=\"http://en.wikipedia.org/wiki/George_Clancy\" rel=\"noopener nofollow\">http://en.wikipedia.org/wiki/George_Clancy</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4805551/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Thought-of-his-friend-davin",
+    "original_id": "4805551",
+    "referent_id": 4805551,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "thought of his friend Davin",
+    "prefix": "shuffling feet and up the folds of the cloak and around the servile head, it seemed humbly conscious of its indignity. It was a Firbolg in the borrowed cloak of a Milesian; and he ",
+    "suffix": ", the peasant student. It was a jesting name between them, but the young peasant bore with it lightly:\n\n —Go on, Stevie, I have a hard head, you tell me. Call me what you will.\n\n T",
+    "start": 12105,
+    "end": 12132,
+    "canonical_text": "thought of his friend Davin"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4805551,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1356898,
+        "login": "ecbiv",
+        "name": "ecbiv",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

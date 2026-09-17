@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-4154277",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Sacristy",
+  "html_source": "<p>A sacristy an apartment in or a building connected with a church or a religious house, in which the sacred vessels, vestments, etc., are kept.</p><p><img src=\"https://images.rapgenius.com/13b80d6924193d5ac3720495685457e9.640x425x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4154277/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Sacristy",
+    "original_id": "4154277",
+    "referent_id": 4154277,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "sacristy",
+    "prefix": "et it out.\n\n Stephen bent forward his head to hear. Wells looked round to see if anyone was coming. Then he said secretly:\n\n —You know the altar wine they keep in the press in the ",
+    "suffix": "?\n\n —Yes.\n\n —Well, they drank that and it was found out who did it by the smell. And that’s why they ran away, if you want to know.\n\n And the fellow who had spoken first said:\n\n —Y",
+    "start": 59088,
+    "end": 59096,
+    "canonical_text": "sacristy"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 4154277,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1214470,
+        "login": "observer101",
+        "name": "observer101",
+        "role": null,
+        "attribution": 0.9636363636363636
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.03636363636363636
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4801975",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "The dear knows you might try to be in time for your lectures.",
+  "html_source": "<p>The Irish word for God is the same for deer(fiadh). To avoid using God’s name in vain the people took to referring to him by the word “deer,” which in English usage became “dear.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4801975/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/The-dear-knows-you-might-try-to-be-in-time-for-your-lectures",
+    "original_id": "4801975",
+    "referent_id": 4801975,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "The dear knows you might try to be in time for your lectures.",
+    "prefix": " mantelpiece until its dial showed a quarter to twelve and then laid it once more on its side.\n\n —An hour and twenty-five minutes, she said. The right time now is twenty past ten. ",
+    "suffix": "\n\n —Fill out the place for me to wash, said Stephen.\n\n —Katey, fill out the place for Stephen to wash.\n\n —Boody, fill out the place for Stephen to wash.\n\n —I can’t, I’m going for b",
+    "start": 1067,
+    "end": 1128,
+    "canonical_text": "The dear knows you might try to be in time for your lectures."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4801975,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1356898,
+        "login": "ecbiv",
+        "name": "ecbiv",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

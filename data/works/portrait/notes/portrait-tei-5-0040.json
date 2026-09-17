@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0040",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Person: Firbolg",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Firbolg</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:40"
+  },
+  "anchor": {
+    "text": "Firbolg",
+    "prefix": "the soul crept over it like unseen vermin, over the shuffling feet and up the folds of the cloak and around the servile head, it seemed humbly conscious of its indignity. It was a ",
+    "suffix": " in the borrowed cloak of a Milesian; and he thought of his friend Davin, the peasant student. It was a jesting name between them, but the young peasant bore with it lightly:\n\n —Go",
+    "start": 12053,
+    "end": 12060,
+    "canonical_text": "Firbolg"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

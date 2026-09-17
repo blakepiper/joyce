@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4805611",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Tame geese",
+  "html_source": "<p>The ‘Wild Geese’ were the Irish Catholic soldiers who fled to the Continent after the Treaty of Limerick in 1691. There they served in the French, Spanish and Austrian armies. Davin has their ambition to serve in foreign armies but is intellectually domesticated.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4805611/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Tame-geese",
+    "original_id": "4805611",
+    "referent_id": 4805611,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "tame geese",
+    "prefix": "beyond England he knew only the foreign legion of France in which he spoke of serving.\n\n Coupling this ambition with the young man’s humour Stephen had often called him one of the ",
+    "suffix": " and there was even a point of irritation in the name pointed against that very reluctance of speech and deed in his friend which seemed so often to stand between Stephen’s mind, e",
+    "start": 14307,
+    "end": 14317,
+    "canonical_text": "tame geese"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4805611,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1356898,
+        "login": "ecbiv",
+        "name": "ecbiv",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

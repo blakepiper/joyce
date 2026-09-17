@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2910273",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "—Are you annoyed? he asked",
+  "html_source": "<p>Notice how Cranly broke from Latin here.</p><p>When he wants to know if Stephen is “annoyed”, or if he is okay, he returns to ordinary speech. Shortly afterwards, he returns to Latin, so he does seem concerned enough for Stephen that he would return to normal speech, but once he believes that Stephen is okay, he quickly returns to more playful Latin in this context.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2910273/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Are-you-annoyed-he-asked",
+    "original_id": "2910273",
+    "referent_id": 2910273,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "—Are you annoyed? he asked",
+    "prefix": "e Tsar’s photograph and said:\n\n —He has the face of a besotted Christ.\n\n The scorn and anger in his voice brought Cranly’s eyes back from a calm survey of the walls of the hall.\n\n ",
+    "suffix": ".\n\n —No, answered Stephen.\n\n —Are you in bad humour?\n\n —No.\n\n —Credo ut vos sanguinarius mendax estis, said Cranly, quia facies vostra monstrat ut vos in damno malo humore estis.\n\n",
+    "start": 40104,
+    "end": 40130,
+    "canonical_text": "—Are you annoyed? he asked"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2910273,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

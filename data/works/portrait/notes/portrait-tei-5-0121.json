@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0121",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "LA passage: Ego credo ut vita pauperum est simpliciter atrox, simpliciter sanguin…",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>Ego credo ut vita pauperum est simpliciter atrox, simpliciter sanguinarius atrox, in Liverpoolio.</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:121"
+  },
+  "anchor": {
+    "text": "Ego credo ut vita pauperum est simpliciter atrox, simpliciter sanguinarius atrox, in Liverpoolio.",
+    "prefix": "...\n\n —Hynes has no brains. He got through by stewing, pure stewing.\n\n —Don’t mind him. There’s plenty of money to be made in a big commercial city.\n\n —Depends on the practice.\n\n —",
+    "suffix": "\n\n Their voices reached his ears as if from a distance in interrupted pulsation. She was preparing to go away with her companions.\n\n The quick light shower had drawn off, tarrying ",
+    "start": 79659,
+    "end": 79756,
+    "canonical_text": "Ego credo ut vita pauperum est simpliciter atrox, simpliciter sanguinarius atrox, in Liverpoolio."
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

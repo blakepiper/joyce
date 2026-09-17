@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-12672399",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Simon Moonan that name because Simon Moonan",
+  "html_source": "<p>Redundant speech, typical on a child.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/12672399/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Simon-moonan-that-name-because-simon-moonan",
+    "original_id": "12672399",
+    "referent_id": 12672399,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Simon Moonan that name because Simon Moonan",
+    "prefix": "ot to because the prefect was looking. The fellow turned to Simon Moonan and said:\n\n —We all know why you speak. You are McGlade’s suck.\n\n Suck was a queer word. The fellow called ",
+    "suffix": " used to tie the prefect’s false sleeves behind his back and the prefect used to let on to be angry. But the sound was ugly. Once he had washed his hands in the lavatory of the Wic",
+    "start": 7256,
+    "end": 7299,
+    "canonical_text": "Simon Moonan that name because Simon Moonan"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 12672399,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5177606,
+        "login": "GasparTorres",
+        "name": "GasparTorres",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

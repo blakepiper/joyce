@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0059",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Rody Kickham",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Rody Kickham</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:59"
+  },
+  "anchor": {
+    "text": "Rody Kickham",
+    "prefix": "und:\n\n —All in!\n\n Then other voices cried from the lower and third lines:\n\n —All in! All in!\n\n The players closed around, flushed and muddy, and he went among them, glad to go in. ",
+    "suffix": " held the ball by its greasy lace. A fellow asked him to give it one last: but he walked on without even answering the fellow. Simon Moonan told him not to because the prefect was ",
+    "start": 6914,
+    "end": 6926,
+    "canonical_text": "Rody Kickham"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

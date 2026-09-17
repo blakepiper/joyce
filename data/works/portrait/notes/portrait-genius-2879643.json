@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2879643",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "IVORY, IVOIRE, AVORIO, EBUR.",
+  "html_source": "<p>Stephen is just saying “<a href=\"http://en.wiktionary.org/wiki/ivory\" rel=\"noopener nofollow\">Ivory</a>” in several different languages—English, French, Italian, and Latin, respectively.</p><p><img src=\"https://images.rapgenius.com/ba7127f5ab03af296ceb1e856315214d.899x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2879643/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/Ivory-ivoire-avorio-ebur",
+    "original_id": "2879643",
+    "referent_id": 2879643,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "IVORY, IVOIRE, AVORIO, EBUR.",
+    "prefix": "; that was all right. Yellow ivory also. And what about ivory ivy?\n\n The word now shone in his brain, clearer and brighter than any ivory sawn from the mottled tusks of elephants. ",
+    "suffix": " One of the first examples that he had learnt in Latin had run: India mittit ebur; and he recalled the shrewd northern face of the rector who had taught him to construe the Metamor",
+    "start": 9929,
+    "end": 9957,
+    "canonical_text": "Ivory, ivoire, avorio, ebur."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2879643,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

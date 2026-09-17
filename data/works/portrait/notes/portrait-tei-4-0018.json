@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-4-0018",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Place: Dollymount",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Dollymount</p></blockquote><p class=\"tei-detail\">Coordinates: 53.365979 -6.174239</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-4:18"
+  },
+  "anchor": {
+    "text": "Dollymount",
+    "prefix": "e had turned aside, obeying a wayward instinct. Now time lay between: the oils of ordination would never anoint his body. He had refused. Why?\n\n He turned seaward from the road at ",
+    "suffix": " and as he passed on to the thin wooden bridge he felt the planks shaking with the tramp of heavily shod feet. A squad of Christian Brothers was on its way back from the Bull and h",
+    "start": 38272,
+    "end": 38282,
+    "canonical_text": "Dollymount"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.365979 -6.174239",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

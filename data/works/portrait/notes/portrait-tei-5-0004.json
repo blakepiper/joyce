@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0004",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Person: Stephen",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Stephen</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:4"
+  },
+  "anchor": {
+    "text": "Stephen",
+    "prefix": " and twenty-five minutes, she said. The right time now is twenty past ten. The dear knows you might try to be in time for your lectures.\n\n —Fill out the place for me to wash, said ",
+    "suffix": ".\n\n —Katey, fill out the place for Stephen to wash.\n\n —Boody, fill out the place for Stephen to wash.\n\n —I can’t, I’m going for blue. Fill it out, you, Maggy.\n\n When the enamelled ",
+    "start": 1172,
+    "end": 1179,
+    "canonical_text": "Stephen"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2704532",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Censer",
+  "html_source": "<p>A <a href=\"http://en.wikipedia.org/wiki/Censer\" rel=\"noopener nofollow\">censer</a> is a vessel for burning incense. In the Catholic church, they are most commonly like the one pictured below.</p><p><img src=\"https://i.genius.com/222f50111f6296e7082370e16788490600e7762b?url=http%3A%2F%2Fwww.awakentoprayer.org%2Fincense.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2704532/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Censer",
+    "original_id": "2704532",
+    "referent_id": 2704532,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "censer",
+    "prefix": "ed the summer evening he had been there to be dressed as boatbearer, the evening of the procession to the little altar in the wood. A strange and holy place. The boy that held the ",
+    "suffix": " had swung it gently to and fro near the door with the silvery cap lifted by the middle chain to keep the coals lighting. That was called charcoal: and it had burned quietly as the",
+    "start": 59905,
+    "end": 59911,
+    "canonical_text": "censer"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.8094
+  },
+  "genius": {
+    "referent_id": 2704532,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.5882352941176471
+      },
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 0.411764705882353
+      }
+    ]
+  },
+  "color": "F59627"
+}

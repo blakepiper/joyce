@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-5144193",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "Hell! Hell! Hell! Hell! Hell!\n \n Voices spoke near him:\n \n —On hel",
+  "html_source": "<p>help</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5144193/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3/Hell-hell-hell-hell-hell-voices-spoke-near-him-on-hel",
+    "original_id": "5144193",
+    "referent_id": 5144193,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3-annotated"
+  },
+  "anchor": {
+    "text": "Hell! Hell! Hell! Hell! Hell!\n \n Voices spoke near him:\n \n —On hel",
+    "prefix": "began to glow. Another. His brain was simmering and bubbling within the cracking tenement of the skull. Flames burst forth from his skull like a corolla, shrieking like voices:\n\n —",
+    "suffix": "l.\n\n —I suppose he rubbed it into you well.\n\n —You bet he did. He put us all into a blue funk.\n\n —That’s what you fellows want: and plenty of it to make you work.\n\n He leaned back ",
+    "start": 48330,
+    "end": 48394,
+    "canonical_text": "Hell! Hell! Hell! Hell! Hell!\n\n Voices spoke near him:\n\n —On hel"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 5144193,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1636577,
+        "login": "HasanFarhad",
+        "name": "HasanFarhad",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0001",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: Clongowes",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Clongowes</p></blockquote><p class=\"tei-detail\">Coordinates: 53.310601 -6.695541</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:1"
+  },
+  "anchor": {
+    "text": "Clongowes",
+    "prefix": " into the dark pool of the jar. The yellow dripping had been scooped out like a boghole and the pool under it brought back to his memory the dark turfcoloured water of the bath in ",
+    "suffix": ". The box of pawn tickets at his elbow had just been rifled and he took up idly one after another in his greasy fingers the blue and white dockets, scrawled and sanded and creased ",
+    "start": 326,
+    "end": 335,
+    "canonical_text": "Clongowes"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.310601 -6.695541",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

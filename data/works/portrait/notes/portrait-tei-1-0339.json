@@ -1,0 +1,31 @@
+{
+  "id": "portrait-tei-1-0339",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Reference: Luke 17.1-2",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a cross-reference.</p><blockquote><p>Luke 17.1-2</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:339"
+  },
+  "anchor": {
+    "text": "Luke 17.1-2",
+    "prefix": "",
+    "suffix": "",
+    "start": null,
+    "end": null
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "ref",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": [
+      0.0
+    ]
+  },
+  "color": "7AA8FF"
+}

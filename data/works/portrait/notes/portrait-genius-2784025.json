@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2784025",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "POENA DAMNI, the pain of loss",
+  "html_source": "<p>Notice how this part was translated by the preacher in his speech, which is somewhat unusual so far in the book.</p><p>Because this is directly translated, it makes it more accessible for those he is addressing, like the preacher wants it to be more understandable—he seems to care that his speech is understood.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2784025/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3/Poena-damni-the-pain-of-loss",
+    "original_id": "2784025",
+    "referent_id": 2784025,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3-annotated"
+  },
+  "anchor": {
+    "text": "POENA DAMNI, the pain of loss",
+    "prefix": "t good, from God, and to feel the anguish of that separation, knowing full well that it is unchangeable: this is the greatest torment which the created soul is capable of bearing, ",
+    "suffix": ".\n\n The second pain which will afflict the souls of the damned in hell is the pain of conscience. Just as in dead bodies worms are engendered by putrefaction, so in the souls of th",
+    "start": 54870,
+    "end": 54898,
+    "canonical_text": "pœna damni, the pain of loss"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2784025,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

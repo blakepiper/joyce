@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-4255554",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Peach",
+  "html_source": "<p>Rat out, tell on, tattle.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4255554/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Peach",
+    "original_id": "4255554",
+    "referent_id": 4255554,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "peach",
+    "prefix": " sure you won’t?\n\n Wells’s face was there. He looked at it and saw that Wells was afraid.\n\n —I didn’t mean to. Sure you won’t?\n\n His father had told him, whatever he did, never to ",
+    "suffix": " on a fellow. He shook his head and answered no and felt glad.\n\n Wells said:\n\n —I didn’t mean to, honour bright. It was only for cod. I’m sorry.\n\n The face and the voice went away.",
+    "start": 26503,
+    "end": 26508,
+    "canonical_text": "peach"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 4255554,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1252799,
+        "login": "hi-im-jae",
+        "name": "hi-im-jae",
+        "role": null,
+        "attribution": 0.8
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.2
+      }
+    ]
+  },
+  "color": "F59627"
+}

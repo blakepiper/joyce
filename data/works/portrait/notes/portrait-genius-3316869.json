@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-3316869",
+  "work_id": "portrait",
+  "chapter_id": "portrait-3",
+  "title": "The stars of heaven were falling upon the earth like the figs cast by the fig-tree which the wind has shaken.",
+  "html_source": "<p>Reference <a href=\"http://biblehub.com/revelation/6-13.htm\" rel=\"noopener nofollow\">Revelation 6:13</a></p><blockquote><p>and the stars of the sky fell to the earth, as a fig tree casts its unripe figs when shaken by a great wind.\"</p></blockquote>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3316869/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3/The-stars-of-heaven-were-falling-upon-the-earth-like-the-figs-cast-by-the-fig-tree-which-the-wind-has-shaken",
+    "original_id": "3316869",
+    "referent_id": 3316869,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3-annotated"
+  },
+  "anchor": {
+    "text": "The stars of heaven were falling upon the earth like the figs cast by the fig-tree which the wind has shaken.",
+    "prefix": "or was that all. God’s justice had still to be vindicated before men: after the particular there still remained the general judgement. The last day had come. Doomsday was at hand. ",
+    "suffix": " The sun, the great luminary of the universe, had become as sackcloth of hair. The moon was bloodred. The firmament was as a scroll rolled away. The archangel Michael, the prince o",
+    "start": 23009,
+    "end": 23117,
+    "canonical_text": "The stars of heaven were falling upon the earth like the figs cast by the figtree which the wind has shaken."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 3316869,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 972621,
+        "login": "LucaMaletta",
+        "name": "LucaMaletta",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0094",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: Wicklow",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Wicklow</p></blockquote><p class=\"tei-detail\">Coordinates: 52.979861 -6.048263</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:94"
+  },
+  "anchor": {
+    "text": "Wicklow",
+    "prefix": "s of Irish idioms. Its drawl was an echo of the quays of Dublin given back by a bleak decaying seaport, its energy an echo of the sacred eloquence of Dublin given back flatly by a ",
+    "suffix": " pulpit.\n\n The heavy scowl faded from Cranly’s face as MacCann marched briskly towards them from the other side of the hall.\n\n —Here you are! said MacCann cheerily.\n\n —Here I am! s",
+    "start": 41665,
+    "end": 41672,
+    "canonical_text": "Wicklow"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "52.979861 -6.048263",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

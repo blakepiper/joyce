@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0162",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Neologism: ironingroom",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a neologism.</p><blockquote><p>ironingroom</p></blockquote><p class=\"tei-detail\">TEI type: neologism</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:162"
+  },
+  "anchor": {
+    "text": "ironingroom",
+    "prefix": "iagelamps? They said it was the ghost of a murderer. A long shiver of fear flowed over his body. He saw the dark entrance hall of the castle. Old servants in old dress were in the ",
+    "suffix": " above the staircase. It was long ago. The old servants were quiet. There was a fire there but the hall was still dark. A figure came up the staircase from the hall. He wore the wh",
+    "start": 22283,
+    "end": 22294,
+    "canonical_text": "ironingroom"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "type": "neologism"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "9C632A"
+}

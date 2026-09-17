@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4259080",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Three",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/6cdea4e2e4d881be94ef1f40c62281f8.500x374x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4259080/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Three",
+    "original_id": "4259080",
+    "referent_id": 4259080,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "Three",
+    "prefix": "tasy of flight made radiant his eyes and wild his breath and tremulous and wild and radiant his windswept limbs.\n\n —One! Two!... Look out!\n\n —O, Cripes, I’m drownded!\n\n —One! Two! ",
+    "suffix": " and away!\n\n —The next! The next!\n\n —One!... Uk!\n\n —Stephaneforos!\n\n His throat ached with a desire to cry aloud, the cry of a hawk or eagle on high, to cry piercingly of his deliv",
+    "start": 45637,
+    "end": 45642,
+    "canonical_text": "Three"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 4259080,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1254026,
+        "login": "Anonymous4123",
+        "name": "Anonymous4123",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

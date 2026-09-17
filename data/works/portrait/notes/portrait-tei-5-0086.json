@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0086",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Place: Belfast",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Belfast</p></blockquote><p class=\"tei-detail\">Coordinates: 54.597285 -5.930120</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:86"
+  },
+  "anchor": {
+    "text": "Belfast",
+    "prefix": "oner offended him and he allowed the offence to carry him towards wilful unkindness, bidding his mind think that the student’s father would have done better had he sent his son to ",
+    "suffix": " to study and have saved something on the train fare by so doing.\n\n The oblong skull beneath did not turn to meet this shaft of thought and yet the shaft came back to its bowstring",
+    "start": 38070,
+    "end": 38077,
+    "canonical_text": "Belfast"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "54.597285 -5.930120",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

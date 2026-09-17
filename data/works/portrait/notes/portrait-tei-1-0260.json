@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0260",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Stephen",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Stephen</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:260"
+  },
+  "anchor": {
+    "text": "Stephen",
+    "prefix": "? asked Stephen.\n\n —You know, he said, you can ask that riddle another way.\n\n —Can you? said Stephen.\n\n —The same riddle, he said. Do you know the other way to ask it?\n\n —No, said ",
+    "suffix": ".\n\n —Can you not think of the other way? he said.\n\n He looked at Stephen over the bedclothes as he spoke. Then he lay back on the pillow and said:\n\n —There is another way but I won",
+    "start": 33508,
+    "end": 33515,
+    "canonical_text": "Stephen"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-5-0051",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "Person: Stephen",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Stephen</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:51"
+  },
+  "anchor": {
+    "text": "Stephen",
+    "prefix": "scandalous shame for you, Stephen, said his mother, and you’ll live to rue the day you set your foot in that place. I know how it has changed you.\n\n —Good morning, everybody, said ",
+    "suffix": ", smiling and kissing the tips of his fingers in adieu.\n\n The lane behind the terrace was waterlogged and as he went down it slowly, choosing his steps amid heaps of wet rubbish, h",
+    "start": 2502,
+    "end": 2509,
+    "canonical_text": "Stephen"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

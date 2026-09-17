@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-2685457",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Pale and chilly",
+  "html_source": "<p>little Stephen sees the world as embodying his own hypersensitive vulnerability</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2685457/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Pale-and-chilly",
+    "original_id": "2685457",
+    "referent_id": 2685457,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "pale and chilly",
+    "prefix": "out his eyes,\nPull out his eyes,\nApologise.\n\n The wide playgrounds were swarming with boys. All were shouting and the prefects urged them on with strong cries. The evening air was ",
+    "suffix": " and after every charge and thud of the footballers the greasy leather orb flew like a heavy bird through the grey light. He kept on the fringe of his line, out of sight of his pre",
+    "start": 1822,
+    "end": 1837,
+    "canonical_text": "pale and chilly"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2685457,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

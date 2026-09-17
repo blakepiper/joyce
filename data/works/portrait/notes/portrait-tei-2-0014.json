@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-2-0014",
+  "work_id": "portrait",
+  "chapter_id": "portrait-2",
+  "title": "Place: Dublin",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Dublin</p></blockquote><p class=\"tei-detail\">Coordinates: 53.349307 -6.263654</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-2:14"
+  },
+  "anchor": {
+    "text": "Dublin",
+    "prefix": "n spite of his corns and often ten or twelve miles of the road were covered. The little village of Stillorgan was the parting of the ways. Either they went to the left towards the ",
+    "suffix": " mountains or along the Goatstown road and thence into Dundrum, coming home by Sandyford. Trudging along the road or standing in some grimy wayside public house his elders spoke co",
+    "start": 4357,
+    "end": 4363,
+    "canonical_text": "Dublin"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.349307 -6.263654",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

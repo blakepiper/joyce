@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4258940",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "—I have amended my life, have I not? he asked himself",
+  "html_source": "<p>He’s asking this as he knows he hasn’t. He thinks he is not enough but he knows it isn’t.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4258940/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/I-have-amended-my-life-have-i-not-he-asked-himself",
+    "original_id": "4258940",
+    "referent_id": 4258940,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "—I have amended my life, have I not? he asked himself",
+    "prefix": "not had sincere sorrow for his sin? But the surest sign that his confession had been good and that he had had sincere sorrow for his sin was, he knew, the amendment of his life.\n\n ",
+    "suffix": ".\n\n The director stood in the embrasure of the window, his back to the light, leaning an elbow on the brown crossblind, and, as he spoke and smiled, slowly dangling and looping the",
+    "start": 14043,
+    "end": 14096,
+    "canonical_text": "—I have amended my life, have I not? he asked himself"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4258940,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1254020,
+        "login": "JoyceScholar",
+        "name": "JoyceScholar",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

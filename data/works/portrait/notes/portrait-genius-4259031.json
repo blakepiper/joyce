@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-4259031",
+  "work_id": "portrait",
+  "chapter_id": "portrait-4",
+  "title": "Mortify",
+  "html_source": "<p>Mortification is a Catholic term used to describe a type of self punishment or asceticism inflicted in order to master ones sinful tendencies.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4259031/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4/Mortify",
+    "original_id": "4259031",
+    "referent_id": 4259031,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-4-annotated"
+  },
+  "anchor": {
+    "text": "mortify",
+    "prefix": "e eyes of women. From time to time also he balked them by a sudden effort of the will, as by lifting them suddenly in the middle of an unfinished sentence and closing the book. To ",
+    "suffix": " his hearing he exerted no control over his voice which was then breaking, neither sang nor whistled, and made no attempt to flee from noises which caused him painful nervous irrit",
+    "start": 7646,
+    "end": 7653,
+    "canonical_text": "mortify"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 4259031,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1254036,
+        "login": "selfPortrait",
+        "name": "selfPortrait",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-5-0107",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "LA passage: Venantius Fortunatus",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a la passage.</p><blockquote><p>Venantius Fortunatus</p></blockquote><p class=\"tei-detail\">Language: la</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-5:107"
+  },
+  "anchor": {
+    "text": "Venantius Fortunatus",
+    "prefix": "lory of the hymnal. It is an intricate and soothing hymn. I like it; but there is no hymn that can be put beside that mournful and majestic processional song, the Vexilla Regis of ",
+    "suffix": ".\n\n Lynch began to sing softly and solemnly in a deep bass voice:\n\n Inpleta sunt quæ concinit\nDavid fideli carmine\nDicendo nationibus\nRegnavit a ligno Deus.\n\n —That’s great! he sai",
+    "start": 67702,
+    "end": 67722,
+    "canonical_text": "Venantius Fortunatus"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "lang": "la"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "AB59C2"
+}

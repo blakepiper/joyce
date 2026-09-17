@@ -1,0 +1,42 @@
+{
+  "id": "portrait-genius-16071492",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "A well-read woman",
+  "html_source": "<p>The allusion to the moon in Dante’s previous “knowledge” enumeration may indicate she had read Jules Verne’s 1865 novel “From the Earth to the Moon”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/16071492/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/A-well-read-woman",
+    "original_id": "16071492",
+    "referent_id": 16071492,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "a well-read woman",
+    "prefix": "e name of the highest mountain in the moon. Father Arnall knew more than Dante because he was a priest but both his father and uncle Charles said that Dante was a clever woman and ",
+    "suffix": ". And when Dante made that noise after dinner and then put up her hand to her mouth: that was heartburn.\n\n A voice cried far out on the playground:\n\n —All in!\n\n Then other voices c",
+    "start": 6575,
+    "end": 6591,
+    "canonical_text": "a wellread woman"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 16071492,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3265261,
+        "login": "DanielDreesen",
+        "name": "DanielDreesen",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

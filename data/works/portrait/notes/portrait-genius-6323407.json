@@ -1,0 +1,43 @@
+{
+  "id": "portrait-genius-6323407",
+  "work_id": "portrait",
+  "chapter_id": "portrait-5",
+  "title": "That. The... funnel",
+  "html_source": "<p>If you do not know what a tundish looks like.</p><p><img src=\"https://filepicker-images.genius.com/ELzHfX3ITqy7eIArfrUQ_images%20%284%29.jpg\" alt=\"\" /></p><p>The dean is English, and represents to Stephen all the institutional power and prestige England has wielded throughout its colonial occupation of Ireland. The dean is thus a representative of cultural domination. This conversation with the dean shows Stephen the importance of creating his own language, as the English he has been using is not really his own. He realizes that English “will always be for me an acquired speech. I have not made or accepted its words. My voice holds them at bay.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6323407/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5/That-the-funnel",
+    "original_id": "6323407",
+    "referent_id": 6323407,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-5-annotated"
+  },
+  "anchor": {
+    "text": "That. The... funnel",
+    "prefix": "\n\n—What funnel? asked Stephen\n\n—The funnel through which you pour the oil into your lamp\n\n—That? said Stephen. Is that called a funnel? Is it not a tundish?\n\n—What is a tundish?\n\n—",
+    "suffix": "\n\n—Is that called a tundish in Ireland? asked the dean. I never heard the word in my life\n\n—It is called a tundish in Lower Drumcondra, said Stephen, laughing, where they speak the",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": [
+      0.8837
+    ]
+  },
+  "genius": {
+    "referent_id": 6323407,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1441982,
+        "login": "luluu95",
+        "name": "luluu95",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

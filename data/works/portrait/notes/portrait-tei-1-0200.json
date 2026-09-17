@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0200",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Person: Brother Michael",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a person name.</p><blockquote><p>Brother Michael</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:200"
+  },
+  "anchor": {
+    "text": "Brother Michael",
+    "prefix": "t.\n\n —Ah, do! he said.\n\n —Butter you up! said Brother Michael. You’ll get your walking papers in the morning when the doctor comes.\n\n —Will I? the fellow said. I’m not well yet.\n\n ",
+    "suffix": " repeated:\n\n —You’ll get your walking papers. I tell you.\n\n He bent down to rake the fire. He had a long back like the long back of a tramhorse. He shook the poker gravely and nodd",
+    "start": 29570,
+    "end": 29585,
+    "canonical_text": "Brother Michael"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "persName",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

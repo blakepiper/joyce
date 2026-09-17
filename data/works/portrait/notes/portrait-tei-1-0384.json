@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0384",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Neologism: cinderpath",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a neologism.</p><blockquote><p>cinderpath</p></blockquote><p class=\"tei-detail\">TEI type: neologism</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:384"
+  },
+  "anchor": {
+    "text": "cinderpath",
+    "prefix": "d rising to his face and the tears about to rise to his eyes.\n\n The rector said:\n\n —Your name is Dedalus, isn’t it?\n\n —Yes, sir.\n\n —And where did you break your glasses?\n\n —On the ",
+    "suffix": ", sir. A fellow was coming out of the bicycle house and I fell and they got broken. I don’t know the fellow’s name.\n\n The rector looked at him again in silence. Then he smiled and ",
+    "start": 90268,
+    "end": 90278,
+    "canonical_text": "cinderpath"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "seg",
+    "attributes": {
+      "type": "neologism"
+    }
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "9C632A"
+}

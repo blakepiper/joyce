@@ -1,0 +1,32 @@
+{
+  "id": "portrait-tei-1-0116",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Place: Sallins",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a place name.</p><blockquote><p>Sallins</p></blockquote><p class=\"tei-detail\">Coordinates: 53.251067 -6.665231</p>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:116"
+  },
+  "anchor": {
+    "text": "Sallins",
+    "prefix": "rse.\n\n He turned to the flyleaf of the geography and read what he had written there: himself, his name and where he was.\n\n Stephen Dedalus\nClass of Elements\nClongowes Wood College\n",
+    "suffix": "\nCounty Kildare\nIreland\nEurope\nThe World\nThe Universe\n\n That was in his writing: and Fleming one night for a cod had written on the opposite page:\n\n Stephen Dedalus is my name,\nIre",
+    "start": 15614,
+    "end": 15621,
+    "canonical_text": "Sallins"
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "placeName",
+    "attributes": {},
+    "coordinates": "53.251067 -6.665231",
+    "location": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

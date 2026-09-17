@@ -1,0 +1,30 @@
+{
+  "id": "portrait-tei-1-0355",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Quotation: Touch them not, says Christ, for they are the apple of My eye.",
+  "html_source": "<p>This passage is marked in the Open Editions semantic edition as a quotation.</p><blockquote><p>Touch them not, says Christ, for they are the apple of My eye.</p></blockquote>",
+  "source": {
+    "type": "tei",
+    "url": "https://github.com/open-editions/corpus-joyce-portrait-TEI/blob/master/portrait.xml",
+    "original_id": "portrait.xml:chapter-1:355"
+  },
+  "anchor": {
+    "text": "Touch them not, says Christ, for they are the apple of My eye.",
+    "prefix": " never let one of them put his two feet under his mahogany.\n\n Dante broke in angrily:\n\n —If we are a priestridden race we ought to be proud of it! They are the apple of God’s eye. ",
+    "suffix": "\n\n —And can we not love our country then? asked Mr Casey. Are we not to follow the man that was born to lead us?\n\n —A traitor to his country! replied Dante. A traitor, an adulterer",
+    "start": 55199,
+    "end": 55261,
+    "canonical_text": "Touch them not, says Christ, for they are the apple of My eye."
+  },
+  "media_doc_ids": [],
+  "tei": {
+    "tag": "quote",
+    "attributes": {}
+  },
+  "provenance": {
+    "match_method": "occurrence",
+    "confidence": 1.0
+  },
+  "color": "7AA8FF"
+}

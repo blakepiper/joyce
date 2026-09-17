@@ -1,0 +1,49 @@
+{
+  "id": "portrait-genius-2683594",
+  "work_id": "portrait",
+  "chapter_id": "portrait-1",
+  "title": "Michael Davitt",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Michael_Davitt\" rel=\"noopener nofollow\">Michael Davitt</a> was an Irish politician, “who founded the <a href=\"https://en.wikipedia.org/wiki/Irish_National_Land_League\" rel=\"noopener nofollow\">Irish National Land League</a>.”</p><p><img src=\"https://images.rapgenius.com/6207d5abf29b4dacfedd8d8551473895.424x640x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2683594/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1/Michael-davitt",
+    "original_id": "2683594",
+    "referent_id": 2683594,
+    "page_url": "https://genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-1-annotated"
+  },
+  "anchor": {
+    "text": "Michael Davitt",
+    "prefix": "nte clapped. They were older than his father and mother but uncle Charles was older than Dante.\n\n Dante had two brushes in her press. The brush with the maroon velvet back was for ",
+    "suffix": " and the brush with the green velvet back was for Parnell. Dante gave him a cachou every time he brought her a piece of tissue paper.\n\n The Vances lived in number seven. They had a",
+    "start": 1103,
+    "end": 1117,
+    "canonical_text": "Michael Davitt"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 2683594,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.6976744186046511
+      },
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 0.3023255813953488
+      }
+    ]
+  },
+  "color": "F59627"
+}
