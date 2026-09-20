@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13695126",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Sithen",
+  "html_source": "<p>archaic words for since</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13695126/James-joyce-ulysses-chap-14-oxen-of-the-sun/Sithen",
+    "original_id": "13695126",
+    "referent_id": 13695126,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "sithen",
+    "prefix": "kle noise as of many that sat there at meat. And there 1986#316came against the place as they stood a young learningknight yclept Dixon. And the traveller Leopold was couth to him ",
+    "suffix": " it had happed that they had had ado each with other in the house of misericord where this learningknight lay by cause the traveller Leopold came there to be 1932#349healed for he ",
+    "start": 8638,
+    "end": 8644,
+    "canonical_text": "sithen"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13695126,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

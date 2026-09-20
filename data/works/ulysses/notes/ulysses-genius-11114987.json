@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11114987",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "O Maria santissima",
+  "html_source": "<p><a href=\"https://www.youtube.com/watch?v=RKe4mZml5yg\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=RKe4mZml5yg</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11114987/James-joyce-ulysses-chap-18-penelope/O-maria-santissima",
+    "original_id": "11114987",
+    "referent_id": 11114987,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "O Maria santissima",
+    "prefix": "thing for an excuse to put his hand anear me drawers drawers the whole blessed time till I promised to give him the pair 1986#614off my doll to carry about in his waistcoat pocket ",
+    "suffix": " he did look a big fool dreeping in the rain splendid set of teeth he had made me hungry to look at them and beseeched of me to lift the orange petticoat I had on with the sunray p",
+    "start": 22794,
+    "end": 22812,
+    "canonical_text": "O Maria Santissima"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 11114987,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

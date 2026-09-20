@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15123243",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Farting strings",
+  "html_source": "<p>Cassell’s Dictionary of Slang (p. 491) has the following entry:<br />Farting strings (also puckering strings): [1910s+, so slightly anachronistic in this case] a figurative part of the body which can be damaged by some form of excess, usually laughter [though in this case, crying], e.g., in the phrase “if you don’t stop that, I’ll bust my farting strings!”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15123243/James-joyce-ulysses-chap-12-cyclops/Farting-strings",
+    "original_id": "15123243",
+    "referent_id": 15123243,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "farting strings",
+    "prefix": "ke was telling me in the hotel the wife used to be in rivers of tears some times with Mrs O'Dowd crying her eyes out with her eight inches of fat all over her. Couldn't loosen her ",
+    "suffix": " but old cod's eye was 1986#258waltzing around her showing her how to do it. What's your programme today? Ay. Humane methods. Because the poor animals suffer and experts say and th",
+    "start": 54481,
+    "end": 54496,
+    "canonical_text": "farting strings"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15123243,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

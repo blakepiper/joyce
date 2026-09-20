@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33270562",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Now",
+  "html_source": "<p>Take this all of you and eat of it for this is my body (and soul).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33270562/James-joyce-ulysses-chap-14-oxen-of-the-sun/Now",
+    "original_id": "33270562",
+    "referent_id": 33270562,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Now",
+    "prefix": "t still plied it very busily who, praying for the intentions of the sovereign pontiff, he gave them for a1932#353pledge the vicar of Christ which also as he said is vicar of Bray. ",
+    "suffix": " drink we, quod he, of this mazer and quaff ye this mead which is not indeed parcel of my body but my soul's bodiment. Leave ye fraction of bread to them that live by bread alone. ",
+    "start": 20028,
+    "end": 20031,
+    "canonical_text": "Now"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9729
+  },
+  "genius": {
+    "referent_id": 33270562,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

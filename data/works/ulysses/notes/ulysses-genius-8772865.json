@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8772865",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Voglio e non",
+  "html_source": "<p>Voglio e non vorrei     (Italian) I want to but I wouldn’t like to. Bloom has misremembered Zerlina’s line. He will correct it in Hades, but he continually makes the same mistake throughout the day. It has been suggested that Bloom is thinking of a pair of lines spoken by Don Giovanni’s servant Leporello in the opening scene: Voglio far il gentiluomo/E non voglio più servir (I want to be a gentleman/And I no longer wish to serve). In Circe, two pages before repeating the mistake, Bloom addresses Molly with the words At your service.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8772865/James-joyce-ulysses-chap-5-lotus-eaters/Voglio-e-non",
+    "original_id": "8772865",
+    "referent_id": 8772865,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Voglio e non",
+    "prefix": "st walk into her here. The lane is safer. \n\n He passed the cabman's shelter. Curious the life of drifting cabbies. All weathers, all places, time or setdown, no will of their own. ",
+    "suffix": ". Like to give them an odd cigarette. Sociable. Shout a few flying syllables as they pass. He hummed: \n\nLà ci darem la mano \nLa la lala la la. \n\n He turned into Cumberland street a",
+    "start": 13812,
+    "end": 13824,
+    "canonical_text": "Voglio e non"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8772865,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4640866",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Lorries",
+  "html_source": "<p>Waterside cranes.</p><p>PROPOSED SUGGESTION: Aren’t Lorries ‘trucks’ in the uk?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4640866/James-joyce-ulysses-chap-5-lotus-eaters/Lorries",
+    "original_id": "4640866",
+    "referent_id": 4640866,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "lorries",
+    "prefix": "\n\n[5]\n\n\n\nBy ",
+    "suffix": " along sir John Rogerson's quay Mr Bloom walked soberly, past Windmill lane, Leask's the linseed crusher, the postal telegraph office. Could have given that address too. And past t",
+    "start": 12,
+    "end": 19,
+    "canonical_text": "lorries"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4640866,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.8
+      },
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.2
+      }
+    ]
+  },
+  "color": "F59627"
+}

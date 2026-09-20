@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15130731",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Cambrian and Caledonian hills",
+  "html_source": "<p>Welsh and Scottish ranges, respectively.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15130731/James-joyce-ulysses-chap-12-cyclops/Cambrian-and-caledonian-hills",
+    "original_id": "15130731",
+    "referent_id": 15130731,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Cambrian and Caledonian hills",
+    "prefix": "ks of M Gillicuddy, Slieve Aughty, Slieve Bernagh and Slieve Bloom. Amid cheers that rent the welkin, responded to by answering cheers from a big muster of henchmen on the distant ",
+    "suffix": ", the mastodontic pleasureship slowly moved away saluted by a final floral tribute from the representatives of the fair sex who were present in large numbers while, as it proceeded",
+    "start": 117571,
+    "end": 117600,
+    "canonical_text": "Cambrian and Caledonian hills"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15130731,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

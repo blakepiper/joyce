@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8773171",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Trottingmatches",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/160b997f040a42c4f7c197f18f99aa5e.640x476x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8773171/James-joyce-ulysses-chap-5-lotus-eaters/Trottingmatches",
+    "original_id": "8773171",
+    "referent_id": 8773171,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "trottingmatches",
+    "prefix": "her head, was getting the supper: fruit, olives, lovely cool water out of the well, stonecold like the hole in the wall at Ashtown. Must carry a paper goblet next time I go to the ",
+    "suffix": ". She listens with big dark soft eyes. Tell her: more and more: all. Then a sigh: silence. Long long long rest. \n\n Going under the railway arch he took out the envelope, tore it sw",
+    "start": 18229,
+    "end": 18244,
+    "canonical_text": "trottingmatches"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8773171,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

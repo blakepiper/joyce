@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4591646",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Wandering but a bit unsteady",
+  "html_source": "<p>It is now 1:00 A.M., so Joyce shifts the mood to “wandering and unsteady” by adopting a rambling writing style that perhaps fits the character’s mental status.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4591646/James-joyce-ulysses-chap-16-eumaeus/Wandering-but-a-bit-unsteady",
+    "original_id": "4591646",
+    "referent_id": 4591646,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "wandering but a bit unsteady",
+    "prefix": " handed Stephen the hat and ashplant and bucked him up generally in orthodox Samaritan fashion which he very badly needed. His (Stephen's) mind was not exactly what you would call ",
+    "suffix": " and on his expressed desire for some beverage to drink Mr Bloom in view of the hour it was and there being no pump of Vartry water available for their ablutions let alone drinking",
+    "start": 283,
+    "end": 311,
+    "canonical_text": "wandering but a bit unsteady"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4591646,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.9655172413793103
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.034482758620689655
+      }
+    ]
+  },
+  "color": "F59627"
+}

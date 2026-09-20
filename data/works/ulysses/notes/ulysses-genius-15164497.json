@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15164497",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Boulangère! Los ronds! Los ponts! Chevaux de bois! Escargots!",
+  "html_source": "<p>French, less coherent: “The bread-maker! The circles! The bridges! Wooden horses! Snails (or twirls?)!”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15164497/James-joyce-ulysses-chap-15-circe/Boulangere-los-ronds-los-ponts-chevaux-de-bois-escargots",
+    "original_id": "15164497",
+    "referent_id": 15164497,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Boulangère! Los ronds! Los ponts! Chevaux de bois! Escargots!",
+    "prefix": ", weaving, unweaving, curtseying, twirling, simply swirling.) \n\n ZOE \n\n I'm giddy! \n\n(She frees herself, droops on a chair. Stephen seizes Florry and turns with her.) \n\n MAGINNI \n\n",
+    "suffix": " \n\n(Twining, receding, with interchanging hands the night hours link, each with arching arms, in a mosaic of movements. Stephen and Florry turn cumbrously.) \n\n MAGINNI \n\nDansez ave",
+    "start": 200997,
+    "end": 201058,
+    "canonical_text": "Boulangère! Les ronds! Les ponts! Chevaux de bois! Escargots!"
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9672
+  },
+  "genius": {
+    "referent_id": 15164497,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8577333",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Sky pilots",
+  "html_source": "<p>Clergymen.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8577333/James-joyce-ulysses-chap-12-cyclops/Sky-pilots",
+    "original_id": "8577333",
+    "referent_id": 8577333,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "sky pilots",
+    "prefix": "ng. Ireland sober is Ireland free. And then an old fellow starts blowing into his bagpipes and all the gougers shuffling their feet to the tune the old cow died of. And one or two ",
+    "suffix": " having an eye around that there was no goings on with the females, hitting below the belt. \n\n So howandever, as I was saying, the old dog seeing the tin was empty starts mousing a",
+    "start": 45174,
+    "end": 45184,
+    "canonical_text": "sky pilots"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8577333,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

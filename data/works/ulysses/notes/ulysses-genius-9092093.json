@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9092093",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "House that Jack built",
+  "html_source": "<p>“This Is the House That Jack Built” is a popular British nursery rhyme and cumulative tale.</p><p><img src=\"https://images.genius.com/92de05e16990daa3d36a2dafe88cd73e.220x251x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9092093/James-joyce-ulysses-chap-14-oxen-of-the-sun/House-that-jack-built",
+    "original_id": "9092093",
+    "referent_id": 9092093,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "house that Jack built",
+    "prefix": "as but creature of her creature, _vergine madre, figlia di tuo figlio_, or she knew him not and then stands she in the one denial or ignorancy with Peter Piscator who lives in the ",
+    "suffix": " and with Joseph the joiner patron of the happy demise of all unhappy marriages, _parceque M. Léo Taxil nous a dit que qui l'avait mise dans cette fichue position c'était le sacre ",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.84
+  },
+  "genius": {
+    "referent_id": 9092093,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

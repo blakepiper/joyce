@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-2463001",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Stephen Dedalus,",
+  "html_source": "<p>Stephen Dedalus is, to put it very bluntly and broadly, Joyce’s artistic representation of his self. He is the protagonist of Joyce’s previous novel, <a href=\"https://genius.com/albums/James-joyce/A-portrait-of-the-artist-as-a-young-man\" rel=\"noopener nofollow\"><em>A Portrait of The Artist as a Young Man</em>,</a> a <a href=\"https://genius.com/2878727\" rel=\"noopener nofollow\">bildungsroman</a> which draws heavily on Joyce’s own formative experiences.</p><p>In <em>Stephen Hero</em>, an early version of what became <em>Portrait</em>, Stephen’s surname is spelled “Daedalus” in more precise allusion to Daedalus, the architect in Greek myth who was contracted by King Minos to build the Labyrinth in which he would imprison his wife’s son the Minotaur.</p><p><img src=\"https://images.rapgenius.com/cntu4023kr58cjs7f4kg8fxko.352x500x1.jpg\" alt=\"\" /></p><p>Stephen appears in Ulysses as the character who correlates to Telemachus. He harnesses, tentatively, aspects of Hamlet. He is the protagonist of the first three chapters.</p><p>More fancifully, we might view Stephen as an autobiographical reference for the being who builds the labyrinth (<em>Ulysses</em> the novel) for King Minos (Joyce himself?) to imprison an unconquerable beast– what the beast is would require an overreaching level of speculation.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2463001/James-joyce-ulysses-chap-1-telemachus/Stephen-dedalus",
+    "original_id": "2463001",
+    "referent_id": 2463001,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Stephen Dedalus,",
+    "prefix": "mnly he came forward and mounted the round gunrest. He faced about and blessed gravely thrice the tower, the surrounding country and the awaking mountains. Then, catching sight of ",
+    "suffix": " he bent towards him and made rapid crosses in the air, gurgling in his throat and shaking his head. Stephen Dedalus, displeased and sleepy, leaned his arms on the top of the stair",
+    "start": 603,
+    "end": 619,
+    "canonical_text": "Stephen Dedalus,"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9784
+  },
+  "genius": {
+    "referent_id": 2463001,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 0.553763440860215
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.44623655913978494
+      }
+    ]
+  },
+  "color": "F59627"
+}

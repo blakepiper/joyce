@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-38511426",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "He gives his coat to a beggar.",
+  "html_source": "<p><img src=\"https://images.genius.com/5b0fcb041af0ee734b627f0081b505a7.960x960x1.png\" alt=\"Image description\" /></p><p>Perhaps a reference to the hagiographic stories of St. Martin of Tours who divided his cloak to keep a beggar warm in the winter.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/38511426/James-joyce-ulysses-chap-15-circe/He-gives-his-coat-to-a-beggar",
+    "original_id": "38511426",
+    "referent_id": 38511426,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "He gives his coat to a beggar.",
+    "prefix": "a raw turnip offered him by Maurice Butterly, farmer.) Fine! Splendid! (He refuses to accept three shillings offered him by Joseph Hynes, journalist.) My dear fellow, not at all! (",
+    "suffix": ") Please accept. (He takes part in a stomach race with elderly male and female cripples.) Come on, boys! Wriggle it, girls! \n\n1961#4861922#459\n\n THE CITIZEN \n\n(Choked with emotion,",
+    "start": 81335,
+    "end": 81365,
+    "canonical_text": "He gives his coat to a beggar."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 38511426,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 4376459,
+        "login": "Dragoelx99",
+        "name": "Dragoelx99",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

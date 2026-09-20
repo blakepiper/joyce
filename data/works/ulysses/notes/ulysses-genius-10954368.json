@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10954368",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Balbriggan buskins",
+  "html_source": "<p>Balbriggan is a town in north Dublin once famous for its production of socks,‘long johns’, stocking etc in the latter 19th and early 20th century.</p><p><img src=\"https://images.genius.com/b0f60481a5ca71b62dcb5a79a1150e4c.236x236x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10954368/James-joyce-ulysses-chap-12-cyclops/Balbriggan-buskins",
+    "original_id": "10954368",
+    "referent_id": 10954368,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Balbriggan buskins",
+    "prefix": "nd about his middle by a girdle of plaited straw and rushes. Beneath this he wore trews of deerskin, roughly 1986#243stitched with gut. His nether extremities were encased in high ",
+    "suffix": " dyed in lichen purple, the feet being shod with brogues of salted cowhide laced with the windpipe of the same beast. From his girdle hung a row of seastones which jangled at every",
+    "start": 11083,
+    "end": 11101,
+    "canonical_text": "Balbriggan buskins"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10954368,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 4017165,
+        "login": "KevinFoy",
+        "name": "KevinFoy",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13972292",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Me nantee saltee",
+  "html_source": "<p>Pidgin<br />English: “I have no salt [money].”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13972292/James-joyce-ulysses-chap-14-oxen-of-the-sun/Me-nantee-saltee",
+    "original_id": "13972292",
+    "referent_id": 13972292,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Me nantee saltee",
+    "prefix": "Scrum in. No touch kicking. Wow, my tootsies! You hurt? Most amazingly sorry! \n\n Query. Who's astanding this here do? Proud possessor of damnall. Declare misery. Bet to the ropes. ",
+    "suffix": ". Not a red at me this week gone. Yours? Mead of our fathers for the Uebermensch. Dittoh. Five number ones. You, sir? Ginger cordial. Chase me, the cabby's caudle. Stimulate the 19",
+    "start": 106444,
+    "end": 106460,
+    "canonical_text": "Me nantee saltee"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13972292,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

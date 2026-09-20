@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9943433",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "If you see kay",
+  "html_source": "<p>A naughty school boy spelling of a naughty word.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9943433/James-joyce-ulysses-chap-15-circe/If-you-see-kay",
+    "original_id": "9943433",
+    "referent_id": 9943433,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "If you see kay",
+    "prefix": "ing hands, caper round in the opposite direction.) \n\n1961#496\n\n THE ARTANE ORPHANS \n\n \n\nYou hig, you hog, you dirty dog! \nYou think the ladies love you! \n\n THE PRISON GATE GIRLS \n\n",
+    "suffix": " \nTell him he may \nSee you in tea \nTell him from me. \n\n HORNBLOWER \n\n(In ephod and huntingcap, announces.) And he shall carry the sins of the people to Azazel, the spirit which is ",
+    "start": 94748,
+    "end": 94762,
+    "canonical_text": "If you see Kay"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 9943433,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15158393",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Grasshalms",
+  "html_source": "<p>Halms are stems of plants, usually in dried form and used for bedding materials.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15158393/James-joyce-ulysses-chap-15-circe/Grasshalms",
+    "original_id": "15158393",
+    "referent_id": 15158393,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "grasshalms",
+    "prefix": "re like someone I knew once. \n\n1922#487\n\n STEPHEN \n\n Out of it now. (To himself.) Clever. \n\n1939#367\n\n PHILIP DRUNK AND PHILIP SOBER \n\n(Their lawnmowers purring with a rigadoon of ",
+    "suffix": "). Clever ever. Out of it out of it. By the bye have you the book, the thing, the ashplant? Yes, there it, yes. Cleverever outofitnow. Keep in condition. Do like us. \n\n ZOE \n\n Ther",
+    "start": 127873,
+    "end": 127883,
+    "canonical_text": "grasshalms"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15158393,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

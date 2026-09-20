@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10850645",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Bode",
+  "html_source": "<p>German astronomer calculated the mean distance between the sun and its planets</p><p><a href=\"https://www.britannica.com/biography/Johann-Elert-Bode\" rel=\"noopener nofollow\">https://www.britannica.com/biography/Johann-Elert-Bode</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10850645/James-joyce-ulysses-chap-17-ithaca/Bode",
+    "original_id": "10850645",
+    "referent_id": 10850645,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Bode",
+    "prefix": "e interdependent gyrations of double suns: the independent synchronous discoveries of Galileo, Simon Marius, Piazzi, Le Verrier, Herschel, Galle: the systematisations attempted by ",
+    "suffix": " and Kepler of cubes of distances and squares of times of revolution: the almost infinite compressibility of hirsute comets and their vast elliptical egressive and reentrant orbits",
+    "start": 70526,
+    "end": 70530,
+    "canonical_text": "Bode"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10850645,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

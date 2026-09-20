@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13964493",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Cove",
+  "html_source": "<p>cove (plural coves)<br />(Britain, dated, informal) A fellow; a man.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13964493/James-joyce-ulysses-chap-14-oxen-of-the-sun/Cove",
+    "original_id": "13964493",
+    "referent_id": 13964493,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "cove",
+    "prefix": " us. How's that? Leg before wicket. Don't stain my brandnew sitinems. Give's a shake of pepper, you there. Catch aholt. Caraway seed to carry away. Twig? Shrieks of silence. Every ",
+    "suffix": " to his gentry mort. Venus Pandemos. Les petites femmes. Bold bad girl from the town of Mullingar. Tell her I was axing at her. Hauding Sara by the wame. On the road to Malahide. M",
+    "start": 108390,
+    "end": 108394,
+    "canonical_text": "cove"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 13964493,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795068",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Consort",
+  "html_source": "<p>noun<br />A wife, husband, or companion, in particular the spouse of a reigning monarch.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795068/James-joyce-ulysses-chap-6-hades/Consort",
+    "original_id": "8795068",
+    "referent_id": 8795068,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Consort",
+    "prefix": "n died. Drawn on a guncarriage. Victoria and Albert. Frogmore memorial mourning. But in the end she put a few violets in her bonnet. Vain in her heart of hearts. All for a shadow. ",
+    "suffix": " not even a king. Her son was the substance. Something new to hope for not like the past she wanted back, waiting. It never comes. One must go first: alone, under the ground: and l",
+    "start": 32585,
+    "end": 32592,
+    "canonical_text": "Consort"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8795068,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

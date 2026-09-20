@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15062863",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Tir na n-og",
+  "html_source": "<p>Tír na nÓg is a paradisaical land of everlasting youth from Celtic mythology, featuring prominently in the tale of <a href=\"https://en.wikipedia.org/wiki/Ois%C3%ADn\" rel=\"noopener nofollow\">Oisín</a> and <a href=\"https://en.wikipedia.org/wiki/Niamh_%28mythology\" rel=\"noopener nofollow\">Niamh</a>).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15062863/James-joyce-ulysses-chap-9-scylla-and-charybdis/Tir-na-n-og",
+    "original_id": "15062863",
+    "referent_id": 15062863,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Tir na n-og",
+    "prefix": "ats. Cypherjugglers going the highroads. Seekers on the great quest. What town, good masters? Mummed in names: A. E., eon: Magee, John Eglinton. East of the sun, west of the moon: ",
+    "suffix": ". Booted the twain and staved. \n\nHow many miles to Dublin?\nThree score and ten, sir. \nWill we be there by candlelight? \n\n — Mr Brandes accepts it, Stephen said, as the first play o",
+    "start": 23452,
+    "end": 23463,
+    "canonical_text": "Tir na n-og"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15062863,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

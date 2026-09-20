@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15141053",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "I’ll run ask my uncle Peter over there what’s the time by his conundrum.",
+  "html_source": "<p>Innuendo here: “uncle Peter” was a phrase used to denote an older man, usually an attractive one; “conundrum” refers to his watch, but may here be a penis pun, an interpretation reinforced by the subsequent mention of “waterworks” (as noted in Penguin 20th c. Classics Annotated Students Edition).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15141053/James-joyce-ulysses-chap-13-nausicaa/Ill-run-ask-my-uncle-peter-over-there-whats-the-time-by-his-conundrum",
+    "original_id": "15141053",
+    "referent_id": 15141053,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "I'll run ask my uncle Peter over there what's the time by his conundrum.",
+    "prefix": "the time and Miss Cissy, as glib as you like, said it was half past kissing time, time to kiss again. But Edy wanted to know because they were told to be in early. \n\n — Wait, said ",
+    "suffix": " \n\n So over she went and when he saw her coming she could see him take his hand out of his pocket, getting nervous, and beginning to play with his watchchain, looking at the church",
+    "start": 37536,
+    "end": 37611,
+    "canonical_text": "Cissy, I'll ask my uncle Peter over there what's the time by his conundrum."
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9252
+  },
+  "genius": {
+    "referent_id": 15141053,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

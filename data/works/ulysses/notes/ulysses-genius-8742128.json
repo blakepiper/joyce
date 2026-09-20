@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8742128",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "N. g.",
+  "html_source": "<p>Slang: no good. (Gifford, p73).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8742128/James-joyce-ulysses-chap-4-calypso/N-g",
+    "original_id": "8742128",
+    "referent_id": 8742128,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "n. g.",
+    "prefix": "ough the open doorway the bar squirted out whiffs of ginger, teadust, biscuitmush.1961#57 Good house, however: just the end of the city traffic. For instance M'Auley's down there: ",
+    "suffix": " as position. Of course if they ran a tramline along the North Circular from the cattlemarket to the quays value would go up like a shot. \n\n Baldhead over the blind. Cute old codge",
+    "start": 7077,
+    "end": 7082,
+    "canonical_text": "n. g."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8742128,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

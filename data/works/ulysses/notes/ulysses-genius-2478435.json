@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2478435",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "And along by shady Tritonville avenue",
+  "html_source": "<p>A tiny but still surviving street in Dublin.</p><p><a href=\"https://maps.google.com/maps?q=tritonville+avenue+dublin&amp;ie=UTF-8&amp;hq=&amp;hnear=0x48670edd8a0fed53:0x1e041997c0598415,Tritonville+Ave,+Co.+Dublin,+Ireland&amp;gl=us&amp;ei=rpuTUuycE5PJsQTBgoGwAQ&amp;ved=0CCwQ8gEwAA\" rel=\"noopener nofollow\">Google Maps</a></p><p><a href=\"https://maps.google.com/maps?q=tritonville+avenue+dublin&amp;ie=UTF-8&amp;hq=&amp;hnear=0x48670edd8a0fed53:0x1e041997c0598415,Tritonville+Ave,+Co.+Dublin,+Ireland&amp;gl=us&amp;ei=rpuTUuycE5PJsQTBgoGwAQ&amp;ved=0CCwQ8gEwAA\" rel=\"noopener nofollow\">Google Street View</a> (notice the shade!):</p><p><img src=\"https://images.rapgenius.com/1x7o1df3eyyn7qzcjwhu7zwyv.1000x687x1.png\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2478435/James-joyce-ulysses-chap-13-nausicaa/And-along-by-shady-tritonville-avenue",
+    "original_id": "2478435",
+    "referent_id": 2478435,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "and along by shady Tritonville avenue",
+    "prefix": "ould have loved to do with a box of paints because it was easier than to make a man and soon 1932#328the lamplighter would be going his rounds past the presbyterian church grounds ",
+    "suffix": " where the couples walked and lighting the lamp near her window where Reggy Wylie used to turn his freewheel like she read in that book The Lamplighter by Miss Cummins, author of M",
+    "start": 44254,
+    "end": 44291,
+    "canonical_text": "and along by shady Tritonville avenue"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2478435,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 149810,
+        "login": "perfectrhyme",
+        "name": "Perfectrhyme",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

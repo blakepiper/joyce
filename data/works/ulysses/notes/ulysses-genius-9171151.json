@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9171151",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Right ovary",
+  "html_source": "<p>A common folk belief.</p><p>Laura Davis, wrote in The Law of Sex Determination and Its Practical Application in 1916:  “In the normal female the ovary of the right side yields ova which on fertilization develop as males, and the ovary of the left side yields ova which are potentially female.”<br /><a href=\"http://mentalfloss.com/article/55013/5-ways-guarantee-baby-boy-100-years-ago\" rel=\"noopener nofollow\">http://mentalfloss.com/article/55013/5-ways-guarantee-baby-boy-100-years-ago</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9171151/James-joyce-ulysses-chap-14-oxen-of-the-sun/Right-ovary",
+    "original_id": "9171151",
+    "referent_id": 9171151,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "right ovary",
+    "prefix": "t present — such as the first problem submitted by Mr L. Bloom (Pubb. Canv.) regarding the future determination of sex. Must we accept the view of Empedocles of Trinacria that the ",
+    "suffix": " (the postmenstrual period, assert others) is responsible for the birth of males or are the too long neglected spermatozoa or nemasperms the differentiating factors or is it, as mo",
+    "start": 89321,
+    "end": 89332,
+    "canonical_text": "right ovary"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9171151,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

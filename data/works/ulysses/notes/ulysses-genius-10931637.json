@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10931637",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Moustachecup",
+  "html_source": "<p>A gift from daughter Milly mentioned in Chapter 4</p><p>“The tea was drawn. He filled his own moustachecup, sham crown Derby, smiling. Silly Milly’s birthday gift.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10931637/James-joyce-ulysses-chap-17-ithaca/Moustachecup",
+    "original_id": "10931637",
+    "referent_id": 10931637,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "moustachecup",
+    "prefix": " shelves of the kitchen dresser, opened by Bloom? \n\n On the lower shelf five vertical breakfast plates, six horizontal breakfast saucers on which rested inverted breakfast cups, a ",
+    "suffix": ", uninverted, and saucer of Crown Derby, four white goldrimmed eggcups, 1986#551an open shammy purse displaying coins, mostly copper, and a phial of aromatic violet comfits. On the",
+    "start": 19993,
+    "end": 20005,
+    "canonical_text": "moustachecup"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9659
+  },
+  "genius": {
+    "referent_id": 10931637,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

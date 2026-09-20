@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9098099",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Crystal palace",
+  "html_source": "<p>The Crystal Palace was a cast-iron and plate-glass structure originally built in Hyde Park, London, England, to house the Great Exhibition of 1851. More than 14,000 exhibitors from around the world gathered in its 990,000 square feet (92,000 m2) exhibition space to display examples of technology developed in the Industrial Revolution. It was destroyed by a fire in  1936.  Wikipedia</p><p><img src=\"https://images.genius.com/e44b6de205c3e604f8dcaf9792b00ba6.1000x601x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9098099/James-joyce-ulysses-chap-14-oxen-of-the-sun/Crystal-palace",
+    "original_id": "9098099",
+    "referent_id": 9098099,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "crystal palace",
+    "prefix": "whenceness. \n\n Thereto Punch Costello roared out mainly Etienne chanson but he loudly bid them, lo, wisdom hath built herself a house, this vast majestic longstablished vault, the ",
+    "suffix": " of the Creator, all in applepie order, a penny for him who finds the pea. \n\nBehold the mansion reared by dedal Jack \nSee the malt stored in many a refluent sack, \nIn the proud cir",
+    "start": 28738,
+    "end": 28752,
+    "canonical_text": "crystal palace"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9098099,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

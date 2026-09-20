@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9890393",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Posthumous child",
+  "html_source": "<p>meaning born after the death of its father, which is not the case for Bloom</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9890393/James-joyce-ulysses-chap-15-circe/Posthumous-child",
+    "original_id": "9890393",
+    "referent_id": 9890393,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "posthumous child",
+    "prefix": "inter and summer and scourges himself every Saturday. He was, I understand, at one time a firstclass misdemeanant in Glencree reformatory. Another report states that he was a very ",
+    "suffix": ". I appeal for clemency in the name of the most sacred word our vocal organs have ever been called upon to speak. He is about to have a baby. \n\n(General commotion and compassion. W",
+    "start": 90439,
+    "end": 90455,
+    "canonical_text": "posthumous child"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9890393,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

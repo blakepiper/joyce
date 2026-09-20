@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23915095",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Also",
+  "html_source": "<p>You didn’t need to twist Lenehan’s arm to make him drink, so drink he did saying sláinte.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23915095/James-joyce-ulysses-chap-14-oxen-of-the-sun/Also",
+    "original_id": "23915095",
+    "referent_id": 23915095,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Also",
+    "prefix": " will bring forth by God His bounty and have joy of her childing for she hath waited marvellous long. And the franklin that had drunken said, Expecting each moment to be her next. ",
+    "suffix": " he took the cup that stood tofore him for him needed never none asking nor desiring of him to drink and, Now drink, said he, fully delectably, and he quaffed as far as he might to",
+    "start": 12465,
+    "end": 12469,
+    "canonical_text": "Also"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 23915095,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

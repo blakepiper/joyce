@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15150392",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Wattles",
+  "html_source": "<p>Wattles (from Old English watul) are building material made from stakes interlaced with twigs or branches</p><p><img src=\"https://images.genius.com/d928a31840649b0b0453b969bb1d1e9a.175x263x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15150392/James-joyce-ulysses-chap-14-oxen-of-the-sun/Wattles",
+    "original_id": "15150392",
+    "referent_id": 15150392,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "wattles",
+    "prefix": "w us into life: we wail, batten, sport, clip, clasp, sunder, dwindle, die: over us dead they bend. First, saved from water of old Nile, among bulrushes, a bed of fasciated 1986#322",
+    "suffix": ": at last the cavity of a mountain, an occulted sepulchre amid the conclamation of the hillcat and the ossifrage. And as no man 1932#356knows the ubicity of his tumulus nor to what",
+    "start": 28161,
+    "end": 28168,
+    "canonical_text": "wattles"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15150392,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

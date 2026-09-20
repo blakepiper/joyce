@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4565393",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "I tried with the Banana",
+  "html_source": "<p>Molly recalls that she tried to masturbate with a banana.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4565393/James-joyce-ulysses-chap-18-penelope/I-tried-with-the-banana",
+    "original_id": "4565393",
+    "referent_id": 4565393,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "I tried with the Banana",
+    "prefix": " was awfully put out first for fear you never know consumption or leave me with a child embarazada that old servant Ines told me that one drop even if it got into you at all after ",
+    "suffix": " but I was afraid it might break and get lost up in me somewhere because they once took something down out of a woman that was up there for years covered with limesalts theyre all ",
+    "start": 59736,
+    "end": 59759,
+    "canonical_text": "I tried with the Banana"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4565393,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

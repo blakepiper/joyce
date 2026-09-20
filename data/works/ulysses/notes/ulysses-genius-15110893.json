@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15110893",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Charabancs",
+  "html_source": "<p>Early buses, used primarily for leisure excursions. From the French char-à-bancs “carriage with benches”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15110893/James-joyce-ulysses-chap-12-cyclops/Charabancs",
+    "original_id": "15110893",
+    "referent_id": 15110893,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "charabancs",
+    "prefix": "mirably rendering on their blackdraped instruments the matchless melody endeared to us from the cradle by Speranza's plaintive muse. Special quick excursion trains and upholstered ",
+    "suffix": " had been provided for the comfort of our country 1961#306cousins of whom there were large contingents. Considerable amusement was caused by the favourite Dublin streetsingers L-n-",
+    "start": 33952,
+    "end": 33962,
+    "canonical_text": "charabancs"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15110893,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

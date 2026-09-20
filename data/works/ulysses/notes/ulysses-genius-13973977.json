@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13973977",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Gum, I’m jiggered",
+  "html_source": "<p>“Gum\"or God</p><p>“I’m Jiggered” a colloquial<br />oath approximate to “I’ll be damned!”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13973977/James-joyce-ulysses-chap-14-oxen-of-the-sun/Gum-im-jiggered",
+    "original_id": "13973977",
+    "referent_id": 13973977,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Gum, I'm jiggered",
+    "prefix": "oir, mossoo. Tanks you. \n\n1922#404\n\n 'Tis, sure. What say? In the speakeasy. Tight. I shee you, shir. Bantam, two days teetee. Bowsing nowt but claretwine. Garn! Have a glint, do. ",
+    "suffix": ". And been to barber he have. Too full for words. With a railway bloke. How come you so? Opera he'd like? Rose of Castile. Rows of cast. Police! Some H2O for a gent fainted. Look a",
+    "start": 109448,
+    "end": 109465,
+    "canonical_text": "Gum, I'm jiggered"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13973977,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

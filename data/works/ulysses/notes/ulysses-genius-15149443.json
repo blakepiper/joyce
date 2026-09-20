@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15149443",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Apertly",
+  "html_source": "<p>Term meaning openly, publicly, or without secrecy.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15149443/James-joyce-ulysses-chap-14-oxen-of-the-sun/Apertly",
+    "original_id": "15149443",
+    "referent_id": 15149443,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "apertly",
+    "prefix": "night let pour for childe Leopold a draught and halp thereto the while all they that were there drank every each. And childe Leopold did up his beaver for to pleasure him and took ",
+    "suffix": " somewhat in amity for he never drank no manner of mead which he then put by and anon full privily he voided the more part in his neighbour glass and his neighbour nist not of his ",
+    "start": 11284,
+    "end": 11291,
+    "canonical_text": "apertly"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15149443,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

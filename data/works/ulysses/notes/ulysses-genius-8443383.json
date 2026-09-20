@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8443383",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Till Saint Swithin",
+  "html_source": "<p>means till 15th July.</p><p>St. Swithin’s Day is 15 July, a day on which people watch the weather for tradition says that whatever the weather is like on St. Swithin’s Day, it will continue so for the next forty days.</p><p>There is a weather-rhyme is well known throughout the British Isles since Elizabethan times.<br />‘St. Swithin’s day if thou dost rain<br />For forty days it will remain<br />St. Swithin’s day if thou be fair<br />For forty days 'twill rain nae mair.’</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8443383/James-joyce-ulysses-chap-14-oxen-of-the-sun/Till-saint-swithin",
+    "original_id": "8443383",
+    "referent_id": 8443383,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "till Saint Swithin",
+    "prefix": "on in a cut bob (which are now in with dance cloaks of Kendal green) that was new got to town from Mullingar with the stage where his coz and Mal M's brother will stay a month yet ",
+    "suffix": " and asks what in the earth he does there, he bound home and he to Andrew Horne's being stayed for to crush a cup of wine, so he said, but would tell him of a skittish heifer, big ",
+    "start": 35628,
+    "end": 35646,
+    "canonical_text": "till Saint Swithin"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8443383,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

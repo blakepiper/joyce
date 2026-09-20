@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4014508",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Come to me",
+  "html_source": "<p>The virgin is another type of siren (Gifford &amp; Seidman).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4014508/James-joyce-ulysses-chap-11-sirens/Come-to-me",
+    "original_id": "4014508",
+    "referent_id": 4014508,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "come to me",
+    "prefix": "er's name. Why do I always think Figather? Gathering figs, I think. And Prosper Lore's huguenot name. By Bassi's blessed virgins Bloom's dark eyes went by. Bluerobed, white under, ",
+    "suffix": ". God they believe she is: or goddess. Those today. I could not see. That 1961#259fellow spoke. A student. After with Dedalus' son. He might be Mulligan. All comely virgins. That b",
+    "start": 7035,
+    "end": 7045,
+    "canonical_text": "come to me"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4014508,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

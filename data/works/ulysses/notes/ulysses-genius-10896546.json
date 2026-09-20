@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10896546",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Hachures",
+  "html_source": "<p>parallel lines indicating elevation on topographic maps</p><p><img src=\"https://images.genius.com/19dc18a93240b28d2ca280606cc29d6b.220x300x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10896546/James-joyce-ulysses-chap-17-ithaca/Hachures",
+    "original_id": "10896546",
+    "referent_id": 10896546,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "hachures",
+    "prefix": "certain localities in Ireland and abroad, as represented in general geographical maps of polychrome design or in special ordnance survey charts by employment of scale numerals and ",
+    "suffix": ". \n\n In Ireland? \n\n The cliffs of Moher, the windy wilds of Connemara, lough Neagh with submerged petrified city, the Giant's Causeway, Fort Camden and Fort Carlisle, the Golden Va",
+    "start": 125297,
+    "end": 125305,
+    "canonical_text": "hachures"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10896546,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

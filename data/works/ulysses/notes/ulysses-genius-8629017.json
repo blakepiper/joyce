@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8629017",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "It was a palpable case of Doctor Fell",
+  "html_source": "<p>From the English nursery rhyme:</p><p><em>“I do not like thee, Doctor Fell,<br />The reason why – I cannot tell;<br />But this I know, and know full well,<br />I do not like thee, Doctor Fell.”</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8629017/James-joyce-ulysses-chap-13-nausicaa/It-was-a-palpable-case-of-doctor-fell",
+    "original_id": "8629017",
+    "referent_id": 8629017,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "it was a palpable case of Doctor Fell",
+    "prefix": "aking a short walk. You never saw him any way screwed but still and for all that she would not like him for a father because he was too old or something or on account of his face (",
+    "suffix": ") or his carbuncly nose with the pimples on it and his sandy moustache a bit white under his nose. Poor father! With all his faults she loved him still when he sang Tell me, Mary, ",
+    "start": 21633,
+    "end": 21670,
+    "canonical_text": "it was a palpable case of Doctor Fell"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8629017,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

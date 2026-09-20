@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15156623",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Chukkar",
+  "html_source": "<p>A chukkar (or <a href=\"https://en.wiktionary.org/wiki/chukker#English\" rel=\"noopener nofollow\">chukker</a>) is one of the six playing periods a polo game is divided into, each 7.5 minutes long. Borrowed from Hindi चक्कर (cakkar), from Sanskrit चक्र (cakra)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15156623/James-joyce-ulysses-chap-15-circe/Chukkar",
+    "original_id": "15156623",
+    "referent_id": 15156623,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "chukkar",
+    "prefix": "nd of the Phoenix park at the match All Ireland versus the Rest of Ireland. My eyes, I know, shone divinely as I watched Captain Slogger Dennehy of the Inniskillings win the final ",
+    "suffix": " on his darling cob Centaur. This plebeian Don Juan observed me from behind a hackney car and sent me in double envelopes an obscene photograph, such as are sold after dark on Pari",
+    "start": 54086,
+    "end": 54093,
+    "canonical_text": "chukkar"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15156623,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

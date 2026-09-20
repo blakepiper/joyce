@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9090234",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Marie Kendall",
+  "html_source": "<p>From Section 7: “Then she stared at the large poster of Marie Kendall, charming soubrette, and, listlessly lolling, scribbled on the jotter sixteens and capital esses.”</p><p>From Section 9: “They passed Dan Lowry’s musichall where Marie Kendall, charming soubrette, smiled on them from a poster a dauby smile.”</p><p>From Section 18: “He turned to the right and on his right Master Dignam turned, his cap awry, his collar sticking up. Buttoning it down, his chin lifted, he saw the image of Marie Kendall, charming soubrette, beside the two puckers.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9090234/James-joyce-ulysses-chap-10-wandering-rocks/Marie-kendall",
+    "original_id": "9090234",
+    "referent_id": 9090234,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Marie Kendall",
+    "prefix": "ord, seeing the eyes of lady Dudley fixed on him, took his thumbs quickly out of the pockets 1932#227of his claret waistcoat and doffed his cap to her. A charming soubrette, great ",
+    "suffix": ", with dauby cheeks and lifted skirt smiled daubily from her poster upon William Humble, earl of Dudley, and upon lieutenantcolonel H. G. Hesseltine, and also upon the honourable G",
+    "start": 71078,
+    "end": 71091,
+    "canonical_text": "Marie Kendall"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9712
+  },
+  "genius": {
+    "referent_id": 9090234,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083675,
+        "login": "brnmzsk",
+        "name": "brnmzsk",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

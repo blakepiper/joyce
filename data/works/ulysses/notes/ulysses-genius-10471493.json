@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10471493",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Carl Rosa",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Carl_Rosa_Opera_Company\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Carl_Rosa_Opera_Company</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10471493/James-joyce-ulysses-chap-16-eumaeus/Carl-rosa",
+    "original_id": "10471493",
+    "referent_id": 10471493,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Carl Rosa",
+    "prefix": "34on there. I'd carry a sandwichboard only the girl in the office told me they're full up for the next three weeks, man. God, you've to book ahead, man, you'd think it was for the ",
+    "suffix": ". I don't give a shite anyway so long as I get a job, even as a crossing sweeper. \n\n Subsequently being not quite so down in the mouth after the two and six he got he informed Step",
+    "start": 14137,
+    "end": 14146,
+    "canonical_text": "Carl Rosa"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10471493,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

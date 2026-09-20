@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8287831",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "He didn’t patch up the pot",
+  "html_source": "<p>Patch up the pot – slang for a man marrying a woman he had made pregnant</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8287831/James-joyce-ulysses-chap-12-cyclops/He-didnt-patch-up-the-pot",
+    "original_id": "8287831",
+    "referent_id": 8287831,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "he didn't patch up the pot",
+    "prefix": "ie, doing the little lady. Jack Mooney's sister. And the old prostitute of a mother procuring 1932#283rooms to street couples. Gob, Jack 1939#228made him toe the line. Told him if ",
+    "suffix": ", Jesus, he'd kick the shite out of him. \n\n So Terry brought the three pints. \n\n — Here, says Joe, doing the honours. Here, citizen. \n\n — Slan leat, says he. \n\n — Fortune, Joe, say",
+    "start": 52964,
+    "end": 52990,
+    "canonical_text": "he didn't patch up the pot"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8287831,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

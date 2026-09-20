@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4592306",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "(Points.) Exit Judas.",
+  "html_source": "<p>Stephen calls Lynch “Judas”.</p><p>According to Gifford: Exit Judas. Et laqueo se suspendit – Latin: “Judas left. And went and hanged himself.” The last three Latin words quote Matthew 27:5 (Vulgate); the rest of Stephen’s remark renders the sense of that passage.</p><p>Matthew 27:5 – And he cast down the pieces of silver in the temple, and departed, and went and hanged himself.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4592306/James-joyce-ulysses-chap-15-circe/Points-exit-judas",
+    "original_id": "4592306",
+    "referent_id": 4592306,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "(Points.) Exit Judas.",
+    "prefix": " Can't you get him away? \n\n LYNCH \n\n He likes dialectic, the universal language. Kitty! (To Bloom.) Get him away, you. He won't listen to me. \n\n(He drags Kitty away.) \n\n STEPHEN \n\n",
+    "suffix": " Et laqueo se suspendit. \n\n1961#600\n\n BLOOM \n\n(Runs to Stephen.) Come along with me now before worse happens. Here's your stick. \n\n STEPHEN \n\n Stick, no. Reason. This feast of pure",
+    "start": 229889,
+    "end": 229910,
+    "canonical_text": "(Points.) Exit Judas."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4592306,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

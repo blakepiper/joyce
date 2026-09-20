@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-14132656",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "I’m not a triple screw propeller.",
+  "html_source": "<p><img src=\"https://images.genius.com/ba2231593b089e5ce2218b382c2360bb.1000x780x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/14132656/James-joyce-ulysses-chap-15-circe/Im-not-a-triple-screw-propeller",
+    "original_id": "14132656",
+    "referent_id": 14132656,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "I'm not a triple screw propeller.",
+    "prefix": "benefit your complexion. And take some double chin drill. Your eyes are as vapid as the glasseyes of your stuffed fox. They have the dimensions of your other features, that's all. ",
+    "suffix": " \n\n BELLA \n\n(Contemptuously.) You're not game, in fact. (Her sowcunt barks.) Fohracht! \n\n BLOOM \n\n(Contemptuously.) Clean your nailless middle finger first, your bully's cold spunk",
+    "start": 174559,
+    "end": 174592,
+    "canonical_text": "I'm not a triple screw propeller."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 14132656,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-18940452",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Costdrawer",
+  "html_source": "<p>From the Oxford English Dictionary: a “person who causes or necessitates the expenditure of another’s money.” Obsolete.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/18940452/James-joyce-ulysses-chap-3-proteus/Costdrawer",
+    "original_id": "18940452",
+    "referent_id": 18940452,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "costdrawer",
+    "prefix": "uldn't he fly a bit higher than that, eh? And and and and tell us, Stephen, how is uncle Si? O weeping God, the things I married into! De boys up in de hayloft. The drunken little ",
+    "suffix": " and his brother, the cornet player. Highly respectable gondoliers! And skeweyed Walter sirring his father, no less! Sir. Yes, sir. No, sir. Jesus wept: and no wonder, by Christ! \n",
+    "start": 4257,
+    "end": 4267,
+    "canonical_text": "costdrawer"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 18940452,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 10174791,
+        "login": "QuintusSlide",
+        "name": "QuintusSlide",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

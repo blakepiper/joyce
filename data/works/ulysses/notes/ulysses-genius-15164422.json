@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15164422",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Tripudium",
+  "html_source": "<p>Interesting word. From wiktionary,</p><p>Tripudium (plural tripudia):<br />1. (historical) A solemn religious dance of the Ancient Romans, performed in triple time.<br />2. A form of divination based on the observation of birds feeding.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15164422/James-joyce-ulysses-chap-15-circe/Tripudium",
+    "original_id": "15164422",
+    "referent_id": 15164422,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "tripudium",
+    "prefix": "(Handing her coins.) Here. \n\n STEPHEN \n\n(Cracking his fingers impatiently.) Quick! Quick! Where's my augur's rod? (He runs to the piano and takes his ashplant, beating his foot in ",
+    "suffix": ".) \n\n ZOE \n\n(Turns the drumhandle.) There. \n\n(She drops two pennies in the slot. Gold, pink and violet lights start forth. The drum turns purring in low hesitation 1961#574waltz. P",
+    "start": 196832,
+    "end": 196841,
+    "canonical_text": "tripudium"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15164422,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5117747",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Bonne à tout faire",
+  "html_source": "<p>A maid who does everything, usually referring to household chores but in this case ‘does everything’ has more salacious connotations.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5117747/James-joyce-ulysses-chap-3-proteus/Bonne-a-tout-faire",
+    "original_id": "5117747",
+    "referent_id": 5117747,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "bonne à tout faire",
+    "prefix": "hag with the yellow teeth. Vieille ogresse with the dents jaunes. Maud Gonne, beautiful woman, La Patrie, M. Millevoye, Félix Faure, know how he died? Licentious men. The froeken, ",
+    "suffix": ", who rubs male nakedness in the bath at Upsala. Moi faire, she said, tous les messieurs. Not this monsieur, I said. Most licentious custom. Bath a most private thing. I wouldn't l",
+    "start": 14640,
+    "end": 14658,
+    "canonical_text": "bonne à tout faire"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5117747,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1618748,
+        "login": "Kataryna",
+        "name": "Kataryna",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

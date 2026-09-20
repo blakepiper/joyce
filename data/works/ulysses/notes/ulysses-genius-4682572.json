@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4682572",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Parallax",
+  "html_source": "<blockquote><p>The effect whereby the position or direction of an object appears to differ when viewed from different positions,</p></blockquote>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4682572/James-joyce-ulysses-chap-8-lestrygonians/Parallax",
+    "original_id": "4682572",
+    "referent_id": 4682572,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Parallax",
+    "prefix": " forward raising his troubled eyes. Think no more about that. After one. Timeball on the ballastoffice is down. Dunsink time. Fascinating little book that is of sir Robert Ball's. ",
+    "suffix": ". I never exactly understood. There's a priest. Could ask him. Par it's Greek: parallel, parallax. Met him pike hoses she called it till I told her about the transmigration. O rock",
+    "start": 6578,
+    "end": 6586,
+    "canonical_text": "Parallax"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4682572,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

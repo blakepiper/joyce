@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15154029",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Bandog",
+  "html_source": "<p>A term from the middle ages that refers to a specific type of working dog.</p><p>From <a href=\"https://en.wikipedia.org/wiki/Bandog\" rel=\"noopener nofollow\">Wikipedia</a>: The term Bandog (also known as Bandogge) is believed to have originated in the Middle Ages in England. Johannes Caius published a book in Latin in 1570, translated into English in 1576 by Abraham Fleming under the title, Of Englishe Dogges, in which he described the Bandog as a vast, stubborn, eager dog of heavy body.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15154029/James-joyce-ulysses-chap-14-oxen-of-the-sun/Bandog",
+    "original_id": "15154029",
+    "referent_id": 15154029,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "bandog",
+    "prefix": "cle. Astounding! In her lay a Godframed Godgiven preformed possibility which thou hast fructified with thy modicum of man's work. Cleave to her! Serve! Toil on, labour like a very ",
+    "suffix": " and let scholarment and all Malthusiasts go hang. Thou art all their daddies, Theodore. Art drooping under thy load, bemoiled with butcher's bills at home and ingots (not thine!) ",
+    "start": 102745,
+    "end": 102751,
+    "canonical_text": "bandog"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15154029,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

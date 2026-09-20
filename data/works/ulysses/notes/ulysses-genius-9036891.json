@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9036891",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Flora MacFlimsy",
+  "html_source": "<p>From a comic poem by William Allen Butler  about a spoiled young woman who spends her time shopping in Paris because she has “nothing to wear.”<br /><a href=\"http://www.bartleby.com/360/9/52.html\" rel=\"noopener nofollow\">http://www.bartleby.com/360/9/52.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9036891/James-joyce-ulysses-chap-13-nausicaa/Flora-macflimsy",
+    "original_id": "9036891",
+    "referent_id": 9036891,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Flora MacFlimsy",
+    "prefix": "ead with golden syrup on. What a persuasive power that girl had! But to be sure baby was as good as gold, a perfect little dote in his new fancy bib. None of your spoilt beauties, ",
+    "suffix": " sort, was Cissy Caffrey. A 1961#346truerhearted 1986#284lass never drew the breath of life, always with a laugh in her gipsylike eyes and a frolicsome word on her cherryripe red l",
+    "start": 2365,
+    "end": 2380,
+    "canonical_text": "Flora MacFlimsy"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9036891,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

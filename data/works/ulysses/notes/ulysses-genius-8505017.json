@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8505017",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "William Humble",
+  "html_source": "<p><strong>Beginning of Episode 19.</strong></p><p><img src=\"https://images.rapgenius.com/af2a10953c35ca97d6a681d63ee2e8ac.636x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8505017/James-joyce-ulysses-chap-10-wandering-rocks/William-humble",
+    "original_id": "8505017",
+    "referent_id": 8505017,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "William Humble",
+    "prefix": "trying to say it better. Poor pa. That was Mr Dignam, my father. I hope he is in 1961#251purgatory now because he went to confession to Father Conroy on Saturday night. \n\n*\n*  *\n\n ",
+    "suffix": ", earl of Dudley, and lady Dudley, accompanied by lieutenantcolonel Hesseltine, drove out after luncheon from the viceregal lodge. In the following carriage were the honourable Mrs",
+    "start": 67854,
+    "end": 67868,
+    "canonical_text": "William Humble"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9303
+  },
+  "genius": {
+    "referent_id": 8505017,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

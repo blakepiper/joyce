@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9890231",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Hypsospadia",
+  "html_source": "<p>Hypospadias (pronounced hype-oh-spay-dee-us) is a birth defect in boys where the opening of the urethra (the tube that carries urine from the bladder to the outside of the body) is not located at the tip of the penis.<br />cdc.gov</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9890231/James-joyce-ulysses-chap-15-circe/Hypsospadia",
+    "original_id": "9890231",
+    "referent_id": 9890231,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Hypsospadia",
+    "prefix": " to 5427 anal, axillary, pectoral and pubic hairs, I declare him to be virgo intacta. \n\n(Bloom holds his high grade hat over his genital organs.) \n\n1939#3501932#435\n\n DR MADDEN \n\n ",
+    "suffix": " is also marked. In the interest of coming generations I suggest that the parts affected should be preserved in spirits of wine in the national teratological museum. \n\n DR CROTTHER",
+    "start": 89226,
+    "end": 89237,
+    "canonical_text": "Hypsospadia"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9890231,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

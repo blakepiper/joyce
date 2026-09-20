@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5089411",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Zion",
+  "html_source": "<p>A city founded by Dowie in Illinois.</p><p><a href=\"http://www.cityofzion.com/\" rel=\"noopener nofollow\">http://www.cityofzion.com/</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5089411/James-joyce-ulysses-chap-8-lestrygonians/Zion",
+    "original_id": "5089411",
+    "referent_id": 5089411,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Zion",
+    "prefix": ". Birth, hymen, martyr, war, foundation of a building, sacrifice, kidney burntoffering, 1932#133druids' altars. Elijah is coming. Dr John Alexander Dowie restorer of the church in ",
+    "suffix": " is coming. \n\nIs coming! Is coming!! Is coming!!! \nAll heartily welcome. \n\n \t Paying game. Torry and Alexander last year. Polygamy. His wife will put the stopper on that. Where was",
+    "start": 792,
+    "end": 796,
+    "canonical_text": "Zion"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5089411,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

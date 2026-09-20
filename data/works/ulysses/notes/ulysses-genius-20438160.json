@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20438160",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Chummies",
+  "html_source": "<p>“Chummies” is slang for chimney sweeps.</p><p><a href=\"https://en.wiktionary.org/wiki/chummy#English\" rel=\"noopener nofollow\">https://en.wiktionary.org/wiki/chummy#English</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20438160/James-joyce-ulysses-chap-6-hades/Chummies",
+    "original_id": "20438160",
+    "referent_id": 20438160,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Chummies",
+    "prefix": " by day, land agents, temperance hotel, Falconer's railway guide, civil service college, Gill's, catholic club, the industrious blind. Why? Some reason. Sun or wind. At night too. ",
+    "suffix": " and slaveys. Under the patronage of the late Father Mathew. Foundation stone for Parnell. Breakdown. Heart. \n\n White horses with white frontlet plumes came round the Rotunda corne",
+    "start": 18342,
+    "end": 18350,
+    "canonical_text": "Chummies"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20438160,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20012473",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Lock the gates",
+  "html_source": "<p>All four gates to the town of Gibraltar were locked daily at sunset. This was called the Ceremony of the Keys.</p><p><a href=\"https://en.wikipedia.org/wiki/Ceremony_of_the_Keys_%28Gibraltar%29\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Ceremony_of_the_Keys_%28Gibraltar%29</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20012473/James-joyce-ulysses-chap-18-penelope/Lock-the-gates",
+    "original_id": "20012473",
+    "referent_id": 20012473,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "lock the gates",
+    "prefix": "lace more than the old longbearded jews in their jellibees and levites assembly and sound clear and gunfire for the men to cross the lines and the warden marching with his keys to ",
+    "suffix": " and the bagpipes and only Captain Groves and father talking about Rorkes drift and Plevna and sir Garnet Wolseley and Gordon at Khartoum lighting their pipes for them everytime th",
+    "start": 51240,
+    "end": 51254,
+    "canonical_text": "lock the gates"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20012473,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11041825,
+        "login": "raggedclaws",
+        "name": "raggedclaws",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

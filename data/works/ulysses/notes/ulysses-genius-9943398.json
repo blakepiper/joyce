@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9943398",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Shillelaghs",
+  "html_source": "<p>shil·le·lagh also shil·la·lah  (shə-lā′lē, -lə)<br />n.<br />A cudgel of oak, blackthorn, or other hardwood.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9943398/James-joyce-ulysses-chap-15-circe/Shillelaghs",
+    "original_id": "9943398",
+    "referent_id": 9943398,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "shillelaghs",
+    "prefix": "hes furiously all over from frons to nates, three tears falling from his left eye.) Spare my past. \n\n THE IRISH EVICTED TENANTS \n\n(In bodycoats, kneebreeches, with Donnybrook fair ",
+    "suffix": ".) Sjambok him! \n\n(Bloom with asses' ears seats himself in the pillory with crossed arms, his feet protruding. He whistles Don Giovanni, a cenar teco.Artane orphans, joining hands,",
+    "start": 94321,
+    "end": 94332,
+    "canonical_text": "shillelaghs"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9943398,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

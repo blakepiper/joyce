@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13807652",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Blandishments",
+  "html_source": "<p>a flattering or pleasing statement or action used to persuade someone gently to do something.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13807652/James-joyce-ulysses-chap-14-oxen-of-the-sun/Blandishments",
+    "original_id": "13807652",
+    "referent_id": 13807652,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "blandishments",
+    "prefix": "visage, nor did her hortative want of it effect for incontinently Punch Costello was of them all embraided and they reclaimed the churl with civil rudeness some and with menace of ",
+    "suffix": " others whiles all chode with him, a murrain seize the dolt, what a devil he would be at, thou chuff, thou puny, thou got in the peasestraw, thou losel, thou chitterling, thou spaw",
+    "start": 23148,
+    "end": 23161,
+    "canonical_text": "blandishments"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13807652,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

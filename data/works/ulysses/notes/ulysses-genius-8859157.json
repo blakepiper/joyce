@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8859157",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Mr Bloom",
+  "html_source": "<p>Based upon <a href=\"http://muse.jhu.edu/login?auth=0&amp;type=summary&amp;url=/journals/dublin_james_joyce_journal/v001/1.killeen.html\" rel=\"noopener nofollow\">‘Mr. Hunter’</a>! and <em>p19 James Joyce The Years of Growth 1882 -1915, P. Costello</em>.</p><p>PROPOSED SUGGESTION: The real-life counterpart(s) to Bloom are well worth identifying and discussing, but it would be great if you could flesh it out a bit more if you wanted—I myself don’t know very much about this so I don’t feel too secure in adding my own bits to this annotation.</p><p>Also, could you find another link that covers this? Keep this one up, it’s fantastic, but the majority of users on genius probably won’t have full free access to Project Muse, or other platforms where you can view full pieces of academic writing.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8859157/James-joyce-ulysses-chap-5-lotus-eaters/Mr-bloom",
+    "original_id": "8859157",
+    "referent_id": 8859157,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Mr Bloom",
+    "prefix": "\n\n[5]\n\n\n\nBy lorries along sir John Rogerson's quay ",
+    "suffix": " walked soberly, past Windmill lane, Leask's the linseed crusher, the postal telegraph office. Could have given that address too. And past the sailors' home. He turned from the mor",
+    "start": 51,
+    "end": 59,
+    "canonical_text": "Mr Bloom"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9767
+  },
+  "genius": {
+    "referent_id": 8859157,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.8461538461538461
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.15384615384615385
+      }
+    ]
+  },
+  "color": "F59627"
+}

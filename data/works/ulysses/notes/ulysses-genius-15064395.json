@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15064395",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Filibeg",
+  "html_source": "<p>A kilt (from the Gaelic “filleadh beag”)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15064395/James-joyce-ulysses-chap-9-scylla-and-charybdis/Filibeg",
+    "original_id": "15064395",
+    "referent_id": 15064395,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "filibeg",
+    "prefix": ": \n\nI hardly hear the purlieu cry \nOr a tommy talk as I pass one by\nBefore my thoughts begin to run\nOn F. M'Curdy Atkinson,\nThe same that had the wooden leg\nAnd that filibustering ",
+    "suffix": "\nThat never dared to slake his drouth,\nMagee that had the chinless mouth.\nBeing afraid to marry on earth\nThey masturbated for all they were worth. \n\n Jest on. Know thyself. \n\n Halt",
+    "start": 66241,
+    "end": 66248,
+    "canonical_text": "filibeg"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15064395,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

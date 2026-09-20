@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11137644",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Shadow of Ashlydyat",
+  "html_source": "<p><a href=\"http://www.goodreads.com/book/show/299990.The_Shadow_of_Ashlydyat\" rel=\"noopener nofollow\">http://www.goodreads.com/book/show/299990.The_Shadow_of_Ashlydyat</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11137644/James-joyce-ulysses-chap-18-penelope/Shadow-of-ashlydyat",
+    "original_id": "11137644",
+    "referent_id": 11137644,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "shadow of Ashlydyat",
+    "prefix": "ouldnt have been nice on account of her but I could have stopped it in time she gave me the Moonstone to read that was the first I read of Wilkie Collins East Lynne I read and the ",
+    "suffix": " Mrs Henry Wood Henry Dunbar by that other woman I lent him afterwards with Mulveys photo in it so as he see I wasnt without and Lord Lytton Eugene Aram Molly bawn she gave me by M",
+    "start": 48650,
+    "end": 48669,
+    "canonical_text": "shadow of Ashlydyat"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11137644,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

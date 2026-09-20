@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4812574",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Tenors get wom",
+  "html_source": "<p>tenors that sing opposing the vocal notes of a soprano.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4812574/James-joyce-ulysses-chap-11-sirens/Tenors-get-wom",
+    "original_id": "4812574",
+    "referent_id": 4812574,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Tenors get wom",
+    "prefix": "uthentic fact. How Walter Bapty lost his voice. Well, sir, the husband took him by the throat. Scoundrel, said he, You'll sing no more lovesongs. He did, sir Tom. Bob Cowley wove. ",
+    "suffix": ". Cowley lay back. \n\n Ah, now he heard, she holding it to his ear. Hear! He heard. Wonderful. She held it to her own. And through the sifted light pale gold in contrast glided. To ",
+    "start": 51813,
+    "end": 51827,
+    "canonical_text": "Tenors get wom"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9746
+  },
+  "genius": {
+    "referent_id": 4812574,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1486647,
+        "login": "Vasa",
+        "name": "Vasa",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

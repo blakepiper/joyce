@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33874843",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Problem",
+  "html_source": "<p>The problem is: should the circumcised foreskin be considered part of Christ’s divine substance or His human body? The answer would determine the appropriate degree of worship (latria or hyperduly).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33874843/James-joyce-ulysses-chap-17-ithaca/Problem",
+    "original_id": "33874843",
+    "referent_id": 33874843,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "problem",
+    "prefix": "o Stephen: the problem of the sacerdotal integrity of Jesus circumcised (1st January, holiday of obligation to hear mass 1922#655and abstain from unnecessary servile work) and the ",
+    "suffix": " as to whether the divine prepuce, the carnal bridal ring of the holy Roman catholic apostolic church, conserved in Calcata, were deserving of simple hyperduly or of the fourth deg",
+    "start": 76718,
+    "end": 76725,
+    "canonical_text": "problem"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9693
+  },
+  "genius": {
+    "referent_id": 33874843,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11041825,
+        "login": "raggedclaws",
+        "name": "raggedclaws",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

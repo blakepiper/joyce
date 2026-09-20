@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13956159",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Pubb. Canv.",
+  "html_source": "<p>(Pubb. Canv.) – Public<br />Canvasser (for advertisements).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13956159/James-joyce-ulysses-chap-14-oxen-of-the-sun/Pubb-canv",
+    "original_id": "13956159",
+    "referent_id": 13956159,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Pubb. Canv.",
+    "prefix": "be blinked and explain them as best he can. There may be, it is true, some questions which science cannot answer — at present — such as the first problem submitted by Mr L. Bloom (",
+    "suffix": ") regarding the future determination of sex. Must we accept the view of Empedocles of Trinacria that the right ovary (the postmenstrual period, assert others) is responsible for th",
+    "start": 89205,
+    "end": 89216,
+    "canonical_text": "Pubb. Canv."
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 13956159,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10606911",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "O’Callaghan",
+  "html_source": "<p><a href=\"https://books.google.com/books?id=jvznhbzTnhYC&amp;pg=PA235&amp;dq=o%27callaghan+paper+suit&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwj9nKSmr9bPAhUjr1QKHTNtDTYQ6AEIHjAA#v=onepage&amp;q=\" rel=\"noopener nofollow\">https://books.google.com/books?id=jvznhbzTnhYC&amp;pg=PA235&amp;dq=o%27callaghan+paper+suit&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwj9nKSmr9bPAhUjr1QKHTNtDTYQ6AEIHjAA#v=onepage&amp;q=</a><br />Author Margery Sabin considers O'Callaghan  a “wholesale whopper” combining cheap slang, respectable cliche and ludicrous detail.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10606911/James-joyce-ulysses-chap-16-eumaeus/Ocallaghan",
+    "original_id": "10606911",
+    "referent_id": 10606911,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "O'Callaghan",
+    "prefix": "t to mind instances of cultured fellows that promised so brilliantly, nipped in the bud of premature decay, and nobody to blame but themselves. For instance, there was the case of ",
+    "suffix": ", for one, the half crazy faddist, respectably connected, though of inadequate means, with his mad vagaries, among whose other gay doings when rotto and making himself a nuisance t",
+    "start": 80781,
+    "end": 80792,
+    "canonical_text": "O'Callaghan"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10606911,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9520152",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Bohee brothers.",
+  "html_source": "<p>The Bohee Brothers were part of a minstrel troupe. Born in Canada and raised in the US, they performed in many minstrel shows. They also had a repertoire of classic banjo songs they performed during the course of their show<br /><a href=\"http://classicbanjo.com/wordpress/the-bohee-brothers-the-first-cross-over-band/\" rel=\"noopener nofollow\">http://classicbanjo.com/wordpress/the-bohee-brothers-the-first-cross-over-band/</a></p><p><img src=\"https://images.genius.com/10a36227f3c374791cc88d7ba5d0595d.180x236x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9520152/James-joyce-ulysses-chap-15-circe/Bohee-brothers",
+    "original_id": "9520152",
+    "referent_id": 9520152,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Bohee brothers.",
+    "prefix": "visit. Slumming. The exotic, you see. Negro servants too in livery if she had money. Othello black brute. Eugene Stratton. Even the bones and cornerman at the Livermore christies. ",
+    "suffix": " Sweep for that matter. \n\n(Tom and Sam Bohee, coloured coons in white duck suits, scarlet socks, upstarched Sambo chokers and large scarlet asters in their buttonholes, leap 1932#3",
+    "start": 19474,
+    "end": 19489,
+    "canonical_text": "Bohee brothers."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9520152,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

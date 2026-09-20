@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8752063",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "A new era is about to dawn",
+  "html_source": "<p>Is a new era about to dawn in Bloom’s life? In Stephen’s life? In Bloom’s and Molly’s life together?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8752063/James-joyce-ulysses-chap-15-circe/A-new-era-is-about-to-dawn",
+    "original_id": "8752063",
+    "referent_id": 8752063,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "a new era is about to dawn",
+    "prefix": "avo! \n\n AN OLD RESIDENT \n\n You're a credit to your country, sir, that's what you are. \n\n1939#344\n\n AN APPLEWOMAN \n\n He's a man like Ireland wants. \n\n BLOOM \n\n My beloved subjects, ",
+    "suffix": ". I, Bloom, tell you verily it is even now at hand. Yea, on the word of a Bloom, ye shall ere long enter into the golden city which is to be, the new Bloomusalem in the Nova Hibern",
+    "start": 77181,
+    "end": 77207,
+    "canonical_text": "a new era is about to dawn"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8752063,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

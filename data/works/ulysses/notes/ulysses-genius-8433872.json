@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8433872",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Merchant of jalaps",
+  "html_source": "<p>Reference to British<br />(Haines father was a merchant of jalap. “His old fellow made his tin by selling jalap to Zulus or..” Telemachus)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8433872/James-joyce-ulysses-chap-14-oxen-of-the-sun/Merchant-of-jalaps",
+    "original_id": "8433872",
+    "referent_id": 8433872,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "merchant of jalaps",
+    "prefix": "made me, thy lord, to be the slave of servants. Return, return, Clan Milly: forget me not, O Milesian. Why hast thou done this abomination before me that thou didst spurn me for a ",
+    "suffix": " and didst deny me to the Roman and the Indian of dark speech with whom thy daughters did lie luxuriously? Look forth now, my people, upon the land of behest, even from Horeb and f",
+    "start": 26583,
+    "end": 26601,
+    "canonical_text": "merchant of jalaps"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8433872,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

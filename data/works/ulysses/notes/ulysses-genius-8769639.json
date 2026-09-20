@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8769639",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Miaow",
+  "html_source": "<p>Early in this chapter Joyce has the cat say —Mkgnao!<br />He has Bloom say —Miaow!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8769639/James-joyce-ulysses-chap-4-calypso/Miaow",
+    "original_id": "8769639",
+    "referent_id": 8769639,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Miaow",
+    "prefix": "er ear with her back to the fire too. \n\n He felt heavy, full: then a gentle loosening of his bowels. He stood up, undoing the waistband of his trousers. The cat mewed to him. \n\n — ",
+    "suffix": "! he said in answer. Wait till I'm ready. \n\n Heaviness: hot day coming. Too much trouble to fag up the stairs to the landing. \n\n A paper. He liked to read at stool. Hope no ape com",
+    "start": 28346,
+    "end": 28351,
+    "canonical_text": "Miaow"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8769639,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

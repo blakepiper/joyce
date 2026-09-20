@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9171496",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Kalipedia",
+  "html_source": "<p>The word is constructed from the Greek kali (meaning beauty, as in calligraphy) and paedia (meaning education) and could be construed to mean education through beauty or perhaps enrichment through beauty.<br /><a href=\"http://english.stackexchange.com/questions/107442/what-does-kalipedia-mean\" rel=\"noopener nofollow\">http://english.stackexchange.com/questions/107442/what-does-kalipedia-mean</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9171496/James-joyce-ulysses-chap-14-oxen-of-the-sun/Kalipedia",
+    "original_id": "9171496",
+    "referent_id": 9171496,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Kalipedia",
+    "prefix": "ers, the suspended carcases of dead animals, paranoic bachelors and unfructified duennas— these, he said, were accountable for any and every fallingoff in the calibre of the race. ",
+    "suffix": ", he prophesied, would soon be 1961#418generally adopted and all the graces of life, genuinely good music, agreeable literature, light philosophy, instructive pictures, plastercast",
+    "start": 90686,
+    "end": 90695,
+    "canonical_text": "Kalipedia"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9171496,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

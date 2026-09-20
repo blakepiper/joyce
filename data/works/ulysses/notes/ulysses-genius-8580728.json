@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8580728",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Knacker’s yard",
+  "html_source": "<p>A buyer of old or ill horses for their hooves and hides. Their flesh goes for dog food. This section deals with animal diseases  in addition to Foot and Mouth and their treatments. Per D. Gifford.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8580728/James-joyce-ulysses-chap-12-cyclops/Knackers-yard",
+    "original_id": "8580728",
+    "referent_id": 8580728,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "knacker's yard",
+    "prefix": " rightabout and Bloom coming out with his sheepdip for the scab and a hoose drench for coughing calves and the guaranteed remedy for timber tongue. Because he was up one time in a ",
+    "suffix": ". Walking about with his book and pencil here's my head and my heels are coming till Joe Cuffe gave him the order of the boot for giving lip to a grazier. Mister Knowall. Teach you",
+    "start": 54064,
+    "end": 54078,
+    "canonical_text": "knacker's yard"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8580728,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

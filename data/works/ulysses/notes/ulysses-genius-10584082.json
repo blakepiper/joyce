@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10584082",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Stiver",
+  "html_source": "<p>A small coin formerly used in the Netherlands, equal to one twentieth of a guilder.<br /><a href=\"https://en.oxforddictionaries.com/definition/us/stiver\" rel=\"noopener nofollow\">https://en.oxforddictionaries.com/definition/us/stiver</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10584082/James-joyce-ulysses-chap-16-eumaeus/Stiver",
+    "original_id": "10584082",
+    "referent_id": 10584082,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "stiver",
+    "prefix": "rrelled ass proceeded to make general ducks and drakes of. And there he was at the 1932#547end of his tether after having often painted the town tolerably pink, without a beggarly ",
+    "suffix": ". He drank, needless to be told, and it pointed only once more a moral when he might quite easily be in a large way of business if—a big if, however—he had contrived to cure himsel",
+    "start": 64773,
+    "end": 64779,
+    "canonical_text": "stiver"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10584082,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

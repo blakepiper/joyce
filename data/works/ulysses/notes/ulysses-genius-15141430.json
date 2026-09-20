@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15141430",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Jessamine",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Cestrum\" rel=\"noopener nofollow\">Jessamines</a> are certain plants of the genus Cestrum</p><p><img src=\"https://images.genius.com/5e0dfd81b96a4cdd0953336e36564b20.620x465x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15141430/James-joyce-ulysses-chap-13-nausicaa/Jessamine",
+    "original_id": "15141430",
+    "referent_id": 15141430,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "jessamine",
+    "prefix": "the pillow. What is it? Heliotrope? No. Hyacinth? Hm. Roses, I think. She'd like scent of that kind. Sweet and cheap: soon sour. Why Molly likes opoponax. Suits her, with a little ",
+    "suffix": " mixed. Her high notes and her low notes. At the dance night she met him, dance of the hours. Heat 1932#338brought it out. She was wearing her black and it had the perfume of the t",
+    "start": 71383,
+    "end": 71392,
+    "canonical_text": "jessamine"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15141430,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-3158841",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Latin quarter",
+  "html_source": "<p>Part of Paris.</p><p>PROPOSED SUGGESTION: Section of Paris' Left Bank</p><p>PROPOSED SUGGESTION: Earlier in the book, there was an exchange between Malachi and Stephen over a Latin quarter hat.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3158841/James-joyce-ulysses-chap-3-proteus/Latin-quarter",
+    "original_id": "3158841",
+    "referent_id": 3158841,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Latin quarter",
+    "prefix": "C'est tordant, vous savez. Moi, je suis socialiste. Je ne crois pas en l'existence de Dieu. Faut pas le dire à mon père. \n\n— Il croit? \n\n—Mon père, oui. \n\n Schluss. He laps. \n\n My ",
+    "suffix": " hat. God, we simply must dress the character. I want puce gloves. You were a student, weren't you? Of what in the other devil's name? Paysayenn. P. C. N., you know: physiques, chi",
+    "start": 10593,
+    "end": 10606,
+    "canonical_text": "Latin quarter"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3158841,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2436433,
+        "login": "essss",
+        "name": "essss",
+        "role": "contributor",
+        "attribution": 0.5882352941176471
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.411764705882353
+      }
+    ]
+  },
+  "color": "F59627"
+}

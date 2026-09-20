@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11194574",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Bill Bailey",
+  "html_source": "<p><a href=\"https://www.youtube.com/watch?v=r3seUny2pB8\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=r3seUny2pB8</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11194574/James-joyce-ulysses-chap-18-penelope/Bill-bailey",
+    "original_id": "11194574",
+    "referent_id": 11194574,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Bill Bailey",
+    "prefix": " Im sorry in a way for him what are his wife and 5 children going to do unless he was insured comical little teetotum always stuck up in some pub corner and her or her son waiting ",
+    "suffix": " wont you please come home her widows weeds wont improve her appearance theyre awfully becoming though if youre goodlooking what men wasn't he yes he was at the Glencree dinner and",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.7333
+  },
+  "genius": {
+    "referent_id": 11194574,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

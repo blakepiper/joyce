@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11137440",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Belladonna",
+  "html_source": "<p><a href=\"https://www.drugs.com/breastfeeding/belladonna.html\" rel=\"noopener nofollow\">https://www.drugs.com/breastfeeding/belladonna.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11137440/James-joyce-ulysses-chap-18-penelope/Belladonna",
+    "original_id": "11137440",
+    "referent_id": 11137440,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Belladonna",
+    "prefix": "t me washing through the window only for I snapped up the towel to my face that was his studenting hurt me they used to weaning her till he got 1986#620doctor Brady to give me the ",
+    "suffix": " prescription I had to get him to suck them they were so hard he said it was sweeter and thicker than cows then he wanted to milk me into the tea well hes beyond everything I decla",
+    "start": 43021,
+    "end": 43031,
+    "canonical_text": "belladonna"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 11137440,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

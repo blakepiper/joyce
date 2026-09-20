@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8963130",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Mitchelstown",
+  "html_source": "<p>Mitchelstown is a town in County Cork. On 9 September 1887, a protest was held… Speeches were being given to the protest from a platform, and when the police attempted to beat a path through the crowd to position a note-taker next to the platform so that speakers could be prosecuted for any “seditious” speech, sticks and stones were thrown at the them. The police shot into the crowd, killing two and injuring dozens of others; one of the injured died soon after.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8963130/James-joyce-ulysses-chap-12-cyclops/Mitchelstown",
+    "original_id": "8963130",
+    "referent_id": 8963130,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Mitchelstown",
+    "prefix": "r of human animals who dare to play Irish games in the Phoenix park? \n\n Mr Allfours: The answer is in the negative. \n\n Mr Cowe Conacre: Has the right honourable gentleman's famous ",
+    "suffix": " telegram inspired the policy of gentlemen on the Treasury bench? (O! O!) \n\n Mr Allfours: I must have notice of that question. \n\n Mr Staylewit (Buncombe. Ind.): Don't hesitate to s",
+    "start": 56580,
+    "end": 56592,
+    "canonical_text": "Mitchelstown"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8963130,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

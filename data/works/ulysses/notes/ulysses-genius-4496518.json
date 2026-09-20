@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4496518",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "The nickel shavingbowl shone, forgotten, on the parapet. Why should I bring it down? Or leave it there all day, forgotten friendship",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/4b257b1ef27aee5293d16450f0f6f9af.800x600x1.jpg\" alt=\"\" /></p><p><img src=\"https://images.rapgenius.com/5fee05706f5276c3e3e96a770e1d1865.750x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4496518/James-joyce-ulysses-chap-1-telemachus/The-nickel-shavingbowl-shone-forgotten-on-the-parapet-why-should-i-bring-it-down-or-leave-it-there-all-day-forgotten-friendship",
+    "original_id": "4496518",
+    "referent_id": 4496518,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "The nickel shavingbowl shone, forgotten, on the parapet. Why should I bring it down? Or leave it there all day, forgotten friendship",
+    "prefix": "t we have a merry time, \nDrinking whisky, beer and wine! \nOn coronation, \nCoronation day! \nO, won't we have a merry time \nOn coronation day!\n\n Warm sunshine merrying over the sea. ",
+    "suffix": "? \n\n He went over to it, held it in his hands awhile, feeling its coolness, smelling the clammy slaver of the lather in which the brush was stuck. So I carried the boat of incense ",
+    "start": 17470,
+    "end": 17602,
+    "canonical_text": "The nickel shavingbowl shone, forgotten, on the parapet. Why should I bring it down? Or leave it there all day, forgotten friendship"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4496518,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

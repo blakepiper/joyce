@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8773160",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Ashtown",
+  "html_source": "<p>Ashtown (Irish: Baile an Áisigh) is a townland in the civil parish of Castleknock in the postal district of Dublin 15. It is bounded roughly by the townlands of Castleknock to the west, Cabra to the east and by Finglas to the north-east and Dunsink to the north-west. The Dublin-Sligo railway passes through the area and it is served by Ashtown railway station, which opened on 1 August 1902</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8773160/James-joyce-ulysses-chap-5-lotus-eaters/Ashtown",
+    "original_id": "8773160",
+    "referent_id": 8773160,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Ashtown",
+    "prefix": "es you have been, strange customs. The other one, jar on her head, was getting the supper: fruit, olives, lovely cool water out of the well, stonecold like the hole in the wall at ",
+    "suffix": ". Must carry a paper goblet next time I go to the trottingmatches. She listens with big dark soft eyes. Tell her: more and more: all. Then a sigh: silence. Long long long rest. \n\n ",
+    "start": 18172,
+    "end": 18179,
+    "canonical_text": "Ashtown"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8773160,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

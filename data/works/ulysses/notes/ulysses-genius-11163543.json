@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11163543",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Whit Monday",
+  "html_source": "<p>No longer a holiday in Ireland or UK</p><p><a href=\"http://www.officeholidays.com/countries/europe/whitmonday.php\" rel=\"noopener nofollow\">http://www.officeholidays.com/countries/europe/whitmonday.php</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11163543/James-joyce-ulysses-chap-18-penelope/Whit-monday",
+    "original_id": "11163543",
+    "referent_id": 11163543,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Whit Monday",
+    "prefix": "e little houses down at the bottom of the banks there on purpose but its as hot as blazes he says not a bank holiday anyhow I hate those ruck of Mary Ann coalboxes out for the day ",
+    "suffix": " is a cursed day too no wonder that bee bit him better the seaside but Id never again in this life get into a boat with him after him at Bray telling the boatman he knew how to row",
+    "start": 70703,
+    "end": 70714,
+    "canonical_text": "Whit Monday"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 11163543,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

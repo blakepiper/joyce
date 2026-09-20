@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4973167",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "I intend to make a collection of your sayings if you will let me.",
+  "html_source": "<p>Haines is collecting Irish folk songs and esoterica, similar to how colonialists adopt culture from “backwater” countries as modernity begins to take over. In this way, and his learning of Gaelic, Haines can be seen as a cultural appropriator of Irish.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4973167/James-joyce-ulysses-chap-1-telemachus/I-intend-to-make-a-collection-of-your-sayings-if-you-will-let-me",
+    "original_id": "4973167",
+    "referent_id": 4973167,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "I intend to make a collection of your sayings if you will let me.",
+    "prefix": "id as he let honey trickle over a slice of the loaf. \n\n1986#13\n\n Haines from the corner where he was knotting easily a scarf about the loose collar of his tennis shirt spoke: \n\n — ",
+    "suffix": " \n\n Speaking to me. They wash and tub and scrub. Agenbite of inwit. Conscience. Yet here's a spot. \n\n — That one about the cracked lookingglass of a servant being the symbol of Iri",
+    "start": 27025,
+    "end": 27090,
+    "canonical_text": "I intend to make a collection of your sayings if you will let me."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4973167,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1045290,
+        "login": "StickRivero",
+        "name": "StickRivero",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

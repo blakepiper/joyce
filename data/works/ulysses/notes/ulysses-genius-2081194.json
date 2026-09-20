@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2081194",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Silent, remote, reproachful.",
+  "html_source": "<p>This ends the section in the style of Cardinal Newman, which began above with “There are sins.”</p><p><img src=\"https://images.genius.com/993f40c1155d05ed1be72e1713208e45.424x640x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2081194/James-joyce-ulysses-chap-14-oxen-of-the-sun/Silent-remote-reproachful",
+    "original_id": "2081194",
+    "referent_id": 2081194,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "silent, remote, reproachful.",
+    "prefix": "sult over him will the vision come as over one that lies 1922#400under her wrath, not for vengeance to cut him off from the living but shrouded in the piteous vesture of the past, ",
+    "suffix": " \n\n1961#421\n\n The stranger still regarded on the face before him a slow recession of that false calm there, imposed, as it seemed, by habit or some studied trick, upon words so emb",
+    "start": 98443,
+    "end": 98471,
+    "canonical_text": "silent, remote, reproachful."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2081194,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

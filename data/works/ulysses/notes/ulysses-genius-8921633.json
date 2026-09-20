@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8921633",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Comfits",
+  "html_source": "<p>Comfits are seeds, nuts or particles of spice that are coated in sugar; confections</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8921633/James-joyce-ulysses-chap-11-sirens/Comfits",
+    "original_id": "8921633",
+    "referent_id": 8921633,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "comfits",
+    "prefix": "wife? I want to know. Jing. Stop. Knock. Last look at mirror always before she answers the door. The hall. There? How do you? I do well. There? What? Or? Phial of cachous, kissing ",
+    "suffix": ", in her satchel. Yes? Hands felt for the opulent. \n\n Alas the voice rose, sighing, changed: loud, full, shining, proud. \n\n — But alas, 'twas idle dreaming... \n\n Glorious tone he h",
+    "start": 37010,
+    "end": 37017,
+    "canonical_text": "comfits"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8921633,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

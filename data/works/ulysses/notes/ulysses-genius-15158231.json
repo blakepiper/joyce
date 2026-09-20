@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15158231",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Staysed",
+  "html_source": "<p>Perhaps referring to the stays of a corset; therefore, trussed or bound tightly.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15158231/James-joyce-ulysses-chap-15-circe/Staysed",
+    "original_id": "15158231",
+    "referent_id": 15158231,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "staysed",
+    "prefix": "AG \n\n Number two on the other hand, she of the cherry rouge and coiffeuse white, whose hair owes not a little to our tribal elixir of gopherwood, is in walking costume and tightly ",
+    "suffix": " by her sit, I should opine. 1932#449Backbone in front, so to say. Correct me but I always understood that the act so performed by skittish humans with glimpses of lingerie appeale",
+    "start": 116272,
+    "end": 116279,
+    "canonical_text": "staysed"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15158231,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

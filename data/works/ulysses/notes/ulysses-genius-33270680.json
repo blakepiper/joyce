@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33270680",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "See",
+  "html_source": "<p>Behold !</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33270680/James-joyce-ulysses-chap-14-oxen-of-the-sun/See",
+    "original_id": "33270680",
+    "referent_id": 33270680,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "See",
+    "prefix": "body but my soul's bodiment. Leave ye fraction of bread to them that live by bread alone. Be not afeard neither for any want for this will comfort more than the other will dismay. ",
+    "suffix": " ye here. And he showed them glistering coins of the tribute and goldsmiths' notes the worth of two pound nineteen shilling that he had, he said, for a song which he writ. They all",
+    "start": 20301,
+    "end": 20304,
+    "canonical_text": "See"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 33270680,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

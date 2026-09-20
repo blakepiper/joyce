@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11032059",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Armageddon",
+  "html_source": "<p><a href=\"https://gotquestions.org/battle-Armageddon.html\" rel=\"noopener nofollow\">https://gotquestions.org/battle-Armageddon.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11032059/James-joyce-ulysses-chap-17-ithaca/Armageddon",
+    "original_id": "11032059",
+    "referent_id": 11032059,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Armageddon",
+    "prefix": "livery of Mrs Mina Purefoy (heave offering): the visit to the disorderly house of Mrs Bella Cohen, 82 Tyrone street, lower and subsequent brawl and chance medley in Beaver street (",
+    "suffix": "): nocturnal perambulation to and from the cabman's shelter, Butt Bridge (atonement). \n\n What selfimposed enigma did Bloom about to rise in order to go so as to conclude lest he sh",
+    "start": 130796,
+    "end": 130806,
+    "canonical_text": "Armageddon"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11032059,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

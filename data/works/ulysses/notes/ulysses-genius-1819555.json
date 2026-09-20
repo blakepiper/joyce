@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1819555",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Kingstown",
+  "html_source": "<p>The English name for Dun Laoghaire, a town on the south shore of Dublin Bay.</p><p><img src=\"https://images.genius.com/ed00afd1b45acf8c51200d3f1717920d.355x375x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1819555/James-joyce-ulysses-chap-1-telemachus/Kingstown",
+    "original_id": "1819555",
+    "referent_id": 1819555,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Kingstown",
+    "prefix": "our great sweet mother. Come and look. \n\n Stephen stood up and went over to the parapet. Leaning on it he looked down on the water and on the mailboat clearing the harbourmouth of ",
+    "suffix": ". \n\n — Our mighty mother! Buck Mulligan said. \n\n He turned abruptly his great searching eyes from the sea to Stephen's face. \n\n — The aunt thinks you killed your mother, he said. T",
+    "start": 4855,
+    "end": 4864,
+    "canonical_text": "Kingstown"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1819555,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 176532,
+        "login": "biblicalmike",
+        "name": "Michael Bible",
+        "role": "verified_artist",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9619851",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Esau",
+  "html_source": "<p>The Book of Genesis speaks of the relationship between Jacob and Esau, focusing on Esau’s loss of his birthright to Jacob and the conflict that had spawned between their descendant nations because of Jacob’s deception of their aged and blind father, Isaac, in order to receive Esau’s birthright/blessing from Isaac.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9619851/James-joyce-ulysses-chap-15-circe/Esau",
+    "original_id": "9619851",
+    "referent_id": 9619851,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Esau",
+    "prefix": "ly.) \n\n BLOOM \n\n(In triumph.) You hear? \n\n1961#472\n\n PADDY DIGNAM \n\n Bloom, I am Paddy Dignam's spirit. List, list, O list! \n\n1986#3851932#420\n\n BLOOM \n\n The voice is the voice of ",
+    "suffix": ". \n\n SECOND WATCH \n\n(Blesses himself.) How is that possible? \n\n FIRST WATCH \n\n It is not in the penny catechism. \n\n PADDY DIGNAM \n\n By metempsychosis. Spooks. \n\n A VOICE \n\n O rocks",
+    "start": 61511,
+    "end": 61515,
+    "canonical_text": "Esau"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9619851,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

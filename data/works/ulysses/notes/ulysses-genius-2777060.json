@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2777060",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Clasped and sundered",
+  "html_source": "<p>joined and split apart</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2777060/James-joyce-ulysses-chap-3-proteus/Clasped-and-sundered",
+    "original_id": "2777060",
+    "referent_id": 2777060,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "clasped and sundered",
+    "prefix": "ing to everlasting. Womb of sin. \n\n Wombed in sin darkness I was too, made not begotten. By them, the man with my voice and my eyes and a ghostwoman with ashes on her breath. They ",
+    "suffix": ", did the coupler's will. From before the ages He willed me and now may not will me away or ever. A lex eterna stays about Him. Is that then the divine substance wherein Father and",
+    "start": 2980,
+    "end": 3000,
+    "canonical_text": "clasped and sundered"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2777060,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 242580,
+        "login": "CaseyVickstrom",
+        "name": "CaseyVickstrom",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

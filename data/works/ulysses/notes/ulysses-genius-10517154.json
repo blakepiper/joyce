@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10517154",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Nosepaint",
+  "html_source": "<p>Rhinophyma is a large, red-colored (ruddy) nose. The nose has a bulb shape.<br />Rhinophyma was once thought to be caused by heavy alcohol use.<br /><a href=\"https://medlineplus.gov/ency/article/001037.htm\" rel=\"noopener nofollow\">https://medlineplus.gov/ency/article/001037.htm</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10517154/James-joyce-ulysses-chap-16-eumaeus/Nosepaint",
+    "original_id": "10517154",
+    "referent_id": 10517154,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "nosepaint",
+    "prefix": "m the side, bore a distant resemblance to Henry Campbell, the townclerk, away from the carking cares of office, unwashed, of course, and in a seedy getup and a strong suspicion of ",
+    "suffix": " about the nasal appendage. \n\n1939#443\n\n — Why, the sailor answered with a slow puzzled utterance, my son, Danny? He'd be about eighteen now, way I figure it. \n\n The Skibereen fath",
+    "start": 44732,
+    "end": 44741,
+    "canonical_text": "nosepaint"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10517154,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

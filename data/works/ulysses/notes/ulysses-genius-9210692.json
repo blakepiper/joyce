@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9210692",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Lambay Island",
+  "html_source": "<p>A privately owned island a couple miles from the east coast of Ireland. It was purchased in 1904 for £5250 by an American for his wife.<br /><a href=\"http://www.irelands-hidden-gems.com/lambay.html\" rel=\"noopener nofollow\">http://www.irelands-hidden-gems.com/lambay.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9210692/James-joyce-ulysses-chap-14-oxen-of-the-sun/Lambay-island",
+    "original_id": "9210692",
+    "referent_id": 9210692,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Lambay Island",
+    "prefix": "mpany a set of pasteboard cards which he had had printed that day at Mr Quinnell's bearing a legend printed 1961#401in fair italics: Mr Malachi Mulligan. Fertiliser and Incubator. ",
+    "suffix": ". His project, as he went on to expound, was to withdraw from the round of idle pleasures such as form the chief business of sir Fopling Popinjay and sir Milksop Quidnunc in town a",
+    "start": 47481,
+    "end": 47494,
+    "canonical_text": "Lambay Island"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9210692,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

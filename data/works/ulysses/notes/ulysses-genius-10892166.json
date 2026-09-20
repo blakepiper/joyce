@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10892166",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Boustrophedontic",
+  "html_source": "<p><a href=\"http://www.thefreedictionary.com/boustrophedonic\" rel=\"noopener nofollow\">http://www.thefreedictionary.com/boustrophedonic</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10892166/James-joyce-ulysses-chap-17-ithaca/Boustrophedontic",
+    "original_id": "10892166",
+    "referent_id": 10892166,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "boustrophedontic",
+    "prefix": " Flower, c/o P. O. Westland Row, addresser, Martha Clifford, c/o P. O. Dolphin's Barn: the transliterated name and address of the addresser of the 3 letters in reserved alphabetic ",
+    "suffix": " punctated quadrilinear cryptogram (vowels suppressed) N. IGS./WI.UU. OX/W. OKS. MH/Y. IM: a press cutting from an English weekly periodical Modern Society, subject corporal chasti",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.3636
+  },
+  "genius": {
+    "referent_id": 10892166,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

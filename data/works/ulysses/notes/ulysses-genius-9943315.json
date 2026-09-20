@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9943315",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Kings evil",
+  "html_source": "<p>King’s evil, scrofula, or struma, a tuberculous swelling of the lymph glands, once popularly supposed to be curable by the touch of royalty.<br />Encyclopedia Britannica</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9943315/James-joyce-ulysses-chap-15-circe/Kings-evil",
+    "original_id": "9943315",
+    "referent_id": 9943315,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "kings evil",
+    "prefix": " left ear, passes through several walls, climbs Nelson's Pillar, hangs from the top ledge by his eyelids, eats twelve dozen oysters (shells included), heals several sufferers from ",
+    "suffix": ", contracts his face so as to resemble many historical personages, Lord Beaconsfield, Lord Byron, Wat Tyler, Moses of Egypt, Moses Maimonides, Moses Mendelssohn, Henry Irving, Rip ",
+    "start": 92287,
+    "end": 92298,
+    "canonical_text": "king's evil"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 9943315,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

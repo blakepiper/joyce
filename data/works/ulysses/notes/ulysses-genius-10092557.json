@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10092557",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Dona nobis pacem",
+  "html_source": "<p>Grant us peace</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10092557/James-joyce-ulysses-chap-15-circe/Dona-nobis-pacem",
+    "original_id": "10092557",
+    "referent_id": 10092557,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Dona nobis pacem",
+    "prefix": "y with him. \n\n FLORRY \n\n(Nods.) Mr Lambe from London. \n\n STEPHEN \n\n Lamb of London, who takest away the sins of our world. \n\n LYNCH \n\n(Embracing Kitty on the sofa, chants deeply.) ",
+    "suffix": ". \n\n(The cigarette slips from Stephen's fingers. Bloom picks it up and throws it in the grate.) \n\n1932#485\n\n BLOOM \n\n Don't smoke. You ought to eat. Cursed dog I met. (To Zoe.) You",
+    "start": 180759,
+    "end": 180775,
+    "canonical_text": "Dona nobis pacem"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10092557,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

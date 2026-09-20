@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15120321",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Polla kronia",
+  "html_source": "<p>Seems like a transposed version of the Greek phrase kronia (or xronia) polla– literally “years many”–whose meaning is akin to “many happy returns”. THe phrase is <a href=\"https://www.huffingtonpost.com/evagelos-sotiropoulos/what-does-xronia-polla-me_b_6459106.html\" rel=\"noopener nofollow\">apparently still a very common and quite versatile</a>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15120321/James-joyce-ulysses-chap-12-cyclops/Polla-kronia",
+    "original_id": "15120321",
+    "referent_id": 15120321,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "polla kronia",
+    "prefix": "ies waving their handkerchiefs in their excitement while the even more excitable foreign delegates cheered vociferously in a medley of cries, hoch, banzai, eljen, zivio, chinchin, ",
+    "suffix": ", hiphip, vive, Allah, amid which the ringing evviva of the delegate of the land of song (a high double F recalling those piercingly lovely notes with which the eunuch Catalani beg",
+    "start": 38246,
+    "end": 38258,
+    "canonical_text": "polla kronia"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15120321,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15157531",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "The squeak is out. A split is gone for the flatties",
+  "html_source": "<p>The secret (“squeak”) has been told by an informer (“a split”) to the police (“the flatties”).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15157531/James-joyce-ulysses-chap-15-circe/The-squeak-is-out-a-split-is-gone-for-the-flatties",
+    "original_id": "15157531",
+    "referent_id": 15157531,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "The squeak is out. A split is gone for the flatties",
+    "prefix": "Reuben J. Dodd, blackbearded Iscariot, bad shepherd, bearing on his shoulders the drowned corpse of his son, approaches the pillory.) \n\n1961#497\n\n REUBEN J. \n\n(Whispers hoarsely.) ",
+    "suffix": ". Nip the first rattler. \n\n1939#353\n\n THE FIRE BRIGADE \n\n Pflaap! \n\n BROTHER BUZZ \n\n(Invests Bloom in a yellow habit with embroidery of painted flames and high pointed hat. He plac",
+    "start": 95857,
+    "end": 95908,
+    "canonical_text": "The squeak is out. A split is gone for the flatties"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15157531,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

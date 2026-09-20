@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23915054",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "But",
+  "html_source": "<p>The joyous moment can’t be far off.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23915054/James-joyce-ulysses-chap-14-oxen-of-the-sun/But",
+    "original_id": "23915054",
+    "referent_id": 23915054,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "But",
+    "prefix": "table 1961#387that was older than any of the tother and for that they both were knights virtuous in the one emprise and eke by cause that he was elder he spoke to him full gently. ",
+    "suffix": ", said he, or it be long too she will bring forth by God His bounty and have joy of her childing for she hath waited marvellous long. And the franklin that had drunken said, Expect",
+    "start": 12250,
+    "end": 12253,
+    "canonical_text": "But"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 23915054,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

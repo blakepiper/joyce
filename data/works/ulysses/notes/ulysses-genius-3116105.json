@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3116105",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "You were awfully holy",
+  "html_source": "<p>This and subsequent lines refer back to Stephen in <a href=\"http://poetry.genius.com/albums/James-joyce/A-portrait-of-the-artist-as-a-young-man\" rel=\"noopener nofollow\">his earlier years</a>: holy and horny.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3116105/James-joyce-ulysses-chap-3-proteus/You-were-awfully-holy",
+    "original_id": "3116105",
+    "referent_id": 3116105,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "You were awfully holy",
+    "prefix": "ansept (he is lifting his) and, rising, heard (now I am lifting) their two bells (he is kneeling) twang in diphthong. \n\n Cousin Stephen, you will never be a saint. Isle of saints. ",
+    "suffix": ", weren't you? You prayed to the Blessed Virgin that you might not have a red nose. You prayed to the devil in Serpentine avenue that the fubsy widow in front might lift her clothe",
+    "start": 7840,
+    "end": 7861,
+    "canonical_text": "You were awfully holy"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3116105,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4014546",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Mourne mountains",
+  "html_source": "<p>A coastal mountain range in the north east of Ireland, in the south of what’s now Northern Ireland.</p><p><img src=\"https://images.rapgenius.com/8165b599e70467c13517e2025cbda0c7.1000x520x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4014546/James-joyce-ulysses-chap-11-sirens/Mourne-mountains",
+    "original_id": "4014546",
+    "referent_id": 4014546,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Mourne mountains",
+    "prefix": "skirt of his coat Mr Dedalus brought pouch and pipe. Alacrity she served. He blew through the flue two husky fifenotes. \n\n1922#250\n\n — By Jove, he mused, I often wanted to see the ",
+    "suffix": ". Must be a great tonic in the air down there. But a long threatening comes at last, they say. Yes. Yes. \n\n Yes. He fingered shreds of hair, her maidenhair, her mermaid's, into the",
+    "start": 10813,
+    "end": 10829,
+    "canonical_text": "Mourne mountains"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4014546,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

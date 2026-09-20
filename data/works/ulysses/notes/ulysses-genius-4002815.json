@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4002815",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "He held her hand",
+  "html_source": "<p>Mr Simon Dedalus, father of Stephen, flirts with Ms Douce.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4002815/James-joyce-ulysses-chap-11-sirens/He-held-her-hand",
+    "original_id": "4002815",
+    "referent_id": 4002815,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "He held her hand",
+    "prefix": ", still less, goldenly paled. \n\n Into their bar strolled Mr Dedalus. Chips, picking chips off one of his rocky thumbnails. Chips. He strolled. \n\n — O, welcome back, Miss Douce. \n\n ",
+    "suffix": ". Enjoyed her holidays? \n\n — Tiptop. \n\n He hoped she had nice weather in Rostrevor. \n\n — Gorgeous, she said. Look at the holy show I am. Lying out on the strand all day. \n\n Bronze ",
+    "start": 9608,
+    "end": 9624,
+    "canonical_text": "He held her hand"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4002815,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

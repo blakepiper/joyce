@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4002643",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Loud boots",
+  "html_source": "<p>A boots boy-an employee in the Ormond.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4002643/James-joyce-ulysses-chap-11-sirens/Loud-boots",
+    "original_id": "4002643",
+    "referent_id": 4002643,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "loud boots",
+    "prefix": " chattering china. And \n\n — There's your teas, he said. \n\n Miss Kennedy with manners transposed the teatray down to an upturned lithia crate, safe from eyes, low. \n\n — What is it? ",
+    "suffix": " unmannerly asked. \n\n — Find out, Miss Douce retorted, leaving her spyingpoint. \n\n — Your beau, is it? \n\n A haughty bronze replied: \n\n — I'll complain to Mrs de Massey on you if I ",
+    "start": 4068,
+    "end": 4078,
+    "canonical_text": "loud boots"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4002643,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

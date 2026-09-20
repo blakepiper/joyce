@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15165107",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Were those eykes to footboden",
+  "html_source": "<p>Should read “werf those…” (Ger.) “Throw those wretches to the ground.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15165107/James-joyce-ulysses-chap-15-circe/Were-those-eykes-to-footboden",
+    "original_id": "15165107",
+    "referent_id": 15165107,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Were those eykes to footboden",
+    "prefix": "9#416\n\n DON EMILE PATRIZIO FRANZ RUPERT POPE HENNESSY \n\n(In medieval hauberk, two wild geese volant on his helm, with noble indignation points a mailed hand against the privates.) ",
+    "suffix": " big grand porcos of johnyellows todos covered of gravy! \n\n BLOOM \n\n(To Stephen.) Come home. You'll get into trouble.1986#483 \n\n STEPHEN \n\n(Swaying.) I don't avoid it. He provokes ",
+    "start": 219863,
+    "end": 219893,
+    "canonical_text": "Werf those eykes to footboden,"
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9492
+  },
+  "genius": {
+    "referent_id": 15165107,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

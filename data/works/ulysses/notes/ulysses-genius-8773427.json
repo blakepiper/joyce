@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8773427",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Lying on his side",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/bf02abd4151aa887050b8677669dec73.1000x750x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8773427/James-joyce-ulysses-chap-5-lotus-eaters/Lying-on-his-side",
+    "original_id": "8773427",
+    "referent_id": 8773427,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "lying on his side",
+    "prefix": " for the conversion of Gladstone they had too when he was almost unconscious. The protestants are the same. Convert Dr William J. Walsh D.D. to the true religion. Buddha their god ",
+    "suffix": " in the museum. Taking it easy with hand under his cheek. Josssticks burning. Not like Ecce Homo. Crown of thorns and cross. Clever idea Saint Patrick the shamrock. Chopsticks? Con",
+    "start": 20270,
+    "end": 20287,
+    "canonical_text": "lying on his side"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8773427,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

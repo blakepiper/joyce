@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23609295",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Erebus",
+  "html_source": "<p>In Greek mythology, the realm between earth and Hades.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23609295/James-joyce-ulysses-chap-12-cyclops/Erebus",
+    "original_id": "23609295",
+    "referent_id": 23609295,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Erebus",
+    "prefix": "e rope after and sell the bits for a few bob a skull. \n\n In the dark land they bide, the vengeful knights of the razor. Their deadly coil they grasp: yea, and therein they lead to ",
+    "suffix": " whatsoever wight hath done a deed of blood for I will on nowise suffer it even so saith the Lord. \n\n1922#291\n\n So they started talking about capital punishment and of course Bloom",
+    "start": 27739,
+    "end": 27745,
+    "canonical_text": "Erebus"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23609295,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

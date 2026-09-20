@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8774415",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Mosque",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/4297379d5d86dc333ec581812d0f56bd.1000x750x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8774415/James-joyce-ulysses-chap-5-lotus-eaters/Mosque",
+    "original_id": "8774415",
+    "referent_id": 8774415,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "mosque",
+    "prefix": "zling to gamble then smuggled off to America. Keeps a hotel now. They never come back. Fleshpots of Egypt. \n\n He walked cheerfully towards the mosque of the baths. Remind you of a ",
+    "suffix": ", redbaked bricks, the minarets. College sports today I see. He eyed the horseshoe poster over the gate of college park: cyclist doubled up like a cod in a pot. Damn bad ad. Now if",
+    "start": 34857,
+    "end": 34863,
+    "canonical_text": "mosque"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 8774415,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

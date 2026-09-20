@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8962062",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Gladiolus Cruentus",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/b1d77ce12778db1ae3bbae2c9c0eb5d0.150x158x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8962062/James-joyce-ulysses-chap-12-cyclops/Gladiolus-cruentus",
+    "original_id": "8962062",
+    "referent_id": 8962062,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Gladiolus Cruentus",
+    "prefix": " rightful owners and general harmony reigned supreme. \n\n Quietly, unassumingly, Rumbold stepped on to the scaffold in faultless morning dress and wearing his favourite flower, the ",
+    "suffix": ". He announced his presence by that gentle Rumboldian cough which so many have tried (unsuccessfully) to imitate — short, painstaking yet withal so characteristic of the man. The a",
+    "start": 37752,
+    "end": 37770,
+    "canonical_text": "Gladiolus Cruentus"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8962062,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10971108",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "She knew I, I think she knew by the way she. If she had married she would have changed.",
+  "html_source": "<p>She knew he was a jew, and was only nice to him because she was was a Nun, reckons Bloom.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10971108/James-joyce-ulysses-chap-8-lestrygonians/She-knew-i-i-think-she-knew-by-the-way-she-if-she-had-married-she-would-have-changed",
+    "original_id": "10971108",
+    "referent_id": 10971108,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "She knew I, I think she knew by the way she. If she had married she would have changed.",
+    "prefix": "I disturbed her at her devotions that morning. But glad to communicate with the outside world. Our great day, she said. Feast of Our Lady of Mount Carmel. Sweet name too: caramel. ",
+    "suffix": " I suppose they really were short of money. Fried everything in the best butter all the same. No lard for them. My heart's broke eating dripping. They like buttering themselves in ",
+    "start": 9334,
+    "end": 9419,
+    "canonical_text": "She knew, I think she knew by the way she. If she had married she would have changed."
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9884
+  },
+  "genius": {
+    "referent_id": 10971108,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 4017165,
+        "login": "KevinFoy",
+        "name": "KevinFoy",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

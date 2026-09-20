@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15168883",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Anno ludendo hausi, Doulandus",
+  "html_source": "<p>Latin. “Spent a year playing” (i.e., Dowland), an instrument he was…</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15168883/James-joyce-ulysses-chap-16-eumaeus/Anno-ludendo-hausi-doulandus",
+    "original_id": "15168883",
+    "referent_id": 15168883,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "anno ludendo hausi, Doulandus",
+    "prefix": "d he didn't but launched out into praises of Shakespeare's songs, at least of in or about that period, the lutenist Dowland who lived in Fetter Lane near Gerard the herbalist, who ",
+    "suffix": ", an instrument he was contemplating purchasing from Mr Arnold Dolmetsch, whom Bloom did not quite recall, though the name certainly sounded familiar, for 1961#661sixtyfive guineas",
+    "start": 121998,
+    "end": 122027,
+    "canonical_text": "anno ludendo hausi, Doulandus"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15168883,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

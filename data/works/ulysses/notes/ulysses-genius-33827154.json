@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33827154",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "For Raoul",
+  "html_source": "<p>Raoul is a character (and object of desire) in the romance novel Leopold Bloom purchases for Molly.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33827154/James-joyce-ulysses-chap-11-sirens/For-raoul",
+    "original_id": "33827154",
+    "referent_id": 33827154,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "For Raoul",
+    "prefix": "fully muchly. Wise Bloom eyed on the door a poster, a swaying mermaid smoking mid nice waves. Smoke mermaids, 1986#216coolest whiff of all. Hair streaming: lovelorn. For some man. ",
+    "suffix": ". He eyed and saw afar on Essex bridge a gay hat riding on a jaunting car. It is. Third time. Coincidence. \n\n1961#263\n\n Jingling on supple rubbers it jaunted from the bridge to Orm",
+    "start": 15115,
+    "end": 15124,
+    "canonical_text": "For Raoul"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9347
+  },
+  "genius": {
+    "referent_id": 33827154,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

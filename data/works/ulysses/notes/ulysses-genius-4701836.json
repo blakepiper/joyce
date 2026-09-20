@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4701836",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Schoolboy",
+  "html_source": "<p>student.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4701836/James-joyce-ulysses-chap-9-scylla-and-charybdis/Schoolboy",
+    "original_id": "4701836",
+    "referent_id": 4701836,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "schoolboy",
+    "prefix": "oys. \n\n A. E. has been telling some yankee interviewer. Wall, tarnation strike me! \n\n — The schoolmen were schoolboys first, Stephen said superpolitely. Aristotle was once Plato's ",
+    "suffix": ". \n\n — And has remained so, one should hope, John Eglinton sedately said. One can see him, a model schoolboy with his diploma under his arm. \n\n1922#177\n\n He laughed again at the no",
+    "start": 3092,
+    "end": 3101,
+    "canonical_text": "schoolboy"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 4701836,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9093542",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Palm oil.",
+  "html_source": "<p>graft</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9093542/James-joyce-ulysses-chap-10-wandering-rocks/Palm-oil",
+    "original_id": "9093542",
+    "referent_id": 9093542,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Palm oil.",
+    "prefix": "oat would float and the firehose all burst. What I can't understand is how the inspectors ever allowed a boat like that... Now, you're talking straight, Mr Crimmins. You know why? ",
+    "suffix": " Is that a fact? Without a doubt. Well now, look at that. And America they say is the land of the free. I thought we were bad here. \n\n I smiled at him. America, I said quietly, jus",
+    "start": 41901,
+    "end": 41910,
+    "canonical_text": "Palm oil."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9093542,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083736,
+        "login": "JessicaVestuto",
+        "name": "JessicaVestuto",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

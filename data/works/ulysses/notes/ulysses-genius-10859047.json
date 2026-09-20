@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10859047",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Life of Napoleon",
+  "html_source": "<p><a href=\"https://archive.org/details/lifeofnapoleonbo00lockrich\" rel=\"noopener nofollow\">https://archive.org/details/lifeofnapoleonbo00lockrich</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10859047/James-joyce-ulysses-chap-17-ithaca/Life-of-napoleon",
+    "original_id": "10859047",
+    "referent_id": 10859047,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Life of Napoleon",
+    "prefix": "k cloth binding, bearing white letternumber ticket).\nVoyages in China by \"Viator\" (recovered with brown paper, red ink title).\nPhilosophy of the Talmud (sewn pamphlet).\nLockhart's ",
+    "suffix": " (cover wanting, marginal 1961#708annotations, minimising victories, aggrandising defeats of the protagonist).\nSoll und Haben by Gustav Freytag (black boards, Gothic characters, ci",
+    "start": 87314,
+    "end": 87330,
+    "canonical_text": "Life of Napoleon"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10859047,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

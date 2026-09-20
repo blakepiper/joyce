@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10194403",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Anti christ",
+  "html_source": "<p>1 John 4:3  New American Standard Bible<br />and every spirit that does not confess Jesus is not from God; this is the spirit of the antichrist, of which you have heard that it is coming, and now it is already in the world.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10194403/James-joyce-ulysses-chap-15-circe/Anti-christ",
+    "original_id": "10194403",
+    "referent_id": 10194403,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Anti christ",
+    "prefix": "the last day is coming this summer. \n\n1939#358\n\n KITTY \n\n No! \n\n1932#444\n\n ZOE \n\n(Explodes in laughter.) Great unjust God! \n\n FLORRY \n\n(Offended.) Well, it was in the papers about ",
+    "suffix": ". O, my foot's tickling. \n\n(Ragged barefoot newsboys, jogging a wagtail kite, patter past, yelling.) \n\n1961#505\n\n THE NEWSBOYS \n\n Stop press edition. Result of the rockinghorse rac",
+    "start": 106247,
+    "end": 106257,
+    "canonical_text": "Antichrist"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.8685
+  },
+  "genius": {
+    "referent_id": 10194403,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

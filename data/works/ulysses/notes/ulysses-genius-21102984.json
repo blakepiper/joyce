@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21102984",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Two noble kinsmen",
+  "html_source": "<p>The Two Noble Kinsmen. A play jointly authored by Shakespeare and John Fletcher in 1634.</p><p><a href=\"https://en.wikipedia.org/wiki/The_Two_Noble_Kinsmen\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/The_Two_Noble_Kinsmen</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21102984/James-joyce-ulysses-chap-9-scylla-and-charybdis/Two-noble-kinsmen",
+    "original_id": "21102984",
+    "referent_id": 21102984,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "two noble kinsmen",
+    "prefix": "Eglinton touched the foil. \n\n — Come, he said. Let us hear what you have to say of Richard and Edmund. You kept them for the last, didn't you? \n\n — In asking you to remember those ",
+    "suffix": " nuncle Richie 1922#202and nuncle Edmund, Stephen answered, I feel I am asking too much perhaps. A brother is as easily forgotten as an umbrella. \n\n Lapwing. \n\n Where is your broth",
+    "start": 56159,
+    "end": 56176,
+    "canonical_text": "two noble kinsmen"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21102984,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21103037",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Father Dineen",
+  "html_source": "<p>Father Patrick S. Dinneen (1860-1934), Irish lexicographer and historian.<br /><a href=\"https://en.wikipedia.org/wiki/Patrick_S._Dinneen\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Patrick_S._Dinneen</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21103037/James-joyce-ulysses-chap-9-scylla-and-charybdis/Father-dineen",
+    "original_id": "21103037",
+    "referent_id": 21103037,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Father Dineen",
+    "prefix": " one of the brothers... But perhaps I am anticipating? \n\n He caught himself in the act: looked at all: refrained. \n\n1939#54\n\n An attendant from the doorway called: \n\n — Mr Lyster! ",
+    "suffix": " wants... \n\n — O, Father Dineen! Directly. \n\n Swiftly rectly creaking rectly rectly he was rectly gone. \n\n1932#189\n\n John Eglinton touched the foil. \n\n — Come, he said. Let us hear",
+    "start": 55844,
+    "end": 55857,
+    "canonical_text": "Father Dineen"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9077
+  },
+  "genius": {
+    "referent_id": 21103037,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8800614",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Time is money.",
+  "html_source": "<p>Time is money, a phrase used by Benjamin Franklin in “Advice to a Young Tradesman, Written by an Old One” 1748</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8800614/James-joyce-ulysses-chap-7-aeolus/Time-is-money",
+    "original_id": "8800614",
+    "referent_id": 8800614,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "time is money.",
+    "prefix": "f the imagination. We were never loyal to the successful. We serve them. I teach the blatant Latin language. I speak the tongue of a race the acme of whose mentality is the maxim: ",
+    "suffix": " Material domination. Dominus! Lord! Where is the spirituality? Lord Jesus? Lord Salisbury? A sofa in a westend club. But the Greek! \n\n KYRIE ELEISON! \n\n A smile of light brightene",
+    "start": 30453,
+    "end": 30467,
+    "canonical_text": "time is money."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8800614,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

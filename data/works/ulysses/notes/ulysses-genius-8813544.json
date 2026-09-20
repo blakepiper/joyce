@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8813544",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Manna",
+  "html_source": "Definition of manna:  food which according to the Bible (Exodus 16) was supplied by a miracle to the Israelites after they escaped from Egypt;something needed that is received unexpectedly",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8813544/James-joyce-ulysses-chap-8-lestrygonians/Manna",
+    "original_id": "8813544",
+    "referent_id": 8813544,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Manna",
+    "prefix": "o, then all from their heights, pouncing on prey. Gone. Every morsel. Aware of their greed and cunning he shook the powdery crumb from his hands. They never expected 1986#125that. ",
+    "suffix": ". Live on fish, fishy flesh they have, all seabirds, gulls, seagoose. Swans from Anna Liffey swim down here sometimes to preen themselves. No accounting for tastes. Wonder what kin",
+    "start": 4882,
+    "end": 4887,
+    "canonical_text": "Manna"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8813544,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

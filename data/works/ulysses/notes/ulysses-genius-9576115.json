@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9576115",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Moses Dlugacz,",
+  "html_source": "<p>the butcher where Bloom went to buy his kidney for breakfast in chapter 4</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9576115/James-joyce-ulysses-chap-15-circe/Moses-dlugacz",
+    "original_id": "9576115",
+    "referent_id": 9576115,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Moses Dlugacz,",
+    "prefix": "the handsome thing. \n\n1939#3311986#378\n\n BLOOM \n\n A penny in the pound. \n\n(The image of the lake of Kinnereth with blurred cattle cropping in silver haze is projected on the wall. ",
+    "suffix": " ferreteyed albino, in blue dungarees, stands up in the gallery, holding in each hand an orange citron and a pork kidney.) \n\n DLUGACZ \n\n(Hoarsely.) Bleibtreustrasse, Berlin, W.13. ",
+    "start": 49501,
+    "end": 49515,
+    "canonical_text": "Moses Dlugacz,"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9576115,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

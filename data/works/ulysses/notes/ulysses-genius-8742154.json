@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8742154",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "My bold Larry",
+  "html_source": "<p>A comic name in Dublinese (Gifford).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8742154/James-joyce-ulysses-chap-4-calypso/My-bold-larry",
+    "original_id": "8742154",
+    "referent_id": 8742154,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "my bold Larry",
+    "prefix": " quays value would go up like a shot. \n\n Baldhead over the blind. Cute old codger. No use canvassing him for an ad. Still he knows his own business best. There he is, sure enough, ",
+    "suffix": ", leaning against the sugarbin in his shirtsleeves watching the aproned curate swab up with mop and bucket. Simon Dedalus takes him off to a tee with his eyes screwed up. Do you kn",
+    "start": 7362,
+    "end": 7375,
+    "canonical_text": "my bold Larry"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8742154,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

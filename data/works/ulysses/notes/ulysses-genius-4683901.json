@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4683901",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "The stream of life",
+  "html_source": "<p>Strings in the earth and air<br />Make music sweet;<br />Strings by the river where<br />The willows meet.</p><p>There’s music along the river<br />For Love wanders there,<br />Pale flowers on his mantle,<br />Dark leaves on his hair.</p><p>All softly playing,<br />With head to the music bent,<br />And fingers straying<br />Upon an instrument.</p><p> – James Joyce</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4683901/James-joyce-ulysses-chap-8-lestrygonians/The-stream-of-life",
+    "original_id": "4683901",
+    "referent_id": 4683901,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "the stream of life",
+    "prefix": "\n\nKino's. \n\n11/-. \n\nTrousers. \n\n Good idea that. Wonder if he pays rent to the corporation. How can you own water really? It's always flowing in a stream, never the same, which in ",
+    "suffix": " we trace. Because life is a stream. All kinds of places are good for ads. That quack doctor for the clap used to be stuck up in all the greenhouses. Never see it now. Strictly con",
+    "start": 5751,
+    "end": 5769,
+    "canonical_text": "the stream of life"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4683901,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15149864",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Nard",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Spikenard\" rel=\"noopener nofollow\">Nard</a> or spikenard is an aromatic oil derived from the rhizomes of a Himalayan flower related to valerian, used for perfumes and medicinal purposes. Dante mentions it in the Inferno alongside myrrh.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15149864/James-joyce-ulysses-chap-14-oxen-of-the-sun/Nard",
+    "original_id": "15149864",
+    "referent_id": 15149864,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "nard",
+    "prefix": "dlock for the disrobing and deflowering of spouses, as the priests use in Madagascar island, she to be in guise of white and saffron, her groom in white and grain, with burning of ",
+    "suffix": " and tapers, on a bridebed while clerks 1961#392sung kyries and the anthem Ut novetur sexus omnis corporis mysterium till she was there unmaided. He gave them then a much admirable",
+    "start": 24606,
+    "end": 24610,
+    "canonical_text": "nard"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9729
+  },
+  "genius": {
+    "referent_id": 15149864,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

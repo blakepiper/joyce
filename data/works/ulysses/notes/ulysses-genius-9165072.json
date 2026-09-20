@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9165072",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Foetus in foetu",
+  "html_source": "<p>Fetus-in-fetu (FIF) is a rare entity in which one malformed vertebrate fetus is enclosed within the body of its twin… usually in the abdominal cavity.<br /><a href=\"http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3214284/\" rel=\"noopener nofollow\">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3214284/</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9165072/James-joyce-ulysses-chap-14-oxen-of-the-sun/Foetus-in-foetu",
+    "original_id": "9165072",
+    "referent_id": 9165072,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "foetus in foetu",
+    "prefix": "acquittal of the wrongfully accused, the rights of primogeniture and king's bounty touching twins and triplets, miscarriages and infanticides, simulated and dissimulated, acardiac ",
+    "suffix": ", aprosopia due to a congestion, the agnathia of certain chinless Chinamen (cited by Mr Candidate Mulligan) in consequence of 1922#390defective reunion of the maxillary knobs along",
+    "start": 69665,
+    "end": 69680,
+    "canonical_text": "foetus in foetu"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9165072,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

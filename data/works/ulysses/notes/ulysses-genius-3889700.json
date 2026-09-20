@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3889700",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Bear with me",
+  "html_source": "<p>Marc Antony, Julius Caesar: Act 2, Scene 3.</p><p><a href=\"http://lit.genius.com/3484742\" rel=\"noopener nofollow\">http://lit.genius.com/3484742</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3889700/James-joyce-ulysses-chap-9-scylla-and-charybdis/Bear-with-me",
+    "original_id": "3889700",
+    "referent_id": 3889700,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Bear with me",
+    "prefix": "red for paradoxes from what Malachi Mulligan told us but I may as well warn you that if you want to shake my belief that Shakespeare is Hamlet you have a stern task before you. \n\n ",
+    "suffix": ". \n\n Stephen withstood the bane of miscreant eyes glinting stern under wrinkled brows. A basilisk. E quando vede l'uomo l'attosca. Messer Brunetto, I thank thee for the word. \n\n193",
+    "start": 21005,
+    "end": 21017,
+    "canonical_text": "Bear with me"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3889700,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

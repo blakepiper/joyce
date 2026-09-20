@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5116051",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "The county Clare",
+  "html_source": "<p>On the west coast of Ireland. Bloom’s goal is the town of Ennis, where his father committed suicide 27 June 1886.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5116051/James-joyce-ulysses-chap-6-hades/The-county-clare",
+    "original_id": "5116051",
+    "referent_id": 5116051,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "the county Clare",
+    "prefix": ", Mr Bloom said. I hear great accounts of it. It's a good idea, you see... \n\n — Are you going yourself? \n\n1922#89\n\n — Well no, Mr Bloom said. In point of fact I have to go down to ",
+    "suffix": " on some private business. You see1961#92 the idea is to tour the chief towns. What you lose on one you can make up on the other. \n\n — Quite so, Martin Cunningham said. Mary Anders",
+    "start": 12544,
+    "end": 12560,
+    "canonical_text": "the county Clare"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5116051,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

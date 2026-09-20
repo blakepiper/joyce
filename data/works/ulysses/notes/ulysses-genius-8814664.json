@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8814664",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Toque",
+  "html_source": "<p>toque<br />noun<br />a woman’s small hat, typically having a narrow, closely turned-up brim.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8814664/James-joyce-ulysses-chap-8-lestrygonians/Toque",
+    "original_id": "8814664",
+    "referent_id": 8814664,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "toque",
+    "prefix": "e card into her untidy bag and snapped the catch. \n\n Same blue serge dress she had two years ago, the nap bleaching. Seen its best days. Wispish hair over her ears. And that dowdy ",
+    "suffix": ": three old grapes to take the harm out of it. Shabby genteel. She used to be a tasty dresser. Lines round her mouth. Only a year or so older than Molly. \n\n See the eye that woman ",
+    "start": 16415,
+    "end": 16420,
+    "canonical_text": "toque"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8814664,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

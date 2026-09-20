@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10896500",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Simpson’s Hospital",
+  "html_source": "<p>Still caring for the elderly</p><p><a href=\"http://www.simpsonshospital.com/\" rel=\"noopener nofollow\">http://www.simpsonshospital.com</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10896500/James-joyce-ulysses-chap-17-ithaca/Simpsons-hospital",
+    "original_id": "10896500",
+    "referent_id": 10896500,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Simpson's Hospital",
+    "prefix": "ric public laughingstock seated on bench of public park under discarded perforated umbrella. Destitution: the inmate of Old Man's House (Royal Hospital), Kilmainham, the inmate of ",
+    "suffix": " for reduced but respectable men permanently disabled by gout or want of sight. Nadir of 1922#677misery: the aged impotent disfranchised ratesupported moribund lunatic pauper. \n\n19",
+    "start": 123605,
+    "end": 123623,
+    "canonical_text": "Simpson's Hospital"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10896500,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

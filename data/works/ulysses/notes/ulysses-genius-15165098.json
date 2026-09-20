@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15165098",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Green rag to a bull.",
+  "html_source": "<p>Play on the more common phrase “a red rag to a bull”; perhaps the Green is Ireland and the Bull is John Bull?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15165098/James-joyce-ulysses-chap-15-circe/Green-rag-to-a-bull",
+    "original_id": "15165098",
+    "referent_id": 15165098,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Green rag to a bull.",
+    "prefix": "r and judge of impostors. \n\n1922#549\n\n PRIVATE CARR \n\n I don't give a bugger who he is. \n\n PRIVATE COMPTON \n\n We don't give a bugger who he is. \n\n STEPHEN \n\n I seem to annoy them. ",
+    "suffix": " \n\n(Kevin Egan of Paris in black Spanish tasselled shirt and peep-o'-day boy's hat signs to Stephen.) \n\n KEVIN EGAN \n\n H'lo! Bonjour! The vieille ogresse with the dents jaunes. \n\n(",
+    "start": 219380,
+    "end": 219400,
+    "canonical_text": "Green rag to a bull."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15165098,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

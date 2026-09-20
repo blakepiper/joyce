@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15071342",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Moutonner",
+  "html_source": "<p>French for to be flecked with [something, usually white; in this case, clouds], to foam, to froth. See the <a href=\"https://en.wiktionary.org/wiki/moutonner\" rel=\"noopener nofollow\">wiktionary entry</a>. Note the subsequent wordplay with “a flock of muttoning clouds.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15071342/James-joyce-ulysses-chap-10-wandering-rocks/Moutonner",
+    "original_id": "15071342",
+    "referent_id": 15071342,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Moutonner",
+    "prefix": "chgate of a field showed Father Conmee breadths of cabbages, curtseying to him with ample underleaves. The sky showed him a flock of small white clouds going slowly down the wind. ",
+    "suffix": ", the French said. A just and homely word. \n\n1922#214\n\n Father Conmee, reading his office, watched a flock of muttoning clouds over Rathcoffey. His thinsocked ankles were tickled b",
+    "start": 11553,
+    "end": 11562,
+    "canonical_text": "Moutonner"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15071342,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10221007",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Matterson",
+  "html_source": "<p><img src=\"https://images.genius.com/20ce526200cf97e17616b6492b441f65.665x355x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10221007/James-joyce-ulysses-chap-15-circe/Matterson",
+    "original_id": "10221007",
+    "referent_id": 10221007,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Matterson",
+    "prefix": "me for the balance of your natural life. (His forehead veins swollen, his face congested.) I shall sit on your ottoman saddleback every morning after my thumping good breakfast of ",
+    "suffix": "'s fat hamrashers and a bottle of Guinness's porter. (He belches.) And suck my thumping good Stock Exchange cigar while I read the Licensed Victualler's Gazette. Very possibly I sh",
+    "start": 144971,
+    "end": 144980,
+    "canonical_text": "Matterson"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10221007,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

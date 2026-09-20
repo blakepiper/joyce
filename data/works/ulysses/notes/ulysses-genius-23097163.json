@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23097163",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "What’s your name? Butter and cream?",
+  "html_source": "<p>A confused version of a children’s rhyme. One version:<br />“What’s your name?”<br />“Curds and cream.”<br />“What’s the other?”<br />“Bread and butter.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23097163/James-joyce-ulysses-chap-13-nausicaa/Whats-your-name-butter-and-cream",
+    "original_id": "23097163",
+    "referent_id": 23097163,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "What's your name? Butter and cream?",
+    "prefix": " was near him she wouldn't be far from him, her eyes dancing in admonition. \n\n — Nasty bold Jacky! she cried. \n\n She put an arm round the little mariner and coaxed winningly: \n\n — ",
+    "suffix": " \n\n1922#332\n\n — Tell us who is your sweetheart, spoke Edy Boardman. Is Cissy your sweetheart? \n\n — Nao, tearful Tommy said. \n\n — Is Edy Boardman your sweetheart? Cissy queried. \n\n ",
+    "start": 4324,
+    "end": 4359,
+    "canonical_text": "What's your name? Butter and cream?"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23097163,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

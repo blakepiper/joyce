@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11137699",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Rorkes drift",
+  "html_source": "<p><a href=\"http://www.britishbattles.com/zulu-war/rorkes-drift.htm\" rel=\"noopener nofollow\">http://www.britishbattles.com/zulu-war/rorkes-drift.htm</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11137699/James-joyce-ulysses-chap-18-penelope/Rorkes-drift",
+    "original_id": "11137699",
+    "referent_id": 11137699,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Rorkes drift",
+    "prefix": "nd sound clear and gunfire for the men to cross the lines and the warden marching with his keys to lock the gates and the bagpipes and only Captain Groves and father talking about ",
+    "suffix": " and Plevna and sir Garnet Wolseley and Gordon at Khartoum lighting their pipes for them everytime they went out drunken old devil with his grog on the windowsill catch him leaving",
+    "start": 51321,
+    "end": 51333,
+    "canonical_text": "Rorkes drift"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11137699,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

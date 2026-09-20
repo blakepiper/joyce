@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8369142",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Davy Jones’ locker",
+  "html_source": "<p>Davy Jones' Locker, also Davy Jones’s Locker, is an idiom for the bottom of the sea: the state of death among drowned sailors and shipwrecks. It is used as a euphemism for drowning or shipwrecks in which the sailor(s)’s and/or ship(s)’s remains are consigned to the bottom of the sea (to be sent to Davy Jones' Locker).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8369142/James-joyce-ulysses-chap-13-nausicaa/Davy-jones-locker",
+    "original_id": "8369142",
+    "referent_id": 8369142,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Davy Jones' locker",
+    "prefix": "1#378of his nibs till the sharks catch hold of him. Do fish ever get seasick? \n\n Then you have a beautiful calm without a cloud, smooth sea, placid, crew and cargo in smithereens, ",
+    "suffix": ", moon looking down. Not my fault, old cockalorum. \n\n1932#342\n\n A long lost candle wandered up the sky from Mirus bazaar in search of funds for Mercer's hospital and broke, droopin",
+    "start": 82412,
+    "end": 82430,
+    "canonical_text": "Davy Jones' locker"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8369142,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

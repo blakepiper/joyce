@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8844993",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Cygnet",
+  "html_source": "<p>cyg·net<br />noun<br />a young swan.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8844993/James-joyce-ulysses-chap-9-scylla-and-charybdis/Cygnet",
+    "original_id": "8844993",
+    "referent_id": 8844993,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "cygnet",
+    "prefix": "s. \n\n — Shakespeare has left the huguenot's house in Silver street and walks by the swanmews along the riverbank. But he does not stay to feed the pen 1986#154chivying her game of ",
+    "suffix": "s towards the rushes. The swan of Avon has other thoughts. \n\n Composition of place. Ignatius Loyola, make haste to help me! \n\n1922#180\n\n — The play begins. A player comes on under ",
+    "start": 9100,
+    "end": 9106,
+    "canonical_text": "cygnet"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8844993,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

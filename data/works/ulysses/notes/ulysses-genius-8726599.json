@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8726599",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Grhahute!",
+  "html_source": "<p>From Andrew Gibson’s <em>Reading Joyce’s Circe</em>: “The chapter begins with a cruel interrogation of an idiot, and his palsied, gobbling [sic] attempts to reply…; as is characterized throughout by various kinds of impaired, impeded, or imperfectly articulated utterance… ”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8726599/James-joyce-ulysses-chap-15-circe/Grhahute",
+    "original_id": "8726599",
+    "referent_id": 8726599,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Grhahute!",
+    "prefix": ", jerks past, shaken in Saint Vitus' dance. A chain of children's hands imprisons him.) \n\n THE CHILDREN \n\n Kithogue! Salute! \n\n THE IDIOT \n\n(Lifts a palsied left arm and gurgles.) ",
+    "suffix": " \n\n THE CHILDREN \n\n Where's the great light? \n\n1922#408\n\n THE IDIOT \n\n(Gobbing.) Ghaghahest. \n\n(They release him. He jerks on. A pigmy woman swings on a rope slung between two rail",
+    "start": 912,
+    "end": 921,
+    "canonical_text": "Grhahute!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8726599,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

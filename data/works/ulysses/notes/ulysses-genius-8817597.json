@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8817597",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Sir Thomas Deane",
+  "html_source": "<p>Sir Thomas Newenham Deane<br />(1828–99). Irish architect. He was the son of Sir Thomas Deane (1792–1871), who founded one of the most successful architectural practices in Ireland. Deane&amp;Woodward designed the beautiful Trinity College Museum, Dublin (1852–7), which established their reputation.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8817597/James-joyce-ulysses-chap-8-lestrygonians/Sir-thomas-deane",
+    "original_id": "8817597",
+    "referent_id": 8817597,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Sir Thomas Deane",
+    "prefix": "uick. Cold statues: quiet there. Safe in a minute. \n\n No. Didn't see me. After two. Just at the gate. \n\n My heart! \n\n His eyes beating looked steadfastly at cream curves of stone. ",
+    "suffix": " was the Greek architecture. \n\n Look for something I. \n\n His hasty hand went quick into a pocket, took out, read unfolded Agendath Netaim. Where did I? \n\n Busy looking for. \n\n He t",
+    "start": 72552,
+    "end": 72568,
+    "canonical_text": "Sir Thomas Deane"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9794
+  },
+  "genius": {
+    "referent_id": 8817597,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

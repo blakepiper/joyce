@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15150846",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Il y a deux choses",
+  "html_source": "<p>This is simply the French for “there are two things”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15150846/James-joyce-ulysses-chap-14-oxen-of-the-sun/Il-y-a-deux-choses",
+    "original_id": "15150846",
+    "referent_id": 15150846,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "il y a deux choses",
+    "prefix": " my ear though there was none to snap her words but giddy butterflies), dame Nature, by the divine blessing, has implanted it in our hearts and it has become a household word that ",
+    "suffix": " for which the innocence of our original garb, in other circumstances a breach of the proprieties, is the fittest, nay, the only garment. The first, said she (and here my pretty ph",
+    "start": 57103,
+    "end": 57121,
+    "canonical_text": "il y a deux choses"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15150846,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

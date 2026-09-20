@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10471532",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Bucket dredger",
+  "html_source": "<p><img src=\"https://images.genius.com/d6d9ca921d2a8021643e727e34e9b96d.400x266x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10471532/James-joyce-ulysses-chap-16-eumaeus/Bucket-dredger",
+    "original_id": "10471532",
+    "referent_id": 10471532,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "bucket dredger",
+    "prefix": " as a sandwichman. \n\n At this intelligence, in which he seemingly evinced little interest, Mr Bloom gazed abstractedly for the space of a half a second or so in the direction of a ",
+    "suffix": ", rejoicing in the farfamed name of Eblana, moored alongside Customhouse quay and quite possibly out of repair, whereupon he observed evasively: \n\n — Everybody gets their own ratio",
+    "start": 16561,
+    "end": 16574,
+    "canonical_text": "bucketdredger"
+  },
+  "provenance": {
+    "match_method": "compact-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 10471532,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

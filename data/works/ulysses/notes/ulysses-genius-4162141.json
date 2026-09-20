@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4162141",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Descende, calve, ut ne amplius decalveris",
+  "html_source": "<p>Go down, O bald one, lest you be made more bald</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4162141/James-joyce-ulysses-chap-3-proteus/Descende-calve-ut-ne-amplius-decalveris",
+    "original_id": "4162141",
+    "referent_id": 4162141,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Descende, calve, ut ne amplius decalveris",
+    "prefix": "yhnhnm, horsenostrilled. The oval equine faces, Temple, Buck Mulligan, Foxy Campbell, Lanternjaws. Abbas father, furious dean, what offence laid 1961#39fire to their brains? Paff! ",
+    "suffix": " A garland of grey hair on his comminated head see him me clambering down to the footpace (descende!), clutching a monstrance, basiliskeyed. Get down, bald poll! A choir gives back",
+    "start": 6790,
+    "end": 6831,
+    "canonical_text": "Descende, calve, ut ne nimium decalveris."
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9024
+  },
+  "genius": {
+    "referent_id": 4162141,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1209714,
+        "login": "AlexBeston",
+        "name": "AlexBeston",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

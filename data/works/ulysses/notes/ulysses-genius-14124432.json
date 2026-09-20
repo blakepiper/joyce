@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-14124432",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Dowager",
+  "html_source": "<p>noun<br />a widow with a title or property derived from her late husband.<br />“the dowager duchess”<br />informal<br />a dignified elderly woman.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/14124432/James-joyce-ulysses-chap-15-circe/Dowager",
+    "original_id": "14124432",
+    "referent_id": 14124432,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "dowager",
+    "prefix": "eeyed Bert, the liftboy, Henri Fleury of Gordon Bennett fame, Sheridan, the quadroon Croesus, the varsity wetbob eight from old Trinity, Ponto, her splendid Newfoundland and Bobs, ",
+    "suffix": " duchess of Manorhamilton. (He guffaws again.) Christ, wouldn't it make a Siamese cat laugh? \n\n1986#437\n\n BLOOM \n\n(Her hands and features working.) It was Gerald converted me to be",
+    "start": 150569,
+    "end": 150576,
+    "canonical_text": "dowager"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 14124432,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

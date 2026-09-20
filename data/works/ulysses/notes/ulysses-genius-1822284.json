@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1822284",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Come up, Kinch! Come up, you fearful jesuit!",
+  "html_source": "<p>Perhaps derived from <a href=\"https://genius.com/3008779\" rel=\"noopener nofollow\"><em>Romeo and Juliet</em> (III, iii, 1).</a> “Romeo, come forth, come forth, thou fearful man.” Also, alludes to kinchin or child and the sound of a cutting knife.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1822284/James-joyce-ulysses-chap-1-telemachus/Come-up-kinch-come-up-you-fearful-jesuit",
+    "original_id": "1822284",
+    "referent_id": 1822284,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Come up, Kinch! Come up, you fearful jesuit!",
+    "prefix": "behind him by the mild morning air. He held the bowl aloft and intoned: \n\n — Introibo ad altare Dei. \n\n Halted, he peered down the dark winding stairs and called up coarsely: \n\n — ",
+    "suffix": ". \n\n Solemnly he came forward and mounted the round gunrest. He faced about and blessed gravely thrice the tower, the surrounding country and the awaking mountains. Then, catching ",
+    "start": 371,
+    "end": 414,
+    "canonical_text": "Come up, Kinch! Come up, you fearful jesuit"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 1822284,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 176532,
+        "login": "biblicalmike",
+        "name": "Michael Bible",
+        "role": "verified_artist",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8759220",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Finical",
+  "html_source": "<p>Finicky</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8759220/James-joyce-ulysses-chap-1-telemachus/Finical",
+    "original_id": "8759220",
+    "referent_id": 8759220,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "finical",
+    "prefix": "e, it did not exist in or out of the Mabinogion. Mother Grogan was, one imagines, a kinswoman of Mary Ann. \n\n Buck Mulligan's face smiled with delight. \n\n — Charming! he said in a ",
+    "suffix": " sweet voice, showing his white teeth1932#12 and blinking his eyes pleasantly. Do you think she was? Quite charming! \n\n Then, suddenly overclouding all his features, he growled in ",
+    "start": 21508,
+    "end": 21515,
+    "canonical_text": "finical"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8759220,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

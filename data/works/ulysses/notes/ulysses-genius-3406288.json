@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3406288",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "HAMLET\n ou\n LE DISTRAIT\n Pièce de Shakespeare",
+  "html_source": "<p>Le distrait, the distracted one : words from the ad for the provincial performance Mallarmé saw.</p><p><img src=\"https://images.rapgenius.com/8962fdcd3bd241f3bb728f42a024ffbf.977x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3406288/James-joyce-ulysses-chap-9-scylla-and-charybdis/Hamlet-ou-le-distrait-piece-de-shakespeare",
+    "original_id": "3406288",
+    "referent_id": 3406288,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "HAMLET\n ou\n LE DISTRAIT\n Pièce de Shakespeare",
+    "prefix": "ding the book of himself. He describes Hamlet given in a French town, don't you know, a provincial town. They advertised it. \n\n His free hand graciously wrote tiny signs in air. \n\n",
+    "suffix": " \n\n\n\n1986#153\n\n He repeated to John Eglinton's newgathered frown: \n\n — Pièce de Shakespeare, don't you know. It's so French. The French point of view. Hamlet ou... \n\n — The absentm",
+    "start": 6846,
+    "end": 6890,
+    "canonical_text": "Hamlet\nou\n\nLe Distrait\n\nPièce de Shakespeare"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 3406288,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

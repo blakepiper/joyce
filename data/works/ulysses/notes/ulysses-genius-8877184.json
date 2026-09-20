@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8877184",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "I looked for the lamp which she told me",
+  "html_source": "<p>This phrase comes from Thomas Moore’s <em>The Song of O'Ruark, Prince of Breffni</em> in his <em>Irish Melodies</em>, which tells of a young man looking for a lamp in a window as a sign of his love’s eager anticipation of his return, only to see no such token. The “young false one” had abandoned him for a “proud rival’s kiss.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8877184/James-joyce-ulysses-chap-16-eumaeus/I-looked-for-the-lamp-which-she-told-me",
+    "original_id": "8877184",
+    "referent_id": 8877184,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "I looked for the lamp which she told me",
+    "prefix": " fact, the slight soiling was only an added charm, like the case of linen slightly soiled, good as new, much better, in fact, with the starch out. Suppose she was gone when he?... ",
+    "suffix": " came into his mind but merely as a passing fancy of his because he then recollected the morning littered bed etcetera and the book about Ruby with met him pike hoses (sic) in it w",
+    "start": 101170,
+    "end": 101209,
+    "canonical_text": "I looked for the lamp which she told me"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8877184,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

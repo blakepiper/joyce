@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-3172271",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Do fish ever get seasick?",
+  "html_source": "<p>Intriguing. An illustration of Bloom’s curious but uncomplicated mind.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3172271/James-joyce-ulysses-chap-13-nausicaa/Do-fish-ever-get-seasick",
+    "original_id": "3172271",
+    "referent_id": 3172271,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Do fish ever get seasick?",
+    "prefix": " Hanging on to a plank or astride of a beam for grim life, lifebelt round round him, gulping salt water, and that's the last 1961#378of his nibs till the sharks catch hold of him. ",
+    "suffix": " \n\n Then you have a beautiful calm without a cloud, smooth sea, placid, crew and cargo in smithereens, Davy Jones' locker, moon looking down. Not my fault, old cockalorum. \n\n1932#3",
+    "start": 82284,
+    "end": 82309,
+    "canonical_text": "Do fish ever get seasick?"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3172271,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.8888888888888888
+      },
+      {
+        "id": 855080,
+        "login": "newcareernewtown",
+        "name": "newcareernewtown",
+        "role": null,
+        "attribution": 0.1111111111111111
+      }
+    ]
+  },
+  "color": "F59627"
+}

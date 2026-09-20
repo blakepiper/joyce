@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4636394",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Professor Goodwin",
+  "html_source": "<p>Goodwin is an elderly pianist who often performed with Molly. <a href=\"https://genius.com/4558037\" rel=\"noopener nofollow\">He appears on Bloom’s list of suspected Molly suitors.</a> However, it is unlikely that Molly had a sexual interest in the elderly alcoholic.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4636394/James-joyce-ulysses-chap-4-calypso/Professor-goodwin",
+    "original_id": "4636394",
+    "referent_id": 4636394,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "professor Goodwin",
+    "prefix": " Bloom, you are my darling. \nYou are my lookingglass from night to morning. \nI'd rather have you without a farthing \nThan Katey Keogh with her ass and garden. \n\n1939#48\n\n Poor old ",
+    "suffix": ". Dreadful old case. Still he was a courteous old chap. Oldfashioned way he used to bow Molly off the platform. And the little mirror in his silk hat. The night Milly brought it in",
+    "start": 18199,
+    "end": 18216,
+    "canonical_text": "professor Goodwin"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9613
+  },
+  "genius": {
+    "referent_id": 4636394,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

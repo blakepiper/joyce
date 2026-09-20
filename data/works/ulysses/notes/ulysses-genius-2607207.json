@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2607207",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Gaitered feet",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/3d1c19a8ee135f4d4c3026fb71afce9c.330x203x1.jpg\" alt=\"\" /></p><p><a href=\"http://en.wikipedia.org/wiki/Gaiter\" rel=\"noopener nofollow\">Gaiters</a> are a type of protective clothing for the ankles.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2607207/James-joyce-ulysses-chap-2-nestor/Gaitered-feet",
+    "original_id": "2607207",
+    "referent_id": 2607207,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "gaitered feet",
+    "prefix": "porch and watched the laggard hurry towards the scrappy field where sharp voices were in strife. They were sorted in teams and Mr Deasy came away stepping over wisps of grass with ",
+    "suffix": ". When he had reached the schoolhouse voices again contending called to him. He turned his angry white moustache. \n\n — What is it now? he cried continually without listening. \n\n — ",
+    "start": 10228,
+    "end": 10241,
+    "canonical_text": "gaitered feet"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 2607207,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 293151,
+        "login": "jeeho",
+        "name": "Jeeho",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

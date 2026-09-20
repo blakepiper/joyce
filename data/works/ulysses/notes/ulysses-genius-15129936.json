@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15129936",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Ruins of Clonmacnois",
+  "html_source": "<p>Another sixth century monastic structure in County Offaly on the River Shannon in the middle of Ireland, founded in 544 by St. Ciarán. It became a major center of religion, learning, craft, and trade, visited as it was by scholars from across Europe. Many high kings of Tara and Connacht were buried there.</p><p><img src=\"https://images.genius.com/ce3f73b7d731c79cb910d68fddac90b8.1000x667x1.jpg\" alt=\"\" /></p><p>The list goes on adumbrating important heritage sites in Ireland and the Hebrides.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15129936/James-joyce-ulysses-chap-12-cyclops/Ruins-of-clonmacnois",
+    "original_id": "15129936",
+    "referent_id": 15129936,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "ruins of Clonmacnois",
+    "prefix": "ts as delicate as when the Sligo illuminators gave free rein to their artistic fantasy long long ago in the time of the Barmecides. Glendalough, the lovely lakes of Killarney, the ",
+    "suffix": ", Cong Abbey, Glen Inagh and the Twelve Pins, Ireland's Eye, the Green Hills of Tallaght, Croagh Patrick, the brewery of Messrs Arthur Guinness, Son and Company (Limited), Lough Ne",
+    "start": 92851,
+    "end": 92871,
+    "canonical_text": "ruins of Clonmacnois"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15129936,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

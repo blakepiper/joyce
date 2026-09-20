@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8484816",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Returning",
+  "html_source": "<p>Returning from the intrusion?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8484816/James-joyce-ulysses-chap-10-wandering-rocks/Returning",
+    "original_id": "8484816",
+    "referent_id": 8484816,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "returning",
+    "prefix": "ght damn easy get a nasty fall there coming along tight in the dark. \n\n The gates of the drive opened wide to give egress to the viceregal cavalcade. \n\n — Even money, Lenehan said ",
+    "suffix": ". I knocked against Bantam 1932#209Lyons in there going to back a bloody horse someone gave him that hasn't an earthly. Through here. \n\n They went up the steps and under Merchants'",
+    "start": 29464,
+    "end": 29473,
+    "canonical_text": "returning"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8484816,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

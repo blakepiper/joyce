@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8772978",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Patience are exhausted",
+  "html_source": "<p>Martha’s grammar is faulty. Is she confusing singular patience with plural patients?</p><p><img src=\"https://images.rapgenius.com/4e21d520bf8fa8f63a7af4b26a711cf3.385x385x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8772978/James-joyce-ulysses-chap-5-lotus-eaters/Patience-are-exhausted",
+    "original_id": "8772978",
+    "referent_id": 8772978,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "patience are exhausted",
+    "prefix": "o not I 1986#63will punish you. So now you know what I will do to you, you naughty boy, if you do not write. O how I long to meet you. Henry dear, do not deny my request before my ",
+    "suffix": ". Then I will tell you all. Goodbye now, naughty darling. I have such a bad headache today and write by return to your longing\n\n\n MARTHA.\n\n\n P. S. Do tell me what kind of perfume d",
+    "start": 15681,
+    "end": 15703,
+    "canonical_text": "patience are exhausted"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8772978,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

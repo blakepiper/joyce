@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9015247",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Land of song",
+  "html_source": "<p>Wales has a strong and distinctive link with music. Singing is a significant part of Welsh national identity, and the country is traditionally referred to as “the land of song”.<br />Wales has a history of folk music related to the Celtic music of countries such as Ireland and Scotland.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9015247/James-joyce-ulysses-chap-12-cyclops/Land-of-song",
+    "original_id": "9015247",
+    "referent_id": 9015247,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "land of song",
+    "prefix": " delegates cheered vociferously in a medley of cries, hoch, banzai, eljen, zivio, chinchin, polla kronia, hiphip, vive, Allah, amid which the ringing evviva of the delegate of the ",
+    "suffix": " (a high double F recalling those piercingly lovely notes with which the eunuch Catalani beglamoured our greatgreatgrandmothers) was easily distinguishable. It was exactly seventee",
+    "start": 38334,
+    "end": 38346,
+    "canonical_text": "land of song"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9015247,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

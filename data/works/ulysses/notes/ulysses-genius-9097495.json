@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9097495",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Saith Zarathustra",
+  "html_source": "<p>Thus Spoke Zarathustra: A Book for All and None  is a philosophical novel by German philosopher Friedrich Nietzsche, composed in four parts between 1883 and 1885 and published between 1883 and 1891. Much of the work deals with ideas such as the “eternal recurrence of the same”, the parable on the “death of God”, and the “prophecy” of the Übermensch, which were first introduced in The Gay Science.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9097495/James-joyce-ulysses-chap-14-oxen-of-the-sun/Saith-zarathustra",
+    "original_id": "9097495",
+    "referent_id": 9097495,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "saith Zarathustra",
+    "prefix": " of the country approved with it. Greater love than this, he said, no man hath that a man lay down his wife for his friend. Go thou and do likewise. Thus, or words to that effect, ",
+    "suffix": ", sometime regius professor of French letters to the university of Oxtail nor breathed there ever that man to whom mankind was more beholden. Bring a stranger within thy tower it w",
+    "start": 25821,
+    "end": 25838,
+    "canonical_text": "saith Zarathustra"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 9097495,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

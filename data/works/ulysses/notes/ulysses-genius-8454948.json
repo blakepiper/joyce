@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8454948",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "_Benedicat vos omnipotens Deus, Pater et Filius_",
+  "html_source": "<p>(Latin) May almighty God bless you, Father and Son.[3] In the Latin Tridentine Mass, which was still in use in 1904, the Dismissal ends with the Blessing, Benedicat vos omnipotens Deus, Pater et Filius et Spiritus Sanctus (May almighty God bless you, Father and Son and Holy Spirit), to which the congregation replies Amen. There then follows the Last Gospel.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8454948/James-joyce-ulysses-chap-14-oxen-of-the-sun/Benedicat-vos-omnipotens-deus-pater-et-filius",
+    "original_id": "8454948",
+    "referent_id": 8454948,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "_Benedicat vos omnipotens Deus, Pater et Filius_",
+    "prefix": "and ole clo? Sorra one o' me knows. Hurrah there, Dix! Forward the ribbon counter. Where's Punch? All serene. Jay, look at the drunken minister coming out of the maternity hospal! ",
+    "suffix": ". A make, mister. The Denzille lane boys. Hell, blast ye! Scoot. Righto, Isaacs, shove em out of the bleeding limelight. 1939#304Yous join uz, dear sir? No hentrusion in life. Lou ",
+    "start": 104986,
+    "end": 105032,
+    "canonical_text": "Benedicat vos omnipotens Deus, Pater et Filius"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 8454948,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

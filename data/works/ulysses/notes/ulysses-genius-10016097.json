@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10016097",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Rien n’va plus.",
+  "html_source": "<p>No more.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10016097/James-joyce-ulysses-chap-15-circe/Rien-nva-plus",
+    "original_id": "10016097",
+    "referent_id": 10016097,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Rien n'va plus.",
+    "prefix": ".) Sieurs et dames, faites vos jeux! (He crouches juggling. Tiny roulette planets fly from his hands.) Les jeux sont faits! (The planets rush together, uttering crepitant cracks.) ",
+    "suffix": "! (The planets, buoyant balloons, sail swollen up and away. He springs off into vacuum.) \n\n FLORRY \n\n(Sinking into torpor, crossing herself secretly.) The end of the world! \n\n1961#",
+    "start": 107678,
+    "end": 107692,
+    "canonical_text": "Rien n'va plus"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 10016097,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9063759",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Poisoned by mussels",
+  "html_source": "<p>If you collect bivalve molluscs (oyster, razor clams, cockles, mussels) from the wild and eat them raw, there is a reasonable chance you will poison yourself.<br /><a href=\"http://www.theguardian.com/lifeandstyle/wordofmouth/2009/sep/11/shellfish-poisoning-odds-fat-duck\" rel=\"noopener nofollow\">http://www.theguardian.com/lifeandstyle/wordofmouth/2009/sep/11/shellfish-poisoning-odds-fat-duck</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9063759/James-joyce-ulysses-chap-13-nausicaa/Poisoned-by-mussels",
+    "original_id": "9063759",
+    "referent_id": 9063759,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "poisoned by mussels",
+    "prefix": "remium. Her widow's mite. Well? What do you expect her to do? Must wheedle her 1961#380way along. Widower I hate to see. Looks so forlorn. Poor man O'Connor wife and five children ",
+    "suffix": " here. The sewage. Hopeless. Some good matronly woman in a porkpie hat to mother him. Take him in tow, platter face and a large apron. Ladies' grey flannelette bloomers, three shil",
+    "start": 87375,
+    "end": 87394,
+    "canonical_text": "poisoned by mussels"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9063759,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

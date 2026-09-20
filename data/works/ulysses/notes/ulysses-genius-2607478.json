@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-2607478",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Euge! Euge!",
+  "html_source": "<p>This is a Latin interjection meaning <a href=\"http://en.wiktionary.org/wiki/euge\" rel=\"noopener nofollow\"><em>Well done!  Well done!</em></a></p><p>It is used mockingly here.</p><p>PROPOSED SUGGESTION: Not Latin but Greek</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2607478/James-joyce-ulysses-chap-3-proteus/Euge-euge",
+    "original_id": "2607478",
+    "referent_id": 2607478,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Euge! Euge!",
+    "prefix": " \n\nYou were going to do wonders, what? Missionary to Europe after fiery Columbanus. Fiacre and Scotus on their creepystools in heaven spilt from their pintpots, loudlatinlaughing: ",
+    "suffix": " Pretending to speak broken English as you dragged your valise, porter threepence, across the slimy pier at Newhaven. Comment? Rich booty you brought back; Le Tutu, five 1939#33tat",
+    "start": 12021,
+    "end": 12032,
+    "canonical_text": "Euge! Euge!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2607478,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 293151,
+        "login": "jeeho",
+        "name": "Jeeho",
+        "role": "contributor",
+        "attribution": 0.7142857142857143
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.28571428571428575
+      }
+    ]
+  },
+  "color": "F59627"
+}

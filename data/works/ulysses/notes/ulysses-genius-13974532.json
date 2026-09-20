@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13974532",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Joey",
+  "html_source": "<p>Slang for a fourpenny<br />piece from about 1855.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13974532/James-joyce-ulysses-chap-14-oxen-of-the-sun/Joey",
+    "original_id": "13974532",
+    "referent_id": 13974532,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "joey",
+    "prefix": "I tipped him a dead cert. The ruffin cly the nab of Stephen Hand as give me the jady coppaleen. He strike a 1932#385telegramboy paddock wire big bug Bass to the depot. Shove him a ",
+    "suffix": " and grahamise. Mare on form hot 1986#347order. Guinea to a goosegog. Tell a cram, that. Gospeltrue. Criminal diversion? I think that yes. Sure thing. Land him in chokeechokee if t",
+    "start": 109995,
+    "end": 109999,
+    "canonical_text": "joey"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13974532,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4641417",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Tight collar he’ll lose his hair.",
+  "html_source": "<p>A medical superstition.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4641417/James-joyce-ulysses-chap-5-lotus-eaters/Tight-collar-hell-lose-his-hair",
+    "original_id": "4641417",
+    "referent_id": 4641417,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Tight collar he'll lose his hair.",
+    "prefix": "o see about that French horse that's running today, Bantam Lyons said. Where the bugger is it? \n\n He rustled the pleated pages, jerking his chin on his high collar. Barber's itch. ",
+    "suffix": " Better leave him the paper and get shut of him. \n\n — You can keep it, Mr Bloom said. \n\n — Ascot. Gold cup. Wait, Bantam Lyons muttered. Half a mo. Maximum the second. \n\n — I was j",
+    "start": 33724,
+    "end": 33757,
+    "canonical_text": "Tight collar he'll lose his hair."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4641417,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

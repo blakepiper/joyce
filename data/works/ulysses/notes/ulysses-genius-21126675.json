@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21126675",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Incidental music",
+  "html_source": "<p>Music played in the background of a play.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21126675/James-joyce-ulysses-chap-9-scylla-and-charybdis/Incidental-music",
+    "original_id": "21126675",
+    "referent_id": 21126675,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "incidental music",
+    "prefix": " of life ended, he plants his mulberrytree in the earth. Then dies. The motion is ended. Gravediggers bury Hamlet père? and Hamlet fils. A king and a prince at last in death, with ",
+    "suffix": ". And, what though murdered and betrayed, bewept by all frail tender hearts for, Dane or Dubliner, sorrow for the dead is the only husband from whom they refuse to be divorced. If ",
+    "start": 60098,
+    "end": 60114,
+    "canonical_text": "incidental music"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21126675,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

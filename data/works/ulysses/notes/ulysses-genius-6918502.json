@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-6918502",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "I do not like that other world she wrote.",
+  "html_source": "<p>Bloom recalls a line from Martha’s letter, which appeared in the previous chapter. She had meant to write “I do not like that other word,” and the mistake she made (writing “world” for “word”) strikes Bloom as appropriate now.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6918502/James-joyce-ulysses-chap-6-hades/I-do-not-like-that-other-world-she-wrote",
+    "original_id": "6918502",
+    "referent_id": 6918502,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "I do not like that other world she wrote.",
+    "prefix": "ou the creeps after a bit. I will appear to you after death. You will see my ghost after death. My ghost will haunt you after death. There is another world after death named hell. ",
+    "suffix": " No more do I. Plenty to see and hear and feel yet. Feel live warm beings near you. Let them sleep in their maggoty beds. They are not going to get me this innings. Warm beds: warm",
+    "start": 61348,
+    "end": 61389,
+    "canonical_text": "I do not like that other world she wrote."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6918502,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1835164,
+        "login": "AdamKadmon",
+        "name": "AdamKadmon",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

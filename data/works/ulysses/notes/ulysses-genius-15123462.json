@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15123462",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "The traitor’s son",
+  "html_source": "<p>Myler was the son of William Keogh who took the position of Solicitor General, thus selling out to the British government and outraging Irish nationalists.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15123462/James-joyce-ulysses-chap-12-cyclops/The-traitors-son",
+    "original_id": "15123462",
+    "referent_id": 15123462,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "The traitor's son",
+    "prefix": "agility and training the eye. \n\n — Ay, Blazes, says Alf. He let out that Myler was on the beer to run up the odds and he swatting all the time. \n\n — We know him, says the citizen. ",
+    "suffix": ". We know what put English gold in his pocket. \n\n — True for you, says Joe. \n\n And Bloom cuts in again about lawn tennis and the circulation of the blood, asking Alf: \n\n — Now, don",
+    "start": 61495,
+    "end": 61512,
+    "canonical_text": "The traitor's son"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15123462,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

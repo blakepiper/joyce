@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8800662",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Sallust",
+  "html_source": "<p>Gaius Sallustius Crispus, usually anglicised as Sallust (86 – c. 35 BC), was a Roman historian, politician, and novus homo from a provincial plebeian family. The style of works written by Sallust was well known in Rome. It differs from the writings of his contemporaries — Caesar and especially Cicero. It is characterized by brevity and by the use of rare words and turns of phrase. As a result, his works are very far from the conversational Latin of his time</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8800662/James-joyce-ulysses-chap-7-aeolus/Sallust",
+    "original_id": "8800662",
+    "referent_id": 8800662,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Sallust",
+    "prefix": "a ponderous pundit MacHugh \nWho wears goggles of ebony hue. \nAs he mostly sees double \nTo wear them why trouble? \nI can't see the Joe Miller. Can you? \n\n1932#119\n\n In mourning for ",
+    "suffix": ", Mulligan says. Whose mother is beastly dead. \n\n Myles Crawford crammed the sheets into a sidepocket. \n\n — That'll be all right, he said. I'll read the rest after. That'll be all ",
+    "start": 31844,
+    "end": 31851,
+    "canonical_text": "Sallust"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8800662,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

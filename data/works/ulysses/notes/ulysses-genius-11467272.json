@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11467272",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Grasshalms",
+  "html_source": "<p>A halm or haulm is a stalk or stem, especially of a harvested crop. Grasshalm is a compound word devised by Joyce.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11467272/James-joyce-ulysses-chap-1-telemachus/Grasshalms",
+    "original_id": "11467272",
+    "referent_id": 11467272,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "grasshalms",
+    "prefix": "window startling evening in the quadrangle. A deaf gardener, aproned, masked with Matthew Arnold's face, pushes his mower on the sombre lawn watching narrowly the dancing motes of ",
+    "suffix": ". \n\n To ourselves... new paganism... omphalos. \n\n — Let him stay, Stephen said. There's nothing wrong with him except at night. \n\n — Then what is it? Buck Mulligan asked impatientl",
+    "start": 10350,
+    "end": 10360,
+    "canonical_text": "grasshalms"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11467272,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1313008,
+        "login": "PeterFif",
+        "name": "PeterFif",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

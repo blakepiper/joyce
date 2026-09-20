@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9666569",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Athlone Poursuivant",
+  "html_source": "<p>Athlone Pursuivant of Arms (or Athlone Pursuivant) was a junior officer of arms in Ireland, founded 1552 during the reign of Edward VI, King of England and King of Ireland, and was named for the town of Athlone, Co. Roscommon (in the province of Connacht).<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9666569/James-joyce-ulysses-chap-15-circe/Athlone-poursuivant",
+    "original_id": "9666569",
+    "referent_id": 9666569,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Athlone Poursuivant",
+    "prefix": "tine papal standard rises high, surrounded by pennons of the civic flag. The van of the procession appears headed by John Howard Parnell, city marshal, in a chessboard tabard, the ",
+    "suffix": " and Ulster King of Arms. They are followed by the Right Honourable Joseph Hutchinson, lord mayor of Dublin, his lordship the lord mayor of Cork, their worships the mayors of Limer",
+    "start": 70776,
+    "end": 70795,
+    "canonical_text": "Athlone Poursuivant"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9666569,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15169895",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Weirs",
+  "html_source": "<p>A weir is an adjustable dam placed across a river to regulate the flow of water downstream, or a fence placed across a river to catch fish.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15169895/James-joyce-ulysses-chap-17-ithaca/Weirs",
+    "original_id": "15169895",
+    "referent_id": 15169895,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "weirs",
+    "prefix": "auseways, ascents of moderately high hills, natation in secluded fresh water and unmolested river boating in secure wherry or light curricle with kedge anchor on reaches free from ",
+    "suffix": " and rapids (period of estivation), vespertinal perambulation or equestrian circumprocession with inspection of sterile landscape and contrastingly agreeable cottagers' fires of sm",
+    "start": 100055,
+    "end": 100060,
+    "canonical_text": "weirs"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15169895,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13011143",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Vidi aquam egredientem de templo a latere dextro. Alleluia.",
+  "html_source": "<p>Latin: “I saw a stream of water welling forth from the right of the temple. Alleluia.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13011143/James-joyce-ulysses-chap-15-circe/Vidi-aquam-egredientem-de-templo-a-latere-dextro-alleluia",
+    "original_id": "13011143",
+    "referent_id": 13011143,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Vidi aquam egredientem de templo a latere dextro. Alleluia.",
+    "prefix": "ashplant in his left hand, chants with joy the introit for paschal time. Lynch, his jockeycap low on his brow, attends him, a sneer of discontent wrinkling his face.) \n\n STEPHEN \n\n",
+    "suffix": " \n\n(The famished snaggletusks of an elderly bawd protrude from a doorway.) \n\n1932#389\n\n THE BAWD \n\n(Her voice whispering huskily.) Sst! Come here till I tell you. Maidenhead inside",
+    "start": 3463,
+    "end": 3522,
+    "canonical_text": "Vidi aquam egredientem de templo a latere dextro. Alleluia."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13011143,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5436824,
+        "login": "cohomology",
+        "name": "cohomology",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

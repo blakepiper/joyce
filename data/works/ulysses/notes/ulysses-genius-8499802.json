@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8499802",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Mi trema un poco il.",
+  "html_source": "<p>This is the (incomplete) next line in the duet: “[My heart] is aflutter a little.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8499802/James-joyce-ulysses-chap-6-hades/Mi-trema-un-poco-il",
+    "original_id": "8499802",
+    "referent_id": 8499802,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Mi trema un poco il.",
+    "prefix": "ame. Twenty past eleven. Up. Mrs Fleming is in to clean. Doing her hair, humming: voglio e non vorrei. No: vorrei e non. Looking at the tips of her hairs to see if they are split. ",
+    "suffix": " Beautiful on that tre her voice is: weeping tone. A thrush. A throstle. There is a word throstle that expresses that. \n\n His eyes passed lightly over Mr Power's goodlooking face. ",
+    "start": 13895,
+    "end": 13915,
+    "canonical_text": "Mi trema un poco il."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8499802,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2680303,
+        "login": "Cortez67",
+        "name": "Cortez67",
+        "role": null,
+        "attribution": 0.8666666666666667
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.13333333333333333
+      }
+    ]
+  },
+  "color": "F59627"
+}

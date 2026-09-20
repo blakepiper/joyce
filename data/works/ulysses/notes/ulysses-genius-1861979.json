@@ -1,0 +1,77 @@
+{
+  "id": "ulysses-genius-1861979",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "It is a symbol of Irish art. The cracked looking-glass of a servant",
+  "html_source": "<p>Or rather, the art of the colonized and subjugated Irish.</p><p>The “cracked looking-glass” is an image from <a href=\"https://genius.com/4443022\" rel=\"noopener nofollow\">Oscar Wilde’s essay “The Decay of Lying.”</a> Stephen adds to the image by reducing it to the status of servant’s possession, as he feels Ireland has been.</p><p>Joyce favoured being part of all nations rather than one and putting art before a nation (Cheng,V. Joyce, Race, and Empire, p66).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1861979/James-joyce-ulysses-chap-1-telemachus/It-is-a-symbol-of-irish-art-the-cracked-looking-glass-of-a-servant",
+    "original_id": "1861979",
+    "referent_id": 1861979,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "It is a symbol of Irish art. The cracked looking-glass of a servant",
+    "prefix": " rage of Caliban at not seeing his face in a mirror, he said. If Wilde were only alive to see you! \n\n1922#6\n\n Drawing back and pointing, Stephen said with bitterness: \n\n1939#7\n\n — ",
+    "suffix": ". \n\n1961#61932#6\n\n Buck Mulligan suddenly linked his arm in Stephen's and walked with him round the tower, his razor and mirror clacking in the pocket where he had thrust them. \n\n ",
+    "start": 8526,
+    "end": 8592,
+    "canonical_text": "It is a symbol of Irish art. The cracked lookingglass of a servant"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 1861979,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.2597402597402597
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.24675324675324675
+      },
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 0.20779220779220778
+      },
+      {
+        "id": 1045290,
+        "login": "StickRivero",
+        "name": "StickRivero",
+        "role": "contributor",
+        "attribution": 0.12987012987012986
+      },
+      {
+        "id": 159290,
+        "login": "Vulgar_MadMan",
+        "name": "Dr. Fassi",
+        "role": "editor",
+        "attribution": 0.09090909090909091
+      },
+      {
+        "id": 330606,
+        "login": "Caudelac",
+        "name": "Caudelac",
+        "role": "editor",
+        "attribution": 0.06493506493506493
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11153237",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Pesetas",
+  "html_source": "<p>Spanish currency was the peseta from 1869 to 2002 when it was replaced by the Euro</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11153237/James-joyce-ulysses-chap-18-penelope/Pesetas",
+    "original_id": "11153237",
+    "referent_id": 11153237,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "pesetas",
+    "prefix": " to be imagining the Spanish girls he didnt like I suppose one of them wouldnt have him I got him excited he crushed all the flowers on my bosom he brought me he couldnt count the ",
+    "suffix": " and the perragordas till I taught him Cappoquin he came from he said on the Blackwater but it was too short then the day before he 1961#759left May yes it was May when the infant ",
+    "start": 57915,
+    "end": 57922,
+    "canonical_text": "pesetas"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11153237,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

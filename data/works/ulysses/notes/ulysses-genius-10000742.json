@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10000742",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Hog’s Norton",
+  "html_source": "<p>Hogs-Norton.<br />A village in Oxfordshire, now called Hook Norton. “I think you were born at Hogs-Norton.” A reproof to an ill-mannered person.<br />“I think thou wast born at Hoggs-Norton, where piggs play upon the organs.”—Howell: English Proverbs, p. 16.<br /><a href=\"http://www.bartleby.com/81/8357.html\" rel=\"noopener nofollow\">http://www.bartleby.com/81/8357.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10000742/James-joyce-ulysses-chap-15-circe/Hogs-norton",
+    "original_id": "10000742",
+    "referent_id": 10000742,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Hog's Norton",
+    "prefix": "ere. Give a bleeding whore a chance. \n\n1961#499\n\n BLOOM \n\n(Repentantly.) I am very disagreeable. You are a necessary evil. Where are you from? London? \n\n1932#440\n\n ZOE \n\n(Glibly.) ",
+    "suffix": " where the pigs plays the organs. I'm Yorkshire born. (She holds his hand which is feeling for her nipple.) I say, Tommy Tittlemouse. Stop that and begin worse. Have you cash for a",
+    "start": 98631,
+    "end": 98643,
+    "canonical_text": "Hog's Norton"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10000742,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

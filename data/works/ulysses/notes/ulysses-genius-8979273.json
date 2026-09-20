@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8979273",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Neave’s food",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/ea9adc331e3d8d476aaaeaac69c5c87c.200x321x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8979273/James-joyce-ulysses-chap-12-cyclops/Neaves-food",
+    "original_id": "8979273",
+    "referent_id": 8979273,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Neave's food",
+    "prefix": "his next, says Lenehan. \n\n — O, by God, says Ned, you should have seen Bloom before that son of his that died was born. I met him one day in the south city markets buying a tin of ",
+    "suffix": " six weeks before the wife was delivered. \n\n — En ventre sa mère, says J. J. \n\n — Do you call that a man? says the citizen. \n\n — I wonder did he ever put it out of sight, says Joe.",
+    "start": 105457,
+    "end": 105469,
+    "canonical_text": "Neave's food"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8979273,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

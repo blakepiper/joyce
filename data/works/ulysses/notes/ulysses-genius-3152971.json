@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-3152971",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Rose of Castile",
+  "html_source": "<p>An opera by William Balfe and a pun on railroad – ‘rows of cast steel’.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3152971/James-joyce-ulysses-chap-11-sirens/Rose-of-castile",
+    "original_id": "3152971",
+    "referent_id": 3152971,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "rose of Castile",
+    "prefix": "y thumbnail, chips. \n\n Horrid! And gold flushed more. \n\n A husky fifenote blew. \n\n Blew. Blue bloom is on the. \n\n Goldpinnacled hair. \n\n A jumping rose on satiny breasts of satin, ",
+    "suffix": ". \n\n Trilling, trilling: Idolores. \n\n Peep! Who's in the... peepofgold? \n\n Tink cried to bronze in pity. \n\n1932#229\n\n And a call, pure, long and throbbing. Longindying call. \n\n Dec",
+    "start": 299,
+    "end": 314,
+    "canonical_text": "rose of Castile"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9279
+  },
+  "genius": {
+    "referent_id": 3152971,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.6428571428571429
+      },
+      {
+        "id": 591961,
+        "login": "dbrannen",
+        "name": "dbrannen",
+        "role": "contributor",
+        "attribution": 0.35714285714285715
+      }
+    ]
+  },
+  "color": "F59627"
+}

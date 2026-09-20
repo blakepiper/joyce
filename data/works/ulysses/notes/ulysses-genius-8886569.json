@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8886569",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Superannuated old salt",
+  "html_source": "<p>Retired Old Sailor</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8886569/James-joyce-ulysses-chap-16-eumaeus/Superannuated-old-salt",
+    "original_id": "8886569",
+    "referent_id": 8886569,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "superannuated old salt",
+    "prefix": "urths of it and he fully realised accordingly what it meant, to rule the waves. On more than one occasion—a dozen at the lowest—near the North Bull at Dollymount he had remarked a ",
+    "suffix": ", evidently derelict, seated habitually near the not particularly redolent sea on the wall, staring quite obliviously at it and it at him, dreaming of fresh woods and pastures new ",
+    "start": 42339,
+    "end": 42361,
+    "canonical_text": "superannuated old salt"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8886569,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795641",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Trundle",
+  "html_source": "<p>(With reference to a wheeled vehicle or its occupants) move or cause to move slowly and heavily, typically in a noisy or uneven way</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795641/James-joyce-ulysses-chap-6-hades/Trundle",
+    "original_id": "8795641",
+    "referent_id": 8795641,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "trundle",
+    "prefix": " — How many have you for tomorrow? the caretaker asked. \n\n — Two, Corny Kelleher said. Half ten and eleven. \n\n The caretaker put the papers in his pocket. The barrow had ceased to ",
+    "suffix": ". The mourners split and moved to each side of the hole, stepping with care round 1939#82the graves. The gravediggers bore the coffin and set its nose on the brink, looping the ban",
+    "start": 48374,
+    "end": 48381,
+    "canonical_text": "trundle"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8795641,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

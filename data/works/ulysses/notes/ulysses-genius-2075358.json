@@ -1,0 +1,63 @@
+{
+  "id": "ulysses-genius-2075358",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Symbol of the apostles",
+  "html_source": "<p>Refers to the <a href=\"http://en.wikipedia.org/wiki/Apostles%27_Creed\" rel=\"noopener nofollow\">Apostles' Creed</a>.  Each clause in the Apostles' creed is attributed to an apostle:</p><blockquote><p>I believe in God,<br />the Father almighty,<br />Creator of heaven and earth,<br />and in Jesus Christ, his only Son, our Lord,<br />who was conceived by the Holy Spirit,<br />born of the Virgin Mary,<br />suffered under Pontius Pilate,<br />was crucified, died and was buried;<br />he descended into hell;<br />on the third day he rose again from the dead;<br />he ascended into heaven,<br />and is seated at the right hand of God the Father almighty;<br />from there he will come to judge the living and the dead.<br />I believe in the Holy Spirit,<br />the holy catholic Church,<br />the communion of saints,<br />the forgiveness of sins,<br />the resurrection of the body,<br />and life everlasting. Amen.</p></blockquote><p><img src=\"https://images.rapgenius.com/66fba424164681d69bbf50b5bfe66d14.396x565x1.jpg\" alt=\"\" /></p><p>PROPOSED SUGGESTION: Refers to the Apostles' Creed (Latin: Symbolum Apostolicum, literally “Symbol of the Apostles”). Ancient church tradition held that each line was contributed by a different apostle, and this Creed is used only during the Baptismal Rite.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2075358/James-joyce-ulysses-chap-1-telemachus/Symbol-of-the-apostles",
+    "original_id": "2075358",
+    "referent_id": 2075358,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Symbol of the apostles",
+    "prefix": "9 of their brazen bells: et unam sanctam catholicam1961#20 et apostolicam ecclesiam: the slow growth and change of rite and dogma like his own rare thoughts, a chemistry of stars. ",
+    "suffix": " in the mass for pope Marcellus, the voices blended, singing alone loud in affirmation: and behind their chant the vigilant angel of the church militant disarmed and menaced her he",
+    "start": 36909,
+    "end": 36931,
+    "canonical_text": "Symbol of the apostles"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2075358,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 0.7761194029850746
+      },
+      {
+        "id": 1623796,
+        "login": "StefanMichaelGramenz",
+        "name": "StefanMichaelGramenz",
+        "role": "contributor",
+        "attribution": 0.20398009950248755
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.009950248756218905
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.009950248756218905
+      }
+    ]
+  },
+  "color": "F59627"
+}

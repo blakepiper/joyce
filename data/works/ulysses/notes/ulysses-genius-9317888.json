@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-9317888",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Rams",
+  "html_source": "<p>someone know what is mean “rams” like verb?</p><p>‘empujar’, JC or<br />‘empujón’</p><p>Jackie mac</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9317888/James-joyce-ulysses-chap-15-circe/Rams",
+    "original_id": "9317888",
+    "referent_id": 9317888,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "rams",
+    "prefix": "6#350growling teeth, and snores again. On a step a gnome totting among a rubbishtip crouches to 1961#429shoulder a sack of rags and bones. A crone standing by with a smoky oillamp ",
+    "suffix": " her last bottle in the maw of his sack. He heaves his booty, tugs askew his peaked cap and hobbles off mutely. The crone makes back for her lair, swaying her lamp. A bandy child, ",
+    "start": 1390,
+    "end": 1394,
+    "canonical_text": "rams"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9676
+  },
+  "genius": {
+    "referent_id": 9317888,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2707000,
+        "login": "JozueCoronel",
+        "name": "JozueCoronel",
+        "role": "contributor",
+        "attribution": 0.4210526315789474
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.3157894736842105
+      },
+      {
+        "id": 8604914,
+        "login": "seanrorydempsey",
+        "name": "seanrorydempsey",
+        "role": null,
+        "attribution": 0.2631578947368421
+      }
+    ]
+  },
+  "color": "F59627"
+}

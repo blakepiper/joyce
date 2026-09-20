@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795341",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Troy measure",
+  "html_source": "<p>Troy weight, traditional system of weight in the British Isles based on the grain, pennyweight (24 grains), ounce (20 pennyweights), and pound (12 ounces). The troy grain, pennyweight, and ounce have been used since the Middle Ages to weigh gold, silver, and other precious metals and stones</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795341/James-joyce-ulysses-chap-6-hades/Troy-measure",
+    "original_id": "8795341",
+    "referent_id": 8795341,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Troy measure",
+    "prefix": "low mousing around for his liver and his lights and the rest of his traps. Find damn all of himself that morning. Pennyweight of powder in a skull. Twelve grammes one pennyweight. ",
+    "suffix": ". \n\n Corny Kelleher fell into step at their side. \n\n — Everything went off A1, he said. What? \n\n He looked on them from his drawling eye. Policeman's shoulders. With your tooraloom",
+    "start": 40851,
+    "end": 40863,
+    "canonical_text": "Troy measure"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8795341,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

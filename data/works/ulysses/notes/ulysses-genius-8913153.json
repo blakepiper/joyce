@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8913153",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Ask no questions",
+  "html_source": "<p>“Drat that boy,” interposed my sister, frowning at me over her work, “what a questioner he is. Ask no questions, and you’ll be told no lies.”</p><p>― Charles Dickens, Great Expectations 1861<br />Chapter 2</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8913153/James-joyce-ulysses-chap-11-sirens/Ask-no-questions",
+    "original_id": "8913153",
+    "referent_id": 8913153,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Ask no questions",
+    "prefix": "\n\n She rose and closed her reading, rose of Castile: fretted, forlorn, dreamily rose. \n\n — Did she fall or was she pushed? he asked her. \n\n She answered, slighting: \n\n1922#253\n\n — ",
+    "suffix": " and you'll hear no lies. \n\n Like lady, ladylike. \n\n1939#193\n\n Blazes Boylan's smart tan shoes creaked on the barfloor where he strode. Yes, gold from anear by bronze from afar. Le",
+    "start": 16811,
+    "end": 16827,
+    "canonical_text": "Ask no questions"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8913153,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

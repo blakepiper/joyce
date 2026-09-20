@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4664566",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "I will try, Stephen said, and let you know tomorrow. I know two editors slightly",
+  "html_source": "<p>Stephen now has two plans and a choice to make. Mulligan has asked him to meet him at the Ship at half twelve and the anti-Semite Deasy has asked him to deliver the letter to the editor of The Homestead (George Russell).</p><p>This is a very good example of how little of Stephen’s self he reveals through his internal narrative . He goes to the National Library under the guise of Deasy’s errand but mainly to deliver his lecture on Hamlet which Mulligan mocked in <em>Telemachus</em>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4664566/James-joyce-ulysses-chap-2-nestor/I-will-try-stephen-said-and-let-you-know-tomorrow-i-know-two-editors-slightly",
+    "original_id": "4664566",
+    "referent_id": 4664566,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "I will try, Stephen said, and let you know tomorrow. I know two editors slightly",
+    "prefix": "ed the sheets again. \n\n — As regards these, he began. \n\n — Yes, Mr Deasy said. You have two copies there. If you can have them published at once. \n\nTelegraph. Irish Homestead.\n\n — ",
+    "suffix": ". \n\n — That will do, Mr Deasy said briskly. I wrote last night to Mr Field, M.P. There is a meeting of the cattletraders' association today at the City Arms hotel. I asked him to l",
+    "start": 23722,
+    "end": 23802,
+    "canonical_text": "I will try, Stephen said, and let you know tomorrow. I know two editors slightly"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4664566,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10147311",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Boreen",
+  "html_source": "<p>a narrow country lane</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10147311/James-joyce-ulysses-chap-15-circe/Boreen",
+    "original_id": "10147311",
+    "referent_id": 10147311,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "boreen",
+    "prefix": " scholars grappling with their pensums or model young ladies playing on the pianoforte or anon all with fervour reciting the family rosary round the crackling Yulelog while in the ",
+    "suffix": "s and green lanes the colleens with their swains strolled what times the strains of the organtoned melodeon Britannia metalbound with four acting stops and twelvefold bellows, a sa",
+    "start": 45199,
+    "end": 45205,
+    "canonical_text": "boreen"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10147311,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

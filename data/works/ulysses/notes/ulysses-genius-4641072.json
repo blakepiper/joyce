@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4641072",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Poor papa!",
+  "html_source": "<p>Ophelia’s suicide triggers the awful thought of Bloom’s father taking his own life.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4641072/James-joyce-ulysses-chap-5-lotus-eaters/Poor-papa",
+    "original_id": "4641072",
+    "referent_id": 4641072,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Poor papa!",
+    "prefix": "t. Hello. Leah tonight. Mrs Bandmann Palmer. Like to see her again in that. Hamlet she played last night. Male impersonator. Perhaps he was a woman. Why Ophelia committed suicide. ",
+    "suffix": " How he used to talk of Kate Bateman in that. Outside the Adelphi in London waited all the afternoon to get in. Year before I was born that was: sixtyfive. And Ristori in Vienna. W",
+    "start": 12049,
+    "end": 12059,
+    "canonical_text": "Poor papa!"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 4641072,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

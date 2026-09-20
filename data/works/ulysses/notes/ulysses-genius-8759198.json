@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8759198",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Dundrum",
+  "html_source": "<p>Originally a town in its own right, now a suburb of Dublin.</p><p><a href=\"https://www.youtube.com/watch?v=3M3y2YD6Qy4\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=3M3y2YD6Qy4</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8759198/James-joyce-ulysses-chap-1-telemachus/Dundrum",
+    "original_id": "8759198",
+    "referent_id": 8759198,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Dundrum",
+    "prefix": "f bread, impaled on his knife. \n\n — That's folk, he said very earnestly, for your book, Haines. Five lines of text and ten pages of notes about the folk and1961#12 the fishgods of ",
+    "suffix": ". Printed by the weird sisters in the year of the big wind. \n\n He turned to Stephen and asked in a fine puzzled voice, lifting his brows: \n\n — Can you recall, brother, is mother Gr",
+    "start": 20912,
+    "end": 20919,
+    "canonical_text": "Dundrum"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8759198,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.7142857142857143
+      },
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.28571428571428575
+      }
+    ]
+  },
+  "color": "F59627"
+}

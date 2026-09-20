@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8765261",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Dulcimers",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/6db0d2af89c1757a7f6768968529c58d.600x556x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8765261/James-joyce-ulysses-chap-4-calypso/Dulcimers",
+    "original_id": "8765261",
+    "referent_id": 8765261,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "dulcimers",
+    "prefix": "anguage. High wall: beyond strings twanged. Night sky, moon, violet, colour of Molly's new garters. Strings. Listen. A girl playing one of those instruments what do you call them: ",
+    "suffix": ". I pass. \n\n Probably not a bit like it really. Kind of stuff you read: in the track of the sun. Sunburst on the titlepage. He smiled, pleasing himself. What Arthur Griffith said a",
+    "start": 6371,
+    "end": 6380,
+    "canonical_text": "dulcimers"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8765261,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11115570",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Whether he did",
+  "html_source": "<p>Bloom orders it in Chapter 5.<br />“Better get that lotion made up. Where is this? Ah yes, the last time. Sweny’s in Lincoln place.<br />Chemists rarely move. ”</p><p>However Bloom forgets to pick it up later in Chapter 13.<br />“O by the by that lotion. I knew there was something on my mind. Never went back and the soap not paid. Dislike carrying bottles like that”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11115570/James-joyce-ulysses-chap-18-penelope/Whether-he-did",
+    "original_id": "11115570",
+    "referent_id": 11115570,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "whether he did",
+    "prefix": "face lotion I finished the last of yesterday that made 1961#750my skin like new I told him over and over again get that made up in the same place and dont forget it God only knows ",
+    "suffix": " after all I said to him Ill know by the bottle anyway if not I suppose Ill only have to wash in my piss like beeftea or chickensoup with some of that opoponax and violet I thought",
+    "start": 34403,
+    "end": 34417,
+    "canonical_text": "whether he did"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9712
+  },
+  "genius": {
+    "referent_id": 11115570,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

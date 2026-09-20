@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33152064",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "We",
+  "html_source": "<p>Sperm.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33152064/James-joyce-ulysses-chap-14-oxen-of-the-sun/We",
+    "original_id": "33152064",
+    "referent_id": 33152064,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "We",
+    "prefix": ", what of those Godpossibled souls that we nightly impossibilise, which is the sin against the Holy Ghost, Very God, Lord and Giver of Life? For, sirs, he said, our lust is brief. ",
+    "suffix": " are means to those small creatures within us and nature has other ends than we. Then said Dixon junior to Punch Costello wist he what ends. But he had overmuch drunken and the bes",
+    "start": 16077,
+    "end": 16079,
+    "canonical_text": "We"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 33152064,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

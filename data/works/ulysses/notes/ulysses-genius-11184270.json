@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11184270",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "A wolf in sheep’s clothing",
+  "html_source": "<p>Bloom later on the altercation with Citizen,  ‘People could put up with being bitten by a wolf but what properly riled them was a bite from a sheep’.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11184270/James-joyce-ulysses-chap-12-cyclops/A-wolf-in-sheeps-clothing",
+    "original_id": "11184270",
+    "referent_id": 11184270,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "A wolf in sheep's clothing",
+    "prefix": " stuff like a man. Give us your blessing. Not as much as would blind your eye. \n\n1922#323\n\n — Charity to the neighbour, says Martin. But where is he? We can't wait. \n\n1932#305\n\n — ",
+    "suffix": ", says the citizen. That's what he is. Virag from Hungary! Ahasuerus I call him. Cursed by God. \n\n — Have you time for a brief libation, Martin? says Ned. \n\n — Only one, says Marti",
+    "start": 106362,
+    "end": 106388,
+    "canonical_text": "A wolf in sheep's clothing"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11184270,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 4017165,
+        "login": "KevinFoy",
+        "name": "KevinFoy",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8751921",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Master of hone",
+  "html_source": "<p>should be “master of horse.” Gifford/Seidman: “An officer of the royal court responsible for the sovereign’s horses. He rides next to the sovereign on all state occasions.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8751921/James-joyce-ulysses-chap-15-circe/Master-of-hone",
+    "original_id": "8751921",
+    "referent_id": 8751921,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "master of hone",
+    "prefix": "outfitters, riddlemakers, egg and potato factors, hosiers and glovers, plumbing contractors. After them march gentlemen of the bed chamber Black Rod, Deputy Garter Gold Stick, the ",
+    "suffix": ", the lord great chamberlain, the earl marshal, the high constable carrying the sword of state, saint Stephen's iron crown, the chalice and bible. Four buglers on foot blow a senne",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.0
+  },
+  "genius": {
+    "referent_id": 8751921,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

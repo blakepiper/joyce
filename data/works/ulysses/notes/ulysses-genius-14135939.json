@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-14135939",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "La la! Ce pif qu’il a!",
+  "html_source": "<p>Ce pif qu'il a – French<br />slang; literally, “The nose he has”; figuratively,<br />“The face he has (or makes).”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/14135939/James-joyce-ulysses-chap-15-circe/La-la-ce-pif-quil-a",
+    "original_id": "14135939",
+    "referent_id": 14135939,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "la la! Ce pif qu'il a!",
+    "prefix": "ll chic womans which arrive full of modesty then disrobe and squeal loud to see vampire man debauch nun very fresh young with dessous troublants. (He clacks his tongue loudly.)Ho, ",
+    "suffix": " \n\n LYNCH \n\nVive le vampire! \n\n1922#530\n\n THE WHORES \n\n Bravo! Parleyvoo! \n\n1932#492\n\n STEPHEN \n\n(Grimacing with head back, laughs loudly, clapping himself.) Great success of laugh",
+    "start": 191372,
+    "end": 191394,
+    "canonical_text": "la la! Ce pif qu'il a!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 14135939,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

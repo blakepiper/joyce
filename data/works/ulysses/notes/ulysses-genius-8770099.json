@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8770099",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Griffith’s paper",
+  "html_source": "<p>Arthur Griffith (Irish: Art Ó Gríobhtha; 31 March 1872 – 12 August 1922) was an Irish politician and writer, who founded and later led the political party Sinn Féin. In 1899, on returning to Dublin, he co-founded the weekly United Irishman newspaper.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8770099/James-joyce-ulysses-chap-5-lotus-eaters/Griffiths-paper",
+    "original_id": "8770099",
+    "referent_id": 8770099,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Griffith's paper",
+    "prefix": " That must be why the women go after them. Uniform. Easier to enlist and drill. Maud Gonne's letter about taking them off O'Connell street at night: disgrace to our Irish capital. ",
+    "suffix": " is 1961#72on the same tack now: an army rotten with venereal disease: overseas or halfseasover empire. Half baked they look: hypnotised like. Eyes front. Mark time. Table: able. B",
+    "start": 4867,
+    "end": 4883,
+    "canonical_text": "Griffith's paper"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8770099,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

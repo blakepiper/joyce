@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4853178",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Met him pike hoses",
+  "html_source": "<p>Bloom is referring to Molly’s pronunciation of “metempsychosis” (i.e. transmigration or reincarnation, see Chapter 4).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4853178/James-joyce-ulysses-chap-8-lestrygonians/Met-him-pike-hoses",
+    "original_id": "4853178",
+    "referent_id": 4853178,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "met him pike hoses",
+    "prefix": "? All those women and children excursion beanfeast burned and drowned in New York. Holocaust. Karma they call that transmigration for sins you did in a past life the reincarnation ",
+    "suffix": ". Dear, dear, dear. Pity, of course: but somehow you can't cotton on to them someway. \n\n Sir Frederick Falkiner going into the freemasons' hall. Solemn as Troy. After his good lunc",
+    "start": 70535,
+    "end": 70553,
+    "canonical_text": "met him pike hoses"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4853178,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1482232,
+        "login": "JayEn",
+        "name": "JayEn",
+        "role": "editor",
+        "attribution": 0.9375
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.0625
+      }
+    ]
+  },
+  "color": "F59627"
+}

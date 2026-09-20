@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15148182",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Welkin",
+  "html_source": "<p>Welkin is a term meaning sky or heavy from the Old English wolcen meaning sky or cloud. By comparison, “wolken” means clouds in German and “wolk” is cloud in Dutch.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15148182/James-joyce-ulysses-chap-14-oxen-of-the-sun/Welkin",
+    "original_id": "15148182",
+    "referent_id": 15148182,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "welkin",
+    "prefix": "5\n\n In ward wary the watcher hearing come that man mildhearted eft rising with swire ywimpled to him her gate wide undid. Lo, levin leaping lightens in eyeblink Ireland's westward ",
+    "suffix": ". Full she dread that God the Wreaker all mankind would fordo with water for his evil sins. Christ's rood made she on breastbone and him drew that he would rathe infare under her t",
+    "start": 5657,
+    "end": 5663,
+    "canonical_text": "welkin"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15148182,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

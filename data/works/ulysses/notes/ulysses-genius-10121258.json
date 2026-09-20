@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10121258",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Hauberk",
+  "html_source": "<p><img src=\"https://images.genius.com/0460b60237d60e128fe657af73edf1d2.868x868x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10121258/James-joyce-ulysses-chap-15-circe/Hauberk",
+    "original_id": "10121258",
+    "referent_id": 10121258,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "hauberk",
+    "prefix": "nes. \n\n(Patrice Egan peeps from behind, his rabbitface nibbling a quince leaf.) \n\n PATRICE \n\n Socialiste! \n\n1939#416\n\n DON EMILE PATRIZIO FRANZ RUPERT POPE HENNESSY \n\n(In medieval ",
+    "suffix": ", two wild geese volant on his helm, with noble indignation points a mailed hand against the privates.) Werf those eykes to footboden, big grand porcos of johnyellows todos covered",
+    "start": 219752,
+    "end": 219759,
+    "canonical_text": "hauberk"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10121258,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15164920",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Non serviam!",
+  "html_source": "<p>(Lat.) “<a href=\"https://en.wikipedia.org/wiki/Non_serviam\" rel=\"noopener nofollow\">I will not serve</a>”. Lucifer’s words after the fall from heaven. Also a significant phrase in Portrait of the Artist</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15164920/James-joyce-ulysses-chap-15-circe/Non-serviam",
+    "original_id": "15164920",
+    "referent_id": 15164920,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Non serviam!",
+    "prefix": "ite! (His features grow drawn grey and old.) \n\n BLOOM \n\n(At the window.) What? \n\n1939#409\n\n STEPHEN \n\nAh non, par exemple! The intellectual imagination! With me all or not at all. ",
+    "suffix": " \n\n FLORRY \n\n Give him some cold water. Wait. (She rushes out.) \n\n1932#501\n\n THE MOTHER \n\n(Wrings her hands slowly, moaning desperately.) O Sacred Heart of Jesus, have mercy on him",
+    "start": 206795,
+    "end": 206807,
+    "canonical_text": "Non serviam!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15164920,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

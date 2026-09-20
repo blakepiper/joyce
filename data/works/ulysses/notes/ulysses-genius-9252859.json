@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9252859",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Lalouette’s",
+  "html_source": "<p>Lalouette’s was a contemporary Dublin provider of <a href=\"https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Telemachus/008\" rel=\"noopener nofollow\">funeral and mortuary services</a>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9252859/James-joyce-ulysses-chap-1-telemachus/Lalouettes",
+    "original_id": "9252859",
+    "referent_id": 9252859,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Lalouette's",
+    "prefix": "e and picks buttercups off the quilt. Humour her till it's over. You crossed her last wish in death and yet you sulk with me because I don't whinge like some hired mute1986#7 from ",
+    "suffix": ". Absurd! I suppose I did say it. I didn't mean to offend the memory of your mother. \n\n He had spoken himself into boldness. Stephen, shielding the gaping wounds which the words ha",
+    "start": 12609,
+    "end": 12620,
+    "canonical_text": "Lalouette's"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9252859,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

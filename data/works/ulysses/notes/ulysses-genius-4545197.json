@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4545197",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Because mine was the 8th",
+  "html_source": "<p>Molly’s birthday is September 8, 1870. <em>Ulysses</em> takes place on June 16, 1904, putting Molly a couple of months off her 34th birthday.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4545197/James-joyce-ulysses-chap-18-penelope/Because-mine-was-the-8th",
+    "original_id": "4545197",
+    "referent_id": 4545197,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "because mine was the 8th",
+    "prefix": "n seeing it too young then writing a letter every morning sometimes twice a day I liked the way he made love then he knew the way to take a woman when he sent me the 8 big poppies ",
+    "suffix": " then I wrote the night he kissed my heart at Dolphins barn I couldnt describe it simply it makes you feel like nothing on earth but he never knew how to embrace well like Gardner ",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.68
+  },
+  "genius": {
+    "referent_id": 4545197,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.7391304347826088
+      },
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.2608695652173913
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

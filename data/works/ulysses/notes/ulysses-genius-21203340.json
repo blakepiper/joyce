@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21203340",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "The Featherbed Mountain",
+  "html_source": "<p>The Wicklow Mountains, which are south of Dublin.</p><p><a href=\"http://www.joyceproject.com/notes/010010mountains.htm\" rel=\"noopener nofollow\">http://www.joyceproject.com/notes/010010mountains.htm</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21203340/James-joyce-ulysses-chap-10-wandering-rocks/The-featherbed-mountain",
+    "original_id": "21203340",
+    "referent_id": 21203340,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "the Featherbed Mountain",
+    "prefix": " a midnight lunch too after all the jollification and when we sallied forth it was blue o'clock the morning after the night before. Coming home it was a gorgeous winter's night on ",
+    "suffix": ". Bloom and Chris Callinan were on one side of the car and I was with the wife on the other. We started singing glees and duets: Lo, the early beam of morning. She was well primed ",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.6
+  },
+  "genius": {
+    "referent_id": 21203340,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

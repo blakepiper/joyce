@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10733282",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Church of the Three Patrons, Rathgar",
+  "html_source": "<p><a href=\"http://www.rathgarparish.ie/parish-churches/the-church-of-the-three-patrons/\" rel=\"noopener nofollow\">http://www.rathgarparish.ie/parish-churches/the-church-of-the-three-patrons/</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10733282/James-joyce-ulysses-chap-17-ithaca/Church-of-the-three-patrons-rathgar",
+    "original_id": "10733282",
+    "referent_id": 10733282,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "church of the Three Patrons, Rathgar",
+    "prefix": "cholas Without, Coombe, by James O'Connor, Philip Gilligan and James Fitzpatrick, together, under a pump in the village of Swords, and by the reverend Charles Malone C. C., in the ",
+    "suffix": ". Stephen (once) by the reverend Charles Malone C. C., alone, in the church of the Three Patrons, Rathgar. \n\n Did they find their educational careers similar? \n\n Substituting Steph",
+    "start": 35569,
+    "end": 35605,
+    "canonical_text": "church of the Three Patrons, Rathgar"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 10733282,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

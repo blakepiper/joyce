@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8770199",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Ulster Hall, Belfast",
+  "html_source": "<p>Built in 1862, the Ulster Hall has an illustrious past. In its first 50 years it played host to Charles Dickens, Ellen Terry, Lord Randolph Churchill and Caruso.</p><p><img src=\"https://images.rapgenius.com/5bd9c6cb3d08330d30bd515323bf3932.740x555x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8770199/James-joyce-ulysses-chap-5-lotus-eaters/Ulster-hall-belfast",
+    "original_id": "8770199",
+    "referent_id": 8770199,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Ulster Hall, Belfast",
+    "prefix": "the way no harm. I'm off that, thanks. \n\n Mr Bloom turned his largelidded eyes with unhasty friendliness. \n\n — My wife too, he said. She's going to sing at a swagger affair in the ",
+    "suffix": ", on the twenty-fifth. \n\n — That so? M'Coy said. Glad to hear that, old man. Who's getting it up? \n\n Mrs Marion Bloom. Not up yet. Queen was in her bedroom eating bread and. No boo",
+    "start": 9470,
+    "end": 9490,
+    "canonical_text": "Ulster Hall, Belfast"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8770199,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

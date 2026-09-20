@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15141414",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Opoponax",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Opopanax\" rel=\"noopener nofollow\">Opoponax</a> refers to sweet myrrh, a mix of gum resins thought to have medicinal properties</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15141414/James-joyce-ulysses-chap-13-nausicaa/Opoponax",
+    "original_id": "15141414",
+    "referent_id": 15141414,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "opoponax",
+    "prefix": "o think of me when I'm far away on the pillow. What is it? Heliotrope? No. Hyacinth? Hm. Roses, I think. She'd like scent of that kind. Sweet and cheap: soon sour. Why Molly likes ",
+    "suffix": ". Suits her, with a little jessamine mixed. Her high notes and her low notes. At the dance night she met him, dance of the hours. Heat 1932#338brought it out. She was wearing her b",
+    "start": 71348,
+    "end": 71356,
+    "canonical_text": "opoponax"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15141414,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

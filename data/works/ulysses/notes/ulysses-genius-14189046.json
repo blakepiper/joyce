@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-14189046",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Fades photo",
+  "html_source": "<p>“faded photo” misprint</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/14189046/James-joyce-ulysses-chap-16-eumaeus/Fades-photo",
+    "original_id": "14189046",
+    "referent_id": 14189046,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "fades photo",
+    "prefix": "et library book out of date, he took out his pocketbook and, turning over the various contents rapidly, finally he.\n\n—Do you consider, by the by, he said, thoughtfully selecting a ",
+    "suffix": " which he laid on the table, that a Spanish type?\n\nStephen, obviously addressed, looked down on the photo showing a large sized lady, with her fleshy charms on evidence in an open ",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.4545
+  },
+  "genius": {
+    "referent_id": 14189046,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

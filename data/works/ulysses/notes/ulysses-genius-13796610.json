@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13796610",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Averred",
+  "html_source": "<p>to assert or affirm with confidence; declare in a positive or peremptory manner.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13796610/James-joyce-ulysses-chap-14-oxen-of-the-sun/Averred",
+    "original_id": "13796610",
+    "referent_id": 13796610,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "averred",
+    "prefix": "ch sort deliverly he scaped their questions. That is truth, pardy, said Dixon, and, or I err, a pregnant word. 1986#319Which hearing young Stephen was a marvellous glad man and he ",
+    "suffix": " that he who stealeth from the poor lendeth 1922#372to the Lord for he was of a wild manner when he was drunken and that he was now in that taking it appeared eftsoons. \n\n But sir ",
+    "start": 18545,
+    "end": 18552,
+    "canonical_text": "averred"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13796610,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

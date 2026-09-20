@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4009322",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Ladylike in exquisite contrast.",
+  "html_source": "<p>This involves wordplay or a pun on an earlier sentence:</p><p><em>Ladylike in exquisite contrast.</em></p><p>reads as inexquisite in response to <em>Exquisite contrast, miss Kennedy said</em> earlier in the episode.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4009322/James-joyce-ulysses-chap-11-sirens/Ladylike-in-exquisite-contrast",
+    "original_id": "4009322",
+    "referent_id": 4009322,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Ladylike in exquisite contrast.",
+    "prefix": ". \n\n1922#247\n\n Bloom. \n\n On her flower frowning Miss Douce said: \n\n — Most aggravating that young brat is. If he doesn't conduct himself I'll wring his ear for him a yard long. \n\n ",
+    "suffix": " \n\n — Take no notice, Miss Kennedy rejoined. \n\n She poured in a teacup tea, then back in the teapot tea. They cowered under their reef of counter, waiting on footstools, crates upt",
+    "start": 4585,
+    "end": 4616,
+    "canonical_text": "Ladylike in exquisite contrast."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4009322,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23704732",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Aelic league spy, sent by that fireeater",
+  "html_source": "<p>Bloom suspects that the man in the sombrero is a spy commissioned by the Citizen.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23704732/James-joyce-ulysses-chap-15-circe/Aelic-league-spy-sent-by-that-fireeater",
+    "original_id": "23704732",
+    "referent_id": 23704732,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "aelic league spy, sent by that fireeater",
+    "prefix": "ches, señorita Blanca, que calle es esta? \n\n THE FIGURE \n\n (Impassive, raises a signal arm.) Password. Sraid Mabbot. \n\n BLOOM \n\n Haha. Merci. Esperanto. Slan leath. (He mutters.) G",
+    "suffix": ". \n\n(He steps forward. A sackshouldered ragman bars his path. He steps left, ragsackman left.) \n\n BLOOM \n\n I beg. \n\n (He swerves, sidles, stepaside, slips past and on.) \n\n1986#356\n",
+    "start": 10622,
+    "end": 10662,
+    "canonical_text": "aelic league spy, sent by that fireeater"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23704732,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

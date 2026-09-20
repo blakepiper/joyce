@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4877527",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "A shrew, John Eglinton said shrewdly,",
+  "html_source": "<p>The <a href=\"https://genius.com/3451132/James-joyce-ulysses-chap-9-scylla-and-charybdis/Portals-of-discovery-opened-to-let-in-the\" rel=\"noopener nofollow\">“gentle denunciation”</a> of the characters continues as the repetition of “shrew” in “shrewdly” is obviously poking fun at John Eglinton.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4877527/James-joyce-ulysses-chap-9-scylla-and-charybdis/A-shrew-john-eglinton-said-shrewdly",
+    "original_id": "4877527",
+    "referent_id": 4877527,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "A shrew, John Eglinton said shrewdly,",
+    "prefix": "stakes. His errors are volitional and are the portals of discovery. \n\n Portals of discovery opened to let in the quaker librarian, softcreakfooted, bald, eared and assiduous. \n\n — ",
+    "suffix": " is not a useful portal of discovery, one should imagine. What useful discovery did Socrates learn from Xanthippe? \n\n1922#182\n\n — Dialectic, Stephen answered: and from his mother h",
+    "start": 12821,
+    "end": 12858,
+    "canonical_text": "A shrew, John Eglinton said shrewdly,"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4877527,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1482232,
+        "login": "JayEn",
+        "name": "JayEn",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

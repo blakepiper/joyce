@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15169525",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Leucodermic",
+  "html_source": "<p><a href=\"https://en.wiktionary.org/wiki/leucodermic\" rel=\"noopener nofollow\">Leucodermic</a> literally means “white-skinned”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15169525/James-joyce-ulysses-chap-17-ithaca/Leucodermic",
+    "original_id": "15169525",
+    "referent_id": 15169525,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "leucodermic",
+    "prefix": "quasisensations of concealed identities? \n\n Visually, Stephen's: The traditional figure of hypostasis, depicted by Johannes Damascenus, Lentulus Romanus and Epiphanius Monachus as ",
+    "suffix": ", sesquipedalian with winedark hair. \n\n Auditively, Bloom's: The traditional accent of the ecstasy of catastrophe. \n\n1961#689\n\n What future careers had been possible for Bloom in t",
+    "start": 50512,
+    "end": 50523,
+    "canonical_text": "leucodermic"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15169525,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8972102",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "George the elector",
+  "html_source": "<p>George I, in full George Louis, German Georg Ludwig (born May 28, 1660, Osnabrück, Hanover [Germany]—died June 11, 1727, Osnabrück), elector of Hanover (1698–1727) and first Hanoverian king of Great Britain (1714–27).<br /><a href=\"http://www.britannica.com/biography/George-I-king-of-Great-Britain\" rel=\"noopener nofollow\">http://www.britannica.com/biography/George-I-king-of-Great-Britain</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8972102/James-joyce-ulysses-chap-12-cyclops/George-the-elector",
+    "original_id": "8972102",
+    "referent_id": 8972102,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "George the elector",
+    "prefix": "s Français, says Lenehan, nobbling his beer. \n\n — And as for the Prooshians and the Hanoverians, says Joe, haven't we had enough of those sausageeating bastards on the throne from ",
+    "suffix": " down to the German lad and the flatulent old bitch that's dead? \n\n Jesus, I had to laugh at the way he came out with that about the old one with the winkers on her, blind drunk in",
+    "start": 89320,
+    "end": 89338,
+    "canonical_text": "George the elector"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8972102,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

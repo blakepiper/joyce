@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8460983",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "The little house",
+  "html_source": "<p>“The little house” was a building nextdoor for the lower grades. The photo is of the college today.</p><p><img src=\"https://images.rapgenius.com/3beff4391b2105ee2236ba6afa9f90e1.640x480x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8460983/James-joyce-ulysses-chap-10-wandering-rocks/The-little-house",
+    "original_id": "8460983",
+    "referent_id": 8460983,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "The little house",
+    "prefix": "\n\n O, lest he forget. That letter to father provincial. \n\n1939#161\n\n Father Conmee stopped three little schoolboys at the corner of Mountjoy square. Yes: they were from Belvedere. ",
+    "suffix": ". Aha. And were they good boys at school? O. That was very good now. And what was his name? Jack Sohan. And his name? Ger. Gallaher. And the other little man? His name was Brunny L",
+    "start": 2677,
+    "end": 2693,
+    "canonical_text": "The little house"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8460983,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

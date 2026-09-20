@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11163721",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Beerbohm Tree",
+  "html_source": "<p><a href=\"https://www.britannica.com/biography/Herbert-Draper-Beerbohm-Tree\" rel=\"noopener nofollow\">https://www.britannica.com/biography/Herbert-Draper-Beerbohm-Tree</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11163721/James-joyce-ulysses-chap-18-penelope/Beerbohm-tree",
+    "original_id": "11163721",
+    "referent_id": 11163721,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Beerbohm Tree",
+    "prefix": " her skirt with the pleats a lot of that touching must go on in theatres in the crush in the dark theyre always trying to wiggle up to you that fellow in the pit at the Gaiety for ",
+    "suffix": " in Trilby the last time Ill ever go there to be squashed like that for any Trilby or her barebum every two minutes tipping me there and looking away hes a bit daft I think I saw h",
+    "start": 77415,
+    "end": 77428,
+    "canonical_text": "Beerbohm Tree"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11163721,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

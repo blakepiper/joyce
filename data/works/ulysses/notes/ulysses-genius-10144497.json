@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10144497",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Joe Chamberlain?",
+  "html_source": "<p>Joseph Chamberlain, (born July 8, 1836, London, Eng.—died July 2, 1914, London) British businessman, social reformer, radical politician, and ardent imperialist.<br /><a href=\"https://www.britannica.com/biography/Joseph-Chamberlain\" rel=\"noopener nofollow\">https://www.britannica.com/biography/Joseph-Chamberlain</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10144497/James-joyce-ulysses-chap-15-circe/Joe-chamberlain",
+    "original_id": "10144497",
+    "referent_id": 10144497,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Joe Chamberlain?",
+    "prefix": "olitan police, guardians of our homes, the pluckiest lads and the finest body of men, as physique, in the service of our sovereign. \n\n A VOICE \n\n Turncoat! Up the Boers! Who booed ",
+    "suffix": " \n\n BLOOM \n\n(His hand on the shoulder of the first watch.) My old dad too was a J. P. I'm as staunch a Britisher as you are, sir. I fought with the colours for king and country in ",
+    "start": 38453,
+    "end": 38469,
+    "canonical_text": "Joe Chamberlain?"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10144497,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8370516",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": ". Eyes front. Mark time. Table: able. Bed: ed",
+  "html_source": "<p>For Joyce, soldiers are also Lotus Eaters. There is no need to think in the army, soldiers are always obedient to the commands.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8370516/James-joyce-ulysses-chap-5-lotus-eaters/Eyes-front-mark-time-table-able-bed-ed",
+    "original_id": "8370516",
+    "referent_id": 8370516,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": ". Eyes front. Mark time. Table: able. Bed: ed",
+    "prefix": " to our Irish capital. Griffith's paper is 1961#72on the same tack now: an army rotten with venereal disease: overseas or halfseasover empire. Half baked they look: hypnotised like",
+    "suffix": ". The King's own. Never see him dressed up as a fireman or a bobby. A mason, yes. \n\n He strolled out of the postoffice and turned to the right. Talk: as if that would mend matters.",
+    "start": 5024,
+    "end": 5069,
+    "canonical_text": ". Eyes front. Mark time. Table: able. Bed: ed"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8370516,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2598909,
+        "login": "Gnomikus",
+        "name": "Gnomikus",
+        "role": null,
+        "attribution": 0.9565217391304348
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.043478260869565216
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5117737",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Froeken",
+  "html_source": "<p>Froeken or fröken, Swedish for ‘Miss’.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5117737/James-joyce-ulysses-chap-3-proteus/Froeken",
+    "original_id": "5117737",
+    "referent_id": 5117737,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "froeken",
+    "prefix": "ria? Old hag with the yellow teeth. Vieille ogresse with the dents jaunes. Maud Gonne, beautiful woman, La Patrie, M. Millevoye, Félix Faure, know how he died? Licentious men. The ",
+    "suffix": ", bonne à tout faire, who rubs male nakedness in the bath at Upsala. Moi faire, she said, tous les messieurs. Not this monsieur, I said. Most licentious custom. Bath a most private",
+    "start": 14631,
+    "end": 14638,
+    "canonical_text": "froeken"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5117737,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1618748,
+        "login": "Kataryna",
+        "name": "Kataryna",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

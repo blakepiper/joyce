@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9210745",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Loaves and fishes",
+  "html_source": "<p>Luke 9:16  King James Bible<br />Then he took the five loaves and the two fishes, and looking up to heaven, he blessed them, and brake, and gave to the disciples to set before the multitude.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9210745/James-joyce-ulysses-chap-14-oxen-of-the-sun/Loaves-and-fishes",
+    "original_id": "9210745",
+    "referent_id": 9210745,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "loaves and fishes",
+    "prefix": "riend, overjoyed as he was at a passage that had befallen him, could not forbear to tell it his nearest neighbour. Mr Mulligan, now perceiving the table, asked for whom were those ",
+    "suffix": " and, seeing the stranger, he made him a civil 1939#290bow and said, Pray, sir, was you in need of any professional assistance we could give? Who, upon his offer, thanked him very ",
+    "start": 51822,
+    "end": 51839,
+    "canonical_text": "loaves and fishes"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9210745,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

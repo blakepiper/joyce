@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20499060",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Broken hearts",
+  "html_source": "<p>Another of many references to broken hearts in this chapter. Mr Power seems to be making a broad observation, but Mr Dedalus' mind goes immediately to the recent death of his wife, Stephen’s mother, Mary Dedalus, who is buried in Glasnevin.</p><p>Simon Dedalus may be thinking of his own broken heart, or perhaps, that his mistreatment of Mary broke her heart.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20499060/James-joyce-ulysses-chap-6-hades/Broken-hearts",
+    "original_id": "20499060",
+    "referent_id": 20499060,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "broken hearts",
+    "prefix": "r Power's soft eyes went up to the apex of the lofty cone. \n\n1961#104\n\n — He's at rest, he said, in the middle of his people, old Dan O'. But his heart is buried in Rome. How many ",
+    "suffix": " are buried here, Simon! \n\n — Her grave is over there, Jack, Mr Dedalus said. I'll soon be stretched beside her. Let Him take me whenever He likes. \n\n Breaking down, he began to we",
+    "start": 38620,
+    "end": 38633,
+    "canonical_text": "broken hearts"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20499060,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8640346",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "I have it",
+  "html_source": "<p>Archimedes is famous for his exclamation, “Eureka!”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8640346/James-joyce-ulysses-chap-13-nausicaa/I-have-it",
+    "original_id": "8640346",
+    "referent_id": 8640346,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "I have it",
+    "prefix": " can't be tourists' matches. What? Perhaps the sticks dry rub together in the 1922#360wind and light. Or broken bottles in the furze act as a burning glass in the sun. Archimedes. ",
+    "suffix": "! My memory's not so bad. \n\n Ba. Who knows what they're always flying for. Insects? That bee last week got into the room playing with his shadow on the ceiling. Might be the one bi",
+    "start": 80781,
+    "end": 80790,
+    "canonical_text": "I have it"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8640346,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

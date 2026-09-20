@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10580079",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Hokypoky penny a lump.",
+  "html_source": "<p>‘Hokey-pokey’ was an American term for ice-cream, and particularly for cheap, inferior brands often sold on the streets by Italian vendors.</p><p>Possibly a corruption of “hoc est enim” from the phrase “hoc est enim corpus meum” (For this is my Body).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10580079/James-joyce-ulysses-chap-5-lotus-eaters/Hokypoky-penny-a-lump",
+    "original_id": "10580079",
+    "referent_id": 10580079,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Hokypoky penny a lump.",
+    "prefix": "w I bet it makes them feel happy. Lollipop. It does. Yes, bread of angels it's called. There's a big idea behind it, kind of kingdom of God is within you feel. First communicants. ",
+    "suffix": " Then feel all like one 1932#71family party, same in the theatre, all in the same swim. They do. I'm sure of that. Not so lonely. In our confraternity. Then come out a bit spreeish",
+    "start": 22642,
+    "end": 22664,
+    "canonical_text": "Hokypoky penny a lump."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10580079,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

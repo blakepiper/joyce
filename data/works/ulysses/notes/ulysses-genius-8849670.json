@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8849670",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Dumas père",
+  "html_source": "<p>Alexandre Dumas, père, (1802-1870), prolific French playwright, historian, and author is best known today for his novel The Three Musketeers (1844);</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8849670/James-joyce-ulysses-chap-9-scylla-and-charybdis/Dumas-pere",
+    "original_id": "8849670",
+    "referent_id": 8849670,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Dumas père",
+    "prefix": "lligan clucked lewdly. O word of fear! \n\n Dark dome received, reverbed. \n\n — And what a character is Iago! undaunted John Eglinton exclaimed. When all is said Dumas fils (or is it ",
+    "suffix": "?) is right. After God Shakespeare has created most. \n\n — Man delights him not nor woman neither, Stephen said. 1961#212He returns after a life of absence to that spot of earth whe",
+    "start": 59634,
+    "end": 59644,
+    "canonical_text": "Dumas père"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8849670,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

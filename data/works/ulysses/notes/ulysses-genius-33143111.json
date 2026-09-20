@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33143111",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "A",
+  "html_source": "<p>Can’t figure this out – may God sort that one out ? or God will be the judge of that!  Dunno</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33143111/James-joyce-ulysses-chap-14-oxen-of-the-sun/A",
+    "original_id": "33143111",
+    "referent_id": 33143111,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "A",
+    "prefix": "ynch were in doubt that the world was now right evil governed as it was never other howbeit the mean people believed it otherwise but the law nor his judges did provide no remedy. ",
+    "suffix": " redress God grant. This was scant said but all cried with one 1986#318acclaim nay, by our Virgin Mother, the wife should live and the babe to die. In colour whereof they waxed hot",
+    "start": 15053,
+    "end": 15054,
+    "canonical_text": "A"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.971
+  },
+  "genius": {
+    "referent_id": 33143111,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

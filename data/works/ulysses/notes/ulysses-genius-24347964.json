@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-24347964",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Tommy Caffrey",
+  "html_source": "<p>Tommy (and his brother Jackie) were also playing on the beach in the Nausicaa episode. There they seemed much younger and more sheltered than they do here</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/24347964/James-joyce-ulysses-chap-15-circe/Tommy-caffrey",
+    "original_id": "24347964",
+    "referent_id": 24347964,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Tommy Caffrey",
+    "prefix": "rt, the left being higher.) \n\n1986#353\n\n LYNCH \n\n Which is the jug of bread? It skills not. That or the customhouse. Illustrate thou. Here take your crutch and walk. \n\n(They pass. ",
+    "suffix": " scrambles to a gaslamp and, clasping, climbs in spasms. From the top spur he slides down. Jacky Caffrey clasps to climb. The navvy lurches against the lamp. The twins scuttle off ",
+    "start": 5890,
+    "end": 5903,
+    "canonical_text": "Tommy Caffrey"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 24347964,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9699081,
+        "login": "AntoineBoisvert",
+        "name": "AntoineBoisvert",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

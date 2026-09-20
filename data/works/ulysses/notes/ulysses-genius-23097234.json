@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23097234",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Eyebrowleine",
+  "html_source": "<p>Eye liner.</p><p>.</p><p><img src=\"https://images.genius.com/190cccb6dea5aa58f1610236f2502163.297x495x1.png\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23097234/James-joyce-ulysses-chap-13-nausicaa/Eyebrowleine",
+    "original_id": "23097234",
+    "referent_id": 23097234,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "eyebrowleine",
+    "prefix": "e was when those brows were not so silkily seductive. It was Madame Vera Verity, directress of the Woman Beautiful page of the Princess Novelette, who had first advised her to try ",
+    "suffix": " which gave that haunting expression to the eyes, so becoming in leaders of fashion, and she had never regretted it. Then there was blushing scientifically cured and how to be tall",
+    "start": 7404,
+    "end": 7416,
+    "canonical_text": "eyebrowleine"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 23097234,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

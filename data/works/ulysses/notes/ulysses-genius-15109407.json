@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15109407",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Punnets",
+  "html_source": "<p>Small baskets used to hold produce such as berries; etym. thought to be diminutive of “pun”, from “pound”.</p><p><img src=\"https://images.genius.com/db3200e5f9b3a4024a700f9d509c680f.1000x750x1.jpg\" alt=\"\" /></p><p>Though you may assume, as I did, that the genetic diagramming technique known as a Punnett square derives its name from these baskets, it is in fact the eponymous device of geneticist <a href=\"https://en.wikipedia.org/wiki/Reginald_Punnett\" rel=\"noopener nofollow\">Reginald Crundall Punnett</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15109407/James-joyce-ulysses-chap-12-cyclops/Punnets",
+    "original_id": "15109407",
+    "referent_id": 15109407,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "punnets",
+    "prefix": "ans, strikes of tomatoes, drums of figs, drills 1939#214of Swedes, spherical potatoes and tallies of iridescent kale, York and Savoy, and trays of onions, pearls of the earth, and ",
+    "suffix": " of mushrooms and custard marrows and fat vetches and bere and rape and red green yellow brown russet sweet big bitter ripe pomellated apples and chips of strawberries and sieves o",
+    "start": 6320,
+    "end": 6327,
+    "canonical_text": "punnets"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15109407,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

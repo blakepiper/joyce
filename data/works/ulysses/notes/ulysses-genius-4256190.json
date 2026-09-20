@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4256190",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "We have grown out of Wilde and paradoxes",
+  "html_source": "<p>The times have grown out of Oscar Wilde, he is no longer in fashion.</p><p>The previous paradox mentioned being ‘the saying about Caliban’ seeing himself or not seeing himself in the mirror from the prelude to Dorian Grey</p><p>A selection of Wilde’s paradoxes:</p><blockquote><p>I can resist anything except temptation.</p><p>I have the simplest tastes.  I am always satisfied with the best.</p><p>Arguments are to be avoided; they are always vulgar and often convincing.</p></blockquote><p>Many have become popular idioms.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4256190/James-joyce-ulysses-chap-1-telemachus/We-have-grown-out-of-wilde-and-paradoxes",
+    "original_id": "4256190",
+    "referent_id": 4256190,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "We have grown out of Wilde and paradoxes",
+    "prefix": "939#15\n\n — It has waited so long, Stephen said listlessly, it can wait longer. \n\n — You pique my curiosity, Haines said amiably. Is it some paradox? \n\n — Pooh! Buck Mulligan said. ",
+    "suffix": ". It's quite simple. He proves by algebra that Hamlet's grandson is Shakespeare's grandfather and that he himself is the ghost of his own father. \n\n — What? Haines said, beginning ",
+    "start": 31065,
+    "end": 31105,
+    "canonical_text": "We have grown out of Wilde and paradoxes"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4256190,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 0.8974358974358974
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.10256410256410257
+      }
+    ]
+  },
+  "color": "F59627"
+}

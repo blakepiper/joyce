@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15136173",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Devoirs",
+  "html_source": "<p>Devoir is a French term meaning duty, debt, responsibility; it can also mean assignment or task. In this instance, it seems to work best to interpret the term as “what is owed”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15136173/James-joyce-ulysses-chap-13-nausicaa/Devoirs",
+    "original_id": "15136173",
+    "referent_id": 15136173,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "devoirs",
+    "prefix": "ave held her own beside any lady in the land and have seen herself exquisitely gowned with jewels on her brow and patrician suitors at her feet vying with one another to pay their ",
+    "suffix": " to 1922#333her. Mayhap it was this, the love that might have been, that lent to her softlyfeatured face at whiles a look, tense with suppressed meaning, that imparted a strange ye",
+    "start": 6830,
+    "end": 6837,
+    "canonical_text": "devoirs"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15136173,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

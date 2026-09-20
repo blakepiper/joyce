@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-2505659",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "He cried briskly",
+  "html_source": "<p>He cried in an energetic and lively voice. Usually used when happy to see someone whom you haven’t spoken to in a long time.</p><p>PROPOSED SUGGESTION: Briskness has more to do with being quick than being necessarily lively (although the two obviously go hand-in-hand).</p><p>Why would this way of speaking (which is hardly definable with any exactitude) “usually” be used when speaking to someone you haven’t spoken to for a long time? Why this above anything else? How is that relevant to this moment?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2505659/James-joyce-ulysses-chap-1-telemachus/He-cried-briskly",
+    "original_id": "2505659",
+    "referent_id": 2505659,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "he cried briskly",
+    "prefix": "hile in rapt attention, his even white teeth glistening here and there with gold points. Chrysostomos. Two strong shrill whistles answered through the calm. \n\n — Thanks, old chap, ",
+    "suffix": ". That will do nicely. Switch off the current, will you? \n\n1922#3\n\n He skipped off the gunrest and looked gravely at his watcher, gathering about his legs the loose folds of his go",
+    "start": 1583,
+    "end": 1599,
+    "canonical_text": "he cried briskly"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2505659,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.7078651685393258
+      },
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 0.2696629213483146
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.022471910112359553
+      }
+    ]
+  },
+  "color": "F59627"
+}

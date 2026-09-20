@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-7615940",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Unco guid",
+  "html_source": "<p>Scottish: rigidly righteous, narrow-minded.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7615940/James-joyce-ulysses-chap-9-scylla-and-charybdis/Unco-guid",
+    "original_id": "7615940",
+    "referent_id": 7615940,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "unco guid",
+    "prefix": "d say that only family poets have family lives. Falstaff was not a family man. I feel that the fat knight is his supreme creation. \n\n Lean, he lay back. Shy, deny thy kindred, the ",
+    "suffix": ". Shy, supping with the godless, he sneaks the cup. A sire in Ultonian Antrim bade it him. Visits him here on quarter days. Mr Magee, sir, there's a gentleman to see you. Me? Says ",
+    "start": 47134,
+    "end": 47143,
+    "canonical_text": "unco guid"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 7615940,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2082826,
+        "login": "Jmpetro",
+        "name": "Jmpetro",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

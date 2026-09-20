@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-34600863",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Hamlet she played last night. Male impersonator.",
+  "html_source": "<p>Millicent Bandmann-Palmer as Hamlet. <em>Source: Folger Shakespeare Library.</em></p><p><img src=\"https://images.genius.com/749d674ad9dc26fba24d6c6f1e3a2d8b.639x1000x1.jpg\" alt=\"Image description\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/34600863/James-joyce-ulysses-chap-5-lotus-eaters/Hamlet-she-played-last-night-male-impersonator",
+    "original_id": "34600863",
+    "referent_id": 34600863,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Hamlet she played last night. Male impersonator.",
+    "prefix": "hoardings. Cantrell and Cochrane's Ginger Ale (Aromatic). Clery's Summer Sale. No, he's going on straight. Hello. Leah tonight. Mrs Bandmann Palmer. Like to see her again in that. ",
+    "suffix": " Perhaps he was a woman. Why Ophelia committed suicide. Poor papa! How he used to talk of Kate Bateman in that. Outside the Adelphi in London waited all the afternoon to get in. Ye",
+    "start": 11945,
+    "end": 11993,
+    "canonical_text": "Hamlet she played last night. Male impersonator."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 34600863,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

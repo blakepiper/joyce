@@ -1,0 +1,70 @@
+{
+  "id": "ulysses-genius-1467320",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Introibo ad altare Dei.",
+  "html_source": "<p>Latin for:</p><p>“I will go up to the altar of God.” – from <a href=\"https://genius.com/4603832\" rel=\"noopener nofollow\">Psalms 43:4</a></p><p>The line makes explicit that <a href=\"https://genius.com/1685453\" rel=\"noopener nofollow\">the opening scene</a> is a parody of Roman Catholic mass.</p><p>Also hints at a parody of ‘the Odyssey’ which, as epics conventionally did, opens with an invocation of the Muse, the daughter of Zeus.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1467320/James-joyce-ulysses-chap-1-telemachus/Introibo-ad-altare-dei",
+    "original_id": "1467320",
+    "referent_id": 1467320,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Introibo ad altare Dei.",
+    "prefix": "ther on which a mirror and a razor lay crossed. A yellow dressinggown, ungirdled, was sustained gently behind him by the mild morning air. He held the bowl aloft and intoned: \n\n — ",
+    "suffix": " \n\n Halted, he peered down the dark winding stairs and called up coarsely: \n\n — Come up, Kinch! Come up, you fearful jesuit. \n\n Solemnly he came forward and mounted the round gunre",
+    "start": 268,
+    "end": 291,
+    "canonical_text": "Introibo ad altare Dei."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1467320,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 210669,
+        "login": "murphyjos",
+        "name": "murphyjos",
+        "role": null,
+        "attribution": 0.33898305084745767
+      },
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 0.2542372881355932
+      },
+      {
+        "id": 113876,
+        "login": "Lucky_Desperado",
+        "name": "Dr. Jeremy Dean",
+        "role": "editor",
+        "attribution": 0.22033898305084748
+      },
+      {
+        "id": 68632,
+        "login": "SvenTheVegabond",
+        "name": "SvenTheVegabond",
+        "role": "contributor",
+        "attribution": 0.11864406779661017
+      },
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.06779661016949153
+      }
+    ]
+  },
+  "color": "F59627"
+}

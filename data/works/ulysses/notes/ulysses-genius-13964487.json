@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13964487",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Gentry mort",
+  "html_source": "<p>gentry mort (plural gentry morts)<br />(obsolete, Britain, thieves' cant) A gentlewoman; a lady.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13964487/James-joyce-ulysses-chap-14-oxen-of-the-sun/Gentry-mort",
+    "original_id": "13964487",
+    "referent_id": 13964487,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "gentry mort",
+    "prefix": "hat? Leg before wicket. Don't stain my brandnew sitinems. Give's a shake of pepper, you there. Catch aholt. Caraway seed to carry away. Twig? Shrieks of silence. Every cove to his ",
+    "suffix": ". Venus Pandemos. Les petites femmes. Bold bad girl from the town of Mullingar. Tell her I was axing at her. Hauding Sara by the wame. On the road to Malahide. Me? 1961#425If she w",
+    "start": 108402,
+    "end": 108413,
+    "canonical_text": "gentry mort"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13964487,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

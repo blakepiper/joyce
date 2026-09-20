@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10865524",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Incuneate",
+  "html_source": "<p>incuneate is not an English word, but cuneate is an adjective meaning wedge-shaped</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10865524/James-joyce-ulysses-chap-17-ithaca/Incuneate",
+    "original_id": "10865524",
+    "referent_id": 10865524,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "incuneate",
+    "prefix": " volumes? \n\n The necessity of order, a place for everything and everything in its place: the deficient appreciation of literature possessed by females: the incongruity of an apple ",
+    "suffix": "d in a tumbler and of an umbrella inclined in a closestool: the insecurity of hiding any secret document behind, beneath or between the pages of a book. \n\n Which volume was the lar",
+    "start": 89188,
+    "end": 89197,
+    "canonical_text": "incuneate"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10865524,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

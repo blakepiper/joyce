@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10618882",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Jans Pieter Sweelinck",
+  "html_source": "<p>Dutch organist and composer ( 1562 – 1621)<br /><a href=\"https://www.youtube.com/watch?v=mSxoD_aDQpE\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=mSxoD_aDQpE</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10618882/James-joyce-ulysses-chap-16-eumaeus/Jans-pieter-sweelinck",
+    "original_id": "10618882",
+    "referent_id": 10618882,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Jans Pieter Sweelinck",
+    "prefix": " such as Lady Fingall's Irish industries concert on the preceding Monday, and aristocracy in general. \n\n Exquisite variations he was now describing on an air Youth here has End by ",
+    "suffix": ", a Dutchman of Amsterdam where the frows come from. Even more he liked an old German song of Johannes Jeep about the clear sea and the voices of sirens, sweet murderers of men, wh",
+    "start": 125307,
+    "end": 125328,
+    "canonical_text": "Jans Pieter Sweelinck"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10618882,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

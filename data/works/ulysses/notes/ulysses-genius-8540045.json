@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8540045",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Souse",
+  "html_source": "<p>Souse, as a noun, can mean “a liquid used in pickling, especially the head, <em>ears</em>, and feet of a pig.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8540045/James-joyce-ulysses-chap-11-sirens/Souse",
+    "original_id": "8540045",
+    "referent_id": 8540045,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Souse",
+    "prefix": "h, why? Her eyes over the sheet, a yashmak. Find the way in. A cave. No admittance except on business. \n\n1939#205\n\n The sea they think they hear. Singing. A roar. The blood it is. ",
+    "suffix": " in the ear sometimes. Well, it's a sea. Corpuscle islands. \n\n1932#253\n\n Wonderful really. So distinct. Again. George Lidwell held its murmur, hearing: then laid it by, gently. \n\n ",
+    "start": 52827,
+    "end": 52832,
+    "canonical_text": "Souse"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8540045,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

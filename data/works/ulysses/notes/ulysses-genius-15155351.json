@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15155351",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "The loaf and jug of bread and wine in Omar",
+  "html_source": "<p>A famous line from the <a href=\"https://en.wikipedia.org/wiki/Rubaiyat_of_Omar_Khayyam\" rel=\"noopener nofollow\">Rubaiyat of Omar Kayyam</a> (1048-1131), a book of Persian poetry translated into English by Edward FitzGerald in 1849/1889:</p><p>“A Book of Verses underneath the Bough,<br />A Jug of Wine, a Loaf of Bread—and Thou<br />Beside me singing in the Wilderness—<br />Oh, Wilderness were Paradise enow!”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15155351/James-joyce-ulysses-chap-15-circe/The-loaf-and-jug-of-bread-and-wine-in-omar",
+    "original_id": "15155351",
+    "referent_id": 15155351,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "the loaf and jug of bread and wine in Omar",
+    "prefix": "ed and mounted by a light of love. 1922#411\n\n LYNCH \n\n Ba! \n\n1932#3901961#432\n\n STEPHEN \n\n Anyway, who wants two gestures to illustrate a loaf and a jug? This movement illustrates ",
+    "suffix": " Hold my stick. \n\n LYNCH \n\n Damn your yellow stick. Where are we going? \n\n STEPHEN \n\n Lecherous lynx, to la belle dame sans merci, Georgina Johnson, ad deam qui laetificat iuventut",
+    "start": 5284,
+    "end": 5326,
+    "canonical_text": "the loaf and jug of bread or wine in Omar."
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9286
+  },
+  "genius": {
+    "referent_id": 15155351,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8481684",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Nothing new under the sun",
+  "html_source": "<p>Ecclesiastes 1:9</p><p>What has been will be again, what has been done will be done again; there is nothing new under the sun.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8481684/James-joyce-ulysses-chap-13-nausicaa/Nothing-new-under-the-sun",
+    "original_id": "8481684",
+    "referent_id": 8481684,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Nothing new under the sun",
+    "prefix": " me. My youth. Never again. Only once it comes. 1922#359Or hers. Take the train there tomorrow. No. Returning not the same. Like kids your second visit to a house. The new I want. ",
+    "suffix": ". Care of P. O. Dolphin's Barn. Are you not happy in your? 1986#308Naughty darling. At Dolphin's barn charades in Luke Doyle's house. Mat Dillon and his bevy of daughters: Tiny, At",
+    "start": 78031,
+    "end": 78056,
+    "canonical_text": "Nothing new under the sun"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8481684,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2672743,
+        "login": "thanphongvt",
+        "name": "thanphongvt",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

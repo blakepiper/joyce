@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-9890377",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Glencree reformatory",
+  "html_source": "<p>In the 1850s, after the Great Irish Famine, the building (Glencree Barracks) was re-opened as “St Kevin’s Reformatory'” and it was run by the Oblates of Mary Immaculate. Young boys were sent here instead of prison for petty crimes. It was closed in 1940<br /><a href=\"http://www.wicklowway.com/towns-villages/glencree.php\" rel=\"noopener nofollow\">http://www.wicklowway.com/towns-villages/glencree.php</a></p><p>It is now a centre for <a href=\"http://glencree.ie/visitor-centre/\" rel=\"noopener nofollow\">peace</a>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9890377/James-joyce-ulysses-chap-15-circe/Glencree-reformatory",
+    "original_id": "9890377",
+    "referent_id": 9890377,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Glencree reformatory",
+    "prefix": "grocer's peas. He wears a hairshirt of pure Irish manufacture winter and summer and scourges himself every Saturday. He was, I understand, at one time a firstclass misdemeanant in ",
+    "suffix": ". Another report states that he was a very posthumous child. I appeal for clemency in the name of the most sacred word our vocal organs have ever been called upon to speak. He is a",
+    "start": 90376,
+    "end": 90396,
+    "canonical_text": "Glencree reformatory"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9890377,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.9135802469135803
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.08641975308641975
+      }
+    ]
+  },
+  "color": "F59627"
+}

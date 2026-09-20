@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15153802",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Accouchement",
+  "html_source": "<p><a href=\"https://en.wiktionary.org/wiki/accouchement\" rel=\"noopener nofollow\">Accouchement</a> is a French word referring to childbirth/parturition (and not, as Pen. 20 c. Classics Annotated Students' Edition has it, a period spent in bed).</p><p>Etym. First attested in 1803. Borrowed from French accoucher (“to be delivered of a child, to aid in delivery”), from Old French acouchier (“to lay down, put to bed, go to bed”), from Latin ad + collocare (“to lay, put, place”). See collate.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15153802/James-joyce-ulysses-chap-14-oxen-of-the-sun/Accouchement",
+    "original_id": "15153802",
+    "referent_id": 15153802,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "accouchement",
+    "prefix": " interlocutor, none the less effective for the moderate and measured tone in which it was delivered. \n\n Meanwhile the skill and patience of the physician had brought about a happy ",
+    "suffix": ". It had been a weary weary while both for patient and doctor. All that surgical skill could do was done and the brave woman had manfully helped. She had. She had fought the good f",
+    "start": 95190,
+    "end": 95202,
+    "canonical_text": "accouchement"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15153802,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8574268",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "The Lamplighter",
+  "html_source": "<p>The Lamplighter is a sentimental novel written by Maria Susanna Cummins and published in 1854, and a best-selling novel of its era.<br /><a href=\"https://en.wikipedia.org/wiki/The_Lamplighter\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/The_Lamplighter</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8574268/James-joyce-ulysses-chap-13-nausicaa/The-lamplighter",
+    "original_id": "8574268",
+    "referent_id": 8574268,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "The Lamplighter",
+    "prefix": "rounds and along by shady Tritonville avenue where the couples walked and lighting the lamp near her window where Reggy Wylie used to turn his freewheel like she read in that book ",
+    "suffix": " by Miss Cummins, author of Mabel Vaughan and other tales. For Gerty had her dreams that no-one knew 1961#363of. She loved to read poetry and when she got a keepsake from Bertha Su",
+    "start": 44427,
+    "end": 44442,
+    "canonical_text": "The Lamplighter"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8574268,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1520984,
+        "login": "RedSwanHotel",
+        "name": "RedSwanHotel",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

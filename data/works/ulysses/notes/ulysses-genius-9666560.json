@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9666560",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Kol Nidre",
+  "html_source": "<p>an Aramaic prayer annulling vows made before God, sung by Jews at the opening of the Day of Atonement service on the eve of Yom Kippur.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9666560/James-joyce-ulysses-chap-15-circe/Kol-nidre",
+    "original_id": "9666560",
+    "referent_id": 9666560,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Kol Nidre",
+    "prefix": "ndowsills, cornices, gutters, chimneypots, railings, rainspouts, whistling and cheering. The pillar of the cloud appears. A fife and drum band is heard in the distance playing the ",
+    "suffix": ". The beaters approach with imperial eagles hoisted, trailing banners and waving oriental palms. The chryselephantine papal standard rises high, surrounded by pennons of the civic ",
+    "start": 70474,
+    "end": 70483,
+    "canonical_text": "Kol Nidre"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9666560,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

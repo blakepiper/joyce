@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8794371",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Raddled",
+  "html_source": "<p>Adjective (esp of a person): unkempt or run-down in appearance.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8794371/James-joyce-ulysses-chap-6-hades/Raddled",
+    "original_id": "8794371",
+    "referent_id": 8794371,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "raddled",
+    "prefix": "vided drove of branded cattle passed the windows, lowing, slouching by on padded hoofs, whisking their tails slowly on their clotted bony croups. Outside them and through them ran ",
+    "suffix": " sheep bleating1986#80 their fear. \n\n — Emigrants, Mr Power said. \n\n — Huuuh! the drover's voice cried, his switch sounding on their flanks. \n\n Huuuh! out of that! \n\n Thursday, of ",
+    "start": 22639,
+    "end": 22646,
+    "canonical_text": "raddled"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9656
+  },
+  "genius": {
+    "referent_id": 8794371,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

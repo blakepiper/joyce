@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8726076",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Embarazada",
+  "html_source": "<p>pregnant – translated from Spanish</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8726076/James-joyce-ulysses-chap-18-penelope/Embarazada",
+    "original_id": "8726076",
+    "referent_id": 8726076,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "embarazada",
+    "prefix": "is chest pink he wanted to touch mine with his for a moment but I wouldnt let him 1986#625he was awfully put out first for fear you never know consumption or leave me with a child ",
+    "suffix": " that old servant Ines told me that one drop even if it got into you at all after I tried with the Banana but I was afraid it might break and get lost up in me somewhere because th",
+    "start": 59644,
+    "end": 59654,
+    "canonical_text": "embarazada"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8726076,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2706744,
+        "login": "kikolou",
+        "name": "kikolou",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9169150",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Caledonian envoy",
+  "html_source": "<p>Joyce may be referring to Scottish (Caledonian) embryologist John Beard.</p><p>John Beard (1858 – 1924) was a Scottish embryologist, known for his controversial theory of the trophoblastic origin of cancer and his experimental treatments of cancer by means of pancreatic enzymes.  Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9169150/James-joyce-ulysses-chap-14-oxen-of-the-sun/Caledonian-envoy",
+    "original_id": "9169150",
+    "referent_id": 9169150,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Caledonian envoy",
+    "prefix": "ical explanation of swineheaded (the case of Madame Grissel Steevens was not forgotten) or doghaired infants occasionally born. The hypothesis of a plasmic memory, advanced by the ",
+    "suffix": " and worthy of the metaphysical traditions of the land he stood for, envisaged in such cases an arrest of embryonic development at some stage antecedent to the human. An outlandish",
+    "start": 71631,
+    "end": 71647,
+    "canonical_text": "Caledonian envoy"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9169150,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

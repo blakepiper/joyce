@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-3952794",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Someone else.",
+  "html_source": "<p>Again, a reference to debt-collection.</p><p>A possible reference to Stephen’s reminiscence in  Portrait Ch. 2.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3952794/James-joyce-ulysses-chap-3-proteus/Someone-else",
+    "original_id": "3952794",
+    "referent_id": 3952794,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "someone else.",
+    "prefix": "or a dun, peer out from a coign of vantage. \n\n — It's Stephen, sir. \n\n — Let him in. Let Stephen in. \n\n A bolt drawn back and Walter welcomes me. \n\n1961#38\n\n — We thought you were ",
+    "suffix": " \n\n In his broad bed nuncle Richie, pillowed and blanketed, extends over the hillock of his knees a sturdy forearm. Cleanchested. He has washed the upper moiety. \n\n — Morrow, nephe",
+    "start": 4713,
+    "end": 4726,
+    "canonical_text": "someone else."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3952794,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 8028950,
+        "login": "PZTT",
+        "name": "PZTT",
+        "role": null,
+        "attribution": 0.6666666666666667
+      },
+      {
+        "id": 1135238,
+        "login": "Critic94",
+        "name": "Critic94",
+        "role": null,
+        "attribution": 0.33333333333333337
+      }
+    ]
+  },
+  "color": "F59627"
+}

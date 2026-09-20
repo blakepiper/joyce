@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8800588",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Maximilian Karl O’Donnell, graf von Tirconnell",
+  "html_source": "<p>Maximilian Karl Lamoral Graf O’Donnell von Tyrconnell (October 29, 1812 — July 14, 1895) was an Austrian officer and civil servant who became famous when he helped save the life of Emperor Franz Josef I of Austria.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8800588/James-joyce-ulysses-chap-7-aeolus/Maximilian-karl-odonnell-graf-von-tirconnell",
+    "original_id": "8800588",
+    "referent_id": 8800588,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Maximilian Karl O'Donnell, graf von Tirconnell",
+    "prefix": "\n\n — Ay, a grass one, Myles Crawford said, his eye running down the typescript. Emperor's horses. Habsburg. An Irishman saved his life on the ramparts of Vienna. Don't you forget! ",
+    "suffix": " in Ireland. Sent his heir over to make the king an Austrian fieldmarshal now. Going to be trouble there one day. Wild geese. O yes, every time. Don't you forget that! \n\n1932#11819",
+    "start": 29595,
+    "end": 29641,
+    "canonical_text": "Maximilian Karl O'Donnell, graf von Tirconnell"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8800588,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

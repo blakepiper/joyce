@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8813714",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Greenhouses",
+  "html_source": "<p>public toilets in traditional green</p><p><img src=\"https://images.rapgenius.com/e498f0822ab2083766038569b82f6201.615x409x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8813714/James-joyce-ulysses-chap-8-lestrygonians/Greenhouses",
+    "original_id": "8813714",
+    "referent_id": 8813714,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "greenhouses",
+    "prefix": "never the same, which in the stream of life we trace. Because life is a stream. All kinds of places are good for ads. That quack doctor for the clap used to be stuck up in all the ",
+    "suffix": ". Never see it now. Strictly confidential. Dr Hy Franks. Didn't cost him a red like Maginni the dancing master self advertisement. Got fellows to stick them up or stick them up him",
+    "start": 5906,
+    "end": 5917,
+    "canonical_text": "greenhouses"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8813714,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

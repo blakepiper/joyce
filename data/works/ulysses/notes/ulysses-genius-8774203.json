@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8774203",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Mortar and pestle",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/1408baea0bc0057238ffe783f9c44368.1000x862x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8774203/James-joyce-ulysses-chap-5-lotus-eaters/Mortar-and-pestle",
+    "original_id": "8774203",
+    "referent_id": 8774203,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Mortar and pestle",
+    "prefix": "Lethargy then. Why? Reaction. A lifetime in a night. Gradually changes your character. Living all the day among herbs, ointments, disinfectants. All 1932#74his alabaster lilypots. ",
+    "suffix": ". Aq. Dist. Fol. Laur. Te Virid. Smell almost cure you like the dentist's doorbell. Doctor Whack. He ought to physic himself a bit. Electuary or emulsion. The first fellow that pic",
+    "start": 30612,
+    "end": 30629,
+    "canonical_text": "Mortar and pestle"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8774203,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

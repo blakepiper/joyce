@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20438090",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Martin Cunningham thwarted his speech rudely:",
+  "html_source": "<p>This is one of many examples in this chapter where Bloom is treated with subtle rudeness by the other men in the carriage. This is likely as an expression of their antisemitism.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20438090/James-joyce-ulysses-chap-6-hades/Martin-cunningham-thwarted-his-speech-rudely",
+    "original_id": "20438090",
+    "referent_id": 20438090,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Martin Cunningham thwarted his speech rudely:",
+    "prefix": "d to drown... \n\n — Drown Barabbas! Mr Dedalus cried. I wish to Christ he did! \n\n Mr Power sent a long laugh down his shaded nostrils. \n\n — No, Mr Bloom said, the son himself... \n\n ",
+    "suffix": " \n\n — Reuben and the son were piking it down the quay next the river on their way to the Isle of Man boat and the young chiseller suddenly got loose and over the wall with him into",
+    "start": 16032,
+    "end": 16077,
+    "canonical_text": "Martin Cunningham thwarted his speech rudely:"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20438090,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

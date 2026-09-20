@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23614800",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Their patois",
+  "html_source": "<p>Of course the Citizen is at that very moment utilizing the said patois.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23614800/James-joyce-ulysses-chap-12-cyclops/Their-patois",
+    "original_id": "23614800",
+    "referent_id": 23614800,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "their patois",
+    "prefix": " be, bring once more into honour among mortal men the winged speech of the seadivided Gael. \n\n — It's on the march, says the citizen. To hell with the bloody brutal Sassenachs and ",
+    "suffix": ". \n\n1961#324\n\n So J. J. puts in a word, doing the toff about one story was good till you heard another and blinking facts and the Nelson policy, putting your blind eye to the teles",
+    "start": 76254,
+    "end": 76266,
+    "canonical_text": "their patois"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23614800,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

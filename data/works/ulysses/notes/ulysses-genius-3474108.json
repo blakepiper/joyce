@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3474108",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Antony and Cleopatra",
+  "html_source": "<p><a href=\"http://lit.genius.com/William-shakespeare-antony-and-cleopatra-characters-of-the-play-annotated\" rel=\"noopener nofollow\">http://lit.genius.com/William-shakespeare-antony-and-cleopatra-characters-of-the-play-annotated</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3474108/James-joyce-ulysses-chap-9-scylla-and-charybdis/Antony-and-cleopatra",
+    "original_id": "3474108",
+    "referent_id": 3474108,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Antony and Cleopatra",
+    "prefix": ", Venus and Adonis, lay in the bedchamber of every light-of-love in London. Is Katharine the shrew illfavoured? Hortensio calls her young and beautiful. Do you think the writer of ",
+    "suffix": ", a passionate pilgrim, had his eyes in the back of his head that he chose the ugliest doxy in all Warwickshire to lie withal? Good: he left her and gained the world of men. But hi",
+    "start": 14161,
+    "end": 14181,
+    "canonical_text": "Antony and Cleopatra"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3474108,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

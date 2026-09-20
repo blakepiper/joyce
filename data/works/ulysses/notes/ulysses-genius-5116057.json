@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5116057",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Mary Anderson",
+  "html_source": "<p>Ulster Hall, Belfast, 16 June 1904, advertised a visit of “the World-Renowned Actress, Miss Mary Anderson (Madame de Marano) in the Balcony Scene from ‘Romeo and Juliet,’ etc. etc.” Other “eminent and celebrated artists” (vocal and instrumental, including Clyde Twelvetrees, cellist) were also to appear.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5116057/James-joyce-ulysses-chap-6-hades/Mary-anderson",
+    "original_id": "5116057",
+    "referent_id": 5116057,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Mary Anderson",
+    "prefix": "ounty Clare on some private business. You see1961#92 the idea is to tour the chief towns. What you lose on one you can make up on the other. \n\n — Quite so, Martin Cunningham said. ",
+    "suffix": " is up there now. \n\n Have you good artists? \n\n — Louis Werner is touring her, Mr Bloom said. O yes, we'll have all topnobbers. J. C. Doyle and John MacCormack I hope and. The best,",
+    "start": 12729,
+    "end": 12742,
+    "canonical_text": "Mary Anderson"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5116057,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

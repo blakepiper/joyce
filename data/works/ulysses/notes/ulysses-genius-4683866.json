@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4683866",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Crumpled paper ball",
+  "html_source": "<p>The leaflet he was handed.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4683866/James-joyce-ulysses-chap-8-lestrygonians/Crumpled-paper-ball",
+    "original_id": "4683866",
+    "referent_id": 4683866,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "crumpled paper ball",
+    "prefix": "pence too much. Hhhhm. It's the droll way he comes out with the things. Knows how to tell a story too. \n\n They wheeled lower. Looking for grub. Wait. \n\n He threw down among them a ",
+    "suffix": ". Elijah thirtytwo feet per sec is com. Not a bit. The ball bobbed unheeded on the wake of swells, floated under by the bridgepiers. Not such damn fools. Also the day I threw that ",
+    "start": 3637,
+    "end": 3656,
+    "canonical_text": "crumpled paper ball"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4683866,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

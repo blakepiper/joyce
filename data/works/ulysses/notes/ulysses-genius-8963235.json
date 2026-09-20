@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8963235",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Nasturtiums",
+  "html_source": "<p>play on the word aspersions</p><p>these are nasturtiums:</p><p><img src=\"https://images.rapgenius.com/20d8b62c5ea9a0d0a2c3937daa954812.729x410x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8963235/James-joyce-ulysses-chap-12-cyclops/Nasturtiums",
+    "original_id": "8963235",
+    "referent_id": 8963235,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "nasturtiums",
+    "prefix": "before a judge and jury. \n\n — Was it you did it, Alf? says Joe. The truth, the whole truth and nothing but the truth, so help you Jimmy Johnson. \n\n — Me? says Alf. Don't cast your ",
+    "suffix": " on my character. \n\n — Whatever statement you make, says Joe, will be taken down in evidence against you. \n\n — Of course an action would lie, says J. J. It implies that he is not c",
+    "start": 67003,
+    "end": 67014,
+    "canonical_text": "nasturtiums"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8963235,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

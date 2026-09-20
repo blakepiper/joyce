@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15156183",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Lascar",
+  "html_source": "<p>Term referring to a sailor from India or South East Asia.</p><p><img src=\"https://images.genius.com/64dcaca56da1b8810330e6bb52ca968c.480x270x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15156183/James-joyce-ulysses-chap-15-circe/Lascar",
+    "original_id": "15156183",
+    "referent_id": 15156183,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "lascar",
+    "prefix": "from cobbler's weak chest. His submission is that he is of Mongolian extraction and irresponsible for his actions. Not all there, in fact. \n\n BLOOM \n\n(Barefoot, pigeonbreasted, in ",
+    "suffix": "'s vest and trousers, apologetic toes turned in, opens his tiny mole's eyes and looks about him dazedly, passing a slow hand 1932#413across his forehead. Then he hitches his belt s",
+    "start": 47607,
+    "end": 47613,
+    "canonical_text": "lascar"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15156183,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

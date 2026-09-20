@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9087022",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Father Conmee walked through Clongowes fields, his thinsocked ankles tickled by stubble.",
+  "html_source": "<p>Father Conmee’s narrative frames this episode and serves as the main point of reference for the chronology of events.</p><p>His walk occurs at the same time as this section featuring the Dedalus' sisters.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9087022/James-joyce-ulysses-chap-10-wandering-rocks/Father-conmee-walked-through-clongowes-fields-his-thinsocked-ankles-tickled-by-stubble",
+    "original_id": "9087022",
+    "referent_id": 9087022,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Father Conmee walked through Clongowes fields, his thinsocked ankles tickled by stubble.",
+    "prefix": "dy asked. \n\n Maggy at the range rammed down a greyish mass beneath bubbling suds twice with her potstick and wiped her brow. \n\n — They wouldn't give anything on them, she said. \n\n ",
+    "suffix": " \n\n — Where did you try? Boody asked. \n\n — M'Guinness's. \n\n Boody stamped her foot and threw her satchel on the table. \n\n — Bad cess to her big face! she cried. \n\n Katey went to th",
+    "start": 15706,
+    "end": 15794,
+    "canonical_text": "Father Conmee walked through Clongowes fields, his thinsocked ankles tickled by stubble."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9087022,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083676,
+        "login": "SydneyBryan",
+        "name": "SydneyBryan",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

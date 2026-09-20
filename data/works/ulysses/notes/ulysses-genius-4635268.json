@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4635268",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Freeman leader",
+  "html_source": "<p>Bloom sells advertising for the Freeman Leader newspaper.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4635268/James-joyce-ulysses-chap-4-calypso/Freeman-leader",
+    "original_id": "4635268",
+    "referent_id": 4635268,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Freeman leader",
+    "prefix": "bit like it really. Kind of stuff you read: in the track of the sun. Sunburst on the titlepage. He smiled, pleasing himself. What Arthur Griffith said about the headpiece over the ",
+    "suffix": ": a homerule sun rising up in the northwest from the laneway behind the bank of Ireland. He prolonged his pleased smile. Ikey touch that: homerule sun rising up in the northwest. \n",
+    "start": 6588,
+    "end": 6602,
+    "canonical_text": "Freeman leader"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4635268,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

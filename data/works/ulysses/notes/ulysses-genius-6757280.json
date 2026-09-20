@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-6757280",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "I feel all wet",
+  "html_source": "<p>Once again, Joyce makes no pretense to hide the sexual innuendos.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6757280/James-joyce-ulysses-chap-11-sirens/I-feel-all-wet",
+    "original_id": "6757280",
+    "referent_id": 6757280,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "I feel all wet",
+    "prefix": "ng (O!), all breathless. \n\n Married to Bloom, to greaseaseabloom. \n\n1922#249\n\n — O saints above! Miss Douce said, sighed above her jumping rose. I wished I hadn't laughed so much. ",
+    "suffix": ". \n\n — O, Miss Douce! Miss Kennedy protested. You horrid thing! \n\n And flushed yet more (you horrid!), more goldenly. \n\n1939#190\n\n By Cantwell's offices roved Greaseabloom, by Cepp",
+    "start": 8821,
+    "end": 8835,
+    "canonical_text": "I feel all wet"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6757280,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1618748,
+        "login": "Kataryna",
+        "name": "Kataryna",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

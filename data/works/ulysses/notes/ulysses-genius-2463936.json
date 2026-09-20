@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2463936",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Chemise",
+  "html_source": "<p>A chemise is a loosely fitting dress that hangs straight.</p><p><img src=\"https://images.rapgenius.com/44hmdpuvhy58k1bv5amh29ske.604x1000x1.jpg\" alt=\"\" /></p><p>They can be adapted to each sex…</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2463936/James-joyce-ulysses-chap-1-telemachus/Chemise",
+    "original_id": "2463936",
+    "referent_id": 2463936,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "chemise",
+    "prefix": "gan asked. \n\n — Later on, Haines said. Not on my breakfast. \n\n Stephen turned away. \n\n — I'm going, Mulligan, he said. \n\n — Give us that key, Kinch, Buck Mulligan said, to keep my ",
+    "suffix": " flat. \n\n1961#22\n\n Stephen handed him the key. Buck Mulligan laid it across his heaped clothes. \n\n — And twopence, he said, for a pint. Throw it there. \n\n Stephen threw two pennies",
+    "start": 40761,
+    "end": 40768,
+    "canonical_text": "chemise"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2463936,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

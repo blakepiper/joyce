@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-22961523",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "F. O. T. E. I.",
+  "html_source": "<p>Friends of the Emerald Isle.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/22961523/James-joyce-ulysses-chap-12-cyclops/F-o-t-e-i",
+    "original_id": "22961523",
+    "referent_id": 22961523,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "F. O. T. E. I.",
+    "prefix": "ongest possible heterogeneous terms concerning the nameless barbarity which they had been called upon to witness. An animated altercation (in which all took part) ensued among the ",
+    "suffix": " as to whether the eighth or the ninth of March was the 1986#252correct date of the birth of Ireland's patron saint. In the course of the argument cannonballs, scimitars, boomerang",
+    "start": 36288,
+    "end": 36302,
+    "canonical_text": "F. O. T. E. I."
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9712
+  },
+  "genius": {
+    "referent_id": 22961523,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

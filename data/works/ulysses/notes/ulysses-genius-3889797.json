@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3889797",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Mother Dana",
+  "html_source": "<p>Celtic Goddess:</p><p><img src=\"https://images.rapgenius.com/c99223cf9c21c926675597c9af3734fc.491x491x1.jpg\" alt=\"\" /></p><p>Stephen resumes his argument in territory familiar to Eglinton.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3889797/James-joyce-ulysses-chap-9-scylla-and-charybdis/Mother-dana",
+    "original_id": "3889797",
+    "referent_id": 3889797,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "mother Dana",
+    "prefix": "od the bane of miscreant eyes glinting stern under wrinkled brows. A basilisk. E quando vede l'uomo l'attosca. Messer Brunetto, I thank thee for the word. \n\n1939#142\n\n — As we, or ",
+    "suffix": ", weave and unweave our bodies, Stephen said, from day to day, their molecules shuttled to and fro, so does the artist weave and unweave his image. And as the mole on my right brea",
+    "start": 21217,
+    "end": 21228,
+    "canonical_text": "mother Dana"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3889797,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

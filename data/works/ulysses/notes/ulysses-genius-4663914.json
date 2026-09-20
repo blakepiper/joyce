@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4663914",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Your hat is a little crushed",
+  "html_source": "<p>In the next chapter, Bloom tries to think of <a href=\"https://genius.com/4663893\" rel=\"noopener nofollow\">what he “should have said” to Menton.</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4663914/James-joyce-ulysses-chap-6-hades/Your-hat-is-a-little-crushed",
+    "original_id": "4663914",
+    "referent_id": 4663914,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Your hat is a little crushed",
+    "prefix": "Fellow always like that, mortified if women are by. \n\n Got a dinge in the side of his hat. Carriage probably. \n\n — Excuse me, sir, Mr Bloom said beside them. \n\n They stopped. \n\n — ",
+    "suffix": ", Mr Bloom said pointing. \n\n John Henry Menton stared at him for an instant without moving. \n\n — There, Martin Cunningham helped, pointing also. John Henry Menton took off his hat,",
+    "start": 62360,
+    "end": 62388,
+    "canonical_text": "Your hat is a little crushed"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4663914,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

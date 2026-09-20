@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10850911",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Latria",
+  "html_source": "<p>la·tri·a<br />noun<br />(in the Roman Catholic Church) supreme worship allowed to God alone.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10850911/James-joyce-ulysses-chap-17-ithaca/Latria",
+    "original_id": "10850911",
+    "referent_id": 10850911,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "latria",
+    "prefix": "whether the divine prepuce, the carnal bridal ring of the holy Roman catholic apostolic church, conserved in Calcata, were deserving of simple hyperduly or of the fourth degree of ",
+    "suffix": " accorded to the abscission of such divine excrescences as hair and toenails. \n\n1939#495\n\n What celestial sign was by both simultaneously observed? \n\n A star precipitated with grea",
+    "start": 76912,
+    "end": 76918,
+    "canonical_text": "latria"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10850911,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

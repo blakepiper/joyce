@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11098320",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Zingari colours",
+  "html_source": "<p>black red and gold</p><p><a href=\"http://www.i-zingari.com/history\" rel=\"noopener nofollow\">http://www.i-zingari.com/history</a></p><p><img src=\"https://images.genius.com/502f859ae151351f7181d9ff5bb737dd.428x585x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11098320/James-joyce-ulysses-chap-18-penelope/Zingari-colours",
+    "original_id": "11098320",
+    "referent_id": 11098320,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Zingari colours",
+    "prefix": " he saw me from behind following in the rain I saw him before he saw me however standing at the corner of the Harolds cross road with a new raincoat on him with the muffler in the ",
+    "suffix": " to show off his complexion and the brown hat looking slyboots 1939#526as usual what was he doing there where hed no business they can go and get whatever they like from anything a",
+    "start": 21993,
+    "end": 22008,
+    "canonical_text": "Zingari colours"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11098320,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

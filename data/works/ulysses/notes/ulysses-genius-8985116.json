@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8985116",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Mercalli’s scale",
+  "html_source": "<p>A moderate earthquake at level 5:<br />V   Moderate<br />Felt by nearly everyone; many awakened. Some dishes, windows broken. Unstable objects overturned. Pendulum clocks may stop.<br /><a href=\"http://earthquake.usgs.gov/learn/topics/mercalli.php\" rel=\"noopener nofollow\">http://earthquake.usgs.gov/learn/topics/mercalli.php</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8985116/James-joyce-ulysses-chap-12-cyclops/Mercallis-scale",
+    "original_id": "8985116",
+    "referent_id": 8985116,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Mercalli's scale",
+    "prefix": "clattering along the street. \n\n The catastrophe was terrific and instantaneous in its effect. The observatory of Dunsink registered in all eleven shocks, all of the fifth grade of ",
+    "suffix": ", and there is no record extant of a similar seismic disturbance in our island since the earthquake of 1534, the year of the rebellion of Silken Thomas. The epicentre appears to ha",
+    "start": 119100,
+    "end": 119116,
+    "canonical_text": "Mercalli's scale"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8985116,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

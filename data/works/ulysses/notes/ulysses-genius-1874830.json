@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1874830",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Poldy",
+  "html_source": "<p>Molly’s nickname for Bloom.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1874830/James-joyce-ulysses-chap-4-calypso/Poldy",
+    "original_id": "1874830",
+    "referent_id": 1874830,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Poldy",
+    "prefix": " the wind. \n\n1939#47\n\n Two letters and a card lay on the hallfloor. He stooped and gathered them. Mrs Marion Bloom. His quickened heart slowed at once. Bold hand. Mrs Marion. \n\n — ",
+    "suffix": "! \n\n Entering the bedroom he halfclosed his eyes and walked through warm yellow twilight towards her tousled head. \n\n — Who are the letters for? \n\n1961#61\n\n He looked at them. Mull",
+    "start": 15841,
+    "end": 15846,
+    "canonical_text": "Poldy"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 1874830,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 176532,
+        "login": "biblicalmike",
+        "name": "Michael Bible",
+        "role": "verified_artist",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

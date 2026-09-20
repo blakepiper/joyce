@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-7146830",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Talafana, alavatar, hatakalda, wataklasat",
+  "html_source": "<p>In other words: telephone, elevator, hot or cold [water], water closet</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7146830/James-joyce-ulysses-chap-12-cyclops/Talafana-alavatar-hatakalda-wataklasat",
+    "original_id": "7146830",
+    "referent_id": 7146830,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "talafana, alavatar, hatakalda, wataklasat",
+    "prefix": "esembled our experience in the flesh he stated that he had heard from more favoured beings now in the spirit that their abodes were equipped with every modern home comfort such as ",
+    "suffix": " and that the highest adepts were steeped in waves of volupcy of the very purest nature. Having requested a quart of buttermilk this was brought and evidently afforded relief. Aske",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.0
+  },
+  "genius": {
+    "referent_id": 7146830,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1835164,
+        "login": "AdamKadmon",
+        "name": "AdamKadmon",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

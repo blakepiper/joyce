@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23879114",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Full",
+  "html_source": "<p>She fears it’s gonna piss down.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23879114/James-joyce-ulysses-chap-14-oxen-of-the-sun/Full",
+    "original_id": "23879114",
+    "referent_id": 23879114,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Full",
+    "prefix": "ard wary the watcher hearing come that man mildhearted eft rising with swire ywimpled to him her gate wide undid. Lo, levin leaping lightens in eyeblink Ireland's westward welkin. ",
+    "suffix": " she dread that God the Wreaker all mankind would fordo with water for his evil sins. Christ's rood made she on breastbone and him drew that he would rathe infare under her thatch.",
+    "start": 5665,
+    "end": 5669,
+    "canonical_text": "Full"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 23879114,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

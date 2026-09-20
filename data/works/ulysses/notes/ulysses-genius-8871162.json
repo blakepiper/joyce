@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8871162",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Cardinal Wolsey",
+  "html_source": "<p>Cardinal Thomas Wolsey, (born c. 1475, died Nov. 29, 1530), cardinal and statesman who dominated the government of England’s King Henry VIII from 1515 to 1529. His unpopularity contributed, upon his downfall, to the anticlerical reaction that was a factor in the English Reformation.<br />The immediate cause of Wolsey’s fall from power was his failure to persuade Pope Clement VII to grant Henry an annulment of his marriage to Catherine of Aragon. There had long been a party of nobles who hated the lowborn, overbearing cardinal. When his final attempt to obtain the annulment collapsed in July 1529, these enemies easily turned the king against him. Wolsey was arrested on Nov 4, 1530 in York on charges of treason (for corresponding with the French court), but he died at the end of the month while on his way south to face the king.<br />Just before his death he reputedly spoke these words, “I see the matter against me how it is framed. But if I had served God as diligently as I have done the King, he would not have given me over in my grey hairs.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8871162/James-joyce-ulysses-chap-10-wandering-rocks/Cardinal-wolsey",
+    "original_id": "8871162",
+    "referent_id": 8871162,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "cardinal Wolsey",
+    "prefix": "onmee crossed to Mountjoy square. He thought, but not for long, of soldiers and sailors, whose legs had been shot off by cannonballs, ending their days in some pauper ward, and of ",
+    "suffix": "'s words: If I had served my God as I have served my king He would not have abandoned me in my old days. He walked by the treeshade of sunnywinking leaves: and towards him came the",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.75
+  },
+  "genius": {
+    "referent_id": 8871162,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

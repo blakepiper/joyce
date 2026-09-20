@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8875697",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Jacko put the nuts",
+  "html_source": "<p>This might reference a children’s “Story of the Teasing Monkey” by Helen Bannerman where<br />Jacko the monkey eats the coconuts<br /><a href=\"http://gutenberg.readingroo.ms/4/3/9/0/43906/43906-h/43906-h.htm\" rel=\"noopener nofollow\">http://gutenberg.readingroo.ms/4/3/9/0/43906/43906-h/43906-h.htm</a><br />However the book was published in 1907, so Joyce may have erroneously placed it in 1904.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8875697/James-joyce-ulysses-chap-10-wandering-rocks/Jacko-put-the-nuts",
+    "original_id": "8875697",
+    "referent_id": 8875697,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Jacko put the nuts",
+    "prefix": "id. The reverend Mr Love. He's a minister in the country somewhere. But are you sure of that? \n\n — You can tell Barabbas from me, Ben Dollard said, that he can put that writ where ",
+    "suffix": ". \n\n He led Father Cowley boldly forward, linked to his bulk. \n\n1922#235\n\n — Filberts I believe they were, Mr Dedalus said, as he dropped his glasses on his coatfront, following th",
+    "start": 54794,
+    "end": 54812,
+    "canonical_text": "Jacko put the nuts"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8875697,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

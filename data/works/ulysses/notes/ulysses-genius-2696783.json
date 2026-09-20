@@ -1,0 +1,63 @@
+{
+  "id": "ulysses-genius-2696783",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Seaspawn",
+  "html_source": "<p>A neologism that echoes Stephen’s obsession with sex as he sees what the sea has washed up as its ‘spawn’.</p><p>Possibly a reference to <a href=\"https://en.wikipedia.org/wiki/Aphrodite#Birth\" rel=\"noopener nofollow\">Aphrodite</a>. who was supposed to have been born from the ‘sea-foam’. At any rate, the compound noun ‘seaspawn’ measures up to the chapter’s title of ‘<a href=\"https://en.wikipedia.org/wiki/Proteus\" rel=\"noopener nofollow\">Proteus</a>’: a new word is made by fusing two others together; and ‘spawn’ (or perhaps ‘sperm’ in conjunction) suggests a stage of beign whose purpose lies in transforming into something else. Considering the opening concern with vision and perception, there is also quite possibly a pun on ‘sea’ and ‘see’: <a href=\"https://en.wikipedia.org/wiki/Ice_Cream_%28I_Scream,_You_Scream,_We_All_Scream_for_Ice_Cream\" rel=\"noopener nofollow\">I see, I see, we all see the seaspawn</a>).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2696783/James-joyce-ulysses-chap-3-proteus/Seaspawn",
+    "original_id": "2696783",
+    "referent_id": 2696783,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "seaspawn",
+    "prefix": " \n\n[3]\n\n\n\nIneluctable modality of the visible: at least that if no more, thought through my eyes. Signatures of all things I am here to read, ",
+    "suffix": " and seawrack, the nearing tide, that rusty boot. Snotgreen, bluesilver, rust: coloured signs. Limits of the diaphane. But he adds: in bodies. Then he was aware of them bodies befo",
+    "start": 142,
+    "end": 150,
+    "canonical_text": "seaspawn"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2696783,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.7787610619469026
+      },
+      {
+        "id": 410950,
+        "login": "FrankGiraffe",
+        "name": "FrankGiraffe",
+        "role": null,
+        "attribution": 0.15044247787610618
+      },
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.061946902654867256
+      },
+      {
+        "id": 149810,
+        "login": "perfectrhyme",
+        "name": "Perfectrhyme",
+        "role": "editor",
+        "attribution": 0.008849557522123894
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8798015",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Sappyhead",
+  "html_source": "<p>Irish slang<br />Sap is a    weak/fragile person</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8798015/James-joyce-ulysses-chap-6-hades/Sappyhead",
+    "original_id": "8798015",
+    "referent_id": 8798015,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "sappyhead",
+    "prefix": "ank you, he said shortly. \n\n They walked on towards the gates. Mr Bloom, chapfallen, drew behind a few paces so as not to overhear. Martin laying down the law. Martin could wind a ",
+    "suffix": " like that round his little finger, without his seeing it. \n\n Oyster eyes. Never mind. Be sorry after perhaps when it dawns on him. Get the pull over him that way. \n\n Thank you. Ho",
+    "start": 62985,
+    "end": 62994,
+    "canonical_text": "sappyhead"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8798015,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

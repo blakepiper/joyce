@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10016298",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Coranto",
+  "html_source": "<p>a dance of Italian origin marked by quick running steps</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10016298/James-joyce-ulysses-chap-15-circe/Coranto",
+    "original_id": "10016298",
+    "referent_id": 10016298,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "coranto",
+    "prefix": "m buggerum bishop. \n\n1932#447\n\n LYSTER \n\n(In quakergrey kneebreeches and broadbrimmed hat, says discreetly.) He is our friend. I need not mention names. Seek thou the light. \n\n(He ",
+    "suffix": "s by. Best enters in hairdresser's attire, shinily laundered, his locks in curlpapers. He leads John Eglinton who wears a mandarin's kimono of Nankeen yellow, lizardlettered, and a",
+    "start": 112321,
+    "end": 112328,
+    "canonical_text": "coranto"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10016298,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

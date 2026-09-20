@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8343297",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Benjamin Dollard",
+  "html_source": "<p>Dollard is a well known local singer, who appears later in this episode, as well as in the Sirens episode.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8343297/James-joyce-ulysses-chap-10-wandering-rocks/Benjamin-dollard",
+    "original_id": "8343297",
+    "referent_id": 8343297,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Benjamin Dollard",
+    "prefix": "nnual dinner, you know. Boiled shirt affair. The lord mayor was there, Val Dillon it was, and sir Charles Cameron and Dan Dawson spoke and there was music. Bartell d'Arcy sang and ",
+    "suffix": "... \n\n — I know, M'Coy broke in. My missus sang there once. \n\n — Did she? Lenehan said. \n\n A card Unfurnished Apartments reappeared on the windowsash of number 7 Eccles street. \n\n1",
+    "start": 30707,
+    "end": 30723,
+    "canonical_text": "Benjamin Dollard"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8343297,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2568065,
+        "login": "GeoffBobker",
+        "name": "GeoffBobker",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

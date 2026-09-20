@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-17126231",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Fresh woods and pastures new",
+  "html_source": "<p>The last line of Milton’s ‘Lycidas’.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/17126231/James-joyce-ulysses-chap-16-eumaeus/Fresh-woods-and-pastures-new",
+    "original_id": "17126231",
+    "referent_id": 17126231,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "fresh woods and pastures new",
+    "prefix": "rked a superannuated old salt, evidently derelict, seated habitually near the not particularly redolent sea on the wall, staring quite obliviously at it and it at him, dreaming of ",
+    "suffix": " as someone somewhere sings. And it left him wondering why. Possibly he had tried to find out the secret for himself, floundering up and down the antipodes and all that sort of thi",
+    "start": 42512,
+    "end": 42540,
+    "canonical_text": "fresh woods and pastures new"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 17126231,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 8460622,
+        "login": "LP-Reader1",
+        "name": "LP-Reader1",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

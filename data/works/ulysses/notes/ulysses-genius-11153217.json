@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11153217",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Cappoquin",
+  "html_source": "<p><a href=\"http://www.southeastireland.com/pcappoquin.html\" rel=\"noopener nofollow\">http://www.southeastireland.com/pcappoquin.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11153217/James-joyce-ulysses-chap-18-penelope/Cappoquin",
+    "original_id": "11153217",
+    "referent_id": 11153217,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Cappoquin",
+    "prefix": "ke I suppose one of them wouldnt have him I got him excited he crushed all the flowers on my bosom he brought me he couldnt count the pesetas and the perragordas till I taught him ",
+    "suffix": " he came from he said on the Blackwater but it was too short then the day before he 1961#759left May yes it was May when the infant king of Spain was born Im always like that in th",
+    "start": 57961,
+    "end": 57970,
+    "canonical_text": "Cappoquin"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11153217,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

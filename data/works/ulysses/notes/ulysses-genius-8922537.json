@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8922537",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Idea prize titbit.",
+  "html_source": "<p>Bloom considers a detective story for the writing prize offered by the magazine Titbit he was reading in the  outhouse in chapter four. The detective could read clues from the blotting pad a suspect had used.</p><p>Bloom’s guilt about writing to Martha makes him feel criminal.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8922537/James-joyce-ulysses-chap-11-sirens/Idea-prize-titbit",
+    "original_id": "8922537",
+    "referent_id": 8922537,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Idea prize titbit.",
+    "prefix": "rs Callan, Coleman and Co, limited. Henry wrote: \n\n1939#204\n\n Miss Martha Clifford\nc/o P. O. \nDolphin's barn lane\nDublin. \n\n1922#268\n\n Blot over the other so he can't read. Right. ",
+    "suffix": " Something detective read off blottingpad. Payment at the rate of guinea per col. Matcham often thinks the laughing witch. Poor Mrs Purefoy. U. P.: up. \n\n Too poetical that about t",
+    "start": 50078,
+    "end": 50096,
+    "canonical_text": "Idea prize titbit."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8922537,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

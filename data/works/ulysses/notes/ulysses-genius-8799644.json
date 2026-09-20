@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8799644",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Shema Israel Adonai Elohenu",
+  "html_source": "<p>The Shema is an affirmation of Judaism and a declaration of faith in one God. The obligation to recite the Shema is separate from the obligation to pray and a Jew is obligated to say Shema in the morning and at night (Deut. 6:7).</p><p>The first line of the Shema, “Hear O Israel, the Lord is our God, the Lord is One” (Shema Yisrael Adonai eloheinu Adonai ehad) (Deuteronomy 6:4) is repeated throughout the prayer services.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8799644/James-joyce-ulysses-chap-7-aeolus/Shema-israel-adonai-elohenu",
+    "original_id": "8799644",
+    "referent_id": 8799644,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Shema Israel Adonai Elohenu",
+    "prefix": "with his finger to me. Pessach. Next year in Jerusalem. Dear, O dear! All that long business about that brought us out of the land of Egypt and into the house of bondage Alleluia. ",
+    "suffix": ". No, that's the other. Then the twelve brothers, Jacob's sons. And then the lamb and the cat and the dog and the stick and the water and the butcher. And then the angel of death k",
+    "start": 11678,
+    "end": 11705,
+    "canonical_text": "Shema Israel Adonai Elohenu"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8799644,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

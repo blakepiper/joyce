@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8921765",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Twas rank and fame.",
+  "html_source": "<p>James Joyce’s Ulysses contains a number of references to the opera “The Rose of Castille”  (premiered on 29 October 1857). The tenor Manuel’s aria, “Twas rank and fame that tempted thee” is quoted.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8921765/James-joyce-ulysses-chap-11-sirens/Twas-rank-and-fame",
+    "original_id": "8921765",
+    "referent_id": 8921765,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Twas rank and fame.",
+    "prefix": "ives not a clinking voice ask Lambert he can tell you too. \n\n Goulding, a flush struggling in his pale, told Mr Bloom, face of the night, Si in Ned Lambert's, Dedalus house, sang '",
+    "suffix": " \n\n He, Mr Bloom, listened while he, Richie Goulding, told him, Mr Bloom, 1922#265of the night he, Richie, heard him, Si Dedalus, sing 'Twas rank and fame in his, Ned Lambert's, ho",
+    "start": 42610,
+    "end": 42629,
+    "canonical_text": "Twas rank and fame."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8921765,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

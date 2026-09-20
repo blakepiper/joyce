@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-2322687",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "No, mother! Let me be and let me live.",
+  "html_source": "<p>A possible allusion to the <a href=\"https://genius.com/William-shakespeare-hamlet-act-5-scene-2-annotated\" rel=\"noopener nofollow\">final scene in <em>Hamlet</em></a> as Hamlet dies. There, the ghost of his father is put to rest; here, Stephen sends the ghost of his mother away.</p><p>In <em>Hamlet</em>, “But let it be” is the culmination of the motif which commenced in the <a href=\"https://genius.com/William-shakespeare-to-be-or-not-to-be-annotated\" rel=\"noopener nofollow\">“To be or not to be”</a> speech and was picked up again just before the duel, when he finally “let be” in the “special providence in the fall of a sparrow” speech.</p><blockquote><p>HAMLET<br />Heaven make thee free of it! I follow thee.<br />I am dead, Horatio. Wretched queen, adieu!<br />You that look pale and tremble at this chance,<br />That are but mutes or audience to this act,<br />Had I but time—as this fell sergeant, death,<br />Is strict in his arrest—O, I could tell you—<br />But let it be. Horatio, I am dead;<br />Thou livest. Report me and my cause aright<br />To the unsatisfied.</p></blockquote>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2322687/James-joyce-ulysses-chap-1-telemachus/No-mother-let-me-be-and-let-me-live",
+    "original_id": "2322687",
+    "referent_id": 2322687,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "No, mother! Let me be and let me live.",
+    "prefix": "ayed on their knees. Her eyes on me to strike me down. Liliata rutilantium te confessorum turma circumdet: iubilantium te virginum chorus excipiat. \n\n Ghoul! Chewer of corpses! \n\n ",
+    "suffix": ". \n\n — Kinch ahoy! \n\n Buck Mulligan's voice sang from within the tower. It came nearer up the staircase, calling again. Stephen, still trembling at his soul's cry, heard warm runni",
+    "start": 16155,
+    "end": 16192,
+    "canonical_text": "No, mother. Let me be and let me live"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2322687,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 305084,
+        "login": "DavidDevalle",
+        "name": "DavidDevalle",
+        "role": null,
+        "attribution": 0.875
+      },
+      {
+        "id": 149810,
+        "login": "perfectrhyme",
+        "name": "Perfectrhyme",
+        "role": "editor",
+        "attribution": 0.10526315789473685
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.019736842105263157
+      }
+    ]
+  },
+  "color": "F59627"
+}

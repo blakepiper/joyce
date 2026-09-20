@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15149249",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Mandement",
+  "html_source": "<p><a href=\"https://en.wiktionary.org/wiki/mandement\" rel=\"noopener nofollow\">Mandement</a> is a term from Old/Middle French meaning a commandment or order.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15149249/James-joyce-ulysses-chap-14-oxen-of-the-sun/Mandement",
+    "original_id": "15149249",
+    "referent_id": 15149249,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "mandement",
+    "prefix": "and repreved the learningknight though she trowed well that the traveller had said thing that was false for his subtility. But the learningknight would not hear say nay nor do her ",
+    "suffix": " ne have him in aught contrarious to his list and he said how it was a marvellous castle. And the traveller Leopold went into the castle for to rest him for 1961#386a space being s",
+    "start": 9424,
+    "end": 9433,
+    "canonical_text": "mandement"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15149249,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9317853",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Crone",
+  "html_source": "<p>crone: witch,sorceress</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9317853/James-joyce-ulysses-chap-15-circe/Crone",
+    "original_id": "9317853",
+    "referent_id": 9317853,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "crone",
+    "prefix": "rm and hat snores, groans, grinding 1986#350growling teeth, and snores again. On a step a gnome totting among a rubbishtip crouches to 1961#429shoulder a sack of rags and bones. A ",
+    "suffix": " standing by with a smoky oillamp rams her last bottle in the maw of his sack. He heaves his booty, tugs askew his peaked cap and hobbles off mutely. The crone makes back for her l",
+    "start": 1351,
+    "end": 1356,
+    "canonical_text": "crone"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9496
+  },
+  "genius": {
+    "referent_id": 9317853,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2707000,
+        "login": "JozueCoronel",
+        "name": "JozueCoronel",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10015995",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Hyperphrygian and mixolydian",
+  "html_source": "<p>Ancient musical scales:<br /><a href=\"http://www.medieval.org/emfaq/misc/modes.html\" rel=\"noopener nofollow\">http://www.medieval.org/emfaq/misc/modes.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10015995/James-joyce-ulysses-chap-15-circe/Hyperphrygian-and-mixolydian",
+    "original_id": "10015995",
+    "referent_id": 10015995,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "hyperphrygian and mixolydian",
+    "prefix": "ade it. The rite is the poet's rest. It may 1961#503be an old hymn to Demeter or also illustrate Coela enarrant gloriam Domini. It is susceptible of nodes or modes as far apart as ",
+    "suffix": " and of texts so divergent as priests haihooping 1939#357round David's that is Circe's or what am I saying Ceres' altar and David's tip from the stable to his chief bassoonist abou",
+    "start": 104240,
+    "end": 104268,
+    "canonical_text": "hyperphrygian and mixolydian"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10015995,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

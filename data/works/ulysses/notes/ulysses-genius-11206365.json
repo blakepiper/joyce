@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11206365",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Fair Tyrants",
+  "html_source": "<p>The title of a book Bloom bought for his wife, mentioned in Chapter 10.</p><p>“Mr Bloom, alone, looked at the titles. FAIR TYRANTS by James Lovebirch. Know the kind that is. Had it? Yes.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11206365/James-joyce-ulysses-chap-18-penelope/Fair-tyrants",
+    "original_id": "11206365",
+    "referent_id": 11206365,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Fair Tyrants",
+    "prefix": "d found it out what they did together well naturally and if he did can he undo it hes coronado anyway whatever he does and then he going to the other mad extreme about the wife in ",
+    "suffix": " of course the man never even casts a 2nd thought on the husband or wife either its the woman he wants and he gets her what else were we given 1922#726all those desires for Id like",
+    "start": 103736,
+    "end": 103748,
+    "canonical_text": "Fair Tyrants"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 11206365,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

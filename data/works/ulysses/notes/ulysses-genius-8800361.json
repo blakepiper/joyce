@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8800361",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Flat spaugs",
+  "html_source": "<p>spaug<br />N. (context pejorative English) A foot.</p><p>Imitating a walk with flat feet?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8800361/James-joyce-ulysses-chap-7-aeolus/Flat-spaugs",
+    "original_id": "8800361",
+    "referent_id": 8800361,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "flat spaugs",
+    "prefix": "on the breeze a mocking kite, a tail of white bowknots. \n\n — Look at the young guttersnipe behind him hue and cry, Lenehan said, and you'll kick. O, my rib risible! Taking off his ",
+    "suffix": " and the walk. Small nines. Steal upon larks. \n\n1961#129\n\n He began to mazurka in swift caricature across the floor on sliding feet past the fireplace to J. J. O'Molloy who placed ",
+    "start": 24570,
+    "end": 24581,
+    "canonical_text": "flat spaugs"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8800361,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1939955",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "—He who stealeth from the poor lendeth to the Lord.",
+  "html_source": "<p>This is a reversal of Proverbs 19:17.</p><blockquote><p>He that hath pity upon the poor lendeth unto the LORD; and that which he hath given will he pay him again.</p></blockquote><p><img src=\"https://images.genius.com/fa5ff54f8ab683f48241d0e1429dafba.990x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1939955/James-joyce-ulysses-chap-1-telemachus/He-who-stealeth-from-the-poor-lendeth-to-the-lord",
+    "original_id": "1939955",
+    "referent_id": 1939955,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "—He who stealeth from the poor lendeth to the Lord.",
+    "prefix": "d, for a pint. Throw it there. \n\n Stephen threw two pennies on the soft heap. Dressing, undressing. Buck Mulligan erect, with joined hands before him, said solemnly: \n\n1932#21\n\n — ",
+    "suffix": " Thus spake Zarathustra. \n\n1922#22\n\n His plump body plunged. \n\n — We'll see you again, Haines said, turning as Stephen walked up the path and smiling at wild Irish. \n\n Horn of a bu",
+    "start": 41069,
+    "end": 41119,
+    "canonical_text": "He who stealeth from the poor lendeth to the Lord."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 1939955,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

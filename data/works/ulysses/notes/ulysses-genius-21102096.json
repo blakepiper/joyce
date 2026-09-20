@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21102096",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Honorificabilitudinitatibus",
+  "html_source": "<p>The longest single word in Shakespeare’s works, used in Love’s Labour’s Lost Act V, Scene 1:</p><p>I marvel thy master hath not eaten thee for a word; for thou art not so long by the head as honorificabilitudinitatibus: thou art easier swallowed than a flap-dragon.</p><p>The word means “the state of being able to achieve honors.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21102096/James-joyce-ulysses-chap-9-scylla-and-charybdis/Honorificabilitudinitatibus",
+    "original_id": "21102096",
+    "referent_id": 21102096,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "honorificabilitudinitatibus",
+    "prefix": "t in the sonnets where there is Will in overplus. Like John o'Gaunt his name is dear to him, as dear as the coat of arms he toadied for, on a bend sable a spear or steeled argent, ",
+    "suffix": ", dearer than his glory of greatest shakescene in the country. What's in a name? That is what we ask ourselves in childhood when we write the name that we are told is ours. A star,",
+    "start": 53377,
+    "end": 53404,
+    "canonical_text": "honorificabilitudinitatibus"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21102096,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

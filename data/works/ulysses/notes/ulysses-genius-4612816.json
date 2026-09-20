@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4612816",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Bannon",
+  "html_source": "<p>Alec Bannon is a friend of Mulligan. <a href=\"https://genius.com/4636599\" rel=\"noopener nofollow\">He is mentioned in Milly’s letter to Bloom.</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4612816/James-joyce-ulysses-chap-1-telemachus/Bannon",
+    "original_id": "4612816",
+    "referent_id": 4612816,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Bannon",
+    "prefix": "slowly frogwise his green legs in the deep jelly of the water. \n\n — Is the brother with you, Malachi? \n\n — Down in Westmeath. With the Bannons. \n\n — Still there? I got a card from ",
+    "suffix": ". Says he found a sweet young thing down there. Photo girl he calls her. \n\n1961#21\n\n — Snapshot, eh? Brief exposure. \n\n Buck Mulligan sat down to unlace his boots. An elderly man s",
+    "start": 38890,
+    "end": 38896,
+    "canonical_text": "Bannon"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9414
+  },
+  "genius": {
+    "referent_id": 4612816,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

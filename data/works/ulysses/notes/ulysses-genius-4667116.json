@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4667116",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Mr O’Madden Burke",
+  "html_source": "<p>Burke also appears as a character in the short story <em>A Mother.</em></p><p><img src=\"https://images.rapgenius.com/56ca63585d9cd68b83dad24d98ae4a59.498x780x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4667116/James-joyce-ulysses-chap-7-aeolus/Mr-omadden-burke",
+    "original_id": "4667116",
+    "referent_id": 4667116,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Mr O'Madden Burke",
+    "prefix": "ry about chief baron Palles? J. J. O'Molloy asked. It was at the royal university dinner. Everything was going swimmingly ... \n\n — First my riddle, Lenehan said. Are you ready? \n\n ",
+    "suffix": ", tall in copious grey of Donegal tweed, came in from the hallway. Stephen Dedalus, behind him, uncovered as he entered. \n\n — Entrez, mes enfants! Lenehan cried. \n\n1932#117\n\n — I e",
+    "start": 27855,
+    "end": 27872,
+    "canonical_text": "Mr O'Madden Burke"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 4667116,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8979245",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Deedpoll",
+  "html_source": "<p>You don’t have to follow a legal process to start using a new name. But you might need a ‘deed poll’ to apply for or to change official documents like your passport or driving licence.<br /><a href=\"https://www.gov.uk/change-name-deed-poll/overview\" rel=\"noopener nofollow\">https://www.gov.uk/change-name-deed-poll/overview</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8979245/James-joyce-ulysses-chap-12-cyclops/Deedpoll",
+    "original_id": "8979245",
+    "referent_id": 8979245,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "deedpoll",
+    "prefix": "sn't he a cousin of Bloom the dentist? says Jack Power. \n\n — Not at all, says Martin. Only namesakes. His name was Virag, the father's name that poisoned himself. He changed it by ",
+    "suffix": ", the father did. \n\n1986#276\n\n — That's the new Messiah for Ireland! says the citizen. Island of saints and sages! \n\n — Well, they're still waiting for their redeemer, says Martin.",
+    "start": 104827,
+    "end": 104835,
+    "canonical_text": "deedpoll"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8979245,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

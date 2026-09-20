@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15149558",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Gramercy",
+  "html_source": "<p>An expression of gratitude meaning “thanks”. It was also used as an exclamation, expressing surprise or sudden strong feeling.</p><p>From Middle English gramerci, from Old French grant merci (“great thanks”).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15149558/James-joyce-ulysses-chap-14-oxen-of-the-sun/Gramercy",
+    "original_id": "15149558",
+    "referent_id": 15149558,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "gramercy",
+    "prefix": "phen 1922#371had these words following: Murmur, sirs, is eke oft among lay folk. Both babe and parent now glorify their Maker, the one in limbo gloom, the other in purgefire. But, ",
+    "suffix": ", what of those Godpossibled souls that we nightly impossibilise, which is the sin against the Holy Ghost, Very God, Lord and Giver of Life? For, sirs, he said, our lust is brief. ",
+    "start": 15889,
+    "end": 15897,
+    "canonical_text": "gramercy"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15149558,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

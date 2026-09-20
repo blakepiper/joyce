@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15165056",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Mahak makar a back",
+  "html_source": "<p>A Masonic invocation of good luck, according to the annotation in the Penguin 20c. Classics Annotated Students' Edition. See also <a href=\"https://www.jstor.org/stable/25486725?seq=1#page_scan_tab_contents\" rel=\"noopener nofollow\">this article about Masonic symbols and phrases used in this chapter.</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15165056/James-joyce-ulysses-chap-15-circe/Mahak-makar-a-back",
+    "original_id": "15165056",
+    "referent_id": 15165056,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Mahak makar a back",
+    "prefix": "ion, bucket in my hand. Cheerio, boys. (He turns to his subjects.) We have come 1922#548here to witness a clean straight fight and we heartily wish both men the best of good luck. ",
+    "suffix": " \n\n1961#590\n\n(He shakes hands with Private Carr, Private Compton, Stephen, Bloom and Lynch. General applause. Edward the Seventh lifts his bucket graciously in acknowledgment.) \n\n ",
+    "start": 217743,
+    "end": 217761,
+    "canonical_text": "Mahak makar a bak."
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9444
+  },
+  "genius": {
+    "referent_id": 15165056,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

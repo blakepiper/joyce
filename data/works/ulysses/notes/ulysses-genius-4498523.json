@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4498523",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Ronda",
+  "html_source": "<p>Ronda is a town located in the mountains of southern Spain.  It has a rich history and many well preserved buildings from the Moorish era.</p><p><img src=\"https://images.rapgenius.com/42c0cd1fbc76a48861e613e6c2b95452.981x650x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4498523/James-joyce-ulysses-chap-18-penelope/Ronda",
+    "original_id": "4498523",
+    "referent_id": 4498523,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Ronda",
+    "prefix": "e bulls and the old castle thousands of years old yes and those handsome 1939#551Moors all in white and turbans like kings asking you to sit down in their little bit of a shop and ",
+    "suffix": " with the old windows of the posadas glancing eyes a lattice hid for her lover to kiss the iron and the wineshops half open at night and the castanets and the night we missed the b",
+    "start": 118636,
+    "end": 118641,
+    "canonical_text": "Ronda"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4498523,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

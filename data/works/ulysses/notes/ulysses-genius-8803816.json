@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8803816",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Winding staircase",
+  "html_source": "<p>Nelson’s Pillar<br />A spiral stairway of 168 steps ascended the hollow interior of the column, to a viewing platform immediately beneath the statue.  Visitors could climb the steps to the viewing platform and enjoy what an early report describes as “a superb panoramic view of the city, the country and the fine bay”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8803816/James-joyce-ulysses-chap-7-aeolus/Winding-staircase",
+    "original_id": "8803816",
+    "referent_id": 8803816,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "winding staircase",
+    "prefix": "s from a girl at the foot of Nelson's pillar to take off the thirst of the brawn. They give two threepenny bits to the gentleman at the turnstile and begin to waddle slowly up the ",
+    "suffix": ", 1939#107grunting, encouraging each other, afraid of the dark, panting, one asking the other have you the brawn, praising God and the Blessed Virgin, threatening to come down, pee",
+    "start": 52545,
+    "end": 52562,
+    "canonical_text": "winding staircase"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8803816,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

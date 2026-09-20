@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20224302",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Has anybody here seen? Kay ee double ell",
+  "html_source": "<p>A song Bloom was singing to himself earlier in this episode.</p><p><a href=\"https://genius.com/8794281\" rel=\"noopener nofollow\">https://genius.com/8794281</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20224302/James-joyce-ulysses-chap-6-hades/Has-anybody-here-seen-kay-ee-double-ell",
+    "original_id": "20224302",
+    "referent_id": 20224302,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Has anybody here seen? Kay ee double ell",
+    "prefix": "? \n\n He moved away, looking about him. \n\n — No, Mr Bloom began, turning and stopping. I say, Hynes! \n\n Didn't hear. What? Where has he disappeared to? Not a sign. Well of all the. ",
+    "suffix": ". Become invisible. Good Lord, what became of him? \n\n A seventh gravedigger came beside Mr Bloom to take up an idle spade. \n\n1939#84\n\n — O, excuse me! \n\n He stepped aside nimbly. \n",
+    "start": 54718,
+    "end": 54758,
+    "canonical_text": "Has anybody here seen? Kay ee double ell"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20224302,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11041825,
+        "login": "raggedclaws",
+        "name": "raggedclaws",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9685193",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Acid. nit. hydrochlor dil., 20 minims,\n Tinct. mix. vom., 4 minims.\n Extr. taraxel. lig., 30 minims.\n Aq. dis. ter in die.",
+  "html_source": "<p>From Annotations to James Joyce’s Ulysses. Wikibooks (citing  Gifford (1988)p 478.)</p><p>(Latin) Acidum nitro-hydrocloricum dilutum (Dilute nitro-hydrocloric acid, 20 drops)</p><p>(Latin) Tinctura nucis vomicae (Tincture of nux vomica, 5 drops). nux vomica is a stimulant prepared from the Strychnine tree</p><p>(Latin) Extractum taraxaci liquidum (Liquid extract of dandelion, 30 drops) This liquid extract is prepared from the dried dandelion root; it is prescribed as a stomachic and liver stimulant, often with diluted nitro-hydrochloric acid and tincture of nux vomica.</p><p>(Latin) Aqua distillata ter in die (Distilled water three times a day)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9685193/James-joyce-ulysses-chap-15-circe/Acid-nit-hydrochlor-dil-20-minims-tinct-mix-vom-4-minims-extr-taraxel-lig-30-minims-aq-dis-ter-in-die",
+    "original_id": "9685193",
+    "referent_id": 9685193,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Acid. nit. hydrochlor dil., 20 minims,\n Tinct. mix. vom., 4 minims.\n Extr. taraxel. lig., 30 minims.\n Aq. dis. ter in die.",
+    "prefix": "nds. \n\n J. J. O'MOLLOY \n\n A Daniel did I say? Nay! A Peter O'Brien! \n\n NOSEY FLYNN \n\n Where do I draw the five pounds? \n\n1922#460\n\n PISSER BURKE \n\n For bladder trouble? \n\n BLOOM \n\n",
+    "suffix": " \n\n CHRIS CALLINAN \n\n What is the parallax of the subsolar ecliptic of Aldebaran? \n\n BLOOM \n\n Pleased to hear from you, Chris. K. II. \n\n JOE HYNES \n\n Why aren't you in uniform? \n\n ",
+    "start": 82845,
+    "end": 82965,
+    "canonical_text": "Acid. nit. hydrochlor. dil., 20 minims \nTinct. nux vom., 5 minims \nExtr. taraxel. liq., 30 minims. \nAq. dis. ter in die."
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9492
+  },
+  "genius": {
+    "referent_id": 9685193,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

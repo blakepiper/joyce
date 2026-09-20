@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4867120",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Love loves to love love.",
+  "html_source": "<p>As pointed out in <em>Ulysses Annotated</em>, Joyce is winking at St. Augustine’s discussion of the state of loving in <em>Confessions</em>:</p><blockquote><p><a href=\"https://genius.com/4867114\" rel=\"noopener nofollow\">I loved not yet, yet I loved to love, and out of a deep-seated want, I hated myself for wanting not. I sought what I might love, in love with loving, and safety I hated, and a way without snares.</a></p></blockquote><p>Here, though, Joyce treats Augustine with a kind of loving pastiche, as the transcendent qualities of <em>Confessions</em> are projected onto the local sphere: this paragraph essentially amounts to a <a href=\"https://genius.com/4867168\" rel=\"noopener nofollow\">“love is in the air”</a> kind of celebration, but the Augustinian underpinning hints that all love is, or can be, rarified love.</p><hr /><p><a href=\"http://www.ucpress.edu/book.php?isbn=9780520253971\" rel=\"noopener nofollow\">Don Gifford and Robert J. Seidman, <em>Ulysses Annotated</em> (Oakland, CA: University of California Press, 1989).</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4867120/James-joyce-ulysses-chap-12-cyclops/Love-loves-to-love-love",
+    "original_id": "4867120",
+    "referent_id": 4867120,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Love loves to love love.",
+    "prefix": "yse. Isn't that what we're told. Love your neighbour. \n\n — That chap? says the citizen. Beggar my neighbour is his motto. Love, moya! He's a nice pattern of a Romeo and Juliet. \n\n ",
+    "suffix": " Nurse loves the new chemist. Constable 14A loves Mary Kelly. Gerty MacDowell loves the boy that has the bicycle. M. B. loves a fair gentleman. Li Chi Han lovey up kissy Cha Pu Cho",
+    "start": 95548,
+    "end": 95572,
+    "canonical_text": "Love loves to love love."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4867120,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

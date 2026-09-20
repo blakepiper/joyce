@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1889410",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "The quaker librarian",
+  "html_source": "<p>The quaker librarian is Thomas William Lyster, who was director of the National Library of Dublin from 1895 to 1920.</p><p><img src=\"https://images.genius.com/50db82d3e76efbd564097db8f773f2f6.482x325x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1889410/James-joyce-ulysses-chap-9-scylla-and-charybdis/The-quaker-librarian",
+    "original_id": "1889410",
+    "referent_id": 1889410,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "the quaker librarian",
+    "prefix": "\n\n[9]\n\n\n\nUrbane, to comfort them, ",
+    "suffix": " purred: \n\n — And we have, have we not, those priceless pages of Wilhelm Meister? A great poet on a great brother poet. A hesitating soul taking arms against a sea of troubles, tor",
+    "start": 34,
+    "end": 54,
+    "canonical_text": "the quaker librarian"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9523
+  },
+  "genius": {
+    "referent_id": 1889410,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9067920",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Elijah",
+  "html_source": "<p>At once a “throwaway” and a religious reference to the Hebrew bible, Elijah appears three times in previous sections.</p><p>From section 4: “A skiff, a crumpled throwaway, Elijah is coming, rode lightly down the Liffey, under Loopline bridge, shooting the rapids where water chafed around the bridgepiers, sailing eastward past hulls and anchorchains, between the Customhouse old dock and George’s quay.”</p><p>From section 12: “North wall and sir John Rogerson’s quay, with hulls and anchorchains, sailing westward, sailed by a skiff, a crumpled throwaway, rocked on the ferrywash, Elijah is coming.”</p><p>From section 16: “North wall and sir John Rogerson’s quay, with hulls and anchorchains, sailing westward, sailed by a skiff, a crumpled throwaway, rocked on the ferrywash, Elijah is coming.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9067920/James-joyce-ulysses-chap-10-wandering-rocks/Elijah",
+    "original_id": "9067920",
+    "referent_id": 9067920,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Elijah",
+    "prefix": "s Mr Lewis Werner's cheerful windows, then turned and strode back along Merrion square, his stickumbrelladustcoat dangling. \n\n At the corner of Wilde's house he halted, frowned at ",
+    "suffix": "'s name announced on the Metropolitan hall, frowned at the distant pleasance of duke's lawn. His eyeglass flashed frowning in the sun. With ratsteeth bared he muttered: \n\n — Coactu",
+    "start": 63674,
+    "end": 63680,
+    "canonical_text": "Elijah"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 9067920,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083675,
+        "login": "brnmzsk",
+        "name": "brnmzsk",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

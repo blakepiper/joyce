@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8816900",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Out of plumb.",
+  "html_source": "<p>out of plumb<br />not exactly vertical.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8816900/James-joyce-ulysses-chap-8-lestrygonians/Out-of-plumb",
+    "original_id": "8816900",
+    "referent_id": 8816900,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "out of plumb.",
+    "prefix": " that woman has in the white stockings. Hope the rain mucks them up on her. Countrybred chawbacon. All the beef to the heels were in. Always gives a woman clumsy feet. Molly looks ",
+    "suffix": " \n\n He passed, dallying, the windows of Brown Thomas, silk mercers. Cascades of ribbons. Flimsy China silks. A tilted urn poured from its mouth a flood of bloodhued poplin: lustrou",
+    "start": 39293,
+    "end": 39306,
+    "canonical_text": "out of plumb."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8816900,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23704794",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "In Turkish costume",
+  "html_source": "<p>Bloom recalled a dream of Molly in Turkish dress in the Nausicaa chapter.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23704794/James-joyce-ulysses-chap-15-circe/In-turkish-costume",
+    "original_id": "23704794",
+    "referent_id": 23704794,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "in Turkish costume",
+    "prefix": "\n A VOICE \n\n(Sharply.) Poldy! \n\n1986#358\n\n BLOOM \n\n Who? (He ducks and wards off a blow clumsily.) At your service. \n\n(He looks up. Beside her mirage of datepalms a handsome woman ",
+    "suffix": " stands before him. Opulent curves fill out her scarlet 1922#417trousers and jacket, slashed with gold. A wide yellow cummerbund girdles her. A white yashmak, violet in the night, ",
+    "start": 14215,
+    "end": 14233,
+    "canonical_text": "in Turkish costume"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23704794,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

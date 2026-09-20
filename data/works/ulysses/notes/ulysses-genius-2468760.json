@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2468760",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Keyes, you see. He wants two keys at the top.",
+  "html_source": "<p>This would be the end result of the “ad” being completed with the two keys on the top like how he wanted.</p><p><img src=\"https://images.rapgenius.com/21cp5j2878azkl37wpqhteyqg.337x477x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2468760/James-joyce-ulysses-chap-7-aeolus/Keyes-you-see-he-wants-two-keys-at-the-top",
+    "original_id": "2468760",
+    "referent_id": 2468760,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Keyes, you see. He wants two keys at the top.",
+    "prefix": "ts it in for July, Mr Bloom said. \n\n1961#119\n\nHe doesn't hear it. Nannan. Iron nerves.\n\nThe foreman moved his pencil towards it. \n\n — But wait, Mr Bloom said. He wants it changed. ",
+    "suffix": " \n\n1922#115\n\n Hell of a racket they make. Maybe he understands what I. \n\n1939#90\n\n The foreman turned round to hear patiently and, lifting an elbow, began to scratch slowly in the ",
+    "start": 6975,
+    "end": 7020,
+    "canonical_text": "Keyes, you see. He wants two keys at the top."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2468760,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1874593",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Dolce far niente",
+  "html_source": "<p>Italian: “sweet doing nothing.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1874593/James-joyce-ulysses-chap-5-lotus-eaters/Dolce-far-niente",
+    "original_id": "1874593",
+    "referent_id": 1874593,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "dolce far niente",
+    "prefix": " garden of the world, big lazy leaves to float about on, cactuses, flowery meads, snaky lianas they call them. Wonder is it like that. Those Cinghalese lobbing about in the sun in ",
+    "suffix": ", not doing a hand's turn all day. Sleep six months out of twelve. Too hot to quarrel. Influence of the climate. Lethargy. Flowers of idleness. The air feeds most. Azotes. Hothouse",
+    "start": 2283,
+    "end": 2299,
+    "canonical_text": "dolce far niente"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1874593,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 176532,
+        "login": "biblicalmike",
+        "name": "Michael Bible",
+        "role": "verified_artist",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15153744",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Hyg. et Eug. Doc.",
+  "html_source": "<p>Doctor of Hygiene and Eugenics, according to a note in Pen. 20th c. Classics Annotated Students' Edition. This is supported by subsequent claims that “sanitary conditions” accounted for “any and every fallingoff in the calibre of the race”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15153744/James-joyce-ulysses-chap-14-oxen-of-the-sun/Hyg-et-eug-doc",
+    "original_id": "15153744",
+    "referent_id": 15153744,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Hyg. et Eug. Doc.",
+    "prefix": "rcely less vital: infant mortality. It is interesting because, 1939#300as he pertinently remarks, we are all born in the same way but we all die in different ways. Mr M. Mulligan (",
+    "suffix": ") blames the sanitary conditions in which our greylunged citizens contract adenoids, pulmonary complaints etc. by 1932#378inhaling the bacteria which lurk in dust. These factors, h",
+    "start": 90111,
+    "end": 90128,
+    "canonical_text": "Hyg. et Eug. Doc."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15153744,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

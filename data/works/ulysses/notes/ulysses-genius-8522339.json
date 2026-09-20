@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8522339",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Mrs Marion Bloom",
+  "html_source": "<p>He uses the same improper form for addressing a married woman. Correct would be “Mrs. Leopold Bloom.” This is yet another show of disrespect for the man.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8522339/James-joyce-ulysses-chap-11-sirens/Mrs-marion-bloom",
+    "original_id": "8522339",
+    "referent_id": 8522339,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Mrs Marion Bloom",
+    "prefix": "Balldresses, by God, and court dresses. He wouldn't take any money either. What? Any God's quantity of cocked hats and boleros and trunkhose. What? \n\n — Ay, ay, Mr Dedalus nodded. ",
+    "suffix": " has left off clothes of all descriptions. \n\n Jingle jaunted down the quays. Blazes sprawled on bounding tyres. \n\n Liver and bacon. Steak and kidney pie. Right, sir. Right, Pat. \n\n",
+    "start": 25743,
+    "end": 25759,
+    "canonical_text": "Mrs Marion Bloom"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8522339,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

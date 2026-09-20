@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795620",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Charnelhouses",
+  "html_source": "<p>noun<br />a house or place in which the bodies or bones of the dead are deposited.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795620/James-joyce-ulysses-chap-6-hades/Charnelhouses",
+    "original_id": "8795620",
+    "referent_id": 8795620,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Charnelhouses",
+    "prefix": "am Wilkinson, auditor and accountant, lately deceased, three pounds thirteen and six. With thanks. \n\n I daresay the soil would be quite fat with corpsemanure, bones, flesh, nails. ",
+    "suffix": ". Dreadful. Turning green and pink decomposing. Rot quick in damp earth. The lean old ones tougher. Then a kind of a tallowy kind of a cheesy. Then begin to get black, treacle oozi",
+    "start": 46768,
+    "end": 46781,
+    "canonical_text": "Charnelhouses"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8795620,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

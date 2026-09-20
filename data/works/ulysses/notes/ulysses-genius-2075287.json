@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2075287",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Hired mute",
+  "html_source": "<p>A <a href=\"http://en.wikipedia.org/wiki/Mute_%28death_customs%29#Mutes_and_professional_mourners\" rel=\"noopener nofollow\">mute</a> was a professional mourner which people would hire for funerals.</p><p><img src=\"https://images.genius.com/7bc8d1af4a972f854df6bfc339e050ed.500x404x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2075287/James-joyce-ulysses-chap-1-telemachus/Hired-mute",
+    "original_id": "2075287",
+    "referent_id": 2075287,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "hired mute",
+    "prefix": "doctor sir Peter Teazle and picks buttercups off the quilt. Humour her till it's over. You crossed her last wish in death and yet you sulk with me because I don't whinge like some ",
+    "suffix": "1986#7 from Lalouette's. Absurd! I suppose I did say it. I didn't mean to offend the memory of your mother. \n\n He had spoken himself into boldness. Stephen, shielding the gaping wo",
+    "start": 12587,
+    "end": 12597,
+    "canonical_text": "hired mute"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2075287,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10234031",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Dead march from Saul",
+  "html_source": "<p><a href=\"https://www.youtube.com/watch?v=17XzbjDC_2Q\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=17XzbjDC_2Q</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10234031/James-joyce-ulysses-chap-15-circe/Dead-march-from-saul",
+    "original_id": "10234031",
+    "referent_id": 10234031,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "dead march from Saul",
+    "prefix": "\n BELLA \n\n I know you, canvasser! Dead cod! \n\n BLOOM \n\n I saw him, kipkeeper! Pox and gleet vendor! \n\n1961#5541922#517\n\n BELLA \n\n(Turns to the piano.) Which of you was playing the ",
+    "suffix": "? \n\n1932#481\n\n ZOE \n\n Me. Mind your cornflowers. (She darts to the piano and bangs chords on it with crossed arms.) The cat's ramble through the slag. (She glances back.) Eh? Who's",
+    "start": 175028,
+    "end": 175048,
+    "canonical_text": "dead march from Saul"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10234031,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

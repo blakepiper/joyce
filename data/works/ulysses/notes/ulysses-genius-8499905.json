@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8499905",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Nelson’s pillar",
+  "html_source": "<p>The Nelson Pillar was a large granite pillar topped by a statue of Horatio Nelson. It was built in 1808-09 on Sackville Street (now O'Connell Street). The pillar was  blown up by Irish nationalists in 1966 (the 50th anniversary of Easter Uprising). <a href=\"https://en.wikipedia.org/wiki/Spire_of_Dublin\" rel=\"noopener nofollow\">The Spire of Dublin</a> was built on its former ground.</p><p><img src=\"https://images.rapgenius.com/4ad903e5f8d2e0a9380fbec02741cfff.650x488x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8499905/James-joyce-ulysses-chap-6-hades/Nelsons-pillar",
+    "original_id": "8499905",
+    "referent_id": 8499905,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Nelson's pillar",
+    "prefix": ". \n\n — Isn't it awfully good? Mr Bloom said eagerly. \n\n — One and eightpence too much, Mr Dedalus said drily. \n\n1922#91\n\n Mr Power's choked laugh burst quietly in the carriage. \n\n ",
+    "suffix": ". \n\n1939#72\n\n — Eight plums a penny! Eight for a penny! \n\n — We had better look a little serious, Martin Cunningham said. \n\n Mr Dedalus sighed. \n\n — Ah then indeed, he said, poor l",
+    "start": 17009,
+    "end": 17024,
+    "canonical_text": "Nelson's pillar"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8499905,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2680303,
+        "login": "Cortez67",
+        "name": "Cortez67",
+        "role": null,
+        "attribution": 0.951219512195122
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.04878048780487805
+      }
+    ]
+  },
+  "color": "F59627"
+}

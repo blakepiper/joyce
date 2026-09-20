@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15467928",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Tommy Moore’s roguish finger",
+  "html_source": "<p>A statue of Irish poet Thomas Moore (1779-1852)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15467928/James-joyce-ulysses-chap-8-lestrygonians/Tommy-moores-roguish-finger",
+    "original_id": "15467928",
+    "referent_id": 15467928,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Tommy Moore's roguish finger",
+    "prefix": "of others, marching irregularly, rounded Trinity railings making for the station. Bound for their troughs. Prepare to receive cavalry. Prepare to receive soup. \n\n He crossed under ",
+    "suffix": ". They did right to put him up over a urinal: meeting of the waters. Ought to be places for women. Running into cakeshops. Settle my hat straight. There is not in this wide world a",
+    "start": 25887,
+    "end": 25915,
+    "canonical_text": "Tommy Moore's roguish finger"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15467928,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 7060080,
+        "login": "keithalt",
+        "name": "keithalt",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795142",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Prayingdesks",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/b7c1f5916d7727adc95353256dc50940.432x576x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795142/James-joyce-ulysses-chap-6-hades/Prayingdesks",
+    "original_id": "8795142",
+    "referent_id": 8795142,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "prayingdesks",
+    "prefix": " tall yellow candles at its corners. Always in front of us. Corny Kelleher, laying a wreath at each fore corner, beckoned to the boy to kneel. The mourners knelt here and there in ",
+    "suffix": ". Mr Bloom stood behind near the font and, when all had knelt, dropped carefully his unfolded newspaper from his pocket and knelt his right knee upon it. He fitted his black hat ge",
+    "start": 34687,
+    "end": 34699,
+    "canonical_text": "prayingdesks"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8795142,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

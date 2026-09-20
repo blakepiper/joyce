@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15099623",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Grampus",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Grampus\" rel=\"noopener nofollow\">Grampus</a> can refer to various animals, but likely refers to an orca whale or to a <a href=\"https://en.wikipedia.org/wiki/Risso%27s_dolphin\" rel=\"noopener nofollow\">dolphin species</a>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15099623/James-joyce-ulysses-chap-11-sirens/Grampus",
+    "original_id": "15099623",
+    "referent_id": 15099623,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "grampus",
+    "prefix": "ding. Tiresome shapers scraping fiddles, eye on the bowend, sawing the cello, remind you of toothache. Her high long snore. Night we were in the box. Trombone under blowing like a ",
+    "suffix": ", between the acts, other brass chap unscrewing, emptying spittle. Conductor's legs too, bagstrousers, jiggedy jiggedy. Do right to hide them. \n\n Jiggedy jingle jaunty jaunty. \n\n O",
+    "start": 30257,
+    "end": 30264,
+    "canonical_text": "grampus"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15099623,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

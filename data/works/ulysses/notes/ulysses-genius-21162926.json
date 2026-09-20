@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21162926",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Purlieu",
+  "html_source": "<p>A outlying neighborhood, with the connotation of being a “bad” neighborhood.</p><p><a href=\"https://www.merriam-webster.com/dictionary/purlieu\" rel=\"noopener nofollow\">https://www.merriam-webster.com/dictionary/purlieu</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21162926/James-joyce-ulysses-chap-9-scylla-and-charybdis/Purlieu",
+    "original_id": "21162926",
+    "referent_id": 21162926,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "purlieu",
+    "prefix": "r hair. \n\n1961#215\n\n Eh... I just eh... wanted... I forgot... he... \n\n — Longworth and M'Curdy Atkinson were there... \n\n Puck Mulligan footed featly, trilling: \n\nI hardly hear the ",
+    "suffix": " cry \nOr a tommy talk as I pass one by\nBefore my thoughts begin to run\nOn F. M'Curdy Atkinson,\nThe same that had the wooden leg\nAnd that filibustering filibeg\nThat never dared to s",
+    "start": 66083,
+    "end": 66090,
+    "canonical_text": "purlieu"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21162926,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

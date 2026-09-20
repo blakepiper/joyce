@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23079825",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "O’Hickeys",
+  "html_source": "<p>Hereditary physicians to the O'Briens of Thomond (Gifford).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23079825/James-joyce-ulysses-chap-14-oxen-of-the-sun/Ohickeys",
+    "original_id": "23079825",
+    "referent_id": 23079825,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "O'Hickeys",
+    "prefix": "he art of medicine shall have 1961#383been highly honoured. Not to speak of 1986#314hostels, leperyards, sweating chambers, plaguegraves, their greatest doctors, the O'Shiels, the ",
+    "suffix": ", the O'Lees, have sedulously set down the divers methods by which the sick and the relapsed found again health whether the malady had been the trembling withering or loose boyconn",
+    "start": 2520,
+    "end": 2529,
+    "canonical_text": "O'Hickeys"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23079825,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5116068",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "J. C. Doyle and John MacCormack",
+  "html_source": "<p>Doyle, a baritone, won the award at the 1899 Feis Ceoil (annual Dublin music festival and competition). MacCormack (1884-1945), a tenor, also won a gold medal at the Feis Ceoil. He was a member of the Palestrina Choir of the Metropolitan Procathedral (temporary Roman Catholic cathedral in Dublin) and in 1904 sang with that choir at the St. Louis Exposition, St. Louis, Missouri. The two were regarded as among the cream of contemporary Irish musicians in the early twentieth century.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5116068/James-joyce-ulysses-chap-6-hades/J-c-doyle-and-john-maccormack",
+    "original_id": "5116068",
+    "referent_id": 5116068,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "J. C. Doyle and John MacCormack",
+    "prefix": " \n\n — Quite so, Martin Cunningham said. Mary Anderson is up there now. \n\n Have you good artists? \n\n — Louis Werner is touring her, Mr Bloom said. O yes, we'll have all topnobbers. ",
+    "suffix": " I hope and. The best, in fact. \n\n — And Madame, Mr Power said smiling. Last but not least. \n\n Mr Bloom unclasped his hands in a gesture of soft politeness and clasped them. Smith ",
+    "start": 12869,
+    "end": 12900,
+    "canonical_text": "J. C. Doyle and John MacCormack"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5116068,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

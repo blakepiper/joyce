@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8773792",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Father Bernard Vaughan",
+  "html_source": "<p>Bernard Vaughan was an English Roman Catholic clergyman, brother of Herbert and John Stephen Vaughan.<br />Born: 1847, Herefordshire, United Kingdom<br />Died: 1922<br />Education: Stonyhurst College<br />Books: Sinless Mary and Sinful Mary</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8773792/James-joyce-ulysses-chap-5-lotus-eaters/Father-bernard-vaughan",
+    "original_id": "8773792",
+    "referent_id": 8773792,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Father Bernard Vaughan",
+    "prefix": "Glynn he knew how to make that instrument talk, the vibrato: fifty pounds a year they say he had in Gardiner street. Molly was in fine voice that day, the Stabat Mater of Rossini. ",
+    "suffix": "'s sermon first. Christ or Pilate? Christ, but don't keep us all night over it. Music they wanted. Footdrill stopped. Could hear a pin drop. I told her to pitch her voice against t",
+    "start": 25208,
+    "end": 25230,
+    "canonical_text": "Father Bernard Vaughan"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8773792,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

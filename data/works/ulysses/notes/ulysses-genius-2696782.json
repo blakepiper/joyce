@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-2696782",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Seawrack",
+  "html_source": "<p>‘<a href=\"http://www.collinsdictionary.com/dictionary/english/sea-wrack\" rel=\"noopener nofollow\">Any of various seaweeds found on the shore</a>.’</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2696782/James-joyce-ulysses-chap-3-proteus/Seawrack",
+    "original_id": "2696782",
+    "referent_id": 2696782,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "seawrack",
+    "prefix": " \n\n[3]\n\n\n\nIneluctable modality of the visible: at least that if no more, thought through my eyes. Signatures of all things I am here to read, seaspawn and ",
+    "suffix": ", the nearing tide, that rusty boot. Snotgreen, bluesilver, rust: coloured signs. Limits of the diaphane. But he adds: in bodies. Then he was aware of them bodies before of them co",
+    "start": 155,
+    "end": 163,
+    "canonical_text": "seawrack"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2696782,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 410950,
+        "login": "FrankGiraffe",
+        "name": "FrankGiraffe",
+        "role": null,
+        "attribution": 0.8888888888888888
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.1111111111111111
+      }
+    ]
+  },
+  "color": "F59627"
+}

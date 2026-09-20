@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10579858",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Braided drums",
+  "html_source": "<p>Ridges of cord on the back of a ladie’s glove (Gifford, p87).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10579858/James-joyce-ulysses-chap-5-lotus-eaters/Braided-drums",
+    "original_id": "10579858",
+    "referent_id": 10579858,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "braided drums",
+    "prefix": "ed a gloved hand to her hair. In came Hoppy. Having a wet. Drawing back his head and gazing far from beneath his vailed eyelids he saw the bright fawn skin shine in the glare, the ",
+    "suffix": ". Clearly I can see today. Moisture about gives long sight perhaps. Talking of one thing or another. Lady's hand. Which side will she get up? \n\n — And he said: Sad thing about our ",
+    "start": 7284,
+    "end": 7297,
+    "canonical_text": "braided drums"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10579858,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

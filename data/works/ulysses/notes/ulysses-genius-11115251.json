@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11115251",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Enteric fever",
+  "html_source": "<p>also known as Typhoid fever<br /><a href=\"http://www.mayoclinic.org/diseases-conditions/typhoid-fever/basics/definition/con-20028553\" rel=\"noopener nofollow\">http://www.mayoclinic.org/diseases-conditions/typhoid-fever/basics/definition/con-20028553</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11115251/James-joyce-ulysses-chap-18-penelope/Enteric-fever",
+    "original_id": "11115251",
+    "referent_id": 11115251,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "enteric fever",
+    "prefix": "re was a boycott I hate the mention of their politics after the war that Pretoria and Ladysmith and Bloemfontein where 1961#748Gardner Lieut Stanley G 8th Bn 2nd East Lancs Rgt of ",
+    "suffix": " he was a lovely fellow in khaki and just the right height over me Im sure he was brave too he said I was lovely the evening we kissed goodbye at the canal lock my Irish beauty he ",
+    "start": 29001,
+    "end": 29014,
+    "canonical_text": "enteric fever"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11115251,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

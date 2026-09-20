@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2075355",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Et unam sanctam catholicam et apostolicam ecclesiam:",
+  "html_source": "<p>“And in one holy catholic and apostolic church.”  This is from the <a href=\"http://en.wikipedia.org/wiki/Nicene_Creed\" rel=\"noopener nofollow\">Nicene Creed</a>.</p><p><img src=\"https://images.genius.com/63e432a38bbac2b953e3df8d32e02467.350x407x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2075355/James-joyce-ulysses-chap-1-telemachus/Et-unam-sanctam-catholicam-et-apostolicam-ecclesiam",
+    "original_id": "2075355",
+    "referent_id": 2075355,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "et unam sanctam catholicam et apostolicam ecclesiam:",
+    "prefix": " England that we have treated you rather unfairly. It seems history is to blame. \n\n The proud potent titles clanged over Stephen's memory the triumph1932#19 of their brazen bells: ",
+    "suffix": " the slow growth and change of rite and dogma like his own rare thoughts, a chemistry of stars. Symbol of the apostles in the mass for pope Marcellus, the voices blended, singing a",
+    "start": 36754,
+    "end": 36813,
+    "canonical_text": "et unam sanctam catholicam1961#20 et apostolicam ecclesiam:"
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9369
+  },
+  "genius": {
+    "referent_id": 2075355,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

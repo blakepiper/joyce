@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-10850177",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Nova in 1901",
+  "html_source": "<p><a href=\"http://www.daviddarling.info/encyclopedia/N/Nova_Persei_1901.html\" rel=\"noopener nofollow\">http://www.daviddarling.info/encyclopedia/N/Nova_Persei_1901.html</a><br />Discovered on February 23, 1901</p><p>Gifford &amp; Seidmann have it discovered 21-22 Feb 1901(p582).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10850177/James-joyce-ulysses-chap-17-ithaca/Nova-in-1901",
+    "original_id": "10850177",
+    "referent_id": 10850177,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Nova in 1901",
+    "prefix": "he precession of equinoxes: of Orion with belt and sextuple sun theta and nebula in which 100 of our solar systems could be contained: of moribund and of nascent new stars such as ",
+    "suffix": ": of our system plunging towards the constellation of Hercules: of the parallax or parallactic drift of socalled fixed stars, in reality evermoving wanderers from immeasurably remo",
+    "start": 66366,
+    "end": 66378,
+    "canonical_text": "Nova in 1901"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10850177,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.7954545454545454
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.20454545454545453
+      }
+    ]
+  },
+  "color": "F59627"
+}

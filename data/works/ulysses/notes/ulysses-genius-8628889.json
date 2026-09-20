@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8628889",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "The reverend John Hughes S. J.",
+  "html_source": "<p>This is the actual reverend, listed by <em>Thom’s</em> 1904 as a resident in the Presbytery House of the Church of St. Francis Xavier on Gardiner Street Upper, which means he would be an associate and co-resident with Father Conmee from the <em>Wandering Rocks</em> chapter.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8628889/James-joyce-ulysses-chap-13-nausicaa/The-reverend-john-hughes-s-j",
+    "original_id": "8628889",
+    "referent_id": 8628889,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "the reverend John Hughes S. J.",
+    "prefix": " \n\n1932#319\n\n And then there came out upon the air the sound of voices 1961#353and the pealing anthem of the organ. It was the men's temperance retreat conducted by the missioner, ",
+    "suffix": ", rosary, sermon and benediction of the Most Blessed Sacrament. They were there gathered together without distinction of social class (and a most edifying spectacle it was to see) ",
+    "start": 19683,
+    "end": 19713,
+    "canonical_text": "the reverend John Hughes S. J."
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9712
+  },
+  "genius": {
+    "referent_id": 8628889,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-7610964",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Was Du verlachst wirst Du noch dienen",
+  "html_source": "<p>German proverb “What you laugh at, you will nevertheless serve”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7610964/James-joyce-ulysses-chap-9-scylla-and-charybdis/Was-du-verlachst-wirst-du-noch-dienen",
+    "original_id": "7610964",
+    "referent_id": 7610964,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Was Du verlachst wirst Du noch dienen",
+    "prefix": "re speaking of the gaseous vertebrate, if I mistake not? he asked of Stephen. \n\n Primrosevested he greeted gaily with his doffed Panama as with a bauble. \n\n They make him welcome. ",
+    "suffix": ". \n\n Brood of mockers: Photius, pseudomalachi, Johann Most. \n\nHe Who Himself begot middler the Holy Ghost and Himself sent Himself, Agenbuyer, between Himself and others, Who, put ",
+    "start": 28022,
+    "end": 28059,
+    "canonical_text": "Was Du verlachst wirst Du noch dienen"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 7610964,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2082826,
+        "login": "Jmpetro",
+        "name": "Jmpetro",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

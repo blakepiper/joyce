@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23115256",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Transiding",
+  "html_source": "<p>Error in the text, should be tramsiding, which presumably is somehow related to the tram tracks or tram stop</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23115256/James-joyce-ulysses-chap-15-circe/Transiding",
+    "original_id": "23115256",
+    "referent_id": 23115256,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "transiding",
+    "prefix": "The Mabbot street entrance of nighttown, before which stretches an uncobbled ",
+    "suffix": " set with skeleton tracks, red and green will-o'-the-wisps and danger signals. Rows of flimsy houses with gaping doors. Rare lamps with faint rainbow fans. Round Rabaiotti's halted",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.75
+  },
+  "genius": {
+    "referent_id": 23115256,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11649475,
+        "login": "aburda",
+        "name": "aburda",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

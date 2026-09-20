@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21551687",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Prr. Scratch my head. Prr.",
+  "html_source": "<p>As part of the same paragraph as Mr Bloom’s thoughts, this seems to be also his own thoughts. Mr Bloom seems to be narrating the cats thoughts and actions, but he says “my”, relating to the cats head, suggesting a sense of identification, as he imagines what her life is like from her perspective.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21551687/James-joyce-ulysses-chap-4-calypso/Prr-scratch-my-head-prr",
+    "original_id": "21551687",
+    "referent_id": 21551687,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Prr. Scratch my head. Prr.",
+    "prefix": "ere you are, Mr Bloom said, turning from the fire. \n\n The cat mewed in answer and stalked again stiffly round a leg of the table, mewing. Just how she stalks over my writingtable. ",
+    "suffix": " \n\n Mr Bloom watched curiously, kindly, the lithe black form. Clean to see: the gloss of her sleek hide, the white button under the butt of her tail, the green flashing eyes. He be",
+    "start": 1123,
+    "end": 1149,
+    "canonical_text": "Prr. Scratch my head. Prr."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21551687,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 908670,
+        "login": "AllAndNot",
+        "name": "AllAndNot",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

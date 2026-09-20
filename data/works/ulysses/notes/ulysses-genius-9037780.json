@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9037780",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Tell me, Mary, how to woo thee",
+  "html_source": "<p><a href=\"http://www.traditionalmusic.co.uk/songster/10-tell-me-mary-how-to-woo.htm\" rel=\"noopener nofollow\">http://www.traditionalmusic.co.uk/songster/10-tell-me-mary-how-to-woo.htm</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9037780/James-joyce-ulysses-chap-13-nausicaa/Tell-me-mary-how-to-woo-thee",
+    "original_id": "9037780",
+    "referent_id": 9037780,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Tell me, Mary, how to woo thee",
+    "prefix": " of Doctor Fell) or his carbuncly nose with the pimples on it and his sandy moustache a bit white under his nose. Poor father! With all his faults she loved him still when he sang ",
+    "suffix": " or My love and cottage near Rochelle and they had stewed cockles and lettuce with Lazenby's salad dressing for supper and when he sang The moon hath raised with Mr Dignam that die",
+    "start": 21835,
+    "end": 21865,
+    "canonical_text": "Tell me, Mary, how to woo thee"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9037780,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

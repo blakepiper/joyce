@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10086729",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "French lozenges",
+  "html_source": "<p>a form of horse riding bit with a rounded lozenge shaped piece in the middle, also called a French link snaffle<br /><a href=\"http://thebitguide.com/snaffle/mouthpieces/french-link-snaffle/\" rel=\"noopener nofollow\">http://thebitguide.com/snaffle/mouthpieces/french-link-snaffle/</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10086729/James-joyce-ulysses-chap-15-circe/French-lozenges",
+    "original_id": "10086729",
+    "referent_id": 10086729,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "French lozenges",
+    "prefix": "ars open the silverfoil.) Fingers was made before forks. (She breaks off and nibbles a piece, gives a piece to Kitty Ricketts and then turns kittenishly to Lynch.) No objection to ",
+    "suffix": "? (He nods. She taunts him.) Have it now or wait till you get it? (He opens his mouth, his head cocked. She whirls the prize in left circle. His head follows. She whirls it back in",
+    "start": 136105,
+    "end": 136120,
+    "canonical_text": "French lozenges"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10086729,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

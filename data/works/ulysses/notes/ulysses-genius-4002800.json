@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4002800",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Cantwell’s offices roved",
+  "html_source": "<p>Bloom is still on Wellington Quay.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4002800/James-joyce-ulysses-chap-11-sirens/Cantwells-offices-roved",
+    "original_id": "4002800",
+    "referent_id": 4002800,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Cantwell's offices roved",
+    "prefix": "ished I hadn't laughed so much. I feel all wet. \n\n — O, Miss Douce! Miss Kennedy protested. You horrid thing! \n\n And flushed yet more (you horrid!), more goldenly. \n\n1939#190\n\n By ",
+    "suffix": " Greaseabloom, by Ceppi's virgins, bright of their oils. Nannetti's father hawked those things about, wheedling at doors as I. Religion pays. Must see him about Keyes's par. Eat fi",
+    "start": 8969,
+    "end": 8993,
+    "canonical_text": "Cantwell's offices roved"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4002800,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1874629",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "John Rogerson’s quay",
+  "html_source": "<p><a href=\"http://en.wikipedia.org/wiki/Sir_John_Rogerson&#x27;s_Quay\" rel=\"noopener nofollow\">Sir John Rogerson’s quay</a> is a street and quay in Dublin on the south bank of the Liffey between City Quay in the west and Britain Quay. Formerly part of Dublin Port, it has some of the few remaining campshire warehouses in Dublin.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1874629/James-joyce-ulysses-chap-5-lotus-eaters/John-rogersons-quay",
+    "original_id": "1874629",
+    "referent_id": 1874629,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "John Rogerson's quay",
+    "prefix": "\n\n[5]\n\n\n\nBy lorries along sir ",
+    "suffix": " Mr Bloom walked soberly, past Windmill lane, Leask's the linseed crusher, the postal telegraph office. Could have given that address too. And past the sailors' home. He turned fro",
+    "start": 30,
+    "end": 50,
+    "canonical_text": "John Rogerson's quay"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1874629,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 176532,
+        "login": "biblicalmike",
+        "name": "Michael Bible",
+        "role": "verified_artist",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3123489",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Patrice",
+  "html_source": "<p><a href=\"http://www.jjon.org/jioyce-s-people/joseph-casey\" rel=\"noopener nofollow\">The detail of this paragraph.</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3123489/James-joyce-ulysses-chap-3-proteus/Patrice",
+    "original_id": "3123489",
+    "referent_id": 3123489,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Patrice",
+    "prefix": "e? Seems not. No-one about. He turned northeast and crossed the firmer sand towards the Pigeonhouse. \n\n— Qui vous a mis dans cette fichue position? \n\n— C'est le pigeon, Joseph. \n\n ",
+    "suffix": ", home on furlough, lapped warm milk with me in the bar MacMahon. Son of the wild goose, Kevin Egan of Paris. My father's a bird, he lapped the sweet lait chaud with pink young ton",
+    "start": 10019,
+    "end": 10026,
+    "canonical_text": "Patrice"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 3123489,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

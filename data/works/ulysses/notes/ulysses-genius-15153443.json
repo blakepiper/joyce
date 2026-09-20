@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15153443",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Ingle",
+  "html_source": "<p>A domestic fire or fireplace, here used figuratively to mean hearth/home. From early 16th c. Perhaps from Scottish Gaelic aingeal ‘light, fire,’ Irish aingeal ‘live ember.’</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15153443/James-joyce-ulysses-chap-14-oxen-of-the-sun/Ingle",
+    "original_id": "15153443",
+    "referent_id": 15153443,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "ingle",
+    "prefix": "e than these, the dark eyes and oleaginous address, brought home at duskfall many a commission to the head of the firm, seated with Jacob's pipe after like labours in the paternal ",
+    "suffix": " (a meal of noodles, you may be sure, is aheating), reading through round horned spectacles some paper from the Europe of a month before. But hey, presto, the mirror is breathed on",
+    "start": 76651,
+    "end": 76656,
+    "canonical_text": "ingle"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 15153443,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

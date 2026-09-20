@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8871209",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "David Sheehy M.P.",
+  "html_source": "<p>David Sheehy (1844 – 1932) was an Irish nationalist politician. He was a member of parliament (MP) from 1885 to 1900 and from 1903 to 1918, taking his seat as a member of the Irish Parliamentary Party in the House of Commons of the United Kingdom of Great Britain and Ireland.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8871209/James-joyce-ulysses-chap-10-wandering-rocks/David-sheehy-mp",
+    "original_id": "8871209",
+    "referent_id": 8871209,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "David Sheehy M.P.",
+    "prefix": " I had served my God as I have served my king He would not have abandoned me in my old days. He walked by the treeshade of sunnywinking leaves: and towards him came the wife of Mr ",
+    "suffix": " \n\n — Very well, indeed, father. And you, father? \n\n Father Conmee was wonderfully well indeed. He would go to Buxton probably for the waters. And her boys, were they getting on we",
+    "start": 1131,
+    "end": 1148,
+    "canonical_text": "David Sheehy M.P."
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 8871209,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

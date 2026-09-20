@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-14125993",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "In clover",
+  "html_source": "<p>in clover<br />phrase of clover<br />1.<br />in ease and luxury.<br />“we’ll be in clover down there, lying around in the sun and fishing on the lake”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/14125993/James-joyce-ulysses-chap-15-circe/In-clover",
+    "original_id": "14125993",
+    "referent_id": 14125993,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "in clover",
+    "prefix": "\n BELLO \n\n Changed, eh? Our whatnot, our writingtable where we never wrote, aunt Hegarty's armchair, our classic reprints of old masters. A man and his menfriends are living there ",
+    "suffix": ". The Cuckoos' Rest! Why not? How many women had you, eh, following them up dark streets, flatfoot, exciting them by your smothered grunts, what, you male prostitute? Blameless dam",
+    "start": 159549,
+    "end": 159558,
+    "canonical_text": "in clover"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 14125993,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

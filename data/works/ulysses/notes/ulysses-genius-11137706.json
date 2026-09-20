@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11137706",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Garnet Wolseley",
+  "html_source": "<p><a href=\"http://www.nam.ac.uk/exhibitions/online-exhibitions/britains-greatest-general/garnet-wolseley\" rel=\"noopener nofollow\">http://www.nam.ac.uk/exhibitions/online-exhibitions/britains-greatest-general/garnet-wolseley</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11137706/James-joyce-ulysses-chap-18-penelope/Garnet-wolseley",
+    "original_id": "11137706",
+    "referent_id": 11137706,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Garnet Wolseley",
+    "prefix": "he men to cross the lines and the warden marching with his keys to lock the gates and the bagpipes and only Captain Groves and father talking about Rorkes drift and Plevna and sir ",
+    "suffix": " and Gordon at Khartoum lighting their pipes for them everytime they went out drunken old devil with his grog on the windowsill catch him leaving any of it picking his nose trying ",
+    "start": 51353,
+    "end": 51368,
+    "canonical_text": "Garnet Wolseley"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11137706,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

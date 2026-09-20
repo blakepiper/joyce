@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15155609",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Là ci darem la mano",
+  "html_source": "<p>The title of the <a href=\"https://en.wikipedia.org/wiki/L%C3%A0_ci_darem_la_mano\" rel=\"noopener nofollow\">duet from Don Giovanni</a> mentioned earlier. Italian for “There we will give each other our hands”. This is the duet that Molly will be singing in Boylan’s show.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15155609/James-joyce-ulysses-chap-15-circe/La-ci-darem-la-mano",
+    "original_id": "15155609",
+    "referent_id": 15155609,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Là ci darem la mano",
+    "prefix": "ist meaty palm which she surrenders gently.) The witching hour of night. I took the splinter out of this hand, carefully, slowly. (Tenderly, as he slips on her finger a ruby ring.)",
+    "suffix": ". \n\n MRS BREEN \n\n(In a onepiece evening frock executed in moonlight blue, a tinsel sylph's diadem on her brow with her dancecard fallen beside her moonblue satin slipper, curves he",
+    "start": 22507,
+    "end": 22526,
+    "canonical_text": "Là ci darem la mano"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15155609,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

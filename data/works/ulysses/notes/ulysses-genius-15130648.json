@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15130648",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "—Adiutorium nostrum in nomine Domini.\n \n —Qui fecit coelum et terram.\n \n —Dominus vobiscum.\n \n —Et cum spiritu tuo.",
+  "html_source": "<p>Latin: “Our help is in the name of the Lord/ Who made heaven and earth./ The Lord be with you./ And with your spirit.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15130648/James-joyce-ulysses-chap-12-cyclops/Adiutorium-nostrum-in-nomine-domini-qui-fecit-coelum-et-terram-dominus-vobiscum-et-cum-spiritu-tuo",
+    "original_id": "15130648",
+    "referent_id": 15130648,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "—Adiutorium nostrum in nomine Domini.\n \n —Qui fecit coelum et terram.\n \n —Dominus vobiscum.\n \n —Et cum spiritu tuo.",
+    "prefix": "Isaac and Jacob and make the angels of His light to inhabit therein. And entering he blessed the viands and the beverages and the company of all the blessed answered his prayers.\n\n",
+    "suffix": "\n\nAnd he laid his hands upon that he blessed and gave thanks and he prayed and they all with him prayed:\n\n—Deus, cuius verbo sanctificantur omnia, benedictionem tuam effunde super ",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.8203
+  },
+  "genius": {
+    "referent_id": 15130648,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

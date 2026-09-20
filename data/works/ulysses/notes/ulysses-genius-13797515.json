@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13797515",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Puissant",
+  "html_source": "<p>having great power or influence.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13797515/James-joyce-ulysses-chap-14-oxen-of-the-sun/Puissant",
+    "original_id": "13797515",
+    "referent_id": 13797515,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "puissant",
+    "prefix": "lesh but in the spirit of the maker all flesh that passes becomes the word that shall not pass away. This is the postcreation. Omnis caro ad te veniet. No question but her name is ",
+    "suffix": " who aventried the dear corse of our Agenbuyer, Healer and Herd, our mighty mother and mother most venerable and Bernardus saith aptly that She hath an omnipotentiam deiparae suppl",
+    "start": 21017,
+    "end": 21025,
+    "canonical_text": "puissant"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13797515,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

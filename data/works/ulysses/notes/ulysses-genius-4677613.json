@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4677613",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Collation",
+  "html_source": "<p>A collation is a light meal allowed during fasting in the RC Church.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4677613/James-joyce-ulysses-chap-8-lestrygonians/Collation",
+    "original_id": "4677613",
+    "referent_id": 4677613,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "collation",
+    "prefix": "milies themselves to feed. Living on the fat of the land. Their butteries 1961#151and larders. I'd like to see them do the black fast 1986#124Yom Kippur. Crossbuns. One meal and a ",
+    "suffix": " for fear he'd collapse on the altar. A housekeeper of one of those fellows if you could pick it out of her. 1939#111Never pick it out of her. Like getting L.s.d. out of him. Does ",
+    "start": 2227,
+    "end": 2236,
+    "canonical_text": "collation"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4677613,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

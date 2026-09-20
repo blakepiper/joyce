@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10859235",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Short but yet Plain Elements of Geometry",
+  "html_source": "<p><a href=\"https://archive.org/details/shortbutyetplai00harrgoog\" rel=\"noopener nofollow\">https://archive.org/details/shortbutyetplai00harrgoog</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10859235/James-joyce-ulysses-chap-17-ithaca/Short-but-yet-plain-elements-of-geometry",
+    "original_id": "10859235",
+    "referent_id": 10859235,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Short but yet Plain Elements of Geometry",
+    "prefix": "rds). 932#6131922#661\nIn the Track of the Sun (yellow cloth, titlepage missing, recurrent title intestation). \nPhysical Strength and How to Obtain It by Eugen Sandow (red cloth). \n",
+    "suffix": " written in French by F. Ignat. Pardies and rendered into Engliſh by John Harris D. D. London, printed for R. Knaplock at the Biſhop's Head, MDCCXI, with dedicatory epiſtle to his ",
+    "start": 88255,
+    "end": 88295,
+    "canonical_text": "Short but yet Plain Elements of Geometry"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10859235,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

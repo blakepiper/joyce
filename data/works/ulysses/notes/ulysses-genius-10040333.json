@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10040333",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Redbank oysters",
+  "html_source": "<p>The “Red Bank” was a restaurant at 19-20 D'Olier Street, just south of the O'Connell Bridge over the Liffey. It was also a name for some famous oysters harvested in County Clare and sold at the restaurant when they were in season.<br /><a href=\"http://www.joyceproject.com/notes/060020redbank.htm\" rel=\"noopener nofollow\">http://www.joyceproject.com/notes/060020redbank.htm</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10040333/James-joyce-ulysses-chap-15-circe/Redbank-oysters",
+    "original_id": "10040333",
+    "referent_id": 10040333,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Redbank oysters",
+    "prefix": "ame! Cometh forth! (He unrolls his parchment rapidly and reads, his glowworm's nose running backwards over the letters which he claws.) Stay, good friend. I bring thee thy answer. ",
+    "suffix": " will shortly be upon us. I'm the best o'cook. Those succulent bivalves may help us and the truffles of Perigord, tubers dislodged through mister omnivorous porker, were unsurpasse",
+    "start": 122953,
+    "end": 122968,
+    "canonical_text": "Redbank oysters"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10040333,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

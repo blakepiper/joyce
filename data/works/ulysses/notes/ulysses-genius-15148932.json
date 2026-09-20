@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15148932",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Swire",
+  "html_source": "<p><a href=\"https://en.wiktionary.org/wiki/swire\" rel=\"noopener nofollow\">Swire</a> is an archaic term for the neck. The term has come into more modern use with the meaning a vale or low point between two hills.</p><p>From Old English: swēora</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15148932/James-joyce-ulysses-chap-14-oxen-of-the-sun/Swire",
+    "original_id": "15148932",
+    "referent_id": 15148932,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "swire",
+    "prefix": "e moons thrice an hundred. Truest bedthanes they twain are, for Horne holding wariest ward. \n\n1986#315\n\n In ward wary the watcher hearing come that man mildhearted eft rising with ",
+    "suffix": " ywimpled to him her gate wide undid. Lo, levin leaping lightens in eyeblink Ireland's westward welkin. Full she dread that God the Wreaker all mankind would fordo with water for h",
+    "start": 5556,
+    "end": 5561,
+    "canonical_text": "swire"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15148932,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

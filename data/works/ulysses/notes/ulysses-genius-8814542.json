@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8814542",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Tranquilla convent",
+  "html_source": "<p>CARMELITE MONASTERY, TRANQUILLA,<br />KNOCK, CLAREMORRIS, CO. MAYO, IRELAND.<br />The Carmelite Monastery of the Nativity, Tranquilla, is a contemplative monastery in the Parish of Knock which is home to a community of Discalced Carmelite Nuns. Tranquilla was founded in Dublin in 1833 and transferred to Knock in 1981.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8814542/James-joyce-ulysses-chap-8-lestrygonians/Tranquilla-convent",
+    "original_id": "8814542",
+    "referent_id": 8814542,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Tranquilla convent",
+    "prefix": "e 1961#154the only reliable inkeraser 1922#147Kansell, sold by Hely's Ltd, 85 Dame street. Well out of that ruck I am. Devil of a job it was collecting accounts of those convents. ",
+    "suffix": ". That was a nice nun there, really sweet face. Wimple suited her small head. Sister? Sister? I am sure she was crossed in love by her eyes. Very hard to bargain with that sort of ",
+    "start": 8949,
+    "end": 8967,
+    "canonical_text": "Tranquilla convent"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8814542,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

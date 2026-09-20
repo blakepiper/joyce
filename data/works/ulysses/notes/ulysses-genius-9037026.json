@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9037026",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Smart little suit",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/f2952afb642ff7ca9c287ce70d33f87a.348x281x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9037026/James-joyce-ulysses-chap-13-nausicaa/Smart-little-suit",
+    "original_id": "9037026",
+    "referent_id": 9037026,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "smart little suit",
+    "prefix": "p and unmentionables were full of sand but Cissy was a past mistress in the art of smoothing over life's tiny troubles and very quickly not one speck of sand was to be seen on his ",
+    "suffix": ". Still the blue eyes were glistening with hot tears that would well up so she kissed away the hurtness and shook her hand at Master Jacky the culprit and said if she was near him ",
+    "start": 3961,
+    "end": 3978,
+    "canonical_text": "smart little suit"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9037026,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8772809",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Nosebag",
+  "html_source": "<p>a bag, fastened around the head of a horse and covering the nose, in which feed is placed</p><p><img src=\"https://images.rapgenius.com/c421b905330392b782199b729d4305a2.319x392x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8772809/James-joyce-ulysses-chap-5-lotus-eaters/Nosebag",
+    "original_id": "8772809",
+    "referent_id": 8772809,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Nosebag",
+    "prefix": "ar! O, dear! Ffoo! Well, perhaps it was best for him. \n\n1932#671986#62\n\n Mr Bloom went round the corner and passed the drooping nags of the hazard. No use thinking of it any more. ",
+    "suffix": " time. Wish I hadn't met that M'Coy fellow. \n\n1922#731961#76\n\n He came nearer and heard a crunching of gilded oats, the gently champing teeth. Their full buck eyes regarded him as ",
+    "start": 12929,
+    "end": 12936,
+    "canonical_text": "Nosebag"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8772809,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

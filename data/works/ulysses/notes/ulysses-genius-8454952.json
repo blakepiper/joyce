@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8454952",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "_En avant, mes enfants_",
+  "html_source": "<p>(French) Forward, my children!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8454952/James-joyce-ulysses-chap-14-oxen-of-the-sun/En-avant-mes-enfants",
+    "original_id": "8454952",
+    "referent_id": 8454952,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "_En avant, mes enfants_",
+    "prefix": "s. Hell, blast ye! Scoot. Righto, Isaacs, shove em out of the bleeding limelight. 1939#304Yous join uz, dear sir? No hentrusion in life. Lou heap good man. Allee samee this bunch. ",
+    "suffix": "! Fire away number one on the gun. Burke's! Burke's! Thence they advanced five parasangs. Slattery's mounted foot. Where's that bleeding awfur? Parson Steve, apostates' creed! No, ",
+    "start": 105251,
+    "end": 105272,
+    "canonical_text": "En avant, mes enfants"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 8454952,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

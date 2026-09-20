@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8769789",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Lianas",
+  "html_source": "<p>A liana is any of various long-stemmed, woody vines that are rooted in the soil at ground level and use trees, as well as other means of vertical support, to climb up to the canopy to get access to well-lit areas of the forest. Lianas are especially characteristic of tropical moist deciduous forests.</p><p><img src=\"https://images.rapgenius.com/e7cce8a2f1c8abdd229afee3e4353df9.500x375x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8769789/James-joyce-ulysses-chap-5-lotus-eaters/Lianas",
+    "original_id": "8769789",
+    "referent_id": 8769789,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "lianas",
+    "prefix": "ce 1922#68blend, made of the finest Ceylon brands. The far east. Lovely spot it must be: the garden of the world, big lazy leaves to float about on, cactuses, flowery meads, snaky ",
+    "suffix": " they call them. Wonder is it like that. Those Cinghalese lobbing about in the sun in dolce far niente, not doing a hand's turn all day. Sleep six months out of twelve. Too hot to ",
+    "start": 2191,
+    "end": 2197,
+    "canonical_text": "lianas"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8769789,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

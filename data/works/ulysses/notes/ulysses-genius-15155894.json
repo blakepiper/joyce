@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15155894",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Rencontres",
+  "html_source": "<p>A now-rare English term from French meaning an unexpected meeting or encounter.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15155894/James-joyce-ulysses-chap-15-circe/Rencontres",
+    "original_id": "15155894",
+    "referent_id": 15155894,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "rencontres",
+    "prefix": "s a cold snivelling muzzle 1961#452against his hand, wagging his tail.) Strange how they take to me. Even that brute today. Better speak to 1986#369him first. Like women they like ",
+    "suffix": ". Stinks like a polecat. Chacun son goût. He might be mad. Dogdays. Uncertain in his movements. Good fellow! Fido! Good fellow! Garryowen! (The wolfdog sprawls on his back, wriggli",
+    "start": 31815,
+    "end": 31825,
+    "canonical_text": "rencontres"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15155894,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

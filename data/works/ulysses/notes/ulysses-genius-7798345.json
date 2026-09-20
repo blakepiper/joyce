@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-7798345",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "He hopped down from his perch",
+  "html_source": "<p>Mulligan momentarily takes on the characteristics of a bird. This image isn’t extended, but it communicates the qualities of Mulligan’s behaviour on the walls of the tower: he is an entertaining performer for anyone who will listen, but it’s a mindless sort of song.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7798345/James-joyce-ulysses-chap-1-telemachus/He-hopped-down-from-his-perch",
+    "original_id": "7798345",
+    "referent_id": 7798345,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "He hopped down from his perch",
+    "prefix": "mself about shooting a black panther. You saved men from drowning. I'm not a hero, however. If he stays on here I am off. \n\n Buck Mulligan frowned at the lather on his razorblade. ",
+    "suffix": " and began to search his trouser pockets hastily. \n\n1922#4\n\n — Scutter! he cried thickly. \n\n He came over to the gunrest and, thrusting a hand into Stephen's upper pocket, said: \n\n",
+    "start": 3732,
+    "end": 3761,
+    "canonical_text": "He hopped down from his perch"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 7798345,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1313008,
+        "login": "PeterFif",
+        "name": "PeterFif",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

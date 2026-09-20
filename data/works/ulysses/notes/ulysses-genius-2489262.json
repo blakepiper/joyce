@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2489262",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Unfallen Adam",
+  "html_source": "<p>This reference connects with the previous one to <a href=\"http://poetry.genius.com/2468607/James-joyce-ulysses-chap-3-proteus/Adam-kadmon\" rel=\"noopener nofollow\">“Adam Kadmon”</a>.</p><p><img src=\"https://images.rapgenius.com/1c40425fb6cc4a3459442153beb429a7.492x640x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2489262/James-joyce-ulysses-chap-3-proteus/Unfallen-adam",
+    "original_id": "2489262",
+    "referent_id": 2489262,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Unfallen Adam",
+    "prefix": " thy gan \nAnd thy quarrons dainty is. \nCouch a hogshead with me then. \nIn the darkmans clip and kiss. \n\n1932#43\n\n Morose delectation Aquinas tunbelly calls this, frate porcospino. ",
+    "suffix": " rode and not rutted. Call away let him: thy quarrons dainty is. Language no whit worse than his. Monkwords, marybeads jabber on their girdles: roguewords, tough nuggets patter in ",
+    "start": 24862,
+    "end": 24875,
+    "canonical_text": "Unfallen Adam"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2489262,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 170881,
+        "login": "Abraxas01",
+        "name": "Abraxas01",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1857129",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Gray’s statue.",
+  "html_source": "<p>In the middle of Sackville Street there’s a statue of Sir John Gray, an Irish Protestant who edited and owned the <em>Freeman’s Journal</em>, and who supported land reform.</p><p><img src=\"https://images.genius.com/cedd82166baed0552c9d575faea24003.500x334x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1857129/James-joyce-ulysses-chap-6-hades/Grays-statue",
+    "original_id": "1857129",
+    "referent_id": 1857129,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Gray's statue.",
+    "prefix": "e stumping figure and said mildly: \n\n — The devil break the hasp of your back! \n\n1986#77\n\n Mr Power, collapsing in laughter, shaded his face from the window as the carriage passed ",
+    "suffix": " \n\n — We have all been there, Martin Cunningham said broadly. \n\n His eyes met Mr Bloom's eyes. He caressed his beard, adding: \n\n — Well, nearly all of us. \n\n Mr Bloom began to spea",
+    "start": 15106,
+    "end": 15120,
+    "canonical_text": "Gray's statue."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1857129,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 48446,
+        "login": "Twite",
+        "name": "Tom White",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

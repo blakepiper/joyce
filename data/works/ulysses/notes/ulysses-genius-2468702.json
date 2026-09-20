@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2468702",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Nelson’s pillar trams",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/1mzhxkz2lockz3me20k3webfl.1000x844x1.jpg\" alt=\"\" /></p><p>The Nelson Pillar was a large granite pillar topped by a statue of Horatio Nelson in the middle of O'Connell Street in Dublin. It was built in 1808–1809, and was among the first and grandest monuments erected in memory of Nelson in the then United Kingdom. It survived until March 1966, when it was destroyed by a bomb planted by Irish republicans.</p><p>Of course, with this book being published in 1922, the monument was still erect.</p><p>Nelson’s pillar trams are what they call the area’s trams, named after the historical location the trams are near.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2468702/James-joyce-ulysses-chap-7-aeolus/Nelsons-pillar-trams",
+    "original_id": "2468702",
+    "referent_id": 2468702,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Nelson's pillar trams",
+    "prefix": "\n\n[7]\n\n\n IN THE HEART OF THE HIBERNIAN METROPOLIS \n\nBefore ",
+    "suffix": " slowed, shunted, changed trolley, started for Blackrock, Kingstown and Dalkey, Clonskea, Rathgar and Terenure, Palmerston Park and upper Rathmines, Sandymount Green, Rathmines, Ri",
+    "start": 59,
+    "end": 80,
+    "canonical_text": "Nelson's pillar trams"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2468702,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

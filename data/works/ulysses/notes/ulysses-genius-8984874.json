@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8984874",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Using the holy name.",
+  "html_source": "<p>Of course, the citizen does the same in this and the next sentence.</p><p>Thou shalt not take the name of the LORD thy God in vain; for the LORD will not hold him guiltless that taketh his name in vain.<br />Exodus 20:7</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8984874/James-joyce-ulysses-chap-12-cyclops/Using-the-holy-name",
+    "original_id": "8984874",
+    "referent_id": 8984874,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "using the holy name.",
+    "prefix": "e was a jew, says he. Your God was a jew. Christ was a jew like me. \n\n Gob, the citizen made a plunge back into the shop. \n\n — By Jesus, says he, I'll brain that bloody jewman for ",
+    "suffix": " By Jesus, I'll crucify him so I will. Give us that biscuitbox here. \n\n — Stop! Stop! says Joe. \n\n A large and appreciative gathering of friends and acquaintances from the metropol",
+    "start": 115891,
+    "end": 115911,
+    "canonical_text": "using the holy name."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8984874,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

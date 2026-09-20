@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20224084",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Closing time",
+  "html_source": "<p>i.e. closing time for pubs</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20224084/James-joyce-ulysses-chap-6-hades/Closing-time",
+    "original_id": "20224084",
+    "referent_id": 20224084,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "closing time",
+    "prefix": "under first. Wonder how he looks at life. Cracking his jokes too: warms the cockles of his heart. The one about the bulletin. Spurgeon went to heaven 4 a.m. this morning. 11 p.m. (",
+    "suffix": "). Not1986#89 arrived yet. Peter. The dead themselves the men1932#97 anyhow would like to hear an odd joke or the women to know what's in fashion. A juicy pear or ladies' punch, ho",
+    "start": 47580,
+    "end": 47592,
+    "canonical_text": "closing time"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20224084,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11041825,
+        "login": "raggedclaws",
+        "name": "raggedclaws",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

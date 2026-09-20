@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10121254",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "The vieille ogresse with the dents jaunes.",
+  "html_source": "<p>The old ogress with the yellow teeth.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10121254/James-joyce-ulysses-chap-15-circe/The-vieille-ogresse-with-the-dents-jaunes",
+    "original_id": "10121254",
+    "referent_id": 10121254,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "The vieille ogresse with the dents jaunes.",
+    "prefix": " \n\n I seem to annoy them. Green rag to a bull. \n\n(Kevin Egan of Paris in black Spanish tasselled shirt and peep-o'-day boy's hat signs to Stephen.) \n\n KEVIN EGAN \n\n H'lo! Bonjour! ",
+    "suffix": " \n\n(Patrice Egan peeps from behind, his rabbitface nibbling a quince leaf.) \n\n PATRICE \n\n Socialiste! \n\n1939#416\n\n DON EMILE PATRIZIO FRANZ RUPERT POPE HENNESSY \n\n(In medieval haub",
+    "start": 219534,
+    "end": 219576,
+    "canonical_text": "The vieille ogresse with the dents jaunes."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10121254,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-6711108",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Buonaroba",
+  "html_source": "<p>Usually <em>roba buona</em> in Italian, used to refer to the good stuff or the good things in life. Here meaning one who enjoys the finer things of life.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6711108/James-joyce-ulysses-chap-9-scylla-and-charybdis/Buonaroba",
+    "original_id": "6711108",
+    "referent_id": 6711108,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "buonaroba",
+    "prefix": "en said. There is a saying of Goethe's which Mr Magee likes to quote. Beware of what you wish for in youth because you will get it in middle life. Why does he send to one who is a ",
+    "suffix": ", a bay where all men ride, a maid of honour with a scandalous girlhood, a lordling to woo for him? He was himself a lord of language and had made himself a coistrel gentleman and ",
+    "start": 25458,
+    "end": 25467,
+    "canonical_text": "buonaroba"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6711108,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1618748,
+        "login": "Kataryna",
+        "name": "Kataryna",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

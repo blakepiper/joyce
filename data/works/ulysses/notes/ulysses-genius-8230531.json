@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8230531",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Mr Cunningham",
+  "html_source": "<p>Conmee starts his journey in Gardiner Street Church, which is also associated with Cunningham in the <em>Dubliners</em> story ‘Grace’.</p><p>(<a href=\"https://en.wikipedia.org/wiki/Saint_Francis_Xavier_Church,_Dublin\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Saint_Francis_Xavier_Church,_Dublin</a>)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8230531/James-joyce-ulysses-chap-10-wandering-rocks/Mr-cunningham",
+    "original_id": "8230531",
+    "referent_id": 8230531,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Mr Cunningham",
+    "prefix": " the presbytery steps. Five to three. Just nice time to walk to Artane. What was that boy's name again? Dignam. Yes. Vere dignum et iustum est. Brother Swan was the person to see. ",
+    "suffix": "'s letter. Yes. Oblige him, if possible. Good practical catholic: useful at mission time. \n\n A onelegged sailor, swinging himself onward by lazy jerks of his crutches, growled some",
+    "start": 300,
+    "end": 313,
+    "canonical_text": "Mr Cunningham"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8230531,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1520984,
+        "login": "RedSwanHotel",
+        "name": "RedSwanHotel",
+        "role": "contributor",
+        "attribution": 0.9795918367346939
+      },
+      {
+        "id": 7060080,
+        "login": "keithalt",
+        "name": "keithalt",
+        "role": null,
+        "attribution": 0.020408163265306124
+      }
+    ]
+  },
+  "color": "F59627"
+}

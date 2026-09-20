@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-6920182",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Quaffed",
+  "html_source": "<p>To drink largely and luxuriously.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6920182/James-joyce-ulysses-chap-11-sirens/Quaffed",
+    "original_id": "6920182",
+    "referent_id": 6920182,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "quaffed",
+    "prefix": "her, laid by his dry filled pipe. \n\n — I see, he said. I didn't recognise him for the moment. I hear he is keeping very select company. Have you seen him lately? \n\n He had. \n\n — I ",
+    "suffix": " the nectarbowl with him this very day, said Lenehan. In Mooney's en ville and in Mooney's sur mer. He had received the rhino for the labour of his muse. \n\n He smiled at bronze's t",
+    "start": 12890,
+    "end": 12897,
+    "canonical_text": "quaffed"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6920182,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1618748,
+        "login": "Kataryna",
+        "name": "Kataryna",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

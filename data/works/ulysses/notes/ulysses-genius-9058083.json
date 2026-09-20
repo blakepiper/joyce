@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9058083",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Hogo",
+  "html_source": "now dialectal, England   a notably strong flavor or smell<br />Merriam-Webster.com",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9058083/James-joyce-ulysses-chap-13-nausicaa/Hogo",
+    "original_id": "9058083",
+    "referent_id": 9058083,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "hogo",
+    "prefix": "Hm. Very well, thank you. Animals go by that. Yes now, look at it that way. We're the same. Some women for instance warn you off when they have their period. Come near. Then get a ",
+    "suffix": " you could hang your hat on. Like what? Potted herrings gone stale or. Boof! Please keep off the grass. \n\n Perhaps they get a man smell off us. What though? Cigary gloves Long John",
+    "start": 72986,
+    "end": 72990,
+    "canonical_text": "hogo"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9058083,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

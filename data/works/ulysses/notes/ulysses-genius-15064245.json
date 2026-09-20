@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15064245",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Maynooth",
+  "html_source": "<p>Maynooth is a town in County Kildare, not far from Dublin.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15064245/James-joyce-ulysses-chap-9-scylla-and-charybdis/Maynooth",
+    "original_id": "15064245",
+    "referent_id": 15064245,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Maynooth",
+    "prefix": "f adultery. But it was the original sin that darkened his understanding, weakened his will and left in him a strong inclination to evil. The words are those of my lords bishops of ",
+    "suffix": ": an original sin and, like original sin, 1932#190committed by another in whose sin he too has sinned. It is between the lines of his last written words, it is petrified on his tom",
+    "start": 58372,
+    "end": 58380,
+    "canonical_text": "Maynooth"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15064245,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

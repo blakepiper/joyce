@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2473088",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Phantasmal",
+  "html_source": "<p>Not existing in nature or subject to explanation according to natural laws; not physical or material.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2473088/James-joyce-ulysses-chap-1-telemachus/Phantasmal",
+    "original_id": "2473088",
+    "referent_id": 2473088,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Phantasmal",
+    "prefix": "he was a girl. She heard old Royce sing1986#8 in the pantomime of Turko the terrible and laughed with others when he sang: \n\nI am the boy \nThat can enjoy \nInvisibility. \n\n1932#9\n\n ",
+    "suffix": " mirth, folded away: muskperfumed. \n\nAnd no more turn aside and brood. \n\n Folded away in the memory of nature with her toys. Memories beset his brooding brain. Her glass of water f",
+    "start": 15117,
+    "end": 15127,
+    "canonical_text": "Phantasmal"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2473088,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

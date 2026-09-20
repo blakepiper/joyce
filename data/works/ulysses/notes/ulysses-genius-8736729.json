@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8736729",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Ranker",
+  "html_source": "<p>A soldier risen through the ranks to become an officer (Gifford, p72).</p><p>PROPOSED SUGGESTION: …come to a city gate, sentry there …“I wonder if he is quoting Kafka.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8736729/James-joyce-ulysses-chap-4-calypso/Ranker",
+    "original_id": "8736729",
+    "referent_id": 8736729,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "ranker",
+    "prefix": " in front of the sun, steal a day's march on him. Keep it up for ever never grow a day older technically. Walk along a strand, strange land, come to a city gate, sentry there, old ",
+    "suffix": " too, old Tweedy's big moustaches, leaning on a long kind of a spear. Wander through awned streets. Turbaned faces going by. Dark caves of carpet shops, big man, Turko the terrible",
+    "start": 5553,
+    "end": 5559,
+    "canonical_text": "ranker"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8736729,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

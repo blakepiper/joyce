@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15161026",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Soutane",
+  "html_source": "<p>Type of cloak or cassock worn by Roman Catholic priests, typically black/white in color.</p><p><img src=\"https://images.genius.com/3358a3a9099cab58e35b494125938947.800x800x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15161026/James-joyce-ulysses-chap-15-circe/Soutane",
+    "original_id": "15161026",
+    "referent_id": 15161026,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "soutane",
+    "prefix": "491\n\n STEPHEN \n\n Cardinal sin. Monks of the screw. \n\n1939#370\n\n(His Eminence Simon Stephen Cardinal Dedalus, Primate of all Ireland, appears in the doorway, dressed in red 1961#523",
+    "suffix": ", sandals and socks. Seven dwarf simian acolytes, also in red, cardinal sins, uphold his train, peeping under it. He wears a battered silk hat sideways on his head. His thumbs are ",
+    "start": 133454,
+    "end": 133461,
+    "canonical_text": "soutane"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15161026,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

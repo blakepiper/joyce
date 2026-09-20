@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9091708",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Fisherman’s seal",
+  "html_source": "<p>The Ring of the Fisherman (Latin: Annulus Piscatoris; Italian: Anello Piscatorio), also known as the Piscatory Ring, is an official part of the regalia worn by the Pope, who is head of the Catholic Church and successor of Saint Peter, who was a fisherman by trade.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9091708/James-joyce-ulysses-chap-14-oxen-of-the-sun/Fishermans-seal",
+    "original_id": "9091708",
+    "referent_id": 9091708,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "fisherman's seal",
+    "prefix": "ther foldeth ever souls for God's greater glory whereas that earthly mother which was but a dam to bring forth beastly should die by canon for so saith 1939#281he that holdeth the ",
+    "suffix": ", even that blessed Peter on which rock was holy church for all ages founded. All they bachelors then asked of sir Leopold would he in like case so jeopard her person as risk life ",
+    "start": 17801,
+    "end": 17817,
+    "canonical_text": "fisherman's seal"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9091708,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

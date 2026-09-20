@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8336925",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "New Viennese",
+  "html_source": "<p>Freudian (and/or perhaps Jungian) psychoanalysis.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8336925/James-joyce-ulysses-chap-9-scylla-and-charybdis/New-viennese",
+    "original_id": "8336925",
+    "referent_id": 8336925,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "new Viennese",
+    "prefix": "smiles. \n\n1939#150\n\n — Saint Thomas, Stephen, smiling, said, whose gorbellied works I enjoy reading in the original, writing of incest from a standpoint different from that of the ",
+    "suffix": " school Mr Magee spoke of, likens it in his wise and curious way to an avarice of the emotions. He means that the love so given to one near in blood is covetously withheld 1932#184",
+    "start": 44600,
+    "end": 44612,
+    "canonical_text": "new Viennese"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8336925,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2568065,
+        "login": "GeoffBobker",
+        "name": "GeoffBobker",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

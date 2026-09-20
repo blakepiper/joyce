@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9148941",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Murphy",
+  "html_source": "<p>Wrapped in the arms of Morpheus, in other words.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9148941/James-joyce-ulysses-chap-16-eumaeus/Murphy",
+    "original_id": "9148941",
+    "referent_id": 9148941,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Murphy",
+    "prefix": "ll that. \n\n Anyhow, they passed the sentrybox with stones, brazier, etc. where the municipal supernumerary, ex-Gumley, was still to all intents and purposes wrapped in the arms of ",
+    "suffix": ", as the adage has it, dreaming of fresh fields and pastures new. And apropos of coffin of stones, the analogy was not at all bad, as it was in fact a stoning to death on the part ",
+    "start": 119303,
+    "end": 119309,
+    "canonical_text": "Murphy"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 9148941,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3260073,
+        "login": "DavidBoyle",
+        "name": "DavidBoyle",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

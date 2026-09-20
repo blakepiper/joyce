@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8813745",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Robert Ball’s",
+  "html_source": "<p>Robert Ball (1802-1857) was an Irish naturalist. He was a Member of the Royal Irish Academy and President of the Geological Society of Ireland</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8813745/James-joyce-ulysses-chap-8-lestrygonians/Robert-balls",
+    "original_id": "8813745",
+    "referent_id": 8813745,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Robert Ball's",
+    "prefix": " Mr Bloom moved forward raising his troubled eyes. Think no more about that. After one. Timeball on the ballastoffice is down. Dunsink time. Fascinating little book that is of sir ",
+    "suffix": ". Parallax. I never exactly understood. There's a priest. Could ask him. Par it's Greek: parallel, parallax. Met him pike hoses she called it till I told her about the transmigrati",
+    "start": 6563,
+    "end": 6576,
+    "canonical_text": "Robert Ball's"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8813745,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8533207",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Blumenlied",
+  "html_source": "<p>Play on “Bloom”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8533207/James-joyce-ulysses-chap-11-sirens/Blumenlied",
+    "original_id": "8533207",
+    "referent_id": 8533207,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Blumenlied",
+    "prefix": "he tune. Question of mood you're in. Still always nice to hear. Except scales up and down, girls learning. Two together nextdoor neighbours. Ought to invent dummy pianos for that. ",
+    "suffix": " I bought for her. The name. Playing it slow, a girl, night I came home, the girl. Door of the stables near Cecilia street. Milly no taste. Queer because we both, I mean. \n\n1939#20",
+    "start": 46394,
+    "end": 46404,
+    "canonical_text": "Blumenlied"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8533207,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

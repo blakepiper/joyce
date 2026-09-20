@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-28997960",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Red nose",
+  "html_source": "<p>Carbuncular noses are a classic symptom of long-term heavy alcohol consumption.  With this sentence (praying to be a person of temperance) and the following (praying in the moment for help indulging his urges), he highlights his youthful contradiction and hypocrisy.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/28997960/James-joyce-ulysses-chap-3-proteus/Red-nose",
+    "original_id": "28997960",
+    "referent_id": 28997960,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "red nose",
+    "prefix": "g) twang in diphthong. \n\n Cousin Stephen, you will never be a saint. Isle of saints. You were awfully holy, weren't you? You prayed to the Blessed Virgin that you might not have a ",
+    "suffix": ". You prayed to the devil in Serpentine avenue that the fubsy widow in front might lift her clothes still more from the wet street. O si, certo! Sell your soul for that, do, dyed r",
+    "start": 7935,
+    "end": 7943,
+    "canonical_text": "red nose"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 28997960,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2715160,
+        "login": "oskular",
+        "name": "oskular",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

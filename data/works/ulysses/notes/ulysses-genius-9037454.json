@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9037454",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Lovely dog Garryowen",
+  "html_source": "<p>Very different description of the dog than in the last chapter.</p><p>“Old Garryowen started growling again at Bloom”</p><p>“the citizen  up in the corner having a great confab with himself and that bloody mangy mongrel, Garryowen,”</p><p>“The bloody mongrel let a grouse out of him would give you the creeps. Be a corporal work of mercy if someone would take the life of that   bloody dog. I’m told for a fact he ate a good part of the breeches off a constabulary man in Santry that came round one time with a blue paper  about a licence.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9037454/James-joyce-ulysses-chap-13-nausicaa/Lovely-dog-garryowen",
+    "original_id": "9037454",
+    "referent_id": 9037454,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "lovely dog Garryowen",
+    "prefix": "ouldn't eat something poetical like violets or roses and they would have a beautifully appointed drawingroom with pictures and engravings and the photograph of grandpapa Giltrap's ",
+    "suffix": " that almost talked it was so human and chintz covers for the chairs and that silver toastrack in Clery's summer jumble sales like they have in rich houses. He would be tall with b",
+    "start": 16160,
+    "end": 16180,
+    "canonical_text": "lovely dog Garryowen"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9037454,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15120749",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "She could get up on a truss of hay",
+  "html_source": "<p>This is a line in the first stanza of “The Low-Backed Car”. Other music references appearing in this paragraph are as follows: “Ballyhooly” is from an old Irish temperance song; “Colleen Bawn” is a symbol of Irish womanhood from The Lily of Killarney; “The Tune the Old Cow Died On” is a more comic song in which a farmer plays bagpipes to his cow, and the cow, in attempting to emulate the noise, expires.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15120749/James-joyce-ulysses-chap-12-cyclops/She-could-get-up-on-a-truss-of-hay",
+    "original_id": "15120749",
+    "referent_id": 15120749,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "she could get up on a truss of hay",
+    "prefix": "his throat till the Lord would call him before you'd ever see the froth of his pint. And one night I went in with a fellow into one of their musical evenings, song and dance about ",
+    "suffix": " she could my Maureen Lay and there was a fellow with a Ballyhooly blue ribbon badge spiffing out of him in Irish and a lot of colleen bawns going about with temperance beverages a",
+    "start": 44668,
+    "end": 44702,
+    "canonical_text": "she could get up on a truss of hay"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15120749,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

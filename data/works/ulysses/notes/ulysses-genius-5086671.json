@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5086671",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Warm sweet fumes of Graham Lemon’s",
+  "html_source": "<p>Implies Bloom is close to the sweet shop, ie he’s on the street.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5086671/James-joyce-ulysses-chap-8-lestrygonians/Warm-sweet-fumes-of-graham-lemons",
+    "original_id": "5086671",
+    "referent_id": 5086671,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "warm sweet fumes of Graham Lemon's",
+    "prefix": "ummies. Lozenge and comfit manufacturer to His Majesty the King. God. Save. Our. Sitting on his throne sucking red jujubes white.\n\n A sombre Y.M.C.A. young man, watchful among the ",
+    "suffix": ", placed a throwaway in a hand of Mr Bloom. \n\n Heart to heart talks. \n\n Bloo... Me? No. \n\n Blood of the Lamb. \n\n His slow feet walked him riverward, reading. Are you saved? All are",
+    "start": 342,
+    "end": 376,
+    "canonical_text": "warm sweet fumes of Graham Lemon's"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5086671,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

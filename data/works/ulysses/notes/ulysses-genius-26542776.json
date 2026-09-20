@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-26542776",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "The hammock",
+  "html_source": "<p>As you can still see today in the Sandycove Martello tower (now preserved and operated as the <a href=\"https://en.wikipedia.org/wiki/James_Joyce_Tower_and_Museum\" rel=\"noopener nofollow\">James Joyce Tower and Museum</a>), the second floor living space did not have enough room for three beds, and scarcely enough room for two, so Haines (or in real life, <a href=\"https://www.bloomsandbarnacles.com/blog/2018/08/28/who-was-haines\" rel=\"noopener nofollow\">Samuel C. Trench</a>) sleeps on a hammock in the corner. The living room also contained their breakfast table, a stove, a fireplace, and a locker box referred to in the previous line.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/26542776/James-joyce-ulysses-chap-1-telemachus/The-hammock",
+    "original_id": "26542776",
+    "referent_id": 26542776,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "the hammock",
+    "prefix": "f fried grease floated, turning. \n\n — We'll be choked, Buck Mulligan said. Haines, open that door, will you? \n\n Stephen laid the shavingbowl on the locker. A tall figure rose from ",
+    "suffix": " where it had been sitting, went to the doorway and pulled open the inner doors. \n\n — Have you the key? a voice asked. \n\n — Dedalus has it, Buck Mulligan said. Janey Mack, I'm chok",
+    "start": 18358,
+    "end": 18369,
+    "canonical_text": "the hammock"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 26542776,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 8067236,
+        "login": "AndyVineborg",
+        "name": "AndyVineborg",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

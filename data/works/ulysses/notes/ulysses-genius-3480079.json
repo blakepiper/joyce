@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3480079",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Peter Piper pecked a peck of pick of peck of pickled pepper.",
+  "html_source": "<p>Internal narrative</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3480079/James-joyce-ulysses-chap-9-scylla-and-charybdis/Peter-piper-pecked-a-peck-of-pick-of-peck-of-pickled-pepper",
+    "original_id": "3480079",
+    "referent_id": 3480079,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Peter Piper pecked a peck of pick of peck of pickled pepper.",
+    "prefix": "? Exploitable ground. \n\n — Are you going? John Eglinton's active eyebrows asked. Shall we see you at Moore's tonight? Piper is coming. \n\n — Piper! Mr Best piped. Is Piper back? \n\n ",
+    "suffix": " \n\n — I don't know if I can. Thursday. We have our meeting. If I can get away in time. \n\n Yogibogeybox in Dawson chambers. Isis Unveiled. Their Pali book we 1932#171tried to pawn. ",
+    "start": 15424,
+    "end": 15484,
+    "canonical_text": "Peter Piper pecked a peck of pick of peck of pickled pepper."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3480079,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

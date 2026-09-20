@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3169250",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "M. Drumont",
+  "html_source": "<p>Kevin Egan is now speaking.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3169250/James-joyce-ulysses-chap-3-proteus/M-drumont",
+    "original_id": "3169250",
+    "referent_id": 3169250,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "M. Drumont",
+    "prefix": "32#39 as his yokefellow, our crimes our common cause. You're your father's son. I know the voice. His fustian shirt, sanguineflowered, trembles its Spanish tassels at his secrets. ",
+    "suffix": ", famous journalist, Drumont, know what he called queen Victoria? Old hag with the yellow teeth. Vieille ogresse with the dents jaunes. Maud Gonne, beautiful woman, La Patrie, M. M",
+    "start": 14380,
+    "end": 14390,
+    "canonical_text": "M. Drumont"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3169250,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5093180",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Still",
+  "html_source": "<p>The adverb makes a character out of place: Dillon’s Auction rooms:</p><p><img src=\"https://images.rapgenius.com/272aba3d9011c8f57be9faf27c210825.200x127x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5093180/James-joyce-ulysses-chap-8-lestrygonians/Still",
+    "original_id": "5093180",
+    "referent_id": 5093180,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "still",
+    "prefix": "was born. The phosphorescence, that bluey greeny. Very good for the brain. \n\n From Butler's monument house corner he glanced along Bachelor's walk. 1922#144Dedalus' daughter there ",
+    "suffix": " outside Dillon's auctionrooms. Must be selling off some old furniture. Knew her eyes at once from the father. Lobbing about waiting for him. Home always breaks up when the mother ",
+    "start": 1618,
+    "end": 1623,
+    "canonical_text": "still"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9689
+  },
+  "genius": {
+    "referent_id": 5093180,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

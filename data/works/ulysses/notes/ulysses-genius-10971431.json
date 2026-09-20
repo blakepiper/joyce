@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-10971431",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Looks relieved.",
+  "html_source": "<p>Another theme in Ulysses: how fantasy can affect the present reality. The empty hearse looks “relieved” to Bloom because he has just been thinking if Dignam’s coffin were to fall out of the hearse.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10971431/James-joyce-ulysses-chap-6-hades/Looks-relieved",
+    "original_id": "10971431",
+    "referent_id": 10971431,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "looks relieved.",
+    "prefix": " ooze out of an artery. It would be better to bury them in red: a dark red. \n\n In silence they drove along Phibsborough road. An empty hearse trotted by, coming from the cemetery: ",
+    "suffix": " \n\n Crossguns bridge: the royal canal. \n\n Water rushed roaring through the sluices. A man stood on his dropping barge, between clamps of turf. On the towpath by the lock a1932#88 s",
+    "start": 25601,
+    "end": 25616,
+    "canonical_text": "looks relieved."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10971431,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1060900,
+        "login": "dvrath",
+        "name": "dvrath",
+        "role": "contributor",
+        "attribution": 0.9705882352941176
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.029411764705882356
+      }
+    ]
+  },
+  "color": "F59627"
+}

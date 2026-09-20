@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21139231",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Stratford monument",
+  "html_source": "<p><a href=\"https://joyceimages.com/U9.1073-5186\" rel=\"noopener nofollow\">https://joyceimages.com/U9.1073-5186</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21139231/James-joyce-ulysses-chap-9-scylla-and-charybdis/Stratford-monument",
+    "original_id": "21139231",
+    "referent_id": 21139231,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Stratford monument",
+    "prefix": "there is some mystery in Hamlet but will say no more. Herr Bleibtreu, the man Piper met in Berlin, who is working up that Rutland theory, believes that the secret is hidden in the ",
+    "suffix": ". He is going to visit the present duke, Piper says, and prove to him that his ancestor wrote the plays. It will come as a surprise to his grace. But he believes his theory. \n\n I b",
+    "start": 62689,
+    "end": 62707,
+    "canonical_text": "Stratford monument"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21139231,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

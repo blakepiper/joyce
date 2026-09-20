@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-3100000",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Heresiarch’",
+  "html_source": "<p>Archaic term for a heretic, connecting with the nearby <a href=\"http://poetry.genius.com/2468630\" rel=\"noopener nofollow\">Arius references</a>.</p><p><img src=\"https://images.rapgenius.com/92f88cab78e53e7902b319576b7595c5.288x343x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3100000/James-joyce-ulysses-chap-3-proteus/Heresiarch",
+    "original_id": "3100000",
+    "referent_id": 3100000,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "heresiarch'",
+    "prefix": "ine substance wherein Father and Son are consubstantial? Where is poor dear Arius to try conclusions? Warring his life long on the contransmagnificandjewbangtantiality. Illstarred ",
+    "suffix": ". In a Greek watercloset he breathed his last: euthanasia. With beaded mitre and with crozier, stalled upon his throne, widower of a widowed see, with upstiffed omophorion, with cl",
+    "start": 3328,
+    "end": 3338,
+    "canonical_text": "heresiarch"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 3100000,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 170881,
+        "login": "Abraxas01",
+        "name": "Abraxas01",
+        "role": "editor",
+        "attribution": 0.975609756097561
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.024390243902439025
+      }
+    ]
+  },
+  "color": "F59627"
+}

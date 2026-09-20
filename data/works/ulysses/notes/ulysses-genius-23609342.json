@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23609342",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Ruling passion strong in death",
+  "html_source": "<p>A quotation from Alexander Pope’s “The Ruling Passion” (1708)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23609342/James-joyce-ulysses-chap-12-cyclops/Ruling-passion-strong-in-death",
+    "original_id": "23609342",
+    "referent_id": 23609342,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Ruling passion strong in death",
+    "prefix": "ead warder that was in Kilmainham when they hanged Joe Brady, the invincible. He told me when they cut him down after the drop it was standing up in their faces like a poker. \n\n — ",
+    "suffix": ", says Joe, as someone said. \n\n — That can be explained by science, says Bloom. It's only a natural phenomenon, don't you see, because on account of the... \n\n And then he starts wi",
+    "start": 28614,
+    "end": 28644,
+    "canonical_text": "Ruling passion strong in death"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23609342,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

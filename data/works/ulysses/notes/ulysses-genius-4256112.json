@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4256112",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "And going forth he met Butterly.",
+  "html_source": "<p>Mocking “And going forth, he wept bitterly” (<a href=\"https://genius.com/4442245\" rel=\"noopener nofollow\">Matthew 26:75</a>) – as St. Peter recognizes he has denied Jesus three times.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4256112/James-joyce-ulysses-chap-1-telemachus/And-going-forth-he-met-butterly",
+    "original_id": "4256112",
+    "referent_id": 4256112,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "And going forth he met Butterly.",
+    "prefix": "igan answered, going towards the door. Come out, Kinch. You have eaten all we left, I suppose. Resigned he passed out with grave words and gait, saying, wellnigh with sorrow: \n\n — ",
+    "suffix": " \n\n Stephen, taking his ashplant from its leaningplace, followed them out and, as they went down the ladder, pulled to the slow iron door and locked it. He put the huge key in his ",
+    "start": 29553,
+    "end": 29585,
+    "canonical_text": "And going forth he met Butterly."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4256112,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15153776",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Pluterperfect",
+  "html_source": "<p><a href=\"https://en.wiktionary.org/wiki/pluterperfect\" rel=\"noopener nofollow\">Pluterperfect</a> is apparently a Joyce-ism meaning more than perfect.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15153776/James-joyce-ulysses-chap-14-oxen-of-the-sun/Pluterperfect",
+    "original_id": "15153776",
+    "referent_id": 15153776,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "pluterperfect",
+    "prefix": "Scep.) remark 1961#419(or should it be called an interruption?) that an omnivorous being which can masticate, deglute, digest and apparently pass through the ordinary channel with ",
+    "suffix": " imperturbability such multifarious aliments as cancrenous females emaciated by parturition, corpulent professional gentlemen, not to speak of jaundiced politicians and chlorotic n",
+    "start": 93500,
+    "end": 93513,
+    "canonical_text": "pluterperfect"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15153776,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

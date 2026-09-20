@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9620022",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Chancre",
+  "html_source": "<p>a painless ulcer, particularly one developing on the genitals as a result of venereal disease.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9620022/James-joyce-ulysses-chap-15-circe/Chancre",
+    "original_id": "9620022",
+    "referent_id": 9620022,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "chancre",
+    "prefix": "E \n\n How's the nuts? \n\n BLOOM \n\n Off side. Curiously they are on the right. Heavier, I suppose. One in a million my tailor, Mesias, says. \n\n ZOE \n\n(In sudden alarm.) You've a hard ",
+    "suffix": ". \n\n BLOOM \n\n Not likely. \n\n ZOE \n\n I feel it. \n\n(Her hand slides into his left trouser pocket and brings out a hard black shrivelled potato. She regards it and Bloom with dumb moi",
+    "start": 65240,
+    "end": 65247,
+    "canonical_text": "chancre"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9620022,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

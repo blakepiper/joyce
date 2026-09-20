@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4793288",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "From her or from him",
+  "html_source": "<p>Stephen refuses to look for support from the milkwoman or Haines, who here symbolize poor old Ireland and wealthy England.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4793288/James-joyce-ulysses-chap-1-telemachus/From-her-or-from-him",
+    "original_id": "4793288",
+    "referent_id": 4793288,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "from her or from him",
+    "prefix": "ss up, I think. \n\n — I blow him out about you, Buck Mulligan said, and then you come along with your lousy leer and your gloomy jesuit jibes. \n\n — I see little hope, Stephen said, ",
+    "suffix": ". \n\n1939#14\n\n Buck Mulligan sighed tragically and laid his hand on Stephen's arm. \n\n — From me, Kinch, he said. \n\n In a suddenly changed tone he added: \n\n — To tell you the God's t",
+    "start": 28174,
+    "end": 28194,
+    "canonical_text": "from her or from him"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4793288,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 0.8
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.2
+      }
+    ]
+  },
+  "color": "F59627"
+}

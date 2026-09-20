@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2381222",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Franklin that hight Lenehan",
+  "html_source": "<p>Joyce gets downright Chaucerian again with this phrase. The term “franklin” referred to a wealthy, freeborn non-noble who held property, which seems to allude to the fact that Lenehan folds more bank than his friends (and he’s particularly wealthier than Stephen). “Hight” simply means “named.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2381222/James-joyce-ulysses-chap-14-oxen-of-the-sun/Franklin-that-hight-lenehan",
+    "original_id": "2381222",
+    "referent_id": 2381222,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "franklin that hight Lenehan",
+    "prefix": " sort of scholars along either side the board, that is to wit, Dixon yclept junior of saint Mary Merciable's with other his fellows Lynch and Madden, scholars of medicine, and the ",
+    "suffix": " and one from Alba Longa, one Crotthers, and young Stephen that had mien of a frere that was at head of the board and Costello that men clepen Punch Costello all long of a mastery ",
+    "start": 13340,
+    "end": 13367,
+    "canonical_text": "franklin that hight Lenehan"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 2381222,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 141494,
+        "login": "Soma_Cruz",
+        "name": "Soma_Cruz",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

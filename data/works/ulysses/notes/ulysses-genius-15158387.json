@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15158387",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Rigadoon",
+  "html_source": "<p>A lively dance for couples, in duple or quadruple time, of Provençal origin; said to be named for a French dance teacher named Rigaud (fl. 1600s).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15158387/James-joyce-ulysses-chap-15-circe/Rigadoon",
+    "original_id": "15158387",
+    "referent_id": 15158387,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "rigadoon",
+    "prefix": "ynooth? You're like someone I knew once. \n\n1922#487\n\n STEPHEN \n\n Out of it now. (To himself.) Clever. \n\n1939#367\n\n PHILIP DRUNK AND PHILIP SOBER \n\n(Their lawnmowers purring with a ",
+    "suffix": " of grasshalms). Clever ever. Out of it out of it. By the bye have you the book, the thing, the ashplant? Yes, there it, yes. Cleverever outofitnow. Keep in condition. Do like us. ",
+    "start": 127861,
+    "end": 127869,
+    "canonical_text": "rigadoon"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15158387,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

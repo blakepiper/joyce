@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20259792",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "No truant",
+  "html_source": "<p>Hamlet to Horatio in 1.2: “I know you are no truant.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20259792/James-joyce-ulysses-chap-9-scylla-and-charybdis/No-truant",
+    "original_id": "20259792",
+    "referent_id": 20259792,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "no truant",
+    "prefix": "to carper's skull, to remind, to chide them not unkindly, then to the baldpink lollard costard, guiltless though maligned. \n\n — He had a good groatsworth of wit, Stephen said, and ",
+    "suffix": " memory. He carried a memory in his wallet as he 1961#190trudged to Romeville whistling The 1986#156girl I left behind me. If the earthquake did not time it we should know where to",
+    "start": 13683,
+    "end": 13692,
+    "canonical_text": "no truant"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20259792,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11041825,
+        "login": "raggedclaws",
+        "name": "raggedclaws",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

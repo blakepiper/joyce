@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9037546",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Pinnies",
+  "html_source": "<p>pinafores</p><p><img src=\"https://images.rapgenius.com/89d8f106883f610b7461ae2b4f312de9.360x608x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9037546/James-joyce-ulysses-chap-13-nausicaa/Pinnies",
+    "original_id": "9037546",
+    "referent_id": 9037546,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "pinnies",
+    "prefix": "it was his ball and he wanted his ball and he pranced on the ground, if you please. The temper of him! O, he was a man 1939#255already was little Tommy Caffrey since he was out of ",
+    "suffix": ". Edy told him no, no and to be off now with him and she told Cissy Caffrey not to give in to him. \n\n — You're not my sister, naughty Tommy said. It's my ball. \n\n But Cissy Caffrey",
+    "start": 17440,
+    "end": 17447,
+    "canonical_text": "pinnies"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9037546,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

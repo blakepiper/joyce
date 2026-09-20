@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8798850",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Jennets",
+  "html_source": "<p>jen·net<br />noun<br />a female donkey.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8798850/James-joyce-ulysses-chap-7-aeolus/Jennets",
+    "original_id": "8798850",
+    "referent_id": 8798850,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "jennets",
+    "prefix": "1961#118 Demesne situate in the townland of Rosenallis, barony of Tinnahinch. To all 1922#114whom it may concern schedule pursuant to statute showing return of number of mules and ",
+    "suffix": " exported from Ballina. Nature notes. Cartoons. Phil Blake's weekly Pat and Bull story. Uncle Toby's page for tiny tots. Country bumpkin's queries. Dear Mr Editor, what is a good c",
+    "start": 5058,
+    "end": 5065,
+    "canonical_text": "jennets"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8798850,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

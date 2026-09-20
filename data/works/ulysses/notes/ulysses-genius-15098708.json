@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15098708",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Rhino",
+  "html_source": "<p>Slang for money, metonymously derived from their  ivory tusks.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15098708/James-joyce-ulysses-chap-11-sirens/Rhino",
+    "original_id": "15098708",
+    "referent_id": 15098708,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "rhino",
+    "prefix": "company. Have you seen him lately? \n\n He had. \n\n — I quaffed the nectarbowl with him this very day, said Lenehan. In Mooney's en ville and in Mooney's sur mer. He had received the ",
+    "suffix": " for the labour of his muse. \n\n He smiled at bronze's teabathed lips, at listening lips and eyes: \n\n1961#262\n\n — The élite of Erin hung upon his lips. The ponderous pundit, Hugh Ma",
+    "start": 13017,
+    "end": 13022,
+    "canonical_text": "rhino"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15098708,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

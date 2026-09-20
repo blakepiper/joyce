@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15149260",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Ne have him in aught contrarious to his list",
+  "html_source": "<p>That is, nor would he do anything contrary to his desires.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15149260/James-joyce-ulysses-chap-14-oxen-of-the-sun/Ne-have-him-in-aught-contrarious-to-his-list",
+    "original_id": "15149260",
+    "referent_id": 15149260,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "ne have him in aught contrarious to his list",
+    "prefix": "ed the learningknight though she trowed well that the traveller had said thing that was false for his subtility. But the learningknight would not hear say nay nor do her mandement ",
+    "suffix": " and he said how it was a marvellous castle. And the traveller Leopold went into the castle for to rest him for 1961#386a space being sore of limb after many marches environing in ",
+    "start": 9434,
+    "end": 9478,
+    "canonical_text": "ne have him in aught contrarious to his list"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15149260,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

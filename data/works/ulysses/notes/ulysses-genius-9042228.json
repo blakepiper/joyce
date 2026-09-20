@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9042228",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Tantum ergo",
+  "html_source": "<p><a href=\"https://www.youtube.com/watch?v=w8fVgqTtPfA\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=w8fVgqTtPfA</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9042228/James-joyce-ulysses-chap-13-nausicaa/Tantum-ergo",
+    "original_id": "9042228",
+    "referent_id": 9042228,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Tantum ergo",
+    "prefix": " he never took his eyes off of her and then Canon O'Hanlon handed the thurible back to Father Conroy and knelt down looking up at the Blessed Sacrament and the choir began to sing ",
+    "suffix": " and she just swung her foot in and out in time as the music rose and fell to the Tantumer gosa cramen tum. Three and eleven she paid for those stockings in Sparrow's of George's s",
+    "start": 35027,
+    "end": 35038,
+    "canonical_text": "Tantum ergo"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 9042228,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

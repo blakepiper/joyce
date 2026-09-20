@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15158195",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Basilicogrammate",
+  "html_source": "<p>French for a royal secretary or scribe (esp. in Ancient Egypt). Gifford’s note has “King of letters”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15158195/James-joyce-ulysses-chap-15-circe/Basilicogrammate",
+    "original_id": "15158195",
+    "referent_id": 15158195,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "basilicogrammate",
+    "prefix": "esh. Bloom stands, smiling desirously, twirling his thumbs. Kitty Ricketts licks her middle finger with her spittle and, gazing in the mirror, smooths both eyebrows. Lipoti Virag, ",
+    "suffix": ", chutes rapidly down through the chimneyflue and struts two steps to the left on gawky pink stilts. He is sausaged into several overcoats and wears a brown macintosh under which h",
+    "start": 115279,
+    "end": 115295,
+    "canonical_text": "basilicogrammate"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15158195,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

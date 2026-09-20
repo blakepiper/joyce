@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8361033",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Gold of oriflamme, di rimirar fe piu ardenti",
+  "html_source": "<p>An oriflamme is an ensign, banner, or standard, especially one that serves as a rallying point or symbol (Dictionary.com), something again that serves to inspire, galvanize, bring to action. “Di rimirar fè più ardenti” means “to behold is most ardent.” Looking upon certain images or symbols carries (wind-born?) with it a passion that drives those with eyes to see to express it with transcendent, visionary language. Except that age, enervation brought on by chronic remorse, life-weariness, and dimming light… you know.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8361033/James-joyce-ulysses-chap-7-aeolus/Gold-of-oriflamme-di-rimirar-fe-piu-ardenti",
+    "original_id": "8361033",
+    "referent_id": 8361033,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "gold of oriflamme, di rimirar fe piu ardenti",
+    "prefix": ", come fa, si tace. \n\n He saw them three by three, approaching girls, in green, in rose, in russet, entwining, per l'aer perso, in mauve, in purple, quella pacifica oriafiamma, in ",
+    "suffix": " But I old men, penitent, leadenfooted, underdarkneath the night: mouth south: tomb womb. \n\n — Speak up for yourself, Mr O'Madden Burke said. \n\n SUFFICIENT FOR THE DAY... \n\n J. J. ",
+    "start": 39559,
+    "end": 39604,
+    "canonical_text": "gold of oriflamme, di rimirar fè più ardenti."
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9438
+  },
+  "genius": {
+    "referent_id": 8361033,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

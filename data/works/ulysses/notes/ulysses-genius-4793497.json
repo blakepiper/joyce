@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4793497",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Agenbite of inwit",
+  "html_source": "<p><em>Agenbite of Inwit</em> (remorse of conscience) is the title of a 14th century work, by Dan Michel of Northgate.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4793497/James-joyce-ulysses-chap-1-telemachus/Agenbite-of-inwit",
+    "original_id": "4793497",
+    "referent_id": 4793497,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Agenbite of inwit",
+    "prefix": "ly a scarf about the loose collar of his tennis shirt spoke: \n\n — I intend to make a collection of your sayings if you will let me. \n\n Speaking to me. They wash and tub and scrub. ",
+    "suffix": ". Conscience. Yet here's a spot. \n\n — That one about the cracked lookingglass of a servant being the symbol of Irish art is deuced good. \n\n Buck Mulligan kicked Stephen's foot unde",
+    "start": 27139,
+    "end": 27156,
+    "canonical_text": "Agenbite of inwit"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4793497,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 0.9473684210526316
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.052631578947368425
+      }
+    ]
+  },
+  "color": "F59627"
+}

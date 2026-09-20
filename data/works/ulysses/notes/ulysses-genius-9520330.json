@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9520330",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Diadem",
+  "html_source": "<p>a jeweled crown or headband worn as a symbol of sovereignty</p><p><img src=\"https://images.genius.com/80a341a3bbbd837642f5e681ccf2582f.500x300x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9520330/James-joyce-ulysses-chap-15-circe/Diadem",
+    "original_id": "9520330",
+    "referent_id": 9520330,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "diadem",
+    "prefix": " carefully, slowly. (Tenderly, as he slips on her finger a ruby ring.)Là ci darem la mano. \n\n MRS BREEN \n\n(In a onepiece evening frock executed in moonlight blue, a tinsel sylph's ",
+    "suffix": " on her brow with her dancecard fallen beside her moonblue satin slipper, curves her palm softly, breathing quickly.) Voglio e non. You're hot! You're scalding! The left hand neare",
+    "start": 22617,
+    "end": 22623,
+    "canonical_text": "diadem"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9520330,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

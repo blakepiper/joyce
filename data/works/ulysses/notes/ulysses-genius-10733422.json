@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10733422",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Beggar my neighbour",
+  "html_source": "<p><a href=\"https://www.pagat.com/war/beggar_my_neighbour.html\" rel=\"noopener nofollow\">https://www.pagat.com/war/beggar_my_neighbour.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10733422/James-joyce-ulysses-chap-17-ithaca/Beggar-my-neighbour",
+    "original_id": "10733422",
+    "referent_id": 10733422,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "beggar my neighbour",
+    "prefix": "es. \n\n1961#685\n\n What had been his hypothetical singular solutions? \n\n Parlour games (dominos, halma, tiddledywinks, spilikins, cup and ball, nap, spoil five, bezique, twentyfive, ",
+    "suffix": ", draughts, chess or backgammon): embroidery, darning or knitting for the policeaided clothing society: musical duets, mandoline and guitar, piano and flute, guitar and piano: lega",
+    "start": 42696,
+    "end": 42715,
+    "canonical_text": "beggar my neighbour"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10733422,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

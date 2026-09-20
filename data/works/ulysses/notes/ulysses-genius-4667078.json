@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4667078",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Guinness’s",
+  "html_source": "<p>A pun on Genesis – Guinness being a famous Irish brew (stout).</p><p><img src=\"https://images.rapgenius.com/08490c514ca6161a5160c502d3814270.348x536x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4667078/James-joyce-ulysses-chap-7-aeolus/Guinnesss",
+    "original_id": "4667078",
+    "referent_id": 4667078,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Guinness's",
+    "prefix": "and he said: It is meet to be here. Let us construct a watercloset. \n\n — Which they accordingly did do, Lenehan said. Our old ancient ancestors, as we read in the first chapter of ",
+    "suffix": ", were partial to the running stream. \n\n — They were nature's gentlemen, J. J. O'Molloy murmured. But we have also Roman law. \n\n — And Pontius Pilate is its prophet, professor MacH",
+    "start": 27435,
+    "end": 27445,
+    "canonical_text": "Guinness's"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 4667078,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

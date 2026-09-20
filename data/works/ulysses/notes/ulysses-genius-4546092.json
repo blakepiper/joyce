@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4546092",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Better leave this ring behind",
+  "html_source": "<p>Molly removes her wedding ring so she can go shopping with Boylan in Belfast without starting gossip.</p><p><img src=\"https://images.rapgenius.com/daed65bad02b71688da22aa68ebcb640.1000x748x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4546092/James-joyce-ulysses-chap-18-penelope/Better-leave-this-ring-behind",
+    "original_id": "4546092",
+    "referent_id": 4546092,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "better leave this ring behind",
+    "prefix": "ose nice kimono things I must buy a mothball like I had before to keep in the drawer with them it would be exciting going round with him shopping buying those things in a new city ",
+    "suffix": " want to keep turning and turning to get it over the knuckle there or they might bell it round the town in their papers or tell the police on me but theyd think were married O let ",
+    "start": 30398,
+    "end": 30427,
+    "canonical_text": "better leave this ring behind"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4546092,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5216161",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Barreltone",
+  "html_source": "<p>Base-Barreltone: play on words. A bass-baritone is a male singer who has a low baritone or a high bass. They have baritone qualities to their voice, but can reach into deeper, true bass pitches when the musical repertoire requires it.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5216161/James-joyce-ulysses-chap-8-lestrygonians/Barreltone",
+    "original_id": "5216161",
+    "referent_id": 5216161,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "barreltone",
+    "prefix": "s for ordinary things on account of the sound. She's not exactly witty. Can be rude too. Blurt out what I was thinking. Still, I don't know. She used to say Ben Dollard had a base ",
+    "suffix": " voice. He has legs like barrels and you'd think he was singing into a barrel. Now, isn't that wit. They used to call him big Ben. Not half as witty as calling him base barreltone.",
+    "start": 7050,
+    "end": 7060,
+    "canonical_text": "barreltone"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 5216161,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1618748,
+        "login": "Kataryna",
+        "name": "Kataryna",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

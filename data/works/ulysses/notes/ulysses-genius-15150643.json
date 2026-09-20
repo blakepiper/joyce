@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15150643",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Pope Peter’s but a pissabed",
+  "html_source": "<p>Apparently a sectarian Protestant slogan? Per Penguin 20th c. Classics Annotated Students Edition (which has had its share of errors thus far).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15150643/James-joyce-ulysses-chap-14-oxen-of-the-sun/Pope-peters-but-a-pissabed",
+    "original_id": "15150643",
+    "referent_id": 15150643,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Pope Peter's but a pissabed",
+    "prefix": " pushed off in their bumboat and put to sea to recover the main of America. Which was the occasion, says Mr Vincent, of the composing by a boatswain of that rollicking chanty: \n\n— ",
+    "suffix": ". \n\n A man's a man for a' that. \n\n Our worthy acquaintance, Mr Malachi Mulligan, now appeared in the 1922#382doorway as the students were finishing their apologue accompanied with ",
+    "start": 46694,
+    "end": 46721,
+    "canonical_text": "Pope Peter's but a pissabed"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15150643,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

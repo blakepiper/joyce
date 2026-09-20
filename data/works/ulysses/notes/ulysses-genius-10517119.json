@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10517119",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Choza de",
+  "html_source": "<p><img src=\"https://images.genius.com/70b3fcfea2d88d82bccbd831f538bacb.500x354x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10517119/James-joyce-ulysses-chap-16-eumaeus/Choza-de",
+    "original_id": "10517119",
+    "referent_id": 10517119,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "choza de",
+    "prefix": " was going on. Funny, very. \n\n There ensued a somewhat lengthy pause. One man was reading in fits and starts a stained by coffee evening journal, another the card with the natives ",
+    "suffix": ", another the seaman's discharge. Mr Bloom, so far as he was personally concerned, was just pondering in pensive mood. He vividly recollected when the occurrence alluded to took pl",
+    "start": 40568,
+    "end": 40576,
+    "canonical_text": "choza de"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10517119,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

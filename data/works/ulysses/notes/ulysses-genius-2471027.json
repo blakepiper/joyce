@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-2471027",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Oxy chap",
+  "html_source": "<p>Oxy would be the nickname of an Oxonian/Saxon.</p><p>PROPOSED SUGGESTION: Also refers to Haines being a student at Oxford</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2471027/James-joyce-ulysses-chap-1-telemachus/Oxy-chap",
+    "original_id": "2471027",
+    "referent_id": 2471027,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "oxy chap",
+    "prefix": "ve more spirit than any of them. \n\n Parried again. He fears the lancet of my art as I fear that of his. The cold steelpen. \n\n — Cracked lookingglass of a servant! Tell that to the ",
+    "suffix": " downstairs and touch him for a guinea. He's stinking with money and thinks you're not a gentleman. His old fellow made his tin by selling jalap to Zulus or some bloody swindle or ",
+    "start": 9038,
+    "end": 9046,
+    "canonical_text": "oxy chap"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2471027,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.56
+      },
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 0.36
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.08
+      }
+    ]
+  },
+  "color": "F59627"
+}

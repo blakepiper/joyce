@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8465601",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Saint Francis Xavier’s church, upper Gardiner street",
+  "html_source": "<p>Father Conmee’s St.  Francis Xavier’s Church on Gardiner Street</p><p><img src=\"https://images.rapgenius.com/6091f5f6ee69265167278471913d446e.640x480x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8465601/James-joyce-ulysses-chap-10-wandering-rocks/Saint-francis-xaviers-church-upper-gardiner-street",
+    "original_id": "8465601",
+    "referent_id": 8465601,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "saint Francis Xavier's church, upper Gardiner street",
+    "prefix": "in bogs whence men might dig it out and bring it to town and hamlet to make fires in the houses of poor people. \n\n On Newcomen bridge the very reverend John Conmee S.J. 1961#221of ",
+    "suffix": ", stepped on to an outward bound tram. \n\n Off an inward bound tram stepped the reverend Nicholas Dudley C. C. of saint Agatha's church, north William street, on to Newcomen bridge.",
+    "start": 6760,
+    "end": 6812,
+    "canonical_text": "saint Francis Xavier's church, upper Gardiner street"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8465601,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

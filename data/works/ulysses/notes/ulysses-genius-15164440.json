@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15164440",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Tout le monde an avant! Révérence! Tout le monde en place!",
+  "html_source": "<p>French. “Everyone (all the world), come forward! Bow! Everyone (all the world) to [your] places!”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15164440/James-joyce-ulysses-chap-15-circe/Tout-le-monde-an-avant-reverence-tout-le-monde-en-place",
+    "original_id": "15164440",
+    "referent_id": 15164440,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Tout le monde an avant! Révérence! Tout le monde en place!",
+    "prefix": " or Levinstone's. Fancy dress balls arranged. Deportment. The Katty Lanner step. So. Watch me! My terpsichorean abilities. (He minuets forward three paces on tripping bee's feet.) ",
+    "suffix": " \n\n1932#496\n\n(The prelude ceases. Professor Goodwin, beating vague arms shrivels, sinks, his live cape falling about the stool. The air in firmer waltz time sounds. Stephen and Zoe",
+    "start": 198739,
+    "end": 198797,
+    "canonical_text": "Tout le monde en avant! Reverence! Tout le monde en place!"
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9483
+  },
+  "genius": {
+    "referent_id": 15164440,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

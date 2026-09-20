@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21137726",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "You are a delusion",
+  "html_source": "<p>Why did Eglinton not say Stephen is deluded, rather than a delusion?</p><p>Is Joyce reminding us that Stephen is a figment of Joyce’s imagination?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21137726/James-joyce-ulysses-chap-9-scylla-and-charybdis/You-are-a-delusion",
+    "original_id": "21137726",
+    "referent_id": 21137726,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "You are a delusion",
+    "prefix": "ghed, unmarried, at Eglinton Johannes, of arts a bachelor. \n\n Unwed, unfancied, ware of wiles, they fingerponder nightly each his variorum edition of The Taming of the Shrew. \n\n — ",
+    "suffix": ", said roundly John Eglinton to Stephen. You have brought us all this way to show us a French triangle. Do you believe your own theory? \n\n1961#213\n\n — No, Stephen said promptly. \n\n",
+    "start": 61986,
+    "end": 62004,
+    "canonical_text": "You are a delusion"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21137726,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

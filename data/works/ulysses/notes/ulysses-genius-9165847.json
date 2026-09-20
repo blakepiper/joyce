@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9165847",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Involution of the womb",
+  "html_source": "<p>The process by which the uterus and the other genital organs return to their normal pre-pregnant state in the postpartum period after the delivery of the fetus is called ‘involution’.<br />The uterus not only returns to it’s pre-pregnant size, but it also returns to its normal position in the pelvic cavity and regains its muscular tone.<br />Dr.M.D.Mazumdar, MD at Gynaeonline.com</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9165847/James-joyce-ulysses-chap-14-oxen-of-the-sun/Involution-of-the-womb",
+    "original_id": "9165847",
+    "referent_id": 9165847,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "involution of the womb",
+    "prefix": "in, the premature relentment of the amniotic fluid (as exemplified in the actual case) with consequent peril of sepsis to the matrix, artificial insemination by means of syringes, ",
+    "suffix": " consequent upon the menopause, the problem of the perpetuation of the species 1961#410in the case of females impregnated by delinquent rape, that distressing manner of delivery ca",
+    "start": 70252,
+    "end": 70274,
+    "canonical_text": "involution of the womb"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9165847,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

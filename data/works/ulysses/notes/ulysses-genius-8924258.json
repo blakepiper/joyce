@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8924258",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Lablache",
+  "html_source": "<p>Luigi Lablache, (born Dec. 6, 1794, Naples [Italy]—died Jan. 23, 1858, Naples), Italian operatic bass admired for his musicianship and acting.</p><p><img src=\"https://images.rapgenius.com/195dbd162be9f8708564c933445775fc.300x300x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8924258/James-joyce-ulysses-chap-11-sirens/Lablache",
+    "original_id": "8924258",
+    "referent_id": 8924258,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Lablache",
+    "prefix": "on, Ben, Simon Dedalus said. By God, you're as good as ever you were. \n\n — Better, said Tomgin Kernan. Most trenchant rendition of that ballad, upon my soul and honour it is. \n\n — ",
+    "suffix": ", said Father Cowley. \n\n1986#235\n\n Ben Dollard bulkily cachuchad towards the bar, mightily praisefed and all big roseate, on heavyfooted feet, his gouty fingers nakkering castagnet",
+    "start": 64971,
+    "end": 64979,
+    "canonical_text": "Lablache"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8924258,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

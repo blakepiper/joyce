@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8113422",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Puce gloves.",
+  "html_source": "<p>The desire for “puce gloves” reflects the vision of Irish artists adopting snotgreen as a new art color. The gloves may also be used as symbols of the death-mother whose deteriorating liver had caused her to vomit “green sluggish bile.”<br />Mulligan can be viewed as an arbiter of the death-mother.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8113422/James-joyce-ulysses-chap-3-proteus/Puce-gloves",
+    "original_id": "8113422",
+    "referent_id": 8113422,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "puce gloves.",
+    "prefix": " en l'existence de Dieu. Faut pas le dire à mon père. \n\n— Il croit? \n\n—Mon père, oui. \n\n Schluss. He laps. \n\n My Latin quarter hat. God, we simply must dress the character. I want ",
+    "suffix": " You were a student, weren't you? Of what in the other devil's name? Paysayenn. P. C. N., you know: physiques, chimiques et naturelles. Aha. Eating your groatsworth of mou en civet",
+    "start": 10660,
+    "end": 10672,
+    "canonical_text": "puce gloves."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8113422,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2436433,
+        "login": "essss",
+        "name": "essss",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9251616",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Secondleg they should be.",
+  "html_source": "<p>The brutish and obnoxious Mulligan, although treated with mockery and even contempt in <em>Ulysses</em>, still shares with its author a <a href=\"http://www.obrien.ie/oliver-stjohn-gogarty\" rel=\"noopener nofollow\">keen poetic sensibility</a>. Here, specifically, he demonstrates a <a href=\"https://www.quora.com/What-are-Joycean-Puns\" rel=\"noopener nofollow\">fondness for puns</a> and an awareness of the myriad minor absurdities built into the English language.</p><p>Note the rhythmic similarity between the narrator’s adverb (“contentedly”) and the character’s dialogue (“secondleg they should be”).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9251616/James-joyce-ulysses-chap-1-telemachus/Secondleg-they-should-be",
+    "original_id": "9251616",
+    "referent_id": 9251616,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Secondleg they should be.",
+    "prefix": "How are the secondhand breeks? \n\n — They fit well enough, Stephen answered. \n\n Buck Mulligan attacked the hollow beneath his underlip. \n\n — The mockery of it, he said contentedly. ",
+    "suffix": " God knows what poxy bowsy left them off. I have a lovely pair with a hair stripe, grey. You'll look spiffing in them. I'm not joking, Kinch. You look damn well when you're dressed",
+    "start": 6799,
+    "end": 6824,
+    "canonical_text": "Secondleg they should be."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9251616,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

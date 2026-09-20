@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3145891",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "La Vie de Jesus by M. Leo Taxil",
+  "html_source": "<p>Anti-clerical French auteur. The book is a heretical go at the clergy of the time.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3145891/James-joyce-ulysses-chap-3-proteus/La-vie-de-jesus-by-m-leo-taxil",
+    "original_id": "3145891",
+    "referent_id": 3145891,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "La Vie de Jesus by M. Leo Taxil",
+    "prefix": "d the sweet lait chaud with pink young tongue, plump bunny's face. Lap, lapin. He hopes to win in the gros lots. About the nature of women he read in Michelet. But he must send me ",
+    "suffix": " Lent it to his friend. \n\n1986#34\n\n— C'est tordant, vous savez. Moi, je suis socialiste. Je ne crois pas en l'existence de Dieu. Faut pas le dire à mon père. \n\n— Il croit? \n\n—Mon p",
+    "start": 10344,
+    "end": 10376,
+    "canonical_text": "La Vie de Jésus by M. Léo Taxil."
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9206
+  },
+  "genius": {
+    "referent_id": 3145891,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

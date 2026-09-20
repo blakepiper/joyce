@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-14030345",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Her",
+  "html_source": "<p>misprint – my copy reads “After them march the guilds …</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/14030345/James-joyce-ulysses-chap-15-circe/Her",
+    "original_id": "14030345",
+    "referent_id": 14030345,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "her",
+    "prefix": "ll Ireland, the chief rabbi, the presbyterian moderator, the heads of the baptist, anabaptist, methodist and Moravian chapels and the honorary secretary of the society of friends. ",
+    "suffix": " them march the guilds and trades and trainbands with flying colours: coopen, bird fanciers, millwrights, newspaper canvassers, law scriveners, masseurs, vintners, trussmakers, chi",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "ambiguous",
+    "confidence": 0.2985611510791367
+  },
+  "genius": {
+    "referent_id": 14030345,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

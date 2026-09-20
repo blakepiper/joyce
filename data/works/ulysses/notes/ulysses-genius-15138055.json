@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15138055",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Wigs on the green",
+  "html_source": "<p>Humorous old phrase meaning a fracas or violent confrontation, chiefly Irish. It originated in the 1700s when wigs were part of the typical male costume. Back then, if a fight were to break out, the combatants' wigs would often be dislodged in the proceedings and could then be observed rolling around on the lawn, an odd and comic sight.</p><p><img src=\"https://images.genius.com/bde2c5336fc9ba8c78b6b7deefaa0c8f.700x464x1.jpg\" alt=\"\" /></p><p>It’s most common usage is “there’ll be wigs on the green [if XYZ]…” as a warning or a prediction that an altercation will occur if condition XYZ is satisfied.</p><p>“Green” is a byword for park in Ireland (see, e.g., <a href=\"https://en.wikipedia.org/wiki/St_Stephen%27s_Green\" rel=\"noopener nofollow\">St. Stephen’s Green</a>)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15138055/James-joyce-ulysses-chap-13-nausicaa/Wigs-on-the-green",
+    "original_id": "15138055",
+    "referent_id": 15138055,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "wigs on the green",
+    "prefix": "off and play with Jacky and to be good now and not to fight. But Tommy said he wanted the ball and Edy told him no that baby was playing with the ball and if he took it there'd be ",
+    "suffix": " but Tommy said 1961#352it was his ball and he wanted his ball and he pranced on the ground, if you please. The temper of him! O, he was a man 1939#255already was little Tommy Caff",
+    "start": 17219,
+    "end": 17236,
+    "canonical_text": "wigs on the green"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15138055,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

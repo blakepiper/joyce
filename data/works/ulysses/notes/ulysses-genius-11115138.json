@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-11115138",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Lead Kindly Light",
+  "html_source": "<p><a href=\"http://www.telegraph.co.uk/culture/music/3668066/The-story-behind-the-hymn.html\" rel=\"noopener nofollow\">http://www.telegraph.co.uk/culture/music/3668066/The-story-behind-the-hymn.html</a></p><p>Also alluded in 4.347 (G&amp;S).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11115138/James-joyce-ulysses-chap-18-penelope/Lead-kindly-light",
+    "original_id": "11115138",
+    "referent_id": 11115138,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Lead Kindly Light",
+    "prefix": " of it all and Poldy not Irish enough was it him managed it this time I wouldnt put it past him like he got me on to sing in the Stabat Mater by going around saying he was putting ",
+    "suffix": " to music I put him up to that till the jesuits found out he was a freemason thumping the piano lead Thou me on copied from some old opera yes and he was going about with some of t",
+    "start": 28345,
+    "end": 28362,
+    "canonical_text": "Lead Kindly Light"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11115138,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.8108108108108109
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.1891891891891892
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10016088",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Ally Sloper",
+  "html_source": "<p><img src=\"https://images.genius.com/8ef2e40a92831c66ef6974e107cae3d2.198x247x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10016088/James-joyce-ulysses-chap-15-circe/Ally-sloper",
+    "original_id": "10016088",
+    "referent_id": 10016088,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Ally Sloper",
+    "prefix": "ed from Liffey waters, hangs from the slack of its breeches. A hobgoblin in the image of Punch Costello, hipshot, crookbacked, hydrocephalic, prognathic with receding forehead and ",
+    "suffix": " nose, tumbles in somersaults through the gathering darkness.) \n\n ALL \n\n What? \n\n THE HOBGOBLIN \n\n(His jaws chattering, capers to and fro, goggling his eyes, squeaking, kangaroohop",
+    "start": 107083,
+    "end": 107094,
+    "canonical_text": "Ally Sloper"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10016088,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

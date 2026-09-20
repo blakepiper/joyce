@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1822570",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Dottyville",
+  "html_source": "<p>Slang for Richmond Lunatic Asylum in Dublin.</p><p><img src=\"https://images.genius.com/b429da1f7fa07b8d7c11c0e86591b7ae.500x374x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1822570/James-joyce-ulysses-chap-1-telemachus/Dottyville",
+    "original_id": "1822570",
+    "referent_id": 1822570,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Dottyville",
+    "prefix": "his gaze from the sea and to the plump face with its smokeblue mobile eyes. \n\n — That fellow I was with in the Ship last night, said Buck Mulligan, says you have g.p.i. He's up in ",
+    "suffix": " with Conolly Norman. General paralysis of the insane! \n\n He swept the mirror a half circle in the air to flash the tidings abroad in sunlight now radiant on the sea. His curling s",
+    "start": 7507,
+    "end": 7517,
+    "canonical_text": "Dottyville"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1822570,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 176532,
+        "login": "biblicalmike",
+        "name": "Michael Bible",
+        "role": "verified_artist",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9041547",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Martin Harvey",
+  "html_source": "<p>John Martin Harvey (22 June 1863 – 14 May 1944), known after his knighthood in 1921 as Sir John Martin-Harvey, was an English stage actor.</p><p><img src=\"https://images.rapgenius.com/694dd1e118df74eec197a5aa90af438b.220x324x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9041547/James-joyce-ulysses-chap-13-nausicaa/Martin-harvey",
+    "original_id": "9041547",
+    "referent_id": 9041547,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Martin Harvey",
+    "prefix": "e, but could you trust them? People were so queer. She could see at once by his dark eyes and his pale intellectual face that he was a foreigner, the image of the photo she had of ",
+    "suffix": ", the matinee idol, only for the moustache which she preferred because she wasn't stagestruck like Winny Rippingham that wanted they two to always dress the same on account of a pl",
+    "start": 29190,
+    "end": 29203,
+    "canonical_text": "Martin Harvey"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9041547,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

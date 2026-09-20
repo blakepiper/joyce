@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4667059",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "THE GRANDEUR THAT WAS ROME",
+  "html_source": "<p>From <em>To Helen</em> by Edgar Allan Poe:</p><blockquote><p>On desperate seas long won’t to roam,<br />Thy hyacinth hair, thy classic face,<br />Thy Naiad airs have brought me home<br />To the glory that was Greece,<br />And the grandeur that was Rome.</p></blockquote>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4667059/James-joyce-ulysses-chap-7-aeolus/The-grandeur-that-was-rome",
+    "original_id": "4667059",
+    "referent_id": 4667059,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "THE GRANDEUR THAT WAS ROME",
+    "prefix": " blew his first puff violently towards the ceiling. \n\n — That's it, he said. We are the fat. You and I are the fat in the fire. We haven't got the chance of a snowball in hell. \n\n ",
+    "suffix": " \n\n — Wait a moment, professor MacHugh said, raising two quiet claws. We mustn't be led away by words, by sounds of words. We think of Rome, imperial, imperious, imperative. \n\n He ",
+    "start": 26589,
+    "end": 26615,
+    "canonical_text": "THE GRANDEUR THAT WAS ROME"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4667059,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

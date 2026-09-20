@@ -1,0 +1,63 @@
+{
+  "id": "ulysses-genius-2464030",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "General paralysis of the insane!",
+  "html_source": "<p>A twist on the acronym <a href=\"http://poetry.genius.com/1822564\" rel=\"noopener nofollow\">previously mentioned</a> <em>g.p.i.</em>, “general paralysis of the insane”</p><p>PROPOSED SUGGESTION: Hamlet could be said to have this condition as well – ‘paralysis’ referring to Hamlet’s inability to do anything quickly or decisively (at least early in the play) and ‘insane’ referring to Hamlet, well, being Hamlet.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2464030/James-joyce-ulysses-chap-1-telemachus/General-paralysis-of-the-insane",
+    "original_id": "2464030",
+    "referent_id": 2464030,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "General paralysis of the insane!",
+    "prefix": " plump face with its smokeblue mobile eyes. \n\n — That fellow I was with in the Ship last night, said Buck Mulligan, says you have g.p.i. He's up in Dottyville with Conolly Norman. ",
+    "suffix": " \n\n He swept the mirror a half circle in the air to flash the tidings abroad in sunlight now radiant on the sea. His curling shaven lips laughed and the edges of his white glitteri",
+    "start": 7539,
+    "end": 7571,
+    "canonical_text": "General paralysis of the insane!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2464030,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 365581,
+        "login": "RobertRMorris",
+        "name": "RobertRMorris",
+        "role": null,
+        "attribution": 0.7017543859649124
+      },
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 0.14035087719298245
+      },
+      {
+        "id": 2344,
+        "login": "griffinmahon",
+        "name": "griffinmahon",
+        "role": "editor",
+        "attribution": 0.12280701754385966
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.03508771929824561
+      }
+    ]
+  },
+  "color": "F59627"
+}

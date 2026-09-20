@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11204968",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Freddy Mayers private opera",
+  "html_source": "<p><a href=\"http://www.jjon.org/jioyce-s-people/mayer\" rel=\"noopener nofollow\">http://www.jjon.org/jioyce-s-people/mayer</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11204968/James-joyce-ulysses-chap-18-penelope/Freddy-mayers-private-opera",
+    "original_id": "11204968",
+    "referent_id": 11204968,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Freddy Mayers private opera",
+    "prefix": "he second verse first the old love is the new was one of his so sweetly sang the maiden on the hawthorn bough he was always on for flirtyfying too when I sang Maritana with him at ",
+    "suffix": " he had a delicious glorious voice Phoebe dearest goodbye sweetheart sweetheart he always sang it not like Bartell Darcy 1986#636sweet tart goodbye of course he had the gift of the",
+    "start": 96196,
+    "end": 96223,
+    "canonical_text": "Freddy Mayers private opera"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11204968,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

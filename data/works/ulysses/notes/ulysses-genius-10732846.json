@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10732846",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Invalid port",
+  "html_source": "<p><a href=\"http://www.croftport.com/en/about-croft/history/gilbeys-invalid-port/\" rel=\"noopener nofollow\">http://www.croftport.com/en/about-croft/history/gilbeys-invalid-port/</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10732846/James-joyce-ulysses-chap-17-ithaca/Invalid-port",
+    "original_id": "10732846",
+    "referent_id": 10732846,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "invalid port",
+    "prefix": " paper, an empty pot of 1922#627Plumtree's potted meat, an oval wicker basket bedded with fibre and containing one Jersey pear, a halfempty bottle of William Gilbey and Co's white ",
+    "suffix": ", half disrobed of its swathe of coralpink tissue paper, a packet of Epps's soluble cocoa, five ounces of Anne Lynch's choice tea at 2/- per lb. in a crinkled leadpaper bag, a cyli",
+    "start": 20482,
+    "end": 20494,
+    "canonical_text": "invalid port"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10732846,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

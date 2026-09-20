@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10655986",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Ledwidge",
+  "html_source": "<p><a href=\"https://www.poetryfoundation.org/poems-and-poets/poets/detail/francis-ledwidge\" rel=\"noopener nofollow\">https://www.poetryfoundation.org/poems-and-poets/poets/detail/francis-ledwidge</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10655986/James-joyce-ulysses-chap-16-eumaeus/Ledwidge",
+    "original_id": "10655986",
+    "referent_id": 10655986,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Ledwidge",
+    "prefix": "d up, being adored as gods. There's an example again of simple souls. \n\n However, reverting to friend Sinbad and his horrifying adventures (who reminded him a bit of Ludwig, alias ",
+    "suffix": ", when he occupied the boards of the Gaiety when Michael Gunn was identified with the management in the Flying Dutchman, a stupendous success, and his host of admirers came in larg",
+    "start": 58004,
+    "end": 58012,
+    "canonical_text": "Ledwidge"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10655986,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

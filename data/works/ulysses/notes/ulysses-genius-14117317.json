@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-14117317",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Ci rifletta. Lei rovina tutto",
+  "html_source": "<p>Ci rifletta. Lei rovina tutto, Italian:<br />“Think it over. You ruin everything,”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/14117317/James-joyce-ulysses-chap-15-circe/Ci-rifletta-lei-rovina-tutto",
+    "original_id": "14117317",
+    "referent_id": 14117317,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Ci rifletta. Lei rovina tutto",
+    "prefix": "e touches the keys again.) Minor chord comes now. Yes. Not much however. \n\n(Almidano Artifoni holds out a batonroll of music with vigorous moustachework.) \n\n1922#486\n\n ARTIFONI \n\n ",
+    "suffix": ". \n\n FLORRY \n\n Sing us something. Love's old sweet song. \n\n1932#454\n\n STEPHEN \n\n No voice. I am a most finished artist. Lynch, did I show you the letter about the lute? \n\n FLORRY \n",
+    "start": 126399,
+    "end": 126428,
+    "canonical_text": "Ci rifletta. Lei rovina tutto"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 14117317,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-24417350",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "What am I following him for?",
+  "html_source": "<p>He’s asking a deep question. What is he following Stephen for? Because he is exceptional. And Bloom <em>cares</em> about that. He wants a son. (nephew)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/24417350/James-joyce-ulysses-chap-15-circe/What-am-i-following-him-for",
+    "original_id": "24417350",
+    "referent_id": 24417350,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "What am I following him for?",
+    "prefix": "irst class with third ticket. Then too far. Train with engine behind. Might have taken me to Malahide or a siding for the night or collision. Second drink does it. Once is a dose. ",
+    "suffix": " Still, he's the best of that lot. If I hadn't heard about Mrs Beaufoy Purefoy I wouldn't have gone and wouldn't have met. Kismet. He'll lose that cash. Relieving office here. Good",
+    "start": 30372,
+    "end": 30400,
+    "canonical_text": "What am I following him for?"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 24417350,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 10526289,
+        "login": "satchlj",
+        "name": "satchlj",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

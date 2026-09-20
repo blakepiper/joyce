@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15157431",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Nasodoro, Goldfinger, Chrysostomos, Maindorée, Silversmile, Silberselber Vifargent, Panargros",
+  "html_source": "<p>Nasodoro: (Ital.) Golden-nosed<br />Chrysostomos: (Greek) Gold-mouthed<br />Maindoree: (Fr.) Gold-handed<br />Silberselber: (Ger.) Silver-self/body<br />Vifargent: (Lat.) Life-silver; quicksilver<br />Panargos: (Greek) All-silver</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15157431/James-joyce-ulysses-chap-15-circe/Nasodoro-goldfinger-chrysostomos-maindoree-silversmile-silberselber-vifargent-panargros",
+    "original_id": "15157431",
+    "referent_id": 15157431,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Nasodoro, Goldfinger, Chrysostomos, Maindorée, Silversmile, Silberselber Vifargent, Panargros",
+    "prefix": "sed and wellconducted, speaking five modern languages fluently and interested 1932#436in various arts and sciences. Each has his name printed in legible letters on his shirtfront: ",
+    "suffix": " They are immediately appointed to positions of high public trust in several different countries as managing directors of banks, traffic managers of railways, chairmen of limited l",
+    "start": 91461,
+    "end": 91557,
+    "canonical_text": "Nasodoro, Goldfinger, Chrysostomos, Maindoree, Silversmile, Silberselber, Vifargent, Panargyros."
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9735
+  },
+  "genius": {
+    "referent_id": 15157431,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

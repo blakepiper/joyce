@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8634915",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "The last glimpse of Erin",
+  "html_source": "<p><em>Wikipedia</em> says that “Erin” is a Hiberno-English derivative of the Irish word “Éirinn”. “Éirinn” is the dative case of the Irish word for Ireland. “The last glimpse of Erin,” comes from a song by Thomas Moore: “Tho' the last glimpse of Erin with sorrow I see, / Yet wherever thou art shall seem Erin to me; / In exile thy bosom shall bosom shall still be my home.” This is relevant considering Joyce’s self-imposed exile from the land that obsessed him so.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8634915/James-joyce-ulysses-chap-13-nausicaa/The-last-glimpse-of-erin",
+    "original_id": "8634915",
+    "referent_id": 8634915,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "the last glimpse of Erin",
+    "prefix": "r with the veil that Father Conroy put round his shoulders giving the benediction with the Blessed Sacrament in his hands. \n\n How moving the scene there in the gathering twilight, ",
+    "suffix": ", the touching chime of those evening bells and at the same time a bat flew forth from the ivied belfry through the dusk, hither, thither, with a tiny lost cry. And she could see f",
+    "start": 43812,
+    "end": 43836,
+    "canonical_text": "the last glimpse of Erin"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8634915,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

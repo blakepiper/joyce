@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4282274",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Sweny’s in Lincoln place",
+  "html_source": "<p>Extant and unchanged !</p><p><img src=\"https://images.rapgenius.com/ed211d2df67a5d7da9393e63dbcbe425.736x490x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4282274/James-joyce-ulysses-chap-5-lotus-eaters/Swenys-in-lincoln-place",
+    "original_id": "4282274",
+    "referent_id": 4282274,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Sweny's in Lincoln place",
+    "prefix": "3Notice because I'm in mourning myself. He covered himself. How goes the time? Quarter past. Time enough yet. Better get that lotion made up. Where is this? Ah yes, the last time. ",
+    "suffix": ". Chemists rarely move. Their green and gold beaconjars too heavy to stir. Hamilton Long's, founded in the year of the flood. Huguenot churchyard near there. Visit some day. \n\n He ",
+    "start": 29659,
+    "end": 29683,
+    "canonical_text": "Sweny's in Lincoln place"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4282274,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

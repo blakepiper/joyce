@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2075414",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "—Per vias rectas,",
+  "html_source": "<p>“By straight roads” – the motto of Sir John Blackwood.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2075414/James-joyce-ulysses-chap-2-nestor/Per-vias-rectas",
+    "original_id": "2075414",
+    "referent_id": 2075414,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "—Per vias rectas,",
+    "prefix": "in me too, Mr Deasy said. On the spindle side. But I am descended from sir John Blackwood who voted for the union. We are all Irish, all kings' sons. \n\n — Alas, Stephen said. \n\n — ",
+    "suffix": " Mr Deasy said firmly, was his motto. He voted for it and put on his topboots to ride to Dublin from the Ards of Down to do so. \n\n1939#25\n\nLal the ral the ra \nThe rocky road to Dub",
+    "start": 15790,
+    "end": 15806,
+    "canonical_text": "Per vias rectas,"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2075414,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9094060",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "The powerhouse",
+  "html_source": "<p>Dublin Corporation Electric Light Station, 49-56 Fleet Street, just east of the lapidary’s. Stephen is moving west along Fleet Street.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9094060/James-joyce-ulysses-chap-10-wandering-rocks/The-powerhouse",
+    "original_id": "9094060",
+    "referent_id": 9094060,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "the powerhouse",
+    "prefix": "long London bridge road, one with a sanded tired umbrella, one with a midwife's bag in which eleven cockles rolled. \n\n The whirr of flapping leathern bands and hum of dynamos from ",
+    "suffix": " urged Stephen to be on. Beingless beings. Stop! Throb always without you and the throb always within. Your heart you sing of. I between them. Where? Between two roaring worlds whe",
+    "start": 47454,
+    "end": 47468,
+    "canonical_text": "the powerhouse"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9094060,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083730,
+        "login": "mburkert",
+        "name": "mburkert",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

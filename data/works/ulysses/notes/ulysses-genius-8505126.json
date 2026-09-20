@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8505126",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Dernier cri",
+  "html_source": "<p>“Trendy”. A poke at Henry James?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8505126/James-joyce-ulysses-chap-10-wandering-rocks/Dernier-cri",
+    "original_id": "8505126",
+    "referent_id": 8505126,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "dernier cri",
+    "prefix": "able William Humble, earl of Dudley, G. C. V. O., passed Micky Anderson's all times ticking watches and Henry and James's wax smartsuited freshcheeked models, the gentleman Henry, ",
+    "suffix": " James. Over against Dame gate Tom Rochford and Nosey Flynn watched the approach of the cavalcade. Tom Rochford, seeing the eyes of lady Dudley fixed on him, took his thumbs quickl",
+    "start": 70779,
+    "end": 70790,
+    "canonical_text": "dernier cri"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8505126,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

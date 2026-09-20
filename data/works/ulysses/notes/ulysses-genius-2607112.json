@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2607112",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Figrolls",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/3d6301f0439513c00462dfec8a461c7f.846x674x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2607112/James-joyce-ulysses-chap-2-nestor/Figrolls",
+    "original_id": "2607112",
+    "referent_id": 2607112,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "figrolls",
+    "prefix": "at was the end of Pyrrhus? \n\n — End of Pyrrhus, sir? \n\n1932#22\n\n — I know, sir. Ask me, sir, Comyn said. \n\n — Wait. You, Armstrong. Do you know anything about Pyrrhus? \n\n A bag of ",
+    "suffix": " lay snugly in Armstrong's satchel. He curled them between his palms at whiles and swallowed them softly. Crumbs adhered to the tissue of his lips. A sweetened boy's breath. Wellof",
+    "start": 1093,
+    "end": 1101,
+    "canonical_text": "figrolls"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2607112,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 293151,
+        "login": "jeeho",
+        "name": "Jeeho",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

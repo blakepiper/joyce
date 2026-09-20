@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9094038",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "The webbed window",
+  "html_source": "<p>Thomas Russell, lapidary and gem cutter, 57 Fleet Street, a street just South of and parallel to Liffey, not far east of Merchant’s Arch.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9094038/James-joyce-ulysses-chap-10-wandering-rocks/The-webbed-window",
+    "original_id": "9094038",
+    "referent_id": 9094038,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "the webbed window",
+    "prefix": ". \n\n Mr Kernan hurried forward, blowing pursily. \n\n His Excellency! Too bad! Just missed that by a hair. Damn it! What a pity! \n\n*\n*  *\n\n1939#176\n\n Stephen Dedalus watched through ",
+    "suffix": " the lapidary's fingers prove a timedulled chain. Dust webbed the window and the showtrays. Dust darkened the toiling fingers with their vulture nails. Dust slept on dull 1922#231c",
+    "start": 46070,
+    "end": 46087,
+    "canonical_text": "the webbed window"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9094038,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083730,
+        "login": "mburkert",
+        "name": "mburkert",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3152994",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Owen Roe",
+  "html_source": "<blockquote><p><a href=\"http://en.wikipedia.org/wiki/Owen_Roe_O&#x27;Neill\" rel=\"noopener nofollow\">Owen Roe O'Neill (Irish: Eoghan Ruadh Ó Néill; 1590–1649) was a seventeenth-century soldier and one of the most famous of the O'Neill dynasty of Ulster in Ireland.</a></p></blockquote>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3152994/James-joyce-ulysses-chap-12-cyclops/Owen-roe",
+    "original_id": "3152994",
+    "referent_id": 3152994,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Owen Roe",
+    "prefix": "eroes and heroines of antiquity, Cuchulin, Conn of hundred battles, Niall of nine hostages, Brian of Kincora, the ardri Malachi, Art MacMurragh, Shane O'Neill, Father John Murphy, ",
+    "suffix": ", Patrick Sarsfield, Red Hugh O'Donnell, Red Jim MacDermott, Soggarth Eoghan O'Growney, Michael Dwyer, Francy Higgins, Henry Joy M'Cracken, Goliath, Horace Wheatley, Thomas Conneff",
+    "start": 11580,
+    "end": 11588,
+    "canonical_text": "Owen Roe"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3152994,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 591961,
+        "login": "dbrannen",
+        "name": "dbrannen",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

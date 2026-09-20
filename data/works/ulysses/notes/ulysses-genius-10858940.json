@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10858940",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "When We Were Boys",
+  "html_source": "<p><a href=\"https://www.jstor.org/stable/25484510?seq=1#page_scan_tab_contents\" rel=\"noopener nofollow\">https://www.jstor.org/stable/25484510?seq=1#page_scan_tab_contents</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10858940/James-joyce-ulysses-chap-17-ithaca/When-we-were-boys",
+    "original_id": "10858940",
+    "referent_id": 10858940,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "When We Were Boys",
+    "prefix": "rimson morocco, goldtooled). \nThe Useful Ready Reckoner (brown cloth).\nThe Secret History of the Court of Charles II (red cloth, tooled binding). \nThe Child's Guide (blue cloth). \n",
+    "suffix": " by William O'Brien M. P. (green cloth, slightly faded, envelope bookmark at p. 217). \nThoughts from Spinoza (maroon leather). \nThe Story of the Heavens by Sir Robert Ball (blue cl",
+    "start": 86683,
+    "end": 86700,
+    "canonical_text": "When We Were Boys"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10858940,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

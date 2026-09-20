@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8354480",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Third time",
+  "html_source": "<p>Bloom saw Boylan earlier in chapter 6 on D'Olier Street and in chapter 8 on his way to the National Library.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8354480/James-joyce-ulysses-chap-11-sirens/Third-time",
+    "original_id": "8354480",
+    "referent_id": 8354480,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Third time",
+    "prefix": "s. Smoke mermaids, 1986#216coolest whiff of all. Hair streaming: lovelorn. For some man. For Raoul. He eyed and saw afar on Essex bridge a gay hat riding on a jaunting car. It is. ",
+    "suffix": ". Coincidence. \n\n1961#263\n\n Jingling on supple rubbers it jaunted from the bridge to Ormond quay. Follow. Risk it. Go quick. At four. Near now. Out. \n\n — Twopence, sir, the shopgir",
+    "start": 15206,
+    "end": 15216,
+    "canonical_text": "Third time"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8354480,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1520984,
+        "login": "RedSwanHotel",
+        "name": "RedSwanHotel",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

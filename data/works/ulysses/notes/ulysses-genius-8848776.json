@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8848776",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Capon",
+  "html_source": "<p>a male chicken whose sex organs have been removed</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8848776/James-joyce-ulysses-chap-9-scylla-and-charybdis/Capon",
+    "original_id": "8848776",
+    "referent_id": 8848776,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "capon",
+    "prefix": " seen him in Richard III and how Shakespeare, overhearing, without more ado about nothing, took the cow by the horns and, when Burbage came knocking at the gate, answered from the ",
+    "suffix": "'s blankets: William the conqueror came before Richard III. And the gay lakin, mistress Fitton, mount and cry O, and his dainty birdsnies, lady 1986#165Penelope Rich, a clean quali",
+    "start": 36568,
+    "end": 36573,
+    "canonical_text": "capon"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8848776,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

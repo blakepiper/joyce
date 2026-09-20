@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8799004",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Phiz",
+  "html_source": "Definition of phiz  noun \\ˈfiz\\   face",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8799004/James-joyce-ulysses-chap-7-aeolus/Phiz",
+    "original_id": "8799004",
+    "referent_id": 8799004,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "phiz",
+    "prefix": " I could have said when he clapped on his topper. Thank you. I ought to have said something about an old hat or something. No. I could have said. Looks as good as new now. See his ",
+    "suffix": " then. \n\n Sllt. The nethermost deck of the first machine jogged forward its flyboard with sllt the first batch of quirefolded papers. Sllt. Almost1932#108 human the way it sllt to ",
+    "start": 9725,
+    "end": 9729,
+    "canonical_text": "phiz"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8799004,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

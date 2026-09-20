@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8849726",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Summa contra Gentiles",
+  "html_source": "<p>The Summa contra Gentiles, also known as the Summa contra Gentes, is one of the best-known books by St Thomas Aquinas.</p><p>The Summa contra Gentiles is often portrayed as an early missionary’s manual or handbook…it was written to explain and defend the “Christian truth” in hostile situations against unbelievers, with arguments adapted to fit the intended circumstances of its use, each article refuting a certain heretical belief or proposition.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8849726/James-joyce-ulysses-chap-9-scylla-and-charybdis/Summa-contra-gentiles",
+    "original_id": "8849726",
+    "referent_id": 8849726,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Summa contra Gentiles",
+    "prefix": "ng: and then gravely said, honeying malice: \n\n1922#205\n\n — I called upon the bard Kinch at his summer residence in upper Mecklenburgh street and found him deep in the study of the ",
+    "suffix": " in the company of two gonorrheal ladies, Fresh Nelly and Rosalie, the coalquay whore. \n\n He broke away. \n\n — Come, Kinch. Come, wandering Ængus of the birds. \n\n Come, Kinch. You h",
+    "start": 63589,
+    "end": 63610,
+    "canonical_text": "Summa contra Gentiles"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8849726,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

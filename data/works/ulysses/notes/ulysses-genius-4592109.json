@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4592109",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Bevelling",
+  "html_source": "<p>Slang for moving or pushing. [Gifford]</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4592109/James-joyce-ulysses-chap-16-eumaeus/Bevelling",
+    "original_id": "4592109",
+    "referent_id": 4592109,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "bevelling",
+    "prefix": "23\n\n This was a quandary but, bringing common sense to bear on it, evidently there was nothing for it but put a good face on the matter and foot it which they accordingly did. So, ",
+    "suffix": " around by Mullett's and the Signal House which they shortly reached, they proceeded perforce in the direction of Amiens street railway terminus, Mr Bloom being handicapped 1986#50",
+    "start": 2383,
+    "end": 2392,
+    "canonical_text": "bevelling"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4592109,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

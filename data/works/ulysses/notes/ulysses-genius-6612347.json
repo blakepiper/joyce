@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-6612347",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Up the pole?",
+  "html_source": "<p>Euphemism for pregnant</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6612347/James-joyce-ulysses-chap-1-telemachus/Up-the-pole",
+    "original_id": "6612347",
+    "referent_id": 6612347,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "up the pole?",
+    "prefix": "aid. \n\n — Going over next week to stew. You know that red Carlisle girl, Lily? \n\n — Yes. \n\n — Spooning with him last night on the pier. The father is rotto with money. \n\n — Is she ",
+    "suffix": " \n\n — Better ask Seymour that. \n\n — Seymour a bleeding officer! Buck Mulligan said. \n\n1986#18\n\n He nodded to himself as he drew off his trousers and stood up, saying tritely: \n\n — ",
+    "start": 39841,
+    "end": 39853,
+    "canonical_text": "up the pole?"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6612347,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1583475,
+        "login": "Nyx6",
+        "name": "Nyx6",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

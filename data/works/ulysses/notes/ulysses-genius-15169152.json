@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15169152",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Humected",
+  "html_source": "<p>A word meaning to wet, dampen, or moisten. From the Latin humectus (“moist”).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15169152/James-joyce-ulysses-chap-17-ithaca/Humected",
+    "original_id": "15169152",
+    "referent_id": 15169152,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "humected",
+    "prefix": "spot, a shock, a shoot, with thought of aught he sought though fraught with nought might cause a faster rate of shaving and a nick on which incision plaster with precision cut and ",
+    "suffix": " and applied adhered: which was to be done. \n\n Why did absence of light disturb him less than presence of noise? \n\n1932#580\n\n Because of the surety of the sense of touch in his fir",
+    "start": 19215,
+    "end": 19223,
+    "canonical_text": "humected"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15169152,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

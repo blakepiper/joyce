@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15144264",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Semblables",
+  "html_source": "<p>One’s counterparts, equals, or peers; used in Middle English (as an adjective meaning “like, similar”): from Old French, from sembler “to seem.” In modern French, it means “similar” (adj) or “fellow being” (noun). What a tonguejoy to say!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15144264/James-joyce-ulysses-chap-14-oxen-of-the-sun/Semblables",
+    "original_id": "15144264",
+    "referent_id": 15144264,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "semblables",
+    "prefix": "minated as not to perceive that as no nature's boon can contend against the bounty of increase so it behoves every most just citizen to become the exhortator and admonisher of his ",
+    "suffix": " and to tremble lest what had in the past been by the nation excellently commenced might be in the future not with similar excellence accomplished if an inverecund habit shall have",
+    "start": 1519,
+    "end": 1529,
+    "canonical_text": "semblables"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15144264,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

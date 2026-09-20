@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8736659",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Corner in stamps",
+  "html_source": "<p>Collected a valuable stamp (Gifford).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8736659/James-joyce-ulysses-chap-4-calypso/Corner-in-stamps",
+    "original_id": "8736659",
+    "referent_id": 8736659,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "corner in stamps",
+    "prefix": ". Got a short knock. Hard as nails at a bargain, old Tweedy. Yes, sir. At Plevna that was. I rose from the ranks, sir, and I'm proud of it. Still he had brains enough to make that ",
+    "suffix": ". Now that was farseeing. \n\n1922#54\n\n His hand took his hat from the peg over his initialled heavy overcoat and his lost property office secondhand waterproof. Stamps: stickyback19",
+    "start": 3958,
+    "end": 3974,
+    "canonical_text": "corner in stamps"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8736659,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

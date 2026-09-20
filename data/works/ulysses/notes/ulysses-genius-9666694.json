@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9666694",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Leopold the First",
+  "html_source": "<p>There was a Leopold the First in Belgium</p><p>Leopold I (French: Léopold Ier, German and Dutch: Leopold I; Coburg, 1790 – Laeken, 1865) was a German prince who became the first King of the Belgians following Belgian independence in 1830. He reigned between July 1831 and December 1865.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9666694/James-joyce-ulysses-chap-15-circe/Leopold-the-first",
+    "original_id": "9666694",
+    "referent_id": 9666694,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Leopold the First",
+    "prefix": ") \n\n THE BISHOP OF DOWN AND CONNOR \n\n I here present your undoubted emperor-president and king-chairman, the most serene and potent and very puissant ruler of this realm. God save ",
+    "suffix": "! \n\n ALL \n\n God save Leopold the First! \n\n BLOOM \n\n(In dalmatic and purple mantle, to the bishop of Down and Connor, with dignity.) Thanks, somewhat eminent sir. \n\n WILLIAM, ARCHBI",
+    "start": 73972,
+    "end": 73989,
+    "canonical_text": "Leopold the First"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9702
+  },
+  "genius": {
+    "referent_id": 9666694,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

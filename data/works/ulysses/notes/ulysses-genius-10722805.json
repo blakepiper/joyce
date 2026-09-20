@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-10722805",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Sundam trench",
+  "html_source": "<p><a href=\"https://www.britannica.com/place/Java-Trench\" rel=\"noopener nofollow\">https://www.britannica.com/place/Java-Trench</a><br />The deepest point in the Indian Ocean.</p><p>Very possibly a mistake by Joyce, (James Joyce and the Nineteenth-Century French Novel<br />edited by Finn Fordham, Rita Sakr Rita Sakr,p116).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10722805/James-joyce-ulysses-chap-17-ithaca/Sundam-trench",
+    "original_id": "10722805",
+    "referent_id": 10722805,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Sundam trench",
+    "prefix": "Its universality: its democratic equality and constancy to its nature in seeking its own level: its vastness in the ocean of Mercator's projection: its unplumbed profundity in the ",
+    "suffix": " of the Pacific exceeding 8,000 fathoms: the restlessness of its waves and surface particles visiting in turn all points of its seaboard: the independence of its units: the variabi",
+    "start": 12219,
+    "end": 12232,
+    "canonical_text": "Sundam trench"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10722805,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.6271186440677966
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.3728813559322034
+      }
+    ]
+  },
+  "color": "F59627"
+}

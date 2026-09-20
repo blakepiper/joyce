@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4039031",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "That Blavatsky woman started it. She was a nice old bag of tricks.",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Helena_Blavatsky\" rel=\"noopener nofollow\">Madame Blavatsky,</a> first name Helena, was a well-known Russian occultist who lived in the 19th century.</p><p><img src=\"https://images.rapgenius.com/2d258eed7fb47ae19cc5f90b7f4b87fe.220x327x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4039031/James-joyce-ulysses-chap-7-aeolus/That-blavatsky-woman-started-it-she-was-a-nice-old-bag-of-tricks",
+    "original_id": "4039031",
+    "referent_id": 4039031,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "That Blavatsky woman started it. She was a nice old bag of tricks.",
+    "prefix": "\n\n — Professor Magennis was speaking to me about you, J. J. O'Molloy said to Stephen. What do you think really of that hermetic crowd, the opal hush poets: A. E. the mastermystic? ",
+    "suffix": " A. E. has been telling some yankee interviewer that you came to him in the small hours of the morning to ask him about planes of consciousness. Magennis thinks you must have been ",
+    "start": 43170,
+    "end": 43236,
+    "canonical_text": "That Blavatsky woman started it. She was a nice old bag of tricks."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4039031,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1116653,
+        "login": "slothcommander",
+        "name": "slothcommander",
+        "role": null,
+        "attribution": 0.9347826086956522
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.06521739130434782
+      }
+    ]
+  },
+  "color": "F59627"
+}

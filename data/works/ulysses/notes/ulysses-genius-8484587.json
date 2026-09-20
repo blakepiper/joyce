@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8484587",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Lawyers of the past",
+  "html_source": "<p>Another intrusion here.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8484587/James-joyce-ulysses-chap-10-wandering-rocks/Lawyers-of-the-past",
+    "original_id": "8484587",
+    "referent_id": 8484587,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Lawyers of the past",
+    "prefix": " he said. Say it's turn six. In here, see. Turn Now On. \n\n1922#222\n\n He slid it into the left slot for them. It shot down the groove, wobbled a while, ceased, ogling them: six. \n\n ",
+    "suffix": ", haughty, pleading, beheld pass from the consolidated taxing office to Nisi Prius court Richie Goulding carrying the costbag of Goulding, Collis and Ward and heard rustling from t",
+    "start": 26789,
+    "end": 26808,
+    "canonical_text": "Lawyers of the past"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8484587,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

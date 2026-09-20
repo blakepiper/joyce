@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8971291",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Heligoland",
+  "html_source": "<p>Heligoland (German: Helgoland) is a small German archipelago in the North Sea</p><p><img src=\"https://images.rapgenius.com/7b9b366d56fa22eabad6ff92fe232079.1000x738x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8971291/James-joyce-ulysses-chap-12-cyclops/Heligoland",
+    "original_id": "8971291",
+    "referent_id": 8971291,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Heligoland",
+    "prefix": " the Barrow and Shannon they won't deepen with millions of acres of marsh and bog to make us all die of consumption? \n\n — As treeless as Portugal we'll be soon, says John Wyse, or ",
+    "suffix": " with its one tree if something is not done to reafforest the land. Larches, firs, all the trees of the conifer family are going fast. I was reading a report of lord Castletown's..",
+    "start": 80325,
+    "end": 80335,
+    "canonical_text": "Heligoland"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8971291,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

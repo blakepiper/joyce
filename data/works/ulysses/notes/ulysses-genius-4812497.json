@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4812497",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "One plus two plus six is seven",
+  "html_source": "<p>do major+ f major+ sol Septima dominant=seven notes, basic chord progression.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4812497/James-joyce-ulysses-chap-11-sirens/One-plus-two-plus-six-is-seven",
+    "original_id": "4812497",
+    "referent_id": 4812497,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "One plus two plus six is seven",
+    "prefix": "hole opera, Goulding said.\n\n—It is, Bloom said.\n\nNumbers it is. All music when you come to think. Two multiplied by two divided by half is twice one. Vibrations: chords those are. ",
+    "suffix": ". Do anything you like with figures juggling. Always find out this equal to that. Symmetry under a cemetery wall. He doesn't see my mourning. Callous: all for his own gut. Musemath",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.8696
+  },
+  "genius": {
+    "referent_id": 4812497,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1486647,
+        "login": "Vasa",
+        "name": "Vasa",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

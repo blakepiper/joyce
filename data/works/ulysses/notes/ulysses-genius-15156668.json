@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15156668",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Ad",
+  "html_source": "<p>Error in transcription/parsing of the text. Should read “and”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15156668/James-joyce-ulysses-chap-15-circe/Ad",
+    "original_id": "15156668",
+    "referent_id": 15156668,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "ad",
+    "prefix": "CH (Awed, whispers.) And in black. A mormon. Anarchist.\n\nTHE CRIER (Loudly.) Whereas Leopold Bloom of no fixed abode is a well-known dynamitard, forger, bigamist, bawd and cuckold ",
+    "suffix": " a public nuisance to the citizens of Dublin and whereas at this commission of assizes the most honourable.\n\n(His Honour sir Frederick Falkiner recorder of Dublin, in judicial garb",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "ambiguous",
+    "confidence": 0.2856682769726248
+  },
+  "genius": {
+    "referent_id": 15156668,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

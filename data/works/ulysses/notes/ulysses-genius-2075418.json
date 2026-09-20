@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-2075418",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Lal the ral the ra\n The rocky road to Dublin.",
+  "html_source": "<p>“The Rocky Road to Dublin” is a traditional Irish ballad.</p><p><a href=\"http://www.youtube.com/watch?v=jxBKgOyMzSc\" rel=\"noopener nofollow\">http://www.youtube.com/watch?v=jxBKgOyMzSc</a></p><p>These lines also refer back to Deasy’s motto “Per vias rectas,” translated as <em>by the straight roads</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2075418/James-joyce-ulysses-chap-2-nestor/Lal-the-ral-the-ra-the-rocky-road-to-dublin",
+    "original_id": "2075418",
+    "referent_id": 2075418,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "Lal the ral the ra\n The rocky road to Dublin.",
+    "prefix": "Alas, Stephen said. \n\n — Per vias rectas, Mr Deasy said firmly, was his motto. He voted for it and put on his topboots to ride to Dublin from the Ards of Down to do so. \n\n1939#25\n\n",
+    "suffix": " \n\n1922#31\n\n A gruff squire on horseback with shiny topboots. Soft day, sir John! Soft day, your honour!... Day!... Day!... Two topboots jog dangling on to Dublin. Lal the ral the ",
+    "start": 15945,
+    "end": 15990,
+    "canonical_text": "Lal the ral the ra \nThe rocky road to Dublin."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2075418,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 0.6451612903225806
+      },
+      {
+        "id": 1780288,
+        "login": "JohnRivers",
+        "name": "JohnRivers",
+        "role": null,
+        "attribution": 0.27419354838709675
+      },
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 0.08064516129032258
+      }
+    ]
+  },
+  "color": "F59627"
+}

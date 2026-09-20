@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15164505",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Dansez avec vos dames! Changes de dames! Donnes le petit bouquet a votre dame! Remerciez!",
+  "html_source": "<p>French. “Dance with your ladies! Change partners! Give the little bouquet to your lady! Say thanks!”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15164505/James-joyce-ulysses-chap-15-circe/Dansez-avec-vos-dames-changes-de-dames-donnes-le-petit-bouquet-a-votre-dame-remerciez",
+    "original_id": "15164505",
+    "referent_id": 15164505,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Dansez avec vos dames! Changes de dames! Donnes le petit bouquet a votre dame! Remerciez!",
+    "prefix": "Escargots! \n\n(Twining, receding, with interchanging hands the night hours link, each with arching arms, in a mosaic of movements. Stephen and Florry turn cumbrously.) \n\n MAGINNI \n\n",
+    "suffix": " \n\n THE PIANOLA \n\nBest, best of all, \nBaraabum! \n\n1961#577\n\n KITTY \n\n(Jumps up.) O, they played that on the hobbyhorses at the Mirus bazaar! \n\n1939#406\n\n(She runs to Stephen. He le",
+    "start": 201228,
+    "end": 201317,
+    "canonical_text": "Dansez avec vos dames! Changez de dames! Donnez le petit bouquet à votre dame! Remerciez!"
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9663
+  },
+  "genius": {
+    "referent_id": 15164505,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

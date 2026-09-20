@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-2473050",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Upon love’s bitter mystery\n For Fergus rules the brazen cars.",
+  "html_source": "<p>In telling Stephen to quit his “moody brooding,” he triggers in Stephen’s mind a memory of the days at the end of his mother’s life. Instead of praying with his mother at the time of her death, Stephen sings the W. B. Yeats poem “Who Goes with Fergus.”</p><p>This sets the reader up for another moment (presumably inside Stephen’s head) where he begins to put together a poem on his perception of the sea.  It’s another example of the <a href=\"http://tomconoboy.blogspot.com/2012/01/uncle-charles-principle.html\" rel=\"noopener nofollow\">“Uncle Charles Principle”</a> where a voice that is ostensibly the narrator’s takes on the personality and knowledge of an individual character.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2473050/James-joyce-ulysses-chap-1-telemachus/Upon-loves-bitter-mystery-for-fergus-rules-the-brazen-cars",
+    "original_id": "2473050",
+    "referent_id": 2473050,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Upon love's bitter mystery\n For Fergus rules the brazen cars.",
+    "prefix": " he said. I'm inconsequent. Give up the moody brooding. \n\n His head vanished but the drone of his descending voice boomed out of the stairhead: \n\nAnd no more turn aside and brood \n",
+    "suffix": "\n\n Woodshadows floated silently by through the morning peace from the stairhead seaward where he gazed. Inshore and farther out the mirror of water whitened, spurned by lightshod h",
+    "start": 13916,
+    "end": 13976,
+    "canonical_text": "Upon love's bitter mystery\nFor Fergus rules the brazen cars."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2473050,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 0.9523809523809524
+      },
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.047619047619047616
+      }
+    ]
+  },
+  "color": "F59627"
+}

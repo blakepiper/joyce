@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11137490",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "3 Rock mountain",
+  "html_source": "<p>Three Rock Mountain is a mountain in Co Dublin, Ireland. It is 444 metres (1,457 feet) high. The Rock of Gibralter is is 426 m (1,398 ft) high but more imposing due to its location.</p><p><a href=\"https://en.wikipedia.org/wiki/Three_Rock\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Three_Rock</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11137490/James-joyce-ulysses-chap-18-penelope/3-rock-mountain",
+    "original_id": "11137490",
+    "referent_id": 11137490,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "3 Rock mountain",
+    "prefix": " going to get like Gibraltar my goodness the heat there before the levanter came on black as night and the glare of the rock standing up in it like a big giant compared with their ",
+    "suffix": " they think is so great with the red sentries here and there the poplars and they all whitehot and the smell of the rainwater in those tanks watching the sun all the time weltering",
+    "start": 45464,
+    "end": 45479,
+    "canonical_text": "3 Rock mountain"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11137490,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

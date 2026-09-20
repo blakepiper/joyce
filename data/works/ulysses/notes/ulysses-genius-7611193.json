@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-7611193",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "A darkness shining in brightness which brightness could not comprehend.",
+  "html_source": "<p>“And the light shineth in darkness; and the darkness comprehended it not.”<br />John 1:5 (King James Bible)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7611193/James-joyce-ulysses-chap-2-nestor/A-darkness-shining-in-brightness-which-brightness-could-not-comprehend",
+    "original_id": "7611193",
+    "referent_id": 7611193,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "a darkness shining in brightness which brightness could not comprehend.",
+    "prefix": "imps of fancy of the Moors. Gone too from the world, Averroes and Moses Maimonides, dark men in mien and movement, flashing in their mocking mirrors the obscure soul of the world, ",
+    "suffix": "\n\n — Do you understand now? Can you work the second for yourself? \n\n — Yes, sir. \n\n In long shaky strokes Sargent copied the data. Waiting always for a word of help his hand moved ",
+    "start": 8684,
+    "end": 8755,
+    "canonical_text": "a darkness shining in brightness which brightness could not comprehend."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 7611193,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2082994,
+        "login": "zebrozebry",
+        "name": "zebrozebry",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

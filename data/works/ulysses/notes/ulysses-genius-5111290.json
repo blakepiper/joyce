@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5111290",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Dogs’ home",
+  "html_source": "<p>On Grand Canal Quay, the Dog’s and Cat’s Home, established and maintained by the Dublin Society for the Prevention of Cruelty to Animals. The home advertised its interest in strays and proclaimed: “The diseased painlessly destroyed”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5111290/James-joyce-ulysses-chap-6-hades/Dogs-home",
+    "original_id": "5111290",
+    "referent_id": 5111290,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Dogs' home",
+    "prefix": "nvulsions. Shame really. Got off lightly with illnesses compared. Only measles. Flaxseed tea. Scarlatina, influenza epidemics. Canvassing for death. Don't1986#74 miss this chance. ",
+    "suffix": " over there. Poor old Athos! Be good to Athos, Leopold, is my last wish. Thy will be done. We obey them in the grave. A dying scrawl. He took it to heart, pined away. Quiet brute. ",
+    "start": 7291,
+    "end": 7301,
+    "canonical_text": "Dogs' home"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5111290,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

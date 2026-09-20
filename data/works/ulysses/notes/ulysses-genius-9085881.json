@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-9085881",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "From before the ages He willed me and now may not will me away or ever.",
+  "html_source": "<p>By divine provenance Stephen is created.</p><p>PROPOSED SUGGESTION: Stephen believes that artists are “made” and not “begotten” and therefore he imagines his own birth to have been willed by God.</p><p>This allows Stephen to distance himself from his biological parents, who in doing the “coupler’s will”, were also doing God’s will, and thus abiding by the lex eterna.</p><p>From “‘Strandentwining Cable’: Joyce, Flaubert, and Intertextuality” by Scarlett Baron</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9085881/James-joyce-ulysses-chap-3-proteus/From-before-the-ages-he-willed-me-and-now-may-not-will-me-away-or-ever",
+    "original_id": "9085881",
+    "referent_id": 9085881,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "From before the ages He willed me and now may not will me away or ever.",
+    "prefix": "sin darkness I was too, made not begotten. By them, the man with my voice and my eyes and a ghostwoman with ashes on her breath. They clasped and sundered, did the coupler's will. ",
+    "suffix": " A lex eterna stays about Him. Is that then the divine substance wherein Father and Son are consubstantial? Where is poor dear Arius to try conclusions? Warring his life long on th",
+    "start": 3026,
+    "end": 3097,
+    "canonical_text": "From before the ages He willed me and now may not will me away or ever."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9085881,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 0.8904109589041096
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.1095890410958904
+      }
+    ]
+  },
+  "color": "F59627"
+}

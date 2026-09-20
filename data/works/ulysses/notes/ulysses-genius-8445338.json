@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8445338",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Ladies of the bagnio",
+  "html_source": "<p>Ladies of the brothel</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8445338/James-joyce-ulysses-chap-14-oxen-of-the-sun/Ladies-of-the-bagnio",
+    "original_id": "8445338",
+    "referent_id": 8445338,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "ladies of the bagnio",
+    "prefix": "he truth he was mean in fortunes and for the most part hankered about the coffeehouses and low taverns with crimps, ostlers, bookies, Paul's men, runners, flatcaps, waistcoateers, ",
+    "suffix": " and other rogues of the game or with a chanceable catchpole or a tipstaff often at nights till broad day of whom he picked up between his sackpossets much loose gossip. He took hi",
+    "start": 38440,
+    "end": 38460,
+    "canonical_text": "ladies of the bagnio"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8445338,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

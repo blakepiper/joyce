@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-3929418",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "He kicked open the crazy door of the jakes.",
+  "html_source": "<p>“Jakes” is slang for an outhouse or toilet; the word has since slipped out of usage, pronounced ‘jax’ in Dublinese.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3929418/James-joyce-ulysses-chap-4-calypso/He-kicked-open-the-crazy-door-of-the-jakes",
+    "original_id": "3929418",
+    "referent_id": 3929418,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "He kicked open the crazy door of the jakes.",
+    "prefix": "52morning. Tara street. Chap in the paybox there got away James Stephens, they say. O'Brien. \n\n Deep voice that fellow Dlugacz has. Agenda what is it? Now, my miss. Enthusiast. \n\n ",
+    "suffix": " Better be careful not to get these trousers dirty for the funeral. He went in, bowing his head1932#60 under the low lintel. Leaving the door ajar, amid the stench of mouldy limewa",
+    "start": 30291,
+    "end": 30334,
+    "canonical_text": "He kicked open the crazy door of the jakes."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3929418,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1116653,
+        "login": "slothcommander",
+        "name": "slothcommander",
+        "role": null,
+        "attribution": 0.55
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.3
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.15
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20012209",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Waiting",
+  "html_source": "<p>A popular song from 1867.</p><p><a href=\"https://nla.gov.au/nla.obj-166530724/view?partId=nla.obj-166531178\" rel=\"noopener nofollow\">https://nla.gov.au/nla.obj-166530724/view?partId=nla.obj-166531178</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20012209/James-joyce-ulysses-chap-18-penelope/Waiting",
+    "original_id": "20012209",
+    "referent_id": 20012209,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Waiting",
+    "prefix": "present have just had a jolly warm bath and feel a very clean dog now enjoyed it wogger she called him wogger wd give anything to be back in Gib and hear you sing in old Madrid or ",
+    "suffix": " Concone is the name of those exercises he bought me one of those new some word I couldnt make out shawls amusing things but tear for the least thing still there lovely I think don",
+    "start": 46079,
+    "end": 46086,
+    "canonical_text": "Waiting"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20012209,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11041825,
+        "login": "raggedclaws",
+        "name": "raggedclaws",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

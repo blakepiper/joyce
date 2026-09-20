@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-1868112",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Matthew Arnold",
+  "html_source": "<p><a href=\"http://en.wikipedia.org/wiki/Matthew_Arnold\" rel=\"noopener nofollow\">Matthew Arnold</a> (24 December 1822 – 15 April 1888) was a British poet and cultural critic who worked as an inspector of schools. Best known for his poem <a href=\"http://en.wikipedia.org/wiki/Dover_Beach\" rel=\"noopener nofollow\">“Dover Beach”</a>.</p><p>Joyce saw Arnold as a distasteful “tidier,” a man of “little opinion” (<em>The Study of Languages</em>).</p><p><img src=\"https://images.genius.com/d559dd9b557eb0aa9c2cfb83e5c389df.460x288x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1868112/James-joyce-ulysses-chap-1-telemachus/Matthew-arnold",
+    "original_id": "1868112",
+    "referent_id": 1868112,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Matthew Arnold",
+    "prefix": "malade. I don't want to be debagged! Don't you play the giddy ox with me! \n\n Shouts from the open window startling evening in the quadrangle. A deaf gardener, aproned, masked with ",
+    "suffix": "'s face, pushes his mower on the sombre lawn watching narrowly the dancing motes of grasshalms. \n\n To ourselves... new paganism... omphalos. \n\n — Let him stay, Stephen said. There'",
+    "start": 10252,
+    "end": 10266,
+    "canonical_text": "Matthew Arnold"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1868112,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 176532,
+        "login": "biblicalmike",
+        "name": "Michael Bible",
+        "role": "verified_artist",
+        "attribution": 0.9866666666666667
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.013333333333333332
+      }
+    ]
+  },
+  "color": "F59627"
+}

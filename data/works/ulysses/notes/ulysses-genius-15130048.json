@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15130048",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Praisegod Barebones",
+  "html_source": "<p>Likely a play on <a href=\"https://en.wikipedia.org/wiki/Praise-God_Barebone\" rel=\"noopener nofollow\">Praise-god Barebone</a>, a priest who gave his name to Cromwell’s Barebone Parliament in 1653 after the Expulsion of the Rump Parliament.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15130048/James-joyce-ulysses-chap-12-cyclops/Praisegod-barebones",
+    "original_id": "15130048",
+    "referent_id": 15130048,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Praisegod Barebones",
+    "prefix": "The delegation partook of luncheon at the conclusion of which the dusky potentate, in the course of a happy speech, freely translated by the British chaplain, the reverend Ananias ",
+    "suffix": ", tendered his best thanks to Massa Walkup and emphasised the cordial relations existing between Abeakuta and the British empire, stating that he treasured as one of his dearest po",
+    "start": 97378,
+    "end": 97397,
+    "canonical_text": "Praisegod Barebones"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15130048,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

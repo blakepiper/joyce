@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21111330",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Spatchcocked",
+  "html_source": "<p>Interpolated, by analogy from the method of halving a chicken along the spine to cook flat.<br /><a href=\"https://en.wiktionary.org/wiki/spatchcock\" rel=\"noopener nofollow\">https://en.wiktionary.org/wiki/spatchcock</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21111330/James-joyce-ulysses-chap-9-scylla-and-charybdis/Spatchcocked",
+    "original_id": "21111330",
+    "referent_id": 21111330,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "spatchcocked",
+    "prefix": "ichard is the only king unshielded by Shakespeare's reverence, the angel of the world. Why is the underplot of King Lear in which Edmund figures lifted out of Sidney's Arcadia and ",
+    "suffix": " on to a Celtic legend older than history? \n\n — That was Will's way, John Eglinton defended. We should not now combine a Norse saga with an excerpt from a novel by George Meredith.",
+    "start": 57222,
+    "end": 57234,
+    "canonical_text": "spatchcocked"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21111330,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

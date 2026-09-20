@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8113551",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "He climbed over",
+  "html_source": "<p>In such an environment, he is able to visualize the mythic and historical narratives involving the sea.  In such an environment, he is able to have an experience of the sublime.  In such an environment, his inner flow of consciousness is reflected thus making it conducive to introspection.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8113551/James-joyce-ulysses-chap-3-proteus/He-climbed-over",
+    "original_id": "8113551",
+    "referent_id": 8113551,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "He climbed over",
+    "prefix": "cks, in sable silvered, hearing Elsinore's tempting flood. \n\n The flood is following me. I can watch it flow past from here. Get back then by the Poolbeg road to the strand there. ",
+    "suffix": " the sedge and eely oarweeds and sat on a stool of rock, resting his ashplant in a grike. \n\n A bloated carcass of a dog lay lolled on bladderwrack. Before him the gunwale of a boat",
+    "start": 17973,
+    "end": 17988,
+    "canonical_text": "He climbed over"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8113551,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2436433,
+        "login": "essss",
+        "name": "essss",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

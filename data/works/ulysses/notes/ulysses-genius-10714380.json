@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10714380",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "In old Madrid",
+  "html_source": "<p><a href=\"https://www.youtube.com/watch?v=fV4PAecdy0g\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=fV4PAecdy0g</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10714380/James-joyce-ulysses-chap-16-eumaeus/In-old-madrid",
+    "original_id": "10714380",
+    "referent_id": 10714380,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "In old Madrid",
+    "prefix": "liberal display of bosom, with more than vision of breasts, her full lips parted, and some perfect teeth, standing near, ostensibly with gravity, a piano, on the rest of which was ",
+    "suffix": ", a ballad, pretty in its way, which was then all the vogue. Her (the lady's) eyes, dark, large, looked at Stephen, about to smile about something to be admired, Lafayette of Westm",
+    "start": 98501,
+    "end": 98514,
+    "canonical_text": "In Old Madrid"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 10714380,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

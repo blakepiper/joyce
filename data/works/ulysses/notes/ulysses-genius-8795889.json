@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795889",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Sacred Heart",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/0b42dac5435be3b9896bf76b62326903.266x408x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795889/James-joyce-ulysses-chap-6-hades/Sacred-heart",
+    "original_id": "8795889",
+    "referent_id": 8795889,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Sacred Heart",
+    "prefix": "o let fly at him. Dead animal even sadder. Silly-Milly burying the little dead bird in the kitchen matchbox, a daisychain and bits of broken chainies on the grave. \n\n1939#85\n\n The ",
+    "suffix": " that is: showing it. Heart on his sleeve. Ought to be sideways and red it should be painted like a real heart. Ireland was dedicated to it or whatever that. Seems anything but ple",
+    "start": 58159,
+    "end": 58171,
+    "canonical_text": "Sacred Heart"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8795889,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

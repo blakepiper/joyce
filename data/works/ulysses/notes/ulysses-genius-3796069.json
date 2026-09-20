@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-3796069",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "In painted chambers loaded with tilebooks.",
+  "html_source": "<p>from Richard Jeffries’s <em>The Story of my Heart: An Autobiography</em>.</p><p><img src=\"https://images.rapgenius.com/52d9ee1e0b2264e89ea6816cc7cf2227.220x304x1.jpg\" alt=\"\" /></p><p>This reference was only recently identified, in 2008 (Bliss,R. <em>James Joyce Quarterly</em>, vol 46, no 1).</p><p>Jeffries argues that nothing exists of many ancient cultures—since nothing survived of them, why should anything come of our assumed high cultures now?</p><p>With relevance to Stephen’s debate he goes on to say:</p><blockquote><p>Turn, then, to the calm reasoning of Aristotle; is there anything in that? Can the half-divine thought of Plato, rising in storeys of sequential ideas, following each other to the conclusion, endure here? No! All the philosophers in Diogenes Laertius fade away: the theories of medieval days; the organon of experiment; down to this hour, they are useless alike.</p></blockquote>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3796069/James-joyce-ulysses-chap-9-scylla-and-charybdis/In-painted-chambers-loaded-with-tilebooks",
+    "original_id": "3796069",
+    "referent_id": 3796069,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "In painted chambers loaded with tilebooks.",
+    "prefix": "en. \n\n Coffined thoughts around me, in mummycases, embalmed in spice of words. Thoth, god of libraries, a birdgod, moonycrowned. And I heard the voice of that Egyptian highpriest. ",
+    "suffix": " \n\n They are still. Once quick in the brains of men. Still: but an 1961#193itch of 1932#173death is in them, to tell me in my ear a maudlin tale, urge me to wreak their will. \n\n — ",
+    "start": 19961,
+    "end": 20003,
+    "canonical_text": "In painted chambers loaded with tilebooks."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3796069,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.9666666666666667
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.026666666666666665
+      },
+      {
+        "id": 5206048,
+        "login": "CalvinCheng",
+        "name": "CalvinCheng",
+        "role": null,
+        "attribution": 0.006666666666666666
+      }
+    ]
+  },
+  "color": "F59627"
+}

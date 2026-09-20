@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-24776959",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Trembling withering",
+  "html_source": "<p>This is likely neuropathy.  St Victus' Dance features late.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/24776959/James-joyce-ulysses-chap-14-oxen-of-the-sun/Trembling-withering",
+    "original_id": "24776959",
+    "referent_id": 24776959,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "trembling withering",
+    "prefix": "doctors, the O'Shiels, the O'Hickeys, the O'Lees, have sedulously set down the divers methods by which the sick and the relapsed found again health whether the malady had been the ",
+    "suffix": " or loose boyconnell flux. Certainly in every public work which in it anything of gravity contains preparation should be with importance commensurate and 1939#277therefore a plan w",
+    "start": 2673,
+    "end": 2692,
+    "canonical_text": "trembling withering"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 24776959,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.5555555555555556
+      },
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 0.4444444444444444
+      }
+    ]
+  },
+  "color": "F59627"
+}

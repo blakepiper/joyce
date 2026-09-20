@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5111412",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Eugene Stratton",
+  "html_source": "<p>Billed by the Theatre Royal as “The World Renowned Comedian in a series of Recitals from his celebrated Repertoire,” Eugene Stratton was the stage name of Eugene Augustus Ruhlmann (1861-1918), an American who became a music-hall star as a Negro impersonator. He toured primarily in the British Isles, first with a minstrel group and then as a solo performer. His routine involved “coon songs” with whistled refrains and soft-shoe dancing “on a darkened, spotlighted stage, a noiseless, moving shadow.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5111412/James-joyce-ulysses-chap-6-hades/Eugene-stratton",
+    "original_id": "5111412",
+    "referent_id": 5111412,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Eugene Stratton",
+    "prefix": "rief there. Quarter mourning. People in law perhaps. \n\n They went past the bleak pulpit of saint Mark's, under the railway bridge, past the Queen's theatre: in silence. Hoardings: ",
+    "suffix": ", Mrs Bandmann Palmer. Could I go to see Leah tonight, I wonder. I said I. Or the Lily of Killarney? Elster Grimes Opera Company. Big powerful change. Wet bright bills for next wee",
+    "start": 10670,
+    "end": 10685,
+    "canonical_text": "Eugene Stratton"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5111412,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

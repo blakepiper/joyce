@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-24130710",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Mr Denis J Maginni",
+  "html_source": "<p>Maginni was a real-life dance instructor in Dublin. He also shows up in the ‘Aeolus’ and ‘Circe’ chapters.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/24130710/James-joyce-ulysses-chap-10-wandering-rocks/Mr-denis-j-maginni",
+    "original_id": "24130710",
+    "referent_id": 24130710,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Mr Denis J Maginni",
+    "prefix": "ather Conmee's 1932#197letter to father provincial into the mouth of the bright red letterbox. Father Conmee smiled and nodded and smiled and walked along Mountjoy square east. \n\n ",
+    "suffix": ", professor of dancing &c, in silk hat, slate frockcoat with silk facings, white kerchief tie, tight lavender trousers, canary gloves and pointed patent boots, walking with grave d",
+    "start": 3489,
+    "end": 3507,
+    "canonical_text": "Mr Denis J Maginni"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 24130710,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

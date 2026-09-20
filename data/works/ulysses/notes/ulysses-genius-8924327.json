@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8924327",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Demisemiquaver",
+  "html_source": "<p>MUSIC BRITISH<br />a thirty-second note.</p><p>So a very short time.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8924327/James-joyce-ulysses-chap-11-sirens/Demisemiquaver",
+    "original_id": "8924327",
+    "referent_id": 8924327,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "demisemiquaver",
+    "prefix": "pping, tap by tap. \n\n Cowley, he stuns himself with it: kind of drunkenness. Better give way only half way the way of a man with a maid. Instance enthusiasts. All ears. Not lose a ",
+    "suffix": ". Eyes shut. Head nodding in time. Dotty. You daren't budge. Thinking strictly prohibited. Always talking shop. Fiddlefaddle about notes. \n\n1986#236\n\n All a kind of attempt to talk",
+    "start": 67216,
+    "end": 67230,
+    "canonical_text": "demisemiquaver"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8924327,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9063665",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Irish Lights board",
+  "html_source": "<p>A maritime organisation delivering an essential safety service around the coast of Ireland, protecting the marine environment, and supporting the marine industry and coastal communities.<br /><a href=\"http://www.irishlights.ie/who-we-are.aspx\" rel=\"noopener nofollow\">http://www.irishlights.ie/who-we-are.aspx</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9063665/James-joyce-ulysses-chap-13-nausicaa/Irish-lights-board",
+    "original_id": "9063665",
+    "referent_id": 9063665,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Irish Lights board",
+    "prefix": " slowly breathing, slumberous but awake. And far on Kish bank the anchored lightship twinkled, winked at Mr Bloom. \n\n Life those chaps out there must have, stuck in the same spot. ",
+    "suffix": ". Penance for their sins. Coastguards too. Rocket and breeches buoy and lifeboat. 1939#273Day we went out for the pleasure cruise in the Erin's King, throwing them the sack of old ",
+    "start": 83702,
+    "end": 83720,
+    "canonical_text": "Irish Lights board"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9063665,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

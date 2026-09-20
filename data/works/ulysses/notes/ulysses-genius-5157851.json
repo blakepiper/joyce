@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5157851",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Augur",
+  "html_source": "<p>A religious official who observed natural signs, especially the behavior of birds, interpreting these as an indication of divine approval or disapproval of a proposed action.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5157851/James-joyce-ulysses-chap-3-proteus/Augur",
+    "original_id": "5157851",
+    "referent_id": 5157851,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "augur",
+    "prefix": "t, ending. Why not endless till the farthest star? Darkly they are there behind this light, darkness shining in the brightness, delta of Cassiopeia, worlds. Me sits there with his ",
+    "suffix": "'s rod of ash, in borrowed sandals, by day beside a livid sea, unbeheld, in violet night walking beneath a reign of uncouth stars. I throw this ended shadow from me, manshape inelu",
+    "start": 26613,
+    "end": 26618,
+    "canonical_text": "augur"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5157851,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1618748,
+        "login": "Kataryna",
+        "name": "Kataryna",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15150601",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "All the old Nicks in the world",
+  "html_source": "<p>“Old Nick” was a common byword for the devil (along with Old Scratch et al.).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15150601/James-joyce-ulysses-chap-14-oxen-of-the-sun/All-the-old-nicks-in-the-world",
+    "original_id": "15150601",
+    "referent_id": 15150601,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "all the old Nicks in the world",
+    "prefix": "p with his horns whatever was planted and all by lord Harry's orders. There was bad blood between them at first, says Mr 1986#327Vincent, and the lord Harry called farmer Nicholas ",
+    "suffix": " and an old whoremaster that kept seven trulls in his house and I'll meddle in his matters, says he. I'll make that animal smell hell, says he, with the help of that good pizzle my",
+    "start": 44567,
+    "end": 44597,
+    "canonical_text": "all the old Nicks in the world"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15150601,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

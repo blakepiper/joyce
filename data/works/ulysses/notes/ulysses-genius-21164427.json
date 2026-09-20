@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21164427",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Ineluctably",
+  "html_source": "<p>Reference back to Stephen’s contemplation of the ineluctable modalities earlier in the novel.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21164427/James-joyce-ulysses-chap-9-scylla-and-charybdis/Ineluctably",
+    "original_id": "21164427",
+    "referent_id": 21164427,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "ineluctably",
+    "prefix": "behind, he stood aside. \n\n Part. The moment is now. Where then? If Socrates leave his house today, if Judas go forth tonight. Why? That lies in space which I in time must come to, ",
+    "suffix": ". \n\n My will: his will that fronts me. Seas between. \n\n1932#1951986#178\n\n A man passed out between them, bowing, greeting. \n\n — Good day again, Buck Mulligan said. \n\n The portico. ",
+    "start": 68476,
+    "end": 68487,
+    "canonical_text": "ineluctably"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21164427,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

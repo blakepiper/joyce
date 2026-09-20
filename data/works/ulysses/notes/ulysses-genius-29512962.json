@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-29512962",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "I can’t see the Joe Miller.",
+  "html_source": "<p>A stale joke, from Joe Miller’s Jest-book (1739), a collection of jokes by John Mottley.<br />merriam-webster</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/29512962/James-joyce-ulysses-chap-7-aeolus/I-cant-see-the-joe-miller",
+    "original_id": "29512962",
+    "referent_id": 29512962,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "I can't see the Joe Miller.",
+    "prefix": "pered then near Stephen's ear: \n\n LENEHAN'S LIMERICK \n\n — There's a ponderous pundit MacHugh \nWho wears goggles of ebony hue. \nAs he mostly sees double \nTo wear them why trouble? \n",
+    "suffix": " Can you? \n\n1932#119\n\n In mourning for Sallust, Mulligan says. Whose mother is beastly dead. \n\n Myles Crawford crammed the sheets into a sidepocket. \n\n — That'll be all right, he s",
+    "start": 31778,
+    "end": 31805,
+    "canonical_text": "I can't see the Joe Miller."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 29512962,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 21057647,
+        "login": "MarvGarbler",
+        "name": "MarvGarbler",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

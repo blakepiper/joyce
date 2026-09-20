@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8770135",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Broadstone",
+  "html_source": "<p>Broadstone (Irish: An Clochán Leathan) is one of the three neighbourhoods that make up present-day Phibsboro. Former Dublin terminus of the Midland Great Western Railway. So she may be taking a carriage to the train station to go out to the country.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8770135/James-joyce-ulysses-chap-5-lotus-eaters/Broadstone",
+    "original_id": "8770135",
+    "referent_id": 8770135,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Broadstone",
+    "prefix": "er. Lady's hand. Which side will she get up? \n\n — And he said: Sad thing about our poor friend Paddy! What Paddy? I said. Poor little Paddy Dignam, he said. \n\n Off to the country: ",
+    "suffix": " probably. High brown boots with laces dangling. Wellturned foot. What is he foostering over that change for? Sees me looking. Eye out for other fellow always. Good fallback. Two s",
+    "start": 7574,
+    "end": 7584,
+    "canonical_text": "Broadstone"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8770135,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

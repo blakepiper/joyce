@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9063739",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Scottish Widows",
+  "html_source": "<p>They are still providing pensions and insurance.<br /><a href=\"http://www.scottishwidows.co.uk/\" rel=\"noopener nofollow\">http://www.scottishwidows.co.uk</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9063739/James-joyce-ulysses-chap-13-nausicaa/Scottish-widows",
+    "original_id": "9063739",
+    "referent_id": 9063739,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Scottish Widows",
+    "prefix": "te as Morris said when he kissed the cow. But Dignam's put the boots on it. Houses of mourning so depressing because you never know. Anyhow she wants the money. Must call to those ",
+    "suffix": " as I promised. Strange name. Takes it for granted we're going to pop off first. That widow on Monday was it outside Cramer's that looked at me. Buried the poor husband but progres",
+    "start": 86976,
+    "end": 86991,
+    "canonical_text": "Scottish Widows"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9063739,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

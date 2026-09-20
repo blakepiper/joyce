@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-9232619",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Ad deam qui laetificat juventutem meam.",
+  "html_source": "<p>‘to the goddess , who giveth joy to my youth’.</p><p>Echoes the words of a minister at mass -‘to God who has gladdened the days of my youth’ in response to the celebrant at the beginning of mass (Gifford &amp; Seidman, p454).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9232619/James-joyce-ulysses-chap-15-circe/Ad-deam-qui-laetificat-juventutem-meam",
+    "original_id": "9232619",
+    "referent_id": 9232619,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "ad deam qui laetificat juventutem meam.",
+    "prefix": "d jug of bread or wine in Omar. Hold my stick. \n\n LYNCH \n\n Damn your yellow stick. Where are we going? \n\n STEPHEN \n\n Lecherous lynx, to la belle dame sans merci, Georgina Johnson, ",
+    "suffix": " \n\n(Stephen thrusts the ashplant on him and slowly holds out his hands, his head going back till both hands are a span from his breast, down turned, in planes intersecting, the fin",
+    "start": 5475,
+    "end": 5514,
+    "canonical_text": "ad deam qui laetificat iuventutem meam."
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9744
+  },
+  "genius": {
+    "referent_id": 9232619,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.8048780487804877
+      },
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.1951219512195122
+      }
+    ]
+  },
+  "color": "F59627"
+}

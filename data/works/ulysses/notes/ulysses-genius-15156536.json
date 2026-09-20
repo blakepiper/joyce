@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15156536",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Hard hat",
+  "html_source": "<p>This person looks crazy, but not as crazy as you might think if you imagine</p><p><img src=\"https://images.genius.com/b7862b3dba117b84b9caf340eee170ad.1000x1000x1.jpg\" alt=\"\" /></p><p>rather than this</p><p><img src=\"https://images.genius.com/5cdbbbec8d0d0b44e52adbebe2d61ae1.800x800x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15156536/James-joyce-ulysses-chap-15-circe/Hard-hat",
+    "original_id": "15156536",
+    "referent_id": 15156536,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "hard hat",
+    "prefix": " life to urge me, to defile the marriage bed, to commit adultery at the earliest possible opportunity. \n\n1986#3801961#466\n\n THE HONOURABLE MRS MERVYN TALBOYS \n\n(In amazon costume, ",
+    "suffix": ", jackboots cockspurred, vermilion waistcoat, fawn musketeer gauntlets with braided drums, long train held up and hunting crop with which she strikes her welt constantly.) Also me.",
+    "start": 53683,
+    "end": 53691,
+    "canonical_text": "hard hat"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15156536,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

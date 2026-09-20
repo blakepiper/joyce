@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4546738",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Because how could she go to the chamber when she wanted to and she a rich lady",
+  "html_source": "<p>Gifford thinks this must refer back to Lillie Langtry and the chastity belt.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4546738/James-joyce-ulysses-chap-18-penelope/Because-how-could-she-go-to-the-chamber-when-she-wanted-to-and-she-a-rich-lady",
+    "original_id": "4546738",
+    "referent_id": 4546738,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "because how could she go to the chamber when she wanted to and she a rich lady",
+    "prefix": "r like the infant Jesus in the crib at Inchicore in the Blessed Virgins arms sure no woman could have a child that big taken out of her and I thought first it came out of her side ",
+    "suffix": " of course she felt honoured H. R. H. he was in Gibraltar the year I was born I bet he found lilies there too where he planted the tree he planted more than that in his time he mig",
+    "start": 37278,
+    "end": 37356,
+    "canonical_text": "because how could she go to the chamber when she wanted to and she a rich lady"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4546738,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

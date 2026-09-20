@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5111273",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "The grand canal",
+  "html_source": "<p>The most important canal in Ireland; it skirts the southern perimeter of central Dublin and links Dublin with the west coast of Ireland. The carriage stops at Victoria Bridge over the canal.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5111273/James-joyce-ulysses-chap-6-hades/The-grand-canal",
+    "original_id": "5111273",
+    "referent_id": 5111273,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "The grand canal",
+    "prefix": ", Mr Bloom said. He said he'd try to come. \n\n The carriage halted short. \n\n — What's wrong? \n\n — We're stopped. \n\n — Where are we? \n\n Mr Bloom put his head out of the window. \n\n — ",
+    "suffix": ", he said. \n\n Gasworks. Whooping cough they say it cures. Good job Milly never got it. Poor children! Doubles them up black and blue in convulsions. Shame really. Got off lightly w",
+    "start": 6958,
+    "end": 6973,
+    "canonical_text": "The grand canal"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5111273,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

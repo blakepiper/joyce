@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4635142",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Not there",
+  "html_source": "<p>Bloom’s key is in the trousers he wore yesterday. He forgets to retrieve it before he leaves. So, both Stephen and Bloom are keyless and locked out of their homes.</p><p><img src=\"https://images.rapgenius.com/ae8d50225d6163128d64f576df2d79ca.750x1000x1.jpg\" alt=\"\" /></p><p>See how the problem is resolved in Ithaca chapter.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4635142/James-joyce-ulysses-chap-4-calypso/Not-there",
+    "original_id": "4635142",
+    "referent_id": 4635142,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Not there",
+    "prefix": "ly: Plasto's high grade ha. He peeped quickly inside the leather headband. White slip of paper. Quite safe. \n\n1961#56\n\n On the doorstep he felt in his hip pocket for the latchkey. ",
+    "suffix": ". In the trousers I left off. Must get it. Potato I have. Creaky wardrobe. No use disturbing her. She turned over sleepily that time. He pulled the halldoor to after him very quiet",
+    "start": 4468,
+    "end": 4477,
+    "canonical_text": "Not there"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4635142,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.8695652173913043
+      },
+      {
+        "id": 7060080,
+        "login": "keithalt",
+        "name": "keithalt",
+        "role": null,
+        "attribution": 0.13043478260869565
+      }
+    ]
+  },
+  "color": "F59627"
+}

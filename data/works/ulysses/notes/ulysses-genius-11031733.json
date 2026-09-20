@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11031733",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Urim and Thummin",
+  "html_source": "<p><a href=\"https://bible.org/question/how-did-urim-and-thummim-function\" rel=\"noopener nofollow\">https://bible.org/question/how-did-urim-and-thummim-function</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11031733/James-joyce-ulysses-chap-17-ithaca/Urim-and-thummin",
+    "original_id": "11031733",
+    "referent_id": 11031733,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Urim and Thummin",
+    "prefix": "(burnt offering): intestinal congestion and premeditative defecation (holy of holies): the bath (rite of John): the funeral (rite of Samuel): the advertisement of Alexander Keyes (",
+    "suffix": "): the unsubstantial lunch (rite of Melchizedek): the visit to museum and national library (holy place): the bookhunt along Bedford row, Merchants' Arch, Wellington Quay (Simchath ",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.4
+  },
+  "genius": {
+    "referent_id": 11031733,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8773713",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Carey",
+  "html_source": "<p>James Carey, leader of the Invincibles, was shot dead on board the Melrose Castle off Cape Town, South Africa, on 29 July 1883, by Donegal man Patrick O'Donnell, for giving evidence against his former comrades.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8773713/James-joyce-ulysses-chap-5-lotus-eaters/Carey",
+    "original_id": "8773713",
+    "referent_id": 8773713,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Carey",
+    "prefix": "e with a ribbon round her neck and do the other thing all the same on the sly. Their character. That fellow that turned queen's evidence on the invincibles he used to receive the, ",
+    "suffix": " was his name, the communion every morning. This very church. Peter Carey. No, Peter Claver I am thinking of. 1986#66Denis Carey. And just imagine that. Wife and six children at ho",
+    "start": 23854,
+    "end": 23859,
+    "canonical_text": "Carey"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9748
+  },
+  "genius": {
+    "referent_id": 8773713,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

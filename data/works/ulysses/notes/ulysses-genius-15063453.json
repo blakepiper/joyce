@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15063453",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Our American cousin",
+  "html_source": "<p>Likely refers to the Tom Taylor play, a production of which President Abraham Lincoln was attending at Ford’s Theater when he was assassinated.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15063453/James-joyce-ulysses-chap-9-scylla-and-charybdis/Our-american-cousin",
+    "original_id": "15063453",
+    "referent_id": 15063453,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "our American cousin",
+    "prefix": "m. Warwickshire jesuits are tried and we have a porter's theory of equivocation. The Sea Venture comes home from Bermudas and the play Renan admired is written with Patsy Caliban, ",
+    "suffix": ". The sugared sonnets follow Sidney's. As for fay Elizabeth, otherwise carrotty Bess, the gross virgin who inspired The Merry Wives of Windsor, let some meinherr from Almany grope ",
+    "start": 43351,
+    "end": 43370,
+    "canonical_text": "our American cousin"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15063453,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

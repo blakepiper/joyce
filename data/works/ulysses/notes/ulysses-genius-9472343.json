@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9472343",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Sraid Mabbot.",
+  "html_source": "<p>(Irish) Mabbot Street. There should be an accent on the first a: Sráid Mabbot. Mabbot Street was renamed Corporation Street, which was recently renamed James Joyce Street.<br />Wikibooks: Annotations to James Joyce’s Ulysses</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9472343/James-joyce-ulysses-chap-15-circe/Sraid-mabbot",
+    "original_id": "9472343",
+    "referent_id": 9472343,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Sraid Mabbot.",
+    "prefix": "deleaved sombrero the figure regards him with evil eye.) \n\n BLOOM \n\nBueñas noches, señorita Blanca, que calle es esta? \n\n THE FIGURE \n\n (Impassive, raises a signal arm.) Password. ",
+    "suffix": " \n\n BLOOM \n\n Haha. Merci. Esperanto. Slan leath. (He mutters.) Gaelic league spy, sent by that fireeater. \n\n(He steps forward. A sackshouldered ragman bars his path. He steps left,",
+    "start": 10545,
+    "end": 10558,
+    "canonical_text": "Sraid Mabbot."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9472343,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

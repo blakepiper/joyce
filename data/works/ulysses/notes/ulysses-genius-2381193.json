@@ -1,0 +1,63 @@
+{
+  "id": "ulysses-genius-2381193",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Learningknight yclept Dixon",
+  "html_source": "<p>A student called Dixon. The term “learningknight” may be Joyce’s own, but “yclept” was a Middle English term used up through the time of Geoffrey Chaucer, the sugar daddy of the English language.</p><p>yclept means ‘by the name of’. So, this means Learning Knight (medical student) by the name of Dixon.</p><p>PROPOSED SUGGESTION: Clepe<br />verb (used with object), cleped or clept (also ycleped or yclept ) cleping. Archaic.<br />to call; name (now chiefly in the past participle as ycleped or yclept).<br />Dictionary.com</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2381193/James-joyce-ulysses-chap-14-oxen-of-the-sun/Learningknight-yclept-dixon",
+    "original_id": "2381193",
+    "referent_id": 2381193,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "learningknight yclept Dixon",
+    "prefix": "they spake the door of the castle was opened and there nighed them a mickle noise as of many that sat there at meat. And there 1986#316came against the place as they stood a young ",
+    "suffix": ". And the traveller Leopold was couth to him sithen it had happed that they had had ado each with other in the house of misericord where this learningknight lay by cause the travel",
+    "start": 8566,
+    "end": 8593,
+    "canonical_text": "learningknight yclept Dixon"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2381193,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 141494,
+        "login": "Soma_Cruz",
+        "name": "Soma_Cruz",
+        "role": "contributor",
+        "attribution": 0.5892857142857143
+      },
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 0.3035714285714286
+      },
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.08928571428571429
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.01785714285714286
+      }
+    ]
+  },
+  "color": "F59627"
+}

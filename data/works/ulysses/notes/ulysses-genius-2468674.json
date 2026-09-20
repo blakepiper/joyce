@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2468674",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Rathmines",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/5gvyjppo22zfj0dbawctme4t.800x595x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2468674/James-joyce-ulysses-chap-7-aeolus/Rathmines",
+    "original_id": "2468674",
+    "referent_id": 2468674,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Rathmines",
+    "prefix": " pillar trams slowed, shunted, changed trolley, started for Blackrock, Kingstown and Dalkey, Clonskea, Rathgar and Terenure, Palmerston Park and upper Rathmines, Sandymount Green, ",
+    "suffix": ", Ringsend and Sandymount Tower, Harold's Cross. The hoarse Dublin United Tramway Company's timekeeper bawled them off: \n\n — Rathgar and Terenure! \n\n — Come on, Sandymount Green! \n",
+    "start": 247,
+    "end": 256,
+    "canonical_text": "Rathmines"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 2468674,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

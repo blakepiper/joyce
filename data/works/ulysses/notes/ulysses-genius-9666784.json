@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9666784",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Morganatic",
+  "html_source": "<p>Monganastic: of or denoting a marriage in which neither the spouse of lower rank nor any children have any claim to the possessions or title of the spouse of higher rank.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9666784/James-joyce-ulysses-chap-15-circe/Morganatic",
+    "original_id": "9666784",
+    "referent_id": 9666784,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "morganatic",
+    "prefix": "itary Grand Vizier and announce that we have this day repudiated our former spouse and have bestowed our royal hand upon the princess Selene, the splendour of night. \n\n(The former ",
+    "suffix": " spouse of Bloom is hastily removed in the Black Maria. The princess Selene, in moonblue robes, a silver crescent on her head, descends from a Sedan chair, borne by two giants. An ",
+    "start": 75673,
+    "end": 75683,
+    "canonical_text": "morganatic"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9666784,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

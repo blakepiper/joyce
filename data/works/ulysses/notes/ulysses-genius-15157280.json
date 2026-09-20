@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15157280",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "PAVIOR AND FLAGGER",
+  "html_source": "<p>This refers to one who paves vocationally, perhaps using flag stones.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15157280/James-joyce-ulysses-chap-15-circe/Pavior-and-flagger",
+    "original_id": "15157280",
+    "referent_id": 15157280,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "PAVIOR AND FLAGGER",
+    "prefix": "ds, \nSaint Stephen's his day \nWas caught in the furze. \n\n1922#454\n\n A BLACKSMITH \n\n(Murmurs.) For the honour of God! And is that Bloom? He scarcely looks thirtyone. \n\n1939#342\n\n A ",
+    "suffix": " \n\n That's the famous Bloom now, the world's greatest reformer. Hats off! \n\n(All uncover their heads. Women whisper eagerly.) \n\n1986#392\n\n A MILLIONAIRESS \n\n(Richly.) Isn't he simp",
+    "start": 73354,
+    "end": 73372,
+    "canonical_text": "PAVIOR AND FLAGGER"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15157280,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

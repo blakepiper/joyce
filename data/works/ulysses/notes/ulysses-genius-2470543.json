@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-2470543",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "He can’t make you out.",
+  "html_source": "<p><em>He can’t understand you.</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2470543/James-joyce-ulysses-chap-1-telemachus/He-cant-make-you-out",
+    "original_id": "2470543",
+    "referent_id": 2470543,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "He can't make you out.",
+    "prefix": "He thinks you're not a gentleman. God, these bloody English! Bursting with money and indigestion. Because he comes from Oxford. You know, Dedalus, you have the real Oxford manner. ",
+    "suffix": " O, my name for you is the best: Kinch, the knifeblade. \n\n He shaved warily over his chin. \n\n — He was raving all night about a black panther, Stephen said. Where is his guncase? \n",
+    "start": 3170,
+    "end": 3192,
+    "canonical_text": "He can't make you out."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2470543,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 0.75
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.25
+      }
+    ]
+  },
+  "color": "F59627"
+}

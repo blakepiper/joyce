@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8762797",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Nimbus",
+  "html_source": "<p>A circle or ornamented disk depicted around the head of a saint. In pre-Christian times it represented power and majesty. The Church adopted the custom and made the nimbus symbolic of virtue.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8762797/James-joyce-ulysses-chap-1-telemachus/Nimbus",
+    "original_id": "8762797",
+    "referent_id": 8762797,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "nimbus",
+    "prefix": "gan cried. Half twelve. \n\n — Good, Stephen said. \n\n He walked along the upwardcurving path. \n\nLiliata rutilantium. \nTurma circumdet. \nIubilantium te virginum. \n\n The priest's grey ",
+    "suffix": " in a niche where he dressed discreetly. I will not sleep here tonight. Home also I cannot go. \n\n A voice, sweettoned and sustained, called to him from the sea. Turning the curve h",
+    "start": 41543,
+    "end": 41549,
+    "canonical_text": "nimbus"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8762797,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

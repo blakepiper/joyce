@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10551197",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Natürlich",
+  "html_source": "<p>German for “Naturally”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10551197/James-joyce-ulysses-chap-3-proteus/Naturlich",
+    "original_id": "10551197",
+    "referent_id": 10551197,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Natürlich",
+    "prefix": "mocked Guido in Or san Michele were in their own house. House of... We don't want any of your medieval abstrusiosities. Would you do what he did? A boat would be near, a lifebuoy. ",
+    "suffix": ", put there for you. Would you or would you not? The man that was drowned nine days ago off Maiden's rock. They are waiting for him now. The truth, spit it out. I would want to. I ",
+    "start": 20578,
+    "end": 20587,
+    "canonical_text": "Natürlich"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10551197,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

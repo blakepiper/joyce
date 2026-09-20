@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9067443",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Fallen women",
+  "html_source": "<p>Prostitutes from an ‘accomodation house’/brothel.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9067443/James-joyce-ulysses-chap-13-nausicaa/Fallen-women",
+    "original_id": "9067443",
+    "referent_id": 9067443,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "fallen women",
+    "prefix": " what then? Would it make a very great difference? From everything in the least indelicate her 1986#298finebred nature instinctively recoiled. She loathed that sort of person, the ",
+    "suffix": " off the accommodation walk beside the Dodder that went with the soldiers and coarse men with no respect for a girl's honour, degrading the sex and being taken up to the police sta",
+    "start": 46593,
+    "end": 46605,
+    "canonical_text": "fallen women"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9067443,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

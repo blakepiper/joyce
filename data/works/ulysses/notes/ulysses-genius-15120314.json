@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15120314",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Zivio",
+  "html_source": "<p>“Zivio ziveli” is a Serbian toast akin to “cheers”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15120314/James-joyce-ulysses-chap-12-cyclops/Zivio",
+    "original_id": "15120314",
+    "referent_id": 15120314,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "zivio",
+    "prefix": "the viceregal ladies waving their handkerchiefs in their excitement while the even more excitable foreign delegates cheered vociferously in a medley of cries, hoch, banzai, eljen, ",
+    "suffix": ", chinchin, polla kronia, hiphip, vive, Allah, amid which the ringing evviva of the delegate of the land of song (a high double F recalling those piercingly lovely notes with which",
+    "start": 38229,
+    "end": 38234,
+    "canonical_text": "zivio"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15120314,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

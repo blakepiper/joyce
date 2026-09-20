@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-17300802",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Mantrap",
+  "html_source": "<p>Slang for a brothel or house of prostitution.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/17300802/James-joyce-ulysses-chap-15-circe/Mantrap",
+    "original_id": "17300802",
+    "referent_id": 17300802,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "mantrap",
+    "prefix": " seen you up Faithful place with your squarepusher, the greaser off the railway, in his cometobed hat. Did you, says I. That's not for you to say, says I. You never seen me in the ",
+    "suffix": " with a married highlander, says I. The likes of her! Stag that one is! Stubborn as a mule! And her walking with two fellows the one time, Kilbride, the enginedriver, and lancecorp",
+    "start": 4240,
+    "end": 4247,
+    "canonical_text": "mantrap"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 17300802,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 8618059,
+        "login": "solsolis",
+        "name": "solsolis",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

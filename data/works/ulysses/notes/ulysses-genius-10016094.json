@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10016094",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Sieurs et dames, faites vos jeux!",
+  "html_source": "<p>Ladies and gentlemen, place your bets!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10016094/James-joyce-ulysses-chap-15-circe/Sieurs-et-dames-faites-vos-jeux",
+    "original_id": "10016094",
+    "referent_id": 10016094,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Sieurs et dames, faites vos jeux!",
+    "prefix": " at once thrusts his lipless face through the fork of his thighs.) Il vient! C'est moi! L'homme qui rit! 1922#476L'homme primigène! (He whirls round and round with dervish howls.) ",
+    "suffix": " (He crouches juggling. Tiny roulette planets fly from his hands.) Les jeux sont faits! (The planets rush together, uttering crepitant cracks.) Rien n'va plus! (The planets, buoyan",
+    "start": 107501,
+    "end": 107534,
+    "canonical_text": "Sieurs et dames, faites vos jeux!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10016094,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

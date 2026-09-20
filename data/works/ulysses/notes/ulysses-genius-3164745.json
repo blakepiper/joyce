@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-3164745",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Arthur Griffith,",
+  "html_source": "<p>Arthur Griffith: politician, nationalist. He was there at the founding of Sinn Féin, member of the Irish Volunteer force.</p><p><img src=\"https://images.rapgenius.com/7372bb9874843cc56b10c779967ffdfb.200x230x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3164745/James-joyce-ulysses-chap-3-proteus/Arthur-griffith",
+    "original_id": "3164745",
+    "referent_id": 3164745,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Arthur Griffith,",
+    "prefix": "ths and grumbling gorges. His breath hangs over our saucestained plates, the green fairy's fang thrusting between his lips. Of Ireland, the Dalcassians, of hopes, conspiracies, of ",
+    "suffix": " now. To yoke me1932#39 as his yokefellow, our crimes our common cause. You're your father's son. I know the voice. His fustian shirt, sanguineflowered, trembles its Spanish tassel",
+    "start": 14167,
+    "end": 14182,
+    "canonical_text": "Arthur Griffith"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 3164745,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.9591836734693878
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.04081632653061225
+      }
+    ]
+  },
+  "color": "F59627"
+}

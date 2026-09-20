@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15140807",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Stewed cockles",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Cockle_%28bivalve\" rel=\"noopener nofollow\">Cockles</a> are small bivalve mollusks similar to clams.</p><p>They are heart-shaped when viewed from a certain angle, perhaps giving rise to the expression “it warmed the cockles of my heart”. It could also be that both terms share a common etymology in the Latin cochleae (“ventricles”).</p><p><img src=\"https://images.genius.com/b4277d50211859d7c0f189394cab32e7.700x700x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15140807/James-joyce-ulysses-chap-13-nausicaa/Stewed-cockles",
+    "original_id": "15140807",
+    "referent_id": 15140807,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "stewed cockles",
+    "prefix": "ache a bit white under his nose. Poor father! With all his faults she loved him still when he sang Tell me, Mary, how to woo thee or My love and cottage near Rochelle and they had ",
+    "suffix": " and lettuce with Lazenby's salad dressing for supper and when he sang The moon hath raised with Mr Dignam that died suddenly and was buried, God have mercy on him, from a stroke. ",
+    "start": 21916,
+    "end": 21930,
+    "canonical_text": "stewed cockles"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15140807,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

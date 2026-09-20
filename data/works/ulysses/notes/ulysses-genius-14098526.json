@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-14098526",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Rood",
+  "html_source": "<p>A crucifix. Part of Joyce’s exploration of the history of the English Language – “rood” derives from Old English “rōd,” meaning “pole.” See also: “Dream of the Rood,” one of the earliest works of Old English literature.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/14098526/James-joyce-ulysses-chap-14-oxen-of-the-sun/Rood",
+    "original_id": "14098526",
+    "referent_id": 14098526,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "rood",
+    "prefix": "te wide undid. Lo, levin leaping lightens in eyeblink Ireland's westward welkin. Full she dread that God the Wreaker all mankind would fordo with water for his evil sins. Christ's ",
+    "suffix": " made she on breastbone and him drew that he would rathe infare under her thatch. That man her will wotting worthful went in Horne's house. \n\n Loth to irk in Horne's hall hat holdi",
+    "start": 5764,
+    "end": 5768,
+    "canonical_text": "rood"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 14098526,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 6105605,
+        "login": "FreddyCleveland",
+        "name": "FreddyCleveland",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

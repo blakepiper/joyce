@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8817364",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Periwinkles",
+  "html_source": "<p>The common periwinkle or winkle (Littorina littorea) is a species of small edible sea snail, a marine gastropod mollusc that has gills and an operculum, and is classified within the family Littorinidae, the periwinkles.</p><p><img src=\"https://images.rapgenius.com/b585a98ea149716ffe49a67861c56ea8.800x600x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8817364/James-joyce-ulysses-chap-8-lestrygonians/Periwinkles",
+    "original_id": "8817364",
+    "referent_id": 8817364,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "periwinkles",
+    "prefix": "eins. I wanted that badly. Felt so off colour. His eyes unhungrily saw shelves of tins: sardines, gaudy lobsters' claws. All the odd things people pick up for food. Out of shells, ",
+    "suffix": " with a pin, off trees, snails out of the ground the French eat, out of the sea with bait on a hook. Silly fish learn nothing in a thousand years. If you didn't know risky putting ",
+    "start": 52861,
+    "end": 52872,
+    "canonical_text": "periwinkles"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8817364,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

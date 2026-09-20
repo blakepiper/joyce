@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2464107",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Rapt attention",
+  "html_source": "<p>To be rapt is to be completely fascinated by what one is seeing or hearing.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2464107/James-joyce-ulysses-chap-1-telemachus/Rapt-attention",
+    "original_id": "2464107",
+    "referent_id": 2464107,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "rapt attention",
+    "prefix": "Shut your eyes, gents. One moment. A little trouble about those white corpuscles. Silence, all. \n\n He peered sideways up and gave a long low whistle of call, then paused awhile in ",
+    "suffix": ", his even white teeth glistening here and there with gold points. Chrysostomos. Two strong shrill whistles answered through the calm. \n\n — Thanks, old chap, he cried briskly. That",
+    "start": 1411,
+    "end": 1425,
+    "canonical_text": "rapt attention"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2464107,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

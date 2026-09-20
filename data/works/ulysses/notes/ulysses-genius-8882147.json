@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8882147",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Youth here has End",
+  "html_source": "<p>Perhaps Stephen’s youth here has an end. Perhaps it is only Bloom’s wish for Stephen. The lyrics include: “My young life has an end/ My joy and sorrow as well/… My life can no longer stand firm./ It is very weak and must perish.</p><p>Stephen’s life has been weak and perhaps is likely to perish, able to stand firm no longer.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8882147/James-joyce-ulysses-chap-16-eumaeus/Youth-here-has-end",
+    "original_id": "8882147",
+    "referent_id": 8882147,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Youth here has End",
+    "prefix": "ew vistas in his mind, such as Lady Fingall's Irish industries concert on the preceding Monday, and aristocracy in general. \n\n Exquisite variations he was now describing on an air ",
+    "suffix": " by Jans Pieter Sweelinck, a Dutchman of Amsterdam where the frows come from. Even more he liked an old German song of Johannes Jeep about the clear sea and the voices of sirens, s",
+    "start": 125285,
+    "end": 125303,
+    "canonical_text": "Youth here has End"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8882147,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

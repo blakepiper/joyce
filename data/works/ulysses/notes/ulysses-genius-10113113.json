@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10113113",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Iago",
+  "html_source": "<p>In Othello,  Iago hates Othello and devises a plan to destroy him by making him believe that his wife is having an affair with his lieutenant, Michael Cassio.<br /><a href=\"https://en.wikipedia.org/wiki/Iago\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Iago</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10113113/James-joyce-ulysses-chap-15-circe/Iago",
+    "original_id": "10113113",
+    "referent_id": 10113113,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Iago",
+    "prefix": "\n\n(In dignified ventriloquy.) 'Tis the loud laugh bespeaks the vacant mind. (To Bloom.) Thou thoughtest as how thou wastest invisible. Gaze. (He crows with a black capon's laugh.) ",
+    "suffix": "go! How my Oldfellow chokit his Thursdaymornun. Iagogogo! \n\n1961#567\n\n BLOOM \n\n(Smiles yellowly at the three whores.) When will I hear the joke? \n\n1922#528\n\n ZOE \n\n Before you're t",
+    "start": 188147,
+    "end": 188151,
+    "canonical_text": "Iago"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9301
+  },
+  "genius": {
+    "referent_id": 10113113,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

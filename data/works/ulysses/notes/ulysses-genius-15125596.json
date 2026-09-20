@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15125596",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Decree nisi",
+  "html_source": "<p>A decree that does not take effect until/unless a certain condition is met. Originally (and still commonly) used for things like divorces to allow for a cooling-off period: the divorce decree would not take effect until a certain period of time (e.g., 30 days) had elapsed. From the Latin nisi, meaning “unless”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15125596/James-joyce-ulysses-chap-12-cyclops/Decree-nisi",
+    "original_id": "15125596",
+    "referent_id": 15125596,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Decree nisi",
+    "prefix": "you, says Bloom. \n\n — The strangers, says the citizen. Our own fault. We let them come in. We brought them in. The adulteress and her paramour brought the Saxon robbers here. \n\n — ",
+    "suffix": ", says J. J. \n\n And Bloom letting on to be awfully deeply interested in nothing, a spider's web in the corner behind the barrel, and the citizen scowling after him and the old dog ",
+    "start": 74233,
+    "end": 74244,
+    "canonical_text": "Decree nisi"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15125596,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8803199",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "John Philpot Curran",
+  "html_source": "<p>John Philpot Curran,  (born July 24, 1750, Newmarket, County Cork, Ire.—died Oct. 14, 1817, Brompton, Middlesex, Eng.), Irish lawyer and statesman who is remembered as a great advocate and as a champion of Irish liberties. Although handicapped by small stature and a speech impediment, he soon became celebrated for his quick wit and courage in defending apparently hopeless cases. Though not a Roman Catholic himself, he fought in the Irish House of Commons for Roman Catholic emancipation.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8803199/James-joyce-ulysses-chap-7-aeolus/John-philpot-curran",
+    "original_id": "8803199",
+    "referent_id": 8803199,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "John Philpot Curran",
+    "prefix": "DAYS OF YORE \n\n — Grattan and Flood wrote for this very paper, the editor cried in his face. Irish volunteers. Where are you now? Established 1763. Dr Lucas. Who have you now like ",
+    "suffix": "? Psha! \n\n — Well, J. J. O'Molloy said, Bushe K.C., for example. \n\n — Bushe? the editor said. Well, yes: Bushe, yes. He has a strain of it in his blood. Kendal Bushe or I mean Seym",
+    "start": 40705,
+    "end": 40724,
+    "canonical_text": "John Philpot Curran"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8803199,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

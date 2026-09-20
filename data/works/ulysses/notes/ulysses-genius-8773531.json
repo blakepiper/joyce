@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8773531",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Mazzoth",
+  "html_source": "<p>Feast of Mazzoth: in EX 12 Mazzoth is combined with Passover as a historical feast commemorating the deliverance of Israel from Egypt. Only unleavened bread (matzoth) was to be eaten for a week beginning with the day of Passover.</p><p>For those who are aware of Christian roots in Jewish ritual, the Jewish matzo used at Passover is analogous to unleavened bread required for the Roman Rite of Communion.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8773531/James-joyce-ulysses-chap-5-lotus-eaters/Mazzoth",
+    "original_id": "8773531",
+    "referent_id": 8773531,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "mazzoth",
+    "prefix": "s 1961#80modelled on our heads. They were about him here and there, with heads still bowed in their crimson halters, waiting for it to melt in their stomachs. Something like those ",
+    "suffix": ": it's that sort of bread: unleavened shewbread. Look at them. Now I bet it makes them feel happy. Lollipop. It does. Yes, bread of angels it's called. There's a big idea behind it",
+    "start": 22390,
+    "end": 22397,
+    "canonical_text": "mazzoth"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8773531,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

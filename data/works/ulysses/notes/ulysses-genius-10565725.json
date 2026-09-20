@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10565725",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "S. s. Lady Cairns",
+  "html_source": "<p>Two ships collided in the Irish Sea in 1904. The Lady Cairns sank before lifeboats could be lowered. The German Mona provided no help.<br /><a href=\"http://www.plimsoll.org/resources/SCCLibraries/WreckReports2002/18553.asp\" rel=\"noopener nofollow\">http://www.plimsoll.org/resources/SCCLibraries/WreckReports2002/18553.asp</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10565725/James-joyce-ulysses-chap-16-eumaeus/S-s-lady-cairns",
+    "original_id": "10565725",
+    "referent_id": 10565725,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "s. s. Lady Cairns",
+    "prefix": " the topic for the Irish Times), breakers running over her and crowds and crowds on the shore in commotion petrified with horror. Then someone said something about the case of the ",
+    "suffix": " of Swansea, run into by the Mona, 1932#546which was on an opposite tack, in rather muggyish weather and lost with all hands on deck. No aid was given. Her master, the Mona's, said",
+    "start": 61853,
+    "end": 61870,
+    "canonical_text": "s. s. Lady Cairns"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10565725,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

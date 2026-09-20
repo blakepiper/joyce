@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8817079",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Gingerbread coach",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/61c432a2044d744668f676016ae60338.940x716x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8817079/James-joyce-ulysses-chap-8-lestrygonians/Gingerbread-coach",
+    "original_id": "8817079",
+    "referent_id": 8817079,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "gingerbread coach",
+    "prefix": "of Trinity women and children cabmen priests parsons fieldmarshals archbishops. From 1932#151Ailesbury road, Clyde road, artisans' dwellings, north Dublin union, lord mayor in his ",
+    "suffix": ", old queen in a bathchair. My plate's empty. After you with our incorporated drinkingcup. Like sir Philip Crampton's fountain. Rub off the microbes with your handkerchief. Next ch",
+    "start": 44443,
+    "end": 44460,
+    "canonical_text": "gingerbread coach"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8817079,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

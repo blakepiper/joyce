@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8803273",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "MAGISTRA ARTIUM",
+  "html_source": "<p>A Master of Arts (Latin: Magister Artium; abbreviated M.A., MA)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8803273/James-joyce-ulysses-chap-7-aeolus/Magistra-artium",
+    "original_id": "8803273",
+    "referent_id": 8803273,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "MAGISTRA ARTIUM",
+    "prefix": "pour. \n\n1939#1031986#114\n\n By the way how did he find that out? He died in his sleep. Or the other story, beast with two backs? \n\n — What was that? the professor asked. \n\n ITALIA, ",
+    "suffix": " \n\n — He spoke on the law of evidence, J. J. O'Molloy said, of Roman justice as contrasted with the earlier Mosaic code, the lex talionis. And he cited the Moses of Michelangelo in",
+    "start": 41483,
+    "end": 41498,
+    "canonical_text": "MAGISTRA ARTIUM"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8803273,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

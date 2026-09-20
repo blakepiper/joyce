@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8871427",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Pig’s puddings",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/bc921d160a12fec078b430af3bea911e.640x427x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8871427/James-joyce-ulysses-chap-10-wandering-rocks/Pigs-puddings",
+    "original_id": "8871427",
+    "referent_id": 8871427,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "pig's puddings",
+    "prefix": " while he chewed a blade of hay. A constable on his beat saluted Father Conmee and Father Conmee saluted the constable. In Youkstetter's, the porkbutcher's, Father Conmee observed ",
+    "suffix": ", white and black and red, lie neatly curled in tubes. \n\n Moored under the trees of Charleville Mall Father Conmee saw a turfbarge, a towhorse with pendent head, a bargeman with a ",
+    "start": 6187,
+    "end": 6201,
+    "canonical_text": "pig's puddings"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8871427,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

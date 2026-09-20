@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-6015005",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Molly Maguires",
+  "html_source": "<p>An Irish secret society devoted to protecting tenant’s land rights.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6015005/James-joyce-ulysses-chap-12-cyclops/Molly-maguires",
+    "original_id": "6015005",
+    "referent_id": 6015005,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Molly Maguires",
+    "prefix": "onnacht have long horns. As much as his bloody life is worth to go down and address his tall talk to the assembled multitude in Shanagolden where he daren't show his nose with the ",
+    "suffix": " looking for him to let daylight through him for grabbing the holding of an evicted tenant. \n\n — Hear, hear to that, says John Wyse. What will you have? \n\n — An imperial yeomanry, ",
+    "start": 84218,
+    "end": 84232,
+    "canonical_text": "Molly Maguires"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6015005,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1689524,
+        "login": "LeopoldQ",
+        "name": "LeopoldQ",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

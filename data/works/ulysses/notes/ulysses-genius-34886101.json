@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-34886101",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Chaffering",
+  "html_source": "<p>In Britain, specifically, this means chattering or talkative.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/34886101/James-joyce-ulysses-chap-14-oxen-of-the-sun/Chaffering",
+    "original_id": "34886101",
+    "referent_id": 34886101,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "chaffering",
+    "prefix": " cessile air. Breathe it deep into thee. By heaven, Theodore Purefoy, thou hast done a doughty deed and no botch! Thou art, I vow, the remarkablest progenitor barring none in this ",
+    "suffix": " allincluding most farraginous chronicle. Astounding! In her lay a Godframed Godgiven preformed possibility which thou hast fructified with thy modicum of man's work. Cleave to her",
+    "start": 102518,
+    "end": 102528,
+    "canonical_text": "chaffering"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 34886101,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

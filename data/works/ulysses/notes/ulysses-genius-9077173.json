@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9077173",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Deasy",
+  "html_source": "<p>O Deasy Us!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9077173/James-joyce-ulysses-chap-2-nestor/Deasy",
+    "original_id": "9077173",
+    "referent_id": 9077173,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "Deasy",
+    "prefix": " Sums was written on the headline. Beneath were sloping figures and at the foot a crooked signature with blind loops and a blot. Cyril Sargent: his name and seal. \n\n1939#22\n\n — Mr ",
+    "suffix": " told me to write them out all again, he said, and show them to you, sir. \n\n Stephen touched the edges of the book. Futility. \n\n1922#27\n\n — Do you understand how to do them now? he",
+    "start": 6858,
+    "end": 6863,
+    "canonical_text": "Deasy"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9233
+  },
+  "genius": {
+    "referent_id": 9077173,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

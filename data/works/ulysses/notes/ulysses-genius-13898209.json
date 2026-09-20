@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13898209",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Doughty",
+  "html_source": "<p>adjective archaic humorous:<br />brave and persistent.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13898209/James-joyce-ulysses-chap-14-oxen-of-the-sun/Doughty",
+    "original_id": "13898209",
+    "referent_id": 13898209,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "doughty",
+    "prefix": "at hist his heart. And Master Lynch bade him have a care to flout and witwanton as the god self was angered for his hellprate and paganry. And he that had erst challenged to be so ",
+    "suffix": " waxed pale as they might all mark and shrank together and his pitch that was before so haught uplift was now of a sudden quite plucked down and his heart shook within the cage of ",
+    "start": 29298,
+    "end": 29305,
+    "canonical_text": "doughty"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 13898209,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

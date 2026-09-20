@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10112973",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Thumbprint on the haddock.",
+  "html_source": "<p>Haddock have a distinctive dark blotch above the pectoral fin, often described as a “thumbprint” or even the “Devil’s thumbprint” or “St. Peter’s mark”.<br /><a href=\"https://en.wikipedia.org/wiki/Haddock\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Haddock</a></p><p><img src=\"https://images.genius.com/affb07c894a5cc97a90c60cd00956e3a.1000x750x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10112973/James-joyce-ulysses-chap-15-circe/Thumbprint-on-the-haddock",
+    "original_id": "10112973",
+    "referent_id": 10112973,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "thumbprint on the haddock.",
+    "prefix": "\n(Examining Stephen's palm.) Woman's hand. \n\n1932#4861961#5611922#523\n\n STEPHEN \n\n(Murmurs.) Continue. Lie. Hold me. Caress. I never could read His handwriting except His criminal ",
+    "suffix": " \n\n ZOE \n\n What day were you born? \n\n STEPHEN \n\n Thursday. Today. \n\n ZOE \n\n Thursday's child has far to go.(She traces lines on his hand.) Line of fate. Influential friends. \n\n FLO",
+    "start": 182418,
+    "end": 182444,
+    "canonical_text": "thumbprint on the haddock."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10112973,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

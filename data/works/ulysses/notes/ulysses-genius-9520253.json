@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-9520253",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "There’s someone in the house with Dina",
+  "html_source": "<p><a href=\"http://www.lyrics.net/lyric/1585332\" rel=\"noopener nofollow\">http://www.lyrics.net/lyric/1585332</a></p><p>Also known as ‘I’ve been working on the railroad’.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9520253/James-joyce-ulysses-chap-15-circe/Theres-someone-in-the-house-with-dina",
+    "original_id": "9520253",
+    "referent_id": 9520253,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "There's someone in the house with Dina",
+    "prefix": "yes and tusks they rattle through a breakdown in clumsy clogs, twinging, singing, back to back, toe heel, heel toe, with smackfatclacking nigger lips.) \n\n1922#421\n\n TOM AND SAM \n\n ",
+    "suffix": " \nThere's someone in the house, I know, \nThere's someone in the house with Dina \nPlaying on the old banjo. \n\n1961#443\n\n(They whisk black masks from raw babby faces: then, chuckling",
+    "start": 19968,
+    "end": 20006,
+    "canonical_text": "There's someone in the house with Dina"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.8719
+  },
+  "genius": {
+    "referent_id": 9520253,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.7692307692307692
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.23076923076923075
+      }
+    ]
+  },
+  "color": "F59627"
+}

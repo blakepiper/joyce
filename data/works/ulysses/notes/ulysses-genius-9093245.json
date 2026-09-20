@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9093245",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "The lacquey lifted his handbell and shook it:",
+  "html_source": "<p>Intrusion from section 4<br />10.281<br />“The lacquey rang his bell.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9093245/James-joyce-ulysses-chap-10-wandering-rocks/The-lacquey-lifted-his-handbell-and-shook-it",
+    "original_id": "9093245",
+    "referent_id": 9093245,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "The lacquey lifted his handbell and shook it:",
+    "prefix": "ioneer within. Four and nine. Those lovely curtains. Five shillings. 1939#173Cosy curtains. Selling new at two guineas. Any advance on five shillings? Going for five shillings. \n\n ",
+    "suffix": " \n\n — Barang! \n\n Bang of the lastlap bell spurred the halfmile wheelmen to their sprint. J. A. Jackson, W. E. Wylie, A. Munro and H. T. Gahan, their stretched necks wagging, negoti",
+    "start": 37164,
+    "end": 37209,
+    "canonical_text": "The lacquey lifted his handbell and shook it:"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9093245,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3083736,
+        "login": "JessicaVestuto",
+        "name": "JessicaVestuto",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

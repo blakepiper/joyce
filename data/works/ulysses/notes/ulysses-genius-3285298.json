@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3285298",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Agonising Christ, wouldn’t it give you a heartburn on your arse",
+  "html_source": "<p>Inconsequential rhetoric is introduced. Mr. Dedalus has just opened the bag of winds.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3285298/James-joyce-ulysses-chap-7-aeolus/Agonising-christ-wouldnt-it-give-you-a-heartburn-on-your-arse",
+    "original_id": "3285298",
+    "referent_id": 3285298,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Agonising Christ, wouldn't it give you a heartburn on your arse",
+    "prefix": ", professor MacHugh murmured softly, biscuitfully to the dusty windowpane. \n\n Mr Dedalus, staring from the empty fireplace at Ned Lambert's quizzing face, asked of it sourly: \n\n — ",
+    "suffix": "? \n\n Ned Lambert, seated on the table, read on: \n\n — Or again, note the meanderings of some purling rill as it babbles on its way, tho' quarrelling with the stony obstacles, to the",
+    "start": 13512,
+    "end": 13575,
+    "canonical_text": "Agonising Christ, wouldn't it give you a heartburn on your arse"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3285298,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

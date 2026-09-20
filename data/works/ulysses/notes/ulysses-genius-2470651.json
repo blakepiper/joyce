@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2470651",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Thinks you killed your mother, he said. That’s why she won’t let me have anything to do with you.",
+  "html_source": "<p>Everyone thinks it’s quite odd how atheist Stephen handled his mother near her death. As Mulligan says, there’s something sinister about him.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2470651/James-joyce-ulysses-chap-1-telemachus/Thinks-you-killed-your-mother-he-said-thats-why-she-wont-let-me-have-anything-to-do-with-you",
+    "original_id": "2470651",
+    "referent_id": 2470651,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "thinks you killed your mother, he said. That's why she won't let me have anything to do with you.",
+    "prefix": "at clearing the harbourmouth of Kingstown. \n\n — Our mighty mother! Buck Mulligan said. \n\n He turned abruptly his great searching eyes from the sea to Stephen's face. \n\n — The aunt ",
+    "suffix": " \n\n — Someone killed her, Stephen said gloomily. \n\n — You could have knelt down, damn it, Kinch, when your dying mother asked you, Buck Mulligan said. I'm hyperborean as much as yo",
+    "start": 5003,
+    "end": 5100,
+    "canonical_text": "thinks you killed your mother, he said. That's why she won't let me have anything to do with you."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2470651,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

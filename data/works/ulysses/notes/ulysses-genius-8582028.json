@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8582028",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Dirty Dan the dodger",
+  "html_source": "<p>Boylan’s father Daniel. A “dodger” is an idler.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8582028/James-joyce-ulysses-chap-12-cyclops/Dirty-dan-the-dodger",
+    "original_id": "8582028",
+    "referent_id": 8582028,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Dirty Dan the dodger",
+    "prefix": "llent. \n\n Hoho begob says I to myself says I. That explains the milk in the cocoanut and absence of hair on the animal's chest. Blazes doing the tootle on the flute. Concert tour. ",
+    "suffix": "'s son off Island bridge that sold the same horses twice over to the government to fight the Boers. Old Whatwhat. I called about the poor and water rate, Mr Boylan. You what? The w",
+    "start": 64667,
+    "end": 64687,
+    "canonical_text": "Dirty Dan the dodger"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8582028,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

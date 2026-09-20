@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8339435",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Mary Rochfort, daughter of lord Molesworth, first countess of Belvedere.\n \n A listless lady, no more young, walked alone the shore of lough Ennel, Mary, first countess of Belvedere, listlessly walking in the evening, not startled when an otter plunged. Who could know the truth?",
+  "html_source": "<p>Father Conmee is dwelling on <a href=\"https://en.wikipedia.org/wiki/Earl_of_Belvedere#The_1st_Earl_and_his_unfortunate_marriage\" rel=\"noopener nofollow\">the story of the wife of Robert, 1st Earl of Belvedere</a> (1707-1774). She was convicted of adultery with his brother, and kept a virtual prisoner by her husband for many years, until his death.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8339435/James-joyce-ulysses-chap-10-wandering-rocks/Mary-rochfort-daughter-of-lord-molesworth-first-countess-of-belvedere-a-listless-lady-no-more-young-walked-alone-the-shore-of-lough-ennel-mary-first-countess-of-belvedere-listlessly-walking-in-the-evening-not-startled-when-an-otter-plunged-who-could-know-the-truth",
+    "original_id": "8339435",
+    "referent_id": 8339435,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Mary Rochfort, daughter of lord Molesworth, first countess of Belvedere.\n \n A listless lady, no more young, walked alone the shore of lough Ennel, Mary, first countess of Belvedere, listlessly walking in the evening, not startled when an otter plunged. Who could know the truth?",
+    "prefix": " townlands, old times in the barony. \n\n Father Conmee, walking, thought of his little book Old Times in the Barony and of the book that might be written about jesuit houses and of ",
+    "suffix": " Not the jealous lord Belvedere and not her confessor if she had not committed adultery fully, eiaculatio seminis inter vas naturale mulieris, with her 1986#183husband's brother? S",
+    "start": 10288,
+    "end": 10566,
+    "canonical_text": "Mary Rochfort, daughter of lord Molesworth, first countess of Belvedere. \n\n A listless lady, no more young, walked alone the shore of lough Ennel, Mary, first countess of Belvedere, listlessly walking in the evening, not startled when an otter plunged. Who could know the truth?"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 8339435,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2568065,
+        "login": "GeoffBobker",
+        "name": "GeoffBobker",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

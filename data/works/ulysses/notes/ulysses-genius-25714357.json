@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-25714357",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Harumscarum",
+  "html_source": "<p>reckless, impulsive, person, a daredevil<br />Molly acknowledges that she is not your average woman. She is very much a liberal thinker socially and in terms of sexuality especially.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/25714357/James-joyce-ulysses-chap-18-penelope/Harumscarum",
+    "original_id": "25714357",
+    "referent_id": 25714357,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "harumscarum",
+    "prefix": "I had a name like her O my and all the bits of streets Paradise ramp and Bedlam ramp and Rodgers ramp and Crutchetts ramp and the devils gap steps well small blame to me if I am a ",
+    "suffix": " I know I am a bit I declare to God I dont feel a day older than then I wonder could I get my tongue round any of the Spanish como esta usted muy bien gracias y usted see I havent ",
+    "start": 109248,
+    "end": 109259,
+    "canonical_text": "harumscarum"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 25714357,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 16629954,
+        "login": "SarahConway",
+        "name": "SarahConway",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

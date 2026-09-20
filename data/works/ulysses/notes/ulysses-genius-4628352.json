@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-4628352",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Strasburg terrace",
+  "html_source": "<p>Where Stephen’s aunt Sara lives.</p><p>PROPOSED SUGGESTION: Strasbourg Terrace is located in Irishtown, it was a poor suburb of Dublin near the docks.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4628352/James-joyce-ulysses-chap-3-proteus/Strasburg-terrace",
+    "original_id": "4628352",
+    "referent_id": 4628352,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Strasburg terrace",
+    "prefix": "e slackened. Here. Am I going to aunt Sara's or not? My consubstantial father's voice. Did you see anything of your artist brother 1922#38Stephen lately? No? Sure he's not down in ",
+    "suffix": " with his aunt Sally? Couldn't he fly a bit higher than that, eh? And and and and tell us, Stephen, how is uncle Si? O weeping God, the things I married into! De boys up in de hayl",
+    "start": 4036,
+    "end": 4053,
+    "canonical_text": "Strasburg terrace"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4628352,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 7678598,
+        "login": "DouglasFloto",
+        "name": "DouglasFloto",
+        "role": null,
+        "attribution": 0.6785714285714286
+      },
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.17857142857142858
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.14285714285714288
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-24417422",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Prevention of cruelty to animals",
+  "html_source": "<p>This is the reason given for Bloom’s arrest.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/24417422/James-joyce-ulysses-chap-15-circe/Prevention-of-cruelty-to-animals",
+    "original_id": "24417422",
+    "referent_id": 24417422,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Prevention of cruelty to animals",
+    "prefix": "s, his scruff standing, a gobbet of pig's knuckle between his molars through which rabid scumspittle dribbles. Bob Doran falls silently into an area.) \n\n1986#370\n\n SECOND WATCH \n\n ",
+    "suffix": ". \n\n BLOOM \n\n(Enthusiastically.) A noble work! I scolded that tramdriver on Harold's cross bridge for illusing the poor horse with his harness scab. Bad French I got for my pains. ",
+    "start": 33528,
+    "end": 33560,
+    "canonical_text": "Prevention of cruelty to animals"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 24417422,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 10526289,
+        "login": "satchlj",
+        "name": "satchlj",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

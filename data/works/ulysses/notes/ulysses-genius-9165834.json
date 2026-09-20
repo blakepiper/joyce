@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9165834",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Advanced gravidancy",
+  "html_source": "<p>Gravidity is defined as the number of times that a woman has been pregnant. So a woman with advanced gravidancy has been pregnant multiple times, even if she did not deliver.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9165834/James-joyce-ulysses-chap-14-oxen-of-the-sun/Advanced-gravidancy",
+    "original_id": "9165834",
+    "referent_id": 9165834,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "advanced gravidancy",
+    "prefix": "xillary knobs along the medial line so that (as he said) one ear could hear what the other spoke, the benefits of anesthesia or twilight sleep, the prolongation of labour pains in ",
+    "suffix": " by reason of pressure on the vein, the premature relentment of the amniotic fluid (as exemplified in the actual case) with consequent peril of sepsis to the matrix, artificial ins",
+    "start": 70021,
+    "end": 70040,
+    "canonical_text": "advanced gravidancy"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9165834,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

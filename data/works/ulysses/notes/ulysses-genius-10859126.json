@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10859126",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Laurence Bloomfield in Ireland",
+  "html_source": "<p><a href=\"https://archive.org/details/bloomfieldinirel00alli\" rel=\"noopener nofollow\">https://archive.org/details/bloomfieldinirel00alli</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10859126/James-joyce-ulysses-chap-17-ithaca/Laurence-bloomfield-in-ireland",
+    "original_id": "10859126",
+    "referent_id": 10859126,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Laurence Bloomfield in Ireland",
+    "prefix": "okmark at p. 24). \nHozier's History of the Russo-Turkish War (brown cloth, 2 volumes, with gummed label, Garrison Library, Governor's Parade, Gibraltar, on verso of cover). 39#499\n",
+    "suffix": " by William Allingham (second edition, green cloth, gilt trefoil design, previous owner's name on recto of flyleaf erased). \nA Handbook of Astronomy (cover, brown leather, detached",
+    "start": 87707,
+    "end": 87737,
+    "canonical_text": "Laurence Bloomfield in Ireland"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10859126,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8339359",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Corny Kelleher",
+  "html_source": "<p>An undertaker’s assistant, previously encountered in the Hades episode.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8339359/James-joyce-ulysses-chap-10-wandering-rocks/Corny-kelleher",
+    "original_id": "8339359",
+    "referent_id": 8339359,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Corny Kelleher",
+    "prefix": "ergin's publichouse against the window of which two unlabouring men lounged. They saluted him and were saluted. \n\n Father Conmee passed H. J. O'Neill's funeral establishment where ",
+    "suffix": " totted figures in the daybook while he chewed a blade of hay. A constable on his beat saluted Father Conmee and Father Conmee saluted the constable. In Youkstetter's, the porkbutc",
+    "start": 5963,
+    "end": 5977,
+    "canonical_text": "Corny Kelleher"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 8339359,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2568065,
+        "login": "GeoffBobker",
+        "name": "GeoffBobker",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

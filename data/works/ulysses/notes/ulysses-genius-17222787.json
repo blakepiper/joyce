@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-17222787",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Heber and Heremon",
+  "html_source": "<p>Heber and Heremon–legendary early Celtic rulers of Ireland.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/17222787/James-joyce-ulysses-chap-17-ithaca/Heber-and-heremon",
+    "original_id": "17222787",
+    "referent_id": 17222787,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Heber and Heremon",
+    "prefix": "both having been taught on the plain of Shinar 242 years after the deluge in the seminary instituted by Fenius Farsaigh, descendant of Noah, progenitor of Israel, and ascendant of ",
+    "suffix": ", progenitors of Ireland: their archaeological, genealogical, hagiographical, exegetical, homilectic, toponomastic, historical and religious literatures comprising the works of rab",
+    "start": 48433,
+    "end": 48450,
+    "canonical_text": "Heber and Heremon"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 17222787,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 8460622,
+        "login": "LP-Reader1",
+        "name": "LP-Reader1",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

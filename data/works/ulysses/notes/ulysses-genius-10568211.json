@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10568211",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "He’s English, Buck Mulligan said, and he thinks we ought to speak Irish in Ireland.",
+  "html_source": "<p>Despite being an Englishmen, Haines speaks Gaelic while the old woman delivering milk cannot.</p><p>Buck is making a reference to the cultural nationalist perspective of “Gaelic Revivalism”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10568211/James-joyce-ulysses-chap-1-telemachus/Hes-english-buck-mulligan-said-and-he-thinks-we-ought-to-speak-irish-in-ireland",
+    "original_id": "10568211",
+    "referent_id": 10568211,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "He's English, Buck Mulligan said, and he thinks we ought to speak Irish in Ireland.",
+    "prefix": ", Buck Mulligan said. Is there Gaelic on you? \n\n — I thought it was Irish, she said, by the sound of it. Are you from the west, sir? \n\n — I am an Englishman, Haines answered. \n\n — ",
+    "suffix": " \n\n1986#12\n\n — Sure we ought to, the old woman said, and I'm ashamed I don't speak the language myself. I'm told it's a grand language by them that knows. \n\n — Grand is no name for",
+    "start": 24508,
+    "end": 24591,
+    "canonical_text": "He's English, Buck Mulligan said, and he thinks we ought to speak Irish in Ireland."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10568211,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3789952,
+        "login": "lanes_haves",
+        "name": "lanes_haves",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-3052694",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Lawn Tennyson",
+  "html_source": "<p>Reference to the famous poet <a href=\"http://poetry.genius.com/artists/Alfred-lord-tennyson\" rel=\"noopener nofollow\">Alfred Tennyson</a>, who was poet Laureate of England and wrote a poem also called <a href=\"http://poetry.genius.com/Alfred-lord-tennyson-ulysses-annotated\" rel=\"noopener nofollow\"><em>Ulysses</em></a>.</p><p><img src=\"https://images.rapgenius.com/7fb114197194656b65779664639933cd.250x343x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3052694/James-joyce-ulysses-chap-3-proteus/Lawn-tennyson",
+    "original_id": "3052694",
+    "referent_id": 3052694,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Lawn Tennyson",
+    "prefix": "ill find itself in me, without me. All days make their end. By the way next when is it Tuesday will be the longest day. Of all the glad new year, mother, the rum tum tiddledy tum. ",
+    "suffix": ", gentleman poet. Già. For the old hag with the yellow teeth. And Monsieur Drumont, gentleman journalist. Già. My teeth are very bad. Why, I wonder. Feel. That one is going too. Sh",
+    "start": 32272,
+    "end": 32285,
+    "canonical_text": "Lawn Tennyson"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3052694,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 688034,
+        "login": "SchlomoReichenbach",
+        "name": "SchlomoReichenbach",
+        "role": "contributor",
+        "attribution": 0.98
+      },
+      {
+        "id": 170881,
+        "login": "Abraxas01",
+        "name": "Abraxas01",
+        "role": "editor",
+        "attribution": 0.02
+      }
+    ]
+  },
+  "color": "F59627"
+}

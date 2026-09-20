@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5110716",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Number nine",
+  "html_source": "<p>Dignam’s house, 9 Newbridge Avenue, Sandymount.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5110716/James-joyce-ulysses-chap-6-hades/Number-nine",
+    "original_id": "5110716",
+    "referent_id": 5110716,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "number nine",
+    "prefix": " nearer: then horses' hoofs. A jolt. Their carriage began to move, creaking and swaying. 1922#84Other hoofs and creaking wheels started behind. The blinds of the avenue passed and ",
+    "suffix": " with its craped knocker, door ajar. At walking pace. \n\n They waited still, their knees jogging, till they had turned and were passing along the tramtracks. Tritonville road. Quick",
+    "start": 1669,
+    "end": 1680,
+    "canonical_text": "number nine"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5110716,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

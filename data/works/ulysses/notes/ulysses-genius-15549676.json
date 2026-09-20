@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15549676",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Nekum",
+  "html_source": "<p>Fom latin “neco, necas, necavi, necatum, necare”: “To kill”?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15549676/James-joyce-ulysses-chap-15-circe/Nekum",
+    "original_id": "15549676",
+    "referent_id": 15549676,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Nekum",
+    "prefix": "er robe.) Wait. Satan, you'll sing no more lovesongs. Amen. Amen. Amen. Amen. (She draws a poniard and, clad in the sheathmail of an elected knight of nine, strikes at his loins.) ",
+    "suffix": "! \n\n BLOOM \n\n(Starts up, seizes her hand.) Hoy! Nebrakada! Cat o' nine lives! Fair play, madam. No pruningknife. The fox and the grapes, is it? What 1932#480do we lack with your ba",
+    "start": 173095,
+    "end": 173100,
+    "canonical_text": "Nekum"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15549676,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 6755983,
+        "login": "Mario_Biondi",
+        "name": "Mario_Biondi",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

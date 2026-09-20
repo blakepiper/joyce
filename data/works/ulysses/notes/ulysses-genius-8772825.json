@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8772825",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Eldorado",
+  "html_source": "<p>The origins of El Dorado lie deep in South America. And like all enduring legends, the tale of El Dorado contains some scraps of truth. When Spanish explorers reached South America in the early 16th century, they heard stories about a tribe of natives high in the Andes mountains in what is now Colombia. When a new chieftain rose to power, his rule began with a ceremony at Lake Guatavita. Accounts of the ceremony vary, but they consistently say the new ruler was covered with gold dust, and that gold and precious jewels were thrown into the lake to appease a god that lived underwater. The Spaniards started calling this golden chief El Dorado, “the gilded one.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8772825/James-joyce-ulysses-chap-5-lotus-eaters/Eldorado",
+    "original_id": "8772825",
+    "referent_id": 8772825,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Eldorado",
+    "prefix": "76\n\n He came nearer and heard a crunching of gilded oats, the gently champing teeth. Their full buck eyes regarded him as he went by, amid the sweet oaten reek of horsepiss. Their ",
+    "suffix": ". Poor jugginses! Damn all they know or care about anything with their long noses stuck in nosebags. Too full for words. Still they get their feed all right and their doss. Gelded ",
+    "start": 13174,
+    "end": 13182,
+    "canonical_text": "Eldorado"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8772825,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5116009",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Fun on the Bristol.",
+  "html_source": "<p>The New York musical-comedy version of Henry C. Jarret’s “American Eccentric Comedy-Oddity,” ‘Fun on the Bristol; or, A night on the Sound,’ was advertised as “funnier than a pantomime” and was enormously popular in the provinces in the late nineteenth century; together with Eugene Stratton’s recital, it constituted the Theatre Royal’s “double feature” for 16 June 1904.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5116009/James-joyce-ulysses-chap-6-hades/Fun-on-the-bristol",
+    "original_id": "5116009",
+    "referent_id": 5116009,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Fun on the Bristol.",
+    "prefix": "rs Bandmann Palmer. Could I go to see Leah tonight, I wonder. I said I. Or the Lily of Killarney? Elster Grimes Opera Company. Big powerful change. Wet bright bills for next week. ",
+    "suffix": " Martin Cunningham could work a pass for the Gaiety. Have to stand a drink or two. As broad as it's long. \n\n He's coming in the afternoon. Her songs. \n\n Plasto's. Sir Philip Crampt",
+    "start": 10868,
+    "end": 10887,
+    "canonical_text": "Fun on the Bristol."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5116009,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

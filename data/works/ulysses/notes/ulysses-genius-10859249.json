@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10859249",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "These books",
+  "html_source": "<p>Anyone can now read almost all of Bloom’s library on-line.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10859249/James-joyce-ulysses-chap-17-ithaca/These-books",
+    "original_id": "10859249",
+    "referent_id": 10859249,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "these books",
+    "prefix": "tion of several inverted volumes improperly arranged and not in the order of their common letters with scintillating titles on the two bookshelves opposite. \n\n1986#581\n\n Catalogue ",
+    "suffix": ". \n\nThom's Dublin Post Office Directory, 1886.922#660\nDenis Florence M'Carthy's Poetical Works (copper beechleaf bookmark at p. 5).\nShakespeare's Works (dark crimson morocco, goldt",
+    "start": 86333,
+    "end": 86344,
+    "canonical_text": "these books"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10859249,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15123255",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "He’d have a soft hand under a hen",
+  "html_source": "<p>The implication being that Bloom is very feminine, since he would be able to perform well in what was traditionally considered to be women’s work (i.e., gathering eggs). “Leo’s” performance of this task is mockingly depicted (with baby talk and hen noise) in the subsequent paragraph.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15123255/James-joyce-ulysses-chap-12-cyclops/Hed-have-a-soft-hand-under-a-hen",
+    "original_id": "15123255",
+    "referent_id": 15123255,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "he'd have a soft hand under a hen",
+    "prefix": "y? Ay. Humane methods. Because the poor animals suffer and experts say and the best known remedy that doesn't cause pain to the animal and on the sore spot administer gently. Gob, ",
+    "suffix": ". \n\n Ga Ga Gara. Klook Klook Klook. Black Liz is our hen. She lays eggs for us. When she lays her egg she is so glad. Gara. Klook Klook Klook. Then comes good uncle Leo. He puts hi",
+    "start": 54779,
+    "end": 54812,
+    "canonical_text": "he'd have a soft hand under a hen"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15123255,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-7615995",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Amplius. Adhuc. Iterum. Postea.",
+  "html_source": "<p>(Latin) Moreover. Furthermore. Again. Next..</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7615995/James-joyce-ulysses-chap-9-scylla-and-charybdis/Amplius-adhuc-iterum-postea",
+    "original_id": "7615995",
+    "referent_id": 7615995,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Amplius. Adhuc. Iterum. Postea.",
+    "prefix": "be a legal fiction. Who is the father of any son that any son should love him or he any son? \n\n What the hell are you driving at? \n\n I know. Shut up. Blast you. I have reasons. \n\n ",
+    "suffix": " \n\n Are you condemned to do this? \n\n — They are sundered by a bodily shame so steadfast that the criminal annals of the world, stained with all other incests and bestialities, hard",
+    "start": 49211,
+    "end": 49242,
+    "canonical_text": "Amplius. Adhuc. Iterum. Postea."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 7615995,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2082826,
+        "login": "Jmpetro",
+        "name": "Jmpetro",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

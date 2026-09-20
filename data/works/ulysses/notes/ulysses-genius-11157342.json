@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11157342",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "When I was 15",
+  "html_source": "<p>Molly was a early “bloomer”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11157342/James-joyce-ulysses-chap-18-penelope/When-i-was-15",
+    "original_id": "11157342",
+    "referent_id": 11157342,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "when I was 15",
+    "prefix": "ance of walking down the Alameda on an officers arm like me on the bandnight my eyes flash my bust that they havent passion God help their poor head I knew more about men and life ",
+    "suffix": " than theyll all know at 50 they dont know how to sing a song like that Gardner said no man could look at my mouth and teeth smiling like that and not think of it I was afraid he m",
+    "start": 65728,
+    "end": 65741,
+    "canonical_text": "when I was 15"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11157342,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

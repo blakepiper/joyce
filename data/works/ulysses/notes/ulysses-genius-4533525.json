@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4533525",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "When he said I could pose for a picture naked to some rich fellow in Holles street when he lost the job in Helys",
+  "html_source": "<p>We learn, in a delicate, embarrassing moment, that Leopold suggested that Molly pose for nude photographs when they needed money after he lost his job.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4533525/James-joyce-ulysses-chap-18-penelope/When-he-said-i-could-pose-for-a-picture-naked-to-some-rich-fellow-in-holles-street-when-he-lost-the-job-in-helys",
+    "original_id": "4533525",
+    "referent_id": 4533525,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "when he said I could pose for a picture naked to some rich fellow in Holles street when he lost the job in Helys",
+    "prefix": "o bags full and his other thing hanging down out of him or sticking up at you like a hatrack no wonder they hide it with a cabbageleaf the woman is beauty of course thats admitted ",
+    "suffix": " and I was selling the clothes and strumming in the coffee palace would I be like that bath of the nymph with my hair down yes only shes younger or Im a little like that dirty bitc",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.4465
+  },
+  "genius": {
+    "referent_id": 4533525,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.8
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.2
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

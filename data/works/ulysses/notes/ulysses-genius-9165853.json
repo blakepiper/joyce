@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9165853",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Sturzgeburt",
+  "html_source": "<p>German for precipitate delivery.<br />precipitate delivery is childbirth that occurs with such speed or in such a situation that the usual preparations cannot be made. Emergency childbirth.<br />FreeDictionary.com</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9165853/James-joyce-ulysses-chap-14-oxen-of-the-sun/Sturzgeburt",
+    "original_id": "9165853",
+    "referent_id": 9165853,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Sturzgeburt",
+    "prefix": "se, the problem of the perpetuation of the species 1961#410in the case of females impregnated by delinquent rape, that distressing manner of delivery called by the Brandenburghers ",
+    "suffix": ", the recorded instances of multigeminal, twikindled and monstruous births conceived 1932#371during the catamenic period or of consanguineous parents— in a word all the cases of hu",
+    "start": 70482,
+    "end": 70493,
+    "canonical_text": "Sturzgeburt"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9165853,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

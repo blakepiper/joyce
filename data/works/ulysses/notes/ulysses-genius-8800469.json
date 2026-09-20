@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8800469",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Build an altar to Jehovah",
+  "html_source": "<p>And Moses built an altar, and called the name of it Jehovahnissi<br />Exodus 17:15  King James version</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8800469/James-joyce-ulysses-chap-7-aeolus/Build-an-altar-to-jehovah",
+    "original_id": "8800469",
+    "referent_id": 8800469,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "build an altar to Jehovah",
+    "prefix": "rtcuffs, pausing: \n\n — What was their civilisation? Vast, I allow: but vile. Cloacae: sewers. The Jews in the wilderness and on the mountaintop said: It is meet to be here. Let us ",
+    "suffix": ". The Roman, like the Englishman who follows in his footsteps, brought to every new shore on which he set his foot (on our shore he never set it) only his cloacal obsession. He gaz",
+    "start": 27025,
+    "end": 27050,
+    "canonical_text": "build an altar to Jehovah"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8800469,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

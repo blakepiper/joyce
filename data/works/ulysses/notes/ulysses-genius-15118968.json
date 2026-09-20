@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15118968",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Kriegfried",
+  "html_source": "<p>Created from the German words krieg (“war”) and fried (“peace”)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15118968/James-joyce-ulysses-chap-12-cyclops/Kriegfried",
+    "original_id": "15118968",
+    "referent_id": 15118968,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Kriegfried",
+    "prefix": "294Boris Hupinkoff, Herr Hurhausdirektorpresident Hans Chuechli-Steuerli, Nationalgymnasiummuseumsanatoriumandsuspensoriumsordinaryprivatdocentgeneralhistoryspecialprofessordoctor ",
+    "suffix": " Ueberallgemein. All the delegates without exception expressed themselves in the strongest possible heterogeneous terms concerning the nameless barbarity which they had been called",
+    "start": 36014,
+    "end": 36024,
+    "canonical_text": "Kriegfried"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15118968,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11085099",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Not that I care",
+  "html_source": "<p>Both Leopold and Molly seem to downplay their concern that the other is unfaithful while thinking about it quite a bit.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11085099/James-joyce-ulysses-chap-18-penelope/Not-that-i-care",
+    "original_id": "11085099",
+    "referent_id": 11085099,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "not that I care",
+    "prefix": "that at his age especially getting on to forty he is now so as to wheedle any money she can out of him no fool like an old fool and then the usual kissing my bottom was to hide it ",
+    "suffix": " two straws now who he does it with or knew before that way though Id like to find out so long as I dont have the two of them under my nose all the time like that slut that Mary we",
+    "start": 3942,
+    "end": 3957,
+    "canonical_text": "not that I care"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11085099,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9093786",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Lord Edward Fitzgerald",
+  "html_source": "<p>Man behind the Rebellion of 1798</p><p><a href=\"https://en.wikipedia.org/wiki/Lord_Edward_FitzGerald\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Lord_Edward_FitzGerald</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9093786/James-joyce-ulysses-chap-10-wandering-rocks/Lord-edward-fitzgerald",
+    "original_id": "9093786",
+    "referent_id": 9093786,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "lord Edward Fitzgerald",
+    "prefix": "ack on it all now in a kind of retrospective arrangement. Gaming at Daly's. No cardsharping then. One of those fellows got his hand nailed to the table by a dagger. Somewhere here ",
+    "suffix": " escaped from major Sirr. Stables behind Moira house. \n\n Damn good gin that was. \n\n Fine dashing young nobleman. Good stock, of course. That ruffian, that sham squire, with his vio",
+    "start": 45289,
+    "end": 45311,
+    "canonical_text": "lord Edward Fitzgerald"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9093786,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083736,
+        "login": "JessicaVestuto",
+        "name": "JessicaVestuto",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

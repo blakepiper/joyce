@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21162149",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Is that?... Blueribboned hat... Idly writing... What? Looked?...",
+  "html_source": "<p>Could that be Emma Cleary, Stephen’s love interest from Portrait?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21162149/James-joyce-ulysses-chap-9-scylla-and-charybdis/Is-that-blueribboned-hat-idly-writing-what-looked",
+    "original_id": "21162149",
+    "referent_id": 21162149,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Is that?... Blueribboned hat... Idly writing... What? Looked?...",
+    "prefix": " — O please do, sir... I shall be most pleased... \n\n Amused Buck Mulligan mused in pleasant murmur with himself, selfnodding: \n\n — A pleased bottom. \n\n1939#157\n\n The turnstile. \n\n ",
+    "suffix": " \n\n The curving balustrade: smoothsliding Mincius. \n\n1922#206\n\n Puck Mulligan, panamahelmeted, went step by step, iambing, trolling: \n\n1932#193\n\nJohn Eglinton, my jo, John, \nWhy wo",
+    "start": 65045,
+    "end": 65109,
+    "canonical_text": "Is that?... Blueribboned hat... Idly writing... What? Looked?..."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21162149,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

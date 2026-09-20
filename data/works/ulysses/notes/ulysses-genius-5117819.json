@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5117819",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "The Nore",
+  "html_source": "<p>The River Nore  is a 140-kilometre long river located in south-east of Ireland. Along with the River Suir and River Barrow, it is one of the constituent rivers of the group known as the Three Sisters.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5117819/James-joyce-ulysses-chap-3-proteus/The-nore",
+    "original_id": "5117819",
+    "referent_id": 5117819,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "the Nore",
+    "prefix": "r of France. I taught him to sing The boys of Kilkenny are 1986#36stout roaring blades. Know that old lay? I taught Patrice that. Old Kilkenny: saint Canice, Strongbow's castle on ",
+    "suffix": ". Goes like this. O, O. He takes me, Napper Tandy, by the hand. \n\n O, O the boys of \nKilkenny... \n\n Weak wasting hand on mine. They have forgotten Kevin Egan, not he them. Remember",
+    "start": 16473,
+    "end": 16481,
+    "canonical_text": "the Nore"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5117819,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1618748,
+        "login": "Kataryna",
+        "name": "Kataryna",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

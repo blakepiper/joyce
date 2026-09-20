@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21203719",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Eternal punishment",
+  "html_source": "<p>Haines concludes his speculation about Stephen’s idee fixe. He thinks Stephen is obsessed with damnation.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21203719/James-joyce-ulysses-chap-10-wandering-rocks/Eternal-punishment",
+    "original_id": "21203719",
+    "referent_id": 21203719,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Eternal punishment",
+    "prefix": "apture the Attic note. The note of Swinburne, of all poets, the white death and the ruddy birth. That is his tragedy. He can never be a poet. The joy of creation... \n\n1986#204\n\n — ",
+    "suffix": ", Haines said, nodding curtly. I see. I tackled him this morning on belief. There was something on his mind, I saw. It's rather interesting because professor Pokorny of Vienna make",
+    "start": 61667,
+    "end": 61685,
+    "canonical_text": "Eternal punishment"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21203719,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

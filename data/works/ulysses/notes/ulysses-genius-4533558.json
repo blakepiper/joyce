@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4533558",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Theres the mark of his teeth still where he tried to bite the nipple",
+  "html_source": "<p>Boylan has marked Molly’s breast where he bit her.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4533558/James-joyce-ulysses-chap-18-penelope/Theres-the-mark-of-his-teeth-still-where-he-tried-to-bite-the-nipple",
+    "original_id": "4533558",
+    "referent_id": 4533558,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "theres the mark of his teeth still where he tried to bite the nipple",
+    "prefix": "rs about the incarnation he never can explain a thing simply the way a body can understand then he goes and burns the bottom out of the pan all for his Kidney this one not so much ",
+    "suffix": " I had to scream out arent they fearful trying to hurt you I had a great breast of milk with Milly enough for two what was the reason of that he said I could have got a pound a wee",
+    "start": 42459,
+    "end": 42527,
+    "canonical_text": "theres the mark of his teeth still where he tried to bite the nipple"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4533558,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

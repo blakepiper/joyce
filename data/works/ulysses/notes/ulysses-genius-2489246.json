@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2489246",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Omnis caro ad te veniet.",
+  "html_source": "<p>One of the many classical music references within this chapter alone, this line refers to <a href=\"http://en.wikipedia.org/wiki/Requiem_%28Verdi%29\" rel=\"noopener nofollow\">Verdi’s Requiem</a>, and means “all flesh must come” connecting with the imagery of the sun being “called”. Additionally, requiems are usually played at funerals, connecting with the “death” of the sun and the day, and the coming of the night.<br /><a href=\"http://www.youtube.com/watch?v=LsZEv7kAllo\" rel=\"noopener nofollow\">http://www.youtube.com/watch?v=LsZEv7kAllo</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2489246/James-joyce-ulysses-chap-3-proteus/Omnis-caro-ad-te-veniet",
+    "original_id": "2489246",
+    "referent_id": 2489246,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Omnis caro ad te veniet.",
+    "prefix": " oinopa ponton, a winedark sea. Behold the handmaid of the1939#37 moon. In sleep the wet sign calls her hour, bids her rise. Bridebed, childbed, bed of 1961#47death, ghostcandled. ",
+    "suffix": " He comes, pale vampire, through storm his eyes, his bat sails bloodying the sea, mouth to her mouth's kiss. \n\n Here. Put a pin in that chap, will you? My tablets. Mouth to her kis",
+    "start": 25619,
+    "end": 25643,
+    "canonical_text": "Omnis caro ad te veniet."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2489246,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 170881,
+        "login": "Abraxas01",
+        "name": "Abraxas01",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

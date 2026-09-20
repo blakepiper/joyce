@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8962130",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Hydrophobia",
+  "html_source": "<p>A term once commonly used for rabies because in the later stages of that disease, the animal (or person) has difficulty swallowing and so fears a drink of water.<br />medicinenet.com</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8962130/James-joyce-ulysses-chap-12-cyclops/Hydrophobia",
+    "original_id": "8962130",
+    "referent_id": 8962130,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "hydrophobia",
+    "prefix": "letter pro bono publico to the papers 1986#255about the muzzling order for a dog the like of that. Growling and grousing and his eye all bloodshot from the drouth is in it and the ",
+    "suffix": " dropping out of his jaws. \n\n All those who are interested in the spread of human culture among the lower animals (and their name is legion) should make a point of not missing the ",
+    "start": 46144,
+    "end": 46155,
+    "canonical_text": "hydrophobia"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8962130,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

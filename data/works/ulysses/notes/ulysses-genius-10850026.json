@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10850026",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Uncondensed milky way",
+  "html_source": "<p>a play on the term “condensed milk”?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10850026/James-joyce-ulysses-chap-17-ithaca/Uncondensed-milky-way",
+    "original_id": "10850026",
+    "referent_id": 10850026,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "uncondensed milky way",
+    "prefix": "stellations? \n\n1932#603\n\n Meditations of evolution increasingly vaster: of the moon invisible in incipient lunation, approaching perigee: of the infinite lattiginous scintillating ",
+    "suffix": ", discernible by daylight by an observer placed at the lower end of a cylindrical vertical shaft 5000 ft deep sunk from the surface towards the centre of the earth: of Sirius (alph",
+    "start": 65848,
+    "end": 65869,
+    "canonical_text": "uncondensed milky way"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10850026,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

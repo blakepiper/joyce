@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8800338",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Rib risible",
+  "html_source": "<p>risible<br />adjective<br />(formal)=  ridiculous, ludicrous, laughable, farcical, funny, amusing, absurd, hilarious, humorous, comical, droll, side-splitting, rib-tickling</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8800338/James-joyce-ulysses-chap-7-aeolus/Rib-risible",
+    "original_id": "8800338",
+    "referent_id": 8800338,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "rib risible",
+    "prefix": ", the last zigzagging white on the breeze a mocking kite, a tail of white bowknots. \n\n — Look at the young guttersnipe behind him hue and cry, Lenehan said, and you'll kick. O, my ",
+    "suffix": "! Taking off his flat spaugs and the walk. Small nines. Steal upon larks. \n\n1961#129\n\n He began to mazurka in swift caricature across the floor on sliding feet past the fireplace t",
+    "start": 24542,
+    "end": 24553,
+    "canonical_text": "rib risible"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8800338,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

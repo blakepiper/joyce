@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8793788",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Slavey",
+  "html_source": "<p>noun,  BRITISH, informal, dated<br />a maidservant, especially a hard-worked one.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8793788/James-joyce-ulysses-chap-6-hades/Slavey",
+    "original_id": "8793788",
+    "referent_id": 8793788,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "slavey",
+    "prefix": " agents, temperance hotel, Falconer's railway guide, civil service college, Gill's, catholic club, the industrious blind. Why? Some reason. Sun or wind. At night too. Chummies and ",
+    "suffix": "s. Under the patronage of the late Father Mathew. Foundation stone for Parnell. Breakdown. Heart. \n\n White horses with white frontlet plumes came round the Rotunda corner, gallopin",
+    "start": 18355,
+    "end": 18361,
+    "canonical_text": "slavey"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8793788,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

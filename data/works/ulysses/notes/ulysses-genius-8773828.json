@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8773828",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Benedictine",
+  "html_source": "<p>Bénédictine is a herbal liqueur beverage developed by Alexandre Le Grand in the 19th century and produced in France.</p><p><img src=\"https://images.rapgenius.com/291c4cd45974a9b64f49b646c9f53cfb.220x332x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8773828/James-joyce-ulysses-chap-5-lotus-eaters/Benedictine",
+    "original_id": "8773828",
+    "referent_id": 8773828,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Benedictine",
+    "prefix": "music, on art and statues and pictures of all kinds. Palestrina for example too. They had a gay old time while it lasted. Healthy too, chanting, regular hours, then brew liqueurs. ",
+    "suffix": ". Green Chartreuse. Still, having eunuchs in their choir that was coming it a bit thick. What kind of voice is it? Must be curious to hear after their own strong basses. Connoisseu",
+    "start": 25846,
+    "end": 25857,
+    "canonical_text": "Benedictine"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8773828,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

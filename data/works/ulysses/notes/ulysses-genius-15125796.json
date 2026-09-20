@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15125796",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Doing the toff",
+  "html_source": "<p>Acting or speaking in the manner of an English sophisticate or an aristocrat (see <a href=\"https://en.wikipedia.org/wiki/Toff\" rel=\"noopener nofollow\">toff</a>).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15125796/James-joyce-ulysses-chap-12-cyclops/Doing-the-toff",
+    "original_id": "15125796",
+    "referent_id": 15125796,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "doing the toff",
+    "prefix": "e winged speech of the seadivided Gael. \n\n — It's on the march, says the citizen. To hell with the bloody brutal Sassenachs and their patois. \n\n1961#324\n\n So J. J. puts in a word, ",
+    "suffix": " about one story was good till you heard another and blinking facts and the Nelson policy, putting your blind eye to the telescope and drawing up a bill of attainder to impeach a n",
+    "start": 76306,
+    "end": 76320,
+    "canonical_text": "doing the toff"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15125796,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

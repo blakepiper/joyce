@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8517472",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Come",
+  "html_source": "<p><strong>From the Opera “Martha”</strong></p><p>When first I saw that form endearing,<br />Sorrow from me seem’d to depart:<br />Each graceful look, each word so cheering,<br />Charm’d my eye and won my heart.</p><p>Full of hope, and all delighted,<br />None could feel more blest than I;<br />All on earth I then could wish for,<br />Was near her to live and die:</p><p>But alas! ‘twas idle dreaming,<br />And the dream too soon hath flown;<br />Not one ray of hope is gleaming;<br />I am lost, yes I am lost, for she is gone.</p><p>When first I saw that form endearing,<br />Sorrow from me seem’d to depart:<br />Each graceful look, each word so cheering,<br />Charm’d my eye and won my heart.</p><p>Martha, Martha, I am sighing,<br />I am weeping still for thee;<br /><strong>Come thou lost one, come</strong> though dear one,<br />Thou alone can'st comfort me:</p><p>Ah! Martha return! <strong>Come to me</strong>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8517472/James-joyce-ulysses-chap-11-sirens/Come",
+    "original_id": "8517472",
+    "referent_id": 8517472,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Come",
+    "prefix": "awave upon the waves. \n\n Lost. Throstle fluted. All is lost now. \n\n Horn. Hawhorn. \n\n When first he saw. Alas! \n\n Full tup. Full throb. \n\n Warbling. Ah, lure! Alluring. \n\n Martha! ",
+    "suffix": "! \n\n Clapclop. Clipclap. Clappyclap. \n\n1922#245\n\n Goodgod henev erheard inall. \n\n Deaf bald Pat brought pad knife took up. \n\n A moonlit nightcall: far, far. \n\n I feel so sad. P. S.",
+    "start": 1084,
+    "end": 1088,
+    "canonical_text": "Come"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9274
+  },
+  "genius": {
+    "referent_id": 8517472,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

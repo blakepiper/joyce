@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11205508",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Tarifa",
+  "html_source": "<p>11 km across the Straits of Gibraltar</p><p><a href=\"http://www.andalucia.com/tarifa/home.htm\" rel=\"noopener nofollow\">http://www.andalucia.com/tarifa/home.htm</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11205508/James-joyce-ulysses-chap-18-penelope/Tarifa",
+    "original_id": "11205508",
+    "referent_id": 11205508,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Tarifa",
+    "prefix": "find many like 1939#546me where softly sighs of love the light guitar where poetry is in the air the blue sea and the moon shining so beautifully coming back on the nightboat from ",
+    "suffix": " the lighthouse at Europa point the guitar that fellow played was so expressive will I ever go back there again all new faces two glancing eyes a lattice hid Ill sing that for him ",
+    "start": 99348,
+    "end": 99354,
+    "canonical_text": "Tarifa"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11205508,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

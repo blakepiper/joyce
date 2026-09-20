@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3123551",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "That on the unnumbered pebbles beats",
+  "html_source": "<p><a href=\"http://poetry.genius.com/William-shakespeare-king-lear-act-4-scene-6-annotated\" rel=\"noopener nofollow\">Line 20</a></p><p>Edgar, Gloucester’s bastard son saves his dad who is on the way to top himself by chucking himself off a cliff. Gloucester’s previously had his eyes put out and is blind. Edgar pretends he is on a cliff by describing the view and sounds below : proceeds to pretend God has saved him.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3123551/James-joyce-ulysses-chap-3-proteus/That-on-the-unnumbered-pebbles-beats",
+    "original_id": "3123551",
+    "referent_id": 3123551,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "that on the unnumbered pebbles beats",
+    "prefix": "g gone one feels that one is at one with one who once...\n\nThe grainy sand had gone from under his feet. His boots trod again a damp crackling mast, razorshells, squeaking pebbles, ",
+    "suffix": ", wood sieved by the shipworm, lost Armada. Unwholesome sandflats waited to suck his treading soles, breathing upward sewage breath, a pocket of seaweed smouldered in seafire under",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.8276
+  },
+  "genius": {
+    "referent_id": 3123551,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8468821",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Artane",
+  "html_source": "<p>Where Father Conmee is headed in order to secure a place for one of Paddy Dignam’s children at the O'Brien Institute in the Artane section of Dublin, a home and school for orphans.</p><p><img src=\"https://images.rapgenius.com/54537e37781e306f74a368b892386cb1.300x149x1.png\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8468821/James-joyce-ulysses-chap-10-wandering-rocks/Artane",
+    "original_id": "8468821",
+    "referent_id": 8468821,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Artane",
+    "prefix": "0]\n\n\n\nThe superior, the very reverend John Conmee S.J. reset his smooth watch in his interior pocket as he came down the presbytery steps. Five to three. Just nice time to walk to ",
+    "suffix": ". What was that boy's name again? Dignam. Yes. Vere dignum et iustum est. Brother Swan was the person to see. Mr Cunningham's letter. Yes. Oblige him, if possible. Good practical c",
+    "start": 184,
+    "end": 190,
+    "canonical_text": "Artane"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8468821,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

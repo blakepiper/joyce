@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3407905",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Skivvy’s",
+  "html_source": "<p>Defined as “maid of all work.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3407905/James-joyce-ulysses-chap-1-telemachus/Skivvys",
+    "original_id": "3407905",
+    "referent_id": 3407905,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "skivvy's",
+    "prefix": "ut to him, cleft by a crooked crack, hair on end. As he and others see me. Who chose this face for me? This dogsbody to rid of vermin. It asks me too. \n\n — I pinched it out of the ",
+    "suffix": " room, Buck Mulligan said. It does her all right. The aunt always keeps plainlooking servants for Malachi. Lead him not into temptation. And her name is Ursula. \n\n Laughing again, ",
+    "start": 8094,
+    "end": 8102,
+    "canonical_text": "skivvy's"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3407905,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1045290,
+        "login": "StickRivero",
+        "name": "StickRivero",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

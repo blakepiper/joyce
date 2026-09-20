@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10085227",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "It’s nine days today.",
+  "html_source": "<p>Consider ‘The House by the Churchyard’ Sheridan le Fanu, Ch. 66:</p><p>‘Ho! Neighbour Slowe – give you good-day, Sir – not heard it ?By Jove, Sir- poor Nutter! – 'tis true – his body’s found- picked up this morning, just at sunrise, by two <a href=\"http://dlharbour.ie/weather/\" rel=\"noopener nofollow\">Dunleary</a> fishermen, off <a href=\"https://www.tripadvisor.co.uk/LocationPhotoDirectLink-g551507-i17311296-Dalkey_County_Dublin.html\" rel=\"noopener nofollow\">Bullock</a>. ’</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10085227/James-joyce-ulysses-chap-1-telemachus/Its-nine-days-today",
+    "original_id": "10085227",
+    "referent_id": 10085227,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "It's nine days today.",
+    "prefix": "r. \n\n The boatman nodded towards the north of the bay with some disdain. \n\n — There's five fathoms out there, he said. It'll be swept up that way when the tide comes in about one. ",
+    "suffix": " \n\n The man that was drowned. A sail veering about the blank bay waiting for a swollen bundle to bob up, roll over to the sun a puffy face, saltwhite. Here I am. \n\n They followed t",
+    "start": 38324,
+    "end": 38345,
+    "canonical_text": "It's nine days today."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10085227,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

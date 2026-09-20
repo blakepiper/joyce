@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8769828",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Thirtytwo feet per second per second",
+  "html_source": "<p>Gravity will accelerate any object at a rate of 32 feet per second per second. When you double the height, you don’t double the speed you reach. Speed rises only as the square root of the height of the fall.It’s known as acceleration due to gravity.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8769828/James-joyce-ulysses-chap-5-lotus-eaters/Thirtytwo-feet-per-second-per-second",
+    "original_id": "8769828",
+    "referent_id": 8769828,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Thirtytwo feet per second per second",
+    "prefix": "'s a law something like that. Vance in High school cracking his fingerjoints, teaching. The college curriculum. Cracking curriculum. What is weight really when you say the weight? ",
+    "suffix": ". Law of falling bodies: per second per second. They all fall to the ground. The earth. It's the force of gravity of the earth is the weight. \n\n He turned away and sauntered across",
+    "start": 3181,
+    "end": 3217,
+    "canonical_text": "Thirtytwo feet per second per second"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8769828,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.8723404255319148
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.1276595744680851
+      }
+    ]
+  },
+  "color": "F59627"
+}

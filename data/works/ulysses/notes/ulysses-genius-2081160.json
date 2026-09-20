@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2081160",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "The forehead of Taurus.",
+  "html_source": "<p>This ends the section in the style of Thomas De Quincey, which began with “The voices blend.”</p><p><img src=\"https://images.genius.com/af9fd219efc01756b123c6c5537fd4fa.307x500x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2081160/James-joyce-ulysses-chap-14-oxen-of-the-sun/The-forehead-of-taurus",
+    "original_id": "2081160",
+    "referent_id": 2081160,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "the forehead of Taurus.",
+    "prefix": " wind, winding, coiling, simply swirling, writhing in the skies a mysterious writing till, after a myriad metamorphoses of symbol, it blazes, Alpha, a ruby and triangled sign upon ",
+    "suffix": " \n\n Francis was reminding Stephen of years before when they 1961#414had been at school together in Conmee's time. He asked about Glaucon, Alcibiades, 1986#338Pisistratus. Where wer",
+    "start": 80366,
+    "end": 80389,
+    "canonical_text": "the forehead of Taurus."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2081160,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

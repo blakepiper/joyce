@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15123890",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Portobello",
+  "html_source": "<p>Not a mushroom, but rather “beautiful port/harbor” (Irish: Cuan Aoibhinn). <a href=\"https://en.wikipedia.org/wiki/Portobello,_Dublin\" rel=\"noopener nofollow\">Portobello</a> is a large area/suburb of Dublin</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15123890/James-joyce-ulysses-chap-12-cyclops/Portobello",
+    "original_id": "15123890",
+    "referent_id": 15123890,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Portobello",
+    "prefix": "denly waded in all over his man and landed a terrific left to Battling Bennett's stomach, flooring him flat. It was a knockout clean and 1922#305clever. Amid tense expectation the ",
+    "suffix": " bruiser was being counted out when Bennett's second Ole Pfotts Wettstein threw in the towel and the Santry boy was declared victor to the frenzied cheers of the public who broke t",
+    "start": 63805,
+    "end": 63815,
+    "canonical_text": "Portobello"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15123890,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

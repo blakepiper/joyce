@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15174004",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Blancmange",
+  "html_source": "<p>A dessert made from milk/cream and sugar along with a thickening agent (such as corn starch, gelatin, or Irish moss).<br />The name comes from the French “white dish”.</p><p><img src=\"https://images.genius.com/afe11473c1f5859f10cca5bffb537fb9.1000x806x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15174004/James-joyce-ulysses-chap-18-penelope/Blancmange",
+    "original_id": "15174004",
+    "referent_id": 15174004,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "blancmange",
+    "prefix": "o long and listening as I wait always 1922#714what a robber too that lovely fresh plaice I bought I think Ill get a bit of fish tomorrow or today is it Friday yes I will with some ",
+    "suffix": " with black currant jam like long ago not those 2 lb pots of mixed plum and apple from the London and Newcastle Williams and Woods goes twice as far only for the bones I hate those",
+    "start": 69753,
+    "end": 69763,
+    "canonical_text": "blancmange"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15174004,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

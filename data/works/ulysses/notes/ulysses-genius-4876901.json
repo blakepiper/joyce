@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4876901",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "List! List! O List!\n \n My flesh hears him: creeping, hears.\n \n If thou didst ever...",
+  "html_source": "<p>Referencing what the ghost says to Hamlet in <a href=\"https://genius.com/William-shakespeare-hamlet-act-1-scene-5-annotated/\" rel=\"noopener nofollow\">Act 1, Scene 5</a>:</p><p>“List, list, O, list!<br />If thou didst ever thy dear father love–”</p><p>It works as an allusion to Stephen’s problematic relationship with his own father, regardless of wether it is still Eglinton speaking or Stephen quoting Shakespeare in his mind.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4876901/James-joyce-ulysses-chap-9-scylla-and-charybdis/List-list-o-list-my-flesh-hears-him-creeping-hears-if-thou-didst-ever",
+    "original_id": "4876901",
+    "referent_id": 4876901,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "List! List! O List!\n \n My flesh hears him: creeping, hears.\n \n If thou didst ever...",
+    "prefix": "d the deep sea. \n\n — He will have it that Hamlet is a ghoststory, John Eglinton 1961#187said for Mr Best's behoof. Like the fat boy in Pickwick he wants to make our flesh creep. \n\n",
+    "suffix": " \n\n — What is a ghost? Stephen said with tingling energy. One who has faded into impalpability through death, through absence, through change of manners. Elizabethan London lay as ",
+    "start": 8070,
+    "end": 8153,
+    "canonical_text": "List! List! O list! \n\n My flesh hears him: creeping, hears. \n\nIf thou didst ever..."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4876901,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1482232,
+        "login": "JayEn",
+        "name": "JayEn",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

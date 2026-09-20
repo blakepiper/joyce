@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10016284",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "World without end",
+  "html_source": "<p>Ephesians 3:21<br />King James Bible<br />Unto him be glory in the church by Christ Jesus throughout all ages, world without end. Amen.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10016284/James-joyce-ulysses-chap-15-circe/World-without-end",
+    "original_id": "10016284",
+    "referent_id": 10016284,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "world without end",
+    "prefix": "sequence of a portwine beverage on top of Hennessy's three star. I was guilty with Whelan when he slipped into the bed. \n\n STEPHEN \n\n In the beginning was the word, in the end the ",
+    "suffix": ". Blessed be the eight beatitudes. \n\n(The beatitudes, Dixon, Madden, Crotthers, Costello, Lenehan, Bannon, Mulligan and Lynch in white surgical students' gowns, four abreast, goose",
+    "start": 111821,
+    "end": 111838,
+    "canonical_text": "world without end"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10016284,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

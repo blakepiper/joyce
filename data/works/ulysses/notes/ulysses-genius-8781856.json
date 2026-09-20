@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8781856",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Three Lugs of Man.",
+  "html_source": "<p>Should be “the Three Legs of Man.” An obvious obscenity.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8781856/James-joyce-ulysses-chap-15-circe/Three-lugs-of-man",
+    "original_id": "8781856",
+    "referent_id": 8781856,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Three Lugs of Man.",
+    "prefix": "rope taut from zenith to nadir the End of the World, a twoheaded octopus in gillie's kilts, busby and tartan filibegs, whirls through the murk, head over heels, in the form of the ",
+    "suffix": " \n\n1986#413\n\n THE END OF THE WORLD \n\n(With a Scotch accent.) Wha'll dance the keel row, the keel row, the keel row? \n\n(Over the passing drift and choking breathcoughs, Elijah's voi",
+    "start": 108494,
+    "end": 108513,
+    "canonical_text": "Three Legs of Man.)"
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9189
+  },
+  "genius": {
+    "referent_id": 8781856,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

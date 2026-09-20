@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8454941",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "_Deine Kuh Trübsal melkest Du. Nun Trinkst Du die süsse Milch des Euters_",
+  "html_source": "<p>(German) You are milking your cow “Affliction”. Now you are drinking the sweet milk of her udder. The words are not spoken by Zarathustra in Nietzsche’s Also Sprach Zarathustra.<br />Weldon Thornton notes a similarity to Shakespeare: Adversity’s sweet milk, philosophy (Romeo and Juliet 3:3:55)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8454941/James-joyce-ulysses-chap-14-oxen-of-the-sun/Deine-kuh-trubsal-melkest-du-nun-trinkst-du-die-susse-milch-des-euters",
+    "original_id": "8454941",
+    "referent_id": 8454941,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "_Deine Kuh Trübsal melkest Du. Nun Trinkst Du die süsse Milch des Euters_",
+    "prefix": "s with many that will and would and wait and never do. Thou sawest thy America, thy lifetask, 1922#402and didst charge to cover like the transpontine bison. How saith Zarathustra? ",
+    "suffix": ". See! it displodes for thee in abundance. Drink, man, an udderful! Mother's milk, Purefoy, the milk of human kin, milk too of those burgeoning stars overhead rutilant in thin rain",
+    "start": 104000,
+    "end": 104071,
+    "canonical_text": "Deine Kuh Trübsal melkest Du. Nun Trinkst Du die süsse Milch des Euters"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 8454941,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

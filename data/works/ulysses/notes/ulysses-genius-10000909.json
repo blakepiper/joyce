@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10000909",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Just man falls seven times",
+  "html_source": "<p>Proverbs 24:16<br />King James Bible<br />For a just man falleth seven times, and riseth up again: but the wicked shall fall into mischief.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10000909/James-joyce-ulysses-chap-15-circe/Just-man-falls-seven-times",
+    "original_id": "10000909",
+    "referent_id": 10000909,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "just man falls seven times",
+    "prefix": "usly from under their pencilled brows and smile to his hasty bow. He trips awkwardly.) \n\n ZOE \n\n(Her lucky hand instantly saving him.) Hoopsa! Don't fall upstairs. \n\n BLOOM \n\n The ",
+    "suffix": ". (He stands aside at the threshold.) After you is good manners. \n\n1961#501\n\n ZOE \n\n Ladies first, gentlemen after. \n\n(She crosses the threshold. He hesitates. She turns and, holdi",
+    "start": 100722,
+    "end": 100748,
+    "canonical_text": "just man falls seven times"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10000909,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

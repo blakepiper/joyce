@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8875616",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "P.p.’s",
+  "html_source": "<p>Parish priests.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8875616/James-joyce-ulysses-chap-16-eumaeus/Pps",
+    "original_id": "8875616",
+    "referent_id": 8875616,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "p.p.'s",
+    "prefix": " Turks. It's in the dogma. Because if they didn't believe they'd go straight to heaven when they die they'd try to live better—at least, so I think. That's the juggle on which the ",
+    "suffix": " raise the wind on false pretences. I'm, he resumed, with dramatic force, as good an Irishman as that rude person I told you about at the outset and I want to see 1922#598everyone,",
+    "start": 77021,
+    "end": 77026,
+    "canonical_text": "p.p's"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 8875616,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

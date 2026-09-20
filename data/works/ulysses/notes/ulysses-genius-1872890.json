@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-1872890",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Signatures of all things I am here to read,",
+  "html_source": "<p>The phrase derives from <a href=\"https://en.wikipedia.org/wiki/Jakob_B%C3%B6hme\" rel=\"noopener nofollow\">Jakob Bohme</a>’s <a href=\"http://www.sacred-texts.com/eso/sat/\" rel=\"noopener nofollow\">Signatura Rerum</a> (Latin: Signature of all Things) but in context Stephen remarks his role as the perceiver of the characteristic forms of nature.</p><p>Stephen establishes the theme of transformation quickly in this chapter. Stephen turns the environment into his interpretation.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1872890/James-joyce-ulysses-chap-3-proteus/Signatures-of-all-things-i-am-here-to-read",
+    "original_id": "1872890",
+    "referent_id": 1872890,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Signatures of all things I am here to read,",
+    "prefix": " \n\n[3]\n\n\n\nIneluctable modality of the visible: at least that if no more, thought through my eyes. ",
+    "suffix": " seaspawn and seawrack, the nearing tide, that rusty boot. Snotgreen, bluesilver, rust: coloured signs. Limits of the diaphane. But he adds: in bodies. Then he was aware of them bo",
+    "start": 98,
+    "end": 141,
+    "canonical_text": "Signatures of all things I am here to read,"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1872890,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 176532,
+        "login": "biblicalmike",
+        "name": "Michael Bible",
+        "role": "verified_artist",
+        "attribution": 0.6086956521739131
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.3695652173913044
+      },
+      {
+        "id": 149810,
+        "login": "perfectrhyme",
+        "name": "Perfectrhyme",
+        "role": "editor",
+        "attribution": 0.021739130434782608
+      }
+    ]
+  },
+  "color": "F59627"
+}

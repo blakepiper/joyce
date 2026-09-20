@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9136371",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Sans blague",
+  "html_source": "<p>no kidding</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9136371/James-joyce-ulysses-chap-14-oxen-of-the-sun/Sans-blague",
+    "original_id": "9136371",
+    "referent_id": 9136371,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "sans blague",
+    "prefix": "the town), is my authority that in Cape Horn, ventre biche, they have a rain that will wet through 1932#366any, even the stoutest cloak. A drenching of that violence, he tells me, ",
+    "suffix": ", has sent more than one luckless fellow in good earnest posthaste to another world. Pooh! A livre! cries Monsieur Lynch. The clumsy things are dear at a sou. One umbrella, were it",
+    "start": 56455,
+    "end": 56466,
+    "canonical_text": "sans blague"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9136371,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

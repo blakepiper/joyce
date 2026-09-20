@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5127626",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "The mass for pope Marcellus, the voices blended, singing alone loud in affirmation",
+  "html_source": "<p>The <em>Missa Papae Marcelli</em> (Mass for Pope Marcellus) is the most well-known Mass setting composed by Giovanni Pierluigi da Palestrina, one of the most famous Renaissance composers. This setting of the Mass was always sung at Papal Coronations.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5127626/James-joyce-ulysses-chap-1-telemachus/The-mass-for-pope-marcellus-the-voices-blended-singing-alone-loud-in-affirmation",
+    "original_id": "5127626",
+    "referent_id": 5127626,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "the mass for pope Marcellus, the voices blended, singing alone loud in affirmation",
+    "prefix": "t unam sanctam catholicam1961#20 et apostolicam ecclesiam: the slow growth and change of rite and dogma like his own rare thoughts, a chemistry of stars. Symbol of the apostles in ",
+    "suffix": ": and behind their chant the vigilant angel of the church militant disarmed and menaced her heresiarchs. A horde of heresies fleeing with mitres awry: Photius and the brood of mock",
+    "start": 36935,
+    "end": 37017,
+    "canonical_text": "the mass for pope Marcellus, the voices blended, singing alone loud in affirmation"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5127626,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1623796,
+        "login": "StefanMichaelGramenz",
+        "name": "StefanMichaelGramenz",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9057967",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Jammet’s",
+  "html_source": "<p>A posh French restaurant in Dublin from 1901 to 1967.</p><p>“For decades in a drab Dublin, Restaurant Jammet was synonymous with style and sophistication.”<br /><a href=\"http://www.irishtimes.com/life-and-style/people/jammet-s-a-dublin-treasure-crowded-with-gourmets-and-wits-1.1793827\" rel=\"noopener nofollow\">http://www.irishtimes.com/life-and-style/people/jammet-s-a-dublin-treasure-crowded-with-gourmets-and-wits-1.1793827</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9057967/James-joyce-ulysses-chap-13-nausicaa/Jammets",
+    "original_id": "9057967",
+    "referent_id": 9057967,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Jammet's",
+    "prefix": "derstand all the ways of the world. And the dark one with the mop head and the nigger mouth. I knew she could whistle. Mouth made for that. Like Molly. Why that highclass whore in ",
+    "suffix": " wore her veil only to her nose. Would you mind, please, telling me the right time? I'll tell you the right time up a dark lane. Say prunes and prisms forty times every morning, cu",
+    "start": 63720,
+    "end": 63728,
+    "canonical_text": "Jammet's"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9057967,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

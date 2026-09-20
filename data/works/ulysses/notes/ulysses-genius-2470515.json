@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2470515",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "If he stays on here I am off.",
+  "html_source": "<p>Stephen resents Haines, he’ll be leaving due to<br />Haines the Usurper by the end of the chapter.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2470515/James-joyce-ulysses-chap-1-telemachus/If-he-stays-on-here-i-am-off",
+    "original_id": "2470515",
+    "referent_id": 2470515,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "If he stays on here I am off.",
+    "prefix": " and growing fear. Out here in the dark with a man I don't know raving and moaning to himself about shooting a black panther. You saved men from drowning. I'm not a hero, however. ",
+    "suffix": " \n\n Buck Mulligan frowned at the lather on his razorblade. He hopped down from his perch and began to search his trouser pockets hastily. \n\n1922#4\n\n — Scutter! he cried thickly. \n\n",
+    "start": 3644,
+    "end": 3673,
+    "canonical_text": "If he stays on here I am off."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2470515,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

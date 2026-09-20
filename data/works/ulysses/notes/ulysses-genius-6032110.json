@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-6032110",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Black 47",
+  "html_source": "<p>Referring to the Great Famine in Ireland in 1847 and also the Irish playwright George Bernard Shaw’s play Man and Superman where this exchange can be found:</p><p>MALONE. He will get over it all right enough.<br />Men thrive better on disappointments in love than<br />on disappointments in money. I daresay you think<br />that sordid; but I know what I’m talking about.<br />My father died of starvation in Ireland in the<br />black 47, Maybe you’ve heard of it.</p><pre><code>VIOLET. The Famine?\n</code></pre><p>MALONE. No, the starvation. When a country is<br />full of food, and exporting it, there can be no<br />famine. My father was starved dead; and I was<br />starved out to America in my mother’s arms.<br />English rule drove me and mine out of Ireland.<br />Well, you can keep Ireland. I and my like are<br />coming back to buy England; and we’ll buy the<br />best of it. I want no middle class properties and<br />no middle class women for Hector. That’s<br />straightforward isn’t it, like yourself?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6032110/James-joyce-ulysses-chap-12-cyclops/Black-47",
+    "original_id": "6032110",
+    "referent_id": 6032110,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "black 47",
+    "prefix": "downface you that dying was living. \n\n — We'll put force against force, says the citizen. We have our greater Ireland beyond the sea. They were driven out of house and home in the ",
+    "suffix": ". Their mudcabins and their shielings by the roadside were laid low by the batteringram and the Times rubbed its hands and told the whitelivered Saxons there would soon be as few I",
+    "start": 87520,
+    "end": 87528,
+    "canonical_text": "black 47"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6032110,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1689524,
+        "login": "LeopoldQ",
+        "name": "LeopoldQ",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

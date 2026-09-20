@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9093781",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Daly’s",
+  "html_source": "<p>A rowdy pub</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9093781/James-joyce-ulysses-chap-10-wandering-rocks/Dalys",
+    "original_id": "9093781",
+    "referent_id": 9093781,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Daly's",
+    "prefix": "es of the troubles. Must ask Ned Lambert to lend me those reminiscences of sir Jonah Barrington. When you look back on it all now in a kind of retrospective arrangement. Gaming at ",
+    "suffix": ". No cardsharping then. One of those fellows got his hand nailed to the table by a dagger. Somewhere here lord Edward Fitzgerald escaped from major Sirr. Stables behind Moira house",
+    "start": 45177,
+    "end": 45183,
+    "canonical_text": "Daly's"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9093781,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083736,
+        "login": "JessicaVestuto",
+        "name": "JessicaVestuto",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

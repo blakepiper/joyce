@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3888672",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "He rested an innocent book on the edge of the desk, smiling his defiance",
+  "html_source": "<p>There’s a juxtaposition between <em>innocent</em> and <em>defiance</em> indicating Best’s mute personality and his contradiction of Eglinton’s statement in the previous paragraph</p><p>Stephen must negotiate this:</p><p>Eglinton’s nebulous depiction of Shakespeare’s life and Best’s factual statements that Hamlet is autobiographical.</p><p><img src=\"https://images.rapgenius.com/528b698630357fe8888aa224f9eadcc9.582x473x1.gif\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3888672/James-joyce-ulysses-chap-9-scylla-and-charybdis/He-rested-an-innocent-book-on-the-edge-of-the-desk-smiling-his-defiance",
+    "original_id": "3888672",
+    "referent_id": 3888672,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "He rested an innocent book on the edge of the desk, smiling his defiance",
+    "prefix": "sn't it? Mr Best pleaded. I mean, a kind of private paper, don't you know, of his private life. I mean, I don't care a button, don't you know, who is killed or who is guilty... \n\n ",
+    "suffix": ". His private papers in the original. Ta an bad ar an tir. Taim in mo shagart. Put beurla on it, littlejohn. \n\n Quoth littlejohn Eglinton: \n\n — I was prepared for paradoxes from wh",
+    "start": 20598,
+    "end": 20670,
+    "canonical_text": "He rested an innocent book on the edge of the desk, smiling his defiance"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3888672,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

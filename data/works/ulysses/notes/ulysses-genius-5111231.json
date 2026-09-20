@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5111231",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "The Greystones concert",
+  "html_source": "<p>Greystones, a small fishing village on the coast eighteen miles south-southeast of Dublin, was also a fashionable summer resort.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5111231/James-joyce-ulysses-chap-6-hades/The-greystones-concert",
+    "original_id": "5111231",
+    "referent_id": 5111231,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "the Greystones concert",
+    "prefix": "eant grinning up. She1986#73 had that cream gown on with the rip she never stitched. Give us a touch, Poldy. God, I'm dying for it. How life begins. \n\n Got big then. Had to refuse ",
+    "suffix": ". My son inside her. I could have helped him on in life. I could. Make him independent. Learn German too. \n\n — Are we late? Mr Power asked. \n\n — Ten minutes, Martin Cunningham said",
+    "start": 5047,
+    "end": 5069,
+    "canonical_text": "the Greystones concert"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5111231,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

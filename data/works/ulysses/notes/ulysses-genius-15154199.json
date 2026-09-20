@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15154199",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Hoots, mon, a wee drap to pree",
+  "html_source": "<p>Scottish dialect: “Hey, man, a small drop [of whiskey] to taste”.</p><p><a href=\"https://www.merriam-webster.com/dictionary/pree\" rel=\"noopener nofollow\">Pree</a>: Scottish for to taste tendtatively, to sample; to kiss</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15154199/James-joyce-ulysses-chap-14-oxen-of-the-sun/Hoots-mon-a-wee-drap-to-pree",
+    "original_id": "15154199",
+    "referent_id": 15154199,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Hoots, mon, a wee drap to pree",
+    "prefix": "st extreme poverty and one largesize grandacious thirst to terminate one expensive inaugurated libation? Give's a breather. Landlord, landlord, have you good 1961#426wine, staboo? ",
+    "suffix": ". Cut and come again. Right Boniface! Absinthe the lot. Nos omnes biberimus viridum toxicum diabolus capiat posterioria nostria. Closingtime, gents. Eh? Rome boose for the Bloom to",
+    "start": 111098,
+    "end": 111128,
+    "canonical_text": "Hoots, mon, a wee drap to pree"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15154199,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

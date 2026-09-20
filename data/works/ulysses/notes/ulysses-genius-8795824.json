@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795824",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Levanted",
+  "html_source": "<p>verb,  BRITISH,  archaic<br />run away, typically leaving unpaid debts.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795824/James-joyce-ulysses-chap-6-hades/Levanted",
+    "original_id": "8795824",
+    "referent_id": 8795824,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Levanted",
+    "prefix": "e. \n\n So he was before he got the job in the morgue under Louis Byrne. Good idea a postmortem for doctors. Find out what they imagine they know. He died of a Tuesday. Got the run. ",
+    "suffix": " with the cash of a few ads. Charley, you're my darling.1961#111 That was why he asked me to. O well, does no harm. I saw to that, M'Coy. Thanks, old chap: much obliged. Leave him ",
+    "start": 54047,
+    "end": 54055,
+    "canonical_text": "Levanted"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8795824,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21182021",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Di che? Almidano Artifoni said. Scusi, eh? Tante belle cose!",
+  "html_source": "<p>Italian: “For what? Excuse me, alright? All the best!”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21182021/James-joyce-ulysses-chap-10-wandering-rocks/Di-che-almidano-artifoni-said-scusi-eh-tante-belle-cose",
+    "original_id": "21182021",
+    "referent_id": 21182021,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Di che? Almidano Artifoni said. Scusi, eh? Tante belle cose!",
+    "prefix": "d in friendly haste. Venga a trovarmi e ci pensi. Addio, caro. \n\n1961#228\n\n — Arrivederla, maestro, Stephen said, raising his hat when his hand was freed. E grazie. \n\n1922#219\n\n — ",
+    "suffix": " \n\n Almidano Artifoni, holding up a baton of rolled music as a signal, trotted on stout trousers after the Dalkey tram. In vain he trotted,932#205 signalling in vain among the rout",
+    "start": 20580,
+    "end": 20640,
+    "canonical_text": "Di che? Almidano Artifoni said. Scusi, eh? Tante belle cose!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21182021,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

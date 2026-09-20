@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9164649",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Linkboy",
+  "html_source": "<p>A link-boy (or link boy or linkboy) was a boy who carried a flaming torch to light the way for pedestrians at night. Linkboys were common in London in the days before street lighting.<br />Wikipedia</p><p><img src=\"https://images.genius.com/950686446af8cd9ffdd7d19fd2b41d99.595x359x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9164649/James-joyce-ulysses-chap-14-oxen-of-the-sun/Linkboy",
+    "original_id": "9164649",
+    "referent_id": 9164649,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "linkboy",
+    "prefix": "praising of it, each after his own fashion, though the same young blade held with his former view that another than her conjugial had been the man in the gap, a clerk in orders, a ",
+    "suffix": " (virtuous) or an itinerant vendor of articles needed in every household. Singular, communed the guest with himself, the wonderfully unequal faculty of 1932#369metempsychosis posse",
+    "start": 64722,
+    "end": 64729,
+    "canonical_text": "linkboy"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9164649,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

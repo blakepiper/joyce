@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33270699",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "And",
+  "html_source": "<p>Stephen flexed the money he’d been paid for a song.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33270699/James-joyce-ulysses-chap-14-oxen-of-the-sun/And",
+    "original_id": "33270699",
+    "referent_id": 33270699,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "And",
+    "prefix": "oul's bodiment. Leave ye fraction of bread to them that live by bread alone. Be not afeard neither for any want for this will comfort more than the other will dismay. See ye here. ",
+    "suffix": " he showed them glistering coins of the tribute and goldsmiths' notes the worth of two pound nineteen shilling that he had, he said, for a song which he writ. They all admired to s",
+    "start": 20314,
+    "end": 20317,
+    "canonical_text": "And"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 33270699,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

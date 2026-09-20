@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10584275",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Secundum carnem",
+  "html_source": "<p>according to the flesh</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10584275/James-joyce-ulysses-chap-16-eumaeus/Secundum-carnem",
+    "original_id": "10584275",
+    "referent_id": 10584275,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "secundum carnem",
+    "prefix": " that it wasn't all exactly... \n\n — Ex quibus, Stephen mumbled in a noncommittal accent, their two or four eyes conversing, Christus or Bloom his name is or, after all, any other, ",
+    "suffix": ". \n\n — Of course, Mr Bloom proceeded to stipulate, you must look at both sides of the question. It is hard to lay down any hard and fast rules as to right 1922#597and wrong but roo",
+    "start": 74431,
+    "end": 74446,
+    "canonical_text": "secundum carnem"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10584275,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13972013",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Allee samee",
+  "html_source": "<p>adjective</p><p>humorous, depreciative</p><p>In representations or imitations of (especially Chinese) pidgin English: all alike; all the same (as someone or something).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13972013/James-joyce-ulysses-chap-14-oxen-of-the-sun/Allee-samee",
+    "original_id": "13972013",
+    "referent_id": 13972013,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Allee samee",
+    "prefix": "r. The Denzille lane boys. Hell, blast ye! Scoot. Righto, Isaacs, shove em out of the bleeding limelight. 1939#304Yous join uz, dear sir? No hentrusion in life. Lou heap good man. ",
+    "suffix": " this bunch. En avant, mes enfants! Fire away number one on the gun. Burke's! Burke's! Thence they advanced five parasangs. Slattery's mounted foot. Where's that bleeding awfur? Pa",
+    "start": 105227,
+    "end": 105238,
+    "canonical_text": "Allee samee"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13972013,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

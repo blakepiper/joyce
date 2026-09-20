@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8924346",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Fellow blowing the bellows",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/f9ba1917f74d163f1ea480d3933f7861.800x514x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8924346/James-joyce-ulysses-chap-11-sirens/Fellow-blowing-the-bellows",
+    "original_id": "8924346",
+    "referent_id": 8924346,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "fellow blowing the bellows",
+    "prefix": "d Glynn fifty quid a year. Queer up there in the cockloft, alone, with stops and locks and keys. Seated all day at the organ. Maunder on for hours, talking to himself or the other ",
+    "suffix": ". Growl angry, then shriek cursing (want to have wadding or something in his no don't she cried), then all of a soft sudden wee little wee little pipy wind. \n\n Pwee! A wee little w",
+    "start": 67674,
+    "end": 67700,
+    "canonical_text": "fellow blowing the bellows"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8924346,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9666914",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Twenty years ago",
+  "html_source": "<p>Don Gifford/Robert Seidman give a detailed explanation of this paragraph’s historical meaning in Ulysses Annotated (page 475)<br /><a href=\"https://books.google.com/books?id=fE9mkomQHEQC&amp;pg=PA475&amp;lpg=PA475&amp;dq=Bonafide+Sabaoth&amp;source=bl&amp;ots=HKHIKwr6wy&amp;sig=OQsny8hlKgGrvU7GJwDjD4aY7wg&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjfv8TInrrNAhVX1GMKHQ3SCdMQ6AEIITAB#v=onepage&amp;q=Bonafide%20Sabaoth&amp;f=false\" rel=\"noopener nofollow\">https://books.google.com/books?id=fE9mkomQHEQC&amp;pg=PA475&amp;lpg=PA475&amp;dq=Bonafide+Sabaoth&amp;source=bl&amp;ots=HKHIKwr6wy&amp;sig=OQsny8hlKgGrvU7GJwDjD4aY7wg&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjfv8TInrrNAhVX1GMKHQ3SCdMQ6AEIITAB#v=onepage&amp;q=Bonafide%20Sabaoth&amp;f=false</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9666914/James-joyce-ulysses-chap-15-circe/Twenty-years-ago",
+    "original_id": "9666914",
+    "referent_id": 9666914,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "twenty years ago",
+    "prefix": "sed on a crimson cushion, are given to him. He shows all that he is wearing green socks.) \n\n1932#428\n\n TOM KERNAN \n\n You deserve it, your honour. \n\n1961#483\n\n BLOOM \n\n On this day ",
+    "suffix": " we overcame the hereditary enemy at Ladysmith. Our howitzers and camel swivel guns played on his lines with telling effect. Half a league onward! They charge! All is lost now! Do ",
+    "start": 76438,
+    "end": 76454,
+    "canonical_text": "twenty years ago"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9666914,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

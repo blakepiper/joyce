@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23614816",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Rulers of the waves",
+  "html_source": "<p>A reference to Rule, Brittania!<br /><a href=\"https://en.wikipedia.org/wiki/Rule%2C_Britannia!\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Rule%2C_Britannia!</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23614816/James-joyce-ulysses-chap-12-cyclops/Rulers-of-the-waves",
+    "original_id": "23614816",
+    "referent_id": 23614816,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "rulers of the waves",
+    "prefix": "t brawny strengthy hands the medher of dark strong foamy ale and, uttering his tribal slogan Lamh Dearg Abu, he drank to the undoing of his foes, a race of mighty valorous heroes, ",
+    "suffix": ", who sit on thrones of alabaster silent as the deathless gods. \n\n — What's up with you, says I to Lenehan. You look like a fellow that had lost a bob and found a tanner. \n\n — Gold",
+    "start": 77567,
+    "end": 77586,
+    "canonical_text": "rulers of the waves"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23614816,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

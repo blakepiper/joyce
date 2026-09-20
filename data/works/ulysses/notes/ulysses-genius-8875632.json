@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8875632",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Shraum",
+  "html_source": "<p>A mucous deposit. Irish “sream”=corrupt matter, phlegm, or related to fluids running from the eyes.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8875632/James-joyce-ulysses-chap-10-wandering-rocks/Shraum",
+    "original_id": "8875632",
+    "referent_id": 8875632,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "shraum",
+    "prefix": "ather Cowley said anxiously. \n\n Ben Dollard halted and stared, his loud orifice open, a dangling button of his coat wagging brightbacked from its thread as he wiped away the heavy ",
+    "suffix": "s that clogged his eyes to hear aright. \n\n — What few days? he boomed. Hasn't your landlord distrained for rent? \n\n — He has, Father Cowley said. \n\n1986#201\n\n — Then our friend's w",
+    "start": 54210,
+    "end": 54216,
+    "canonical_text": "shraum"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8875632,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

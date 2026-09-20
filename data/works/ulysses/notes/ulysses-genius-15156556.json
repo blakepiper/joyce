@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15156556",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Bra idea drums",
+  "html_source": "<p>Another error in text parsing/transcription. Should read “braided drums”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15156556/James-joyce-ulysses-chap-15-circe/Bra-idea-drums",
+    "original_id": "15156556",
+    "referent_id": 15156556,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "bra idea drums",
+    "prefix": "ry at the earliest possible opportunity.\n\nTHE HONOURABLE MRS MERVYN TALBOYS (In amazon costume, hard hat, jackboots cockspurred, vermilion waistcoat, fawn musketeer gauntlets with ",
+    "suffix": ", long train held up and hunting crop with which she strikes her welt constantly.) Also me. Because he saw me on the polo ground of the Phoenix park at the match All Ireland versus",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.5833
+  },
+  "genius": {
+    "referent_id": 15156556,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

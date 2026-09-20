@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-14118812",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Nakkering",
+  "html_source": "<p>to<br />“nakker” or “naker” is to sound a kettledrum.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/14118812/James-joyce-ulysses-chap-15-circe/Nakkering",
+    "original_id": "14118812",
+    "referent_id": 14118812,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Nakkering",
+    "prefix": "ugebearded, cabbageeared, shaggychested, shockmaned, fat-papped, stands forth, his loins and genitals tightened into a pair of black bathing bagslops.) \n\n1961#521\n\n BEN DOLLARD \n\n(",
+    "suffix": " castanet bones in his huge padded paws, yodels jovially in base barreltone.) When love absorbs my ardent soul. \n\n(The virgins Nurse Callan and Nurse Quigley burst through the ring",
+    "start": 131392,
+    "end": 131401,
+    "canonical_text": "Nakkering"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 14118812,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

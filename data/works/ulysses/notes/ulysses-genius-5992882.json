@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5992882",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "The Gibraltar now grabbed by the foe of mankind",
+  "html_source": "<p>Gibraltar, where the pillars of Hercules are, is occupied by the British, the “foe of mankind”.  Molly’s father was an army officer stations in Gibraltar.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5992882/James-joyce-ulysses-chap-12-cyclops/The-gibraltar-now-grabbed-by-the-foe-of-mankind",
+    "original_id": "5992882",
+    "referent_id": 5992882,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "the Gibraltar now grabbed by the foe of mankind",
+    "prefix": "vory raised point from the Carmelite convent in New Ross, nothing like it in the whole wide world. Where are the Greek merchants that came through the pillars of Hercules, 1922#312",
+    "suffix": ", with gold and Tyrian purple to sell in Wexford at the fair of Carmen? Read Tacitus and Ptolemy, even Giraldus Cambrensis. Wine, peltries, Connemara marble, silver from Tipperary,",
+    "start": 79655,
+    "end": 79702,
+    "canonical_text": "the Gibraltar now grabbed by the foe of mankind"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5992882,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1689524,
+        "login": "LeopoldQ",
+        "name": "LeopoldQ",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

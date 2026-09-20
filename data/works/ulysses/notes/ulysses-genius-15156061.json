@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15156061",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "A pure mare’s nest",
+  "html_source": "<p>A mare’s nest is a great discovery which turns out to be illusory; a hoax.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15156061/James-joyce-ulysses-chap-15-circe/A-pure-mares-nest",
+    "original_id": "15156061",
+    "referent_id": 15156061,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "A pure mare's nest",
+    "prefix": ".) Shitbroleeth. \n\n1939#326\n\n SECOND WATCH \n\n(Tears in his eyes, to Bloom.) You ought to be thoroughly well ashamed of yourself. \n\n BLOOM \n\n Gentlemen of the jury, let me explain. ",
+    "suffix": ". I am a man misunderstood. I am being made a scapegoat of. I am a respectable married man, without a stain on my character. I live in Eccles street. 1932#408My wife, I am the daug",
+    "start": 37601,
+    "end": 37619,
+    "canonical_text": "A pure mare's nest"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15156061,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

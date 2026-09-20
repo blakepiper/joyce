@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8582047",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Pride of Calpe’s rocky mount",
+  "html_source": "<p>References the Rock of Gibraltar.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8582047/James-joyce-ulysses-chap-12-cyclops/Pride-of-calpes-rocky-mount",
+    "original_id": "8582047",
+    "referent_id": 8582047,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Pride of Calpe's rocky mount",
+    "prefix": "d about the poor and water rate, Mr Boylan. You what? The water rate, Mr Boylan. You whatwhat? That's the bucko that'll organise her, take my tip. 'Twixt me and you Caddareesh. \n\n ",
+    "suffix": ", the ravenhaired daughter of Tweedy. There grew she to peerless beauty where loquat and almond scent the air. The gardens of Alameda knew her step: the garths of olives knew and b",
+    "start": 64988,
+    "end": 65016,
+    "canonical_text": "Pride of Calpe's rocky mount"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8582047,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

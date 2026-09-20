@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13972666",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "I vear thee beest a gert vool",
+  "html_source": "<p>“I fear you are a great fool”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13972666/James-joyce-ulysses-chap-14-oxen-of-the-sun/I-vear-thee-beest-a-gert-vool",
+    "original_id": "13972666",
+    "referent_id": 13972666,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "I vear thee beest a gert vool",
+    "prefix": "to be believed. Your starving eyes and allbeplastered neck you stole my heart, O gluepot. Sir? Spud again the rheumatiz? All poppycock, you'll scuse me saying. For the hoi polloi. ",
+    "suffix": ". Well, doc? Back fro Lapland? Your corporosity sagaciating O K? How's the squaws and papooses? Womanbody after going on the straw? Stand and deliver. Password. There's hair. Ours ",
+    "start": 107595,
+    "end": 107624,
+    "canonical_text": "I vear thee beest a gert vool"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13972666,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

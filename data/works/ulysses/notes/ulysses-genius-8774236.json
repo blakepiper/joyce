@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8774236",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Paragoric",
+  "html_source": "<p>a camphorated tincture of opium, containing benzoic acid, anise oil, etc. Paregoric was a household remedy in the 18th and 19th centuries when it was widely used to control diarrhea in adults and children, as an expectorant and cough medicine, to calm fretful children, and to rub on the gums to counteract the pain from teething.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8774236/James-joyce-ulysses-chap-5-lotus-eaters/Paragoric",
+    "original_id": "8774236",
+    "referent_id": 8774236,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Paragoric",
+    "prefix": "t of pluck. Simples. Want to be careful. Enough stuff here to chloroform you. Test: turns blue litmus paper red. Chloroform. Overdose of laudanum. Sleeping draughts. Lovephiltres. ",
+    "suffix": " poppysyrup bad for cough. Clogs the pores or the phlegm. Poisons the only cures. Remedy where you least expect it. Clever of nature. \n\n — About a fortnight ago, sir? \n\n — Yes, Mr ",
+    "start": 31025,
+    "end": 31034,
+    "canonical_text": "Paragoric"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8774236,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15158116",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Tanderagee",
+  "html_source": "<p>Tanderagee is a village on the Cusher River in County Armagh, Northern Ireland. Humorously, it derives from the Irish Tóin re Gaoith, meaning “backside to the wind”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15158116/James-joyce-ulysses-chap-15-circe/Tanderagee",
+    "original_id": "15158116",
+    "referent_id": 15158116,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Tanderagee",
+    "prefix": "eencapped dark lantern and flashes it towards a corner: with carping accent.) Esthetics and cosmetics are for the boudoir. I am out for truth. 1922#479Plain truth for a plain man. ",
+    "suffix": " wants the facts and means to get them. \n\n(In the cone of the searchlight behind the coalscuttle, ollave, holyeyed, the bearded figure of Mananaun Maclir broods, chin on knees. He ",
+    "start": 113013,
+    "end": 113023,
+    "canonical_text": "Tanderagee"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15158116,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

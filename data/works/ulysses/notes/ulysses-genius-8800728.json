@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8800728",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Borris-in-Ossory",
+  "html_source": "<p>Borris-in-Ossory is a village in west County Laois, Ireland.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8800728/James-joyce-ulysses-chap-7-aeolus/Borris-in-ossory",
+    "original_id": "8800728",
+    "referent_id": 8800728,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Borris-in-Ossory",
+    "prefix": ". \n\n See it in your face. See it in your eye. Lazy idle little schemer. \n\n1932#120\n\n — Foot and mouth disease! the editor cried in scornful invective. Great nationalist meeting in ",
+    "suffix": ". All balls! Bulldosing the public! Give them something with a bite in it. Put us all into it, damn its soul. Father, Son and Holy Ghost and Jakes M'Carthy. \n\n — We can all supply ",
+    "start": 33883,
+    "end": 33899,
+    "canonical_text": "Borris-in-Ossory"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8800728,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

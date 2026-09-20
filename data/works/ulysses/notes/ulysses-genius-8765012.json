@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8765012",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Gunpowder cigarettes",
+  "html_source": "<p>Some brands of cigarettes contain Potassium Nitrate (saltpeter) which is a major component of black powder, as a catalyst for burning.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8765012/James-joyce-ulysses-chap-3-proteus/Gunpowder-cigarettes",
+    "original_id": "8765012",
+    "referent_id": 8765012,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "gunpowder cigarettes",
+    "prefix": "pastry, their mouths yellowed with the pus of flan breton. Faces of Paris men go by, their wellpleased pleasers, curled conquistadores. \n\n1922#42\n\n Noon slumbers. Kevin Egan rolls ",
+    "suffix": " through fingers smeared with printer's ink, sipping his green fairy as Patrice his white. About us gobblers fork spiced beans down their gullets. Un demi setier! A jet of coffee s",
+    "start": 13367,
+    "end": 13387,
+    "canonical_text": "gunpowder cigarettes"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8765012,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.9523809523809524
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.047619047619047616
+      }
+    ]
+  },
+  "color": "F59627"
+}

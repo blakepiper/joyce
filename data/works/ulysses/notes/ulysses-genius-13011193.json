@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13011193",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Kithogue",
+  "html_source": "<p>“Kithogue” is Hiberno-English for “left-handed” from the Irish ciotóg. The connotation here is “unlucky” or “strange” much like “sinister” (from the Latin “sinistra” meaning “left”). Compare this with the line below:</p><p>“A sinister figure leans on plaited legs against O'Beirnes wall…”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13011193/James-joyce-ulysses-chap-15-circe/Kithogue",
+    "original_id": "13011193",
+    "referent_id": 13011193,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Kithogue",
+    "prefix": "able. \n\n(A deafmute idiot with goggle eyes, his shapeless mouth dribbling, jerks past, shaken in Saint Vitus' dance. A chain of children's hands imprisons him.) \n\n THE CHILDREN \n\n ",
+    "suffix": "! Salute! \n\n THE IDIOT \n\n(Lifts a palsied left arm and gurgles.) Grhahute! \n\n THE CHILDREN \n\n Where's the great light? \n\n1922#408\n\n THE IDIOT \n\n(Gobbing.) Ghaghahest. \n\n(They relea",
+    "start": 839,
+    "end": 847,
+    "canonical_text": "Kithogue"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13011193,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 5436824,
+        "login": "cohomology",
+        "name": "cohomology",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

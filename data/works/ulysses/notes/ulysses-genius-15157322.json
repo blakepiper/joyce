@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15157322",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Vade Mecum",
+  "html_source": "<p>Latin: “Come with me”, referring to a guidebook.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15157322/James-joyce-ulysses-chap-15-circe/Vade-mecum",
+    "original_id": "15157322",
+    "referent_id": 15157322,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Vade Mecum",
+    "prefix": " Meals for 7/6 (culinic), Was Jesus a Sun Myth? (historic), Expel that Pain (medic), Infant's Compendium of the 1922#458Universe (cosmic), Let's All Chortle (hilaric), Canvasser's ",
+    "suffix": " (journalic), Loveletters of Mother Assistant (erotic), Who's Who in Space (astric), Songs that 1961#485Reached Our Heart (melodic), Pennywise's Way to Wealth (parsimonic). A gener",
+    "start": 79574,
+    "end": 79584,
+    "canonical_text": "Vade Mecum"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15157322,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

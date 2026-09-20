@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15119009",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Effendi",
+  "html_source": "<p><a href=\"http://en.wikipedia.org/wiki/Effendi\" rel=\"noopener nofollow\">A title of respect</a> equivalent to the English “Sir” used in the Ottoman and Byzantine Empire</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15119009/James-joyce-ulysses-chap-12-cyclops/Effendi",
+    "original_id": "15119009",
+    "referent_id": 15119009,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Effendi",
+    "prefix": "hjoker Leopold Rudolph von Schwanzenbad-Hodenthaler, Countess Marha Virága Kisászony Putrápesthi, Hiram Y. Bomboost, Count Athanatos Karamelopulos, Ali Baba Backsheesh Rahat Lokum ",
+    "suffix": ", Señor Hidalgo Caballero Don Pecadillo y Palabras y Paternoster de la Malora de la Malaria, Hokopoko Harakiri, Hi Hung Chang, Olaf Kobberkeddelsen, Mynheer Trik van Trumps, Pan Po",
+    "start": 35582,
+    "end": 35589,
+    "canonical_text": "Effendi"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15119009,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9036962",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Boys will be boys",
+  "html_source": "<p>This term came from a Latin proverb, translated as “Children [boys] are children [boys] and do childish things.” In English it was first recorded in 1589.<br />(idioms.thefreedictionary.com)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9036962/James-joyce-ulysses-chap-13-nausicaa/Boys-will-be-boys",
+    "original_id": "9036962",
+    "referent_id": 9036962,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Boys will be boys",
+    "prefix": "vable in the extreme. And Edy Boardman laughed too at the quaint language of little brother. \n\n But just then there was a slight altercation between Master Tommy and Master Jacky. ",
+    "suffix": " and our two twins were no exception to this golden rule. 1939#251The apple of discord was a certain castle of sand which Master Jacky had built and Master Tommy would have it righ",
+    "start": 2754,
+    "end": 2771,
+    "canonical_text": "Boys will be boys"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9036962,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

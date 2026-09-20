@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8586774",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Mind, Joe, says I. Show us the entrance out.",
+  "html_source": "<p>Is this a reference to the citizen, as blinded Polyphemus, trying to find his way out of the cave?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8586774/James-joyce-ulysses-chap-12-cyclops/Mind-joe-says-i-show-us-the-entrance-out",
+    "original_id": "8586774",
+    "referent_id": 8586774,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Mind, Joe, says I. Show us the entrance out.",
+    "prefix": "e him the tip. Bet you what you like he has a hundred shillings to five on. He's the only man in Dublin has it. A dark horse. \n\n — He's a bloody dark horse himself, says Joe. \n\n — ",
+    "suffix": " \n\n — There you are, says Terry. \n\n Goodbye Ireland I'm going to Gort. So I just went round the back of the yard to pumpship and begob (hundred shillings to five) while I was letti",
+    "start": 99770,
+    "end": 99814,
+    "canonical_text": "Mind, Joe, says I. Show us the entrance out."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8586774,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

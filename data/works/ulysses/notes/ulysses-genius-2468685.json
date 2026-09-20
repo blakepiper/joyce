@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2468685",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Harold’s Cross",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/c28wgnu638yglf4yz9y5sfx49.900x720x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2468685/James-joyce-ulysses-chap-7-aeolus/Harolds-cross",
+    "original_id": "2468685",
+    "referent_id": 2468685,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Harold's Cross",
+    "prefix": "lley, started for Blackrock, Kingstown and Dalkey, Clonskea, Rathgar and Terenure, Palmerston Park and upper Rathmines, Sandymount Green, Rathmines, Ringsend and Sandymount Tower, ",
+    "suffix": ". The hoarse Dublin United Tramway Company's timekeeper bawled them off: \n\n — Rathgar and Terenure! \n\n — Come on, Sandymount Green! \n\n Right and left parallel clanging ringing a do",
+    "start": 289,
+    "end": 303,
+    "canonical_text": "Harold's Cross"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2468685,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

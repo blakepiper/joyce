@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4162022",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "All’erta",
+  "html_source": "<p>Italian for “be alert”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4162022/James-joyce-ulysses-chap-3-proteus/Allerta",
+    "original_id": "4162022",
+    "referent_id": 4162022,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "All'erta",
+    "prefix": "ite of something? None of your damned lawdeedaw airs here. The rich of a rasher fried with a herring? Sure? So much the better. We have nothing in the house but backache pills. \n\n ",
+    "suffix": "! \n\n He drones bars of Ferrando's aria di sortita. The grandest number, Stephen, in the whole opera. Listen. \n\n1922#39\n\n His tuneful whistle sounds again, finely shaded, with rushe",
+    "start": 5887,
+    "end": 5895,
+    "canonical_text": "All'erta"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4162022,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1209714,
+        "login": "AlexBeston",
+        "name": "AlexBeston",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

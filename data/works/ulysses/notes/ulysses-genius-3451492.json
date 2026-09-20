@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3451492",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Socrates",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/7527c4a9f4cd046445dd48b809242ac9.185x269x1.jpg\" alt=\"\" /></p><p>A reference to</p><p> <a href=\"http://lit.genius.com/William-shakespeare-taming-of-the-shrew-act-1-scene-2-annotated\" rel=\"noopener nofollow\">http://lit.genius.com/William-shakespeare-taming-of-the-shrew-act-1-scene-2-annotated</a></p><p>The act is referred to again by Stephen in four paragraphs time.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3451492/James-joyce-ulysses-chap-9-scylla-and-charybdis/Socrates",
+    "original_id": "3451492",
+    "referent_id": 3451492,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Socrates",
+    "prefix": "ibrarian, softcreakfooted, bald, eared and assiduous. \n\n — A shrew, John Eglinton said shrewdly, is not a useful portal of discovery, one should imagine. What useful discovery did ",
+    "suffix": " learn from Xanthippe? \n\n1922#182\n\n — Dialectic, Stephen answered: and from his mother how to bring thoughts into the world. What he learnt from his other wife Myrto (absit nomen!)",
+    "start": 12942,
+    "end": 12950,
+    "canonical_text": "Socrates"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9517
+  },
+  "genius": {
+    "referent_id": 3451492,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

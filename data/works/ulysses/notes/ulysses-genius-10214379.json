@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10214379",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Nixie",
+  "html_source": "<blockquote><p>Nix, also called nixie, or nixy, in Germanic mythology, a water being, half human, half fish, that lives in a beautiful underwater palace and mingles with humans by assuming a variety of physical forms (e.g., that of a fair maiden or an old woman) or by making itself invisible.</p></blockquote><p><a href=\"https://www.britannica.com/topic/nix-German-mythology\" rel=\"noopener nofollow\">https://www.britannica.com/topic/nix-German-mythology</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10214379/James-joyce-ulysses-chap-15-circe/Nixie",
+    "original_id": "10214379",
+    "referent_id": 10214379,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "nixie",
+    "prefix": ", twirling it slowly, showing the brown tufts of her armpits. Lynch with his poker lifts boldly a side of her slip. Bare from her garters up her flesh appears under the sapphire a ",
+    "suffix": "'s green. She puffs calmly at her cigarette.) Can you see the beautyspot of my behind? \n\n1986#4161922#480\n\n LYNCH \n\n I'm not looking. \n\n ZOE \n\n(Makes sheep's eyes.) No? You wouldn'",
+    "start": 114699,
+    "end": 114704,
+    "canonical_text": "nixie"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10214379,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

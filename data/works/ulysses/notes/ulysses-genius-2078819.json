@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2078819",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Rest should reign.",
+  "html_source": "<p>This ends the Elizabethan prose section that began with “About that present time.”</p><p><img src=\"https://images.genius.com/f2cef08d2f9a7dd34b9718486920866d.719x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2078819/James-joyce-ulysses-chap-14-oxen-of-the-sun/Rest-should-reign",
+    "original_id": "2078819",
+    "referent_id": 2078819,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "rest should reign.",
+    "prefix": "sir Leopold that had for his cognisance the flower of quiet, margerain gentle, advising also the time's occasion as most sacred and most worthy to be most sacred. In Horne's house ",
+    "suffix": " \n\n To be short this passage was scarce by when Master Dixon of Mary in Eccles, goodly grinning, asked young Stephen what was the reason why he had not cided to take friar's vows a",
+    "start": 23646,
+    "end": 23664,
+    "canonical_text": "rest should reign."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2078819,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

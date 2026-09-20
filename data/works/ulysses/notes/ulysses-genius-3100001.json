@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3100001",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Omophorion",
+  "html_source": "<p><a href=\"http://www.britannica.com/EBchecked/topic/428436/omophorion\" rel=\"noopener nofollow\">“Omophorion”</a> is the Greek word for a cape-like garment worn by the bishop of the orthodox church on his shoulders (omos=shoulder, phero=bear, therefore omophorion=borne on the shoulders).</p><p>It is usually made of sheep’s wool in reference to the parable of the good shepherd that held the sheep on his shoulders to save it. It ties in with the “mitre” and “crozier” mentioned in the same sentence which are also parts of the bishop’s attire.</p><p><img src=\"https://images.rapgenius.com/b0e5899ed830d28d9f7cb5acd73a59fb.400x750x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3100001/James-joyce-ulysses-chap-3-proteus/Omophorion",
+    "original_id": "3100001",
+    "referent_id": 3100001,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "omophorion",
+    "prefix": "lstarred heresiarch. In a Greek watercloset he breathed his last: euthanasia. With beaded mitre and with crozier, stalled upon his throne, widower of a widowed see, with upstiffed ",
+    "suffix": ", with clotted hinderparts. \n\n Airs romped round him, nipping and eager airs. They are coming, waves. The whitemaned seahorses, champing, brightwindbridled, the steeds of Mananaan.",
+    "start": 3499,
+    "end": 3509,
+    "canonical_text": "omophorion"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3100001,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 170881,
+        "login": "Abraxas01",
+        "name": "Abraxas01",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-4632962",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "A buck’s castoffs",
+  "html_source": "<p>Stephen appears to be thinking that his boots are Buck Mulligan’s castoffs or hand me downs.</p><p>PROPOSED SUGGESTION: Irish slang:  Rhyming slang for “f—” – some “f—’s castoffs,” … But you were delighted when Esther Osvalt’s shoe went on you\" – distinguishing betwixt a beauty and some unknown “buck”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4632962/James-joyce-ulysses-chap-3-proteus/A-bucks-castoffs",
+    "original_id": "4632962",
+    "referent_id": 4632962,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "a buck's castoffs",
+    "prefix": "ants, milkoozing fruits, where on the tawny waters leaves lie wide. Pain is far. \n\n1922#48\n\n And no more turn aside and brood. \n\n1939#38\n\n His gaze brooded on his broadtoed boots, ",
+    "suffix": ", nebeneinander. He counted the creases of rucked leather wherein another's foot had nested warm. The foot that beat the ground in tripudium, foot I dislove. But you were delighted",
+    "start": 29017,
+    "end": 29034,
+    "canonical_text": "a buck's castoffs"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4632962,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3400324,
+        "login": "nell-volare",
+        "name": "nell-volare",
+        "role": null,
+        "attribution": 0.6538461538461539
+      },
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.3076923076923077
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.038461538461538464
+      }
+    ]
+  },
+  "color": "F59627"
+}

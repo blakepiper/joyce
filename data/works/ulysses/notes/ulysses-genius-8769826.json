@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8769826",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "It’s a law something like that.",
+  "html_source": "<p>Archimedes Principle, physical law of buoyancy, stating that any body completely or partially submerged in a fluid (gas or liquid) at rest is acted upon by an upward, or buoyant, force the magnitude of which is equal to the weight of the fluid displaced by the body. The volume of displaced fluid is equivalent to the volume of an object fully immersed in a fluid or to that fraction of the volume below the surface for an object partially submerged in a liquid. The weight of the displaced portion of the fluid is equivalent to the magnitude of the buoyant force- a good example of Bloom’s pragmatic thinking.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8769826/James-joyce-ulysses-chap-5-lotus-eaters/Its-a-law-something-like-that",
+    "original_id": "8769826",
+    "referent_id": 8769826,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "It's a law something like that.",
+    "prefix": "so thick with salt. Because the weight of the water, no, the weight of the body in the water is equal to the weight of the what? Or is it the 1939#55volume is equal to the weight? ",
+    "suffix": " Vance in High school cracking his fingerjoints, teaching. The college curriculum. Cracking curriculum. What is weight really when you say the weight? Thirtytwo feet per second per",
+    "start": 2999,
+    "end": 3030,
+    "canonical_text": "It's a law something like that."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8769826,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.9259259259259259
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.07407407407407407
+      }
+    ]
+  },
+  "color": "F59627"
+}

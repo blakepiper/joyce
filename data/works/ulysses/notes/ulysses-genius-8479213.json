@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8479213",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Silken Thomas",
+  "html_source": "<p>Thomas Fitzgerald, 10th Earl of Kildare. In February 1534, 21-year-old Thomas was appointed Deputy Governor of Ireland. On June 11, accompanied by 140 mounted elite warriors wearing silk-fringed helmets rode to the St Mary’s Abbey and publicly renounced his allegiance to his cousin King Henry VIII.</p><p><img src=\"https://images.rapgenius.com/5fef69da787d9b96c4dc7552aaa11f18.1000x739x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8479213/James-joyce-ulysses-chap-10-wandering-rocks/Silken-thomas",
+    "original_id": "8479213",
+    "referent_id": 8479213,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "silken Thomas",
+    "prefix": "em. \n\n — How interesting! a refined accent said in the gloom. \n\n — Yes, sir, Ned Lambert said heartily. We are standing in the historic council chamber of saint Mary's abbey where ",
+    "suffix": " proclaimed himself a rebel in 1534. This is the most historic spot in all Dublin. O'Madden Burke is going to write something about it one of these days. The old bank of Ireland wa",
+    "start": 23278,
+    "end": 23291,
+    "canonical_text": "silken Thomas"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8479213,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

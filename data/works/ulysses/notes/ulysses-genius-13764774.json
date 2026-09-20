@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13764774",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Fordo",
+  "html_source": "<p>archaic : to do away with : destroy</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13764774/James-joyce-ulysses-chap-14-oxen-of-the-sun/Fordo",
+    "original_id": "13764774",
+    "referent_id": 13764774,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "fordo",
+    "prefix": " eft rising with swire ywimpled to him her gate wide undid. Lo, levin leaping lightens in eyeblink Ireland's westward welkin. Full she dread that God the Wreaker all mankind would ",
+    "suffix": " with water for his evil sins. Christ's rood made she on breastbone and him drew that he would rathe infare under her thatch. That man her will wotting worthful went in Horne's hou",
+    "start": 5719,
+    "end": 5724,
+    "canonical_text": "fordo"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13764774,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

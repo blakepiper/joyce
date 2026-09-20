@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4687179",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "She’s three days bad now",
+  "html_source": "<p>Three days in labor. [Gifford]</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4687179/James-joyce-ulysses-chap-8-lestrygonians/Shes-three-days-bad-now",
+    "original_id": "4687179",
+    "referent_id": 4687179,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "She's three days bad now",
+    "prefix": "chain? Yes. The last act. \n\n1932#140\n\n — Yes. \n\n — I just called to ask on the way in is she over it. She's in 1961#158the lying-in hospital in Holles street. Dr Horne got her in. ",
+    "suffix": ". \n\n — O, Mr Bloom said. I'm sorry to hear that. \n\n1939#116\n\n — Yes, Mrs Breen said. And a houseful of kids at home. It's a very stiff birth, the nurse told me. \n\n — O, Mr Bloom sa",
+    "start": 17404,
+    "end": 17428,
+    "canonical_text": "She's three days bad now"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4687179,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

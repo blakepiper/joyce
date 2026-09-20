@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10850744",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Meteoric showers",
+  "html_source": "<p>The Perseid meteor shower happens every August.</p><p><a href=\"http://www.space.com/23066-perseids.html\" rel=\"noopener nofollow\">http://www.space.com/23066-perseids.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10850744/James-joyce-ulysses-chap-17-ithaca/Meteoric-showers",
+    "original_id": "10850744",
+    "referent_id": 10850744,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "meteoric showers",
+    "prefix": " from perihelion to aphelion: the sidereal origin of meteoric stones: the Libyan floods on Mars about the period of the birth of the younger astroscopist: the annual recurrence of ",
+    "suffix": " about the period of the feast of S. Lawrence (martyr, 10 August): the monthly recurrence known as the new moon with the old moon in her arms: the posited influence of celestial on",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.8125
+  },
+  "genius": {
+    "referent_id": 10850744,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

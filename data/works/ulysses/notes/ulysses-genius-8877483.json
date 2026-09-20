@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8877483",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Viceregal lodge",
+  "html_source": "<p>VICE-REGAL LODGE, PHOENIX PARK.—This large but rather plain and unpretentious edifice is the summer residence of the Lord-Lieutenant of Ireland.</p><p><img src=\"https://images.rapgenius.com/eac9747c2e19a0e9f42498ef4bc514a6.1000x733x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8877483/James-joyce-ulysses-chap-10-wandering-rocks/Viceregal-lodge",
+    "original_id": "8877483",
+    "referent_id": 8877483,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "viceregal lodge",
+    "prefix": "sion to Father Conroy on Saturday night. \n\n*\n*  *\n\n William Humble, earl of Dudley, and lady Dudley, accompanied by lieutenantcolonel Hesseltine, drove out after luncheon from the ",
+    "suffix": ". In the following carriage were the honourable Mrs Paget, Miss de Courcy and the honourable Gerald Ward A.D.C. in attendance. \n\n The cavalcade passed out by the lower gate of Phoe",
+    "start": 67982,
+    "end": 67997,
+    "canonical_text": "viceregal lodge"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8877483,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

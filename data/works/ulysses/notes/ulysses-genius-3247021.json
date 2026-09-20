@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3247021",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Co-ome thou lost one,\n Co-ome thou dear one!",
+  "html_source": "<p>A tenor solo : [M'appari] (<a href=\"http://www.james-joyce-music.com/song12_discussion.html\" rel=\"noopener nofollow\">http://www.james-joyce-music.com/song12_discussion.html</a>)   from the opera <em>Martha</em>.</p><p><a href=\"http://www.youtube.com/watch?v=yfQWjLVB4V8\" rel=\"noopener nofollow\">Pavorotti</a> !</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3247021/James-joyce-ulysses-chap-7-aeolus/Co-ome-thou-lost-one-co-ome-thou-dear-one",
+    "original_id": "3247021",
+    "referent_id": 3247021,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Co-ome thou lost one,\n Co-ome thou dear one!",
+    "prefix": "said. \n\n — Yes, Red Murray agreed. But Mario was said to be the picture of Our Saviour. \n\n Jesus Mario with rougy cheeks, doublet and spindle legs. Hand on his heart. In Martha. \n\n",
+    "suffix": " \n\n1922#1131961#117\n\n THE CROZIER AND THE PEN \n\n — His grace phoned down twice this morning, Red Murray said gravely. \n\n1932#105\n\n They watched the knees, legs, boots vanish. Neck.",
+    "start": 3176,
+    "end": 3219,
+    "canonical_text": "Co-ome thou lost one, \nCo-ome thou dear one"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 3247021,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33269966",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Thereat",
+  "html_source": "<p>All, except Stephen and Leopold laughed at the jolly banter.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33269966/James-joyce-ulysses-chap-14-oxen-of-the-sun/Thereat",
+    "original_id": "33269966",
+    "referent_id": 33269966,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Thereat",
+    "prefix": " forward with their jibes wherewith they did malice him, witnessing all and several by saint Foutinus his engines that he was able to do any manner of thing that lay in man to do. ",
+    "suffix": " laughed they all right jocundly only young Stephen and sir Leopold which never durst laugh too open by reason of a strange humour which he would not bewray and also for that he ru",
+    "start": 16783,
+    "end": 16790,
+    "canonical_text": "Thereat"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 33269966,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

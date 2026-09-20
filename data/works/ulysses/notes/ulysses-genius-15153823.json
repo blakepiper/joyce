@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15153823",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Doady",
+  "html_source": "<p>Since this section is a Dickens send-up, this almost certainly refers to the petname Dora Copperfield calls her husband David; Doady -&gt; Daddy is important too.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15153823/James-joyce-ulysses-chap-14-oxen-of-the-sun/Doady",
+    "original_id": "15153823",
+    "referent_id": 15153823,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Doady",
+    "prefix": ", breathing a silent prayer of thanksgiving to One above, the Universal Husband. And as her loving eyes behold her babe she wishes only one blessing more, to have her dear 1961#420",
+    "suffix": " there with her to share her joy, to lay in 1932#380his arms that mite of God's clay, the fruit of their lawful embraces. He is older now (you and I may whisper it) and a trifle st",
+    "start": 95910,
+    "end": 95915,
+    "canonical_text": "Doady"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9408
+  },
+  "genius": {
+    "referent_id": 15153823,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

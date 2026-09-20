@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8433831",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Milesian",
+  "html_source": "<p>In the Lebor Gabála Érenn, a medieval Irish Christian pseudo-history, the Milesians are the final race to settle in Ireland. They represent the Irish people.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8433831/James-joyce-ulysses-chap-14-oxen-of-the-sun/Milesian",
+    "original_id": "8433831",
+    "referent_id": 8433831,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Milesian",
+    "prefix": " wax fat and kick like Jeshurum. Therefore hast thou sinned against the light and hast made me, thy lord, to be the slave of servants. Return, return, Clan Milly: forget me not, O ",
+    "suffix": ". Why hast thou done this abomination before me that thou didst spurn me for a merchant of jalaps and didst deny me to the Roman and the Indian of dark speech with whom thy daughte",
+    "start": 26496,
+    "end": 26504,
+    "canonical_text": "Milesian"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8433831,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

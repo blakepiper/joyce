@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8814793",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Consumptive",
+  "html_source": "<p>(a ​person) ​suffering from ​consumption [tuberculosis]</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8814793/James-joyce-ulysses-chap-8-lestrygonians/Consumptive",
+    "original_id": "8814793",
+    "referent_id": 8814793,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "consumptive",
+    "prefix": "hat. Life with hard labour. Twilight sleep idea: queen Victoria was given that. Nine she had. A good layer. Old woman that lived in a shoe she had so many children. Suppose he was ",
+    "suffix": ". Time someone thought about it instead of gassing about the what was it the pensive bosom of the silver effulgence. Flapdoodle to feed fools on. They could easily have big establi",
+    "start": 23574,
+    "end": 23585,
+    "canonical_text": "consumptive"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8814793,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15129799",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Cromlechs",
+  "html_source": "<p>A cromlech is a Welsh megalithic tomb (now commonly known as a dolmen) consisting of upright vertical stones with horizontal stones laid on top. Cromlechs/dolmens are not circular like stonehenge (cf. cromlêh).</p><p><img src=\"https://images.genius.com/f4e88eeaad75f2d2444811ab4c2aa175.1000x514x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15129799/James-joyce-ulysses-chap-12-cyclops/Cromlechs",
+    "original_id": "15129799",
+    "referent_id": 15129799,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "cromlechs",
+    "prefix": "the British article, be it said in passing), a Kerry calf and a golden eagle from Carrantuohill. The scenes depicted on the emunctory field, showing our ancient duns and raths and ",
+    "suffix": " and grianauns and seats of learning and maledictive stones, are as wonderfully beautiful and the pigments as delicate as when the Sligo illuminators gave free rein to their artist",
+    "start": 92558,
+    "end": 92567,
+    "canonical_text": "cromlechs"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15129799,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

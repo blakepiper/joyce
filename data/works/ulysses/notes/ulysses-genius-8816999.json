@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8816999",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Chewing the cud",
+  "html_source": "Definition of cud   food brought up into the mouth by a ruminating animal from its first stomach to be chewed again",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8816999/James-joyce-ulysses-chap-8-lestrygonians/Chewing-the-cud",
+    "original_id": "8816999",
+    "referent_id": 8816999,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "chewing the cud",
+    "prefix": "r, men's beery piss, the stale of ferment. \n\n Couldn't eat a morsel here. Fellow sharpening knife and fork to eat all before him, old chap picking his tootles. Slight spasm, full, ",
+    "suffix": ". Before and after. Grace after meals. Look on this picture then on that. Scoffing up stewgravy with sopping sippets of bread. Lick it off the plate, man! Get out of this. \n\n He ga",
+    "start": 42358,
+    "end": 42373,
+    "canonical_text": "chewing the cud"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8816999,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-7926852",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Artane",
+  "html_source": "<p>St. Josephs Industrial School, Artane was an industrial school run by the Christian Brothers in Artane, Dublin from 1870 to 1969.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7926852/James-joyce-ulysses-chap-6-hades/Artane",
+    "original_id": "7926852",
+    "referent_id": 7926852,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Artane",
+    "prefix": "s mausoleum. Speaking. \n\n — Was he insured? Mr Bloom asked. \n\n — I believe so, Mr Kernan answered. But the policy was heavily mortgaged. Martin is trying to get the youngster into ",
+    "suffix": ". \n\n — How many children did he leave? \n\n1961#101\n\n — Five. Ned Lambert says he'll try to get one of the girls into Todd's. \n\n — A sad case, Mr Bloom said gently. Five young childr",
+    "start": 31686,
+    "end": 31692,
+    "canonical_text": "Artane"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 7926852,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2319682,
+        "login": "PrincePhil",
+        "name": "PrincePhil",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

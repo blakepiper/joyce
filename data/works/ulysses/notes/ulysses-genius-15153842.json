@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15153842",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Timbrel",
+  "html_source": "<p>A <a href=\"https://en.wiktionary.org/wiki/timbrel\" rel=\"noopener nofollow\">timbrel</a> is tambourine or similar instrument, though this hardly seems the thing to soothe the senses amid the cool silver tranquility of the evening! Interesting term related to “timbre”.</p><p><img src=\"https://images.genius.com/70ae6b987240a379ef15ff358ed84a29.600x390x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15153842/James-joyce-ulysses-chap-14-oxen-of-the-sun/Timbrel",
+    "original_id": "15153842",
+    "referent_id": 15153842,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "timbrel",
+    "prefix": " or at least were otherwise. Yet a chance word will call them forth suddenly and they will rise up to confront him in the most various circumstances, a vision or a dream, or while ",
+    "suffix": " and harp soothe his senses or amid the cool silver tranquility of the evening or at the feast, at midnight, when he is now filled with wine. Not to insult over him will the vision",
+    "start": 98105,
+    "end": 98112,
+    "canonical_text": "timbrel"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15153842,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

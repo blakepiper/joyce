@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11115202",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Griffith",
+  "html_source": "<p><a href=\"https://www.britannica.com/biography/Arthur-Griffith\" rel=\"noopener nofollow\">https://www.britannica.com/biography/Arthur-Griffith</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11115202/James-joyce-ulysses-chap-18-penelope/Griffith",
+    "original_id": "11115202",
+    "referent_id": 11115202,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Griffith",
+    "prefix": "m Sinner Fein lately or whatever they call themselves talking his usual trash and nonsense he says that little man he showed me without the neck is very intelligent the coming man ",
+    "suffix": " is he well he doesnt look it thats all I can say still it must have been him he knew there was a boycott I hate the mention of their politics after the war that Pretoria and Ladys",
+    "start": 28724,
+    "end": 28732,
+    "canonical_text": "Griffith"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11115202,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

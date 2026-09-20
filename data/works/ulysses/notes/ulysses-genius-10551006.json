@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10551006",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Lochlanns",
+  "html_source": "<p>Gaelic for “Land of the lochs” i.e. Fjords of Norway.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10551006/James-joyce-ulysses-chap-3-proteus/Lochlanns",
+    "original_id": "10551006",
+    "referent_id": 10551006,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Lochlanns",
+    "prefix": " the crested tide, figures, two. The two maries. They have tucked it safe among the bulrushes. Peekaboo. I see you. No, the dog. He is running back to them. Who? \n\n Galleys of the ",
+    "suffix": " ran here to beach, in quest of prey, their bloodbeaked prows riding low on a molten pewter surf. Dane vikings, torcs 1986#37of tomahawks aglitter on their breasts when Malachi wor",
+    "start": 19100,
+    "end": 19109,
+    "canonical_text": "Lochlanns"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10551006,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

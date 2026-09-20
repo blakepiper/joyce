@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1857935",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Nice name he has.",
+  "html_source": "<p>Typical of Molly’s uninhibited sexuality.</p><p><img src=\"https://images.genius.com/947a2c0e8fcc3b602b34451d4995655a.510x510x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1857935/James-joyce-ulysses-chap-4-calypso/Nice-name-he-has",
+    "original_id": "1857935",
+    "referent_id": 1857935,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Nice name he has.",
+    "prefix": "— Yes, she said. There's nothing smutty in it. Is she in love with the first fellow all the time? \n\n — Never read it. Do you want another? \n\n — Yes. Get another of Paul de Kock's. ",
+    "suffix": " \n\n She poured more tea into her cup, watching it flow sideways. \n\n Must get that Capel street library book renewed or they'll1961#64 write to Kearney, my guarantor. Reincarnation:",
+    "start": 21956,
+    "end": 21973,
+    "canonical_text": "Nice name he has."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1857935,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 211351,
+        "login": "prepski",
+        "name": "prepski",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

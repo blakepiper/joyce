@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2607212",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "As it was in the beginning, is now.",
+  "html_source": "<p>This refers to the <a href=\"http://en.wikipedia.org/wiki/Gloria_Patri\" rel=\"noopener nofollow\">Gloria Patri</a>:</p><blockquote><p>Glory be to the Father, and to the Son :<br />and to the Holy Ghost;<br />As it was in the beginning, is now, and ever shall be :<br />world without end. Amen.</p></blockquote>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2607212/James-joyce-ulysses-chap-2-nestor/As-it-was-in-the-beginning-is-now",
+    "original_id": "2607212",
+    "referent_id": 2607212,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "As it was in the beginning, is now.",
+    "prefix": "leaching the honey of his illdyed head. \n\n Stale smoky air hung in the study with the smell of drab abraded leather of its chairs. As on the first day he bargained with me here. \n\n",
+    "suffix": " On the sideboard the tray of Stuart coins, base treasure of a bog: and ever shall be. And snug in their spooncase of purple plush, faded, the twelve apostles having preached to al",
+    "start": 10986,
+    "end": 11021,
+    "canonical_text": "As it was in the beginning, is now."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2607212,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 293151,
+        "login": "jeeho",
+        "name": "Jeeho",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3250950",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "And that old grey rat tearing to get in",
+  "html_source": "<p><a href=\"https://genius.com/4662727\" rel=\"noopener nofollow\">Memory of the rat scratching its way into Dignam’s grave.</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3250950/James-joyce-ulysses-chap-7-aeolus/And-that-old-grey-rat-tearing-to-get-in",
+    "original_id": "3250950",
+    "referent_id": 3250950,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "And that old grey rat tearing to get in",
+    "prefix": "mash a man to 1939#89atoms if they got him caught. Rule the world today. His machineries are pegging away too. Like these, got out of hand: fermenting. Working away, tearing away. ",
+    "suffix": ". \n\n HOW A GREAT DAILY ORGAN IS TURNED OUT \n\n Mr Bloom halted behind the foreman's spare body, admiring a glossy crown. \n\n Strange he never saw his real country. Ireland my country",
+    "start": 4411,
+    "end": 4450,
+    "canonical_text": "And that old grey rat tearing to get in"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3250950,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

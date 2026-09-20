@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10245780",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Ursuline manual",
+  "html_source": "<p><a href=\"https://archive.org/details/ursulinemanualo00powegoog\" rel=\"noopener nofollow\">https://archive.org/details/ursulinemanualo00powegoog</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10245780/James-joyce-ulysses-chap-15-circe/Ursuline-manual",
+    "original_id": "10245780",
+    "referent_id": 10245780,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Ursuline manual",
+    "prefix": " night you jumped into the train at Dalkey with Paddy Lee? Who had pity for you when you were sad among the strangers? Prayer is allpowerful. Prayer for the suffering souls in the ",
+    "suffix": " and forty days' indulgence. Repent, Stephen. \n\n STEPHEN \n\n The ghoul! Hyena! \n\n THE MOTHER \n\n I pray for you in my other world. Get Dilly to make you that boiled rice every night ",
+    "start": 205616,
+    "end": 205631,
+    "canonical_text": "Ursuline manual"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10245780,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

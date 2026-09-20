@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13971794",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Drunken minister",
+  "html_source": "<p>It’s Stephen.</p><p>“Minister” because Stephen is dressed in black and his “Latin quarter hat” (3.174), his “Hamlet hat” (3.390), looks like that of a protestant clergyman.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13971794/James-joyce-ulysses-chap-14-oxen-of-the-sun/Drunken-minister",
+    "original_id": "13971794",
+    "referent_id": 13971794,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "drunken minister",
+    "prefix": "oots in the fambly? Where the Henry Nevil's sawbones and ole clo? Sorra one o' me knows. Hurrah there, Dix! Forward the ribbon counter. Where's Punch? All serene. Jay, look at the ",
+    "suffix": " coming out of the maternity hospal! Benedicat vos omnipotens Deus, Pater et Filius. A make, mister. The Denzille lane boys. Hell, blast ye! Scoot. Righto, Isaacs, shove em out of ",
+    "start": 104933,
+    "end": 104949,
+    "canonical_text": "drunken minister"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13971794,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

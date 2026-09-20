@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11157364",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "My Ladys Bower",
+  "html_source": "<p><a href=\"https://www.youtube.com/watch?v=eMyCdkCYOjY\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=eMyCdkCYOjY</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11157364/James-joyce-ulysses-chap-18-penelope/My-ladys-bower",
+    "original_id": "11157364",
+    "referent_id": 11157364,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "My Ladys Bower",
+    "prefix": "t 4 or 5 times locked in each others arms or the voice either I could have been a prima donna only I married him comes looooves old deep down chin back not too much make it double ",
+    "suffix": " is too long for an encore about the moated grange at twilight and vaunted rooms yes Ill sing Winds that blow from the south that he gave after the choirstairs performance Ill chan",
+    "start": 66554,
+    "end": 66568,
+    "canonical_text": "My Ladys Bower"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11157364,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

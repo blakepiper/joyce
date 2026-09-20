@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4661764",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Russell",
+  "html_source": "<p>We presume it’s AE who we meet in the National Library when Stephen takes on the literary establishment with his take on Hamlet.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4661764/James-joyce-ulysses-chap-2-nestor/Russell",
+    "original_id": "4661764",
+    "referent_id": 4661764,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "Russell",
+    "prefix": "ou? \n\n1961#30\n\n Mulligan, nine pounds, three pairs of socks, one pair brogues, ties. Curran, ten guineas. McCann, one guinea. Fred Ryan, two shillings. 1986#25Temple, two lunches. ",
+    "suffix": ", one guinea, Cousins, ten shillings, Bob Reynolds, half a guinea, Koehler, three guineas, Mrs MacKernan, five weeks' board. The lump I have is useless. \n\n — For the moment, no, St",
+    "start": 14357,
+    "end": 14364,
+    "canonical_text": "Russell"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4661764,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

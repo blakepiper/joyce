@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8493595",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "How to win a woman’s love",
+  "html_source": "<p>“Formula to win a particular woman’s<br />Love surely and permanently.” One of the charms contained in the book.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8493595/James-joyce-ulysses-chap-10-wandering-rocks/How-to-win-a-womans-love",
+    "original_id": "8493595",
+    "referent_id": 8493595,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "How to win a woman's love",
+    "prefix": " book of Moses. Secret of all secrets. Seal of King David. Thumbed pages: read and read. Who has passed here before me? How to soften chapped hands. Recipe for white wine vinegar. ",
+    "suffix": ". For me this. Say the following talisman three times with hands folded: \n\n — Se el yilo nebrakada femininum! Amor me solo! Sanktus! Amen. \n\n1939#1771961#242\n\n Who wrote this? Char",
+    "start": 48990,
+    "end": 49015,
+    "canonical_text": "How to win a woman's love"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8493595,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

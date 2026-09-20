@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8978757",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Report",
+  "html_source": "<p>The Casement Report was a document of 1904 written by the Irish diplomat Roger Casement (1864–1916), detailing abuses in the Congo Free State which was under the private ownership of King Leopold II of Belgium. This report was instrumental in Leopold finally relinquishing his private holdings in Africa.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8978757/James-joyce-ulysses-chap-12-cyclops/Report",
+    "original_id": "8978757",
+    "referent_id": 8978757,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "report",
+    "prefix": " it's worked, says the citizen. Trade follows the flag. \n\n — Well, says J. J., if they're any worse than those Belgians in the Congo Free State they must be bad. Did you read that ",
+    "suffix": " by a man what's this his name is? \n\n — Casement, says the citizen. He's an Irishman. \n\n — Yes, that's the man, says J. J. Raping the women and girls and flogging the natives on th",
+    "start": 98882,
+    "end": 98888,
+    "canonical_text": "report"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 8978757,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

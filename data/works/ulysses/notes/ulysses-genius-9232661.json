@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9232661",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Balked me this morning",
+  "html_source": "<p>In chapter 5, Bloom hoped to see the legs of a high class woman getting into a carriage across the street but was frustrated when a horse tram blocked his view.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9232661/James-joyce-ulysses-chap-15-circe/Balked-me-this-morning",
+    "original_id": "9232661",
+    "referent_id": 9232661,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "balked me this morning",
+    "prefix": "eeled off my shoe at Leonard's corner. Third time is the charm. Shoe 1961#435trick. Insolent driver. I ought to report him. Tension makes them nervous. Might 1922#414be the fellow ",
+    "suffix": " with that horsey woman. Same style of beauty. Quick of him all the same. The stiff walk. True word spoken in jest. That awful cramp in Lad lane. Something poisonous I ate. Emblem ",
+    "start": 9833,
+    "end": 9855,
+    "canonical_text": "balked me this morning"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9232661,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8489424",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "The viceregal cavalcade",
+  "html_source": "<p>An intrusion taking us to Episode 19 below.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8489424/James-joyce-ulysses-chap-10-wandering-rocks/The-viceregal-cavalcade",
+    "original_id": "8489424",
+    "referent_id": 8489424,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "The viceregal cavalcade",
+    "prefix": "anding her two pennies. Get a 1961#238glass of milk for yourself and a bun or a something. I'll be home shortly. \n\n He put the other coins in his pocket and started to walk on. \n\n ",
+    "suffix": " passed, greeted by obsequious policemen, out of Parkgate. \n\n — I'm sure you have another shilling, Dilly said. \n\n The lacquey banged loudly. \n\n1932#214\n\n Mr Dedalus amid the din w",
+    "start": 40478,
+    "end": 40501,
+    "canonical_text": "The viceregal cavalcade"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8489424,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

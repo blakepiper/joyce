@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10579873",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Esprit de corps",
+  "html_source": "<p>Spirit of association (French). Means team spirit. However in this case may also mean feeling of the female body.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10579873/James-joyce-ulysses-chap-5-lotus-eaters/Esprit-de-corps",
+    "original_id": "10579873",
+    "referent_id": 10579873,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "esprit de corps",
+    "prefix": "it. Paradise and the peri. Always happening like that. The very moment. Girl in 1932#65Eustace street hallway Monday was it settling her garter. Her friend covering the display of ",
+    "suffix": ". Well, what are you gaping at? \n\n — Yes, yes, Mr Bloom said after a dull sigh. Another gone. \n\n — One of the best, M'Coy said. \n\n The tram passed. They drove off towards the Loop ",
+    "start": 8607,
+    "end": 8622,
+    "canonical_text": "esprit de corps"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10579873,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

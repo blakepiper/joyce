@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8231650",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Lo, the early beam of morning",
+  "html_source": "<p>‘Lo, the early beam of morning’ quartetto from Act I of M.W. Balfe’s opera <em>The Siege of Rochelle</em> (1835)</p><p>(<a href=\"http://catalogue.nli.ie/Record/vtls000206696\" rel=\"noopener nofollow\">http://catalogue.nli.ie/Record/vtls000206696</a>)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8231650/James-joyce-ulysses-chap-10-wandering-rocks/Lo-the-early-beam-of-morning",
+    "original_id": "8231650",
+    "referent_id": 8231650,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Lo, the early beam of morning",
+    "prefix": "'s night on the 1986#192Featherbed Mountain. Bloom and Chris Callinan were on one side of the car and I was with the wife on the other. We started singing glees 1932#210and duets: ",
+    "suffix": ". She was well primed with a good load of Delahunt's port under her bellyband. Every jolt the bloody car gave I had her bumping up against me. Hell's delights! She has a fine pair,",
+    "start": 31805,
+    "end": 31834,
+    "canonical_text": "Lo, the early beam of morning"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8231650,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1520984,
+        "login": "RedSwanHotel",
+        "name": "RedSwanHotel",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

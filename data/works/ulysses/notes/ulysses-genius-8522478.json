@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8522478",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Amoroso ma non troppo",
+  "html_source": "<p>“Lovingly, but not too much.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8522478/James-joyce-ulysses-chap-11-sirens/Amoroso-ma-non-troppo",
+    "original_id": "8522478",
+    "referent_id": 8522478,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Amoroso ma non troppo",
+    "prefix": "n organ like yours. \n\n In bearded abundant laughter Dollard shook upon the keyboard. He would. \n\n1939#197\n\n — Not to mention another membrane, Father Cowley added. Half time, Ben. ",
+    "suffix": ". Let me there. \n\n Miss Kennedy served two gentlemen with tankards of cool stout. She passed a remark. It was indeed, first gentleman said, beautiful weather. They drank cool stout",
+    "start": 28065,
+    "end": 28086,
+    "canonical_text": "Amoroso ma non troppo"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8522478,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

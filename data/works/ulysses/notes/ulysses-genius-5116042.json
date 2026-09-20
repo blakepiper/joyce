@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5116042",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "The Red Bank",
+  "html_source": "<p>Burton Bindon’s Red Bank Restaurant, 19-20 D'Olier Street.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5116042/James-joyce-ulysses-chap-6-hades/The-red-bank",
+    "original_id": "5116042",
+    "referent_id": 5116042,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "the Red Bank",
+    "prefix": "— Who? Mr Dedalus asked. \n\n — Blazes Boylan, Mr Power said. There he is airing his quiff. \n\n Just that moment I was thinking. \n\n Mr Dedalus bent across to salute. From the door of ",
+    "suffix": " the white disc of a straw hat flashed reply: passed. \n\n Mr Bloom reviewed the nails of his left hand, then those of his right hand. The nails, yes. Is there anything more in him t",
+    "start": 11452,
+    "end": 11464,
+    "canonical_text": "the Red Bank"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5116042,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

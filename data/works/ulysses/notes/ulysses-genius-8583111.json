@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8583111",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Iar",
+  "html_source": "<p>West, remote, thus Ireland. Per D. Gifford</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8583111/James-joyce-ulysses-chap-12-cyclops/Iar",
+    "original_id": "8583111",
+    "referent_id": 8583111,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Iar",
+    "prefix": " brehons at the commission for all that and those parts to be holden in and for the county of the city of Dublin. And there sat with him the high sinhedrim of the twelve tribes of ",
+    "suffix": ", for every tribe one man, of the tribe of Patrick and of 1939#234the tribe of 1932#291Hugh and of the tribe of Owen and of the tribe of Conn and of the tribe of Oscar and of the t",
+    "start": 72133,
+    "end": 72136,
+    "canonical_text": "Iar"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9429
+  },
+  "genius": {
+    "referent_id": 8583111,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

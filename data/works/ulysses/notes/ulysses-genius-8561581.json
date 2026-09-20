@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8561581",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "The distinguished scientist Herr Professor Luitpold Blumenduft tendered medical evidence",
+  "html_source": "<p>This parody is not Bloom’s (“Professor Luitpold Blumenduft’s) language, but it does demonstrate the effect his actual words have on the group, including the narrator.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8561581/James-joyce-ulysses-chap-12-cyclops/The-distinguished-scientist-herr-professor-luitpold-blumenduft-tendered-medical-evidence",
+    "original_id": "8561581",
+    "referent_id": 8561581,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "The distinguished scientist Herr Professor Luitpold Blumenduft tendered medical evidence",
+    "prefix": "al phenomenon, don't you see, because on account of the... \n\n And then he starts with his jawbreakers about phenomenon and science and this phenomenon and the other phenomenon. \n\n ",
+    "suffix": " to the effect that the instantaneous fracture of the cervical vertebrae and consequent scission of the spinal cord 1932#274would, according to the best approved 1961#304tradition ",
+    "start": 28921,
+    "end": 29009,
+    "canonical_text": "The distinguished scientist Herr Professor Luitpold Blumenduft tendered medical evidence"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8561581,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

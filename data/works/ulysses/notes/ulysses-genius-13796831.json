@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13796831",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Live by bread alone",
+  "html_source": "<p>KJV Deuteronomy 8:3 : And he humbled thee, and suffered thee to hunger, and fed thee with manna, which thou knewest not, neither did thy fathers know; that he might make thee know that man doth not live by bread only, but by every word that proceedeth out of the mouth of the LORD doth man live.</p><p>KJV Matthew 4:4: But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13796831/James-joyce-ulysses-chap-14-oxen-of-the-sun/Live-by-bread-alone",
+    "original_id": "13796831",
+    "referent_id": 13796831,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "live by bread alone",
+    "prefix": "is vicar of Bray. Now drink we, quod he, of this mazer and quaff ye this mead which is not indeed parcel of my body but my soul's bodiment. Leave ye fraction of bread to them that ",
+    "suffix": ". Be not afeard neither for any want for this will comfort more than the other will dismay. See ye here. And he showed them glistering coins of the tribute and goldsmiths' notes th",
+    "start": 20190,
+    "end": 20209,
+    "canonical_text": "live by bread alone"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13796831,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

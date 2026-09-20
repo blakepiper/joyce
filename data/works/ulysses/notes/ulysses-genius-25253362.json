@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-25253362",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Mr Tobias",
+  "html_source": "<p>Matthew Tobias, prosecuting solicitor for the Dublin Metropolitan Police. [Gifford and Seidman]</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/25253362/James-joyce-ulysses-chap-16-eumaeus/Mr-tobias",
+    "original_id": "25253362",
+    "referent_id": 25253362,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Mr Tobias",
+    "prefix": "nth hour the finis might have been that he might have 1961#614been a candidate for the accident ward or, failing that, the bridewell and an appearance in the court next day before ",
+    "suffix": " or, he being the solicitor rather, old Wall, he meant to say, or Mahony which simply spelt ruin for a chap when it got bruited about. The reason he mentioned the fact was that a l",
+    "start": 5387,
+    "end": 5396,
+    "canonical_text": "Mr Tobias"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 25253362,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

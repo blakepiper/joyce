@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15129981",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "The Scotch house",
+  "html_source": "<p>This one might be a joke: apparently the Scotch house was a Dublin pub on the Liffey that no longer stands.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15129981/James-joyce-ulysses-chap-12-cyclops/The-scotch-house",
+    "original_id": "15129981",
+    "referent_id": 15129981,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "the Scotch house",
+    "prefix": " Son and Company (Limited), Lough Neagh's banks, the vale of Ovoca, Isolde's tower, the Mapas obelisk, Sir Patrick Dun's hospital, Cape Clear, the glen of Aherlow, Lynch's castle, ",
+    "suffix": ", Rathdown Union Workhouse at Loughlinstown, Tullamore jail, Castleconnel rapids, Kilballymacshonakill, the cross at Monasterboice, Jury's Hotel, S. Patrick's Purgatory, the Salmon",
+    "start": 93195,
+    "end": 93211,
+    "canonical_text": "the Scotch house"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15129981,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

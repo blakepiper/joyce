@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10121334",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Seddon",
+  "html_source": "<p>A refernece to a 1911 murder by arsenic.<br /><a href=\"http://murderpedia.org/male.S/s/seddon-frederick.htm\" rel=\"noopener nofollow\">http://murderpedia.org/male.S/s/seddon-frederick.htm</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10121334/James-joyce-ulysses-chap-15-circe/Seddon",
+    "original_id": "10121334",
+    "referent_id": 10121334,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Seddon",
+    "prefix": "patriot and hid remains in a sheet in the cellar, the unfortunate female's throat being cut from ear to ear. Phial containing arsenic retrieved from body of Miss Barron which sent ",
+    "suffix": " to the gallows. \n\n1961#593\n\n(He jerks the rope. The assistants leap at the victim's legs and drag him downward, grunting: the croppy boy's tongue protrudes violently.) \n\n1939#4171",
+    "start": 221196,
+    "end": 221202,
+    "canonical_text": "Seddon"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10121334,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

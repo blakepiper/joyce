@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4763133",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Them a’",
+  "html_source": "<p>Scots abbreviation : ‘them all’</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4763133/James-joyce-ulysses-chap-3-proteus/Them-a",
+    "original_id": "4763133",
+    "referent_id": 4763133,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "them a'",
+    "prefix": "ebeneinander. Sounds solid: made by the mallet of Los Demiurgos. Am I walking into eternity along Sandymount strand? Crush, crack, crick, crick. Wild sea money. Dominie Deasy kens ",
+    "suffix": ". \n\nWon't you come to Sandymount, \nMadeline the mare? \n\n Rhythm begins, you see. I hear. A catalectic tetrameter of iambs marching. No, agallop: deline the mare. \n\n1922#37\n\n Open y",
+    "start": 1362,
+    "end": 1369,
+    "canonical_text": "them a'"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4763133,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

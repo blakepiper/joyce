@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10892620",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Maria Theresa",
+  "html_source": "<p><a href=\"http://www.biography.com/people/maria-theresa-9398965\" rel=\"noopener nofollow\">http://www.biography.com/people/maria-theresa-9398965</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10892620/James-joyce-ulysses-chap-17-ithaca/Maria-theresa",
+    "original_id": "10892620",
+    "referent_id": 10892620,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Maria Theresa",
+    "prefix": "rrangement of migrations and settlements in and between Dublin, London, Florence, Milan, Vienna, Budapest, Szombathely with statements of satisfaction (his grandfather having seen ",
+    "suffix": " empress of Austria, queen of Hungary), with commercial advice (having taken care of pence, the pounds having taken care of themselves). Leopold Bloom (aged 6) had accompanied thes",
+    "start": 121369,
+    "end": 121384,
+    "canonical_text": "Maria Theresia,"
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9286
+  },
+  "genius": {
+    "referent_id": 10892620,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

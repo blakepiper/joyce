@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-32663860",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Woman’s",
+  "html_source": "<p>A reference to Mina’s labour. Presumably the ponderers are Bloom and /or Lenehan.</p><p>Could it be translated as ‘ Labour’s something else, lenehan, isn’t it?’</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/32663860/James-joyce-ulysses-chap-14-oxen-of-the-sun/Womans",
+    "original_id": "32663860",
+    "referent_id": 32663860,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Woman's",
+    "prefix": "st that ever laid husbandly hand under hen and that was the very truest knight of the world one that ever did minion 1922#370service to lady gentle pledged him courtly in the cup. ",
+    "suffix": " woe with wonder pondering. \n\n Now let us speak of that fellowship that was there to the intent to be drunken an they might. There was a sort of scholars along either side the boar",
+    "start": 13017,
+    "end": 13024,
+    "canonical_text": "Woman's"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 32663860,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

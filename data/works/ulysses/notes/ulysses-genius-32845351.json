@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-32845351",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Frank Harris",
+  "html_source": "<p>Frank Harris (14 February 1855 – 26 August 1931) was an Irish-American editor, novelist, short story writer, journalist and publisher, who was friendly with many well-known figures of his day.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/32845351/James-joyce-ulysses-chap-9-scylla-and-charybdis/Frank-harris",
+    "original_id": "32845351",
+    "referent_id": 32845351,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Frank Harris",
+    "prefix": "Mr Dedalus will work out his theory for the enlightenment of the public. And we ought to mention another Irish commentator, Mr 1932#175George Bernard Shaw. Nor should we forget Mr ",
+    "suffix": ". His articles on Shakespeare in the Saturday Review were surely brilliant. Oddly enough he too draws for us an unhappy relation with the dark lady of the sonnets. The favoured riv",
+    "start": 24683,
+    "end": 24695,
+    "canonical_text": "Frank Harris"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 32845351,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 22281786,
+        "login": "CristianDanDumitru",
+        "name": "CristianDanDumitru",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

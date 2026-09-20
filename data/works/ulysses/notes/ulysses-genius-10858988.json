@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10858988",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Ellis’s Three Trips to Madagascar",
+  "html_source": "<p><a href=\"https://catalog.hathitrust.org/Record/100730999\" rel=\"noopener nofollow\">https://catalog.hathitrust.org/Record/100730999</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10858988/James-joyce-ulysses-chap-17-ithaca/Elliss-three-trips-to-madagascar",
+    "original_id": "10858988",
+    "referent_id": 10858988,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Ellis's Three Trips to Madagascar",
+    "prefix": "liam O'Brien M. P. (green cloth, slightly faded, envelope bookmark at p. 217). \nThoughts from Spinoza (maroon leather). \nThe Story of the Heavens by Sir Robert Ball (blue cloth). \n",
+    "suffix": " (brown cloth, title obliterated). \nThe Stark-Munro Letters by A. Conan Doyle, property of the City of Dublin Public Library, 106 Capel street, lent 21 May (Whitsun Eve) 1904, due ",
+    "start": 86887,
+    "end": 86920,
+    "canonical_text": "Ellis's Three Trips to Madagascar"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10858988,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

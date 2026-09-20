@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9171045",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Number one Bass",
+  "html_source": "<p><img src=\"https://images.genius.com/18390e5fe8b9461aa48408b64dbc1018.480x640x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9171045/James-joyce-ulysses-chap-14-oxen-of-the-sun/Number-one-bass",
+    "original_id": "9171045",
+    "referent_id": 9171045,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "number one Bass",
+    "prefix": "red the contrary would have found 1961#416themselves pretty speedily in the wrong shop. During the past four minutes or thereabouts he had been staring hard at a certain amount of ",
+    "suffix": " bottled by Messrs Bass and Co at Burton-on-Trent which happened to be situated amongst a lot of others right opposite to where he was and which was certainly calculated to attract",
+    "start": 85709,
+    "end": 85724,
+    "canonical_text": "number one Bass"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9171045,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

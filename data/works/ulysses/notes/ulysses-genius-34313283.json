@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-34313283",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "The sweets of sin.",
+  "html_source": "<p>Harking back to the smutty novel purchases by Leopold.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/34313283/James-joyce-ulysses-chap-11-sirens/The-sweets-of-sin",
+    "original_id": "34313283",
+    "referent_id": 34313283,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "The sweets of sin.",
+    "prefix": "ee. That 1961#259fellow spoke. A student. After with Dedalus' son. He might be Mulligan. All comely virgins. That brings those rakes of fellows in: her white. \n\n By went his eyes. ",
+    "suffix": " Sweet are the sweets. \n\n Of sin. \n\n In a giggling peal young goldbronze voices blended, Douce with Kennedy your other eye. They threw young heads back, bronze gigglegold, to let f",
+    "start": 7290,
+    "end": 7308,
+    "canonical_text": "The sweets of sin."
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 34313283,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-12763606",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "The Son striving to be atoned with the Father.",
+  "html_source": "<p>Haines parrotts Stephen’s theory on father son relationships in Hamlet.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/12763606/James-joyce-ulysses-chap-1-telemachus/The-son-striving-to-be-atoned-with-the-father",
+    "original_id": "12763606",
+    "referent_id": 12763606,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "The Son striving to be atoned with the Father.",
+    "prefix": "oat vague on the bright skyline and a sail tacking by the Muglins. \n\n1932#17\n\n — I read a theological interpretation of it somewhere, he said bemused. The Father and the Son idea. ",
+    "suffix": " \n\n Buck Mulligan at once put on a blithe broadly smiling face. He looked at them, his wellshaped mouth open happily, his eyes, from which he had suddenly withdrawn all shrewd sens",
+    "start": 32514,
+    "end": 32560,
+    "canonical_text": "The Son striving to be atoned with the Father."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 12763606,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

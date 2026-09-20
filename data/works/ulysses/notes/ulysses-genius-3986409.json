@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3986409",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Ormond bar",
+  "html_source": "<p><a href=\"https://maps.google.com/maps/ms?msa=0&amp;msid=114613731472507085965.000467d8b1da260f009cb&amp;dg=feature\" rel=\"noopener nofollow\">Ulysses google maps</a>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3986409/James-joyce-ulysses-chap-11-sirens/Ormond-bar",
+    "original_id": "3986409",
+    "referent_id": 3986409,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Ormond bar",
+    "prefix": " Kraandl. \n\n Then not till then. My eppripfftaph. Be pfrwritt. \n\n Done. \n\n Begin! \n\n\n\n Bronze by gold, Miss Douce's head by Miss Kennedy's head, over the 1922#246crossblind of the ",
+    "suffix": " heard the viceregal hoofs go by, ringing steel. \n\n — Is that her? asked Miss Kennedy. \n\n Miss Douce said yes, sitting with his ex, pearl grey and eau de Nil. \n\n — Exquisite contra",
+    "start": 2574,
+    "end": 2584,
+    "canonical_text": "Ormond bar"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3986409,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11137602",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Moonstone",
+  "html_source": "<p><a href=\"http://www.feedbooks.com/book/3311/the-moonstone\" rel=\"noopener nofollow\">http://www.feedbooks.com/book/3311/the-moonstone</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11137602/James-joyce-ulysses-chap-18-penelope/Moonstone",
+    "original_id": "11137602",
+    "referent_id": 11137602,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Moonstone",
+    "prefix": "lendid skin from the sun and the excitement like a rose I didnt get a wink of sleep it wouldnt have been nice on account of her but I could have stopped it in time she gave me the ",
+    "suffix": " to read that was the first I read of Wilkie Collins East Lynne I read and the shadow of Ashlydyat Mrs Henry Wood Henry Dunbar by that other woman I lent him afterwards with Mulvey",
+    "start": 48562,
+    "end": 48571,
+    "canonical_text": "Moonstone"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11137602,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

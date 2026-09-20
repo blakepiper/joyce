@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-2468683",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Sandymount Tower",
+  "html_source": "<p>As Cortez67 points out – this is not Stephen’s home which is the Martello Tower at Sandycove further along the coast.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2468683/James-joyce-ulysses-chap-7-aeolus/Sandymount-tower",
+    "original_id": "2468683",
+    "referent_id": 2468683,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Sandymount Tower",
+    "prefix": "unted, changed trolley, started for Blackrock, Kingstown and Dalkey, Clonskea, Rathgar and Terenure, Palmerston Park and upper Rathmines, Sandymount Green, Rathmines, Ringsend and ",
+    "suffix": ", Harold's Cross. The hoarse Dublin United Tramway Company's timekeeper bawled them off: \n\n — Rathgar and Terenure! \n\n — Come on, Sandymount Green! \n\n Right and left parallel clang",
+    "start": 271,
+    "end": 287,
+    "canonical_text": "Sandymount Tower"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 2468683,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2680303,
+        "login": "Cortez67",
+        "name": "Cortez67",
+        "role": null,
+        "attribution": 0.56
+      },
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.44
+      }
+    ]
+  },
+  "color": "F59627"
+}

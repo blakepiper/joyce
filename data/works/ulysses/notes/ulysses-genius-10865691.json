@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10865691",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Axminster carpet",
+  "html_source": "<p>Still in business but not capitalizing on a mention in Ulysses.</p><p><a href=\"http://www.axminster-carpets.co.uk/about-us/inside-axminster/our-story/\" rel=\"noopener nofollow\">http://www.axminster-carpets.co.uk/about-us/inside-axminster/our-story/</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10865691/James-joyce-ulysses-chap-17-ithaca/Axminster-carpet",
+    "original_id": "10865691",
+    "referent_id": 10865691,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Axminster carpet",
+    "prefix": "y, transverse obsolete medieval and oriental weapons, dinner gong, alabaster lamp, bowl pendant, vulcanite automatic telephone receiver with adjacent 1939#502directory, handtufted ",
+    "suffix": " with cream 1986#585ground and trellis border, loo table with pillar and claw legs, hearth with massive firebrasses and ormolu mantel chronometer clock, guaranteed timekeeper with ",
+    "start": 95406,
+    "end": 95422,
+    "canonical_text": "Axminster carpet"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10865691,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

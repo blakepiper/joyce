@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13972662",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Hoi polloi",
+  "html_source": "<p>the general populace : masses</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13972662/James-joyce-ulysses-chap-14-oxen-of-the-sun/Hoi-polloi",
+    "original_id": "13972662",
+    "referent_id": 13972662,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "hoi polloi",
+    "prefix": "ust be seen to be believed. Your starving eyes and allbeplastered neck you stole my heart, O gluepot. Sir? Spud again the rheumatiz? All poppycock, you'll scuse me saying. For the ",
+    "suffix": ". I vear thee beest a gert vool. Well, doc? Back fro Lapland? Your corporosity sagaciating O K? How's the squaws and papooses? Womanbody after going on the straw? Stand and deliver",
+    "start": 107583,
+    "end": 107593,
+    "canonical_text": "hoi polloi"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13972662,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

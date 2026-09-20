@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-7615972",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Nel mezzo del cammin di nostra vita,",
+  "html_source": "<p>(Italian) In the middle of the journey of our life—well-known as the opening lines of Dante’s <em>Divine Comedy</em>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7615972/James-joyce-ulysses-chap-9-scylla-and-charybdis/Nel-mezzo-del-cammin-di-nostra-vita",
+    "original_id": "7615972",
+    "referent_id": 7615972,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "nel mezzo del cammin di nostra vita,",
+    "prefix": "ecessary evil. He wrote the play in the months that followed his father's death. If you hold that he, a greying man with two marriageable daughters, with thirtyfive years of life, ",
+    "suffix": " with fifty of experience, is the beardless undergraduate from Wittenberg then you must hold that his seventyyear old mother is the lustful queen. No. The corpse of John Shakespear",
+    "start": 48074,
+    "end": 48110,
+    "canonical_text": "nel mezzo del cammin di nostra vita,"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 7615972,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2082826,
+        "login": "Jmpetro",
+        "name": "Jmpetro",
+        "role": null,
+        "attribution": 0.5263157894736842
+      },
+      {
+        "id": 2568065,
+        "login": "GeoffBobker",
+        "name": "GeoffBobker",
+        "role": "contributor",
+        "attribution": 0.368421052631579
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.10526315789473685
+      }
+    ]
+  },
+  "color": "F59627"
+}

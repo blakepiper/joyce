@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33283372",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Desire’s wind blasts the thorntree",
+  "html_source": "<p>From little acorns do mighty oaks grow<br />(with a hint of Spinozan conatus?).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33283372/James-joyce-ulysses-chap-14-oxen-of-the-sun/Desires-wind-blasts-the-thorntree",
+    "original_id": "33283372",
+    "referent_id": 33283372,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Desire's wind blasts the thorntree",
+    "prefix": " foresaid riches in such dearth of money as was herebefore. His words were then these as followeth: Know all men, he said, time's ruins build eternity's mansions. What means this? ",
+    "suffix": " but after it becomes from a bramblebush to be a rose upon the rood of time. Mark me now. In woman's womb word is made flesh but in the spirit of the maker all flesh that passes be",
+    "start": 20683,
+    "end": 20717,
+    "canonical_text": "Desire's wind blasts the thorntree"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 33283372,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8803226",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Kendal Bushe",
+  "html_source": "<p>Charles Kendal Bushe (1767 – 10 July 1843), was an Irish lawyer and judge. Known as “silver-tongued Bushe” because of his eloquence, he was Solicitor-General for Ireland from 1805 to 1822 and Lord Chief Justice of the King’s Bench for Ireland from 1822 to 1841.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8803226/James-joyce-ulysses-chap-7-aeolus/Kendal-bushe",
+    "original_id": "8803226",
+    "referent_id": 8803226,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Kendal Bushe",
+    "prefix": "ow like John Philpot Curran? Psha! \n\n — Well, J. J. O'Molloy said, Bushe K.C., for example. \n\n — Bushe? the editor said. Well, yes: Bushe, yes. He has a strain of it in his blood. ",
+    "suffix": " or I mean Seymour Bushe. \n\n — He would have been on the bench long ago, the professor said, only for... But no matter. \n\n J. J. O'Molloy turned to Stephen and said quietly and slo",
+    "start": 40877,
+    "end": 40889,
+    "canonical_text": "Kendal Bushe"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8803226,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13971626",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Sawbones and ole clo",
+  "html_source": "<p>sawbones = Dr. Dixon<br />ole clo (old clothes) = Leopold Bloom</p><p>ie. Where the devil’s dix and bloom?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13971626/James-joyce-ulysses-chap-14-oxen-of-the-sun/Sawbones-and-ole-clo",
+    "original_id": "13971626",
+    "referent_id": 13971626,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "sawbones and ole clo",
+    "prefix": "ng, hollering down the street. Bonafides. Where you slep las nigh? Timothy of the battered naggin. Like ole Billyo. Any brollies or gumboots in the fambly? Where the Henry Nevil's ",
+    "suffix": "? Sorra one o' me knows. Hurrah there, Dix! Forward the ribbon counter. Where's Punch? All serene. Jay, look at the drunken minister coming out of the maternity hospal! Benedicat v",
+    "start": 104797,
+    "end": 104817,
+    "canonical_text": "sawbones and ole clo"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13971626,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

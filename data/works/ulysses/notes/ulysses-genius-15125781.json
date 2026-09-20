@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15125781",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Tholsel",
+  "html_source": "<p>A public building in an Irish town that could serve several purposes, including town hall, courthouse, prison, customs house, etc. The famous Dublin Tholsel was a medieval building that saw use as a courthouse until it was demolished in 1820.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15125781/James-joyce-ulysses-chap-12-cyclops/Tholsel",
+    "original_id": "15125781",
+    "referent_id": 15125781,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "tholsel",
+    "prefix": " and high and mighty chief of all Erin and did him to wit of that which had befallen, how that the grave elders of the most obedient city, second of the realm, had met them in the ",
+    "suffix": ", and there, after due prayers to the gods who dwell in ether supernal, had taken solemn counsel whereby they might, if so be it might be, bring once more into honour among mortal ",
+    "start": 75933,
+    "end": 75940,
+    "canonical_text": "tholsel"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15125781,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

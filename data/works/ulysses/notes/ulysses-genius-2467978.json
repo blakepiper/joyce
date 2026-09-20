@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2467978",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Adam Findlaters",
+  "html_source": "<p><a href=\"http://dublincitypubliclibraries.com/taxonomy/term/223/all?page=1\" rel=\"noopener nofollow\">Adam Findlater</a> was a Dublin businessman, who was known for his brand of whiskey, A-1, and his imported teas.</p><p><img src=\"https://images.rapgenius.com/2hxcweyacq5zljp0dee6fgaze.680x955x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2467978/James-joyce-ulysses-chap-4-calypso/Adam-findlaters",
+    "original_id": "2467978",
+    "referent_id": 2467978,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Adam Findlaters",
+    "prefix": ". \n\n1986#47\n\n Where do they get the money? Coming up redheaded curates from the county Leitrim, rinsing empties and old man in the cellar. Then, lo and behold, they blossom out as ",
+    "suffix": " or Dan Tallons. Then think of the competition. General thirst. Good puzzle would be cross Dublin without passing a pub. Save it they can't. Off the drunks perhaps. Put down three ",
+    "start": 8150,
+    "end": 8165,
+    "canonical_text": "Adam Findlaters"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2467978,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 170881,
+        "login": "Abraxas01",
+        "name": "Abraxas01",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23242659",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Growlers",
+  "html_source": "<p>A growler is a small chunk of ice, “roughly the size of a truck or a grand piano” according to the US’s National Oceanic and Atmospheric Administration.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23242659/James-joyce-ulysses-chap-16-eumaeus/Growlers",
+    "original_id": "23242659",
+    "referent_id": 23242659,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "growlers",
+    "prefix": "rcumnavigated a bit since I first joined on. I was in the Red Sea. I was in China and North America and South America. We was chased by pirates one voyage. I seen icebergs plenty, ",
+    "suffix": ". I was in Stockholm and the Black 1939#439Sea, the Dardanelles under Captain Dalton, the best bloody man that ever scuttled a ship. I seen Russia. Gospodi pomilyou. That's how the",
+    "start": 30666,
+    "end": 30674,
+    "canonical_text": "growlers"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23242659,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

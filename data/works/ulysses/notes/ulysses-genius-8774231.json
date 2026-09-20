@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8774231",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Laudanum",
+  "html_source": "<p>an alcoholic solution containing morphine, prepared from opium and formerly used as a narcotic painkiller. Laudanum was a wildly popular drug during the Victorian era. It was  prescribed for everything from headaches to tuberculosis.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8774231/James-joyce-ulysses-chap-5-lotus-eaters/Laudanum",
+    "original_id": "8774231",
+    "referent_id": 8774231,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "laudanum",
+    "prefix": "hat picked an herb to cure himself had a bit of pluck. Simples. Want to be careful. Enough stuff here to chloroform you. Test: turns blue litmus paper red. Chloroform. Overdose of ",
+    "suffix": ". Sleeping draughts. Lovephiltres. Paragoric poppysyrup bad for cough. Clogs the pores or the phlegm. Poisons the only cures. Remedy where you least expect it. Clever of nature. \n\n",
+    "start": 30982,
+    "end": 30990,
+    "canonical_text": "laudanum"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8774231,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

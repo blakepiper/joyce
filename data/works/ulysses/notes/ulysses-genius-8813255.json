@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8813255",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Proof of the pudding",
+  "html_source": "<p>The original proverb is: The proof of the pudding is in the eating. It meant that you had to try out food to know whether it was good.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8813255/James-joyce-ulysses-chap-8-lestrygonians/Proof-of-the-pudding",
+    "original_id": "8813255",
+    "referent_id": 8813255,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Proof of the pudding",
+    "prefix": "utter. His reverence mum's the word. \n\n Good Lord, that poor child's dress is in flitters. Underfed she looks too. Potatoes and marge, marge and potatoes. It's after they feel it. ",
+    "suffix": ". Undermines the constitution. \n\n As he set foot on O'Connell bridge a puffball of smoke plumed up from the parapet. Brewery barge with export stout. England. Sea air sours it, I h",
+    "start": 2687,
+    "end": 2707,
+    "canonical_text": "Proof of the pudding"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8813255,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

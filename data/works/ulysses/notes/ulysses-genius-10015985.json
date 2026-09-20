@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10015985",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Coela enarrant gloriam Domini",
+  "html_source": "<p>The heavens declare the glory of the Lord</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10015985/James-joyce-ulysses-chap-15-circe/Coela-enarrant-gloriam-domini",
+    "original_id": "10015985",
+    "referent_id": 10015985,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Coela enarrant gloriam Domini",
+    "prefix": "As a matter of fact it is of no importance whether Benedetto Marcello found it or made it. The rite is the poet's rest. It may 1961#503be an old hymn to Demeter or also illustrate ",
+    "suffix": ". It is susceptible of nodes or modes as far apart as hyperphrygian and mixolydian and of texts so divergent as priests haihooping 1939#357round David's that is Circe's or what am ",
+    "start": 104157,
+    "end": 104186,
+    "canonical_text": "Coela enarrant gloriam Domini"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10015985,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

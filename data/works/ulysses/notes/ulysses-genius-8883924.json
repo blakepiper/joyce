@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8883924",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Fidus Achates",
+  "html_source": "<p>A faithful friend or devoted follower</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8883924/James-joyce-ulysses-chap-16-eumaeus/Fidus-achates",
+    "original_id": "8883924",
+    "referent_id": 8883924,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "fidus Achates",
+    "prefix": "Stephen thought to think of Ibsen, associated with Baird's the stonecutter's in his mind somehow in Talbot place, first turning on the right, while the other who was acting as his ",
+    "suffix": " inhaled with internal satisfaction the smell of James Rourke's city bakery, situated quite close to where they were, the very palatable odour indeed of our daily bread, of all com",
+    "start": 3970,
+    "end": 3983,
+    "canonical_text": "fidus Achates"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8883924,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

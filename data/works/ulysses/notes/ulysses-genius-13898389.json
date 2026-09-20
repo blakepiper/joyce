@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13898389",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Grot",
+  "html_source": "<p>Short for grotto or</p><p>1 : cave<br />2 : an artificial recess or structure made to resemble a natural cave</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13898389/James-joyce-ulysses-chap-14-oxen-of-the-sun/Grot",
+    "original_id": "13898389",
+    "referent_id": 13898389,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "grot",
+    "prefix": "her flatteries that she said to him as, Ho, you 1961#395pretty man, turn aside hither and I will show you a brave place, and she lay at him so flatteringly that she had him in her ",
+    "suffix": " which is named Two-in-the-Bush or, by some learned, Carnal Concupiscence. \n\n This was it what all that company that sat there at commons in Manse of Mothers the most lusted after ",
+    "start": 32231,
+    "end": 32235,
+    "canonical_text": "grot"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9675
+  },
+  "genius": {
+    "referent_id": 13898389,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

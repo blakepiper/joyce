@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8808530",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "This feast of pure reason",
+  "html_source": "<p>At the end of the nightmare that is <em>Circe</em>, one picture of depravity after another, Bloom offers Stephen his ashplant (walking stick). Stephen responds, “Stick, no. Reason. This feast of pure reason.” What can his meaning be but an abject dismissal and refutation of a society whose intellectual elite has championed a devotion to “pure reason,” only to see in the end, not only an utter paucity of morals, but of any sign of reason, as well.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8808530/James-joyce-ulysses-chap-15-circe/This-feast-of-pure-reason",
+    "original_id": "8808530",
+    "referent_id": 8808530,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "This feast of pure reason",
+    "prefix": "ints.) Exit Judas. Et laqueo se suspendit. \n\n1961#600\n\n BLOOM \n\n(Runs to Stephen.) Come along with me now before worse happens. Here's your stick. \n\n STEPHEN \n\n Stick, no. Reason. ",
+    "suffix": ". \n\n CISSY CAFFREY \n\n(Pulling Private Carr.) Come on, you're boosed. He insulted me but I forgive him. (Shouting in his ear.) I forgive him for insulting me. \n\n1922#557\n\n BLOOM \n\n(",
+    "start": 230072,
+    "end": 230097,
+    "canonical_text": "This feast of pure reason"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8808530,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

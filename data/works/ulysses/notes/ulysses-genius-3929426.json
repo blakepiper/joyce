@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-3929426",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Antient concert rooms.",
+  "html_source": "<p>Anteint is just an old (or, maybe, <em>ancient</em>) way of spelling ancient.</p><p>A hall where privately sponsored concerts were given, 42 Great Brunswick Street.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3929426/James-joyce-ulysses-chap-6-hades/Antient-concert-rooms",
+    "original_id": "3929426",
+    "referent_id": 3929426,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Antient concert rooms.",
+    "prefix": "ing automatic 1922#88so that the wheel itself much handier? Well but that fellow would lose his job then? Well but then another fellow would get a job making the new invention? \n\n ",
+    "suffix": " Nothing on there. A man in a buff1961#91 suit with a crape armlet. Not much grief there. Quarter mourning. People in law perhaps. \n\n They went past the bleak pulpit of saint Mark'",
+    "start": 10390,
+    "end": 10412,
+    "canonical_text": "Antient concert rooms."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3929426,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 0.5
+      },
+      {
+        "id": 1116653,
+        "login": "slothcommander",
+        "name": "slothcommander",
+        "role": null,
+        "attribution": 0.375
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.125
+      }
+    ]
+  },
+  "color": "F59627"
+}

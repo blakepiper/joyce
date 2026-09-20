@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8876204",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Corns",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/7c8129398c242c1d68c59b6588fbb5ac.342x228x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8876204/James-joyce-ulysses-chap-10-wandering-rocks/Corns",
+    "original_id": "8876204",
+    "referent_id": 8876204,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "corns",
+    "prefix": "21 took the elbow of a dapper little man in a shower of hail suit who walked uncertainly, with hasty steps past Micky Anderson's watches. \n\n1986#202\n\n — The assistant town clerk's ",
+    "suffix": " are giving him some trouble, John Wyse Nolan told Mr Power. \n\n They followed round the corner towards James Kavanagh's 1961#246winerooms. The empty castle car fronted them at rest",
+    "start": 56908,
+    "end": 56913,
+    "canonical_text": "corns"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9244
+  },
+  "genius": {
+    "referent_id": 8876204,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

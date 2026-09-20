@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4649112",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Crape weepers",
+  "html_source": "<p>Gifford: Professional mourners that dressed in crape because it was cheap.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4649112/James-joyce-ulysses-chap-6-hades/Crape-weepers",
+    "original_id": "4649112",
+    "referent_id": 4649112,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Crape weepers",
+    "prefix": "ssions that man finds. Hhhn: burst sideways. \n\n1939#78\n\n— Non intres in judicium cum servo tuo, Domine. \n\n Makes them feel more important to be prayed over in Latin. Requiem mass. ",
+    "suffix": ". Blackedged notepaper. Your name on the altarlist. Chilly place this. Want to feed well, sitting in there all the morning in the gloom kicking his heels waiting for the next pleas",
+    "start": 35817,
+    "end": 35830,
+    "canonical_text": "Crape weepers"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4649112,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

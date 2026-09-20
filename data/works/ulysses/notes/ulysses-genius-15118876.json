@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15118876",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Petitépatant",
+  "html_source": "<p>(Fr.) Little kissing</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15118876/James-joyce-ulysses-chap-12-cyclops/Petitepatant",
+    "original_id": "15118876",
+    "referent_id": 15118876,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Petitépatant",
+    "prefix": "d of Commendatore Bacibaci Beninobenone (the semiparalysed doyen of the party who had to be assisted to 1939#223his seat by the aid of a powerful steam crane), Monsieur Pierrepaul ",
+    "suffix": ", the Grandjoker Vladinmire Pokethankertscheff, the Archjoker Leopold Rudolph von Schwanzenbad-Hodenthaler, Countess Marha Virága Kisászony Putrápesthi, Hiram Y. Bomboost, Count At",
+    "start": 35335,
+    "end": 35347,
+    "canonical_text": "Petitépatant"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15118876,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

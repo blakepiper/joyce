@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4010957",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "She sipped distastefully her brew, hot tea, a sip, sipped, sweet tea",
+  "html_source": "<p>The <em>note</em> of sipping is extended or in musical terms augmented.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4010957/James-joyce-ulysses-chap-11-sirens/She-sipped-distastefully-her-brew-hot-tea-a-sip-sipped-sweet-tea",
+    "original_id": "4010957",
+    "referent_id": 4010957,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "She sipped distastefully her brew, hot tea, a sip, sipped, sweet tea",
+    "prefix": "er ears to hear, to speak: but said, but prayed again: \n\n — Don't let me think of him or I'll expire. The hideous old wretch! That night in the Antient Concert Rooms. \n\n1922#248\n\n ",
+    "suffix": ". \n\n — Here he was, Miss Douce said, cocking her bronze head three quarters, ruffling her nosewings. Hufa! Hufa! \n\n Shrill shriek of laughter sprang from Miss Kennedy's throat. Mis",
+    "start": 6314,
+    "end": 6382,
+    "canonical_text": "She sipped distastefully her brew, hot tea, a sip, sipped, sweet tea"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4010957,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

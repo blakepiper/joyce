@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4220951",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "He said also how at the end of the second month a human soul was infused",
+  "html_source": "<p>Here Stephen tells his theory that at the end of the second month of life, infants are given a soul.</p><p>Present, is Leopold Bloom, who would find this theory particularly painful, having lost his son Rudy ten days into his young life.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4220951/James-joyce-ulysses-chap-14-oxen-of-the-sun/He-said-also-how-at-the-end-of-the-second-month-a-human-soul-was-infused",
+    "original_id": "4220951",
+    "referent_id": 4220951,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "He said also how at the end of the second month a human soul was infused",
+    "prefix": "k of moonflower or an she lie with a woman which her man has but lain with, effectu secuto, or peradventure in her bath according to the opinions of Averroes and Moses Maimonides. ",
+    "suffix": " and how in all our holy mother foldeth ever souls for God's greater glory whereas that earthly mother which was but a dam to bring forth beastly should die by canon for so saith 1",
+    "start": 17522,
+    "end": 17594,
+    "canonical_text": "He said also how at the end of the second month a human soul was infused"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4220951,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1061426,
+        "login": "tooManyWords",
+        "name": "tooManyWords",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

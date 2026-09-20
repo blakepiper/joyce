@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4143390",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Topboots",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/5e6c1384375f377b1aadc968394c1849.236x236x1.jpg\" alt=\"\" /></p><p>Something like this…</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4143390/James-joyce-ulysses-chap-2-nestor/Topboots",
+    "original_id": "4143390",
+    "referent_id": 4143390,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "topboots",
+    "prefix": "wood who voted for the union. We are all Irish, all kings' sons. \n\n — Alas, Stephen said. \n\n — Per vias rectas, Mr Deasy said firmly, was his motto. He voted for it and put on his ",
+    "suffix": " to ride to Dublin from the Ards of Down to do so. \n\n1939#25\n\nLal the ral the ra \nThe rocky road to Dublin. \n\n1922#31\n\n A gruff squire on horseback with shiny topboots. Soft day, s",
+    "start": 15875,
+    "end": 15883,
+    "canonical_text": "topboots"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9158
+  },
+  "genius": {
+    "referent_id": 4143390,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1209714,
+        "login": "AlexBeston",
+        "name": "AlexBeston",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

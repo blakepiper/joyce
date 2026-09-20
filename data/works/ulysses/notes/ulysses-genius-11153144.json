@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11153144",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Moorish wall",
+  "html_source": "<p><img src=\"https://images.genius.com/2a5e7d1961376ebcf6edf4d2a22e9767.1000x679x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11153144/James-joyce-ulysses-chap-18-penelope/Moorish-wall",
+    "original_id": "11153144",
+    "referent_id": 11153144,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Moorish wall",
+    "prefix": "riting or the language of stamps singing I remember shall I wear a white rose and I wanted to put on the old stupid clock to near the time he was the first man kissed me under the ",
+    "suffix": " my sweetheart when a boy it never entered my head what kissing meant till he put his tongue in my mouth his mouth was sweetlike young I put my knee up to him a few times to learn ",
+    "start": 57231,
+    "end": 57243,
+    "canonical_text": "Moorish wall"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 11153144,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

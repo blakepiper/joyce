@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11194037",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "French letter",
+  "html_source": "<p>slang for condom</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11194037/James-joyce-ulysses-chap-18-penelope/French-letter",
+    "original_id": "11194037",
+    "referent_id": 11194037,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "French letter",
+    "prefix": "home at to anybody climbing down into the area if anybody saw him Ill knock him off that little habit tomorrow first Ill look at his shirt to see1932#672 or Ill see if he has that ",
+    "suffix": " still in his pocketbook I suppose he thinks I dont know deceitful men all their 20 pockets arent enough for their lies then why should we tell them even if its the truth they dont",
+    "start": 91856,
+    "end": 91869,
+    "canonical_text": "French letter"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11194037,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8336818",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Chettle",
+  "html_source": "<p>Henry Chettle (c. 1564 – c. 1606) was a comic writer, reputedly fat, supposed by some to be a  model for Shakespeare’s Falstaff. (See Frank Harris “The Man Shakespeare” p.84ff.)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8336818/James-joyce-ulysses-chap-9-scylla-and-charybdis/Chettle",
+    "original_id": "8336818",
+    "referent_id": 8336818,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Chettle",
+    "prefix": "moneylender he was himself a cornjobber and moneylender, with ten tods of corn hoarded in 1932#183the famine riots. His borrowers are no doubt those divers of worship mentioned by ",
+    "suffix": " Falstaff who reported his uprightness of dealing. He sued a fellowplayer for the price of a few bags of malt and exacted his pound of flesh in interest for every money lent. How e",
+    "start": 42477,
+    "end": 42484,
+    "canonical_text": "Chettle"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8336818,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2568065,
+        "login": "GeoffBobker",
+        "name": "GeoffBobker",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

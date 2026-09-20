@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795794",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Callboy’s warning",
+  "html_source": "<p>callboy<br />a boy who calls actors when it is time for them to go on the stage</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795794/James-joyce-ulysses-chap-6-hades/Callboys-warning",
+    "original_id": "8795794",
+    "referent_id": 8795794,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Callboy's warning",
+    "prefix": "ut of the fryingpan of life into the fire of purgatory. \n\n Does he ever think of the hole waiting for himself? They say you do when you shiver in the sun. Someone walking over it. ",
+    "suffix": ". Near you. Mine over there towards Finglas, the plot I bought. Mamma, poor mamma, and little Rudy. \n\n The gravediggers took up their spades and flung heavy clods of clay in on the",
+    "start": 52439,
+    "end": 52456,
+    "canonical_text": "Callboy's warning"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8795794,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

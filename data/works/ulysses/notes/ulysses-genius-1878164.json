@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1878164",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "But who was Gerty?",
+  "html_source": "<p>A <a href=\"http://en.wikipedia.org/wiki/Mills_%26_Boon\" rel=\"noopener nofollow\">Mills-and-Boon-esque</a> line, a set-up to introduce a character that calls on the reader to engage with the unknown, omniscient narrator.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1878164/James-joyce-ulysses-chap-13-nausicaa/But-who-was-gerty",
+    "original_id": "1878164",
+    "referent_id": 1878164,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "But who was Gerty?",
+    "prefix": "rwit guessed what was amiss and she whispered to Edy Boardman to take him there behind the pushcar where the gentlemen couldn't see and to mind he didn't wet his new tan shoes. \n\n ",
+    "suffix": " \n\n Gerty MacDowell who was seated near her companions, lost in thought, gazing far away into the distance was, in very truth, as fair a 1986#285specimen of winsome Irish girlhood ",
+    "start": 4971,
+    "end": 4989,
+    "canonical_text": "But who was Gerty?"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1878164,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 211351,
+        "login": "prepski",
+        "name": "prepski",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

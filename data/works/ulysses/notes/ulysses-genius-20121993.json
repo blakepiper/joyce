@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20121993",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Won’t",
+  "html_source": "<p>typo: should be “wont” without apostrophe</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20121993/James-joyce-ulysses-chap-14-oxen-of-the-sun/Wont",
+    "original_id": "20121993",
+    "referent_id": 20121993,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "won't",
+    "prefix": "teenth June Patk. Dignam laid in clay of an apoplexy and after hard drought, please God, rained, a bargeman coming in by water a fifty mile or thereabout with turf saying the seed ",
+    "suffix": " sprout, fields athirst, very sadcoloured and stunk mightily, the quags and tofts too. Hard to breathe and all the young quicks clean consumed without sprinkle this long while back",
+    "start": 33900,
+    "end": 33905,
+    "canonical_text": "won't"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20121993,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 11041825,
+        "login": "raggedclaws",
+        "name": "raggedclaws",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9165133",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Defective reunion of the maxillary knobs along the medial line",
+  "html_source": "<p>In embryology, the maxillary prominences (or knobs) are one of the five prominences that rotate toward each other and fuse at the midline to create a face with chin, jaw, palate, nose and forehead.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9165133/James-joyce-ulysses-chap-14-oxen-of-the-sun/Defective-reunion-of-the-maxillary-knobs-along-the-medial-line",
+    "original_id": "9165133",
+    "referent_id": 9165133,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "defective reunion of the maxillary knobs along the medial line",
+    "prefix": "ted and dissimulated, acardiac foetus in foetu, aprosopia due to a congestion, the agnathia of certain chinless Chinamen (cited by Mr Candidate Mulligan) in consequence of 1922#390",
+    "suffix": " so that (as he said) one ear could hear what the other spoke, the benefits of anesthesia or twilight sleep, the prolongation of labour pains in advanced gravidancy by reason of pr",
+    "start": 69814,
+    "end": 69876,
+    "canonical_text": "defective reunion of the maxillary knobs along the medial line"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9165133,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

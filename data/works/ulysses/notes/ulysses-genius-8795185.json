@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795185",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Bad gas",
+  "html_source": "<p>The substances cadaverine and putrescine are produced during the decomposition of animal (including human) bodies, and both give off a foul odor. They are toxic if massive doses are ingested (acute oral toxicity of 2 g per kg of body weight of pure putrescine in rats, a larger dose for cadaverine). Scaling 2g/kg from rats suggests that a 60 kg (132 lb) person would be significantly affected by 27 grams (0.95 oz) of pure putrescine.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795185/James-joyce-ulysses-chap-6-hades/Bad-gas",
+    "original_id": "8795185",
+    "referent_id": 8795185,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "bad gas",
+    "prefix": "Who was telling me? Mervyn Brown. Down in the vaults of saint Werburgh's lovely old organ hundred and fifty they have to bore a hole in the coffins1986#85 sometimes to let out the ",
+    "suffix": " and burn it. Out it rushes: blue. One whiff of that and you're a goner. \n\n My kneecap is hurting me. Ow. That's better. \n\n The priest took a stick with a knob at the end of it out",
+    "start": 36440,
+    "end": 36447,
+    "canonical_text": "bad gas"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9672
+  },
+  "genius": {
+    "referent_id": 8795185,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

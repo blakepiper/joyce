@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15061945",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Ta an bad ar an tir. Taim in mo shagart.",
+  "html_source": "<p>“The boat is on the land. I am a priest.” (Irish). May have been taken from O'Growney’s Simple Lessons in Irish. With corrected accent marks: Tá an bád ar an tír. Táim i mo shagart</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15061945/James-joyce-ulysses-chap-9-scylla-and-charybdis/Ta-an-bad-ar-an-tir-taim-in-mo-shagart",
+    "original_id": "15061945",
+    "referent_id": 15061945,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Ta an bad ar an tir. Taim in mo shagart.",
+    "prefix": "t care a button, don't you know, who is killed or who is guilty... \n\n He rested an innocent book on the edge of the desk, smiling his defiance. His private papers in the original. ",
+    "suffix": " Put beurla on it, littlejohn. \n\n Quoth littlejohn Eglinton: \n\n — I was prepared for paradoxes from what Malachi Mulligan told us but I may as well warn you that if you want to sha",
+    "start": 20708,
+    "end": 20748,
+    "canonical_text": "Ta an bad ar an tir. Taim in mo shagart."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15061945,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

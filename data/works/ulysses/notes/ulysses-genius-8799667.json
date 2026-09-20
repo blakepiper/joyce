@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8799667",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Twelve brothers",
+  "html_source": "<p>Jacob, whose name was changed to Israel, fathered 12 sons by four women: his wives, Leah and Rachel; and his concubines – maidservants of Leah and Rachel – and surrogate mothers, Zilpah and Bilhah (Genesis 29:31-35; 30:1-24; 35:16-18). The following table lists the names of the sons, in order of birth, with their respective mothers.</p><ol><li>REUBEN – Leah</li><li>SIMEON – Leah</li><li>LEVI – Leah</li><li>JUDAH – Leah</li><li>DAN – Rachel/Bilhah</li><li>NAPHTALI – Rachel/Bilhah</li><li>GAD – Leah/Zilpah</li><li>ASHER – Leah/Zilpah</li><li>ISSACHAR – Leah</li><li>ZEBULUN – Leah</li><li>JOSEPH – Rachel</li><li>BENJAMIN – Rachel</li></ol>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8799667/James-joyce-ulysses-chap-7-aeolus/Twelve-brothers",
+    "original_id": "8799667",
+    "referent_id": 8799667,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "twelve brothers",
+    "prefix": ", O dear! All that long business about that brought us out of the land of Egypt and into the house of bondage Alleluia. Shema Israel Adonai Elohenu. No, that's the other. Then the ",
+    "suffix": ", Jacob's sons. And then the lamb and the cat and the dog and the stick and the water and the butcher. And then the angel of death kills the butcher and he1932#109 kills the ox and",
+    "start": 11738,
+    "end": 11753,
+    "canonical_text": "twelve brothers"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8799667,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

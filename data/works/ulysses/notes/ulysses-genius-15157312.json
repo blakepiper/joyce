@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15157312",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Porringers",
+  "html_source": "<p>Small bowls with handles, typically used for soups or stews. From late Middle English (earlier as potager and pottinger ): from Old French potager, from potage ‘contents of a pot.’</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15157312/James-joyce-ulysses-chap-15-circe/Porringers",
+    "original_id": "15157312",
+    "referent_id": 15157312,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "porringers",
+    "prefix": "s, free cowbones for soup, rubber preservatives in sealed envelopes tied with gold thread, butter scotch, pineapple rock, billets doux in the form of cocked hats, readymade suits, ",
+    "suffix": " of toad in the hole, bottles of Jeyes' Fluid, purchase stamps, 40 days' indulgences, spurious coins, dairyfed pork sausages, theatre passes, season tickets available for all traml",
+    "start": 79009,
+    "end": 79019,
+    "canonical_text": "porringers"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15157312,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

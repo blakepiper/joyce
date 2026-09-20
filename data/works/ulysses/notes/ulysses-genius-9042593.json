@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9042593",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Sheet lightning",
+  "html_source": "<p>Intracloud lightning is sometimes called sheet lightning because it lights up the sky with a ‘sheet’ of light. All or parts of the actual channel may be obscured inside the cloud, and may or may not be visible to an observer on the ground.<br />stormhighway.com</p><p><img src=\"https://images.rapgenius.com/64bb55756d48fadf5de199ab1eeb5ed2.480x360x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9042593/James-joyce-ulysses-chap-13-nausicaa/Sheet-lightning",
+    "original_id": "9042593",
+    "referent_id": 9042593,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "sheet lightning",
+    "prefix": "n was over and Father Conroy handed him his hat to put on and crosscat Edy asked wasn't she coming but Jacky Caffrey called out: \n\n — O, look, Cissy! \n\n And they all looked was it ",
+    "suffix": " but Tommy saw it too over the trees beside the church, blue and then green and purple. \n\n1922#348\n\n — It's fireworks, Cissy Caffrey said. \n\n And they all ran down the strand to se",
+    "start": 47863,
+    "end": 47878,
+    "canonical_text": "sheet lightning"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9042593,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10092532",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Proparoxyton",
+  "html_source": "<p>Eleven is a proparoxytone:<br />Proparoxytone is a linguistic term for a word with stress on the antepenultimate (third last) syllable such as the English words “cinema” and “operational”.<br /><a href=\"https://en.wikipedia.org/wiki/Proparoxytone\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Proparoxytone</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10092532/James-joyce-ulysses-chap-15-circe/Proparoxyton",
+    "original_id": "10092532",
+    "referent_id": 10092532,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Proparoxyton",
+    "prefix": " \n\n BLOOM \n\n I will but is it wise? (He counts.) One, seven, eleven, and five. Six. Eleven. I don't answer for what you may have lost. \n\n1932#484\n\n STEPHEN \n\n Why striking eleven? ",
+    "suffix": ". Moment before the next Lessing says. Thirsty fox. (He laughs loudly.) Burying his grandmother. Probably he killed her. \n\n BLOOM \n\n That is one pound six and eleven. One pound sev",
+    "start": 179427,
+    "end": 179439,
+    "canonical_text": "Proparoxyton"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10092532,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

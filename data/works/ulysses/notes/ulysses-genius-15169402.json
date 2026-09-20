@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15169402",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Epenthetic",
+  "html_source": "<p><a href=\"https://en.wiktionary.org/wiki/epenthesis\" rel=\"noopener nofollow\">Epenthesis</a> is the insertion of a phoneme, letter, or syllable into a word, usually to satisfy the phonological constraints of a language or poetic context.<br />From the Greek for “I insert”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15169402/James-joyce-ulysses-chap-17-ithaca/Epenthetic",
+    "original_id": "15169402",
+    "referent_id": 15169402,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "epenthetic",
+    "prefix": " excluding vocabulary. \n\n What points of contact existed between these languages and between the peoples who spoke them? \n\n The presence of guttural sounds, diacritic aspirations, ",
+    "suffix": " and servile letters in both languages: their antiquity, both having been taught on the plain of Shinar 242 years after the deluge in the seminary instituted by Fenius Farsaigh, de",
+    "start": 48186,
+    "end": 48196,
+    "canonical_text": "epenthetic"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15169402,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4632368",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Maud Gonne",
+  "html_source": "<p><a href=\"http://en.wikipedia.org/wiki/Maud_Gonne\" rel=\"noopener nofollow\">Maud Gonne was an Irish revolutionary.</a></p><p><img src=\"https://images.rapgenius.com/238e959c47dfb54c4968e2e478390b13.320x269x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4632368/James-joyce-ulysses-chap-3-proteus/Maud-gonne",
+    "original_id": "4632368",
+    "referent_id": 4632368,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Maud Gonne",
+    "prefix": "s Spanish tassels at his secrets. M. Drumont, famous journalist, Drumont, know what he called queen Victoria? Old hag with the yellow teeth. Vieille ogresse with the dents jaunes. ",
+    "suffix": ", beautiful woman, La Patrie, M. Millevoye, Félix Faure, know how he died? Licentious men. The froeken, bonne à tout faire, who rubs male nakedness in the bath at Upsala. Moi faire",
+    "start": 14526,
+    "end": 14536,
+    "canonical_text": "Maud Gonne"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4632368,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

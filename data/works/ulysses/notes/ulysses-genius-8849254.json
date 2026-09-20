@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8849254",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Mobled",
+  "html_source": "<p>verb (used with object), mobled, mobling. Archaic.<br />to wrap the head of, as in a hood.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8849254/James-joyce-ulysses-chap-9-scylla-and-charybdis/Mobled",
+    "original_id": "8849254",
+    "referent_id": 8849254,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "mobled",
+    "prefix": "to die. \n\n — Requiescat! Stephen prayed. \n\n1922#197\n\nWhat of all the will to do? \nIt has vanished long ago... \n\n — She lies laid out in stark stiffness in that secondbest bed, the ",
+    "suffix": " queen, even though you prove that a bed in those days was as rare as a motorcar is now and that its carvings were the wonder of seven parishes. In old age she takes up with gospel",
+    "start": 45945,
+    "end": 45951,
+    "canonical_text": "mobled"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8849254,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

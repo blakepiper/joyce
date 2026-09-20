@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8774040",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Hamilton Long’s",
+  "html_source": "<p>Hamilton Long Allcare Pharmacy<br />Address: 5 O'Connell Street Lower, Dublin 1, Ireland</p><p><img src=\"https://images.rapgenius.com/41a7b650fc4edf7068aadcc26421ee9c.800x500x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8774040/James-joyce-ulysses-chap-5-lotus-eaters/Hamilton-longs",
+    "original_id": "8774040",
+    "referent_id": 8774040,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Hamilton Long's",
+    "prefix": "nough yet. Better get that lotion made up. Where is this? Ah yes, the last time. Sweny's in Lincoln place. Chemists rarely move. Their green and gold beaconjars too heavy to stir. ",
+    "suffix": ", founded in the year of the flood. Huguenot churchyard near there. Visit some day. \n\n He walked southward along Westland row. But the recipe is in the other trousers. O, and I for",
+    "start": 29758,
+    "end": 29773,
+    "canonical_text": "Hamilton Long's"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8774040,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

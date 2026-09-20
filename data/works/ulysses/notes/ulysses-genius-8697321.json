@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8697321",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "L’art d’être grand...",
+  "html_source": "<p>L'Art d'être grand-père (“The Art of Being a Grandfather”) is a substantial book of poems by Victor Hugo, published in 1877. They were among the last he wrote.</p><p>On 13 March 1871, Hugo’s 44-year-old son Charles died of a stroke while riding in a carriage to a farewell dinner for some of Victor’s friends at a restaurant in Bordeaux. Charles’s wife died shortly afterwards, and Victor Hugo became the guardian of their children, Georges and Jeanne Hugo. The poems describe the feelings of a grandfather entrusted with innocent young children. Love and tenderness are celebrated, discipline is discounted; the freshness and laughter of the young soften the potential bleakness of old age. A trip to the zoo sets the poet musing. Many charming scenes are depicted. He keeps up his attack on tyranny and bigotry, and his search for truth.</p><p>The English version by Timothy Adès is How to be a Grandfather, Hearing Eye, London 2002. (wikipedia)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8697321/James-joyce-ulysses-chap-9-scylla-and-charybdis/Lart-detre-grand",
+    "original_id": "8697321",
+    "referent_id": 8697321,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "l'art d'être grand...",
+    "prefix": "986#160 My dearest wife, Pericles says, was like this maid. Will any man love the daughter if he has not loved the mother? \n\n — The art of being a grandfather, Mr Best gan murmur. ",
+    "suffix": " \n\n1939#143\n\n— His own image to a man with that queer thing genius is the standard of all experience, material and moral. Such an appeal will touch him. The images of other males o",
+    "start": 24100,
+    "end": 24121,
+    "canonical_text": "L'art d'être grand..."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 8697321,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2919701,
+        "login": "GrandlucDeRennes",
+        "name": "GrandlucDeRennes",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

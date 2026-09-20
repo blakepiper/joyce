@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-4440741",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Showed a shaven",
+  "html_source": "<p>The <a href=\"https://genius.com/1316467\" rel=\"noopener nofollow\">alliteration</a> of the line evokes the sound and repetitive movements of the razor. As ever, Joyce shows a near-constant obsession with the sound patterns that emerge from creative language.</p><p>PROPOSED SUGGESTION: Reaching to claim evoking the sound and repetitive movements of the razor.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4440741/James-joyce-ulysses-chap-1-telemachus/Showed-a-shaven",
+    "original_id": "4440741",
+    "referent_id": 4440741,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "showed a shaven",
+    "prefix": "it! \n\n Ceasing, he began to shave with care. \n\n — Tell me, Mulligan, Stephen said quietly. \n\n — Yes, my love? \n\n — How long is Haines going to stay in this tower? \n\n Buck Mulligan ",
+    "suffix": " cheek over his right shoulder. \n\n — God, isn't he dreadful? he said frankly. A ponderous Saxon. He thinks you're not a gentleman. God, these bloody English! Bursting with money an",
+    "start": 2878,
+    "end": 2893,
+    "canonical_text": "showed a shaven"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4440741,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.36363636363636365
+      },
+      {
+        "id": 1313008,
+        "login": "PeterFif",
+        "name": "PeterFif",
+        "role": "contributor",
+        "attribution": 0.3181818181818182
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.3181818181818182
+      }
+    ]
+  },
+  "color": "F59627"
+}

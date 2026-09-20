@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795307",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Thousands of gallons of blood",
+  "html_source": "<p>The adult heart pumps about 5 quarts of blood each minute – approximately 2,000 gallons of blood each day – throughout the body.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795307/James-joyce-ulysses-chap-6-hades/Thousands-of-gallons-of-blood",
+    "original_id": "8795307",
+    "referent_id": 8795307,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "thousands of gallons of blood",
+    "prefix": "Your heart perhaps but what price the fellow in the six feet by two with his toes to the daisies? No touching that. Seat of the affections. Broken heart. A pump after all, pumping ",
+    "suffix": " every day. One fine day it gets bunged up: and there you are. Lots of them lying around here: lungs, hearts, livers. Old rusty pumps: damn the thing else.1932#94 The resurrection ",
+    "start": 40257,
+    "end": 40286,
+    "canonical_text": "thousands of gallons of blood"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8795307,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

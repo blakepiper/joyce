@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11115654",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Mrs Langtry the Jersey Lily",
+  "html_source": "<p><a href=\"http://clickamericana.com/topics/beauty-fashion/lillie-langtry-the-scandalous-jersey-lily-1958\" rel=\"noopener nofollow\">http://clickamericana.com/topics/beauty-fashion/lillie-langtry-the-scandalous-jersey-lily-1958</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11115654/James-joyce-ulysses-chap-18-penelope/Mrs-langtry-the-jersey-lily",
+    "original_id": "11115654",
+    "referent_id": 11115654,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Mrs Langtry the Jersey Lily",
+    "prefix": "am street 1st thing I did every morning 1922#702to look across see her combing it as if she loved it and was full of it pity I only got to know her the day before we left and that ",
+    "suffix": " the prince of Wales was in love with I suppose hes like the first man going the roads only for the name of a king theyre all made the one way only a black mans Id like to try a be",
+    "start": 35951,
+    "end": 35978,
+    "canonical_text": "Mrs Langtry the jersey lily"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 11115654,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

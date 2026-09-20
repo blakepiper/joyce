@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-29513002",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "O, for a fresh of breath air!",
+  "html_source": "<p>o contraire</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/29513002/James-joyce-ulysses-chap-7-aeolus/O-for-a-fresh-of-breath-air",
+    "original_id": "29513002",
+    "referent_id": 29513002,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "O, for a fresh of breath air!",
+    "prefix": " of advertisement. \n\n — And Madam Bloom, Mr O'Madden Burke added. The vocal muse. Dublin's prime favourite. \n\n1939#100\n\n Lenehan gave a loud cough. \n\n — Ahem! he said very softly. ",
+    "suffix": " I caught a cold in the park. The gate was open. \n\n « YOU CAN DO IT! » \n\n The editor laid a nervous hand on Stephen's shoulder. \n\n — I want you to write something for me, he said. ",
+    "start": 33401,
+    "end": 33430,
+    "canonical_text": "O, for a fresh of breath air!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 29513002,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 21057647,
+        "login": "MarvGarbler",
+        "name": "MarvGarbler",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10504647",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Lazarillo-Don Cesar de Bazan",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Don_C%C3%A9sar_de_Bazan\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Don_C%C3%A9sar_de_Bazan</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10504647/James-joyce-ulysses-chap-16-eumaeus/Lazarillo-don-cesar-de-bazan",
+    "original_id": "10504647",
+    "referent_id": 10504647,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Lazarillo-Don Cesar de Bazan",
+    "prefix": "ge evidently, as he took particular notice. Though not an implicit believer in the lurid story narrated (or the eggsniping transaction for that matter despite William Tell and the ",
+    "suffix": " incident 1922#581depicted in Maritana on which occasion the 1932#535former's ball passed through the latter's hat) having detected a discrepancy between his name (assuming he was ",
+    "start": 32738,
+    "end": 32766,
+    "canonical_text": "Lazarillo-Don Cesar de Bazan"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10504647,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

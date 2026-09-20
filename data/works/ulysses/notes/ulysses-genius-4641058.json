@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4641058",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Swagger",
+  "html_source": "<p>swank and stylish</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4641058/James-joyce-ulysses-chap-5-lotus-eaters/Swagger",
+    "original_id": "4641058",
+    "referent_id": 4641058,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "swagger",
+    "prefix": "Valise tack again. By the way no harm. I'm off that, thanks. \n\n Mr Bloom turned his largelidded eyes with unhasty friendliness. \n\n — My wife too, he said. She's going to sing at a ",
+    "suffix": " affair in the Ulster Hall, Belfast, on the twenty-fifth. \n\n — That so? M'Coy said. Glad to hear that, old man. Who's getting it up? \n\n Mrs Marion Bloom. Not up yet. Queen was in h",
+    "start": 9448,
+    "end": 9455,
+    "canonical_text": "swagger"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4641058,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2607462",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Lait chaud",
+  "html_source": "<p>French for <em>warm milk</em>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2607462/James-joyce-ulysses-chap-3-proteus/Lait-chaud",
+    "original_id": "2607462",
+    "referent_id": 2607462,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "lait chaud",
+    "prefix": " le pigeon, Joseph. \n\n Patrice, home on furlough, lapped warm milk with me in the bar MacMahon. Son of the wild goose, Kevin Egan of Paris. My father's a bird, he lapped the sweet ",
+    "suffix": " with pink young tongue, plump bunny's face. Lap, lapin. He hopes to win in the gros lots. About the nature of women he read in Michelet. But he must send me La Vie de Jésus by M. ",
+    "start": 10176,
+    "end": 10186,
+    "canonical_text": "lait chaud"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2607462,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 293151,
+        "login": "jeeho",
+        "name": "Jeeho",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

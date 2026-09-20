@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23114937",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Silken Thomas",
+  "html_source": "<p>Thomas FitzGerald, 10th Earl of Kildare, who revolted against British rule of Ireland in 1534.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23114937/James-joyce-ulysses-chap-16-eumaeus/Silken-thomas",
+    "original_id": "23114937",
+    "referent_id": 23114937,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Silken Thomas",
+    "prefix": "so that the influx of visitors was not as yet all that it might be considering the signal benefits to be derived from it, while Howth with its historic associations and otherwise, ",
+    "suffix": ", Grace O'Malley, George IV, rhododendrons several hundred feet above sealevel was a favourite haunt with all sorts and conditions of men, especially in the spring when young men's",
+    "start": 37548,
+    "end": 37561,
+    "canonical_text": "Silken Thomas"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23114937,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

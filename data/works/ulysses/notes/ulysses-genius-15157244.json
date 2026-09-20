@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15157244",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Chryselephantine",
+  "html_source": "<p>Made of or gilded with gold and ivory. From Greek χρυσός, chrysós, ‘gold’, and ελεφάντινος, elephántinos, ‘ivory’) is sculpture made with gold and ivory. Famously the enormous statue of Athena Parthenos in the Parthenon, now lost, was made in <a href=\"https://en.wikipedia.org/wiki/Chryselephantine_sculpture\" rel=\"noopener nofollow\">chryselephantine fashion</a> by Phidias.</p><p>The flag of the Vatican is also gold and white:</p><p><img src=\"https://images.genius.com/e573bd7ce5b27c788f2661ae8dc78dde.275x217x1.gif\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15157244/James-joyce-ulysses-chap-15-circe/Chryselephantine",
+    "original_id": "15157244",
+    "referent_id": 15157244,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "chryselephantine",
+    "prefix": "ud appears. A fife and drum band is heard in the distance playing the Kol Nidre. The beaters approach with imperial eagles hoisted, trailing banners and waving oriental palms. The ",
+    "suffix": " papal standard rises high, surrounded by pennons of the civic flag. The van of the procession appears headed by John Howard Parnell, city marshal, in a chessboard tabard, the Athl",
+    "start": 70584,
+    "end": 70600,
+    "canonical_text": "chryselephantine"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15157244,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

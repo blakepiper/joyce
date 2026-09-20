@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9944027",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Gaberdines",
+  "html_source": "<p>gab·ar·dine<br />noun<br />historical<br />a loose long upper garment, worn particularly by Jewish men</p><p><img src=\"https://images.genius.com/8313658cc6acfc6afc2b413c1450fd3b.220x553x1.png\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9944027/James-joyce-ulysses-chap-15-circe/Gaberdines",
+    "original_id": "9944027",
+    "referent_id": 9944027,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "gaberdines",
+    "prefix": "f Ham. \n\n1932#438\n\n(All the people cast soft pantomime stones at Bloom. Many bonafide travellers and ownerless dogs come near him and defile him. Mastiansky and Citron approach in ",
+    "suffix": ", wearing long earlocks. They wag their beards at Bloom.) \n\n1986#405\n\n MASTIANSKY AND CITRON \n\n Belial! Laemlein of Istria! the false Messiah! Abulafia! \n\n(George S. Mesias, Bloom'",
+    "start": 95277,
+    "end": 95287,
+    "canonical_text": "gaberdines"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9944027,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15150806",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Marchand de capotes",
+  "html_source": "<p>This means a cloak merchant, but cloak/capote is also slang for condom, an interpretation confirmed by the rest of the sentence.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15150806/James-joyce-ulysses-chap-14-oxen-of-the-sun/Marchand-de-capotes",
+    "original_id": "15150806",
+    "referent_id": 15150806,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "marchand de capotes",
+    "prefix": "red seven showers, we were neither of us a penny the worse. But beshrew me, he cried, clapping hand to his forehead, tomorrow will be a new day and, thousand thunders, I know of a ",
+    "suffix": ", Monsieur Poyntz, from whom I can have for a livre as snug a cloak of the French fashion as ever kept a lady from wetting. Tut, tut! cries Le Fécondateur, tripping in, my friend M",
+    "start": 55952,
+    "end": 55971,
+    "canonical_text": "marchand de capotes"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15150806,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21139892",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Foretold by Hamlet",
+  "html_source": "<p>A nod to Hamlet’s statement to Ophelia in Act III, Scene 1 that “we will have no more marriages.”</p><p>Quoted at greater length by Mr Best a few sentences later.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21139892/James-joyce-ulysses-chap-9-scylla-and-charybdis/Foretold-by-hamlet",
+    "original_id": "21139892",
+    "referent_id": 21139892,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "foretold by Hamlet",
+    "prefix": "man of catholics call dio boia, hangman god, is doubtless all in all in all of us, ostler and butcher, and would be bawd and 1922#204cuckold too but that in the economy of heaven, ",
+    "suffix": ", there are no more marriages, glorified man, an androgynous angel, being a wife unto himself. \n\n— Eureka! Buck Mulligan cried. Eureka! \n\n Suddenly happied he jumped up and reached",
+    "start": 61304,
+    "end": 61322,
+    "canonical_text": "foretold by Hamlet"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21139892,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

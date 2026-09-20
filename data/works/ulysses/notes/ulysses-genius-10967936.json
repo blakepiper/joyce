@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10967936",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Barrels bumped in his head",
+  "html_source": "<p>Bloom’s imagination is stirred by his outside environment. He thinks of barrels bumping because of the train clanking overhead. The repetition of sounds “ain” “clain” and “bare” “buh” shows this parallel.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10967936/James-joyce-ulysses-chap-5-lotus-eaters/Barrels-bumped-in-his-head",
+    "original_id": "10967936",
+    "referent_id": 10967936,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Barrels bumped in his head",
+    "prefix": " millions of barrels of porter. \n\n What am I saying barrels? Gallons. About a million barrels all the same. \n\n An incoming train clanked heavily above his head, coach after coach. ",
+    "suffix": ": dull porter slopped and churned inside. The bungholes sprang open and a huge dull flood leaked out, flowing together, winding through mudflats all over the level land, a lazy poo",
+    "start": 19292,
+    "end": 19318,
+    "canonical_text": "Barrels bumped in his head"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10967936,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1060900,
+        "login": "dvrath",
+        "name": "dvrath",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

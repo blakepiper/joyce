@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4006300",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "In the second carriage, miss Douce’s wet lips said, laughing in the sun",
+  "html_source": "<p>Ms Douce is often described in terms including her lips and eyes whereas Ms Kennedy is described in terms involving her ear. This is part of the exploration of the visual and aural in the episode.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4006300/James-joyce-ulysses-chap-11-sirens/In-the-second-carriage-miss-douces-wet-lips-said-laughing-in-the-sun",
+    "original_id": "4006300",
+    "referent_id": 4006300,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "In the second carriage, miss Douce's wet lips said, laughing in the sun",
+    "prefix": "Nil. \n\n — Exquisite contrast, Miss Kennedy said. \n\n When all agog Miss Douce said eagerly: \n\n — Look at the fellow in the tall silk. \n\n — Who? Where? gold asked more eagerly. \n\n — ",
+    "suffix": ". \n\n He's looking. Mind till I see. \n\n She darted, bronze, to the backmost corner, flattening her face against the pane in a halo of hurried breath. \n\n Her wet lips tittered: \n\n — ",
+    "start": 2918,
+    "end": 2989,
+    "canonical_text": "In the second carriage, Miss Douce's wet lips said, laughing in the sun"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4006300,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

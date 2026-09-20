@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4002782",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Mrs de Massey",
+  "html_source": "<p>Owner of the hotel, (Gifford &amp; Seidman Ulysses Annotated).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4002782/James-joyce-ulysses-chap-11-sirens/Mrs-de-massey",
+    "original_id": "4002782",
+    "referent_id": 4002782,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Mrs de Massey",
+    "prefix": "\n — What is it? loud boots unmannerly asked. \n\n — Find out, Miss Douce retorted, leaving her spyingpoint. \n\n — Your beau, is it? \n\n A haughty bronze replied: \n\n — I'll complain to ",
+    "suffix": " on you if I hear any more of your impertinent insolence. \n\n — Imperthnthn thnthnthn, bootsnout sniffed rudely, as he retreated as she threatened as he had come. \n\n1922#247\n\n Bloom",
+    "start": 4232,
+    "end": 4245,
+    "canonical_text": "Mrs de Massey"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4002782,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

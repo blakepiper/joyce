@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4592234",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Our daily bread",
+  "html_source": "<p><a href=\"https://genius.com/2304554\" rel=\"noopener nofollow\">Alludes to the “Lord’s Prayer” Matthew 6:11 or Luke 11:3</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4592234/James-joyce-ulysses-chap-16-eumaeus/Our-daily-bread",
+    "original_id": "4592234",
+    "referent_id": 4592234,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "our daily bread",
+    "prefix": "acting as his fidus Achates inhaled with internal satisfaction the smell of James Rourke's city bakery, situated quite close to where they were, the very palatable odour indeed of ",
+    "suffix": ", of all commodities of the public the primary and most indispensable. Bread, the staff of life, earn your bread, O tell me where is fancy bread, at Rourke's the baker's it is said",
+    "start": 4136,
+    "end": 4151,
+    "canonical_text": "our daily bread"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4592234,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

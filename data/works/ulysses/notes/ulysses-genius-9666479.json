@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9666479",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Lorcan Sherlock",
+  "html_source": "<p>Lorcan George Sherlock (1874 in Dublin – 1945)<br />Like his father, Lorcan Sherlock,was a member of the City Council of Dublin .<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9666479/James-joyce-ulysses-chap-15-circe/Lorcan-sherlock",
+    "original_id": "9666479",
+    "referent_id": 9666479,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Lorcan Sherlock",
+    "prefix": "ke hands with Bloom and congratulate him. Timothy Harrington, late thrice Lord Mayor of Dublin, imposing in mayoral scarlet, gold chain and white silk tie, confers with councillor ",
+    "suffix": ", locum tenens. They nod vigorously in agreement.) \n\n1986#3901922#452\n\n LATE LORD MAYOR HARRINGTON \n\n(In scarlet robe with mace, gold mayoral chain and large white silk scarf.) Tha",
+    "start": 68681,
+    "end": 68696,
+    "canonical_text": "Lorcan Sherlock"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9666479,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8763920",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Because she never let them in",
+  "html_source": "<p>The history of the Jews in Ireland extends back nearly a thousand years. Although the Jewish community has always been small in numbers (not exceeding 5,500 by religion since at least 1891), it is well established and has generally been well-accepted into Irish life. Jews in Ireland have historically enjoyed a relative tolerance that was largely absent elsewhere in Europe.</p><p>There was an increase in Jewish immigration to Ireland during the late nineteenth and early twentieth centuries. In 1871, the Jewish population of Ireland was 258; by 1881, it had risen to 453. Most of the immigration up to this time had come from England or Germany. A group who settled in Waterford were Welsh, whose families originally came from Central Europe. In the wake of the Russian pogroms there was increased immigration, mostly from Eastern Europe (in particular Lithuania). By 1901, there were an estimated 3,771 Jews in Ireland, over half of them (2,200) residing in Dublin. By 1904, the total Jewish population had reached an estimated 4,800.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8763920/James-joyce-ulysses-chap-2-nestor/Because-she-never-let-them-in",
+    "original_id": "8763920",
+    "referent_id": 8763920,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "Because she never let them in",
+    "prefix": "country which never persecuted the jews. Do you know that? No. And do you know why? \n\n He frowned sternly on the bright air. \n\n — Why, sir? Stephen asked, beginning to smile. \n\n — ",
+    "suffix": ", Mr Deasy said solemnly.1932#33\n\nA coughball of laughter leaped from his throat dragging after it a rattling chain of phlegm. He turned back quickly, coughing, laughing, his lifte",
+    "start": 25317,
+    "end": 25346,
+    "canonical_text": "Because she never let them in"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8763920,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

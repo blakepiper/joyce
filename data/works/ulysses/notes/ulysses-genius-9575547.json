@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-9575547",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Chacun son goût",
+  "html_source": "<p>To each his own – everyone to his own taste.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9575547/James-joyce-ulysses-chap-15-circe/Chacun-son-gout",
+    "original_id": "9575547",
+    "referent_id": 9575547,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Chacun son goût",
+    "prefix": "against his hand, wagging his tail.) Strange how they take to me. Even that brute today. Better speak to 1986#369him first. Like women they like rencontres. Stinks like a polecat. ",
+    "suffix": ". He might be mad. Dogdays. Uncertain in his movements. Good fellow! Fido! Good fellow! Garryowen! (The wolfdog sprawls on his back, wriggling obscenely with begging paws, his long",
+    "start": 31850,
+    "end": 31865,
+    "canonical_text": "Chacun son goût"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9575547,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.5555555555555556
+      },
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.4444444444444444
+      }
+    ]
+  },
+  "color": "F59627"
+}

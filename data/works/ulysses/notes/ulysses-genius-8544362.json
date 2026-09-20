@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8544362",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Quis est homo",
+  "html_source": "<p>Latin: “Who is the man?” These are the opening words of the third stanza of the Stabat Mater. In Rossini’s setting, <em>Quis est homo?</em> is a duet for soprano and mezzo-soprano. His reference to Mercadante is puzzling.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8544362/James-joyce-ulysses-chap-11-sirens/Quis-est-homo",
+    "original_id": "8544362",
+    "referent_id": 8544362,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "quis est homo",
+    "prefix": "ng cat. Like tearing silk. Tongue when she talks like the clapper of a bellows. They can't manage men's intervals. Gap in their voices too. Fill me. I'm warm, dark, open. Molly in ",
+    "suffix": ": Mercadante. My ear against the wall to hear. Want a woman who can deliver the goods. \n\n1922#270\n\n Jog jig jogged stopped. Dandy tan shoe of dandy Boylan socks skyblue clocks came",
+    "start": 54655,
+    "end": 54668,
+    "canonical_text": "quis est homo"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8544362,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

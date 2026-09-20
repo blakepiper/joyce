@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3246744",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "WILLIAM BRAYDEN, ESQUIRE, OF OAKLANDS, SANDYMOUNT",
+  "html_source": "<p>A narrative stylisation form Joyce rather than an internal Bloom narrative.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3246744/James-joyce-ulysses-chap-7-aeolus/William-brayden-esquire-of-oaklands-sandymount",
+    "original_id": "3246744",
+    "referent_id": 3246744,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "WILLIAM BRAYDEN, ESQUIRE, OF OAKLANDS, SANDYMOUNT",
+    "prefix": ". \n\n — Of course, if he wants a par, Red Murray said earnestly, a pen behind his ear, we can do him one. \n\n1939#88\n\n — Right, Mr Bloom said with a nod. I'll rub that in. \n\n We. \n\n ",
+    "suffix": " \n\n Red Murray touched Mr Bloom's arm with the shears and whispered: \n\n — Brayden. \n\n Mr Bloom turned and saw the liveried porter raise his lettered cap as a stately figure entered",
+    "start": 1979,
+    "end": 2028,
+    "canonical_text": "WILLIAM BRAYDEN, ESQUIRE, OF OAKLANDS,\nSANDYMOUNT"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 3246744,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

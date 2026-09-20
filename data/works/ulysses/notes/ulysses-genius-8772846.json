@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8772846",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Cabman’s shelter",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/351e49a5855ac8a05ee4fa921d493a4a.508x606x1.jpg\" alt=\"\" /></p><p>Features later in ‘Eumaeus’ after Bloom finds his Telemachus.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8772846/James-joyce-ulysses-chap-5-lotus-eaters/Cabmans-shelter",
+    "original_id": "8772846",
+    "referent_id": 8772846,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "cabman's shelter",
+    "prefix": "neigh can be very irritating. \n\n He drew the letter from his pocket and folded it into the newspaper he carried. Might just walk into her here. The lane is safer. \n\n He passed the ",
+    "suffix": ". Curious the life of drifting cabbies. All weathers, all places, time or setdown, no will of their own. Voglio e non. Like to give them an odd cigarette. Sociable. Shout a few fly",
+    "start": 13691,
+    "end": 13707,
+    "canonical_text": "cabman's shelter"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8772846,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.7692307692307692
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.23076923076923075
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2078823",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "To be short",
+  "html_source": "<p>This section (“To be short” through “of a natural phenomenon”) imitates the styles of Latinate prose from the sixteenth and seventeenth centuries, e.g. that of John Milton.</p><p><img src=\"https://images.genius.com/a96a849982193670da0e66f6ad526311.220x210x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2078823/James-joyce-ulysses-chap-14-oxen-of-the-sun/To-be-short",
+    "original_id": "2078823",
+    "referent_id": 2078823,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "To be short",
+    "prefix": "or his cognisance the flower of quiet, margerain gentle, advising also the time's occasion as most sacred and most worthy to be most sacred. In Horne's house rest should reign. \n\n ",
+    "suffix": " this passage was scarce by when Master Dixon of Mary in Eccles, goodly grinning, asked young Stephen what was the reason why he had not cided to take friar's vows and he answered ",
+    "start": 23668,
+    "end": 23679,
+    "canonical_text": "To be short"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2078823,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2081125",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Here the listener",
+  "html_source": "<p>This section (beginning with “Here the listener” and ending with “of our store of knowledge”) is in the style of <a href=\"http://en.wikipedia.org/wiki/Laurence_Sterne\" rel=\"noopener nofollow\">Laurence Sterne</a>, author of <a href=\"http://en.wikipedia.org/wiki/The_Life_and_Opinions_of_Tristram_Shandy,_Gentleman\" rel=\"noopener nofollow\">* The Life and Opinions of Tristram Shandy, Gentleman*</a> and <a href=\"http://en.wikipedia.org/wiki/A_Sentimental_Journey_Through_France_and_Italy\" rel=\"noopener nofollow\"><em>Sentimental Journey Through France and Italy</em></a>.</p><p><img src=\"https://images.genius.com/bf43118396a07e9ebf13f4b5591f46c1.250x313x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2081125/James-joyce-ulysses-chap-14-oxen-of-the-sun/Here-the-listener",
+    "original_id": "2081125",
+    "referent_id": 2081125,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Here the listener",
+    "prefix": "rms of mirth and threw the whole room into the most violent agitations of delight. The spry rattle had run on in the same vein of mimicry but for some larum in the antechamber. \n\n ",
+    "suffix": " who was none other than the Scotch student, a little fume of a fellow, blond as tow, congratulated in the liveliest fashion with the young gentleman and, interrupting the narrativ",
+    "start": 53110,
+    "end": 53127,
+    "canonical_text": "Here the listener"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2081125,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

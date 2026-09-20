@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8770068",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Royal Dublin fusiliers. Redcoats",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/08e49b62c928ad10320bc774f125abdb.700x438x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8770068/James-joyce-ulysses-chap-5-lotus-eaters/Royal-dublin-fusiliers-redcoats",
+    "original_id": "8770068",
+    "referent_id": 8770068,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "royal Dublin fusiliers. Redcoats",
+    "prefix": "et, reviewing again the soldiers on parade. Where's old Tweedy's regiment? Castoff soldier. There: bearskin cap and hackle plume. No, he's a grenadier. Pointed cuffs. There he is: ",
+    "suffix": ". Too showy. That must be why the women go after them. Uniform. Easier to enlist and drill. Maud Gonne's letter about taking them off O'Connell street at night: disgrace to our Iri",
+    "start": 4643,
+    "end": 4675,
+    "canonical_text": "royal Dublin fusiliers. Redcoats"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8770068,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

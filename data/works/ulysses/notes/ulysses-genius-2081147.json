@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2081147",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "What God has joined.",
+  "html_source": "<p>This ends the section in the style of Edward Gibbon which began with “The news was imparted.”</p><p><img src=\"https://images.genius.com/0421b5cee7c0276de2b98561b0450e66.459x600x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2081147/James-joyce-ulysses-chap-14-oxen-of-the-sun/What-god-has-joined",
+    "original_id": "2081147",
+    "referent_id": 2081147,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "what God has joined.",
+    "prefix": " with which he was invested or in obedience to an inward voice, he delivered briefly and, as some thought, perfunctorily the ecclesiastical ordinance forbidding man to put asunder ",
+    "suffix": " \n\n But Malachias' tale began to freeze them with horror. He conjured up the scene before them. The secret panel beside the chimney slid back and in the recess appeared... Haines! ",
+    "start": 73091,
+    "end": 73111,
+    "canonical_text": "what God has joined."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2081147,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

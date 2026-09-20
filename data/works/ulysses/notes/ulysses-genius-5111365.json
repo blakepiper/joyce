@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5111365",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Down the edge of the paper",
+  "html_source": "<p>The ‘Freeman’s journal’ carried obituaries at the top of the left-hand column on page one. The names Bloom reads do not appear in the 16 June 1904 edition, and none seems to have any significance except momentarily Peake, who is mentioned as “hounded…out of the office” in “Counterparts,” ‘Dubliners.’</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5111365/James-joyce-ulysses-chap-6-hades/Down-the-edge-of-the-paper",
+    "original_id": "5111365",
+    "referent_id": 5111365,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "down the edge of the paper",
+    "prefix": "er this morning.\n\nMr Bloom took the paper from his inside pocket. That book I must change for her.\n\n—No, no, Mr Dedalus said quickly. Later on please.\n\nMr Bloom's glance travelled ",
+    "suffix": ", scanning the deaths: Callan, Coleman, Dignam, Fawcett, Lowry, Naumann, Peake, what Peake is that? is it the chap was in Crosbie and Alleyne's? no, Sexton, Urbright. Inked charact",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.7931
+  },
+  "genius": {
+    "referent_id": 5111365,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

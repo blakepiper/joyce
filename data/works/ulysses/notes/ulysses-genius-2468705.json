@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-2468705",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Shunted",
+  "html_source": "<p>To shunt is the act or process of turning aside or moving to an alternate course.</p><p>PROPOSED SUGGESTION: Shunting is an electrical term as the power is shunted around the motors when the tram is stopped.  <a href=\"https://www.youtube.com/watch?v=6WhEZo06Zd0\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=6WhEZo06Zd0</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2468705/James-joyce-ulysses-chap-7-aeolus/Shunted",
+    "original_id": "2468705",
+    "referent_id": 2468705,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "shunted",
+    "prefix": "\n\n[7]\n\n\n IN THE HEART OF THE HIBERNIAN METROPOLIS \n\nBefore Nelson's pillar trams slowed, ",
+    "suffix": ", changed trolley, started for Blackrock, Kingstown and Dalkey, Clonskea, Rathgar and Terenure, Palmerston Park and upper Rathmines, Sandymount Green, Rathmines, Ringsend and Sandy",
+    "start": 89,
+    "end": 96,
+    "canonical_text": "shunted"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2468705,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 0.696969696969697
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.30303030303030304
+      }
+    ]
+  },
+  "color": "F59627"
+}

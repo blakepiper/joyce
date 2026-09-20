@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10518668",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Crawsick",
+  "html_source": "<p>Suffering from a hangover</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10518668/James-joyce-ulysses-chap-2-nestor/Crawsick",
+    "original_id": "10518668",
+    "referent_id": 10518668,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "crawsick",
+    "prefix": "whirring whistle. \n\n Again: a goal. I am among them, among their battling bodies in a medley, the joust of life. You mean that knockkneed mother's darling who seems to be slightly ",
+    "suffix": "? Jousts. Time shocked rebounds, shock by shock. Jousts, slush and uproar of battles, the frozen deathspew of the slain, a shout of spearspikes baited with men's bloodied guts. \n\n ",
+    "start": 17993,
+    "end": 18001,
+    "canonical_text": "crawsick"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10518668,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

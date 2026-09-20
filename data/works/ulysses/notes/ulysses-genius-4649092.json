@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4649092",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Croak",
+  "html_source": "<p>A croak from the “toad’s belly”?</p><p><img src=\"https://images.rapgenius.com/895ce8a7025d193597a2426ddbb25971.427x640x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4649092/James-joyce-ulysses-chap-6-hades/Croak",
+    "original_id": "4649092",
+    "referent_id": 4649092,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "croak",
+    "prefix": "ith the other a little book against his toad's belly. Who'll read the book? I, said the rook. \n\n They halted by the bier and the priest began to read out of his book with a fluent ",
+    "suffix": ". \n\n1922#99\n\n Father Coffey. I knew his name was like a coffin. Domine-namine. Bully about the muzzle he looks. Bosses the show. Muscular christian. Woe betide anyone that looks cr",
+    "start": 35288,
+    "end": 35293,
+    "canonical_text": "croak"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4649092,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8768753",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "And he shall carry the sins of the people to Azazel",
+  "html_source": "<p>He shall become a scapegoat, taking upon himself the sins of the people, and be cast out.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8768753/James-joyce-ulysses-chap-15-circe/And-he-shall-carry-the-sins-of-the-people-to-azazel",
+    "original_id": "8768753",
+    "referent_id": 8768753,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "And he shall carry the sins of the people to Azazel",
+    "prefix": "\nYou think the ladies love you! \n\n THE PRISON GATE GIRLS \n\nIf you see Kay \nTell him he may \nSee you in tea \nTell him from me. \n\n HORNBLOWER \n\n(In ephod and huntingcap, announces.) ",
+    "suffix": ", the spirit which is in the wilderness, and to Lilith, the 1922#468nighthag. And they shall stone him and defile him, yea, all from Agendath Netaim and from Mizraim, the land of H",
+    "start": 94869,
+    "end": 94920,
+    "canonical_text": "And he shall carry the sins of the people to Azazel"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8768753,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

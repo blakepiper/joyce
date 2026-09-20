@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21102167",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "The bear",
+  "html_source": "<p>The constellation Ursa Major, or the Great Bear, which contains the Big Dipper.<br /><a href=\"https://en.wikipedia.org/wiki/Ursa_Major\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Ursa_Major</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21102167/James-joyce-ulysses-chap-9-scylla-and-charybdis/The-bear",
+    "original_id": "21102167",
+    "referent_id": 21102167,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "the bear",
+    "prefix": "hone 1932#188over delta in Cassiopeia, the recumbent constellation which is the signature of his initial among the stars. His eyes watched it, lowlying on the horizon, eastward of ",
+    "suffix": ", as he walked by the slumberous summer fields at midnight returning from Shottery and from her arms. \n\n1986#172\n\n Both satisfied. I too. \n\n Don't tell them he was nine years old w",
+    "start": 53897,
+    "end": 53905,
+    "canonical_text": "the bear"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9576
+  },
+  "genius": {
+    "referent_id": 21102167,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

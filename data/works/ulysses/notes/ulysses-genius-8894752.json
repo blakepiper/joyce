@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8894752",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Smoking concert",
+  "html_source": "<p>Smoking concerts were live performances, usually of music, before an audience of men only; popular during the Victorian era. These social occasions were instrumental in introducing new musical forms to the public. At these functions men would smoke and speak of politics while listening to live music. These popular gatherings were sometimes held at hotels.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8894752/James-joyce-ulysses-chap-11-sirens/Smoking-concert",
+    "original_id": "8894752",
+    "referent_id": 8894752,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "smoking concert",
+    "prefix": "ing mountain eye. Set down his glass. \n\n He looked towards the saloon door. \n\n — I see you have moved the piano. \n\n — The tuner was in today, Miss Douce replied, tuning it for the ",
+    "suffix": " and I never heard such an exquisite player. \n\n — Is that a fact? \n\n — Didn't he, Miss Kennedy? The real classical, you know. And blind too, poor fellow. Not twenty I'm sure he was",
+    "start": 13690,
+    "end": 13705,
+    "canonical_text": "smoking concert"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8894752,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

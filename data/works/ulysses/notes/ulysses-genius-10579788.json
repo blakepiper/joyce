@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10579788",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Soberly",
+  "html_source": "<p>A reference to the Odyssey. While his crew remain intoxicated by the effects of the lotuses, Odysseus rides soberly from the Land of the Lotus Eaters.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10579788/James-joyce-ulysses-chap-5-lotus-eaters/Soberly",
+    "original_id": "10579788",
+    "referent_id": 10579788,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "soberly",
+    "prefix": "\n\n[5]\n\n\n\nBy lorries along sir John Rogerson's quay Mr Bloom walked ",
+    "suffix": ", past Windmill lane, Leask's the linseed crusher, the postal telegraph office. Could have given that address too. And past the sailors' home. He turned from the morning noises of ",
+    "start": 67,
+    "end": 74,
+    "canonical_text": "soberly"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10579788,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

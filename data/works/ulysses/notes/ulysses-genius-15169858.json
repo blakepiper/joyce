@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15169858",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Prurition",
+  "html_source": "<p>Itching. From Latin prurire (“to itch”).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15169858/James-joyce-ulysses-chap-17-ithaca/Prurition",
+    "original_id": "15169858",
+    "referent_id": 15169858,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "prurition",
+    "prefix": "low the diaphragm 1961#710resulting from a sting inflicted 2 weeks and 3 days previously (23 May 1904) by a bee. He scratched imprecisely with his right hand, though insensible of ",
+    "suffix": ", various points and surfaces of his partly exposed, wholly abluted skin. He inserted his left hand into the left lower pocket of his waistcoat and extracted and replaced a silver ",
+    "start": 91624,
+    "end": 91633,
+    "canonical_text": "prurition"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15169858,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

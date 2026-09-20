@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10121351",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Mrs Pearcy",
+  "html_source": "<p>Reference to a 1890 murder in London. The victim was named Hogg, not Mogg.<br /><a href=\"http://murderpedia.org/female.P/p/pearcey-mary.htm\" rel=\"noopener nofollow\">http://murderpedia.org/female.P/p/pearcey-mary.htm</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10121351/James-joyce-ulysses-chap-15-circe/Mrs-pearcy",
+    "original_id": "10121351",
+    "referent_id": 10121351,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Mrs Pearcy",
+    "prefix": "country beyond the king. \n\n RUMBOLD, DEMON BARBER \n\n(Accompanied by two blackmasked assistants, advances with gladstone bag which he opens.) Ladies and gents, cleaver purchased by ",
+    "suffix": " to slay Mogg. Knife with which Voisin dismembered the wife of a compatriot and hid remains in a sheet in the cellar, the unfortunate female's throat being cut from ear to ear. Phi",
+    "start": 220938,
+    "end": 220948,
+    "canonical_text": "Mrs Pearcy"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10121351,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

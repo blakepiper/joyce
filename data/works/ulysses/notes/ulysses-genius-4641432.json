@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4641432",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "P.P.",
+  "html_source": "<p>P.P. = parish priest.</p><p><img src=\"https://images.rapgenius.com/7b5be0f888ae7a1804515eb6d4ab22cc.220x332x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4641432/James-joyce-ulysses-chap-5-lotus-eaters/Pp",
+    "original_id": "4641432",
+    "referent_id": 4641432,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "P.P.",
+    "prefix": "ute will address the meeting. How I found the Lord. Squareheaded chaps those must be in Rome: they work the whole show. And don't they rake in the money too? Bequests also: to the ",
+    "suffix": " for the time being in his absolute discretion. Masses for the repose of my soul to be said publicly with open doors. Monasteries and convents. The priest in the Fermanagh will cas",
+    "start": 27829,
+    "end": 27833,
+    "canonical_text": "P.P."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4641432,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

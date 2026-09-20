@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8765475",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Brown scapulars",
+  "html_source": "<p>The scapular (from Latin scapulae, “shoulders”) is a Christian garment suspended from the shoulders. The devotional scapular typically consists of two small (usually rectangular) pieces of cloth, wood or laminated paper, a few inches in size, which may bear religious images or text. These are joined by two bands of cloth and the wearer places one square on the chest, rests the bands one on each shoulder and lets the second square drop down the back.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8765475/James-joyce-ulysses-chap-4-calypso/Brown-scapulars",
+    "original_id": "8765475",
+    "referent_id": 8765475,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Brown scapulars",
+    "prefix": " the sun shines. She stood outside the shop in sunlight and sauntered lazily to the right. He sighed down his nose: they never understand. Sodachapped hands. Crusted toenails too. ",
+    "suffix": " in tatters, defending her both ways. The sting1961#59 of disregard glowed to weak pleasure within his breast. For another: a constable off duty cuddled her in Eccles lane. They li",
+    "start": 11397,
+    "end": 11412,
+    "canonical_text": "Brown scapulars"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8765475,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

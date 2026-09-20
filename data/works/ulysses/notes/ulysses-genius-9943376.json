@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9943376",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Et vocabitur nomen eius Emmanuel",
+  "html_source": "<p>Latin: and they shall call his name Emmanuel</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9943376/James-joyce-ulysses-chap-15-circe/Et-vocabitur-nomen-eius-emmanuel",
+    "original_id": "9943376",
+    "referent_id": 9943376,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "et vocabitur nomen eius Emmanuel",
+    "prefix": "begat Savorgnanovich and Savorgnanovich begat Jasperstone and Jasperstone begat Vingtetunieme and Vingtetunieme begat Szombathely and Szombathely begat Virag and Virag begat Bloom ",
+    "suffix": ". \n\n1922#467\n\n A DEADHAND \n\n (Writes on the wall.) Bloom is a cod. \n\n1986#404\n\n CRAB \n\n(In bushranger's kit.) What did you do in the cattlecreep behind Kilbarrack? \n\n A FEMALE INFA",
+    "start": 93807,
+    "end": 93839,
+    "canonical_text": "et vocabitur nomen eius Emmanuel"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9943376,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

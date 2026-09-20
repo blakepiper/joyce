@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8522557",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Bright’s bright eye",
+  "html_source": "<p>Bright’s disease. The medical term for this condition used to be ‘Retinitis morbus Brightii’.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8522557/James-joyce-ulysses-chap-11-sirens/Brights-bright-eye",
+    "original_id": "8522557",
+    "referent_id": 8522557,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Bright's bright eye",
+    "prefix": "e. Maas was the boy. Massboy. A lyrical tenor if you like. Never forget it. Never. \n\n1986#223\n\n Tenderly Bloom over liverless bacon saw the tightened features strain. Backache he. ",
+    "suffix": ". Next item on the programme. Paying the piper. Pills, pounded bread, worth a guinea a box. Stave it off awhile. Sings too: Down among the dead men. Appropriate. Kidney pie. Sweets",
+    "start": 32369,
+    "end": 32388,
+    "canonical_text": "Bright's bright eye"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8522557,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2471124",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "And touch him for a guinea",
+  "html_source": "<p>Ask to borrow some money. The guinea was a british coin originally worth about a pound sterling, or 20 shillings, but which was generally worth a lot more. By the time Ulysses was published, the coin had been replaced by the Pound/Sovereign, though the term was still colloquially in use to mean 21 shillings (it’s last official fixed value), or a generic sum, a little like saying, “see if he’ll lend you a fiver.” There is, however, a certain aristocratic connotation to using the word ‘guinea’, hence the subsequent, “he thinks you’re not a gentleman.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2471124/James-joyce-ulysses-chap-1-telemachus/And-touch-him-for-a-guinea",
+    "original_id": "2471124",
+    "referent_id": 2471124,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "and touch him for a guinea",
+    "prefix": "any of them. \n\n Parried again. He fears the lancet of my art as I fear that of his. The cold steelpen. \n\n — Cracked lookingglass of a servant! Tell that to the oxy chap downstairs ",
+    "suffix": ". He's stinking with money and thinks you're not a gentleman. His old fellow made his tin by selling jalap to Zulus or some bloody swindle or other. God, Kinch, if you and I could ",
+    "start": 9058,
+    "end": 9084,
+    "canonical_text": "and touch him for a guinea"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2471124,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 330606,
+        "login": "Caudelac",
+        "name": "Caudelac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

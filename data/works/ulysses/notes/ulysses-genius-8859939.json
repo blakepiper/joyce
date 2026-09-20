@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8859939",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Haud ignarus malorum miseris succurrere disco,",
+  "html_source": "<p>Latin for: “not at all ignorant of misfortune, I have learned to succor the miserable.” This would be better uttered by Bloom. Perhaps Joyce’s purpose was to make that contrast, although Stephen does, in fact, attempt to help the man, but Bloom had taken possession of Stephen’s money for safekeeping.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8859939/James-joyce-ulysses-chap-16-eumaeus/Haud-ignarus-malorum-miseris-succurrere-disco",
+    "original_id": "8859939",
+    "referent_id": 8859939,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "haud ignarus malorum miseris succurrere disco,",
+    "prefix": "t still Stephen's feelings got the better of him in a sense though he knew that Corley's brandnew rigmarole on a par with the others was hardly deserving of much credence. However ",
+    "suffix": " etcetera, as the Latin poet remarks, especially as luck would have it he got paid his screw after every middle of the month on the sixteenth which was the date of the month as a m",
+    "start": 12218,
+    "end": 12264,
+    "canonical_text": "haud ignarus malorum miseris succurrere disco,"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8859939,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

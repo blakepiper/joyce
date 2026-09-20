@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8504986",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Coactus volui.",
+  "html_source": "<p>“Against my will.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8504986/James-joyce-ulysses-chap-10-wandering-rocks/Coactus-volui",
+    "original_id": "8504986",
+    "referent_id": 8504986,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Coactus volui.",
+    "prefix": "Elijah's name announced on the Metropolitan hall, frowned at the distant pleasance of duke's lawn. His eyeglass flashed frowning in the sun. With ratsteeth bared he muttered: \n\n — ",
+    "suffix": " \n\n He strode on for Clare street, grinding his fierce word. \n\n As he strode past Mr Bloom's dental windows the sway of his dustcoat brushed rudely from its angle a slender tapping",
+    "start": 63854,
+    "end": 63868,
+    "canonical_text": "Coactus volui."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8504986,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

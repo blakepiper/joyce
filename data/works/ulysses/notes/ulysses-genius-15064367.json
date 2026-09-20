@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15064367",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Parafes",
+  "html_source": "<p>A paraf is a flourish at the end of a signature (harder to immitate, a countermeasure to forgery). In like manner, Farrell flourishes his polysyllables.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15064367/James-joyce-ulysses-chap-9-scylla-and-charybdis/Parafes",
+    "original_id": "15064367",
+    "referent_id": 15064367,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "parafes",
+    "prefix": "attering daylight of no thoughts. \n\n What have I learned? Of them? Of me? \n\n Walk like Haines now. \n\n1986#176In the readers' book Cashel Boyle O'Connor Fitzmaurice Tisdall Farrell ",
+    "suffix": " his polysyllables. Item: was Hamlet mad? The quaker's pate godlily with a priesteen in booktalk. \n\n — O please do, sir... I shall be most pleased... \n\n Amused Buck Mulligan mused ",
+    "start": 64758,
+    "end": 64765,
+    "canonical_text": "parafes"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15064367,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

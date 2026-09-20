@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15161000",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "C’était le sacré pigeon, Philippe.",
+  "html_source": "<p>French: It was the holy pigeon, Philip.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15161000/James-joyce-ulysses-chap-15-circe/Cetait-le-sacre-pigeon-philippe",
+    "original_id": "15161000",
+    "referent_id": 15161000,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "C'était le sacré pigeon, Philippe.",
+    "prefix": "tress and we all subscribed for the funeral. \n\n1986#4241932#4561961#520\n\n PHILIP DRUNK \n\n(Gravely.) Qui vous a mis dans cette fichue position, Philippe? \n\n PHILIP SOBER \n\n(Gaily.) ",
+    "suffix": " \n\n(Kitty unpins her hat and sets it down calmly, patting her henna hair. And a prettier, a daintier head of winsome curls was never seen on a whore's shoulders. Lynch puts on her ",
+    "start": 130293,
+    "end": 130327,
+    "canonical_text": "C'était le sacré pigeon, Philippe."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15161000,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

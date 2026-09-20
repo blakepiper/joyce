@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9216867",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Fragrant sisterhood, Floey, Atty, Tiny",
+  "html_source": "<p>From the last chapter (Nausicca), Bloom remembers:<br />“At Dolphin’s barn charades in Luke Doyle’s house. Mat Dillon and his bevy of daughters: Tiny, Atty, Floey, Maimy, Louy, Hetty.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9216867/James-joyce-ulysses-chap-14-oxen-of-the-sun/Fragrant-sisterhood-floey-atty-tiny",
+    "original_id": "9216867",
+    "referent_id": 9216867,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "fragrant sisterhood, Floey, Atty, Tiny",
+    "prefix": "e sward or collide and stop, one by its fellow, with a brief alert shock. And yonder about that grey urn where the water moves at times in thoughtful irrigation you saw another as ",
+    "suffix": " and their darker friend with I know not what of arresting in her pose then, Our Lady of the Cherries, a comely brace of them pendent from an ear, bringing out the foreign warmth o",
+    "start": 99369,
+    "end": 99407,
+    "canonical_text": "fragrant sisterhood, Floey, Atty, Tiny"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9216867,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

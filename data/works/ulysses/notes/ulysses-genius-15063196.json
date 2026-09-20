@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15063196",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Patient Griselda",
+  "html_source": "<p>Griselda is a <a href=\"https://en.wikipedia.org/wiki/Griselda\" rel=\"noopener nofollow\">figure in European folklore</a> who symbolizes patience/obedience and features prominently in tales from the late Middle Ages and early Renaissance, including those of Bocaccio (Decameron), Chaucer (the Clerk’s Tale), and Petrarch (and later in works by Perrault, Dekker, Scarlatti, and Trollope).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15063196/James-joyce-ulysses-chap-9-scylla-and-charybdis/Patient-griselda",
+    "original_id": "15063196",
+    "referent_id": 15063196,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "patient Griselda",
+    "prefix": "suing the maiden hid. \n\n — We want to hear more, John Eglinton decided with Mr Best's approval. We begin to be interested in Mrs S. Till now we had thought of her, if at all, as a ",
+    "suffix": ", a Penelope stayathome. \n\n — Antisthenes, pupil of Gorgias, Stephen said, took the palm of beauty from Kyrios Menelaus' brooddam, Argive Helen, the wooden mare of Troy in whom a s",
+    "start": 35362,
+    "end": 35378,
+    "canonical_text": "patient Griselda"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15063196,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

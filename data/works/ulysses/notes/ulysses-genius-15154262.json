@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15154262",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Tally ho",
+  "html_source": "<p>Annotating for etymology.</p><p>“Tally ho” was a cry raised during a fox-hunt when the quarry was sighted.</p><p>It dates from around 1772, and is probably derived from the French taïaut, a cry used to excite hounds when hunting deer.</p><p>Taïaut may have originated in the second half of the 13th century by the concatenation of a two-word war-cry: taille haut. “Taille” is the cutting edge of a sword and “haut” means high or ‘raised up’. So the original meaning might be something close to “Swords up!”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15154262/James-joyce-ulysses-chap-14-oxen-of-the-sun/Tally-ho",
+    "original_id": "15154262",
+    "referent_id": 15154262,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Tally ho",
+    "prefix": " true love. Yook. Mona, my own love. Ook. \n\n1961#427\n\n Hark! Shut your obstropolos. Pflaap! Pflaap! Blaze on. There she goes. Brigade! Bout ship. Mount street way. Cut up! Pflaap! ",
+    "suffix": ". You not come? Run, skelter, race. Pflaaaap! \n\n Lynch! Hey? Sign on long o me. Denzille lane this way. Change here for Bawdyhouse. We two, she said, will seek the kips where shady",
+    "start": 113740,
+    "end": 113748,
+    "canonical_text": "Tally ho"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15154262,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

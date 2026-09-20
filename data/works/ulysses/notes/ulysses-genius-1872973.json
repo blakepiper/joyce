@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-1872973",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Limits of the diaphane",
+  "html_source": "<p>Diaphane: the transparent. The term relates to Aristotle’s theory of light . He thought translucence  resided within bodies and the degree to which bodies partake of translucence causes colour (Gifford. Annotated Ulysses, p 45).</p><p><img src=\"https://images.rapgenius.com/632181dc0cf78c29d25d6d2d19bc050c.1000x625x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1872973/James-joyce-ulysses-chap-3-proteus/Limits-of-the-diaphane",
+    "original_id": "1872973",
+    "referent_id": 1872973,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Limits of the diaphane",
+    "prefix": "o more, thought through my eyes. Signatures of all things I am here to read, seaspawn and seawrack, the nearing tide, that rusty boot. Snotgreen, bluesilver, rust: coloured signs. ",
+    "suffix": ". But he adds: in bodies. Then he was aware of them bodies before of them coloured. How? By knocking his sconce against them, sure. Go easy. Bald he was and a millionaire, maestro ",
+    "start": 245,
+    "end": 267,
+    "canonical_text": "Limits of the diaphane"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1872973,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.9523809523809524
+      },
+      {
+        "id": 176532,
+        "login": "biblicalmike",
+        "name": "Michael Bible",
+        "role": "verified_artist",
+        "attribution": 0.047619047619047616
+      }
+    ]
+  },
+  "color": "F59627"
+}

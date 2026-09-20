@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15153737",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Succubitus felix",
+  "html_source": "<p>Latin for “happily lying beneath/below” or “happily succumbing”. Related to the term succubus via late Middle English: from medieval Latin succubus ‘prostitute,’ from succubare, from sub- ‘under’ + cubare ‘to lie.’</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15153737/James-joyce-ulysses-chap-14-oxen-of-the-sun/Succubitus-felix",
+    "original_id": "15153737",
+    "referent_id": 15153737,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "succubitus felix",
+    "prefix": "e tantamount to a cooperation 1922#397(one of nature's favourite devices) between the nisus formativus of the nemasperm on the one hand and on the other a happily chosen position, ",
+    "suffix": " of the passive element. The other problem raised by the same inquirer is scarcely less vital: infant mortality. It is interesting because, 1939#300as he pertinently remarks, we ar",
+    "start": 89838,
+    "end": 89854,
+    "canonical_text": "succubitus felix"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15153737,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

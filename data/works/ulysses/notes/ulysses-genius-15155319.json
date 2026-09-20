@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15155319",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Scrofulous",
+  "html_source": "<p><a href=\"https://en.wiktionary.org/wiki/scrofula\" rel=\"noopener nofollow\">Scrofula</a> is one of many terms for tuberculosis; it can also refer to a strain particularly common in children.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15155319/James-joyce-ulysses-chap-15-circe/Scrofulous",
+    "original_id": "15155319",
+    "referent_id": 15155319,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "scrofulous",
+    "prefix": "d wails. Oaths of a man roar, mutter, cease. Figures wander, lurk, peer from warrens. In a room lit by a candle stuck in a bottleneck a slut combs out the tatts from the hair of a ",
+    "suffix": " child. Cissy Caffrey's voice, still young, sings shrill from a lane.) \n\n1932#388\n\n CISSY CAFFREY \n\nI gave it to Molly \nBecause she was jolly, \nThe leg of the duck, \nThe leg of the",
+    "start": 2097,
+    "end": 2107,
+    "canonical_text": "scrofulous"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15155319,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

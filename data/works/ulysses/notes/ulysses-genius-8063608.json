@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8063608",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "At Rathoath",
+  "html_source": "<p>Ratoath, a (then) small village in County Meath just outside County Dublin (now a commuter town for the city), is home to one of the Greater Dublin area’s largest race courses: Fairyhouse. The Irish Grand National has taken place here since 1870.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8063608/James-joyce-ulysses-chap-8-lestrygonians/At-rathoath",
+    "original_id": "8063608",
+    "referent_id": 8063608,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "at Rathoath",
+    "prefix": " popular vicereine. Bought the Irish Field now. Lady Mountcashel has quite recovered after her confinement and rode out with the Ward Union staghounds at the enlargement yesterday ",
+    "suffix": ". Uneatable fox. Pothunters too. Fear injects juices make it tender enough for them. Riding astride. Sit her horse like a man. Weightcarrying huntress. No sidesaddle or pillion for",
+    "start": 20948,
+    "end": 20959,
+    "canonical_text": "at Rathoath"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8063608,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2409862,
+        "login": "jocularfowl",
+        "name": "jocularfowl",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

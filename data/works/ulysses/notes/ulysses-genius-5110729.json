@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5110729",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "That’s a fine old custom",
+  "html_source": "<p>The custom of the funeral procession taking a route through the center of the city so that all may see and by implication “pay their last respects”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5110729/James-joyce-ulysses-chap-6-hades/Thats-a-fine-old-custom",
+    "original_id": "5110729",
+    "referent_id": 5110729,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "That's a fine old custom",
+    "prefix": "y is he taking us? Mr Power asked through both windows. \n\n — Irishtown, Martin Cunningham said. Ringsend. Brunswick street. \n\n Mr Dedalus nodded, looking out. \n\n1961#871986#72\n\n — ",
+    "suffix": ", he said. I am glad to see it has not died out. \n\n All watched awhile through their windows caps and hats lifted by passers. Respect. The carriage swerved from the tramtrack to th",
+    "start": 2165,
+    "end": 2189,
+    "canonical_text": "That's a fine old custom"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5110729,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

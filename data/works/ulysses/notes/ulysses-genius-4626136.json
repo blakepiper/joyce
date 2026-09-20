@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4626136",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Wild sea money",
+  "html_source": "<p>Stephen has his eyes closed but can hear (and maybe feel) his boots crushing the sea shells. This immediately makes him think of <a href=\"https://genius.com/4626188\" rel=\"noopener nofollow\">the shells he saw and felt in Deasy’s office.</a></p><p>‘Shells’ is slang for money (Gifford).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4626136/James-joyce-ulysses-chap-3-proteus/Wild-sea-money",
+    "original_id": "4626136",
+    "referent_id": 4626136,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Wild sea money",
+    "prefix": "oots are at the ends of his legs, nebeneinander. Sounds solid: made by the mallet of Los Demiurgos. Am I walking into eternity along Sandymount strand? Crush, crack, crick, crick. ",
+    "suffix": ". Dominie Deasy kens them a'. \n\nWon't you come to Sandymount, \nMadeline the mare? \n\n Rhythm begins, you see. I hear. A catalectic tetrameter of iambs marching. No, agallop: deline ",
+    "start": 1327,
+    "end": 1341,
+    "canonical_text": "Wild sea money"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4626136,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.8421052631578948
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.15789473684210525
+      }
+    ]
+  },
+  "color": "F59627"
+}

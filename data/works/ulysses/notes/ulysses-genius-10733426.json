@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10733426",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Draughts",
+  "html_source": "<p>also known as checkers</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10733426/James-joyce-ulysses-chap-17-ithaca/Draughts",
+    "original_id": "10733426",
+    "referent_id": 10733426,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "draughts",
+    "prefix": " had been his hypothetical singular solutions? \n\n Parlour games (dominos, halma, tiddledywinks, spilikins, cup and ball, nap, spoil five, bezique, twentyfive, beggar my neighbour, ",
+    "suffix": ", chess or backgammon): embroidery, darning or knitting for the policeaided clothing society: musical duets, mandoline and guitar, piano and flute, guitar and piano: legal scrivene",
+    "start": 42717,
+    "end": 42725,
+    "canonical_text": "draughts"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10733426,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

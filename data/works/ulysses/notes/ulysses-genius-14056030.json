@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-14056030",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Martin,",
+  "html_source": "<p>Is this a Joycean slip-up? Power has asked Cunningham to tell Dedalus about the previous night’s singing. So why does Martin Cunningham address his comment to “Martin”. I would infer that Cunningham should be addressing “Simon”. Or am I missing something?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/14056030/James-joyce-ulysses-chap-6-hades/Martin",
+    "original_id": "14056030",
+    "referent_id": 14056030,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Martin,",
+    "prefix": " said eagerly. Wait till1961#90 you hear him, Simon, on Ben Dollard's singing of The Croppy Boy. \n\n — Immense, Martin Cunningham said pompously. His singing of that simple ballad, ",
+    "suffix": " is the most trenchant rendering I ever heard in the whole course of my experience. \n\n — Trenchant, Mr Power said laughing. He's dead nuts on that. And the retrospective arrangemen",
+    "start": 8554,
+    "end": 8561,
+    "canonical_text": "Martin,"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 14056030,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2680303,
+        "login": "Cortez67",
+        "name": "Cortez67",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

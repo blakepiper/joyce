@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15150386",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Fasciated",
+  "html_source": "<p>In botany, the abnormal fusion of neighboring parts<br />In zoology, stripes or banding</p><p>Same root as fascist: Latin fascia</p><p><img src=\"https://images.genius.com/a5f8ee24d38efb74fbdc1933e75d263c.141x500x1.png\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15150386/James-joyce-ulysses-chap-14-oxen-of-the-sun/Fasciated",
+    "original_id": "15150386",
+    "referent_id": 15150386,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "fasciated",
+    "prefix": "e aged sisters draw us into life: we wail, batten, sport, clip, clasp, sunder, dwindle, die: over us dead they bend. First, saved from water of old Nile, among bulrushes, a bed of ",
+    "suffix": " 1986#322wattles: at last the cavity of a mountain, an occulted sepulchre amid the conclamation of the hillcat and the ossifrage. And as no man 1932#356knows the ubicity of his tum",
+    "start": 28143,
+    "end": 28152,
+    "canonical_text": "fasciated"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15150386,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2607159",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Hockey",
+  "html_source": "<p>By this they mean field hockey—</p><p><img src=\"https://images.rapgenius.com/7846b40407696c9c9e1edcba8cfd776d.450x338x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2607159/James-joyce-ulysses-chap-2-nestor/Hockey",
+    "original_id": "2607159",
+    "referent_id": 2607159,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "Hockey",
+    "prefix": "looms. Ay. \n\nRiddle me, riddle me, randy ro. \nMy father gave me seeds to sow. \n\n Talbot slid his closed book into his satchel. \n\n — Have I heard all? Stephen asked. \n\n — Yes, sir. ",
+    "suffix": " at ten, sir. \n\n — Half day, sir. Thursday. \n\n — Who can answer a riddle? Stephen asked. \n\n They bundled their books away, pencils clacking, pages rustling. 1932#24Crowding togethe",
+    "start": 5182,
+    "end": 5188,
+    "canonical_text": "Hockey"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9652
+  },
+  "genius": {
+    "referent_id": 2607159,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 293151,
+        "login": "jeeho",
+        "name": "Jeeho",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

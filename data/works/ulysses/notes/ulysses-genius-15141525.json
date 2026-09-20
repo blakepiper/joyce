@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15141525",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "He gets the plums, and I the plumstones",
+  "html_source": "<p>Reminiscent of Stephen’s “Parable of the Plums” in Aeolus.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15141525/James-joyce-ulysses-chap-13-nausicaa/He-gets-the-plums-and-i-the-plumstones",
+    "original_id": "15141525",
+    "referent_id": 15141525,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "He gets the plums, and I the plumstones",
+    "prefix": "urse but must be on your guard not to feel too much pity. They take advantage. \n\n All quiet on Howth now. The distant hills seem. Where we. The rhododendrons. I am a fool perhaps. ",
+    "suffix": ". Where I come in. All that old hill has seen. Names change: that's all. Lovers: yum yum. \n\n Tired I feel now. Will I get up? O wait. Drained all the manhood out of me, little wret",
+    "start": 77618,
+    "end": 77657,
+    "canonical_text": "He gets the plums, and I the plumstones"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15141525,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

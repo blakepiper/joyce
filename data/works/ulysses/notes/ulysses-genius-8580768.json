@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8580768",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "The Sluagh na h-Eireann",
+  "html_source": "<p>“The Army of Ireland.” Nannetti complained to Parliament on behalf of this patriotic society on 16 June, 1904 about Gaelic games being prohibited in Phoenix Park. Per D. Gifford.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8580768/James-joyce-ulysses-chap-12-cyclops/The-sluagh-na-h-eireann",
+    "original_id": "8580768",
+    "referent_id": 8580768,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "The Sluagh na h-Eireann",
+    "prefix": "nnan's going too, says Joe. The league told him to ask a question tomorrow about the commissioner of police forbidding Irish games in the park. What do you think of that, citizen? ",
+    "suffix": ". \n\n Mr Cowe Conacre (Multifarnham. Nat.): Arising out of the question of my honourable friend, the member for Shillelagh, may I ask the right honourable gentleman whether the gove",
+    "start": 55680,
+    "end": 55703,
+    "canonical_text": "The Sluagh na h-Eireann"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8580768,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

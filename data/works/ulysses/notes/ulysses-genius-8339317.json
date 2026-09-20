@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8339317",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "J. J. O’Molloy’s",
+  "html_source": "<p>An unsuccessful lawyer, previously met in the Aeolus episode, discussing journalism with other locals.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8339317/James-joyce-ulysses-chap-10-wandering-rocks/J-j-omolloys",
+    "original_id": "8339317",
+    "referent_id": 8339317,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "J. J. O'Molloy's",
+    "prefix": "tsleeves in his doorway, he growled unamiably: \n\n — For England... \n\n He swung himself violently forward past Katey and Boody Dedalus, halted and growled: \n\n — home and beauty. \n\n ",
+    "suffix": " white careworn face was told that Mr Lambert was in the warehouse with a visitor. \n\n A stout lady stopped, took a copper coin from her purse and dropped it into the cap held out t",
+    "start": 14256,
+    "end": 14272,
+    "canonical_text": "J. J. O'Molloy's"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8339317,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2568065,
+        "login": "GeoffBobker",
+        "name": "GeoffBobker",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

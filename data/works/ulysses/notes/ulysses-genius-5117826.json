@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5117826",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Napper Tandy",
+  "html_source": "<p>James Napper Tandy (1740 – 24 August 1803) was an Irish revolutionary, and member of the United Irishmen.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5117826/James-joyce-ulysses-chap-3-proteus/Napper-tandy",
+    "original_id": "5117826",
+    "referent_id": 5117826,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Napper Tandy",
+    "prefix": " Kilkenny are 1986#36stout roaring blades. Know that old lay? I taught Patrice that. Old Kilkenny: saint Canice, Strongbow's castle on the Nore. Goes like this. O, O. He takes me, ",
+    "suffix": ", by the hand. \n\n O, O the boys of \nKilkenny... \n\n Weak wasting hand on mine. They have forgotten Kevin Egan, not he them. Remembering thee, O Sion. \n\n He had come nearer the edge ",
+    "start": 16518,
+    "end": 16530,
+    "canonical_text": "Napper Tandy"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5117826,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1618748,
+        "login": "Kataryna",
+        "name": "Kataryna",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

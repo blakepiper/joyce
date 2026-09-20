@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2468768",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "General post office",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/ejxtf1tmvluxpzkv50usjktnd.486x640x1.jpg\" alt=\"\" /></p><p>Opened in 1818, the general post office on Sackville Street is one of the most important landmarks in the city. Distances from Dublin are measured from the general post office.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2468768/James-joyce-ulysses-chap-7-aeolus/General-post-office",
+    "original_id": "2468768",
+    "referent_id": 2468768,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "general post office",
+    "prefix": "bledecker and a singledeck moved from their railheads, swerved to the down line, glided parallel. \n\n — Start, Palmerston Park! \n\n THE WEARER OF THE CROWN \n\n Under the porch of the ",
+    "suffix": " shoeblacks called and polished. Parked in North Prince's street His Majesty's vermilion mailcars, bearing on their sides the royal initials, E. R., received loudly flung sacks of ",
+    "start": 664,
+    "end": 683,
+    "canonical_text": "general post office"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2468768,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15130540",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Aspergills",
+  "html_source": "<p>A wand used for sprinkling Holy Water</p><p><img src=\"https://images.genius.com/5265ce6fc01aa9b48385d3ea074aab27.220x165x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15130540/James-joyce-ulysses-chap-12-cyclops/Aspergills",
+    "original_id": "15130540",
+    "referent_id": 15130540,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "aspergills",
+    "prefix": " bellows, beehives, soupladles, stars, snakes, anvils, boxes of vaseline, bells, crutches, forceps, stags' horns, watertight boots, hawks, millstones, eyes on a dish, wax candles, ",
+    "suffix": ", unicorns. And as they wended their way by Nelson's Pillar, Henry street, Mary street, Capel street, Little Britain street chanting the introit in Epiphania Domini which beginneth",
+    "start": 110123,
+    "end": 110133,
+    "canonical_text": "aspergills"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15130540,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

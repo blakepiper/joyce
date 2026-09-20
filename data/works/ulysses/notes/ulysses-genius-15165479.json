@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15165479",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Blandiloquence",
+  "html_source": "<p>The Penguin 20th c. Classics Annotated Students' Edition says in a note that this is a portmanteau of “bland” and “grandiloquence” but I think it more probable to have “blandish(ments)” rather than bland, given the circumstances.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15165479/James-joyce-ulysses-chap-16-eumaeus/Blandiloquence",
+    "original_id": "15165479",
+    "referent_id": 15165479,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "blandiloquence",
+    "prefix": "ing. Pretty thick that was certainly. \n\n The pair parted company and Stephen rejoined Mr Bloom who, with his practised eye, was not without perceiving that he had succumbed to the ",
+    "suffix": " of the other parasite. Alluding to the encounter he said, laughingly, Stephen, that is: \n\n — He is down on his luck. He asked me to ask you to ask somebody named Boylan, a billsti",
+    "start": 16164,
+    "end": 16178,
+    "canonical_text": "blandiloquence"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15165479,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

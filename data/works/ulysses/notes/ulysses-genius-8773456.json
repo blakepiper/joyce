@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8773456",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Sodality",
+  "html_source": "<p>an organized society or fellowship; specifically :  a devotional or charitable association of Roman Catholic laity</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8773456/James-joyce-ulysses-chap-5-lotus-eaters/Sodality",
+    "original_id": "8773456",
+    "referent_id": 8773456,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "sodality",
+    "prefix": "ke milk, I suppose. \n\n The cold smell of sacred stone called him. He trod the worn steps, pushed the swingdoor and entered softly by the rere. \n\n1939#61\n\n Something going on: some ",
+    "suffix": ". Pity so empty. Nice discreet place to be next some girl. Who is my neighbour? Jammed by the hour to slow music. That woman at midnight mass. Seventh heaven. Women knelt in the be",
+    "start": 21090,
+    "end": 21098,
+    "canonical_text": "sodality"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8773456,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

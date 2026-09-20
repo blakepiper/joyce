@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10865889",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Stripper cows",
+  "html_source": "<p>A cow that has nearly stopped giving milk</p><p><a href=\"http://thinkexist.com/dictionary/meaning/stripper/\" rel=\"noopener nofollow\">http://thinkexist.com/dictionary/meaning/stripper/</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10865889/James-joyce-ulysses-chap-17-ithaca/Stripper-cows",
+    "original_id": "10865889",
+    "referent_id": 10865889,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "stripper cows",
+    "prefix": ", screws, tintacks, gimlet, tweezers, bullnose plane and turnscrew. \n\n1986#587\n\n Might he become a gentleman farmer of field produce and live stock? \n\n Not impossibly, with 1 or 2 ",
+    "suffix": ", 1 pike of upland hay and requisite farming implements, e.g., an end-to-end churn, a turnip pulper etc. \n\n What would be his civic functions and social status among the county fam",
+    "start": 100664,
+    "end": 100677,
+    "canonical_text": "stripper cows"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10865889,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2081150",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Murderer’s ground.",
+  "html_source": "<p>This ends the section in the style of Horace Walpole, which began above with “But Malachias' tale.”</p><p><img src=\"https://images.genius.com/01cc159fe897fc2dff19c06eeaaaf9d0.640x496x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2081150/James-joyce-ulysses-chap-14-oxen-of-the-sun/Murderers-ground",
+    "original_id": "2081150",
+    "referent_id": 2081150,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Murderer's ground.",
+    "prefix": "house by the graveyard is uninhabited. No soul will live there. The spider pitches her web in the solitude. The nocturnal rat peers from his hole. A curse is on it. It is haunted. ",
+    "suffix": " \n\n What is the age of the soul of man? As she hath the virtue of the chameleon to change her hue at every new approach, to be gay with the merry and mournful with the downcast, so",
+    "start": 75154,
+    "end": 75172,
+    "canonical_text": "Murderer's ground."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2081150,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

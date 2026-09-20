@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8799993",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Hail fellow well met",
+  "html_source": "<p>hail-fel·low-well-met<br />adjective<br />showing excessive familiarity.<br />“Harold was accustomed to hail-fellow-well-met salesmen”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8799993/James-joyce-ulysses-chap-7-aeolus/Hail-fellow-well-met",
+    "original_id": "8799993",
+    "referent_id": 8799993,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Hail fellow well met",
+    "prefix": "cocks. Hot and cold in the same breath. Wouldn't know which to believe. One story good till you hear the next. Go for one another baldheaded in the papers and then all blows over. ",
+    "suffix": " the next moment. \n\n1986#103\n\n — Ah, listen to this for God' sake, Ned Lambert pleaded. Or again if we but climb the serried mountain peaks... \n\n — Bombast! the professor broke in ",
+    "start": 17269,
+    "end": 17289,
+    "canonical_text": "Hail fellow well met"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8799993,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

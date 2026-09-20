@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15120548",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Cassock",
+  "html_source": "<p>A Christian priests' robe, usually black or another dark solid color.</p><p><img src=\"https://images.genius.com/77cc6d4f7abc913c20c480beba1d6f6b.720x720x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15120548/James-joyce-ulysses-chap-12-cyclops/Cassock",
+    "original_id": "15120548",
+    "referent_id": 15120548,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "cassock",
+    "prefix": "ned prelate who administered the last comforts of holy religion to the hero martyr when about to pay the death penalty knelt in a most christian spirit in a pool of rainwater, his ",
+    "suffix": " above 1939#224his hoary head, and offered up to the throne of grace fervent prayers of 1961#308supplication. Hard by the block stood the grim figure of the executioner, his visage",
+    "start": 39014,
+    "end": 39021,
+    "canonical_text": "cassock"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15120548,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

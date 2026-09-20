@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8489585",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Hello, Simon",
+  "html_source": "<p>Intrusion. Kernan’s “monologue” above is a dialog, supposedly happening concurrently with Kernan’s episode.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8489585/James-joyce-ulysses-chap-10-wandering-rocks/Hello-simon",
+    "original_id": "8489585",
+    "referent_id": 8489585,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Hello, Simon",
+    "prefix": " course, where there's money going there's always someone to pick it up. \n\n Saw him looking at my frockcoat. Dress does it. Nothing like a dressy appearance. Bowls them over. \n\n — ",
+    "suffix": ", Father Cowley said. How are things? \n\n1961#239\n\n — Hello, Bob, old man, Mr Dedalus answered, stopping. \n\n Mr Kernan halted and preened himself before the sloping mirror of Peter ",
+    "start": 42408,
+    "end": 42420,
+    "canonical_text": "Hello, Simon"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9459
+  },
+  "genius": {
+    "referent_id": 8489585,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

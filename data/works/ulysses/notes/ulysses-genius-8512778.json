@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8512778",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Chapfallen",
+  "html_source": "<p>Having the lower jaw hanging loosely; cast down in spirit; depressed</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8512778/James-joyce-ulysses-chap-6-hades/Chapfallen",
+    "original_id": "8512778",
+    "referent_id": 8512778,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "chapfallen",
+    "prefix": "now, Martin Cunningham said. \n\n1932#103\n\n John Henry Menton jerked his head down in acknowledgment. \n\n — Thank you, he said shortly. \n\n They walked on towards the gates. Mr Bloom, ",
+    "suffix": ", drew behind a few paces so as not to overhear. Martin laying down the law. Martin could wind a sappyhead like that round his little finger, without his seeing it. \n\n Oyster eyes.",
+    "start": 62878,
+    "end": 62888,
+    "canonical_text": "chapfallen"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8512778,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2706744,
+        "login": "kikolou",
+        "name": "kikolou",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

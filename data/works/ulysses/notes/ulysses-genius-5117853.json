@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-5117853",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Elsinore’s",
+  "html_source": "<p>Referring back to Hamlet. Stephen’s theorem on Hamlet was mentioned by Buck Mulligan to Haines in <em>Telemachus</em> and we later see Stephen debating Hamlet in the National Library episode.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5117853/James-joyce-ulysses-chap-3-proteus/Elsinores",
+    "original_id": "5117853",
+    "referent_id": 5117853,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Elsinore's",
+    "prefix": "ned back by the mole of boulders. Take all, keep all. My soul walks with me, form of forms. So in the moon's midwatches I pace the path above the rocks, in sable silvered, hearing ",
+    "suffix": " tempting flood. \n\n The flood is following me. I can watch it flow past from here. Get back then by the Poolbeg road to the strand there. He climbed over the sedge and eely oarweed",
+    "start": 17825,
+    "end": 17835,
+    "canonical_text": "Elsinore's"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5117853,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.8620689655172414
+      },
+      {
+        "id": 1618748,
+        "login": "Kataryna",
+        "name": "Kataryna",
+        "role": "contributor",
+        "attribution": 0.13793103448275862
+      }
+    ]
+  },
+  "color": "F59627"
+}

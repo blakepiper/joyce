@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13011605",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "N. g",
+  "html_source": "<p>N. g.: No Good.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13011605/James-joyce-ulysses-chap-15-circe/N-g",
+    "original_id": "13011605",
+    "referent_id": 13011605,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "N. g",
+    "prefix": " the rixdix doldy.\nAt Antonio Rabaiotti's door Bloom halts, sweated under the bright arclamp. He disappears. In a moment he reappears and hurries on.) \n\n BLOOM \n\n Fish and taters. ",
+    "suffix": ". Ah! \n\n(He disappears into Olhausen's, the porkbutcher's, under the downcoming 1932#391rollshutter. A few moments later he emerges from under the shutter, puffing Poldy, blowing B",
+    "start": 7264,
+    "end": 7268,
+    "canonical_text": "N. g"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13011605,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5436824,
+        "login": "cohomology",
+        "name": "cohomology",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

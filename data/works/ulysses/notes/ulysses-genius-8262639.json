@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8262639",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Florin",
+  "html_source": "<p>A coin worth two shillings.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8262639/James-joyce-ulysses-chap-1-telemachus/Florin",
+    "original_id": "8262639",
+    "referent_id": 8262639,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "florin",
+    "prefix": "ets. \n\n — Pay up and look pleasant, Haines said to him, smiling. \n\n Stephen filled a third cup, a spoonful of tea colouring faintly the thick rich milk. Buck Mulligan brought up a ",
+    "suffix": ", twisted it round in his fingers and cried: \n\n — A miracle! \n\n1939#13\n\n He passed it along the table towards the old woman, saying: \n\n — Ask nothing more of me, sweet. All I can g",
+    "start": 25715,
+    "end": 25721,
+    "canonical_text": "florin"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8262639,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2370588,
+        "login": "Pequod42",
+        "name": "Pequod42",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

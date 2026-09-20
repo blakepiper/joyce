@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4787851",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Now I eat his salt bread",
+  "html_source": "<p>From Dante’s <em>Paradiso</em>, as Dante’s grandfather Cacciaguida predicts the future of his life, and the hardships of his exile.</p><p><a href=\"https://genius.com/4796223\" rel=\"noopener nofollow\">https://genius.com/4796223</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4787851/James-joyce-ulysses-chap-1-telemachus/Now-i-eat-his-salt-bread",
+    "original_id": "4787851",
+    "referent_id": 4787851,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Now I eat his salt bread",
+    "prefix": "liar, after me, calling, Steeeeeeeeeeeephen! A wavering line along the path. They will walk on it tonight, coming here in the dark. He wants that key. It is mine. I paid the rent. ",
+    "suffix": ". Give him the key too. All. He will ask for it. That was in his eyes. \n\n — After all, Haines began... \n\n Stephen turned and saw that the cold gaze which had measured him was not a",
+    "start": 35663,
+    "end": 35687,
+    "canonical_text": "Now I eat his salt bread"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4787851,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 0.9056603773584905
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.09433962264150944
+      }
+    ]
+  },
+  "color": "F59627"
+}

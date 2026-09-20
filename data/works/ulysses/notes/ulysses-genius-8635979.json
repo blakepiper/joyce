@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8635979",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Fine eyes she had, clear",
+  "html_source": "<p>Edmund Burke on beauty: “[The] beauty of the eye consists, first, in its <em>clearness</em>; what <em>colored</em> eye shall please most, depends a good deal on particular fancies; but none are please with an eye whose water (to use that term) is dull and muddy. We are pleased with the eye in this view, on the principle upon which we like diamonds, clear water, glass, and such like transparent substances.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8635979/James-joyce-ulysses-chap-13-nausicaa/Fine-eyes-she-had-clear",
+    "original_id": "8635979",
+    "referent_id": 8635979,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Fine eyes she had, clear",
+    "prefix": "rds, animals, babies. In their line. \n\n Didn't look back when she was going down the strand. Wouldn't give that satisfaction. Those girls, those girls, those lovely seaside girls. ",
+    "suffix": ". It's the white of the eye brings that out not so much the pupil. Did she know what I? Course. Like a cat sitting beyond a dog's jump. Women never meet one like that Wilkins in th",
+    "start": 64195,
+    "end": 64219,
+    "canonical_text": "Fine eyes she had, clear"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8635979,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8971331",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Woodman, spare that tree",
+  "html_source": "<p><a href=\"http://www.contemplator.com/america/woodman.html\" rel=\"noopener nofollow\">http://www.contemplator.com/america/woodman.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8971331/James-joyce-ulysses-chap-12-cyclops/Woodman-spare-that-tree",
+    "original_id": "8971331",
+    "referent_id": 8971331,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Woodman, spare that tree",
+    "prefix": "oral. Senhor Enrique Flor presided at the organ with his wellknown ability and, in addition to the prescribed numbers of the nuptial mass, played a new and striking arrangement of ",
+    "suffix": " at the conclusion of the service. On leaving the church of Saint Fiacre in Horto after the papal blessing the happy pair were subjected to a playful crossfire of hazelnuts, beechm",
+    "start": 82556,
+    "end": 82580,
+    "canonical_text": "Woodman, spare that tree"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8971331,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

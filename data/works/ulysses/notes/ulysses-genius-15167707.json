@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15167707",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Eblana",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Eblana\" rel=\"noopener nofollow\">Eblana</a> (Greek: Εβλανα) is the name of an ancient Irish settlement which appears in the Geographia of Claudius Ptolemaeus (Ptolemy), the Greek astronomer and cartographer, around the year 140 AD. It was traditionally believed by scholars to refer to the same site as the modern city of Dublin.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15167707/James-joyce-ulysses-chap-16-eumaeus/Eblana",
+    "original_id": "15167707",
+    "referent_id": 15167707,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Eblana",
+    "prefix": "ich he seemingly evinced little interest, Mr Bloom gazed abstractedly for the space of a half a second or so in the direction of a bucketdredger, rejoicing in the farfamed name of ",
+    "suffix": ", moored alongside Customhouse quay and quite possibly out of repair, whereupon he observed evasively: \n\n — Everybody gets their own ration of luck, they say. Now you mention it hi",
+    "start": 16610,
+    "end": 16616,
+    "canonical_text": "Eblana"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15167707,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

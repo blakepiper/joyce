@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2081193",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "There are sins",
+  "html_source": "<p>This brief section (from “There are sins” to “silent, remote, reproachful”) is written in the style of English clergyman and theologian <a href=\"http://en.wikipedia.org/wiki/John_Henry_Newman\" rel=\"noopener nofollow\">John Henry Cardinal Newman</a></p><p><img src=\"https://images.genius.com/f5cc29e81abb03e37628c27271b0e5b1.676x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2081193/James-joyce-ulysses-chap-14-oxen-of-the-sun/There-are-sins",
+    "original_id": "2081193",
+    "referent_id": 2081193,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "There are sins",
+    "prefix": "will call in His own good time. You too have fought the good fight and played loyally your man's part. Sir, to you my hand. Well done, thou good and faithful servant! \n\n1939#302\n\n ",
+    "suffix": " or (let us call them as the world calls them) evil memories which are hidden away by man in the darkest places of the heart but they abide there and wait. He may suffer their memo",
+    "start": 97628,
+    "end": 97642,
+    "canonical_text": "There are sins"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2081193,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

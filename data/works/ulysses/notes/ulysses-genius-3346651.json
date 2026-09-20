@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3346651",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "He repeated",
+  "html_source": "<p>Affirmation that they are below Stephen/not all that as Best repeats something and the something he repeats is mild word play.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3346651/James-joyce-ulysses-chap-9-scylla-and-charybdis/He-repeated",
+    "original_id": "3346651",
+    "referent_id": 3346651,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "He repeated",
+    "prefix": "nch town, don't you know, a provincial town. They advertised it. \n\n His free hand graciously wrote tiny signs in air. \n\nHamlet\nou\n\nLe Distrait\n\nPièce de Shakespeare \n\n\n\n1986#153\n\n ",
+    "suffix": " to John Eglinton's newgathered frown: \n\n — Pièce de Shakespeare, don't you know. It's so French. The French point of view. Hamlet ou... \n\n — The absentminded beggar, Stephen ended",
+    "start": 6906,
+    "end": 6917,
+    "canonical_text": "He repeated"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3346651,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

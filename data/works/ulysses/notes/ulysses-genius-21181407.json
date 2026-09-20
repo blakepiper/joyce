@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21181407",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "If I had served my God as I have served my king He would not have abandoned me in my old days",
+  "html_source": "<p>In Shakespeare’s Henry VIII, Act III, Scene 2, Wolsey laments to Cromwell:</p><p>… O Cromwell, Cromwell!<br />Had I but served my God with half the zeal<br />I served my king, he would not in mine age<br />Have left me naked to mine enemies.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21181407/James-joyce-ulysses-chap-10-wandering-rocks/If-i-had-served-my-god-as-i-have-served-my-king-he-would-not-have-abandoned-me-in-my-old-days",
+    "original_id": "21181407",
+    "referent_id": 21181407,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "If I had served my God as I have served my king He would not have abandoned me in my old days",
+    "prefix": " He thought, but not for long, of soldiers and sailors, whose legs had been shot off by cannonballs, ending their days in some pauper ward, and of cardinal 1932#196Wolsey's words: ",
+    "suffix": ". He walked by the treeshade of sunnywinking leaves: and towards him came the wife of Mr David Sheehy M.P. \n\n — Very well, indeed, father. And you, father? \n\n Father Conmee was won",
+    "start": 949,
+    "end": 1042,
+    "canonical_text": "If I had served my God as I have served my king He would not have abandoned me in my old days"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21181407,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

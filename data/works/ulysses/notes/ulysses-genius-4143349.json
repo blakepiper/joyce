@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4143349",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "O’Connell",
+  "html_source": "<p>Daniel O'Connell, 1775-1847, tried to repeal (i.e. reverse or remove a law) the act of union, 1801, merging the parliaments of the UK and Ireland.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4143349/James-joyce-ulysses-chap-2-nestor/Oconnell",
+    "original_id": "4143349",
+    "referent_id": 4143349,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "O'Connell",
+    "prefix": "l voice said. I saw three generations since O'Connell's time. I remember the famine in '46. Do you know that the orange lodges agitated for repeal of the union twenty years before ",
+    "suffix": " did or before the prelates of your communion denounced him as a demagogue? You fenians forget some things. \n\n Glorious, pious and immortal memory. The lodge of Diamond in Armagh t",
+    "start": 15209,
+    "end": 15218,
+    "canonical_text": "O'Connell"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 4143349,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1209714,
+        "login": "AlexBeston",
+        "name": "AlexBeston",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

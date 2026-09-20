@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3155038",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "His",
+  "html_source": "<p><a href=\"http://www.columbia.edu/~fms5/ulw03.htm\" rel=\"noopener nofollow\">External narrative</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3155038/James-joyce-ulysses-chap-3-proteus/His",
+    "original_id": "3155038",
+    "referent_id": 3155038,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "His",
+    "prefix": "killed your mother. That's why she won't. \n\nThen here's a health to Mulligan's aunt \nAnd I'll tell you the reason why. \nShe always kept things decent in \nThe Hannigan famileye. \n\n ",
+    "suffix": " feet marched in sudden proud rhythm over the sand furrows, along by the boulders of the south wall. He stared at them proudly, piled stone mammoth skulls. Gold light on sea, on sa",
+    "start": 12544,
+    "end": 12547,
+    "canonical_text": "His"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 3155038,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

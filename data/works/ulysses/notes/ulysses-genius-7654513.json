@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-7654513",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "What the poor are not",
+  "html_source": "<p>Matthew 26:11 “For ye have the poor always with you; but me ye have not always.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7654513/James-joyce-ulysses-chap-9-scylla-and-charybdis/What-the-poor-are-not",
+    "original_id": "7654513",
+    "referent_id": 7654513,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "what the poor are not",
+    "prefix": "and makes Ulysses quote Aristotle.\n\n—Why? Stephen answered himself. Because the theme of the false or the usurping or the adulterous brother or all three in one is to Shakespeare, ",
+    "suffix": ", always with him. The note of banishment, banishment from the heart, banishment from home, sounds uninterruptedly from The Two Gentlemen of Verona onward till Prospero breaks his ",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.8571
+  },
+  "genius": {
+    "referent_id": 7654513,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2082994,
+        "login": "zebrozebry",
+        "name": "zebrozebry",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

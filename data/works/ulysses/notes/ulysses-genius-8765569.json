@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8765569",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Scald the teapot",
+  "html_source": "<p>Preheat your teapot or cup by adding a little scalding water. Empty the teapot or cup. Add the tea, and then add boiling water.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8765569/James-joyce-ulysses-chap-4-calypso/Scald-the-teapot",
+    "original_id": "8765569",
+    "referent_id": 8765569,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Scald the teapot",
+    "prefix": "r: her striped petticoat, tossed soiled linen: and lifted all in an armful on to the foot of the bed. \n\n As he went down the kitchen stairs she called: \n\n — Poldy! \n\n — What? \n\n — ",
+    "suffix": ". \n\n On the boil sure enough: a plume of steam from the spout. He scalded and rinsed out the teapot and put in four full spoons of tea, tilting the kettle then to let water flow in",
+    "start": 16913,
+    "end": 16929,
+    "canonical_text": "Scald the teapot"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8765569,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1834539",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Dogsbody",
+  "html_source": "<p>A<a href=\"http://en.wikipedia.org/wiki/Dogsbody\" rel=\"noopener nofollow\"> dogsbody</a>, or less commonly dog robber in the Royal Navy, is a junior officer, or more generally someone who does drudge work. A rough American equivalent would be a “gofer” or a “grunt,” a “lackey”, or “toady.” Also an inversion of “godsbody.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1834539/James-joyce-ulysses-chap-1-telemachus/Dogsbody",
+    "original_id": "1834539",
+    "referent_id": 1834539,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "dogsbody",
+    "prefix": " holding the green sluggish bile which she had torn up from her rotting liver by fits of loud groaning vomiting. \n\n1961#5\n\n Buck Mulligan wiped again his razorblade. \n\n — Ah, poor ",
+    "suffix": "! he said in a kind voice. I must give you a shirt and a few noserags. How are the secondhand breeks? \n\n — They fit well enough, Stephen answered. \n\n Buck Mulligan attacked the hol",
+    "start": 6540,
+    "end": 6548,
+    "canonical_text": "dogsbody"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9587
+  },
+  "genius": {
+    "referent_id": 1834539,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 176532,
+        "login": "biblicalmike",
+        "name": "Michael Bible",
+        "role": "verified_artist",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

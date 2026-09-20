@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795864",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Wheelwright",
+  "html_source": "<p>A wheelwright is a person who builds or repairs wooden wheels.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795864/James-joyce-ulysses-chap-6-hades/Wheelwright",
+    "original_id": "8795864",
+    "referent_id": 8795864,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "wheelwright",
+    "prefix": "way. Who departed this life. As if they did it of their own accord. Got the shove, all of them. Who kicked the bucket. More interesting if they told you what they were. So and So, ",
+    "suffix": ". I travelled for cork lino. I paid five shillings in the pound. Or a woman's with her saucepan. I cooked good Irish stew. Eulogy in a country churchyard it ought to be that poem o",
+    "start": 57078,
+    "end": 57089,
+    "canonical_text": "wheelwright"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8795864,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

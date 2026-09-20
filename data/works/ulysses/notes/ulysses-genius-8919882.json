@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8919882",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Merrion square style",
+  "html_source": "<p>Merrion square is a posh area of Dublin with imposing Georgian houses.</p><p><img src=\"https://images.rapgenius.com/e6627d6d7b8a622e9765bee926de20ff.640x425x1.jpg\" alt=\"\" /></p><p>Famous residents included Oscar Wilde, who lived at 1 Merrion Square as a child, while WB Yeats lived at No 82, and Daniel O’Connell at No 58. The British Embassy was once based at no 39, but was burned to the ground following the Bloody Sunday shootings in the early 1970s.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8919882/James-joyce-ulysses-chap-11-sirens/Merrion-square-style",
+    "original_id": "8919882",
+    "referent_id": 8919882,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Merrion square style",
+    "prefix": "emember? \n\n Ben remembered, his broad visage wondering. \n\n1961#268\n\n — By God, she had some luxurious operacloaks and things there. \n\n Mr Dedalus wandered back, pipe in hand. \n\n — ",
+    "suffix": ". Balldresses, by God, and court dresses. He wouldn't take any money either. What? Any God's quantity of cocked hats and boleros and trunkhose. What? \n\n — Ay, ay, Mr Dedalus nodded",
+    "start": 25541,
+    "end": 25561,
+    "canonical_text": "Merrion square style"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8919882,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

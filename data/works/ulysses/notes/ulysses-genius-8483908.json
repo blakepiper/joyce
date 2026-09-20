@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8483908",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Katey and Boody Dedalus",
+  "html_source": "<p>Stephen’s sisters. This is the beginning of Section 4.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8483908/James-joyce-ulysses-chap-10-wandering-rocks/Katey-and-boody-dedalus",
+    "original_id": "8483908",
+    "referent_id": 8483908,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Katey and Boody Dedalus",
+    "prefix": "e area railings. It fell on the path. \n\n1986#185\n\n One of the urchins ran to it, picked it up and dropped it into the minstrel's cap, saying: \n\n — There, sir. \n\n1922#216\n\n*\n*  *\n\n ",
+    "suffix": " shoved in the door of the closesteaming kitchen. \n\n — Did you put in the books? Boody asked. \n\n Maggy at the range rammed down a greyish mass beneath bubbling suds twice with her ",
+    "start": 15419,
+    "end": 15442,
+    "canonical_text": "Katey and Boody Dedalus"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.8853
+  },
+  "genius": {
+    "referent_id": 8483908,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

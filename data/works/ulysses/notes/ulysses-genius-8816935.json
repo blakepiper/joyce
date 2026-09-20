@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8816935",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "La causa è santa",
+  "html_source": "<p>song from Les Huguenots (Act III)<br />Opera in French in Five Acts<br />by Giacomo Meyerbeer<br />Libretto by Eugene Scribe and Emile Deschamps</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8816935/James-joyce-ulysses-chap-8-lestrygonians/La-causa-e-santa",
+    "original_id": "8816935",
+    "referent_id": 8816935,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "La causa è santa",
+    "prefix": "own Thomas, silk mercers. Cascades of ribbons. Flimsy China silks. A tilted urn poured from its mouth a flood of bloodhued poplin: lustrous blood. The huguenots brought that here. ",
+    "suffix": "! Tara tara. Great chorus that. Tara. Must be washed in rainwater. Meyerbeer. Tara: bom bom bom. \n\n Pincushions. I'm a long time threatening to buy one. Stick them all over the pla",
+    "start": 39528,
+    "end": 39544,
+    "canonical_text": "La causa è santa"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8816935,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

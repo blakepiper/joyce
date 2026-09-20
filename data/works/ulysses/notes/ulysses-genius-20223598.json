@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20223598",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "When churchyards yawn",
+  "html_source": "<p>From <em>Hamlet</em> 3.2:</p><p>‘Tis now the very witching time of night,<br />When churchyards yawn and hell itself breathes out<br />Contagion to this world.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20223598/James-joyce-ulysses-chap-6-hades/When-churchyards-yawn",
+    "original_id": "20223598",
+    "referent_id": 20223598,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "when churchyards yawn",
+    "prefix": "he graveyard. Dangle that before her. It might thrill her first. Courting death... Shades of night hovering here with all the dead stretched about. 1939#81The shadows of the tombs ",
+    "suffix": " and Daniel O'Connell must be a descendant I suppose who is this used to say he was a queer breedy man1932#96 great catholic all the same like a big giant in the dark. Will o' the ",
+    "start": 44842,
+    "end": 44863,
+    "canonical_text": "when churchyards yawn"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20223598,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11041825,
+        "login": "raggedclaws",
+        "name": "raggedclaws",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

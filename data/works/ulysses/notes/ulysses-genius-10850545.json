@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10850545",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Double suns",
+  "html_source": "<p>a star can orbit around another star<br /><a href=\"http://abyss.uoregon.edu/~js/ast122/lectures/lec10.html\" rel=\"noopener nofollow\">http://abyss.uoregon.edu/~js/ast122/lectures/lec10.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10850545/James-joyce-ulysses-chap-17-ithaca/Double-suns",
+    "original_id": "10850545",
+    "referent_id": 10850545,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "double suns",
+    "prefix": "ositions: the waggoner's star: Walsingham way: the chariot of David: the annular cinctures of Saturn: the condensation of spiral nebulae into suns: the interdependent gyrations of ",
+    "suffix": ": the independent synchronous discoveries of Galileo, Simon Marius, Piazzi, Le Verrier, Herschel, Galle: the systematisations attempted by Bode and Kepler of cubes of distances and",
+    "start": 70376,
+    "end": 70387,
+    "canonical_text": "double suns"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10850545,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

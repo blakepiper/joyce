@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8736661",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "In the swim",
+  "html_source": "<p>On the make!</p><p>PROPOSED SUGGESTION: involved in or aware of current affairs or events.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8736661/James-joyce-ulysses-chap-4-calypso/In-the-swim",
+    "original_id": "8736661",
+    "referent_id": 8736661,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "in the swim",
+    "prefix": "d took his hat from the peg over his initialled heavy overcoat and his lost property office secondhand waterproof. Stamps: stickyback1932#49 pictures. Daresay lots of officers are ",
+    "suffix": " too. Course they do. The sweated legend in the crown of his hat told him mutely: Plasto's high grade ha. He peeped quickly inside the leather headband. White slip of paper. Quite ",
+    "start": 4199,
+    "end": 4210,
+    "canonical_text": "in the swim"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8736661,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 0.736842105263158
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.2631578947368421
+      }
+    ]
+  },
+  "color": "F59627"
+}

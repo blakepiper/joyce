@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8433822",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "_Orate, fratres, pro memetipso_",
+  "html_source": "<p>(Latin) Pray, Brethren, for me myself.[2] These words are based on the Offertory in the Latin Tridentine Mass, which was still in use in 1904. At the end of the Offertory, the celebrant kisses the altar, turns to the congregation and says: Orate, fratres: ut meum ac vestrum sacrificium acceptabile fiat apud Deum patrem omnipotentem (Pray, Brethren, that my and your sacrifice may be acceptable to God the Almighty Father).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8433822/James-joyce-ulysses-chap-14-oxen-of-the-sun/Orate-fratres-pro-memetipso",
+    "original_id": "8433822",
+    "referent_id": 8433822,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "_Orate, fratres, pro memetipso_",
+    "prefix": "e university of Oxtail nor breathed there ever that man to whom mankind was more beholden. Bring a stranger within thy tower it will go hard but thou wilt have the secondbest bed. ",
+    "suffix": ". And all the people shall say, Amen. Remember, Erin, thy generations and thy days of old, how thou settedst little by me and by my word and broughtest in a stranger to my gates to",
+    "start": 26069,
+    "end": 26098,
+    "canonical_text": "Orate, fratres, pro memetipso"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 8433822,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

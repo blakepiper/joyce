@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-1889417",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "—Which of the two, Stephen asked, would have banished me from his commonwealth?",
+  "html_source": "<p>Stephen is an aspiring poet.  In Plato’s <em>Republic</em> Socrates argues that poets should be banned from his ideal state because they portray falsehoods and appeal to base emotion. (See: <a href=\"http://en.wikisource.org/wiki/The_Republic/Book_X\" rel=\"noopener nofollow\">Book X</a>.)</p><p><img src=\"https://images.genius.com/d36178b9a7b4ffd2b657258253e59946.500x772x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1889417/James-joyce-ulysses-chap-9-scylla-and-charybdis/Which-of-the-two-stephen-asked-would-have-banished-me-from-his-commonwealth",
+    "original_id": "1889417",
+    "referent_id": 1889417,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "—Which of the two, Stephen asked, would have banished me from his commonwealth?",
+    "prefix": "ologue, as shallow as Plato's. \n\n1986#152\n\n John Eglinton, frowning, said, waxing wroth: \n\n — Upon my word it makes my blood boil to hear anyone compare Aristotle with Plato. \n\n — ",
+    "suffix": " \n\n1939#136\n\n Unsheathe your dagger definitions. Horseness is the whatness of allhorse. Streams of tendency and eons they worship. God: noise in the street: very peripatetic. Space",
+    "start": 4666,
+    "end": 4744,
+    "canonical_text": "Which of the two, Stephen asked, would have banished me from his commonwealth?"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 1889417,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 0.9508196721311475
+      },
+      {
+        "id": 1482232,
+        "login": "JayEn",
+        "name": "JayEn",
+        "role": "editor",
+        "attribution": 0.04918032786885246
+      }
+    ]
+  },
+  "color": "F59627"
+}

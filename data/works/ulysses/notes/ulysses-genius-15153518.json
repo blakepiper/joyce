@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15153518",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Lalage",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Lalage\" rel=\"noopener nofollow\">Lalage</a> is a female given name used in poetry and literature as a personification of beauty. For example, Horace professes his love to a Lalage in the famous poem Integer vitae.</p><p>It comes from the Greek for “chattering” and also names a species of bird.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15153518/James-joyce-ulysses-chap-14-oxen-of-the-sun/Lalage",
+    "original_id": "15153518",
+    "referent_id": 15153518,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Lalage",
+    "prefix": ", shall we behold such another. By gad, sir, a queen of them. Do you remember her, Vincent? I wish you could have seen my queen today, Vincent said. How young she was and radiant (",
+    "suffix": " were scarce fair beside her) in her yellow shoes and frock of muslin, I do not know the right name of it. The chestnuts that shaded us were in bloom: 1961#415the air drooped with ",
+    "start": 82877,
+    "end": 82883,
+    "canonical_text": "Lalage"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15153518,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

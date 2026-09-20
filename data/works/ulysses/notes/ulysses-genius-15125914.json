@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15125914",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "The fair of Carmen",
+  "html_source": "<p>An ancient gathering in Wexford (southeastern Ireland) which was held every three years, where Greek and Phoenician traders reputedly traded with the Irish.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15125914/James-joyce-ulysses-chap-12-cyclops/The-fair-of-carmen",
+    "original_id": "15125914",
+    "referent_id": 15125914,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "the fair of Carmen",
+    "prefix": "Where are the Greek merchants that came through the pillars of Hercules, 1922#312the Gibraltar now grabbed by the foe of mankind, with gold and Tyrian purple to sell in Wexford at ",
+    "suffix": "? Read Tacitus and Ptolemy, even Giraldus Cambrensis. Wine, peltries, Connemara marble, silver from Tipperary, second to none, our farfamed horses even today, the Irish hobbies, wi",
+    "start": 79754,
+    "end": 79772,
+    "canonical_text": "the fair of Carmen"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15125914,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

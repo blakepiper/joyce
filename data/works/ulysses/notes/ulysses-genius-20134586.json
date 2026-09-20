@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20134586",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Mast",
+  "html_source": "<p>A term for acorns and other nuts on the forest floor that animals eat. With, of course, the nautical meaning as a double entendre.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20134586/James-joyce-ulysses-chap-3-proteus/Mast",
+    "original_id": "20134586",
+    "referent_id": 20134586,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "mast",
+    "prefix": "reads these strange pages of one long gone one feels that one is at one with one who once... \n\n The grainy sand had gone from under his feet. His boots trod again a damp crackling ",
+    "suffix": ", razorshells, squeaking pebbles, 1961#40that on the 1932#37unnumbered pebbles beats, wood sieved by the shipworm, lost Armada. Unwholesome sandflats waited to suck his treading so",
+    "start": 9164,
+    "end": 9168,
+    "canonical_text": "mast"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9444
+  },
+  "genius": {
+    "referent_id": 20134586,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11041825,
+        "login": "raggedclaws",
+        "name": "raggedclaws",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

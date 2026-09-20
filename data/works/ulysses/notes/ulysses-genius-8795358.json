@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795358",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Tooraloom tooraloom",
+  "html_source": "<p>Over in Killarney,many years ago<br />My mother sang a song to me<br />in tones so sweet and low<br />Just a simple little ditty<br />in her good old Irish way<br />And I’d give the world if she could sing<br />that song to me this day</p><p>Too-ra-loo-ra-loo-ral, Too-ra-loo-ra-li,<br />Too-ra-loo-ra-loo-ral, hush now, don’t you cry!<br />Too-ra-loo-ra-loo-ral, Too-ra-loo-ra-li,<br />Too-ra-loo-ra-loo-ral, that’s an Irish lullaby.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795358/James-joyce-ulysses-chap-6-hades/Tooraloom-tooraloom",
+    "original_id": "8795358",
+    "referent_id": 8795358,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "tooraloom tooraloom",
+    "prefix": "y measure. \n\n Corny Kelleher fell into step at their side. \n\n — Everything went off A1, he said. What? \n\n He looked on them from his drawling eye. Policeman's shoulders. With your ",
+    "suffix": ". \n\n — As it should be, Mr Kernan said. \n\n — What? Eh? Corny Kelleher said. \n\n Mr Kernan assured him. \n\n — Who is that chap behind with Tom Kernan? John Henry Menton asked. I know ",
+    "start": 41034,
+    "end": 41053,
+    "canonical_text": "tooraloom tooraloom"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8795358,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

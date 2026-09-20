@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8445577",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Who hide their flambeau under a bushel",
+  "html_source": "<p>play on phrase – ‘hide one’s light under a bushel’ which means keeping quite about one’s talent or accomplishments</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8445577/James-joyce-ulysses-chap-14-oxen-of-the-sun/Who-hide-their-flambeau-under-a-bushel",
+    "original_id": "8445577",
+    "referent_id": 8445577,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "who hide their flambeau under a bushel",
+    "prefix": " him plaguily, he said, to see the nuptial couch defrauded of its dearest pledges: and to reflect upon so many agreeable females with rich jointures, a prey for the vilest bonzes, ",
+    "suffix": " in an uncongenial cloister or lose their womanly bloom in the embraces of some unaccountable muskin when they might multiply the inlets of happiness, sacrificing the inestimable j",
+    "start": 48543,
+    "end": 48581,
+    "canonical_text": "who hide their flambeau under a bushel"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8445577,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1369044",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Chips, picking chips off rocky thumbnail, chips.",
+  "html_source": "<p>A reference to Mr. Dedalus’s habit of <a href=\"https://genius.com/1369028/James-joyce-episode-11-sirens/Into-their-bar-strolled-mr-dedalus-chips-picking-chips-off-one-of-his-rocky-thumbnails-chips-he-strolled\" rel=\"noopener nofollow\">“picking chips off one of his rocky thumbnails”</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1369044/James-joyce-ulysses-chap-11-sirens/Chips-picking-chips-off-rocky-thumbnail-chips",
+    "original_id": "1369044",
+    "referent_id": 1369044,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Chips, picking chips off rocky thumbnail, chips.",
+    "prefix": "\n\n[11]\n\n\n\nBronze by gold heard the hoofirons, steelyringing. \n\n Imperthnthn thnthnthn. \n\n ",
+    "suffix": " \n\n Horrid! And gold flushed more. \n\n A husky fifenote blew. \n\n Blew. Blue bloom is on the. \n\n Goldpinnacled hair. \n\n A jumping rose on satiny breasts of satin, rose of Castile. \n\n",
+    "start": 90,
+    "end": 138,
+    "canonical_text": "Chips, picking chips off rocky thumbnail, chips."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1369044,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 68632,
+        "login": "SvenTheVegabond",
+        "name": "SvenTheVegabond",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

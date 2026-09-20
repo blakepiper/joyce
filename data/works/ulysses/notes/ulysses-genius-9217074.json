@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9217074",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Bovril",
+  "html_source": "<p>Bovril is the trademarked name of a thick, salty meat extract, developed in the 1870s by John Lawson Johnston.<br />wikipedia</p><p><img src=\"https://images.genius.com/56f5c78b5de12f189f9df935d244b9a6.1000x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9217074/James-joyce-ulysses-chap-14-oxen-of-the-sun/Bovril",
+    "original_id": "9217074",
+    "referent_id": 9217074,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Bovril",
+    "prefix": "h the world. Health all! A la vôtre! \n\n1922#405\n\n Golly, whatten tunket's yon guy in the mackintosh? Dusty Rhodes. Peep at his wearables. By mighty! What's he got? Jubilee mutton. ",
+    "suffix": ", by James. Wants it real bad. D'ye ken bare socks? Seedy cuss in the Richmond? Rawthere! Thought he had a deposit of lead in his penis. Trumpery insanity. Bartle the Bread we call",
+    "start": 112184,
+    "end": 112190,
+    "canonical_text": "Bovril"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9217074,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

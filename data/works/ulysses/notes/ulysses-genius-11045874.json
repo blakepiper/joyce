@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11045874",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "More in her line",
+  "html_source": "<p>Well she is about to commit adultery!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11045874/James-joyce-ulysses-chap-10-wandering-rocks/More-in-her-line",
+    "original_id": "11045874",
+    "referent_id": 11045874,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "More in her line",
+    "prefix": "pened it. Thought so. \n\n A woman's voice behind the dingy curtain. Listen: the man. \n\n No: she wouldn't like that much. Got her it once. \n\n He read the other title: Sweets of Sin. ",
+    "suffix": ". Let us see. \n\n He read where his finger opened. \n\n— All the dollarbills her husband gave her were spent in the stores on wondrous gowns and costliest frillies. For him! For Raoul",
+    "start": 34690,
+    "end": 34706,
+    "canonical_text": "More in her line"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11045874,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 4017165,
+        "login": "KevinFoy",
+        "name": "KevinFoy",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

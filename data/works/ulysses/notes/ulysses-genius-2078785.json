@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2078785",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Therefore, everyman,",
+  "html_source": "<p>This section (“Therefore, everyman,” through “chiding her childless”) imitates Middle English prose and in particular the 15th century English morality play <a href=\"http://en.wikipedia.org/wiki/Everyman_%28play%29\" rel=\"noopener nofollow\"><em>Everyman</em></a>.</p><p><img src=\"https://images.genius.com/adcaf91da2d5e05420db4185ac28c8f6.250x378x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2078785/James-joyce-ulysses-chap-14-oxen-of-the-sun/Therefore-everyman",
+    "original_id": "2078785",
+    "referent_id": 2078785,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Therefore, everyman,",
+    "prefix": "the Allruthful to have his dear soul in his undeathliness. He heard her sad words, in held hat sad staring. So stood they there both awhile in wanhope sorrowing one with other. \n\n ",
+    "suffix": " look to that last end that is thy death and the dust 1922#368that gripeth on every man that is born of woman for as he came naked forth from his mother's womb so naked shall he we",
+    "start": 7343,
+    "end": 7363,
+    "canonical_text": "Therefore, everyman,"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2078785,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

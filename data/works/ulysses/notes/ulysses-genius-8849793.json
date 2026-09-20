@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8849793",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Lubber",
+  "html_source": "<p>noun<br />a big, clumsy, stupid person; lout.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8849793/James-joyce-ulysses-chap-9-scylla-and-charybdis/Lubber",
+    "original_id": "8849793",
+    "referent_id": 8849793,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Lubber",
+    "prefix": "s to 1961#214the youth of Ireland. I'll be there. Come, Kinch, the bards must drink. Can you walk straight? \n\n Laughing, he... \n\n Swill till eleven. Irish nights entertainment. \n\n ",
+    "suffix": "... \n\n Stephen followed a lubber... \n\n One day in the national library we had a discussion. Shakes. After his lub back I followed. I gall his kibe. \n\n Stephen, greeting, then all a",
+    "start": 64296,
+    "end": 64302,
+    "canonical_text": "Lubber"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8849793,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

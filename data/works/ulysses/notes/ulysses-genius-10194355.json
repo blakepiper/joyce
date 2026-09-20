@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10194355",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Occiput",
+  "html_source": "<p><img src=\"https://images.genius.com/714f3c88f14dd4367bb8244a435a06aa.300x225x1.png\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10194355/James-joyce-ulysses-chap-15-circe/Occiput",
+    "original_id": "10194355",
+    "referent_id": 10194355,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "occiput",
+    "prefix": "\n\n ZOE \n\n And more's mother? (She pats him offhandedly with velvet paws.) Are you coming into the musicroom to see our new pianola? Come and I'll peel off. \n\n BLOOM \n\n(Feeling his ",
+    "suffix": " dubiously with the unparalleled embarrassment of a harassed pedlar gauging the symmetry of her peeled pears.) Somebody would be dreadfully jealous if she knew. The greeneyed monst",
+    "start": 99084,
+    "end": 99091,
+    "canonical_text": "occiput"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10194355,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

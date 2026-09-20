@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3177702",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Wombed",
+  "html_source": "<p>Stephen questions whether he was fathered by Simon Dedalus or God.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3177702/James-joyce-ulysses-chap-3-proteus/Wombed",
+    "original_id": "3177702",
+    "referent_id": 3177702,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Wombed",
+    "prefix": " no navel. Gaze. Belly without blemish, bulging big, a buckler of taut vellum, no, whiteheaped corn, orient and immortal, standing from everlasting to everlasting. Womb of sin. \n\n ",
+    "suffix": " in sin darkness I was too, made not begotten. By them, the man with my voice and my eyes and a ghostwoman with ashes on her breath. They clasped and sundered, did the coupler's wi",
+    "start": 2836,
+    "end": 2842,
+    "canonical_text": "Wombed"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3177702,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

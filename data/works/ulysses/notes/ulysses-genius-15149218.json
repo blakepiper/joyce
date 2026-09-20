@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15149218",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Trowed",
+  "html_source": "<p>May be clear from context here, but <a href=\"https://en.wiktionary.org/wiki/trow#English\" rel=\"noopener nofollow\">trow</a> is an old term from Middle English meaning to trust or to believe.</p><p>Full etymology is interesting (wiktionary):<br />From Middle English trowen, trouwen, treuwen, treowen, from Old English trēowan, trīewan (“to trust”) and Old English trūwian (“to trust, confide”), from Proto-Germanic <em>triwwijaną (“to trust”) and Proto-Germanic </em>trūwijaną (“to trust”); both from Proto-Indo-European *drew- (“faithful, true”). Akin to Scots trow, trew (“to believe, trust, confide in, prove”), Dutch trouwen (“to wed, marry”), German trauen (“to trust, marry”), Danish, Norwegian Bokmål and Swedish tro (“to believe, think”), Norwegian Nynorsk tru (“to believe, think”), Icelandic trúa (“to trust, believe, believe in”).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15149218/James-joyce-ulysses-chap-14-oxen-of-the-sun/Trowed",
+    "original_id": "15149218",
+    "referent_id": 15149218,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "trowed",
+    "prefix": ". And the traveller Leopold said that he should go otherwhither for he was a man of cautels and a subtile. Also the lady was of his avis and repreved the learningknight though she ",
+    "suffix": " well that the traveller had said thing that was false for his subtility. But the learningknight would not hear say nay nor do her mandement ne have him in aught contrarious to his",
+    "start": 9287,
+    "end": 9293,
+    "canonical_text": "trowed"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15149218,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

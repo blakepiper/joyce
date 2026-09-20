@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8845287",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Mesial",
+  "html_source": "<p>me·si·al<br />adjective ANATOMY<br />of, in, or directed toward the middle line of a body.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8845287/James-joyce-ulysses-chap-9-scylla-and-charybdis/Mesial",
+    "original_id": "8845287",
+    "referent_id": 8845287,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "mesial",
+    "prefix": "thy lips enkindle. \n\n Suddenly he turned to Stephen: \n\n — He knows you. He knows your old fellow. O, I fear me, he is Greeker than the Greeks. His pale Galilean eyes were upon her ",
+    "suffix": " groove. Venus 1922#192Kallipyge. O, the thunder of those loins! The god pursuing the maiden hid. \n\n — We want to hear more, John Eglinton decided with Mr Best's approval. We begin",
+    "start": 35100,
+    "end": 35106,
+    "canonical_text": "mesial"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8845287,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

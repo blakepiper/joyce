@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-2295887",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Sassenach",
+  "html_source": "<p>Gaelic term for ‘Saxon’, somewhat preparative.</p><p>PROPOSED SUGGESTION: Gaelic term for ‘Saxon’, somewhat pejorative.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2295887/James-joyce-ulysses-chap-1-telemachus/Sassenach",
+    "original_id": "2295887",
+    "referent_id": 2295887,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Sassenach",
+    "prefix": " \n\n — I'm coming, Buck Mulligan answered. \n\n He turned towards Stephen and said: \n\n — Look at the sea. What does it care about offences? Chuck Loyola, Kinch, and come on down. The ",
+    "suffix": " wants his morning rashers. \n\n His head halted again for a moment at the top of the staircase, level with the roof: \n\n — Don't mope over it all day, he said. I'm inconsequent. Give",
+    "start": 13579,
+    "end": 13588,
+    "canonical_text": "Sassenach"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2295887,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.5714285714285715
+      },
+      {
+        "id": 299511,
+        "login": "KillianMcLoughlin",
+        "name": "KillianMcLoughlin",
+        "role": null,
+        "attribution": 0.42857142857142855
+      }
+    ]
+  },
+  "color": "F59627"
+}

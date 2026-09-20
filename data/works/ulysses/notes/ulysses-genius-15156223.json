@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15156223",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "YELVERTON BARRY",
+  "html_source": "<p>Inversion of the name of the 18th c. Irish lawyer and orator Barry Yelverton.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15156223/James-joyce-ulysses-chap-15-circe/Yelverton-barry",
+    "original_id": "15156223",
+    "referent_id": 15156223,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "YELVERTON BARRY",
+    "prefix": "Carelessly.) I was just chatting this afternoon at the viceregal lodge to my old pals, sir Robert and lady Ball, astronomer royal at the levee. Sir Bob, I said... \n\n1922#440\n\n MRS ",
+    "suffix": " \n\n(In lowcorsaged opal balldress and elbowlength ivory gloves, wearing a sabletrimmed brickquilted dolman, a comb of brilliants and panache of osprey in her hair.) Arrest him, con",
+    "start": 50971,
+    "end": 50986,
+    "canonical_text": "YELVERTON BARRY"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9597
+  },
+  "genius": {
+    "referent_id": 15156223,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

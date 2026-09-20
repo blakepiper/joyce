@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9041568",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Retroussé",
+  "html_source": "<p>adjective<br />(especially of the nose) turned up.</p><p><img src=\"https://images.rapgenius.com/c5f043bf92fe9f5cde3f2f82d2e378dd.1000x705x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9041568/James-joyce-ulysses-chap-13-nausicaa/Retrousse",
+    "original_id": "9041568",
+    "referent_id": 9041568,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "retroussé",
+    "prefix": "she wasn't stagestruck like Winny Rippingham that wanted they two to always dress the same on account of a play but she could not see whether he had an aquiline nose or a slightly ",
+    "suffix": " from where he was sitting. He was in deep mourning, she could see that, and the story of a haunting sorrow was written on his face. She would have given worlds to know what it was",
+    "start": 29454,
+    "end": 29463,
+    "canonical_text": "retroussé"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9041568,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

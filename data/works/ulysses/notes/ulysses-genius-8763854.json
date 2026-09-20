@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8763854",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Rinderpest.",
+  "html_source": "<p>Rinderpest (also cattle plague or steppe murrain) was an infectious viral disease of cattle,</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8763854/James-joyce-ulysses-chap-2-nestor/Rinderpest",
+    "original_id": "8763854",
+    "referent_id": 8763854,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "Rinderpest.",
+    "prefix": ". \n\n — I don't mince words, do I? Mr Deasy asked as Stephen read on. \n\n1939#26\n\n Foot and mouth disease. Known as Koch's preparation. Serum and virus. Percentage of salted horses. ",
+    "suffix": " Emperor's horses at Murzsteg, lower Austria. Veterinary surgeons. Mr Henry Blackwood Price. Courteous offer a fair trial. Dictates of common sense. Allimportant question. In every",
+    "start": 19139,
+    "end": 19150,
+    "canonical_text": "Rinderpest."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8763854,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

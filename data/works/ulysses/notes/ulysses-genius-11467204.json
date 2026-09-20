@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11467204",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Someone killed her,",
+  "html_source": "<p>This is such an odd reply, I don’t know what to make of it. Is Stephen blaming his father here?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11467204/James-joyce-ulysses-chap-1-telemachus/Someone-killed-her",
+    "original_id": "11467204",
+    "referent_id": 11467204,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Someone killed her,",
+    "prefix": "uptly his great searching eyes from the sea to Stephen's face. \n\n — The aunt thinks you killed your mother, he said. That's why she won't let me have anything to do with you. \n\n — ",
+    "suffix": " Stephen said gloomily. \n\n — You could have knelt down, damn it, Kinch, when your dying mother asked you, Buck Mulligan said. I'm hyperborean as much as you. But to think of your 1",
+    "start": 5106,
+    "end": 5125,
+    "canonical_text": "Someone killed her,"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11467204,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1313008,
+        "login": "PeterFif",
+        "name": "PeterFif",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8532933",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Musemathematics",
+  "html_source": "<p>No composer was more mathematical than Bach, but has there been a composer with a more transcendent, other-worldy muse? Watch the attached video all the way through to get an idea of the artistic and mathematical genius at work</p><p><a href=\"https://www.youtube.com/watch?v=Y0_DeHSTLHU\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=Y0_DeHSTLHU</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8532933/James-joyce-ulysses-chap-11-sirens/Musemathematics",
+    "original_id": "8532933",
+    "referent_id": 8532933,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Musemathematics",
+    "prefix": "is seven. Do anything you like with figures juggling. Always find out this equal to that. Symmetry under a cemetery wall. He doesn't see my mourning. Callous: all for his own gut. ",
+    "suffix": ". And you think you're listening to the etherial. But suppose you said it like: Martha, seven times nine minus x is thirtyfive thousand. Fall quite flat. It's on account of the sou",
+    "start": 45734,
+    "end": 45749,
+    "canonical_text": "Musemathematics"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8532933,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

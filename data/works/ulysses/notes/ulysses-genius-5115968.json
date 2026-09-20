@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5115968",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Mrs Bandmann Palmer.",
+  "html_source": "<p><a href=\"https://genius.com/5115924\" rel=\"noopener nofollow\">https://genius.com/5115924</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5115968/James-joyce-ulysses-chap-6-hades/Mrs-bandmann-palmer",
+    "original_id": "5115968",
+    "referent_id": 5115968,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Mrs Bandmann Palmer.",
+    "prefix": "er mourning. People in law perhaps. \n\n They went past the bleak pulpit of saint Mark's, under the railway bridge, past the Queen's theatre: in silence. Hoardings: Eugene Stratton, ",
+    "suffix": " Could I go to see Leah tonight, I wonder. I said I. Or the Lily of Killarney? Elster Grimes Opera Company. Big powerful change. Wet bright bills for next week. Fun on the Bristol.",
+    "start": 10687,
+    "end": 10707,
+    "canonical_text": "Mrs Bandmann Palmer."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5115968,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

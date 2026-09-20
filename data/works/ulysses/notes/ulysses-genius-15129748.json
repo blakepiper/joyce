@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15129748",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Emunctory",
+  "html_source": "<p>Relating to an organ or part of the body involved in the removal of wastes (e.g., kindeys), or the removal of bodily wastes in general. (No idea what relevance this has here.)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15129748/James-joyce-ulysses-chap-12-cyclops/Emunctory",
+    "original_id": "15129748",
+    "referent_id": 15129748,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "emunctory",
+    "prefix": "a North American puma (a far nobler king of beasts than the British article, be it said in passing), a Kerry calf and a golden eagle from Carrantuohill. The scenes depicted on the ",
+    "suffix": " field, showing our ancient duns and raths and cromlechs and grianauns and seats of learning and maledictive stones, are as wonderfully beautiful and the pigments as delicate as wh",
+    "start": 92502,
+    "end": 92511,
+    "canonical_text": "emunctory"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15129748,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

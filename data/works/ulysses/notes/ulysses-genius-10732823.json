@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-10732823",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Plumtree’s potted meat",
+  "html_source": "<p><img src=\"https://images.genius.com/d133409392b43c637e2bbfa97da5261b.1000x750x1.jpg\" alt=\"\" /></p><p>and a reference to Boylan’s genitalia; he is potting his meat with Bloom’s gal.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10732823/James-joyce-ulysses-chap-17-ithaca/Plumtrees-potted-meat",
+    "original_id": "10732823",
+    "referent_id": 10732823,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Plumtree's potted meat",
+    "prefix": "aromatic violet comfits. On the middle shelf a chipped eggcup containing pepper, a drum of table salt, four conglomerated black olives in oleaginous paper, an empty pot of 1922#627",
+    "suffix": ", an oval wicker basket bedded with fibre and containing one Jersey pear, a halfempty bottle of William Gilbey and Co's white invalid port, half disrobed of its swathe of coralpink",
+    "start": 20334,
+    "end": 20356,
+    "canonical_text": "Plumtree's potted meat"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10732823,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.6818181818181819
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.3181818181818182
+      }
+    ]
+  },
+  "color": "F59627"
+}

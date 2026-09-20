@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4593942",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Be",
+  "html_source": "<p>An error in the text.  It should say “he”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4593942/James-joyce-ulysses-chap-16-eumaeus/Be",
+    "original_id": "4593942",
+    "referent_id": 4593942,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "be",
+    "prefix": "tioned as having happened, before but it cost him no small effort before he remembered that he recognised in the sentry a quondam friend of his father's Gumley. To avoid a meeting ",
+    "suffix": " drew nearer to the pillars of the railway bridge.\n\n—Someone saluted you, Mr Bloom said.\n\nA figure of middle height on the prowl, evidently, under the arches saluted again, calling",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "ambiguous",
+    "confidence": 0.3152609123728257
+  },
+  "genius": {
+    "referent_id": 4593942,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

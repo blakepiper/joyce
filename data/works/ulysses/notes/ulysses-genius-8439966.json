@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8439966",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Fading coal",
+  "html_source": "<p>References “Portrait of the Artist” Chapter Five: “This supreme quality is felt by the artist when the esthetic image is first conceived in his imagination. The mind in that mysterious instant Shelley likened beautifully to a fading coal. The instant wherein that supreme quality of beauty, the clear radiance of the esthetic image, is apprehended luminously by the mind which has been arrested by its wholeness and fascinated by its harmony is the luminous silent stasis of esthetic pleasure, a spiritual state very like to that cardiac condition which the Italian physiologist Luigi Galvani, using a phrase almost as beautiful as Shelley’s, called the enchantment of the heart.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8439966/James-joyce-ulysses-chap-9-scylla-and-charybdis/Fading-coal",
+    "original_id": "8439966",
+    "referent_id": 8439966,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "fading coal",
+    "prefix": "uff time after time, so through the ghost of the unquiet father the image of the unliving son looks forth. In the intense instant of imagination, when the mind, Shelley says, is a ",
+    "suffix": ", that which I was is that which I am and that which in possibility I may come to be. So in the future, the sister of the past, I may see 1922#186myself as I sit here now but by re",
+    "start": 21675,
+    "end": 21686,
+    "canonical_text": "fading coal"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8439966,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

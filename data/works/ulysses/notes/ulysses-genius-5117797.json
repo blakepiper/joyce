@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5117797",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Tanist",
+  "html_source": "<p>The heir apparent to an ancient Celtic chief, elected during the chief’s lifetime.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5117797/James-joyce-ulysses-chap-3-proteus/Tanist",
+    "original_id": "5117797",
+    "referent_id": 5117797,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "tanist",
+    "prefix": "purned lover. I was a strapping young gossoon at that time, I tell you. I'll show you my likeness one day. I was, faith. Lover, for her love he prowled with colonel Richard Burke, ",
+    "suffix": " of his sept, under the walls of Clerkenwell and, crouching, saw a flame of vengeance hurl them upward in the fog. Shattered glass and toppling masonry. In gay Paree he hides, Egan",
+    "start": 15562,
+    "end": 15568,
+    "canonical_text": "tanist"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5117797,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1618748,
+        "login": "Kataryna",
+        "name": "Kataryna",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

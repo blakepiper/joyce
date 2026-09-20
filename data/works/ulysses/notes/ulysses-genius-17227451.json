@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-17227451",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Pyemia",
+  "html_source": "<p>Blood poisoning (septicemia) caused by the spread in the bloodstream of pus-forming bacteria released from an abscess.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/17227451/James-joyce-ulysses-chap-17-ithaca/Pyemia",
+    "original_id": "17227451",
+    "referent_id": 17227451,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "pyemia",
+    "prefix": "ercy Apjohn (killed in action, Modder River), Philip Gilligan (phthisis, Jervis 1986#578Street hospital), Matthew F. 1961#704Kane (accidental drowning, Dublin Bay), Philip Moisel (",
+    "suffix": ", Heytesbury street), Michael Hart (phthisis, Mater Misericordiae hospital), Patrick Dignam (apoplexy, Sandymount). \n\n1932#609\n\n What prospect of what phenomena inclined him to rem",
+    "start": 79530,
+    "end": 79536,
+    "canonical_text": "pyemia"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 17227451,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 8460622,
+        "login": "LP-Reader1",
+        "name": "LP-Reader1",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

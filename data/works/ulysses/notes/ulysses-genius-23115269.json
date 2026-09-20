@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23115269",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Rags and bones",
+  "html_source": "<p>A rag-and-bone man is a scrap collector who goes house to house collecting scraps of waste</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23115269/James-joyce-ulysses-chap-15-circe/Rags-and-bones",
+    "original_id": "23115269",
+    "referent_id": 23115269,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "rags and bones",
+    "prefix": "d muffled by its arm and hat snores, groans, grinding 1986#350growling teeth, and snores again. On a step a gnome totting among a rubbishtip crouches to 1961#429shoulder a sack of ",
+    "suffix": ". A crone standing by with a smoky oillamp rams her last bottle in the maw of his sack. He heaves his booty, tugs askew his peaked cap and hobbles off mutely. The crone makes back ",
+    "start": 1333,
+    "end": 1347,
+    "canonical_text": "rags and bones"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23115269,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11649475,
+        "login": "aburda",
+        "name": "aburda",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

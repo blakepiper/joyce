@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23111941",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "And there was Colonel Everard down there in Cavan growing tobacco",
+  "html_source": "<p>Colonel Nugent Everard was a grower of tobacco in Navan, County Meath. Joyce handwritten manuscripts show this as Navan, it’s possible that it was wrongly transcribed to Cavan, which is in the northern part of Ireland.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23111941/James-joyce-ulysses-chap-16-eumaeus/And-there-was-colonel-everard-down-there-in-cavan-growing-tobacco",
+    "original_id": "23111941",
+    "referent_id": 23111941,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "and there was Colonel Everard down there in Cavan growing tobacco",
+    "prefix": "t more surplus steam in the same vein. Their conversation accordingly became general and all agreed that that was a fact. You could grow any mortal thing in Irish soil, he stated, ",
+    "suffix": " Where would you find anywhere the like of Irish bacon? But a day of reckoning, he stated crescendo with no uncertain voice—thoroughly monopolising all the conversation—was in stor",
+    "start": 67546,
+    "end": 67612,
+    "canonical_text": "and there was colonel Everard down there in Navan growing tobacco."
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9771
+  },
+  "genius": {
+    "referent_id": 23111941,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

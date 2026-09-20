@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5111405",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "The bleak pulpit of saint Mark’s",
+  "html_source": "<p>The church (c. 1737) is on Mark Street, just off Great Brunswick (now Pearse) Street. Built in a neoclassical style so severe as to be bleak, the west front is typical: rugged and black, the sweeping curve of walls unrelieved by the slit windows that are intended to light the staircases within.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5111405/James-joyce-ulysses-chap-6-hades/The-bleak-pulpit-of-saint-marks",
+    "original_id": "5111405",
+    "referent_id": 5111405,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "the bleak pulpit of saint Mark's",
+    "prefix": "tion? \n\n Antient concert rooms. Nothing on there. A man in a buff1961#91 suit with a crape armlet. Not much grief there. Quarter mourning. People in law perhaps. \n\n They went past ",
+    "suffix": ", under the railway bridge, past the Queen's theatre: in silence. Hoardings: Eugene Stratton, Mrs Bandmann Palmer. Could I go to see Leah tonight, I wonder. I said I. Or the Lily o",
+    "start": 10561,
+    "end": 10593,
+    "canonical_text": "the bleak pulpit of saint Mark's"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5111405,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

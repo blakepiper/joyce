@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15165414",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Qui vive",
+  "html_source": "<p>Literally (Fr.) “who lives?” Expression meaning on the alert or on the lookout.<br />First used late 16th century: From French, literally ‘(long) live who?,’ i.e., ‘on whose side are you?,’ used as a sentry’s challenge.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15165414/James-joyce-ulysses-chap-16-eumaeus/Qui-vive",
+    "original_id": "15165414",
+    "referent_id": 15165414,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "qui vive",
+    "prefix": "d to return the compliment. Mr Bloom actuated by motives of inherent delicacy inasmuch as he always believed in minding his own business moved off but nevertheless remained on the ",
+    "suffix": " with just a shade of anxiety though not funkyish in the least. Though unusual in the Dublin area he knew that it was not by any means unknown for desperadoes who had next to nothi",
+    "start": 8444,
+    "end": 8452,
+    "canonical_text": "qui vive"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15165414,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

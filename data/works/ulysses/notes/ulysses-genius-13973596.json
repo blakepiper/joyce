@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13973596",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Machree",
+  "html_source": "<p>As a form of address: my dear</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13973596/James-joyce-ulysses-chap-14-oxen-of-the-sun/Machree",
+    "original_id": "13973596",
+    "referent_id": 13973596,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Machree",
+    "prefix": "Mullingar. Tell her I was axing at her. Hauding Sara by the wame. On the road to Malahide. Me? 1961#425If she who seduced me had left but the name. What do you want for ninepence? ",
+    "suffix": ", macruiskeen. Smutty Moll for a mattress jig. And a pull all together. Ex! \n\n Waiting, guvnor? Most deciduously. Bet your boots on. Stunned like, seeing as how no shiners is acomi",
+    "start": 108662,
+    "end": 108669,
+    "canonical_text": "Machree"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13973596,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

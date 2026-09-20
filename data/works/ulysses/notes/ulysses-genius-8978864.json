@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8978864",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Gort",
+  "html_source": "<p>a town in south County Galway.<br />Perhaps meaning “out back” here since Gort is far west of Dublin</p><p><img src=\"https://images.rapgenius.com/678828b21952b3d71257cb71f89d5180.208x261x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8978864/James-joyce-ulysses-chap-12-cyclops/Gort",
+    "original_id": "8978864",
+    "referent_id": 8978864,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Gort",
+    "prefix": "t. A dark horse. \n\n — He's a bloody dark horse himself, says Joe. \n\n — Mind, Joe, says I. Show us the entrance out. \n\n — There you are, says Terry. \n\n Goodbye Ireland I'm going to ",
+    "suffix": ". So I just went round the back of the yard to pumpship and begob (hundred shillings to five) while I was letting off my (Throwaway twenty to) letting off my load gob says I to mys",
+    "start": 99879,
+    "end": 99883,
+    "canonical_text": "Gort"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8978864,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

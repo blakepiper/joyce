@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8813614",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Treacly",
+  "html_source": "<p>trea·cle<br />noun<br />British term for molasses.</p><p>Another food reference.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8813614/James-joyce-ulysses-chap-8-lestrygonians/Treacly",
+    "original_id": "8813614",
+    "referent_id": 8813614,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "treacly",
+    "prefix": "at. Eat pig like pig. But then why is it that saltwater fish are not salty? How is that? \n\n1932#135\n\n His eyes sought answer from the river and saw a rowboat rock at anchor on the ",
+    "suffix": " swells lazily its plastered board. \n\nKino's. \n\n11/-. \n\nTrousers. \n\n Good idea that. Wonder if he pays rent to the corporation. How can you own water really? It's always flowing in",
+    "start": 5528,
+    "end": 5535,
+    "canonical_text": "treacly"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8813614,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

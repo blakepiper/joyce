@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-22338054",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Well, it’s seven mornings a pint at twopence is seven twos is a shilling and twopence over and these three mornings a quart at fourpence is three quarts is a shilling. That’s a shilling and one and two is two and two, sir.",
+  "html_source": "<p>Speedy and adept math here. For Americans (like me) who are used to multiples of ten, the tot is:</p><p>1 pint a day for 7 days at 2 pence each = 14 pence, or 1 shilling and 2 pence.</p><p>1 quart a day for 3 days at 4 pence each = 12 pence, or 1 shilling even.</p><p>Totaling 2 shillings and 2 pence.</p><p>Mulligan has only 2 shillings on him, so he agrees to pay her the remaining two pence another time.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/22338054/James-joyce-ulysses-chap-1-telemachus/Well-its-seven-mornings-a-pint-at-twopence-is-seven-twos-is-a-shilling-and-twopence-over-and-these-three-mornings-a-quart-at-fourpence-is-three-quarts-is-a-shilling-thats-a-shilling-and-one-and-two-is-two-and-two-sir",
+    "original_id": "22338054",
+    "referent_id": 22338054,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Well, it's seven mornings a pint at twopence is seven twos is a shilling and twopence over and these three mornings a quart at fourpence is three quarts is a shilling. That's a shilling and one and two is two and two, sir.",
+    "prefix": "rearm and about to go.\n\nHaines said to her:\n\n—Have you your bill? We had better pay her, Mulligan, hadn't we?\n\nStephen filled again the three cups.\n\n—Bill, sir? she said, halting. ",
+    "suffix": "\n\nBuck Mulligan sighed and, having filled his mouth with a crust thickly buttered on both sides, stretched forth his legs and began to search his trouser pockets.\n\n—Pay up and look",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.7814
+  },
+  "genius": {
+    "referent_id": 22338054,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

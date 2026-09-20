@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15123097",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Little Sweet Branch",
+  "html_source": "<p>Pseudonym of <a href=\"https://en.wikipedia.org/wiki/Douglas_Hyde\" rel=\"noopener nofollow\">Douglas Hyde</a>, author of Love Songs of Connacht (1893), and cofounder of the Gaelic League. He likely took the pseudonym to conceal his name, which suggested English origins. “Little Sweet Branch” is “An Craoibhin Aoibhinn” in Gaelic. Hyde is most famous for serving as Ireland’s first president from 1938 until 1945.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15123097/James-joyce-ulysses-chap-12-cyclops/Little-sweet-branch",
+    "original_id": "15123097",
+    "referent_id": 15123097,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Little Sweet Branch",
+    "prefix": "to the ranns of ancient Celtic bards. We are not speaking so much of those delightful lovesongs with which the writer who conceals his identity under the graceful pseudonym of the ",
+    "suffix": " has familiarised the bookloving world but rather (as a contributor D. O. C. points out in an interesting communication published by an evening contemporary) of the harsher and mor",
+    "start": 47170,
+    "end": 47189,
+    "canonical_text": "Little Sweet Branch"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15123097,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

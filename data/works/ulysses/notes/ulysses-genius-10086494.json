@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10086494",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Dr Hy Franks.",
+  "html_source": "<p><a href=\"http://www.facstaff.bucknell.edu/rickard/Hypermedia/HTML/Franks.html\" rel=\"noopener nofollow\">http://www.facstaff.bucknell.edu/rickard/Hypermedia/HTML/Franks.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10086494/James-joyce-ulysses-chap-15-circe/Dr-hy-franks",
+    "original_id": "10086494",
+    "referent_id": 10086494,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Dr Hy Franks.",
+    "prefix": "ps, his tail cocked, and deftly claps sideways on the wall a pusyellow flybill, butting it with his head.) \n\n1961#522\n\n THE FLYBILL \n\n K. II. Post No Bills. Strictly confidential. ",
+    "suffix": " \n\n HENRY \n\n All is lost now. \n\n(Virag unscrews his head in a trice and holds it under his arm.) \n\n VIRAG'S HEAD \n\n Quack! \n\n(Exeunt severally.) \n\n STEPHEN \n\n(Over his shoulder to ",
+    "start": 132656,
+    "end": 132669,
+    "canonical_text": "Dr Hy Franks."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10086494,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

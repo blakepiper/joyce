@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4498572",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Spunk",
+  "html_source": "<p>Gifford points out that this is slang for both semen and courage.  It appears to refer to the former in this case.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4498572/James-joyce-ulysses-chap-18-penelope/Spunk",
+    "original_id": "4498572",
+    "referent_id": 4498572,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "spunk",
+    "prefix": "ion driving it up into you because thats all they want out of you with that determined vicious look in his eye I had to halfshut my eyes still he hasnt such a tremendous amount of ",
+    "suffix": " in him when I made him pull out and do it on me considering how big it is so much the better in case any of it wasnt washed out properly the last time I let him finish it in me ni",
+    "start": 11500,
+    "end": 11505,
+    "canonical_text": "spunk"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 4498572,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

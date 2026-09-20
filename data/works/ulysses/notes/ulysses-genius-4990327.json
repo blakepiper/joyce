@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4990327",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Deasy",
+  "html_source": "<p>It’s possible that the surname ‘Deasy’ (not typical for an Ulster Protestant) is a play on ‘Odysseus’: Stephen meets a father-figure who is not at all like the father he is seeking.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4990327/James-joyce-ulysses-chap-2-nestor/Deasy",
+    "original_id": "4990327",
+    "referent_id": 4990327,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "Deasy",
+    "prefix": "s the door the boy's graceless form. \n\n1939#23\n\n — Yes, sir. \n\n1961#28\n\n In the corridor his name was heard, called from the playfield. \n\n — Sargent! \n\n — Run on, Stephen said. Mr ",
+    "suffix": " is calling you. \n\n He stood in the porch and watched the laggard hurry towards the scrappy field where sharp voices were in strife. They were sorted in teams and Mr Deasy came awa",
+    "start": 10007,
+    "end": 10012,
+    "canonical_text": "Deasy"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9193
+  },
+  "genius": {
+    "referent_id": 4990327,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1520984,
+        "login": "RedSwanHotel",
+        "name": "RedSwanHotel",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

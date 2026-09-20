@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33270030",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "A",
+  "html_source": "<p>Bloom sat on the fence saying it’s best to go by what the church says.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33270030/James-joyce-ulysses-chap-14-oxen-of-the-sun/A",
+    "original_id": "33270030",
+    "referent_id": 33270030,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "A",
+    "prefix": "essed Peter on which rock was holy church for all ages founded. All they bachelors then asked of sir Leopold would he in like case so jeopard her person as risk life to save life. ",
+    "suffix": " wariness of mind he would answer as fitted all and, laying hand to jaw, he said dissembling, as his wont was, that as it was informed him, who had ever loved the art of physic as ",
+    "start": 18011,
+    "end": 18012,
+    "canonical_text": "A"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 33270030,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10113551",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Et exaltabuntur cornua iusti",
+  "html_source": "<p>And the horns of the righteous</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10113551/James-joyce-ulysses-chap-15-circe/Et-exaltabuntur-cornua-iusti",
+    "original_id": "10113551",
+    "referent_id": 10113551,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Et exaltabuntur cornua iusti",
+    "prefix": "AM \n\n(Sings.) \n\n And they call me the jewel of Asia! \n\n1939#4001932#491\n\n MARTIN CUNNINGHAM \n\n(Gazes on her, impassive.) Immense! Most bloody awful demirep! \n\n1922#529\n\n STEPHEN \n\n",
+    "suffix": ". Queens lay with prize bulls. Remember Pasiphae for whose lust my grandoldgrossfather made the first confessionbox. Forget not Madam Grissel Steevens nor the suine scions of the h",
+    "start": 189795,
+    "end": 189823,
+    "canonical_text": "Et exaltabuntur cornua iusti"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10113551,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

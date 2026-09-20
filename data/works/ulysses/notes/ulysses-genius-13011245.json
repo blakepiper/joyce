@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13011245",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "(Triumphaliter.) Salvi facti i sunt.",
+  "html_source": "<p>Latin: “(triumphantly) And they are made whole [saved].”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13011245/James-joyce-ulysses-chap-15-circe/Triumphaliter-salvi-facti-i-sunt",
+    "original_id": "13011245",
+    "referent_id": 13011245,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "(Triumphaliter.) Salvi facti i sunt.",
+    "prefix": "e likes of her! Stag that one is! Stubborn as a mule! And her walking with two fellows the one time, Kilbride, the enginedriver, and lancecorporal Oliphant. \n\n1986#352\n\n STEPHEN \n\n",
+    "suffix": " \n\n(He flourishes his ashplant, shivering the lamp image, shattering light over the world. A liver and white spaniel on the prowl slinks after him, growling. Lynch scares it with a",
+    "start": 4465,
+    "end": 4499,
+    "canonical_text": "(Triumphaliter.) Salvi facti sunt."
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9714
+  },
+  "genius": {
+    "referent_id": 13011245,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5436824,
+        "login": "cohomology",
+        "name": "cohomology",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

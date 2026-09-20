@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10890872",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Charabanc",
+  "html_source": "<p>Open-topped bus used for pleasure trips</p><p><img src=\"https://images.genius.com/12ee9069f2719eb8f031bb0dd44237bd.1000x590x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10890872/James-joyce-ulysses-chap-17-ithaca/Charabanc",
+    "original_id": "10890872",
+    "referent_id": 10890872,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "charabanc",
+    "prefix": "development of Irish tourist 1932#622traffic in and around Dublin by means of petrolpropelled riverboats, 1961#718plying in the fluvial fairway between Island bridge and Ringsend, ",
+    "suffix": "s, narrow gauge local railways, and pleasure steamers for coastwise navigation (10/- per person per day, guide (trilingual) included). A scheme for the repristination of passenger ",
+    "start": 108966,
+    "end": 108975,
+    "canonical_text": "charabanc"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10890872,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

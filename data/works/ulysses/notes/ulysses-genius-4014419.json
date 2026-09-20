@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4014419",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Try it with the glycerine, miss Kennedy advised",
+  "html_source": "<p>The borax was used with glycerine sometimes (Gifford).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4014419/James-joyce-ulysses-chap-11-sirens/Try-it-with-the-glycerine-miss-kennedy-advised",
+    "original_id": "4014419",
+    "referent_id": 4014419,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Try it with the glycerine, miss Kennedy advised",
+    "prefix": "halfstood to see her skin askance in the barmirror gildedlettered where hock and claret glasses shimmered and in their midst a shell. \n\n — And leave it to my hands, she said. \n\n — ",
+    "suffix": ". \n\n1986#212\n\n Bidding her neck and hands adieu Miss Douce \n\n — Those things only bring out a rash, replied, reseated. I asked that old fogey in Boyd's for something for my skin. \n",
+    "start": 5455,
+    "end": 5502,
+    "canonical_text": "Try it with the glycerine, Miss Kennedy advised"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4014419,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

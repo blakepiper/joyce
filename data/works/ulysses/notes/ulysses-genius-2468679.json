@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2468679",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Ringsend",
+  "html_source": "<p>This would be Ringsend’s Great South Wall.</p><p><img src=\"https://images.rapgenius.com/f4kk3dc6dc96dpg4ljaj9bc76.280x184x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2468679/James-joyce-ulysses-chap-7-aeolus/Ringsend",
+    "original_id": "2468679",
+    "referent_id": 2468679,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Ringsend",
+    "prefix": "ms slowed, shunted, changed trolley, started for Blackrock, Kingstown and Dalkey, Clonskea, Rathgar and Terenure, Palmerston Park and upper Rathmines, Sandymount Green, Rathmines, ",
+    "suffix": " and Sandymount Tower, Harold's Cross. The hoarse Dublin United Tramway Company's timekeeper bawled them off: \n\n — Rathgar and Terenure! \n\n — Come on, Sandymount Green! \n\n Right an",
+    "start": 258,
+    "end": 266,
+    "canonical_text": "Ringsend"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 2468679,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

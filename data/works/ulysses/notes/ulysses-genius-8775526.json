@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8775526",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Very",
+  "html_source": "<p>A ‘highly focalized third person narrative’ ensues  (Norris,M. <em>Virgin and Veteran Readings of Ulysses</em>, p95).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8775526/James-joyce-ulysses-chap-5-lotus-eaters/Very",
+    "original_id": "8775526",
+    "referent_id": 8775526,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Very",
+    "prefix": "'t ask him at a funeral, though. While his eyes still read blandly he took off his hat quietly inhaling his hairoil and sent his right hand with slow grace over his brow and hair. ",
+    "suffix": " warm morning. Under their dropped lids his eyes found the tiny bow of the leather headband inside his high grade ha. Just there. His right hand came down into the bowl of his hat.",
+    "start": 1591,
+    "end": 1595,
+    "canonical_text": "Very"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8775526,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

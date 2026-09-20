@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8376557",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "John Henry Menton",
+  "html_source": "<p>Parallels with Homer.<br />Menton is as a prototype of Homer’s Ajax. As in Homer’s Hades Ajax ignored Odysseus,here Menton offends Bloom simply not answering to him.</p><p><img src=\"https://images.rapgenius.com/99cd158cdff255276c94dc422279ec96.236x261x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8376557/James-joyce-ulysses-chap-6-hades/John-henry-menton",
+    "original_id": "8376557",
+    "referent_id": 8376557,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "John Henry Menton",
+    "prefix": "t a dinge in the side of his hat. Carriage probably. \n\n — Excuse me, sir, Mr Bloom said beside them. \n\n They stopped. \n\n — Your hat is a little crushed, Mr Bloom said pointing. \n\n ",
+    "suffix": " stared at him for an instant without moving. \n\n — There, Martin Cunningham helped, pointing also. John Henry Menton took off his hat, bulged out the dinge and smoothed the nap wit",
+    "start": 62417,
+    "end": 62434,
+    "canonical_text": "John Henry Menton"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9749
+  },
+  "genius": {
+    "referent_id": 8376557,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2598909,
+        "login": "Gnomikus",
+        "name": "Gnomikus",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

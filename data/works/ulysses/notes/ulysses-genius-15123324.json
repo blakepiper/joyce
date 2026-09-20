@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15123324",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "(Multifarnham. Nat.)",
+  "html_source": "<p>This notation is likely meant to mirror Parliamentary minutes taken for records of each session. The speaker is introduced, followed by parenthetical abbreviations of their district and their party (Nat. = nationalist, Con. = conservative, etc.)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15123324/James-joyce-ulysses-chap-12-cyclops/Multifarnham-nat",
+    "original_id": "15123324",
+    "referent_id": 15123324,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "(Multifarnham. Nat.)",
+    "prefix": "him to ask a question tomorrow about the commissioner of police forbidding Irish games in the park. What do you think of that, citizen? The Sluagh na h-Eireann. \n\n Mr Cowe Conacre ",
+    "suffix": ": Arising out of the question of my honourable friend, the member for Shillelagh, may I ask the right honourable gentleman whether the government has issued orders that these anima",
+    "start": 55724,
+    "end": 55744,
+    "canonical_text": "(Multifarnham. Nat.)"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15123324,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

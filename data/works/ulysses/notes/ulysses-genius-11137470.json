@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11137470",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Levanter",
+  "html_source": "<p><a href=\"http://www.weatheronline.co.uk/reports/wind/Levante.htm\" rel=\"noopener nofollow\">http://www.weatheronline.co.uk/reports/wind/Levante.htm</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11137470/James-joyce-ulysses-chap-18-penelope/Levanter",
+    "original_id": "11137470",
+    "referent_id": 11137470,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "levanter",
+    "prefix": "e place hotter 1939#532than it is that rain was lovely and refreshing just after my beauty sleep I thought it was going to get like Gibraltar my goodness the heat there before the ",
+    "suffix": " came on black as night and the glare of the rock standing up in it like a big giant compared with their 3 Rock mountain they think is so great with the red sentries here and there",
+    "start": 45351,
+    "end": 45359,
+    "canonical_text": "levanter"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11137470,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

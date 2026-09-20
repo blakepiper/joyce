@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15164932",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Nothung",
+  "html_source": "<p>A German word literally meaning “necessary”, but more likely a reference to Siegfried’s sword of the same name in Der Ring des Nibelungen.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15164932/James-joyce-ulysses-chap-15-circe/Nothung",
+    "original_id": "15164932",
+    "referent_id": 15164932,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Nothung",
+    "prefix": " her deathrattle.) Have mercy on Stephen, Lord, for my 1922#541sake! Inexpressible was my anguish when expiring with love, grief and agony on Mount Calvary. \n\n1961#582\n\n STEPHEN \n\n",
+    "suffix": "! \n\n(He lifts his ashplant high with both hands and smashes the chandelier. Time's livid final flame leaps and, in the following darkness, ruin of all space, shattered glass and to",
+    "start": 207339,
+    "end": 207346,
+    "canonical_text": "Nothung"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15164932,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

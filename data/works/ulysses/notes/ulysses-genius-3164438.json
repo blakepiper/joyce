@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3164438",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Hat",
+  "html_source": "<p>Stephen thinks he’s cool !</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3164438/James-joyce-ulysses-chap-3-proteus/Hat",
+    "original_id": "3164438",
+    "referent_id": 3164438,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "hat",
+    "prefix": " vous savez. Moi, je suis socialiste. Je ne crois pas en l'existence de Dieu. Faut pas le dire à mon père. \n\n— Il croit? \n\n—Mon père, oui. \n\n Schluss. He laps. \n\n My Latin quarter ",
+    "suffix": ". God, we simply must dress the character. I want puce gloves. You were a student, weren't you? Of what in the other devil's name? Paysayenn. P. C. N., you know: physiques, chimiqu",
+    "start": 10607,
+    "end": 10610,
+    "canonical_text": "hat"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9747
+  },
+  "genius": {
+    "referent_id": 3164438,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

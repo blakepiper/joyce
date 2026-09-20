@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3152997",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Red Hugh O’Donnell",
+  "html_source": "<blockquote><p><a href=\"http://en.wikipedia.org/wiki/Hugh_Roe_O&#x27;Donnell\" rel=\"noopener nofollow\">He led a rebellion against English government in Ireland from 1593 and helped to lead the Nine Years' War (a revolt against English occupation) from 1595 to 1603.</a></p></blockquote>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3152997/James-joyce-ulysses-chap-12-cyclops/Red-hugh-odonnell",
+    "original_id": "3152997",
+    "referent_id": 3152997,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Red Hugh O'Donnell",
+    "prefix": "ty, Cuchulin, Conn of hundred battles, Niall of nine hostages, Brian of Kincora, the ardri Malachi, Art MacMurragh, Shane O'Neill, Father John Murphy, Owen Roe, Patrick Sarsfield, ",
+    "suffix": ", Red Jim MacDermott, Soggarth Eoghan O'Growney, Michael Dwyer, Francy Higgins, Henry Joy M'Cracken, Goliath, Horace Wheatley, Thomas Conneff, Peg Woffington, the Village Blacksmit",
+    "start": 11609,
+    "end": 11627,
+    "canonical_text": "Red Hugh O'Donnell"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3152997,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 591961,
+        "login": "dbrannen",
+        "name": "dbrannen",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

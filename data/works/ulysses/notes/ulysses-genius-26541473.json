@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-26541473",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "She wanted to hear my music.",
+  "html_source": "<p>Stephen, like James Joyce, is a surprisingly good tenor singer and he’s encouraged to sing or breaks into song several times throughout the book. He never displays much interest in pursuing singing as a career (like Molly Bloom does), even though his Italian music teacher Almidano Artifoni says in episode 10, <a href=\"https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated\" rel=\"noopener nofollow\">“Wandering Rocks”</a>, that he should seriously think about it.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/26541473/James-joyce-ulysses-chap-1-telemachus/She-wanted-to-hear-my-music",
+    "original_id": "26541473",
+    "referent_id": 26541473,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "she wanted to hear my music.",
+    "prefix": "y, shadowing the bay in deeper green. It lay behind him, a bowl of bitter waters. Fergus' song: I sang it alone in the house, holding down the long dark chords. Her door was open: ",
+    "suffix": " Silent with awe and pity I went to her bedside. She was crying in her wretched bed. For those words, Stephen: love's bitter mystery. \n\n1939#9\n\n Where now? \n\n1922#9\n\n Her secrets: ",
+    "start": 14565,
+    "end": 14593,
+    "canonical_text": "she wanted to hear my music."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 26541473,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 8067236,
+        "login": "AndyVineborg",
+        "name": "AndyVineborg",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

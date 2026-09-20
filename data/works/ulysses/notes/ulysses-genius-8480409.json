@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8480409",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "The reverend Hugh C. Love",
+  "html_source": "<p>Reverend Love appears with Ned Lambert and J. J. O'Molloy when they show him the ancient council chamber of St. Mary’s Abbey. He is writing a book on Irish history and is preoccupied by the Fitzgerald family. Mark Osteen, in “The Economy of Ulysses” pg. 197 writes: “And like Haines, who also appropriates things Irish for English use, Love is at first invisible, entering the text merely as a ‘refined accent;’… Love’s expropriation of history also links him to that other Unionist, Garrett Deasy: Love says he ‘won’t trespass on your valuable time;” Deasy asks to 'trespass on your valuable space.’ But as Anglo-Protestant usurpers, they cannot help but be trespassers.\"</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8480409/James-joyce-ulysses-chap-10-wandering-rocks/The-reverend-hugh-c-love",
+    "original_id": "8480409",
+    "referent_id": 8480409,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "The reverend Hugh C. Love",
+    "prefix": "oy he came forth slowly into Mary's abbey where draymen were loading floats with sacks of carob and palmnut meal, O'Connor, Wexford. \n\n He stood to read the card in his hand. \n\n — ",
+    "suffix": ", Rathcoffey. Present address: Saint Michael's, Sallins. Nice young chap he is. He's writing a book about the Fitzgeralds he told me. He's well up in history, faith. \n\n The young w",
+    "start": 24938,
+    "end": 24963,
+    "canonical_text": "The reverend Hugh C. Love"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 8480409,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

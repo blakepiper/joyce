@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10121312",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Voisin",
+  "html_source": "<p>Refernence to a London murder by a French butcher in 1917; another event inconsistent with 1904 but consistent with Joyce’s writing of Ulysses.<br /><a href=\"http://murderpedia.org/male.V/v/voisin-louis.htm\" rel=\"noopener nofollow\">http://murderpedia.org/male.V/v/voisin-louis.htm</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10121312/James-joyce-ulysses-chap-15-circe/Voisin",
+    "original_id": "10121312",
+    "referent_id": 10121312,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Voisin",
+    "prefix": " BARBER \n\n(Accompanied by two blackmasked assistants, advances with gladstone bag which he opens.) Ladies and gents, cleaver purchased by Mrs Pearcy to slay Mogg. Knife with which ",
+    "suffix": " dismembered the wife of a compatriot and hid remains in a sheet in the cellar, the unfortunate female's throat being cut from ear to ear. Phial containing arsenic retrieved from b",
+    "start": 220980,
+    "end": 220986,
+    "canonical_text": "Voisin"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10121312,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

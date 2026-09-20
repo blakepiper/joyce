@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-7615443",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Ephebe",
+  "html_source": "<p>Greek: an adolescent male.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7615443/James-joyce-ulysses-chap-9-scylla-and-charybdis/Ephebe",
+    "original_id": "7615443",
+    "referent_id": 7615443,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "ephebe",
+    "prefix": "lour, but it's so typical the way he works it out. It's the very essence of Wilde, don't you know. The light touch. \n\n His glance touched their faces lightly as he smiled, a blond ",
+    "suffix": ". Tame essence of Wilde. \n\n1961#198\n\n You're darned witty. Three drams of usquebaugh you drank with Dan Deasy's ducats. \n\n How much did I spend? O, a few shillings. \n\n For a plump ",
+    "start": 30471,
+    "end": 30477,
+    "canonical_text": "ephebe"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 7615443,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2082826,
+        "login": "Jmpetro",
+        "name": "Jmpetro",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

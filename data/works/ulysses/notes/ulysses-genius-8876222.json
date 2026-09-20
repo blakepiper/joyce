@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8876222",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Henry Clay",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/ce042054cc8754821696a4a8cf762bc4.1000x750x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8876222/James-joyce-ulysses-chap-10-wandering-rocks/Henry-clay",
+    "original_id": "8876222",
+    "referent_id": 8876222,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Henry Clay",
+    "prefix": "filled the doorway where he stood. \n\n — Good day, Mr Subsheriff, Martin Cunningham said, as all halted and greeted. \n\n Long John Fanning made no way for them. He removed his large ",
+    "suffix": " decisively and his large fierce eyes scowled intelligently over all their faces. \n\n — Are the conscript fathers pursuing their peaceful deliberations? he said with rich acrid utte",
+    "start": 57512,
+    "end": 57522,
+    "canonical_text": "Henry Clay"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8876222,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

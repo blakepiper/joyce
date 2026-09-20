@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-1872299",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "—Are you a strict t.t.? says Joe.\n \n —Not taking anything between drinks, says I.",
+  "html_source": "<p>Quick joke – Joe asking the narrator if he’s a teetotaler, and the narrator responding that he abstains from all alcohol, between refreshing alcoholic beverages.</p><p><img src=\"https://images.genius.com/b83e5ebf3aa42c0089a60666d6077e88.480x480x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1872299/James-joyce-ulysses-chap-12-cyclops/Are-you-a-strict-tt-says-joe-not-taking-anything-between-drinks-says-i",
+    "original_id": "1872299",
+    "referent_id": 1872299,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "—Are you a strict t.t.? says Joe.\n \n —Not taking anything between drinks, says I.",
+    "prefix": "ed between the said vendor, his heirs, successors, trustees and assigns of the one part and the said purchaser, his heirs, successors, trustees and assigns of the other part. \n\n — ",
+    "suffix": " \n\n — What about paying our respects to our friend? says Joe. \n\n — Who? says I. Sure, he's out in John of God's off his head, poor man. \n\n — Drinking his own stuff? says Joe. \n\n — ",
+    "start": 3296,
+    "end": 3377,
+    "canonical_text": "Are you a strict t.t.? says Joe. \n\n — Not taking anything between drinks, says I."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 1872299,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 211351,
+        "login": "prepski",
+        "name": "prepski",
+        "role": "contributor",
+        "attribution": 0.9629629629629629
+      },
+      {
+        "id": 149810,
+        "login": "perfectrhyme",
+        "name": "Perfectrhyme",
+        "role": "editor",
+        "attribution": 0.037037037037037035
+      }
+    ]
+  },
+  "color": "F59627"
+}

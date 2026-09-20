@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21102292",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Will in overplus",
+  "html_source": "<p>A quote from Shakespeare’s Sonnet 135:</p><p>Whoever hath her wish, thou hast thy Will,<br />And Will to boot, and Will in overplus;<br />More than enough am I that vex thee still,<br />To thy sweet will making addition thus.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21102292/James-joyce-ulysses-chap-9-scylla-and-charybdis/Will-in-overplus",
+    "original_id": "21102292",
+    "referent_id": 21102292,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Will in overplus",
+    "prefix": "William, in the plays, a super here, a clown there, as a painter of old Italy set his face in a dark corner of his canvas. He has 1961#209revealed it in the sonnets where there is ",
+    "suffix": ". Like John o'Gaunt his name is dear to him, as dear as the coat of arms he toadied for, on a bend sable a spear or steeled argent, honorificabilitudinitatibus, dearer than his glo",
+    "start": 53229,
+    "end": 53245,
+    "canonical_text": "Will in overplus"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21102292,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

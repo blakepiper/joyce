@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8799933",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Reaping the whirlwind",
+  "html_source": "<p>For they sow the wind And they reap the whirlwind. The standing grain has no heads; It yields no grain. Should it yield, strangers would swallow it up.<br />Hosea 8:7</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8799933/James-joyce-ulysses-chap-7-aeolus/Reaping-the-whirlwind",
+    "original_id": "8799933",
+    "referent_id": 8799933,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Reaping the whirlwind",
+    "prefix": "0\n\n J. J. O'Molloy strolled to the sloping desk and began to turn back the pink pages of the file. \n\n Practice dwindling. A mighthavebeen. Losing heart. Gambling. Debts of honour. ",
+    "suffix": ". Used to get good retainers from D. and T. Fitzgerald. Their wigs to show their grey matter. Brains on their sleeve like the statue in Glasnevin. Believe he does some literary wor",
+    "start": 16702,
+    "end": 16723,
+    "canonical_text": "Reaping the whirlwind"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8799933,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

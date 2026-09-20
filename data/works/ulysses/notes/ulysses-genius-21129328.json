@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21129328",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Weird sisters",
+  "html_source": "<p>This is most likely a reference to the witches in Macbeth by Shakespeare. Throughout, several of Shakespeare’s plays are mentioned (Julius Caesar, Hamlet, Macbeth, Othello, etc).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21129328/James-joyce-ulysses-chap-1-telemachus/Weird-sisters",
+    "original_id": "21129328",
+    "referent_id": 21129328,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "weird sisters",
+    "prefix": "knife. \n\n — That's folk, he said very earnestly, for your book, Haines. Five lines of text and ten pages of notes about the folk and1961#12 the fishgods of Dundrum. Printed by the ",
+    "suffix": " in the year of the big wind. \n\n He turned to Stephen and asked in a fine puzzled voice, lifting his brows: \n\n — Can you recall, brother, is mother Grogan's tea and water pot spoke",
+    "start": 20936,
+    "end": 20949,
+    "canonical_text": "weird sisters"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21129328,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11945345,
+        "login": "Lane-MR",
+        "name": "Lane-MR",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

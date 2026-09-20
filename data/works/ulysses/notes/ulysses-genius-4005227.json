@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4005227",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "She poured in a teacup tea, then back in the teapot tea.",
+  "html_source": "<p>Two phrases of six words, the fifth word of which has two syllables. The sentence is symmetrical about a comma. The form overrides the meaning and facilitates the musical nature (near nursery rhyme quality) of the sounds.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4005227/James-joyce-ulysses-chap-11-sirens/She-poured-in-a-teacup-tea-then-back-in-the-teapot-tea",
+    "original_id": "4005227",
+    "referent_id": 4005227,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "She poured in a teacup tea, then back in the teapot tea.",
+    "prefix": "avating that young brat is. If he doesn't conduct himself I'll wring his ear for him a yard long. \n\n Ladylike in exquisite contrast. \n\n — Take no notice, Miss Kennedy rejoined. \n\n ",
+    "suffix": " They cowered under their reef of counter, waiting on footstools, crates upturned, waiting for their teas to draw. They pawed their blouses, both of black satin, two and nine a yar",
+    "start": 4664,
+    "end": 4720,
+    "canonical_text": "She poured in a teacup tea, then back in the teapot tea."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4005227,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

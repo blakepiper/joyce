@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10086590",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Cardinal sin",
+  "html_source": "<p>also called the 7 deadly sins<br /><a href=\"https://www.music.iastate.edu/antiqua/pro_sins.htm\" rel=\"noopener nofollow\">https://www.music.iastate.edu/antiqua/pro_sins.htm</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10086590/James-joyce-ulysses-chap-15-circe/Cardinal-sin",
+    "original_id": "10086590",
+    "referent_id": 10086590,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Cardinal sin",
+    "prefix": "tly.) And sovereign Lord of all things. \n\n FLORRY \n\n(To Stephen.) I'm sure you're a spoiled priest. Or a monk. \n\n LYNCH \n\n He is. A cardinal's son. \n\n1932#4581922#491\n\n STEPHEN \n\n ",
+    "suffix": ". Monks of the screw. \n\n1939#370\n\n(His Eminence Simon Stephen Cardinal Dedalus, Primate of all Ireland, appears in the doorway, dressed in red 1961#523soutane, sandals and socks. S",
+    "start": 133291,
+    "end": 133303,
+    "canonical_text": "Cardinal sin"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10086590,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

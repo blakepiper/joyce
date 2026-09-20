@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10565721",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Wreck of Daunt’s rock",
+  "html_source": "<p>The Finnish ship Palme went aground in Dublin bay Dec 24, 1895.<br /><a href=\"https://books.google.com/books?id=fE9mkomQHEQC&amp;pg=PA547&amp;lpg=PA547&amp;dq=palme+daunts+rock&amp;source=bl&amp;ots=HKIHNsy9As&amp;sig=WzTD8w7rlgjKNgpSzyTrDzY1GcY&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwivq-OJ-sfPAhVOHGMKHTogBjYQ6AEIJDAC#v=onepage&amp;q=palme%20daunts%20rock&amp;f=false\" rel=\"noopener nofollow\">https://books.google.com/books?id=fE9mkomQHEQC&amp;pg=PA547&amp;lpg=PA547&amp;dq=palme+daunts+rock&amp;source=bl&amp;ots=HKIHNsy9As&amp;sig=WzTD8w7rlgjKNgpSzyTrDzY1GcY&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwivq-OJ-sfPAhVOHGMKHTogBjYQ6AEIJDAC#v=onepage&amp;q=palme%20daunts%20rock&amp;f=false</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10565721/James-joyce-ulysses-chap-16-eumaeus/Wreck-of-daunts-rock",
+    "original_id": "10565721",
+    "referent_id": 10565721,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "wreck of Daunt's rock",
+    "prefix": "those perils of the deep there was one thing, he declared, stood to him, or words to that effect, a pious medal he had that saved him. \n\n So then after that they drifted on to the ",
+    "suffix": " wreck of that illfated Norwegian barque—nobody could think of her name for the moment till the jarvey who had really quite a look of Henry Campbell remembered it, Palme, on Booter",
+    "start": 61326,
+    "end": 61349,
+    "canonical_text": "wreck off Daunt's rock,"
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9545
+  },
+  "genius": {
+    "referent_id": 10565721,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

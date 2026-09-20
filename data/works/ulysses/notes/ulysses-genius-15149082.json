@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15149082",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Housel",
+  "html_source": "<p><a href=\"https://en.wiktionary.org/wiki/housel\" rel=\"noopener nofollow\">Housel</a> is an archaic term for the Eucharist (or, as a verb, administering the Eucharist or more figuratively and less commonly, preparing for a journey).</p><p>Etymology (wiktionary):<br />From Middle English housel, from Old English hūsl (“housel, Eucharist, the Host, a sacrifice”), from Proto-Germanic <em>hunslą (“sacrifice”), from Proto-Indo-European </em>ḱwen- (“holy”). Cognate with Icelandic húsl (“housel”), Gothic 𐌷𐌿𐌽𐍃𐌻 (hunsl, “sacrifice, offering”), Proto-Slavic *svętъ (“holy, sacred”) (OED).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15149082/James-joyce-ulysses-chap-14-oxen-of-the-sun/Housel",
+    "original_id": "15149082",
+    "referent_id": 15149082,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "housel",
+    "prefix": "ath for friend so young, algate sore unwilling God's rightwiseness to withsay. She said that he had a fair sweet death through God His goodness with masspriest to be shriven, holy ",
+    "suffix": " and sick men's oil to his limbs. The man then right earnest asked the nun of which death the dead man was died and the nun answered him and said that he was died in Mona Island th",
+    "start": 6898,
+    "end": 6904,
+    "canonical_text": "housel"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15149082,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

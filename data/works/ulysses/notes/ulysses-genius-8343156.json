@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8343156",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Jewman",
+  "html_source": "<p>Many tailors throughout Europe were at that time Jewish.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8343156/James-joyce-ulysses-chap-10-wandering-rocks/Jewman",
+    "original_id": "8343156",
+    "referent_id": 8343156,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "jewman",
+    "prefix": "them first and on his roomy clothes from points of which Mr Dedalus flicked fluff, saying: \n\n — They were made for a man in his health, Ben, anyhow. \n\n1922#234\n\n — Bad luck to the ",
+    "suffix": " that made them, Ben Dollard said. Thanks be to God he's not paid yet. \n\n — And how is that basso profondo, Benjamin? Father Cowley asked. \n\n Cashel Boyle O'Connor Fitzmaurice Tisd",
+    "start": 52733,
+    "end": 52739,
+    "canonical_text": "jewman"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8343156,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2568065,
+        "login": "GeoffBobker",
+        "name": "GeoffBobker",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

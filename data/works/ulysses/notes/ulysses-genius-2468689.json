@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2468689",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "The hoarse Dublin United Tramway Company’s timekeeper bawled them off",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/2r5xfq7bezfrwsbu73zafme6q.625x480x1.jpg\" alt=\"\" /></p><p>Timekeepers would be enlightening the public who wish to access the Tramway when the trams are coming by shouting out the locations which are arriving for pickup. This would make his voice hoarse from yelling/“bawling”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2468689/James-joyce-ulysses-chap-7-aeolus/The-hoarse-dublin-united-tramway-companys-timekeeper-bawled-them-off",
+    "original_id": "2468689",
+    "referent_id": 2468689,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "The hoarse Dublin United Tramway Company's timekeeper bawled them off",
+    "prefix": "r Blackrock, Kingstown and Dalkey, Clonskea, Rathgar and Terenure, Palmerston Park and upper Rathmines, Sandymount Green, Rathmines, Ringsend and Sandymount Tower, Harold's Cross. ",
+    "suffix": ": \n\n — Rathgar and Terenure! \n\n — Come on, Sandymount Green! \n\n Right and left parallel clanging ringing a doubledecker and a singledeck moved from their railheads, swerved to the ",
+    "start": 305,
+    "end": 374,
+    "canonical_text": "The hoarse Dublin United Tramway Company's timekeeper bawled them off"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2468689,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

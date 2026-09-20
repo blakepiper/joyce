@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-7446126",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Mercurial",
+  "html_source": "<p>(of a person) subject to sudden or unpredictable changes of mood or mind</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7446126/James-joyce-ulysses-chap-1-telemachus/Mercurial",
+    "original_id": "7446126",
+    "referent_id": 7446126,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Mercurial",
+    "prefix": " clean handkerchief. God, we'll simply have to dress the character. I want puce gloves and green boots. Contradiction. Do I contradict myself? Very well then, I contradict myself. ",
+    "suffix": " Malachi. A limp black missile flew out of his talking hands. \n\n — And there's your Latin quarter hat, he said. \n\n Stephen picked it up and put it on. Haines called to them from th",
+    "start": 29105,
+    "end": 29114,
+    "canonical_text": "Mercurial"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 7446126,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1060900,
+        "login": "dvrath",
+        "name": "dvrath",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

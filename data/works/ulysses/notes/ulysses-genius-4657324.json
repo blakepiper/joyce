@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4657324",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "The words troubled their gaze",
+  "html_source": "<p>Stephen teaches those who laugh at Armstrong that their control is short lived as now they are confused (Eide, M. Ethical Joyce p66).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4657324/James-joyce-ulysses-chap-2-nestor/The-words-troubled-their-gaze",
+    "original_id": "4657324",
+    "referent_id": 4657324,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "The words troubled their gaze",
+    "prefix": " Their likes: their breaths, too, sweetened with tea and jam, their bracelets tittering in the struggle. \n\n1939#20\n\n — Kingstown pier, Stephen said. Yes, a disappointed bridge. \n\n ",
+    "suffix": ". \n\n — How, sir? Comyn asked. A bridge is across a river. \n\n For Haines's chapbook. No-one here to hear. Tonight deftly amid wild drink and talk, to pierce the polished mail of his",
+    "start": 2204,
+    "end": 2233,
+    "canonical_text": "The words troubled their gaze"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4657324,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

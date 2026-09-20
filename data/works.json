@@ -4,11 +4,6 @@
     "title": "Ulysses",
     "short_title": "Ulysses",
     "author": "James Joyce",
-    "legacy_paths": {
-      "chapters": "data/chapters",
-      "notes": "data/notes",
-      "media": "data/media"
-    },
     "chapters": [
       {"id": "mU-kJZUBeQi-aLQfULNV", "number": 1, "label": "1.", "title": "Telemachus"},
       {"id": "mk-kJZUBeQi-aLQfULNV", "number": 2, "label": "2.", "title": "Nestor"},

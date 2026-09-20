@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8817481",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Give the devil his due",
+  "html_source": "<p>(to) give the devil his due<br />› said when you ​admit that someone you do not like or ​admire does have some good ​qualities:<br />I don’t like the man but – give the devil his ​due – he ​works ​incredibly hard.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8817481/James-joyce-ulysses-chap-8-lestrygonians/Give-the-devil-his-due",
+    "original_id": "8817481",
+    "referent_id": 8817481,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Give the devil his due",
+    "prefix": "e some like that, Davy Byrne said. He's a safe man, I'd say. \n\n — He's not too bad, Nosey Flynn said, snuffling it up. He has been known to put his hand down too to help a fellow. ",
+    "suffix": ". O, Bloom has his good points. But there's one thing he'll never do. \n\n His hand scrawled a dry pen signature beside his grog. \n\n — I know, Davy Byrne said. \n\n1922#169\n\n — Nothing",
+    "start": 61208,
+    "end": 61230,
+    "canonical_text": "Give the devil his due"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8817481,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

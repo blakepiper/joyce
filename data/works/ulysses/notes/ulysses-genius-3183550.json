@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3183550",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Ringsend",
+  "html_source": "<p><a href=\"https://www.google.co.uk/maps/place/Ringsend/@53.3418606,-6.2267122,15z/data=!4m2!3m1!1s0x48670eef4b51c9ed:0x8ab5edb34b091e31\" rel=\"noopener nofollow\">https://www.google.co.uk/maps/place/Ringsend/@53.3418606,-6.2267122,15z/data=!4m2!3m1!1s0x48670eef4b51c9ed:0x8ab5edb34b091e31</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3183550/James-joyce-ulysses-chap-6-hades/Ringsend",
+    "original_id": "3183550",
+    "referent_id": 3183550,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Ringsend",
+    "prefix": "obbled causeway and the crazy glasses shook rattling in the doorframes. \n\n — What way is he taking us? Mr Power asked through both windows. \n\n — Irishtown, Martin Cunningham said. ",
+    "suffix": ". Brunswick street. \n\n Mr Dedalus nodded, looking out. \n\n1961#871986#72\n\n — That's a fine old custom, he said. I am glad to see it has not died out. \n\n All watched awhile through t",
+    "start": 2081,
+    "end": 2089,
+    "canonical_text": "Ringsend"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9199
+  },
+  "genius": {
+    "referent_id": 3183550,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21551732",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "No. She didn’t want anything",
+  "html_source": "<p>Like with the cat, Mr Bloom can interpret nonverbal communication and understand what she wants.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21551732/James-joyce-ulysses-chap-4-calypso/No-she-didnt-want-anything",
+    "original_id": "21551732",
+    "referent_id": 21551732,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "No. She didn't want anything",
+    "prefix": "\n—I'm going round the corner. Be back in a minute.\n\nAnd when he had heard his voice say it he added:\n\n—You don't want anything for breakfast?\n\nA sleepy soft grunt answered:\n\n—Mn.\n\n",
+    "suffix": ". He heard then a warm heavy sigh, softer, as she turned over and the loose brass quoits of the bedstead jingled. Must get those settled really. Pity. All the way from Gibraltar. F",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.0
+  },
+  "genius": {
+    "referent_id": 21551732,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 908670,
+        "login": "AllAndNot",
+        "name": "AllAndNot",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

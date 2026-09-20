@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-37424703",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "City Arms",
+  "html_source": "<p>A hotel in Dublin at the time, since converted to a pub.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/37424703/James-joyce-ulysses-chap-12-cyclops/City-arms",
+    "original_id": "37424703",
+    "referent_id": 37424703,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "City Arms",
+    "prefix": "rnan's, says Joe. I want to see the citizen. \n\n — Barney mavourneen's be it, says I. Anything strange or wonderful, Joe? \n\n — Not a word, says Joe. I was up at that meeting in the ",
+    "suffix": ". \n\n — What was that, Joe? says I. \n\n — Cattle traders, says Joe, about the foot and mouth disease. I want to give the citizen the hard word about it. \n\n So we went around by the L",
+    "start": 3810,
+    "end": 3819,
+    "canonical_text": "City Arms"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9792
+  },
+  "genius": {
+    "referent_id": 37424703,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

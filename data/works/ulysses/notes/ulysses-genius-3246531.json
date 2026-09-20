@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-3246531",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Stately",
+  "html_source": "<p>Echoes ‘Stately, plump Buck Mulligan’, the opening line of Telemachus. However, ‘whispered’ and ‘liveried porter’ suggest stately of character rather than figure.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3246531/James-joyce-ulysses-chap-7-aeolus/Stately",
+    "original_id": "3246531",
+    "referent_id": 3246531,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "stately",
+    "prefix": "F OAKLANDS,\nSANDYMOUNT \n\n Red Murray touched Mr Bloom's arm with the shears and whispered: \n\n — Brayden. \n\n Mr Bloom turned and saw the liveried porter raise his lettered cap as a ",
+    "suffix": " figure entered between the newsboards of the Weekly Freeman and National Press and the Freeman's Journal and National Press. Dullthudding Guinness's barrels. It passed statelily u",
+    "start": 2186,
+    "end": 2193,
+    "canonical_text": "stately"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3246531,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.8148148148148148
+      },
+      {
+        "id": 2680303,
+        "login": "Cortez67",
+        "name": "Cortez67",
+        "role": null,
+        "attribution": 0.1851851851851852
+      }
+    ]
+  },
+  "color": "F59627"
+}

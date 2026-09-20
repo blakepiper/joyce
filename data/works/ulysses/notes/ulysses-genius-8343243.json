@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8343243",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "At the Dolphin they halted to allow the ambulance car to gallop past them for Jervis street.",
+  "html_source": "<p>“Dolphin” refers to the Dolphin Hotel on Essex Street, a famous hotel &amp; restaurant, now used as office space for the Dublin courts service. “Jervis Street” refers to a main hospital, the site of which has been taken over by a shopping centre</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8343243/James-joyce-ulysses-chap-10-wandering-rocks/At-the-dolphin-they-halted-to-allow-the-ambulance-car-to-gallop-past-them-for-jervis-street",
+    "original_id": "8343243",
+    "referent_id": 8343243,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "At the Dolphin they halted to allow the ambulance car to gallop past them for Jervis street.",
+    "prefix": "hford anyhow, booky's vest and all, with the rope round him. And be damned but he got the rope round the poor devil and the two were hauled up. \n\n — The act of a hero, he said. \n\n ",
+    "suffix": " \n\n1922#223\n\n — This way, he said, walking to the right. I want to pop into Lynam's to see Sceptre's starting price. What's the time by your gold watch and chain? \n\n M'Coy peered i",
+    "start": 28708,
+    "end": 28800,
+    "canonical_text": "At the Dolphin they halted to allow the ambulance car to gallop past them for Jervis street."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8343243,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2568065,
+        "login": "GeoffBobker",
+        "name": "GeoffBobker",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

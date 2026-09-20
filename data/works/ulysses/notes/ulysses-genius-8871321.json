@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8871321",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Red pillarbox",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/37e424e1566d618f0b730a84a9e865eb.750x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8871321/James-joyce-ulysses-chap-10-wandering-rocks/Red-pillarbox",
+    "original_id": "8871321",
+    "referent_id": 8871321,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "red pillarbox",
+    "prefix": "And the other little man? His name was Brunny Lynam. O, that was a very nice name to have. \n\n Father Conmee gave a letter from his breast to Master Brunny Lynam and pointed to the ",
+    "suffix": " at the corner of Fitzgibbon street. \n\n — But mind you don't post yourself into the box, little man, he said. \n\n The boys sixeyed Father Conmee and laughed: \n\n — O, sir. \n\n — Well,",
+    "start": 3006,
+    "end": 3019,
+    "canonical_text": "red pillarbox"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8871321,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8226377",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Circumcised? says Joe.",
+  "html_source": "<p>In other words a Jew?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8226377/James-joyce-ulysses-chap-12-cyclops/Circumcised-says-joe",
+    "original_id": "8226377",
+    "referent_id": 8226377,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Circumcised? says Joe.",
+    "prefix": "s quantity of tea and sugar to pay three bob a week said he had a farm in the county Down off a hop-of-my-thumb by the name of Moses Herzog over there near Heytesbury street. \n\n — ",
+    "suffix": " \n\n — Ay, says I. A bit off the top. An old plumber named Geraghty. I'm hanging on to his taw now for the past fortnight and I can't get a penny out of him. \n\n — That the lay you'r",
+    "start": 1074,
+    "end": 1096,
+    "canonical_text": "Circumcised? says Joe."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8226377,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2370588,
+        "login": "Pequod42",
+        "name": "Pequod42",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

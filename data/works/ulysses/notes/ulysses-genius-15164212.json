@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15164212",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Georgina Johnson",
+  "html_source": "<p>Georgina Johnson is the prostitute Stephen visited previously, as mentioned in Scylla and Charybdis. He likely came to Nighttown (the setting for most of this episode) to find her.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15164212/James-joyce-ulysses-chap-15-circe/Georgina-johnson",
+    "original_id": "15164212",
+    "referent_id": 15164212,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Georgina Johnson",
+    "prefix": "trates the loaf and jug of bread or wine in Omar. Hold my stick. \n\n LYNCH \n\n Damn your yellow stick. Where are we going? \n\n STEPHEN \n\n Lecherous lynx, to la belle dame sans merci, ",
+    "suffix": ", ad deam qui laetificat iuventutem meam. \n\n(Stephen thrusts the ashplant on him and slowly holds out his hands, his head going back till both hands are a span from his breast, dow",
+    "start": 5457,
+    "end": 5473,
+    "canonical_text": "Georgina Johnson"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9737
+  },
+  "genius": {
+    "referent_id": 15164212,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

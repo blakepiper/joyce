@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-34313346",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Terenure",
+  "html_source": "<p>A middle class suburb of Dublin, also mentioned in Aeolus.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/34313346/James-joyce-ulysses-chap-11-sirens/Terenure",
+    "original_id": "34313346",
+    "referent_id": 34313346,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Terenure",
+    "prefix": "ace when I spoke his face in the glass. Still hear it better here than in the bar though farther. \n\n — Each graceful look... \n\n First night when first I saw her at Mat Dillon's in ",
+    "suffix": ". Yellow, black lace she wore. Musical chairs. We two the last. Fate. After her. Fate. Round and round slow. Quick round. We two. All looked. Halt. Down she sat. All ousted looked.",
+    "start": 39125,
+    "end": 39133,
+    "canonical_text": "Terenure"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 34313346,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

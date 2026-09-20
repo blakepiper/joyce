@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8848748",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Scortatory",
+  "html_source": "<p>scortatory<br />Adjective<br />pertaining to scortation; lewd, fornicatory</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8848748/James-joyce-ulysses-chap-9-scylla-and-charybdis/Scortatory",
+    "original_id": "8848748",
+    "referent_id": 8848748,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "scortatory",
+    "prefix": " fancy stays. The gombeenwoman Eliza Tudor had underlinen 1939#147enough to vie with her of Sheba. Twenty years he dallied there between conjugial love and its chaste delights and ",
+    "suffix": " love and its foul pleasures. You know Manningham's story of the burgher's wife who bade Dick Burbage to her bed after she had seen him in Richard III and how Shakespeare, overhear",
+    "start": 36252,
+    "end": 36262,
+    "canonical_text": "scortatory"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8848748,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

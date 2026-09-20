@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4649443",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "In the same boat.",
+  "html_source": "<p>Bloom and Mr. Kernan are not practicing Catholics and therefore, in the same boat.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4649443/James-joyce-ulysses-chap-6-hades/In-the-same-boat",
+    "original_id": "4649443",
+    "referent_id": 4649443,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "In the same boat.",
+    "prefix": " said with reproof. \n\n Mr Bloom nodded gravely looking in the quick bloodshot eyes. Secret eyes, secretsearching eyes. Mason, I think: not sure. Beside him again. We are the last. ",
+    "suffix": " Hope he'll say something else. \n\n Mr Kernan added: \n\n — The service of the Irish church used in Mount Jerome is simpler, more impressive I must say. \n\n Mr Bloom gave prudent assen",
+    "start": 39683,
+    "end": 39700,
+    "canonical_text": "In the same boat."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4649443,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

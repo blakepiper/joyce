@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9666666",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "The wren, the wren,",
+  "html_source": "<p><a href=\"http://www.irish-folk-songs.com/the-wren-song-lyrics-and-chords.html\" rel=\"noopener nofollow\">http://www.irish-folk-songs.com/the-wren-song-lyrics-and-chords.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9666666/James-joyce-ulysses-chap-15-circe/The-wren-the-wren",
+    "original_id": "9666666",
+    "referent_id": 9666666,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "The wren, the wren,",
+    "prefix": "row 1932#426down rosepetals. The air is perfumed with essences. The men cheer. Bloom's boys run amid the bystanders with branches of hawthorn and wrenbushes.) \n\n BLOOM'S BOYS \n\n \n\n",
+    "suffix": " \nThe king of all birds, \nSaint Stephen's his day \nWas caught in the furze. \n\n1922#454\n\n A BLACKSMITH \n\n(Murmurs.) For the honour of God! And is that Bloom? He scarcely looks thirt",
+    "start": 73134,
+    "end": 73153,
+    "canonical_text": "The wren, the wren,"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9666666,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

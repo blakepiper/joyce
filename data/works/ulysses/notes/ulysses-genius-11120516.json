@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11120516",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Bath of the nymph",
+  "html_source": "<p><img src=\"https://images.genius.com/6049a80b3368cdc15c4161bb06b56c9e.787x599x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11120516/James-joyce-ulysses-chap-18-penelope/Bath-of-the-nymph",
+    "original_id": "11120516",
+    "referent_id": 11120516,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "bath of the nymph",
+    "prefix": "d pose for a picture naked to some rich fellow in Holles street when he lost the job in Helys and I was selling the clothes and strumming in the coffee palace would I be like that ",
+    "suffix": " with my hair down yes only shes younger or Im a little like that dirty bitch in that Spanish photo he has nymphs used they go about like that I asked him that disgusting Cameron h",
+    "start": 40900,
+    "end": 40917,
+    "canonical_text": "bath of the nymph"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11120516,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

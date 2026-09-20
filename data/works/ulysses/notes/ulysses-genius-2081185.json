@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2081185",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "In which it was delivered.",
+  "html_source": "<p>This ends the section in the style of Thomas Henry Huxley, which began with “It had better be stated.”</p><p><img src=\"https://images.genius.com/abdc6e335efe8c981a9263e57ede9552.241x316x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2081185/James-joyce-ulysses-chap-14-oxen-of-the-sun/In-which-it-was-delivered",
+    "original_id": "2081185",
+    "referent_id": 2081185,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "in which it was delivered.",
+    "prefix": " give it life, as he phrased it, to save her own. At the risk of her own, was the telling rejoinder of his interlocutor, none the less effective for the moderate and measured tone ",
+    "suffix": " \n\n Meanwhile the skill and patience of the physician had brought about a happy accouchement. It had been a weary weary while both for patient and doctor. All that surgical skill c",
+    "start": 95084,
+    "end": 95110,
+    "canonical_text": "in which it was delivered."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2081185,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

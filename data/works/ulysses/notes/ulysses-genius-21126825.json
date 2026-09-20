@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21126825",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Lizzie, grandpa’s lump of love",
+  "html_source": "<p>Elizabeth Barnard nee Hall, Shakespeare’s granddaughter.<br /><a href=\"https://en.wikipedia.org/wiki/Elizabeth_Barnard\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Elizabeth_Barnard</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21126825/James-joyce-ulysses-chap-9-scylla-and-charybdis/Lizzie-grandpas-lump-of-love",
+    "original_id": "21126825",
+    "referent_id": 21126825,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Lizzie, grandpa's lump of love",
+    "prefix": "ne or Dubliner, sorrow for the dead is the only husband from whom they refuse to be divorced. If you like the epilogue look long on it: prosperous Prospero, the good man rewarded, ",
+    "suffix": ", and nuncle Richie, the bad man taken off by poetic justice to the place where the bad niggers go. Strong curtain. He found in the world without as actual what was in his world wi",
+    "start": 60377,
+    "end": 60407,
+    "canonical_text": "Lizzie, grandpa's lump of love"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21126825,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

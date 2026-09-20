@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-7794968",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Rodot’s",
+  "html_source": "<p>A patisserie at 9 Boulevard Saint-Michel in Paris (c. 1902) (Ulysses Annotated, by Don Guifford, Robert Seidman).</p><p><img src=\"https://images.rapgenius.com/0eed4724e1683c686dc5d30457be14bb.200x134x1.jpg\" alt=\"\" /></p><p>Not Rodot’s, but a same era Paris pastry shop. (joyceimages.com)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7794968/James-joyce-ulysses-chap-3-proteus/Rodots",
+    "original_id": "7794968",
+    "referent_id": 7794968,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Rodot's",
+    "prefix": "een wormwood, her matin incense, court the air. Belluomo rises from the bed of his wife's lover's wife, the kerchiefed housewife is astir, a saucer of acetic acid in her hands. In ",
+    "suffix": " Yvonne 1986#35and Madeleine newmake their tumbled beauties, shattering with gold teeth chaussons of pastry, their mouths yellowed with the pus of flan breton. Faces of Paris men g",
+    "start": 13079,
+    "end": 13086,
+    "canonical_text": "Rodot's"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 7794968,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2215533,
+        "login": "Aguiar",
+        "name": "Aguiar",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

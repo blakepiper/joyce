@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-9095634",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Onelegged sailor",
+  "html_source": "<p><img src=\"https://images.genius.com/1fbf7d111d2ca234e328a898c32a9aee.199x446x1.jpg\" alt=\"\" /></p><p>The onelegged sailor roams around Dublin singing “The Death of Nelson”, a patriotic song which portrays sacrifice; and he is significant through out the episode. For instance, the sailor seems to relate to Nelson, since both men have given their all for their nation: his loss of limb is a symbol of sacrifice. He wanders around Dublin Begging for charity, and the song seems to construct the notion of continuity throughout the episode as it appears multiple times. Joyce uses the motif of music introduced in the beginning of the episode to form a pattern throughout that connects events in the episode to an instant whole.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9095634/James-joyce-ulysses-chap-10-wandering-rocks/Onelegged-sailor",
+    "original_id": "9095634",
+    "referent_id": 9095634,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "onelegged sailor",
+    "prefix": "am. Yes. Vere dignum et iustum est. Brother Swan was the person to see. Mr Cunningham's letter. Yes. Oblige him, if possible. Good practical catholic: useful at mission time. \n\n A ",
+    "suffix": ", swinging himself onward by lazy jerks of his crutches, growled some notes. He jerked short before the convent of the sisters of charity and held out a peaked cap for alms towards",
+    "start": 408,
+    "end": 424,
+    "canonical_text": "onelegged sailor"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 9095634,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3083734,
+        "login": "Meybel12",
+        "name": "Meybel12",
+        "role": null,
+        "attribution": 0.9705882352941176
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.029411764705882356
+      }
+    ]
+  },
+  "color": "F59627"
+}

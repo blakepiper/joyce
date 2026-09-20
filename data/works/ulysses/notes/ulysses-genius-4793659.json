@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4793659",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Another victory like that and we are done for.",
+  "html_source": "<p>After the battle of Asculum “it is said, Pyrrhus replied to one that gave him joy of his victory, that one other such (victory) would utterly undo him” (from Plutarch’s <em>Lives</em>, “Pyrrhus”)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4793659/James-joyce-ulysses-chap-2-nestor/Another-victory-like-that-and-we-are-done-for",
+    "original_id": "4793659",
+    "referent_id": 4793659,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "Another victory like that and we are done for.",
+    "prefix": " flame. What's left us then? \n\n — I forget the place, sir. 279 B. C. \n\n — Asculum, Stephen said, glancing at the name and date in the gorescarred book. \n\n — Yes, sir. And he said: ",
+    "suffix": " \n\n That phrase the world had remembered. A dull ease of the mind. From a hill above a corpsestrewn plain a general speaking to his officers, leaned upon his spear. Any general to ",
+    "start": 621,
+    "end": 667,
+    "canonical_text": "Another victory like that and we are done for."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4793659,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 0.9375
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.0625
+      }
+    ]
+  },
+  "color": "F59627"
+}

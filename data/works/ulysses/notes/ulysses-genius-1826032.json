@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-1826032",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "The snotgreen sea",
+  "html_source": "<p>The “snotgreen sea” mimics the common epithet describing the sea from <a href=\"https://genius.com/albums/Homer/The-odyssey\" rel=\"noopener nofollow\"><em>The Odyssey</em></a>—the “wine-dark sea.”</p><p>Sea imagery recurs throughout Joyce’s work. Here he describes to the sea as a mother. There is a constant contrast to fertility and barrenness through the tides and flux of rivers and oceans. This theme will extend into Joyce’s masterwork, <a href=\"http://poetry.genius.com/James-joyce-finnegans-wake-chapter-1-lyrics\" rel=\"noopener nofollow\"><em>Finnegans Wake</em></a>. The character of Anna Livia Plurabelle who is the symbolic embodiment of womanhood and reticulation of water as she floats down the River Liffy.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1826032/James-joyce-ulysses-chap-1-telemachus/The-snotgreen-sea",
+    "original_id": "1826032",
+    "referent_id": 1826032,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "The snotgreen sea",
+    "prefix": "ted to the parapet again and gazed out over Dublin bay, his fair oakpale hair stirring slightly. \n\n — God! he said quietly. Isn't the sea what Algy calls it: a great sweet mother? ",
+    "suffix": ". The scrotumtightening sea. Epi oinopa ponton. Ah, Dedalus, the Greeks! I must teach you. You must read them in the1986#4 original. Thalatta! Thalatta! She is our great sweet moth",
+    "start": 4498,
+    "end": 4515,
+    "canonical_text": "The snotgreen sea"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1826032,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 176532,
+        "login": "biblicalmike",
+        "name": "Michael Bible",
+        "role": "verified_artist",
+        "attribution": 0.7586206896551724
+      },
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 0.16091954022988506
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.08045977011494253
+      }
+    ]
+  },
+  "color": "F59627"
+}

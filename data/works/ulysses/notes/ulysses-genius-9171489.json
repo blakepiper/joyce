@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9171489",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Duenna",
+  "html_source": "<p>an older woman acting as a governess and companion in charge of girls, especially in a Spanish family; a chaperone.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9171489/James-joyce-ulysses-chap-14-oxen-of-the-sun/Duenna",
+    "original_id": "9171489",
+    "referent_id": 9171489,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "duenna",
+    "prefix": "religious ministers of all denominations, mutilated soldiers and sailors, exposed scorbutic cardrivers, the suspended carcases of dead animals, paranoic bachelors and unfructified ",
+    "suffix": "s— these, he said, were accountable for any and every fallingoff in the calibre of the race. Kalipedia, he prophesied, would soon be 1961#418generally adopted and all the graces of",
+    "start": 90587,
+    "end": 90593,
+    "canonical_text": "duenna"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9171489,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

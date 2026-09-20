@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-6786262",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Lapwing you are",
+  "html_source": "<p>The Lapwing (Vanellus Vanellus) is a summer visitor to Ireland from France and Iberia. Stephen Dedalus will soon fly back to Europe. “lapwing be.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6786262/James-joyce-ulysses-chap-9-scylla-and-charybdis/Lapwing-you-are",
+    "original_id": "6786262",
+    "referent_id": 6786262,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Lapwing you are",
+    "prefix": "gan. \n\n Fabulous artificer. The hawklike man. You flew. Whereto? Newhaven-Dieppe, steerage passenger. Paris and back. Lapwing. Icarus. Pater, ait. Seabedabbled, fallen, weltering. ",
+    "suffix": ". Lapwing be. \n\n Mr Best eagerquietly lifted his book to say: \n\n — That's very interesting because that brother motive, don't you know, we find also in the old Irish myths. Just wh",
+    "start": 55088,
+    "end": 55103,
+    "canonical_text": "Lapwing you are"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6786262,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1773543,
+        "login": "IanT",
+        "name": "IanT",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

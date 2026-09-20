@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-24130699",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Father Bernard Vaughan",
+  "html_source": "<p>Father Bernard Vaughan was a popular Jesuit priest and social reformer. According to Ellman, he also served as the basis for parody in the figure of Father Purdon in Joyce’s story, ‘Grace’.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/24130699/James-joyce-ulysses-chap-10-wandering-rocks/Father-bernard-vaughan",
+    "original_id": "24130699",
+    "referent_id": 24130699,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Father Bernard Vaughan",
+    "prefix": "d to hear that. And Mr Sheehy himself? Still in London. The house was still sitting, to be sure it was. Beautiful weather it was, delightful indeed. Yes, it was very probable that ",
+    "suffix": " would come again to preach. O, yes: a very great success. A wonderful man really. \n\n1922#210\n\n Father Conmee was very glad to see the wife of Mr David Sheehy M.P. looking so well ",
+    "start": 1571,
+    "end": 1593,
+    "canonical_text": "Father Bernard Vaughan"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9613
+  },
+  "genius": {
+    "referent_id": 24130699,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

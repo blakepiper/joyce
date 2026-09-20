@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15167836",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Donegal",
+  "html_source": "<p>A county (and a town) in northern Ireland (Ulster), in the northernmost part of the country, northwest of modern Northern Ireland. It is shown in dark green in the map below.</p><p><img src=\"https://images.genius.com/0a5f3d03e52cd9e0b385654d979233aa.250x312x1.png\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15167836/James-joyce-ulysses-chap-16-eumaeus/Donegal",
+    "original_id": "15167836",
+    "referent_id": 15167836,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Donegal",
+    "prefix": "rther away from the madding crowd in Wicklow, rightly termed the garden of Ireland, an ideal neighbourhood for elderly wheelmen so long as it didn't come down, and in the wilds of ",
+    "suffix": " where, if report spoke true, the coup d'œil was exceedingly grand, though the lastnamed locality was not easily getatable so that the influx of visitors was not as yet all that it",
+    "start": 37238,
+    "end": 37245,
+    "canonical_text": "Donegal"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15167836,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

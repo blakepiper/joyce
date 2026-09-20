@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8979011",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Alligator",
+  "html_source": "<p>he who makes allegations must be an alligator…right? Or is that a croc?</p><p><img src=\"https://images.rapgenius.com/f54ae7e7dedcbd8d0b60261b0e752665.278x300x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8979011/James-joyce-ulysses-chap-12-cyclops/Alligator",
+    "original_id": "8979011",
+    "referent_id": 8979011,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "alligator",
+    "prefix": "s telling the citizen about Bloom and the Sinn Fein? \n\n — That's so, says Martin. Or so they allege. \n\n — Who made those allegations? says Alf. \n\n1922#322\n\n — I, says Joe. I'm the ",
+    "suffix": ". \n\n1932#304\n\n — And after all, says John Wyse, why can't a jew love his country like the next fellow? \n\n — Why not? says J. J., when he's quite sure which country it is. \n\n — Is h",
+    "start": 104060,
+    "end": 104069,
+    "canonical_text": "alligator"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8979011,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

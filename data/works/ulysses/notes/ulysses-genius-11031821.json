@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11031821",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Heave offering",
+  "html_source": "<p><a href=\"http://www.dictionary.com/browse/heave-offering\" rel=\"noopener nofollow\">http://www.dictionary.com/browse/heave-offering</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11031821/James-joyce-ulysses-chap-17-ithaca/Heave-offering",
+    "original_id": "11031821",
+    "referent_id": 11031821,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "heave offering",
+    "prefix": " cardrive, a visit to a house of mourning, a leavetaking (wilderness): the eroticism produced by feminine exhibitionism (rite of Onan): the prolonged delivery of Mrs Mina Purefoy (",
+    "suffix": "): the visit to the disorderly house of Mrs Bella Cohen, 82 Tyrone street, lower and subsequent brawl and chance medley in Beaver street (Armageddon): nocturnal perambulation to an",
+    "start": 130644,
+    "end": 130658,
+    "canonical_text": "heave offering"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11031821,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

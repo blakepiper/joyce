@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8773674",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Confessionbox",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/15e9639a634136f7058f0fcf3c1297a2.1000x742x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8773674/James-joyce-ulysses-chap-5-lotus-eaters/Confessionbox",
+    "original_id": "8773674",
+    "referent_id": 8773674,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "confessionbox",
+    "prefix": " out a bit spreeish. Let off steam. Thing is if you really believe in it. Lourdes cure, waters of oblivion, and the Knock apparition, statues bleeding. Old fellow asleep near that ",
+    "suffix": ". Hence those snores. Blind faith. Safe in the arms of kingdom come. Lulls all pain. Wake this time next year. \n\n He saw the priest stow the communion cup away, well in, and kneel ",
+    "start": 23005,
+    "end": 23018,
+    "canonical_text": "confessionbox"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8773674,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

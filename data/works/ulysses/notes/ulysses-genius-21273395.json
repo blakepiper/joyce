@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21273395",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "You met with poor old Ireland and how does she stand?",
+  "html_source": "<p>From the 18th century Irish ballad “The Wearing of the Green”:</p><blockquote><p>I met with Napper Tandy and he took my by the hand<br />He said, “How’s dear old Ireland and how does she stand?”<br />She’s the most distressful country that you have ever seen<br />For they’re hanging men and women for the wearing of the green</p></blockquote><p>Stephen references the ballad earlier in “Proteus”:</p><blockquote><p>He takes me, Napper Tandy, by the hand.</p></blockquote>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21273395/James-joyce-ulysses-chap-15-circe/You-met-with-poor-old-ireland-and-how-does-she-stand",
+    "original_id": "21273395",
+    "referent_id": 21273395,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "You met with poor old Ireland and how does she stand?",
+    "prefix": " sweetheart, the king of Spain's daughter, alanna. Strangers in my house, bad manners to them! (She keens with banshee 1922#552woe.) Ochone! Ochone! Silk of the kine! (She wails.) ",
+    "suffix": " \n\n1939#418\n\n STEPHEN \n\n How do I stand you? The hat trick! Where's the third person of the Blessed Trinity? Soggarth Aroon? The reverend Carrion Crow. \n\n CISSY CAFFREY \n\n(Shrill.)",
+    "start": 223286,
+    "end": 223339,
+    "canonical_text": "You met with poor old Ireland and how does she stand?"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21273395,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 4263328,
+        "login": "bousstephanoumenos",
+        "name": "bousstephanoumenos",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

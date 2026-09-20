@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9666642",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Curtana",
+  "html_source": "<p>Curtana, also known as the Sword of Mercy, is a ceremonial sword used at the coronation of British kings and queens. One of the Crown Jewels of the United Kingdom, its end is blunt and squared, said to symbolize mercy.<br />Wikipedia</p><p><img src=\"https://images.genius.com/b98b774142f289010af58130c8f3d4a0.130x560x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9666642/James-joyce-ulysses-chap-15-circe/Curtana",
+    "original_id": "9666642",
+    "referent_id": 9666642,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "curtana",
+    "prefix": "f welcome. Under an arch of triumph Bloom appears, bareheaded, in a crimson velvet mantle trimmed with ermine, bearing Saint Edward's staff, the orb and sceptre with the dove, the ",
+    "suffix": ". He is seated on a milkwhite horse with long flowing crimson tail, richly caparisoned, with golden headstall. Wild excitement. The ladies from their balconies throw 1932#426down r",
+    "start": 72785,
+    "end": 72792,
+    "canonical_text": "curtana"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9666642,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

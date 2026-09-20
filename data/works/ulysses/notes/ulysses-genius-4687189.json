@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4687189",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Meshuggah",
+  "html_source": "<p>Yiddish: eccentric or crazy. [Gifford]</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4687189/James-joyce-ulysses-chap-8-lestrygonians/Meshuggah",
+    "original_id": "4687189",
+    "referent_id": 4687189,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Meshuggah",
+    "prefix": "Blown in from the bay. Like old times. He suffered her to overtake him without surprise and thrust his dull grey beard towards her, his loose jaw wagging as he spoke earnestly. \n\n ",
+    "suffix": ". Off his chump. \n\n Mr Bloom walked on again easily, seeing ahead of him in sunlight the tight skullpiece, the dangling stickumbrelladustcoat. Going the two 1932#141days. Watch him",
+    "start": 19040,
+    "end": 19049,
+    "canonical_text": "Meshuggah"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4687189,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

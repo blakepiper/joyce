@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10194310",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Alleluia chorus",
+  "html_source": "<p><a href=\"https://www.youtube.com/watch?v=BBZ7AfZR9xs\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=BBZ7AfZR9xs</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10194310/James-joyce-ulysses-chap-15-circe/Alleluia-chorus",
+    "original_id": "10194310",
+    "referent_id": 10194310,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Alleluia chorus",
+    "prefix": ".\nMidwife Most Merciful, pray for us. \nPotato Preservative against Plague and Pestilence, pray for us. \n\n(A choir of six hundred voices, conducted by Mr Vincent O'Brien, sings the ",
+    "suffix": ", accompanied on the organ by Joseph Glynn. Bloom becomes mute, shrunken, carbonised.) \n\n ZOE \n\n Talk away till you're black in the face. \n\n BLOOM \n\n (In caubeen with clay pipe stu",
+    "start": 97217,
+    "end": 97232,
+    "canonical_text": "Alleluia chorus"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10194310,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

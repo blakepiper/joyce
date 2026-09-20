@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8769333",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Swimming",
+  "html_source": "<p>At the end of chapter 1, Mulligan’s student friend is swimming in the creek as he mentions getting a card from Bannon saying he had found a “photo girl” (Milly).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8769333/James-joyce-ulysses-chap-4-calypso/Swimming",
+    "original_id": "8769333",
+    "referent_id": 8769333,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "swimming",
+    "prefix": "lovely birthday present. It suits me splendid. Everyone says I'm quite the belle in my new tam. I got mummy's lovely box of creams and am writing. They are lovely. I am getting on ",
+    "suffix": " in the photo business now. Mr Coghlan took one of me and Mrs will send when developed. We did great biz yesterday. Fair day and all the beef to the heels were in. We are going to ",
+    "start": 24655,
+    "end": 24663,
+    "canonical_text": "swimming"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8769333,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

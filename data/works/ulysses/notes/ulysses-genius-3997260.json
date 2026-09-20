@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3997260",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Is that her? asked miss Kennedy",
+  "html_source": "<p>Ms Douce and Ms Kennedy hear the viceroy’s carriage go by, Miss Kennedy sees it. This aligns itself with other contrasts present in <em>Sirens</em>- gold and bronze, near and far, eyes and ears.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3997260/James-joyce-ulysses-chap-11-sirens/Is-that-her-asked-miss-kennedy",
+    "original_id": "3997260",
+    "referent_id": 3997260,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Is that her? asked miss Kennedy",
+    "prefix": "\n Done. \n\n Begin! \n\n\n\n Bronze by gold, Miss Douce's head by Miss Kennedy's head, over the 1922#246crossblind of the Ormond bar heard the viceregal hoofs go by, ringing steel. \n\n — ",
+    "suffix": ". \n\n Miss Douce said yes, sitting with his ex, pearl grey and eau de Nil. \n\n — Exquisite contrast, Miss Kennedy said. \n\n When all agog Miss Douce said eagerly: \n\n — Look at the fel",
+    "start": 2638,
+    "end": 2669,
+    "canonical_text": "Is that her? asked Miss Kennedy"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 3997260,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

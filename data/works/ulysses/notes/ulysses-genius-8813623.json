@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8813623",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Never the same",
+  "html_source": "<p>“No man ever steps in the same river twice, for it’s not the same river and he’s not the same man.”<br />― Heraclitus (535 BC – 475 BC)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8813623/James-joyce-ulysses-chap-8-lestrygonians/Never-the-same",
+    "original_id": "8813623",
+    "referent_id": 8813623,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "never the same",
+    "prefix": "ily its plastered board. \n\nKino's. \n\n11/-. \n\nTrousers. \n\n Good idea that. Wonder if he pays rent to the corporation. How can you own water really? It's always flowing in a stream, ",
+    "suffix": ", which in the stream of life we trace. Because life is a stream. All kinds of places are good for ads. That quack doctor for the clap used to be stuck up in all the greenhouses. N",
+    "start": 5726,
+    "end": 5740,
+    "canonical_text": "never the same"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8813623,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

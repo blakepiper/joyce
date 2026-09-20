@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-7153744",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "A black crack of noise in the street here",
+  "html_source": "<p>Earlier in the book (Chapter 9) Stephen describes God as a “noise in the street”. Now, there’s thunder outside (“a black crack of noise in the street here… Loud on left Thor thundered”) that makes Stephen believe God is angry at him. His description of God literally manifests itself. Later on in this early 17th century-esque passage, Bloom tries to comfort Stephen by explaining the science behind lightning to him</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7153744/James-joyce-ulysses-chap-14-oxen-of-the-sun/A-black-crack-of-noise-in-the-street-here",
+    "original_id": "7153744",
+    "referent_id": 7153744,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "A black crack of noise in the street here",
+    "prefix": "a penny for him who finds the pea. \n\nBehold the mansion reared by dedal Jack \nSee the malt stored in many a refluent sack, \nIn the proud cirque of Jackjohn's bivouac. \n\n1939#284\n\n ",
+    "suffix": ", alack, bawled back. Loud on left Thor thundered: in anger awful the hammerhurler. Came now the storm that hist his heart. And Master Lynch bade him have a care to flout and witwa",
+    "start": 28972,
+    "end": 29013,
+    "canonical_text": "A black crack of noise in the street here"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 7153744,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1780117,
+        "login": "Icky_Micki",
+        "name": "Icky_Micki",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4377564",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Rows of flimsy houses with gaping doors.",
+  "html_source": "<p>The “gaping doors” have <a href=\"http://lit.genius.com/4377435\" rel=\"noopener nofollow\">obvious sexual connotations,</a> but it’s the flimsy houses which form the more potent image.</p><p>The houses are poorly constructed, perhaps, but their flimsiness foreshadows the way reality will be warped to breaking point in this chapter.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4377564/James-joyce-ulysses-chap-15-circe/Rows-of-flimsy-houses-with-gaping-doors",
+    "original_id": "4377564",
+    "referent_id": 4377564,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Rows of flimsy houses with gaping doors.",
+    "prefix": "\n\n[15]\n\n\n\n\n\n(The Mabbot street entrance of nighttown, before which stretches an uncobbled tramsiding set with skeleton tracks, red and green will-o'-the-wisps and danger signals. ",
+    "suffix": " Rare lamps with faint rainbow fins. Round Rabaiotti's halted ice gondola stunted men and women squabble. They grab wafers between which are wedged lumps of coral and copper snow. ",
+    "start": 179,
+    "end": 218,
+    "canonical_text": "Rows of grimy houses with gaping doors."
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9367
+  },
+  "genius": {
+    "referent_id": 4377564,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

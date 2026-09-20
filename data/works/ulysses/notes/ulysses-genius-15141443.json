@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15141443",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Heliotrope",
+  "html_source": "<p>Flowers of the genus <a href=\"https://en.wikipedia.org/wiki/Heliotropium\" rel=\"noopener nofollow\">Heliotropium</a>, from the borage family.</p><p><img src=\"https://images.genius.com/1c0dff0713114cdc28a05d6635c5537f.300x300x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15141443/James-joyce-ulysses-chap-13-nausicaa/Heliotrope",
+    "original_id": "15141443",
+    "referent_id": 15141443,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Heliotrope",
+    "prefix": "round over me and half down my back. \n\n Wait. Hm. Hm. Yes. That's her perfume. Why she waved her hand. I leave you this to think of me when I'm far away on the pillow. What is it? ",
+    "suffix": "? No. Hyacinth? Hm. Roses, I think. She'd like scent of that kind. Sweet and cheap: soon sour. Why Molly likes opoponax. Suits her, with a little jessamine mixed. Her high notes an",
+    "start": 71227,
+    "end": 71237,
+    "canonical_text": "Heliotrope"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15141443,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

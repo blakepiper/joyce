@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15129429",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Jorum",
+  "html_source": "<p>A large bowl or other vessel meant for drinking. Perhaps from the biblical Joram who “brought with him vessels of silver” (2 Samuel 8:10—KJV)</p><p>A less likely etymology is from the Gaelic deor (“drop”).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15129429/James-joyce-ulysses-chap-12-cyclops/Jorum",
+    "original_id": "15129429",
+    "referent_id": 15129429,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "jorum",
+    "prefix": " \n\n Jesus, I had to laugh at the way he came out with that about the old one with the winkers on her, blind drunk in her royal palace every night 1932#298of God, old Vic, with her ",
+    "suffix": " of mountain dew and her coachman carting her up body and bones to roll into bed and she pulling him by the whiskers and singing him old bits of songs about Ehren on the Rhine and ",
+    "start": 89582,
+    "end": 89587,
+    "canonical_text": "jorum"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15129429,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

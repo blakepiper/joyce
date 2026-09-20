@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9136170",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Coneys",
+  "html_source": "<p>A rabbit, especially the European rabbit (Oryctolagus cuniculus).<br />FreeDictionary</p><p><img src=\"https://images.genius.com/6915b16d15a72402a78e419717f14b2c.1000x751x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9136170/James-joyce-ulysses-chap-14-oxen-of-the-sun/Coneys",
+    "original_id": "9136170",
+    "referent_id": 9136170,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "coneys",
+    "prefix": "e warm persuaders for their petitions, would find in him their man. For his nutriment he shewed how he would feed himself exclusively upon a diet of savoury tubercles and fish and ",
+    "suffix": " there, the flesh of these latter prolific 1961#402rodents being highly recommended for his purpose, both broiled and stewed with a blade of mace and a pod or two of capsicum chill",
+    "start": 49940,
+    "end": 49946,
+    "canonical_text": "coneys"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9136170,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

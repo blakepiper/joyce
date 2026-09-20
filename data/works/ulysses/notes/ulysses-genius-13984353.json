@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13984353",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Ludamassy! Pore piccaninnies!",
+  "html_source": "<p>Lord have mercy! Poor Picaninnies!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13984353/James-joyce-ulysses-chap-14-oxen-of-the-sun/Ludamassy-pore-piccaninnies",
+    "original_id": "13984353",
+    "referent_id": 13984353,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Ludamassy! Pore piccaninnies!",
+    "prefix": "Walking Mackintosh of lonely canyon. Tuck and turn in. Schedule time. Nix for the hornies. Pardon? 1939#306Seen him today at a runefal? Chum o' yourn 1932#386passed in his checks? ",
+    "suffix": " Thou'll no be telling me thot, Pold veg! Did ums blubble bigsplash crytears cos frien Padney was took off in black bag? Of all de darkies Massa Pat was verra best. I never see the",
+    "start": 112701,
+    "end": 112730,
+    "canonical_text": "Ludamassy! Pore piccaninnies!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13984353,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

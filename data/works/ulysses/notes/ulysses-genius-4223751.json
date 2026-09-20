@@ -1,0 +1,63 @@
+{
+  "id": "ulysses-genius-4223751",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Equine in its length",
+  "html_source": "<p>“Equine” means horse-like– we might today say “horse-faced”.</p><p>PROPOSED SUGGESTION: We might well, but we probably wouldn’t say “his face was horse-faced in its length”.</p><p>The adjective doesn’t necessarily suggest a close resemblance to a horse’s face, only a proportionate lengthiness. Can people have long faces that are non-horsey? Is lengthiness essential to horsiness, or just highly correlative?</p><p>I suppose here “equine” is also a subtle dig at Mulligan, much the same way as the word “stately” gives him an air of uppitiness or grandness that is both genuine and affected.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4223751/James-joyce-ulysses-chap-1-telemachus/Equine-in-its-length",
+    "original_id": "4223751",
+    "referent_id": 4223751,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "equine in its length",
+    "prefix": "s throat and shaking his head. Stephen Dedalus, displeased and sleepy, leaned his arms on the top of the staircase and looked coldly at the shaking gurgling face that blessed him, ",
+    "suffix": ", and at the light untonsured hair, grained and hued like pale oak. \n\n Buck Mulligan peeped an instant under the mirror and then covered the bowl smartly. \n\n — Back to barracks! he",
+    "start": 869,
+    "end": 889,
+    "canonical_text": "equine in its length"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4223751,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.8645833333333333
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.08333333333333334
+      },
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.03125
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.020833333333333336
+      }
+    ]
+  },
+  "color": "F59627"
+}

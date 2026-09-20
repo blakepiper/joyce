@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8921618",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Phial of cachous",
+  "html_source": "<p>packet of breath mints</p><p>phail is an alternate term for vial or ampule</p><p>plural noun: cachous<br />dated<br />a pleasant-smelling lozenge sucked to mask bad breath.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8921618/James-joyce-ulysses-chap-11-sirens/Phial-of-cachous",
+    "original_id": "8921618",
+    "referent_id": 8921618,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Phial of cachous",
+    "prefix": "m. What perfume does your wife? I want to know. Jing. Stop. Knock. Last look at mirror always before she answers the door. The hall. There? How do you? I do well. There? What? Or? ",
+    "suffix": ", kissing comfits, in her satchel. Yes? Hands felt for the opulent. \n\n Alas the voice rose, sighing, changed: loud, full, shining, proud. \n\n — But alas, 'twas idle dreaming... \n\n G",
+    "start": 36984,
+    "end": 37000,
+    "canonical_text": "Phial of cachous"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8921618,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

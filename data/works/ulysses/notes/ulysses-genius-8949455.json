@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8949455",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Number one Bass",
+  "html_source": "<p>Ben’s fortunes have suffered from too much ale.</p><p><img src=\"https://images.rapgenius.com/32ca0ceec23a2c77094d3d14c637c6bd.1000x563x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8949455/James-joyce-ulysses-chap-11-sirens/Number-one-bass",
+    "original_id": "8949455",
+    "referent_id": 8949455,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Number one Bass",
+    "prefix": ". Big ships' chandler's business he did once. Remember: rosiny ropes, ships' lanterns. Failed to the tune of ten thousand pounds. Now in the Iveagh home. Cubicle number so and so. ",
+    "suffix": " did that for him. \n\n1922#2711986#232\n\n The priest's at home. A false priest's servant bade him welcome. Step in. The holy father. Curlycues of chords. \n\n Ruin them. Wreck their li",
+    "start": 56922,
+    "end": 56937,
+    "canonical_text": "Number one Bass"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8949455,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

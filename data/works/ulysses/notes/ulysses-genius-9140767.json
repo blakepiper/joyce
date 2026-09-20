@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9140767",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "I believe, O Lord, help my unbelief",
+  "html_source": "<p>From the New Testament (Mark 9, 17-24).<br />A man tells Jesus he has a possessed son and informs him that he asked his apostles to cure him, but they failed.<br />Being slightly irritated, Jesus said: “O faithless generation, how long shall I be with you? how long shall I suffer you? bring him unto me.”</p><p>After that he asked the father whether he really believed his son can be cured from the evil spirit. The father replied: “Lord, I believe; help thou mine unbelief.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9140767/James-joyce-ulysses-chap-9-scylla-and-charybdis/I-believe-o-lord-help-my-unbelief",
+    "original_id": "9140767",
+    "referent_id": 9140767,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "I believe, O Lord, help my unbelief",
+    "prefix": "ent. He is going to visit the present duke, Piper says, and prove to him that his ancestor wrote the plays. It will come as a surprise to his grace. But he believes his theory. \n\n ",
+    "suffix": ". That is, help me to believe or help me to unbelieve? Who helps to believe? Egomen. Who to unbelieve? Other chap. \n\n — You are the only contributor to Dana who asks for pieces of ",
+    "start": 62884,
+    "end": 62919,
+    "canonical_text": "I believe, O Lord, help my unbelief"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9140767,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3254412,
+        "login": "vidmarovic",
+        "name": "vidmarovic",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

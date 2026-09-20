@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8848619",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Aphrodite",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/f28c56942882434e287bc0e77a7754bc.600x380x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8848619/James-joyce-ulysses-chap-9-scylla-and-charybdis/Aphrodite",
+    "original_id": "8848619",
+    "referent_id": 8848619,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Aphrodite",
+    "prefix": "961#200\n\n — What's his name? Ikey Moses? Bloom. \n\n He rattled on: \n\n — Jehovah, collector of prepuces, is no more. I found him over in the museum where I went to hail the foamborn ",
+    "suffix": ". The Greek mouth that has never been twisted in prayer. Every day we must do homage to her. Life of life, thy lips enkindle. \n\n Suddenly he turned to Stephen: \n\n — He knows you. H",
+    "start": 34804,
+    "end": 34813,
+    "canonical_text": "Aphrodite"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8848619,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

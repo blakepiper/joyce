@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8876442",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Idée fixe",
+  "html_source": "<p>There are parallel meanings for Stephen.</p><p>Idée fixe, ( French: “fixed idea”) in music and literature, a recurring theme or character trait that serves as the structural foundation of a work. The term was later used in psychology to refer to an irrational obsession that so dominates an individual’s thoughts as to determine his or her actions. An outgrowth of Romanticism, the concept enjoyed its widest circulation during the 19th and the early 20th century.<br />Encyclopedia Britannica</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8876442/James-joyce-ulysses-chap-10-wandering-rocks/Idee-fixe",
+    "original_id": "8876442",
+    "referent_id": 8876442,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "idée fixe",
+    "prefix": " primrose waistcoat shook gaily to his laughter. \n\n1961#248\n\n — You should see him, he said, when his body loses its balance. Wandering Aengus I call him. \n\n — I am sure he has an ",
+    "suffix": ", Haines said, pinching his chin thoughtfully with thumb and forefinger. Now I am speculating what it would be likely to be. Such persons always have. \n\n Buck Mulligan bent across ",
+    "start": 61202,
+    "end": 61211,
+    "canonical_text": "idée fixe"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8876442,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

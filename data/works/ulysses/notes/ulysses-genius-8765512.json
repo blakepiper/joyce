@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8765512",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Dunam",
+  "html_source": "<p>How many dunam in 1 acre? The answer is 4.04. So a dunam is about a quarter of an acre.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8765512/James-joyce-ulysses-chap-4-calypso/Dunam",
+    "original_id": "8765512",
+    "referent_id": 8765512,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "dunam",
+    "prefix": " government and plant with eucalyptus trees. Excellent for shade, fuel and construction. Orangegroves and immense melonfields north of Jaffa. You pay eighty marks and they plant a ",
+    "suffix": " of land for you with olives, oranges, almonds or citrons. Olives cheaper: oranges need artificial irrigation. Every year you get a sending of the crop. Your name entered for life ",
+    "start": 12532,
+    "end": 12537,
+    "canonical_text": "dunam"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8765512,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

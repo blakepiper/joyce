@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10579819",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Azotes",
+  "html_source": "<p>Not life (French). An old term for Nitrogen, as it was observed by Antoine Lavoisier that it could not support life on its own. However, it is required for plants, and consequently animals, in amino acids.</p><p><a href=\"http://www.dictionary.com/browse/azote\" rel=\"noopener nofollow\">http://www.dictionary.com/browse/azote</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10579819/James-joyce-ulysses-chap-5-lotus-eaters/Azotes",
+    "original_id": "10579819",
+    "referent_id": 10579819,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Azotes",
+    "prefix": "dolce far niente, not doing a hand's turn all day. Sleep six months out of twelve. Too hot to quarrel. Influence of the climate. Lethargy. Flowers of idleness. The air feeds most. ",
+    "suffix": ". Hothouse in Botanic gardens. Sensitive plants. Waterlilies. Petals too tired 1986#58to. Sleeping sickness 1961#71in the air. Walk on roseleaves. Imagine trying to eat tripe and c",
+    "start": 2463,
+    "end": 2469,
+    "canonical_text": "Azotes"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10579819,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

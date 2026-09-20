@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8231210",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "A bloody horse",
+  "html_source": "<p>Throwaway: Bloom’s inadvertent tip from chapter 5.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8231210/James-joyce-ulysses-chap-10-wandering-rocks/A-bloody-horse",
+    "original_id": "8231210",
+    "referent_id": 8231210,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "a bloody horse",
+    "prefix": "he gates of the drive opened wide to give egress to the viceregal cavalcade. \n\n — Even money, Lenehan said returning. I knocked against Bantam 1932#209Lyons in there going to back ",
+    "suffix": " someone gave him that hasn't an earthly. Through here. \n\n They went up the steps and under Merchants' arch. A darkbacked figure scanned books on the hawker's cart. \n\n — There he i",
+    "start": 29537,
+    "end": 29551,
+    "canonical_text": "a bloody horse"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8231210,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1520984,
+        "login": "RedSwanHotel",
+        "name": "RedSwanHotel",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

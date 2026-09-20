@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1880833",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "A chara",
+  "html_source": "<p>‘Friend’ in Irish.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1880833/James-joyce-ulysses-chap-12-cyclops/A-chara",
+    "original_id": "1880833",
+    "referent_id": 1880833,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "a chara",
+    "prefix": "What's yours? says Joe. \n\n1939#2151922#283\n\n — Ditto MacAnaspey, says I. \n\n — Three pints, Terry, says Joe. And how's the old heart, citizen? says he. \n\n1961#295\n\n — Never better, ",
+    "suffix": ", says he. What Garry? Are we going to win? Eh? \n\n And with that he took the bloody old towser by the scruff of the neck and, by Jesus, he near throttled him. \n\nThe figure seated o",
+    "start": 9435,
+    "end": 9442,
+    "canonical_text": "a chara"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9361
+  },
+  "genius": {
+    "referent_id": 1880833,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 211351,
+        "login": "prepski",
+        "name": "prepski",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

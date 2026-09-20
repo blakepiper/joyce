@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8913634",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Sonnezlacloche",
+  "html_source": "<p>Sonnez la cloche (French)<br />Ring the bell</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8913634/James-joyce-ulysses-chap-11-sirens/Sonnezlacloche",
+    "original_id": "8913634",
+    "referent_id": 8913634,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Sonnezlacloche",
+    "prefix": " — Please, please. \n\n He pleaded over returning phrases of avowal. \n\n — I could not leave thee... \n\n1932#239\n\n — Afterwits, Miss Douce promised coyly. \n\n — No, now, urged Lenehan. ",
+    "suffix": "! O do! There's no-one. \n\n She looked. Quick. Miss Kenn out of earshot. Sudden bent. Two kindling faces watched her bend. \n\n Quavering the chords strayed from the air, found it aga",
+    "start": 20470,
+    "end": 20486,
+    "canonical_text": "Sonnez la cloche"
+  },
+  "provenance": {
+    "match_method": "compact-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 8913634,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

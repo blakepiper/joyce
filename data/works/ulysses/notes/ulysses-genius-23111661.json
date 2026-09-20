@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23111661",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "James Rourke’s city bakery",
+  "html_source": "<p>James Rourke – uncle to nationalist/agrarian reformer Thomas Brennan, and himself an official of the Land League.</p><p><img src=\"https://images.genius.com/e0d76f7be22edae6998308bf900a9a10.504x318x1.png\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23111661/James-joyce-ulysses-chap-16-eumaeus/James-rourkes-city-bakery",
+    "original_id": "23111661",
+    "referent_id": 23111661,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "James Rourke's city bakery",
+    "prefix": " stonecutter's in his mind somehow in Talbot place, first turning on the right, while the other who was acting as his fidus Achates inhaled with internal satisfaction the smell of ",
+    "suffix": ", situated quite close to where they were, the very palatable odour indeed of our daily bread, of all commodities of the public the primary and most indispensable. Bread, the staff",
+    "start": 4032,
+    "end": 4058,
+    "canonical_text": "James Rourke's city bakery"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23111661,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

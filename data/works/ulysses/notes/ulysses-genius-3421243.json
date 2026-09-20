@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-3421243",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "I paid my way. I never borrowed a shilling in my life. Can you feel that? I owe nothing.",
+  "html_source": "<p>Mr Deasy adopts openly an imperial self-reliant attitude to money and finance and economics.</p><p>Stephen can’t offer a retort but is ok with his borrowing and lending lifestyle.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3421243/James-joyce-ulysses-chap-2-nestor/I-paid-my-way-i-never-borrowed-a-shilling-in-my-life-can-you-feel-that-i-owe-nothing",
+    "original_id": "3421243",
+    "referent_id": 3421243,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "I paid my way. I never borrowed a shilling in my life. Can you feel that? I owe nothing.",
+    "prefix": "t said that. He tapped his savingsbox against his thumbnail. \n\n — I will tell you, he said solemnly, what is his proudest boast. I paid my way. \n\n1932#28\n\n Good man, good man. \n\n— ",
+    "suffix": " Can you? \n\n1961#30\n\n Mulligan, nine pounds, three pairs of socks, one pair brogues, ties. Curran, ten guineas. McCann, one guinea. Fred Ryan, two shillings. 1986#25Temple, two lun",
+    "start": 14083,
+    "end": 14171,
+    "canonical_text": "I paid my way. I never borrowed a shilling in my life. Can you feel that? I owe nothing."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3421243,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.9642857142857143
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.03571428571428572
+      }
+    ]
+  },
+  "color": "F59627"
+}

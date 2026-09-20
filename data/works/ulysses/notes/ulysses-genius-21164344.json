@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21164344",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Patch",
+  "html_source": "<p>A jester or joker.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21164344/James-joyce-ulysses-chap-9-scylla-and-charybdis/Patch",
+    "original_id": "21164344",
+    "referent_id": 21164344,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "patch",
+    "prefix": "ces Buck Mulligan read his tablet: \n\nEveryman His own Wife\nor\nA Honeymoon in the Hand\n(a national immorality in three orgasms) \nby\nBallocky Mulligan \n\n1961#216\n\n He turned a happy ",
+    "suffix": "'s smirk to Stephen, saying: \n\n — The disguise, I fear, is thin. But listen. \n\n He read, marcato: \n\n — Characters: \n\nTOBY TOSTOFF (a ruined Pole). \nCRAB (a bushranger).\nMEDICAL DIC",
+    "start": 67495,
+    "end": 67500,
+    "canonical_text": "patch"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.938
+  },
+  "genius": {
+    "referent_id": 21164344,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

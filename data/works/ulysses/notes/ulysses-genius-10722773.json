@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10722773",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "C.E.",
+  "html_source": "<p>civil engineer</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10722773/James-joyce-ulysses-chap-17-ithaca/Ce",
+    "original_id": "10722773",
+    "referent_id": 10722773,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "C.E.",
+    "prefix": "h and daily supply of 12½ million gallons the water had fallen below the sill of the overflow weir for which reason the borough surveyor and waterworks engineer, Mr Spencer Harty, ",
+    "suffix": ", on the instructions of the waterworks committee had prohibited the use of municipal water for purposes other than those of consumption (envisaging the possibility of recourse bei",
+    "start": 11238,
+    "end": 11243,
+    "canonical_text": "C. E."
+  },
+  "provenance": {
+    "match_method": "compact-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 10722773,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

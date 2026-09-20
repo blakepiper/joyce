@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8768749",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "You big, you bog",
+  "html_source": "<p>Should be “You hig, you hog.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8768749/James-joyce-ulysses-chap-15-circe/You-big-you-bog",
+    "original_id": "8768749",
+    "referent_id": 8768749,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "You big, you bog",
+    "prefix": "ovanni, a cenar teco. Artane orphans, joining hands, caper round him. Girls of the Prison Gate Mission, joining hands, caper round in the opposite direction.)\n\nTHE ARTANE ORPHANS\n\n",
+    "suffix": ", you dirty dog!\nYou think the ladies love you!\n\n\nTHE PRISON GATE GIRLS\n\nIf you see kay\nTell him he may\nSee you in tea\nTell him from me.\n\n\nHORNBLOWER (In ephod and huntingcap, anno",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.8485
+  },
+  "genius": {
+    "referent_id": 8768749,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

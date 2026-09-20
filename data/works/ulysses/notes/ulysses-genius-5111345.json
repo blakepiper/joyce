@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-5111345",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Ben Dollard’s singing of The Croppy Boy.",
+  "html_source": "<p>Ben Dollard appears as a character in the Wandering Rocks and sings the song in Sirens</p><p>PROPOSED SUGGESTION: “The Croppy Boy” is an Irish ballad set in 1798 rising relating to the despair of a doomed young “croppy”. (Wikipedia) A “croppy” refers to a person  with close cropped hair. (also Wikipedia)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5111345/James-joyce-ulysses-chap-6-hades/Ben-dollards-singing-of-the-croppy-boy",
+    "original_id": "5111345",
+    "referent_id": 5111345,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Ben Dollard's singing of The Croppy Boy.",
+    "prefix": "s immense last night, he said. And Paddy Leonard taking him off to his face. \n\n1939#69\n\n — O, draw him out, Martin, Mr Power said eagerly. Wait till1961#90 you hear him, Simon, on ",
+    "suffix": " \n\n — Immense, Martin Cunningham said pompously. His singing of that simple ballad, Martin, is the most trenchant rendering I ever heard in the whole course of my experience. \n\n — ",
+    "start": 8430,
+    "end": 8470,
+    "canonical_text": "Ben Dollard's singing of The Croppy Boy."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5111345,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2680303,
+        "login": "Cortez67",
+        "name": "Cortez67",
+        "role": null,
+        "attribution": 0.6785714285714286
+      },
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 0.28571428571428575
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.03571428571428572
+      }
+    ]
+  },
+  "color": "F59627"
+}

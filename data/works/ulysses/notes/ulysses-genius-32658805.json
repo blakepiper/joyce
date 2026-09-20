@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-32658805",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "A",
+  "html_source": "<p>Midwives  with all the gear sat on a couch ready for the mother in labour.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/32658805/James-joyce-ulysses-chap-14-oxen-of-the-sun/A",
+    "original_id": "32658805",
+    "referent_id": 32658805,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "A",
+    "prefix": "them suddenly to be about to be cherished had been begun she felt! \n\n Before born bliss babe had. Within womb won he worship. Whatever in that one case done commodiously done was. ",
+    "suffix": " couch by midwives attended with wholesome food reposeful, cleanest swaddles as though forthbringing were now done and by wise foresight set: but to this no less of what drugs ther",
+    "start": 4249,
+    "end": 4250,
+    "canonical_text": "A"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 32658805,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

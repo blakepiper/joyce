@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15124071",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Sinhedrim",
+  "html_source": "<p>Alternate spelling of <a href=\"https://en.wikipedia.org/wiki/Sanhedrin\" rel=\"noopener nofollow\">Sanhedrin</a>, a council of rabbis who sat as a tribunal in every city of Ancient Israel. From the Greek Συνέδριον (synedrion), meaning “sitting together”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15124071/James-joyce-ulysses-chap-12-cyclops/Sinhedrim",
+    "original_id": "15124071",
+    "referent_id": 15124071,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "sinhedrim",
+    "prefix": "clock to administer the law of the brehons at the commission for all that and those parts to be holden in and for the county of the city of Dublin. And there sat with him the high ",
+    "suffix": " of the twelve tribes of Iar, for every tribe one man, of the tribe of Patrick and of 1939#234the tribe of 1932#291Hugh and of the tribe of Owen and of the tribe of Conn and of the",
+    "start": 72099,
+    "end": 72108,
+    "canonical_text": "sinhedrim"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15124071,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

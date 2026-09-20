@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8799851",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Hectic flush",
+  "html_source": "<p>hectic flush is a persistent or chronic flush associated with chronic debilitating disease; redness of the face associated with a rise of temperature in various fevers.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8799851/James-joyce-ulysses-chap-7-aeolus/Hectic-flush",
+    "original_id": "8799851",
+    "referent_id": 8799851,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "hectic flush",
+    "prefix": "are you, Dedalus? \n\n — Well. And yourself? \n\n J. J. O'Molloy shook his head. \n\n1932#1111961#124\n\n SAD \n\n Cleverest fellow at the junior bar he used to be. Decline, poor chap. That ",
+    "suffix": " spells finis for a man. Touch and go with him. What's in the wind, I wonder. Money worry. \n\n — Or again if we but climb the serried mountain peaks. \n\n — You're looking extra. \n\n —",
+    "start": 16141,
+    "end": 16153,
+    "canonical_text": "hectic flush"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8799851,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

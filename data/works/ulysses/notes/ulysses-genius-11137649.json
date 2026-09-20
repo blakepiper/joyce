@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11137649",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Henry Dunbar",
+  "html_source": "<p><a href=\"http://www.goodreads.com/book/show/271698.Henry_Dunbar\" rel=\"noopener nofollow\">http://www.goodreads.com/book/show/271698.Henry_Dunbar</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11137649/James-joyce-ulysses-chap-18-penelope/Henry-dunbar",
+    "original_id": "11137649",
+    "referent_id": 11137649,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Henry Dunbar",
+    "prefix": " her but I could have stopped it in time she gave me the Moonstone to read that was the first I read of Wilkie Collins East Lynne I read and the shadow of Ashlydyat Mrs Henry Wood ",
+    "suffix": " by that other woman I lent him afterwards with Mulveys photo in it so as he see I wasnt without and Lord Lytton Eugene Aram Molly bawn she gave me by Mrs Hungerford on account of ",
+    "start": 48685,
+    "end": 48697,
+    "canonical_text": "Henry Dunbar"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11137649,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

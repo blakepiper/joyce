@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795366",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Roundtown",
+  "html_source": "<p>ROUNDTOWN, a village, in the parish of RATHFARNHAM, barony of NEWCASTLE, county of DUBLIN, and province of LEINSTER, 2 ½ miles (S.) from the General Post-Office: the population is returned with the parish. The place takes its name from the arrangement of its cottages in the form of a circle.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795366/James-joyce-ulysses-chap-6-hades/Roundtown",
+    "original_id": "8795366",
+    "referent_id": 8795366,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Roundtown",
+    "prefix": " to be sure, John Henry Menton said. I haven't seen her for some time. She was a finelooking woman. I danced with her, wait, fifteen seventeen golden years ago, at Mat Dillon's in ",
+    "suffix": ". And a good armful she was. \n\n1986#87\n\n He looked behind through the others. \n\n1939#80\n\n — What is he? he asked. What does he do? Wasn't he in the stationery line? I fell foul of ",
+    "start": 41551,
+    "end": 41560,
+    "canonical_text": "Roundtown"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8795366,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

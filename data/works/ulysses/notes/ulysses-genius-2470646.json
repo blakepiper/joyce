@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-2470646",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "The aunt",
+  "html_source": "<p>Typical language of people across the world’s hemispheres.</p><p>I’ve actually only heard Western and English cultures use the word “The” &amp; then a relative to establish that they’re talking about their own family member.</p><p>For example:</p><p>“The wife says I need to eat better.”</p><p>“The hubby thinks I’m cheating.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2470646/James-joyce-ulysses-chap-1-telemachus/The-aunt",
+    "original_id": "2470646",
+    "referent_id": 2470646,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "The aunt",
+    "prefix": "he mailboat clearing the harbourmouth of Kingstown. \n\n — Our mighty mother! Buck Mulligan said. \n\n He turned abruptly his great searching eyes from the sea to Stephen's face. \n\n — ",
+    "suffix": " thinks you killed your mother, he said. That's why she won't let me have anything to do with you. \n\n — Someone killed her, Stephen said gloomily. \n\n — You could have knelt down, d",
+    "start": 4994,
+    "end": 5002,
+    "canonical_text": "The aunt"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9675
+  },
+  "genius": {
+    "referent_id": 2470646,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 0.9056603773584905
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.09433962264150944
+      }
+    ]
+  },
+  "color": "F59627"
+}

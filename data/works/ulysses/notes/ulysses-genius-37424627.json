@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-37424627",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "A bit off the top",
+  "html_source": "<p>A phrase usually applied to a trim haircut at the barber’s, but here a playful reference to circumcision.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/37424627/James-joyce-ulysses-chap-12-cyclops/A-bit-off-the-top",
+    "original_id": "37424627",
+    "referent_id": 37424627,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "A bit off the top",
+    "prefix": " bob a week said he had a farm in the county Down off a hop-of-my-thumb by the name of Moses Herzog over there near Heytesbury street. \n\n — Circumcised? says Joe. \n\n — Ay, says I. ",
+    "suffix": ". An old plumber named Geraghty. I'm hanging on to his taw now for the past fortnight and I can't get a penny out of him. \n\n — That the lay you're on now? says Joe. \n\n — Ay, says I",
+    "start": 1114,
+    "end": 1131,
+    "canonical_text": "A bit off the top"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 37424627,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

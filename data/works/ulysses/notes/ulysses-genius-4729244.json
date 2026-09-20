@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4729244",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "The plump shadowed face and sullen oval jowl",
+  "html_source": "<p>This facial description suggests Alexander VI, a model of Renaissance high corruption.</p><p><img src=\"https://images.rapgenius.com/0df7e536169bc23b5f464f1fe20faf56.600x793x1.jpg\" alt=\"\" /></p><p><em>Alexander VI, via <a href=\"http://en.wikipedia.org/wiki/Pope_Alexander_VI\" rel=\"noopener nofollow\">Wikimedia Commons.</a></em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4729244/James-joyce-ulysses-chap-1-telemachus/The-plump-shadowed-face-and-sullen-oval-jowl",
+    "original_id": "4729244",
+    "referent_id": 4729244,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "The plump shadowed face and sullen oval jowl",
+    "prefix": "at will do nicely. Switch off the current, will you? \n\n1922#3\n\n He skipped off the gunrest and looked gravely at his watcher, gathering about his legs the loose folds of his gown. ",
+    "suffix": " recalled a prelate, patron of arts in the middle ages. A pleasant smile broke quietly over his lips. \n\n — The mockery of it! he said gaily. Your absurd name, an ancient Greek! \n\n1",
+    "start": 1783,
+    "end": 1832,
+    "canonical_text": "The plump1932#3shadowed face and sullen oval jowl"
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9247
+  },
+  "genius": {
+    "referent_id": 4729244,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.7446808510638298
+      },
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 0.2553191489361702
+      }
+    ]
+  },
+  "color": "F59627"
+}

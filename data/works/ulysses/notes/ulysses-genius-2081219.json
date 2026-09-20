@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2081219",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Utterance of the word.",
+  "html_source": "<p>This ends the section in the style of John Ruskin, which began above with “Mark this farther.”</p><p><img src=\"https://images.genius.com/dcfb49f938cac5c907b1de8ce3358d2c.220x225x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2081219/James-joyce-ulysses-chap-14-oxen-of-the-sun/Utterance-of-the-word",
+    "original_id": "2081219",
+    "referent_id": 2081219,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "utterance of the word.",
+    "prefix": "sh rives their centres and with the reverberation of the thunder the cloudburst pours its torrent, so and not otherwise was the transformation, violent and instantaneous, upon the ",
+    "suffix": " \n\n1961#422\n\n Burke's! outflings my lord Stephen, giving the cry, and a tag and bobtail 1922#401of all them after, cockerel, jackanapes, welsher, pilldoctor, punctual Bloom at heel",
+    "start": 100990,
+    "end": 101012,
+    "canonical_text": "utterance of the Word."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2081219,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

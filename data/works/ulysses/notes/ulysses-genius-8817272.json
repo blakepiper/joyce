@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8817272",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Devilled",
+  "html_source": "<p>“Deviled” as a culinary term goes back to the 1700s, and it originally meant to cook something—anything—with lots and lots of hot and spicy condiments and seasonings. The most commonly used spices in this catchall preparation were mustard and cayenne pepper.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8817272/James-joyce-ulysses-chap-8-lestrygonians/Devilled",
+    "original_id": "8817272",
+    "referent_id": 8817272,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Devilled",
+    "prefix": "ucumber, Tom Kernan can dress. Puts gusto into it. Pure olive oil. Milly served me that cutlet with a sprig of parsley. Take one Spanish onion. God made food, the devil the cooks. ",
+    "suffix": " crab. \n\n — Wife well? \n\n — Quite well, thanks... A cheese sandwich, then. Gorgonzola, have you? \n\n — Yes, sir. \n\n Nosey Flynn sipped his grog. \n\n — Doing any singing those times? ",
+    "start": 47823,
+    "end": 47831,
+    "canonical_text": "Devilled"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8817272,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

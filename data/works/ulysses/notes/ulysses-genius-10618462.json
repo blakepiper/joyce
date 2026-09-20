@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10618462",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Tomkins",
+  "html_source": "<p>Tomas Tomkins (1572 – 1656) English composer and organist<br /><a href=\"https://www.youtube.com/watch?v=DFD85AtqV2U\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=DFD85AtqV2U</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10618462/James-joyce-ulysses-chap-16-eumaeus/Tomkins",
+    "original_id": "10618462",
+    "referent_id": 10618462,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Tomkins",
+    "prefix": "e guineas and Farnaby and son with their dux and comes conceits and Byrd (William), who played the virginals, he said, in the Queen's chapel or anywhere else he found them and one ",
+    "suffix": " who made toys or airs and John Bull. \n\n On the roadway which they were approaching whilst still speaking beyond the swing chain, a horse, dragging a sweeper, paced on the paven gr",
+    "start": 122378,
+    "end": 122385,
+    "canonical_text": "Tomkins"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10618462,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

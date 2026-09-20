@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9094208",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Where was the marshal",
+  "html_source": "<p>“the marshal”: John Howard Parnell, who is playing chess in the D.B.C. (Dublin Bakery Company) in Dame Street (about a block away).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9094208/James-joyce-ulysses-chap-10-wandering-rocks/Where-was-the-marshal",
+    "original_id": "9094208",
+    "referent_id": 9094208,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Where was the marshal",
+    "prefix": "rations? he said with rich acrid utterance to the assistant town clerk. \n\n Hell open to christians they were having, Jimmy Henry said pettishly, about their damned Irish language. ",
+    "suffix": ", he wanted to know, to keep order in the council chamber. And old Barlow the macebearer laid up with asthma, no mace on the table, nothing in order, no quorum even, and Hutchinson",
+    "start": 57845,
+    "end": 57866,
+    "canonical_text": "Where was the marshal"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9094208,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083730,
+        "login": "mburkert",
+        "name": "mburkert",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

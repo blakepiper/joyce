@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10897288",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Gaiety Theatre",
+  "html_source": "<p>Opened 1871 and still a theater</p><p><a href=\"http://www.gaietytheatre.ie/index.php/about-gaiety/history/78\" rel=\"noopener nofollow\">http://www.gaietytheatre.ie/index.php/about-gaiety/history/78</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10897288/James-joyce-ulysses-chap-17-ithaca/Gaiety-theatre",
+    "original_id": "10897288",
+    "referent_id": 10897288,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Gaiety Theatre",
+    "prefix": "or absence of posterior rectal orifice in the case of Hellenic female divinities: to obtain admission (gratuitous or paid) to the performance of Leah by Mrs Bandmann Palmer at the ",
+    "suffix": ", 46, 47, 48, 49 South King street. \n\n1922#6811961#729\n\n What impression of an absent face did Bloom, arrested, silently recall? \n\n1939#514\n\n The face of her father, the late Major",
+    "start": 132182,
+    "end": 132196,
+    "canonical_text": "Gaiety Theatre"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.8913
+  },
+  "genius": {
+    "referent_id": 10897288,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

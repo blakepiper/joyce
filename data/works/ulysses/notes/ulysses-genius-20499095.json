@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20499095",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Broken heart.",
+  "html_source": "<p>Bloom contemplates a “broken heart” again, but this time in a very literal, mechanical sense.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20499095/James-joyce-ulysses-chap-6-hades/Broken-heart",
+    "original_id": "20499095",
+    "referent_id": 20499095,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Broken heart.",
+    "prefix": " heart. \n\n — It does, Mr Bloom said. \n\n Your heart perhaps but what price the fellow in the six feet by two with his toes to the daisies? No touching that. Seat of the affections. ",
+    "suffix": " A pump after all, pumping thousands of gallons of blood every day. One fine day it gets bunged up: and there you are. Lots of them lying around here: lungs, hearts, livers. Old ru",
+    "start": 40217,
+    "end": 40230,
+    "canonical_text": "Broken heart."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20499095,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

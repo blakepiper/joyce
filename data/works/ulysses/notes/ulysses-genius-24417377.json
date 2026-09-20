@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-24417377",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Five hundred pounds",
+  "html_source": "<p>“What’s in it that’s good (for me)?” Classic Bloom.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/24417377/James-joyce-ulysses-chap-15-circe/Five-hundred-pounds",
+    "original_id": "24417377",
+    "referent_id": 24417377,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "five hundred pounds",
+    "prefix": "hough. If I had passed Truelock's window that day two minutes 1939#323later would have been shot. Absence of body. Still if bullet only went through my coat get damages for shock, ",
+    "suffix": ". What was he? Kildare street club toff. God help his gamekeeper. \n\n (He gazes ahead, reading on the wall a scrawled chalk legend Wet Dream and a phallic design.) \n\n Odd! Molly dra",
+    "start": 30956,
+    "end": 30975,
+    "canonical_text": "five hundred pounds"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 24417377,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 10526289,
+        "login": "satchlj",
+        "name": "satchlj",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

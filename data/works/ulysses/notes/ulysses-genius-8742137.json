@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8742137",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "North Circular",
+  "html_source": "<p>North Circular Road.</p><p><img src=\"https://images.rapgenius.com/0dd8adb648d420b2a657ed429a311431.300x179x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8742137/James-joyce-ulysses-chap-4-calypso/North-circular",
+    "original_id": "8742137",
+    "referent_id": 8742137,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "North Circular",
+    "prefix": "eadust, biscuitmush.1961#57 Good house, however: just the end of the city traffic. For instance M'Auley's down there: n. g. as position. Of course if they ran a tramline along the ",
+    "suffix": " from the cattlemarket to the quays value would go up like a shot. \n\n Baldhead over the blind. Cute old codger. No use canvassing him for an ad. Still he knows his own business bes",
+    "start": 7139,
+    "end": 7153,
+    "canonical_text": "North Circular"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8742137,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

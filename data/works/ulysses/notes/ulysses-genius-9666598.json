@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9666598",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Sirdars, grandees and maharajahs",
+  "html_source": "<p>a comic over-statement of Irish representatives</p><p>Sirdar: a variant of Sardar, a long-standing rank in Western and Southern Asia – was assigned to the British Commander-in-Chief of the British-controlled Egyptian Army in the late 19th century<br />Grandee: a Spanish or Portuguese nobleman of the highest rank.<br />Mahārāja: (Sanskrit: महाराज, also spelled maharajah) is a Sanskrit title for a “great ruler”, “great king” or “high king”<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9666598/James-joyce-ulysses-chap-15-circe/Sirdars-grandees-and-maharajahs",
+    "original_id": "9666598",
+    "referent_id": 9666598,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "sirdars, grandees and maharajahs",
+    "prefix": "son, lord mayor of Dublin, his lordship the lord mayor of Cork, their worships the mayors of Limerick, Galway, 1922#453Sligo and Waterford, twentyeight Irish representative peers, ",
+    "suffix": " bearing the cloth of estate, the Dublin Metropolitan Fire Brigade, the chapter of the saints of finance in their plutocratic order of precedence, the bishop of Down and Connor, Hi",
+    "start": 71057,
+    "end": 71089,
+    "canonical_text": "sirdars, grandees and maharajahs"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9666598,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

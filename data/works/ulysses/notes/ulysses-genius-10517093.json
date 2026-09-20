@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10517093",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Clasp knife",
+  "html_source": "<p><img src=\"https://filepicker-images.genius.com/JLiBnxXHRCH9UypqgHCn_clasp_knife.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10517093/James-joyce-ulysses-chap-16-eumaeus/Clasp-knife",
+    "original_id": "10517093",
+    "referent_id": 10517093,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "clasp knife",
+    "prefix": "t on, adhering to his adventures. \n\n — And I seen a man killed in Trieste by an Italian chap. Knife in his back. Knife like that. \n\n Whilst speaking he produced a dangerouslooking ",
+    "suffix": " quite in keeping with his character and held it in the striking position. \n\n — In a knockingshop it was count of a tryon between two smugglers. Fellow hid behind a door, come up b",
+    "start": 38954,
+    "end": 38964,
+    "canonical_text": "claspknife"
+  },
+  "provenance": {
+    "match_method": "compact-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 10517093,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

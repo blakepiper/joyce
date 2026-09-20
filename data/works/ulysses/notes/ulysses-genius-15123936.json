@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15123936",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Garths",
+  "html_source": "<p>Word meaning garden or cloistered area, derived from the same Old Norse word (“garthr”) as the word “yard”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15123936/James-joyce-ulysses-chap-12-cyclops/Garths",
+    "original_id": "15123936",
+    "referent_id": 15123936,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "garths",
+    "prefix": "ride of Calpe's rocky mount, the ravenhaired daughter of Tweedy. There grew she to peerless beauty where loquat and almond scent the air. The gardens of Alameda knew her step: the ",
+    "suffix": " of olives knew and bowed. The chaste spouse of Leopold is she: Marion of the bountiful bosoms. \n\n And lo, there entered one of the clan of the O'Molloys, a 1961#319comely hero of ",
+    "start": 65169,
+    "end": 65175,
+    "canonical_text": "garths"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15123936,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

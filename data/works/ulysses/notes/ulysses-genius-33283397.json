@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33283397",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Mark me now",
+  "html_source": "<p>Mark my word.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33283397/James-joyce-ulysses-chap-14-oxen-of-the-sun/Mark-me-now",
+    "original_id": "33283397",
+    "referent_id": 33283397,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Mark me now",
+    "prefix": "n, he said, time's ruins build eternity's mansions. What means this? Desire's wind blasts the thorntree but after it becomes from a bramblebush to be a rose upon the rood of time. ",
+    "suffix": ". In woman's womb word is made flesh but in the spirit of the maker all flesh that passes becomes the word that shall not pass away. This is the postcreation. Omnis caro ad te veni",
+    "start": 20794,
+    "end": 20805,
+    "canonical_text": "Mark me now"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 33283397,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

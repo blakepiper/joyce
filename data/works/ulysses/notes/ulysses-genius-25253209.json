@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-25253209",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Dublin United Tramways Company’s",
+  "html_source": "<p>Dublin’s electric tram company. In 1941 it changed ‘Tramways’ to ‘Transport’ to recognize the shift toward buses and away from trams like these.</p><p><img src=\"https://images.genius.com/ef06f91614e71a54f94246816573203a.624x464x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/25253209/James-joyce-ulysses-chap-16-eumaeus/Dublin-united-tramways-companys",
+    "original_id": "25253209",
+    "referent_id": 25253209,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Dublin United Tramways Company's",
+    "prefix": "since it cleared up after the recent visitation of Jupiter Pluvius, they dandered along past by where the empty vehicle was waiting without a fare or a jarvey. As it so happened a ",
+    "suffix": " sandstrewer happening to be returning the elder man recounted to his companion à propos of the incident his own truly miraculous escape of some little while back. They passed the ",
+    "start": 3105,
+    "end": 3137,
+    "canonical_text": "Dublin United Tramways Company's"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 25253209,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

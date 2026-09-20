@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-3369707",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "List",
+  "html_source": "<p>A reference from Hamlet in a line which ends with the Ghost asking for revenge.</p><p><img src=\"https://images.rapgenius.com/5140511b54d95726d9bcc7ef89406b7d.390x488x1.jpg\" alt=\"\" /></p><p>See: <a href=\"https://genius.com/4876901/James-joyce-ulysses-chap-9-scylla-and-charybdis/List-list-o-list-my-flesh-hears-him-creeping-hears-if-thou-didst-ever\" rel=\"noopener nofollow\">https://genius.com/4876901/James-joyce-ulysses-chap-9-scylla-and-charybdis/List-list-o-list-my-flesh-hears-him-creeping-hears-if-thou-didst-ever</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3369707/James-joyce-ulysses-chap-9-scylla-and-charybdis/List",
+    "original_id": "3369707",
+    "referent_id": 3369707,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "list",
+    "prefix": " speaks the words to Burbage, the young player who stands before him beyond the rack of cerecloth, calling him by a name: \n\nHamlet, I am thy father's spirit, \n\n1939#138bidding him ",
+    "suffix": ". To a son he speaks, the son of his soul, the prince, young Hamlet and to the son of his body, Hamnet Shakespeare, who has died in Stratford that his namesake may live for ever. 1",
+    "start": 9756,
+    "end": 9760,
+    "canonical_text": "list"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9669
+  },
+  "genius": {
+    "referent_id": 3369707,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.9146341463414634
+      },
+      {
+        "id": 1482232,
+        "login": "JayEn",
+        "name": "JayEn",
+        "role": "editor",
+        "attribution": 0.08536585365853659
+      }
+    ]
+  },
+  "color": "F59627"
+}

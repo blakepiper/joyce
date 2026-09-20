@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4161998",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Moiety",
+  "html_source": "<p>Each of two parts into which a thing is or can be divided.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4161998/James-joyce-ulysses-chap-3-proteus/Moiety",
+    "original_id": "4161998",
+    "referent_id": 4161998,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "moiety",
+    "prefix": "ght you were someone else. \n\n In his broad bed nuncle Richie, pillowed and blanketed, extends over the hillock of his knees a sturdy forearm. Cleanchested. He has washed the upper ",
+    "suffix": ". \n\n — Morrow, nephew. \n\n1986#32\n\n He lays aside the lapboard whereon he drafts his bills of costs for the eyes of master Goff and master Shapland Tandy, filing consents and common",
+    "start": 4880,
+    "end": 4886,
+    "canonical_text": "moiety"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4161998,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1209714,
+        "login": "AlexBeston",
+        "name": "AlexBeston",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

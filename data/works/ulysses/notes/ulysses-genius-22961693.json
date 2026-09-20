@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-22961693",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Smashall Sweeney’s",
+  "html_source": "<p>Smashall Sweeney was a comedic pantomime figure with a walrus moustache</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/22961693/James-joyce-ulysses-chap-12-cyclops/Smashall-sweeneys",
+    "original_id": "22961693",
+    "referent_id": 22961693,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Smashall Sweeney's",
+    "prefix": ", bringing down the rain. And she with her nose cockahoop after she married him because a cousin of his old fellow's was pewopener to the pope. Picture of him on the wall with his ",
+    "suffix": " moustaches, the signior 1986#263Brini from Summerhill, the eyetallyano, papal Zouave to the Holy Father, has left the quay and gone to Moss street. And who was he, tell us? A nobo",
+    "start": 68418,
+    "end": 68436,
+    "canonical_text": "Smashall Sweeney's"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 22961693,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

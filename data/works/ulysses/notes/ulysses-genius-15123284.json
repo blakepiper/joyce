@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15123284",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Shillelagh",
+  "html_source": "<p>A village in <a href=\"https://en.wikipedia.org/wiki/Wicklow\" rel=\"noopener nofollow\">Wicklow</a> whose oak trees originally provided their namesake cudgels</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15123284/James-joyce-ulysses-chap-12-cyclops/Shillelagh",
+    "original_id": "15123284",
+    "referent_id": 15123284,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Shillelagh",
+    "prefix": "the park. What do you think of that, citizen? The Sluagh na h-Eireann. \n\n Mr Cowe Conacre (Multifarnham. Nat.): Arising out of the question of my honourable friend, the member for ",
+    "suffix": ", may I ask the right honourable gentleman whether the government has issued orders that these animals shall be 1939#2291961#315slaughtered though no medical evidence is forthcomin",
+    "start": 55814,
+    "end": 55824,
+    "canonical_text": "Shillelagh"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15123284,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

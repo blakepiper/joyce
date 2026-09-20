@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795798",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Finglas",
+  "html_source": "<p>Finglas (Irish: Fionnghlas, meaning “clear streamlet”) is a suburb of the city of Dublin, Ireland. The village forms the core of the civil parish of Finglas in the barony of Castleknock.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795798/James-joyce-ulysses-chap-6-hades/Finglas",
+    "original_id": "8795798",
+    "referent_id": 8795798,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Finglas",
+    "prefix": "y. \n\n Does he ever think of the hole waiting for himself? They say you do when you shiver in the sun. Someone walking over it. Callboy's warning. Near you. Mine over there towards ",
+    "suffix": ", the plot I bought. Mamma, poor mamma, and little Rudy. \n\n The gravediggers took up their spades and flung heavy clods of clay in on the coffin. Mr Bloom turned his face. And if h",
+    "start": 52492,
+    "end": 52499,
+    "canonical_text": "Finglas"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 8795798,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33270463",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "And",
+  "html_source": "<p>Molly was heart broken; Rudy was buried in lambs wool; Leopold, heirless felt bad to see Simon Dedalus' son Stephen waste his talents with this shower of losers.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33270463/James-joyce-ulysses-chap-14-oxen-of-the-sun/And",
+    "original_id": "33270463",
+    "referent_id": 33270463,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "And",
+    "prefix": "labour and as he was minded of his good lady Marion that had borne him an only manchild which on his eleventh day on live had died and no man of art could save so dark is destiny. ",
+    "suffix": " she was wondrous stricken of heart for that evil hap and for his burial did him on a fair corselet of lamb's wool, the flower of the flock, lest he might perish utterly and lie ak",
+    "start": 19037,
+    "end": 19040,
+    "canonical_text": "And"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 33270463,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

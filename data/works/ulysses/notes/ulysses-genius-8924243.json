@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8924243",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "White enamel baton",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/d33f7100589d5b12f0777ebfc07c08cc.1000x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8924243/James-joyce-ulysses-chap-11-sirens/White-enamel-baton",
+    "original_id": "8924243",
+    "referent_id": 8924243,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "white enamel baton",
+    "prefix": "e polished knob (she knows his eyes, my eyes, her eyes) her thumb and finger passed in pity: passed, repassed and, gently touching, then slid so smoothly, slowly down, a cool firm ",
+    "suffix": " protruding through their sliding ring. \n\n With a cock with a carra. \n\n Tap. Tap. Tap. \n\n I hold this house. Amen. He gnashed in fury. Traitors swing. \n\n The chords consented. Very",
+    "start": 63215,
+    "end": 63233,
+    "canonical_text": "white enamel baton"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8924243,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21182007",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Eccolo, Almidano Artifoni said in friendly haste. Venga a trovarmi e ci pensi. Addio, caro.",
+  "html_source": "<p>Italian: “There it is. Think about it and come and see me. Goodbye my friend.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21182007/James-joyce-ulysses-chap-10-wandering-rocks/Eccolo-almidano-artifoni-said-in-friendly-haste-venga-a-trovarmi-e-ci-pensi-addio-caro",
+    "original_id": "21182007",
+    "referent_id": 21182007,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Eccolo, Almidano Artifoni said in friendly haste. Venga a trovarmi e ci pensi. Addio, caro.",
+    "prefix": " \n\n — Ma, sul serio, eh? Almidano Artifoni said. \n\n His heavy hand took Stephen's firmly. Human eyes. They gazed curiously an instant and turned quickly towards a Dalkey tram. \n\n— ",
+    "suffix": " \n\n1961#228\n\n — Arrivederla, maestro, Stephen said, raising his hat when his hand was freed. E grazie. \n\n1922#219\n\n — Di che? Almidano Artifoni said. Scusi, eh? Tante belle cose! \n",
+    "start": 20371,
+    "end": 20462,
+    "canonical_text": "Eccolo, Almidano Artifoni said in friendly haste. Venga a trovarmi e ci pensi. Addio, caro."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21182007,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4143128",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "The harlot’s cry from street to street\n Shall weave old England’s windingsheet",
+  "html_source": "<p>Auguries of Innocence, William Blake</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4143128/James-joyce-ulysses-chap-2-nestor/The-harlots-cry-from-street-to-street-shall-weave-old-englands-windingsheet",
+    "original_id": "4143128",
+    "referent_id": 4143128,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "The harlot's cry from street to street\n Shall weave old England's windingsheet",
+    "prefix": "England is dying. \n\n He stepped swiftly off, his eyes coming to blue life as they passed a broad sunbeam. He faced about and back again. \n\n — Dying, he said, if not dead by now. \n\n",
+    "suffix": ". \n\n His eyes open wide in vision stared sternly across the sunbeam in which he halted. \n\n1922#331961#33\n\n — A merchant, Stephen said, is one who buys cheap and sells dear, jew or ",
+    "start": 20531,
+    "end": 20609,
+    "canonical_text": "The harlot's cry from street to street \nShall weave old England's windingsheet"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4143128,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1209714,
+        "login": "AlexBeston",
+        "name": "AlexBeston",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

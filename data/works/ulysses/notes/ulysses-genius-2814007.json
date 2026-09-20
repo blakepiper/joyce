@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2814007",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "—Qui vous a mis dans cette fichue position?\n \n —c’est le pigeon, Joseph.",
+  "html_source": "<p>From the French,</p><p>—<em>Who put you in this wretched position?</em></p><p>—<em>It was the pigeon, Joseph.</em></p><hr /><p>Recall these lines from the beginning of <a href=\"http://poetry.genius.com/James-joyce-a-portrait-of-the-artist-as-a-young-man-chap-3-annotated\" rel=\"noopener nofollow\">Chapter 3</a> of <em>A Portrait of the Artist as a Young Man</em>,</p><p>—Hello, Bertie, any good in your mind?</p><p>—Is that you, pigeon?</p><p>—Number ten. Fresh Nelly is waiting on you</p><p>—Good night, husband! Coming in to have a short time?</p><p><img src=\"https://images.rapgenius.com/725b2ae6be43e6b07a313ab926dd8817.1000x750x1.jpg\" alt=\"\" /></p><p>Toujours le pigeon…</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2814007/James-joyce-ulysses-chap-3-proteus/Qui-vous-a-mis-dans-cette-fichue-position-cest-le-pigeon-joseph",
+    "original_id": "2814007",
+    "referent_id": 2814007,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "—Qui vous a mis dans cette fichue position?\n \n —c'est le pigeon, Joseph.",
+    "prefix": "ls. \n\n He halted. I have passed the way to aunt Sara's. Am I not going there? Seems not. No-one about. He turned northeast and crossed the firmer sand towards the Pigeonhouse. \n\n— ",
+    "suffix": " \n\n Patrice, home on furlough, lapped warm milk with me in the bar MacMahon. Son of the wild goose, Kevin Egan of Paris. My father's a bird, he lapped the sweet lait chaud with pin",
+    "start": 9944,
+    "end": 10015,
+    "canonical_text": "Qui vous a mis dans cette fichue position? \n\n— C'est le pigeon, Joseph."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2814007,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

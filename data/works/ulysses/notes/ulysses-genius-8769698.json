@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8769698",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Costive",
+  "html_source": "<p>Definition of costive<br />1<br />a :  affected with constipation<br />b :  causing constipation</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8769698/James-joyce-ulysses-chap-4-calypso/Costive",
+    "original_id": "8769698",
+    "referent_id": 8769698,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Costive",
+    "prefix": " ease themselves quietly as he read, reading still patiently, that slight constipation of yesterday quite gone. Hope it's not too big bring on piles again. No, just right. So. Ah! ",
+    "suffix": ". One tabloid of cascara sagrada. Life might be so. It did not move or touch him but it was something quick and neat. Print anything now. Silly season. He read on, seated calm abov",
+    "start": 31415,
+    "end": 31422,
+    "canonical_text": "Costive"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8769698,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

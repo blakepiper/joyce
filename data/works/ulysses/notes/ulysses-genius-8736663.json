@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8736663",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "His lost property office secondhand waterproof",
+  "html_source": "<p>A coat bought from the lost property at a train station.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8736663/James-joyce-ulysses-chap-4-calypso/His-lost-property-office-secondhand-waterproof",
+    "original_id": "8736663",
+    "referent_id": 8736663,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "his lost property office secondhand waterproof",
+    "prefix": "roud of it. Still he had brains enough to make that corner in stamps. Now that was farseeing. \n\n1922#54\n\n His hand took his hat from the peg over his initialled heavy overcoat and ",
+    "suffix": ". Stamps: stickyback1932#49 pictures. Daresay lots of officers are in the swim too. Course they do. The sweated legend in the crown of his hat told him mutely: Plasto's high grade ",
+    "start": 4086,
+    "end": 4132,
+    "canonical_text": "his lost property office secondhand waterproof"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8736663,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

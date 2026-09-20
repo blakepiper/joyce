@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23883427",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "He",
+  "html_source": "<p>Poldy Bloom stood there, hearing the sad words, holding his hat.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23883427/James-joyce-ulysses-chap-14-oxen-of-the-sun/He",
+    "original_id": "23883427",
+    "referent_id": 23883427,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "He",
+    "prefix": "nd said that he was died in Mona Island through bellycrab three year agone come Childermas and she 1961#385prayed to God the Allruthful to have his dear soul in his undeathliness. ",
+    "suffix": " heard her sad words, in held hat sad staring. So stood they there both awhile in wanhope sorrowing one with other. \n\n Therefore, everyman, look to that last end that is thy death ",
+    "start": 7222,
+    "end": 7224,
+    "canonical_text": "He"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9674
+  },
+  "genius": {
+    "referent_id": 23883427,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

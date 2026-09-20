@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-1822355",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "A ponderous Saxon.",
+  "html_source": "<p>Haines is English, which at the time would have created some animosity between Irish natives who resented England’s control of their nation.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1822355/James-joyce-ulysses-chap-1-telemachus/A-ponderous-saxon",
+    "original_id": "1822355",
+    "referent_id": 1822355,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "A ponderous Saxon.",
+    "prefix": " — Yes, my love? \n\n — How long is Haines going to stay in this tower? \n\n Buck Mulligan showed a shaven cheek over his right shoulder. \n\n — God, isn't he dreadful? he said frankly. ",
+    "suffix": " He thinks you're not a gentleman. God, these bloody English! Bursting with money and indigestion. Because he comes from Oxford. You know, Dedalus, you have the real Oxford manner.",
+    "start": 2971,
+    "end": 2989,
+    "canonical_text": "A ponderous Saxon."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1822355,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 141494,
+        "login": "Soma_Cruz",
+        "name": "Soma_Cruz",
+        "role": "contributor",
+        "attribution": 0.9545454545454546
+      },
+      {
+        "id": 1732433,
+        "login": "SurgicalWizard",
+        "name": "SurgicalWizard",
+        "role": "contributor",
+        "attribution": 0.045454545454545456
+      }
+    ]
+  },
+  "color": "F59627"
+}

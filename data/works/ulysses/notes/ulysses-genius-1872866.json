@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-1872866",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Ineluctable modality of the visible:",
+  "html_source": "<p><em>The inescapable nature of what we can see.</em></p><p>The exact phrase has not been located, but it probably comes from Joyce’s translation of the French Aristotle. Each sense perceives particularly by means of the sensible qualities of the bodies perceived: hearing through sound, taste through savor, smell through odor, touch through weight, temperature, hardness/softness. Sight (in concert with the mind) perceives through color, which lies at the boundary of determined bodies. Stephen is contemplating (through Aristotle) the inescapability of the material world–in particular that aspect of it which is perceptible through the sense of sight.</p><p><img src=\"https://images.rapgenius.com/8pzkrdhqxu3534c5x0c4vsvqp.375x450x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1872866/James-joyce-ulysses-chap-3-proteus/Ineluctable-modality-of-the-visible",
+    "original_id": "1872866",
+    "referent_id": 1872866,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Ineluctable modality of the visible:",
+    "prefix": " \n\n[3]\n\n\n\n",
+    "suffix": " at least that if no more, thought through my eyes. Signatures of all things I am here to read, seaspawn and seawrack, the nearing tide, that rusty boot. Snotgreen, bluesilver, rus",
+    "start": 10,
+    "end": 46,
+    "canonical_text": "Ineluctable modality of the visible:"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1872866,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 176532,
+        "login": "biblicalmike",
+        "name": "Michael Bible",
+        "role": "verified_artist",
+        "attribution": 0.9763779527559054
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.023622047244094488
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8772505",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Valise I have a particular fancy for.",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/645d65341fa532ae2df604c24e4a0393.410x344x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8772505/James-joyce-ulysses-chap-5-lotus-eaters/Valise-i-have-a-particular-fancy-for",
+    "original_id": "8772505",
+    "referent_id": 8772505,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Valise I have a particular fancy for.",
+    "prefix": "ld. Well, tolloll. Just C. P. M'Coy will do. \n\n — That will be done, Mr Bloom answered firmly. \n\n Didn't catch me napping that wheeze. The quick touch. Soft mark. I'd like my job. ",
+    "suffix": " Leather. Capped corners, rivetted edges, double action lever lock. Bob Cowley lent him his for the Wicklow regatta concert last year and never heard tidings of it from that good d",
+    "start": 10884,
+    "end": 10921,
+    "canonical_text": "Valise I have a particular fancy for."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8772505,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10722786",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Mercator’s projection",
+  "html_source": "<p><img src=\"https://images.genius.com/e780902de4e676c5b62d7e1a4a139f42.1000x848x1.jpg\" alt=\"\" /></p><p>The two dimensional projection of the globe introduced in 1569 by Gerardus Mercator.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10722786/James-joyce-ulysses-chap-17-ithaca/Mercators-projection",
+    "original_id": "10722786",
+    "referent_id": 10722786,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Mercator's projection",
+    "prefix": "ater, watercarrier, returning to the range, admire? \n\n Its universality: its democratic equality and constancy to its nature in seeking its own level: its vastness in the ocean of ",
+    "suffix": ": its unplumbed profundity in the Sundam trench of the Pacific exceeding 8,000 fathoms: the restlessness of its waves and surface particles visiting in turn all points of its seabo",
+    "start": 12164,
+    "end": 12185,
+    "canonical_text": "Mercator's projection"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10722786,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

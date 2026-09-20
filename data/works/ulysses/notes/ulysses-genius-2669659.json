@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-2669659",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Though his nose is not so big",
+  "html_source": "<p>A small nose was supposed to indicate a small penis, and a big one the opposite (just as today we say the same of “big feet”), so Molly is curious as to why Boylan’s nose was not so big when he had that “tremendous big red brute of a thing.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2669659/James-joyce-ulysses-chap-18-penelope/Though-his-nose-is-not-so-big",
+    "original_id": "2669659",
+    "referent_id": 2669659,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "though his nose is not so big",
+    "prefix": "lit the lamp because he must have come 3 or 4 times with that tremendous big red brute of a thing he has I thought the vein or whatever the dickens they call it was going to burst ",
+    "suffix": " after I took off all my things with the blinds down after my hours dressing and perfuming and combing it like iron or some kind of a thick crowbar standing all the time he must ha",
+    "start": 10831,
+    "end": 10860,
+    "canonical_text": "though his nose is not so big"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2669659,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 616345,
+        "login": "DonRocin",
+        "name": "DonRocin",
+        "role": null,
+        "attribution": 0.6181818181818182
+      },
+      {
+        "id": 406252,
+        "login": "gimblewart",
+        "name": "gimblewart",
+        "role": null,
+        "attribution": 0.2
+      },
+      {
+        "id": 149810,
+        "login": "perfectrhyme",
+        "name": "Perfectrhyme",
+        "role": "editor",
+        "attribution": 0.18181818181818182
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8769445",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Lough Owel",
+  "html_source": "<p>Lough Owel (Irish: Loch Úll) is a mesotrophic lough in the Midlands of Ireland, situated north of Mullingar, the county town of Westmeath</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8769445/James-joyce-ulysses-chap-4-calypso/Lough-owel",
+    "original_id": "8769445",
+    "referent_id": 8769445,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "lough Owel",
+    "prefix": " in the photo business now. Mr Coghlan took one of me and Mrs will send when developed. We did great biz yesterday. Fair day and all the beef to the heels were in. We are going to ",
+    "suffix": " on Monday with a few friends to make a scrap picnic. Give my love to mummy and to yourself a big kiss and thanks. I hear them at the piano downstairs. There is to be a concert in ",
+    "start": 24843,
+    "end": 24853,
+    "canonical_text": "lough Owel"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 8769445,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

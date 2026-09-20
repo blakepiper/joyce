@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13694282",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Sedulously",
+  "html_source": "<p>Applying constant and enduring effort to a task or course of action</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13694282/James-joyce-ulysses-chap-14-oxen-of-the-sun/Sedulously",
+    "original_id": "13694282",
+    "referent_id": 13694282,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "sedulously",
+    "prefix": "e 1961#383been highly honoured. Not to speak of 1986#314hostels, leperyards, sweating chambers, plaguegraves, their greatest doctors, the O'Shiels, the O'Hickeys, the O'Lees, have ",
+    "suffix": " set down the divers methods by which the sick and the relapsed found again health whether the malady had been the trembling withering or loose boyconnell flux. Certainly in every ",
+    "start": 2548,
+    "end": 2558,
+    "canonical_text": "sedulously"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13694282,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

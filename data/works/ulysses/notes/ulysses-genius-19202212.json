@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-19202212",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "The constellation of the Corona Septentrionalis",
+  "html_source": "<p><img src=\"https://images.genius.com/c0f66fa9c42ef6b484fce854c9ac3dc1.534x534x1.jpg\" alt=\"\" /></p><p><img src=\"https://images.genius.com/40281e99c4d36a41003cd4cf2ee942ac.1000x856x1.jpg\" alt=\"\" /></p><p><img src=\"https://images.genius.com/6edd4760c3a97b1eb231550cf0f2ff11.903x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/19202212/James-joyce-ulysses-chap-17-ithaca/The-constellation-of-the-corona-septentrionalis",
+    "original_id": "19202212",
+    "referent_id": 19202212,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "the constellation of the Corona Septentrionalis",
+    "prefix": " the recumbent neversetting constellation of Cassiopeia and of a star (2nd magnitude) of 1961#700similar origin but of lesser brilliancy which had appeared in and disappeared from ",
+    "suffix": " about the period of the birth of Leopold Bloom and of other stars of (presumably) similar origin which had (effectively or presumably) appeared in and disappeared from the constel",
+    "start": 71564,
+    "end": 71611,
+    "canonical_text": "the constellation of the Corona Septentrionalis"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 19202212,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 4002447,
+        "login": "SmartMonkey",
+        "name": "SmartMonkey",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

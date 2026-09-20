@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3889011",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Beurla",
+  "html_source": "<p>English (in the Irish language) is <em>béarla</em>.</p><p><em>Beurre</em> is French for butter- this is a continuation of the dairy puns originating from AE/George Russell’s job with the Irish Agricultural Organistaion Society.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3889011/James-joyce-ulysses-chap-9-scylla-and-charybdis/Beurla",
+    "original_id": "3889011",
+    "referent_id": 3889011,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "beurla",
+    "prefix": "d or who is guilty... \n\n He rested an innocent book on the edge of the desk, smiling his defiance. His private papers in the original. Ta an bad ar an tir. Taim in mo shagart. Put ",
+    "suffix": " on it, littlejohn. \n\n Quoth littlejohn Eglinton: \n\n — I was prepared for paradoxes from what Malachi Mulligan told us but I may as well warn you that if you want to shake my belie",
+    "start": 20753,
+    "end": 20759,
+    "canonical_text": "beurla"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3889011,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

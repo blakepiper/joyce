@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4531378",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "I knew well Id never have another",
+  "html_source": "<p>It is not clear why she “knew” this.  It appears that she is still able to get pregnant because she tells us that she sometimes takes precautions.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4531378/James-joyce-ulysses-chap-18-penelope/I-knew-well-id-never-have-another",
+    "original_id": "4531378",
+    "referent_id": 4531378,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "I knew well Id never have another",
+    "prefix": "f the naked street that disheartened me altogether I suppose I oughtnt to have buried him in that little woolly jacket I knitted crying as I was but give it to some poor child but ",
+    "suffix": " our 1st death too it was we were never the same since O Im not going to think myself into the glooms about that any more I wonder why he wouldnt stay the night I felt all the time",
+    "start": 107722,
+    "end": 107755,
+    "canonical_text": "I knew well Id never have another"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4531378,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

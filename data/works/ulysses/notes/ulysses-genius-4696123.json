@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4696123",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Dominie",
+  "html_source": "<p>Scottish slang for teacher (Gifford).</p><p>Dominie originates from the Latin word Dominus. <em>The Pocket Oxford Latin Dictionary</em> (1994) gives the following definitions for dominus:</p><blockquote><p>Master of the house<br />Owner<br />Lord, ruler<br />Host</p></blockquote>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4696123/James-joyce-ulysses-chap-3-proteus/Dominie",
+    "original_id": "4696123",
+    "referent_id": 4696123,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Dominie",
+    "prefix": "ends of his legs, nebeneinander. Sounds solid: made by the mallet of Los Demiurgos. Am I walking into eternity along Sandymount strand? Crush, crack, crick, crick. Wild sea money. ",
+    "suffix": " Deasy kens them a'. \n\nWon't you come to Sandymount, \nMadeline the mare? \n\n Rhythm begins, you see. I hear. A catalectic tetrameter of iambs marching. No, agallop: deline the mare.",
+    "start": 1343,
+    "end": 1350,
+    "canonical_text": "Dominie"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4696123,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1780288,
+        "login": "JohnRivers",
+        "name": "JohnRivers",
+        "role": null,
+        "attribution": 0.84375
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.15625
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8774228",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Turns blue litmus paper red",
+  "html_source": "<p>Blue litmus paper turns red under acidic conditions</p><p><img src=\"https://images.rapgenius.com/ad056d82022f3cdf7e09a8c1ac76338a.190x250x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8774228/James-joyce-ulysses-chap-5-lotus-eaters/Turns-blue-litmus-paper-red",
+    "original_id": "8774228",
+    "referent_id": 8774228,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "turns blue litmus paper red",
+    "prefix": "self a bit. Electuary or emulsion. The first fellow that picked an herb to cure himself had a bit of pluck. Simples. Want to be careful. Enough stuff here to chloroform you. Test: ",
+    "suffix": ". Chloroform. Overdose of laudanum. Sleeping draughts. Lovephiltres. Paragoric poppysyrup bad for cough. Clogs the pores or the phlegm. Poisons the only cures. Remedy where you lea",
+    "start": 30929,
+    "end": 30956,
+    "canonical_text": "turns blue litmus paper red"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8774228,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

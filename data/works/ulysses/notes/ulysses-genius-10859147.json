@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10859147",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "The Hidden Life of Christ",
+  "html_source": "<p><a href=\"https://archive.org/details/TheHiddenLifeOfJesus\" rel=\"noopener nofollow\">https://archive.org/details/TheHiddenLifeOfJesus</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10859147/James-joyce-ulysses-chap-17-ithaca/The-hidden-life-of-christ",
+    "original_id": "10859147",
+    "referent_id": 10859147,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "The Hidden Life of Christ",
+    "prefix": ". \nA Handbook of Astronomy (cover, brown leather, detached, 5 plates, antique letterpress long primer, author's footnotes nonpareil, marginal clues brevier, captions small pica). \n",
+    "suffix": " (black boards). 932#6131922#661\nIn the Track of the Sun (yellow cloth, titlepage missing, recurrent title intestation). \nPhysical Strength and How to Obtain It by Eugen Sandow (re",
+    "start": 88039,
+    "end": 88064,
+    "canonical_text": "The Hidden Life of Christ"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10859147,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3251028",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "The",
+  "html_source": "<p>The previous line <em>More Irish than the Irish</em> derives from the gaelicisation of the Normans who came to Ireland in the 12th century.</p><p>Apologies mods but I came across this in school as gaeilge na <em>d'eirigh said nios gaelai na na ngael fein</em>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3251028/James-joyce-ulysses-chap-7-aeolus/The",
+    "original_id": "3251028",
+    "referent_id": 3251028,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "The",
+    "prefix": "and. World's biggest balloon. Double marriage of sisters celebrated. Two bridegrooms laughing heartily at each other. Cuprani too, printer. More Irish than the Irish. \n\n1932#106\n\n ",
+    "suffix": " machines clanked in threefour time. Thump, thump, thump. Now if he got paralysed there and no-one knew how to stop them they'd clank on and on the same, print it over and over and",
+    "start": 5572,
+    "end": 5575,
+    "canonical_text": "The"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9615
+  },
+  "genius": {
+    "referent_id": 3251028,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

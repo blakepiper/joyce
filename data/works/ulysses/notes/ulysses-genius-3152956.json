@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3152956",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Hyde’s Lovesongs of Connacht",
+  "html_source": "<p>Douglas Hyde was the first president of Ireland and a champion of the Gaelic revival.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3152956/James-joyce-ulysses-chap-9-scylla-and-charybdis/Hydes-lovesongs-of-connacht",
+    "original_id": "3152956",
+    "referent_id": 3152956,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Hyde's Lovesongs of Connacht",
+    "prefix": "ward, amiable, towards his colleague. \n\n1932#166\n\n — Haines is gone, he said. \n\n — Is he? \n\n — I was showing him Jubainville's book. He's quite enthusiastic, don't you know, about ",
+    "suffix": ". I couldn't bring him in to hear the discussion. He's gone to Gill's to buy it. \n\n1922#178\n\n Bound thee forth, my booklet, quick \nTo greet the callous public. \nWrit, I ween, 'twas",
+    "start": 5387,
+    "end": 5415,
+    "canonical_text": "Hyde's Lovesongs of Connacht"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9097
+  },
+  "genius": {
+    "referent_id": 3152956,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 591961,
+        "login": "dbrannen",
+        "name": "dbrannen",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

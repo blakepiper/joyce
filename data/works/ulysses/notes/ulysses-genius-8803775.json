@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8803775",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Fustian",
+  "html_source": "<p>fus·tian<br />noun<br />1. thick, durable twilled cloth with a short nap, usually dyed in dark colors.<br />2. pompous or pretentious speech or writing.<br />“a smoke screen of fustian and fantasy”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8803775/James-joyce-ulysses-chap-7-aeolus/Fustian",
+    "original_id": "8803775",
+    "referent_id": 8803775,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "fustian",
+    "prefix": "e years in Fumbally's lane. \n\n — Where is that? the professor asked. \n\n — Off Blackpitts. \n\n Damp night reeking of hungry dough. Against the wall. Face glistening tallow under her ",
+    "suffix": " shawl. Frantic hearts. Akasic records. Quicker, darlint! \n\n On now. Dare it. Let there be life. \n\n — They want to see the views of Dublin from the top of Nelson's pillar. They sav",
+    "start": 51598,
+    "end": 51605,
+    "canonical_text": "fustian"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8803775,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

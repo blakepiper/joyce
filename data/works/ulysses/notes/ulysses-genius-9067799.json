@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9067799",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Walker’s pronouncing dictionary",
+  "html_source": "<p>John Walker started publishing dictionaries in 1791 and the brand continued long after his death.<br /><a href=\"http://www.johnwalkerdictionaries.co.uk/doku.php?id=background\" rel=\"noopener nofollow\">http://www.johnwalkerdictionaries.co.uk/doku.php?id=background</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9067799/James-joyce-ulysses-chap-13-nausicaa/Walkers-pronouncing-dictionary",
+    "original_id": "9067799",
+    "referent_id": 9067799,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Walker's pronouncing dictionary",
+    "prefix": "she went there for a certain purpose and felt her own arms that were white and soft just like hers with the sleeves back and thought about those times because she had found out in ",
+    "suffix": " that belonged to grandpapa Giltrap about the halcyon days what they meant. \n\n The twins were now playing in the most approved brotherly fashion, till at last Master Jacky who was ",
+    "start": 24052,
+    "end": 24083,
+    "canonical_text": "Walker's pronouncing dictionary"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9067799,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

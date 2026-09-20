@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795515",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Romeo",
+  "html_source": "<p>Romeo and Juliet Act 4-5<br />Romeo receives news of Juliet’s supposed death. Desperate, Romeo buys poison from an apothecary and returns to Verona. Late that night, Romeo enters the Capulet tomb, but is confronted by Paris, whom he fights and kills.<br />Still unaware that Juliet is in fact alive, Romeo takes the poison and dies.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795515/James-joyce-ulysses-chap-6-hades/Romeo",
+    "original_id": "8795515",
+    "referent_id": 8795515,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Romeo",
+    "prefix": "d kiss all right if properly keyed up. Whores in Turkish graveyards. Learn anything if taken young. You might pick up a young widow here. Men like that. Love among the tombstones. ",
+    "suffix": ". Spice of pleasure. In the midst of death we are in life. Both ends meet. Tantalising for the poor dead. Smell of grilled beefsteaks to the starving. Gnawing their vitals. Desire ",
+    "start": 45492,
+    "end": 45497,
+    "canonical_text": "Romeo"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8795515,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

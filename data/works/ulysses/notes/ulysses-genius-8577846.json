@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8577846",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Hairy Iopas",
+  "html_source": "<p>The citizen compares William Field with “long-haired” Iopas, a character from Virgil’s <em>Aenid</em>, who sings, drinks and plays his lyre. Field frequently sang in Blackrock Townhall to aid charitable causes, and had a bard’s harp in his coat of arms.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8577846/James-joyce-ulysses-chap-12-cyclops/Hairy-iopas",
+    "original_id": "8577846",
+    "referent_id": 8577846,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Hairy Iopas",
+    "prefix": ". The mimber? \n\n — I won't mention any names, says Alf. \n\n — I thought so, says Joe. I saw him up at that meeting now with William Field, M. P., the cattle traders. \n\n1961#314\n\n — ",
+    "suffix": ", says the citizen, that exploded volcano, the darling of all countries and the idol of his own. \n\n So Joe starts telling the citizen about the foot and mouth disease and the cattl",
+    "start": 53604,
+    "end": 53615,
+    "canonical_text": "Hairy Iopas"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8577846,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

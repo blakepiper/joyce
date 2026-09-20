@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10568178",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Rashers",
+  "html_source": "<p>A thin slice of bacon.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10568178/James-joyce-ulysses-chap-1-telemachus/Rashers",
+    "original_id": "10568178",
+    "referent_id": 10568178,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "rashers",
+    "prefix": "gan answered. \n\n He turned towards Stephen and said: \n\n — Look at the sea. What does it care about offences? Chuck Loyola, Kinch, and come on down. The Sassenach wants his morning ",
+    "suffix": ". \n\n His head halted again for a moment at the top of the staircase, level with the roof: \n\n — Don't mope over it all day, he said. I'm inconsequent. Give up the moody brooding. \n\n",
+    "start": 13607,
+    "end": 13614,
+    "canonical_text": "rashers"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10568178,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3789952,
+        "login": "lanes_haves",
+        "name": "lanes_haves",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

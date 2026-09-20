@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-24776943",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Temple",
+  "html_source": "<p>Temple also shows up as one of Stephen’s fellow students in <em>A Portrait of the Artist as a Young Man</em>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/24776943/James-joyce-ulysses-chap-3-proteus/Temple",
+    "original_id": "24776943",
+    "referent_id": 24776943,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Temple",
+    "prefix": "hedral close. A hater 1932#36of his kind ran from them to the wood of madness, his mane foaming in the moon, his eyeballs stars. Houyhnhnm, horsenostrilled. The oval equine faces, ",
+    "suffix": ", Buck Mulligan, Foxy Campbell, Lanternjaws. Abbas father, furious dean, what offence laid 1961#39fire to their brains? Paff! Descende, calve, ut ne nimium decalveris. A garland of",
+    "start": 6658,
+    "end": 6664,
+    "canonical_text": "Temple"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 24776943,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

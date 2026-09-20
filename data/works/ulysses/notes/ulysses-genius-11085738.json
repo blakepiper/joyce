@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11085738",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Mrs Maybrick",
+  "html_source": "<p><a href=\"http://murderpedia.org/female.M/m/maybrick-florence.htm\" rel=\"noopener nofollow\">http://murderpedia.org/female.M/m/maybrick-florence.htm</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11085738/James-joyce-ulysses-chap-18-penelope/Mrs-maybrick",
+    "original_id": "11085738",
+    "referent_id": 11085738,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Mrs Maybrick",
+    "prefix": " their sex of course hed never find another woman like me to put up with him the way I do know me come sleep with me yes and he knows that too at the bottom of his heart take that ",
+    "suffix": " that poisoned her husband for what I wonder in love with some other man yes it was found out on her wasnt she the downright villain to go and do a thing like that of course some m",
+    "start": 17448,
+    "end": 17460,
+    "canonical_text": "Mrs Maybrick"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11085738,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

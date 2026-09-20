@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8922119",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Dummy pianos",
+  "html_source": "<p>Bloom’s idea would appear in the electronic age<br /><a href=\"http://usa.yamaha.com/products/musical-instruments/keyboards/silentpianos/\" rel=\"noopener nofollow\">http://usa.yamaha.com/products/musical-instruments/keyboards/silentpianos/</a></p><p>A silent piano is an acoustic piano where there is an option to silence the strings by stopping the hammers from striking them. A silent piano is designed for private silent practice. In the silent mode, sensors pick up the piano key movement, converting it to a MIDI signal that can be sent to an electronic sound module, allowing the person playing to utilize headphones. The pianos also have full MIDI capability for sending signals and can be linked to a computer for use with notation software, etc.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8922119/James-joyce-ulysses-chap-11-sirens/Dummy-pianos",
+    "original_id": "8922119",
+    "referent_id": 8922119,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "dummy pianos",
+    "prefix": "acle race. Time makes the tune. Question of mood you're in. Still always nice to hear. Except scales up and down, girls learning. Two together nextdoor neighbours. Ought to invent ",
+    "suffix": " for that. Blumenlied I bought for her. The name. Playing it slow, a girl, night I came home, the girl. Door of the stables near Cecilia street. Milly no taste. Queer because we bo",
+    "start": 46371,
+    "end": 46383,
+    "canonical_text": "dummy pianos"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8922119,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

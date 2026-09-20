@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-28375188",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Bronze whiteness.",
+  "html_source": "<p>Refers back to “Flushed less, still less, goldenly paled.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/28375188/James-joyce-ulysses-chap-11-sirens/Bronze-whiteness",
+    "original_id": "28375188",
+    "referent_id": 28375188,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Bronze whiteness.",
+    "prefix": "er hand. Enjoyed her holidays? \n\n — Tiptop. \n\n He hoped she had nice weather in Rostrevor. \n\n — Gorgeous, she said. Look at the holy show I am. Lying out on the strand all day. \n\n ",
+    "suffix": " \n\n — That was exceedingly naughty of you, Mr Dedalus told her and pressed her hand indulgently. Tempting poor simple males. \n\n Miss Douce of satin douced her arm away. \n\n — O go a",
+    "start": 9797,
+    "end": 9814,
+    "canonical_text": "Bronze whiteness."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 28375188,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 14241959,
+        "login": "MartinMiaowtin",
+        "name": "MartinMiaowtin",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

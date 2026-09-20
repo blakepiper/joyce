@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4162005",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Duces Tecum",
+  "html_source": "<p>Latin, Bring with you; you have to take some documents with you when you go to court.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4162005/James-joyce-ulysses-chap-3-proteus/Duces-tecum",
+    "original_id": "4162005",
+    "referent_id": 4162005,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Duces Tecum",
+    "prefix": "\n1986#32\n\n He lays aside the lapboard whereon he drafts his bills of costs for the eyes of master Goff and master Shapland Tandy, filing consents and common searches and a writ of ",
+    "suffix": ". A bogoak frame over his bald head: Wilde's Requiescat. The drone of his misleading whistle brings Walter back. \n\n — Yes, sir? \n\n — Malt for Richie and Stephen, tell mother. Where",
+    "start": 5090,
+    "end": 5101,
+    "canonical_text": "Duces Tecum"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4162005,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1209714,
+        "login": "AlexBeston",
+        "name": "AlexBeston",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

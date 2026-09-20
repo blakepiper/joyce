@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3982468",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Peep",
+  "html_source": "<p>Lenehan flirts with Miss Kennedy (Gifford).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3982468/James-joyce-ulysses-chap-11-sirens/Peep",
+    "original_id": "3982468",
+    "referent_id": 3982468,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Peep",
+    "prefix": " \n\n A husky fifenote blew. \n\n Blew. Blue bloom is on the. \n\n Goldpinnacled hair. \n\n A jumping rose on satiny breasts of satin, rose of Castile. \n\n Trilling, trilling: Idolores. \n\n ",
+    "suffix": "! Who's in the... peepofgold? \n\n Tink cried to bronze in pity. \n\n1932#229\n\n And a call, pure, long and throbbing. Longindying call. \n\n Decoy. Soft word. But look! The bright stars ",
+    "start": 352,
+    "end": 356,
+    "canonical_text": "Peep"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9303
+  },
+  "genius": {
+    "referent_id": 3982468,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

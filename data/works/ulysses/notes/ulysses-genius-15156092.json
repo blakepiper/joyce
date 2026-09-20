@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15156092",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Cames",
+  "html_source": "<p>This should be “carries”. Likely the image-to-text process has created several minor errors of transcription in this and in subsequent chapters.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15156092/James-joyce-ulysses-chap-15-circe/Cames",
+    "original_id": "15156092",
+    "referent_id": 15156092,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "cames",
+    "prefix": " Philip Beaufoy, palefaced, stands in the witnessbox, in accurate morning dress, outbreast pocket with peak of handkerchief showing, creased lavender trousers and patent boots. He ",
+    "suffix": " a lace portfolio labelled Matcham's Masterstrokes.)\n\nBEAUFOY (Drawls.) No, you aren't, not by a long shot if I know it. I don't see it, that's all. No born gentleman, no one with ",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.6
+  },
+  "genius": {
+    "referent_id": 15156092,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

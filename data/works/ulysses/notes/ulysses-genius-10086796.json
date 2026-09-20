@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10086796",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Svengali",
+  "html_source": "<p>Svengali is a fictional character in George du Maurier’s 1895 novel Trilby. Svengali is a man of Eastern European origin who seduces, dominates and exploits Trilby, a young English girl, and makes her a famous singer.<br /><a href=\"https://en.wikipedia.org/wiki/Svengali\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Svengali</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10086796/James-joyce-ulysses-chap-15-circe/Svengali",
+    "original_id": "10086796",
+    "referent_id": 10086796,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Svengali",
+    "prefix": " at the bazaar does have lovely ones. Full of the best liqueurs. And the viceroy was there with his lady. The gas we had on the Toft's hobbyhorses. I'm giddy still. \n\n BLOOM \n\n(In ",
+    "suffix": "'s fur overcoat, with folded arms and Napoleonic forelock, frowns in ventriloquial exorcism with piercing eagle glance towards the door. Then rigid with left foot advanced he makes",
+    "start": 136684,
+    "end": 136692,
+    "canonical_text": "Svengali"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10086796,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

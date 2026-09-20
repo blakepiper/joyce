@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-2473096",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Mirth",
+  "html_source": "<p>Mirth = Laughter</p><p>PROPOSED SUGGESTION: we don’t need an annotation for the word ‘mirth’. it’s not accurate, either.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2473096/James-joyce-ulysses-chap-1-telemachus/Mirth",
+    "original_id": "2473096",
+    "referent_id": 2473096,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "mirth",
+    "prefix": "rl. She heard old Royce sing1986#8 in the pantomime of Turko the terrible and laughed with others when he sang: \n\nI am the boy \nThat can enjoy \nInvisibility. \n\n1932#9\n\n Phantasmal ",
+    "suffix": ", folded away: muskperfumed. \n\nAnd no more turn aside and brood. \n\n Folded away in the memory of nature with her toys. Memories beset his brooding brain. Her glass of water from th",
+    "start": 15128,
+    "end": 15133,
+    "canonical_text": "mirth"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2473096,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.8823529411764706
+      },
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 0.11764705882352942
+      }
+    ]
+  },
+  "color": "F59627"
+}

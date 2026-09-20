@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4252310",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "I like that in him polite to old women",
+  "html_source": "<p>Molly then balances her initial criticism of Leopold with a positive trait ; politeness.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4252310/James-joyce-ulysses-chap-18-penelope/I-like-that-in-him-polite-to-old-women",
+    "original_id": "4252310",
+    "referent_id": 4252310,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "I like that in him polite to old women",
+    "prefix": "out Mr Riordan here and Mr Riordan there I suppose he was glad to get shut of her and her dog smelling my fur and always edging to get up under my petticoats especially then still ",
+    "suffix": " like that and waiters and beggars too hes not proud out of nothing but not always if ever he got anything really serious the matter with him its much better for them to go into a ",
+    "start": 1137,
+    "end": 1175,
+    "canonical_text": "I like that in him polite to old women"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4252310,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

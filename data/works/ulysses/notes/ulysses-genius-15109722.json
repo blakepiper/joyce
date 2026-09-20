@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15109722",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Codding",
+  "html_source": "<p>Seems to mean “lying” from context, but all dictionaries point to an archaic term meaning lustful or lecherous.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15109722/James-joyce-ulysses-chap-12-cyclops/Codding",
+    "original_id": "15109722",
+    "referent_id": 15109722,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "codding",
+    "prefix": "hanging, I'll show you something you never saw. Hangmen's letters. Look at here. \n\n1986#246\n\n So he took a bundle of wisps of letters and envelopes out of his pocket. \n\n — Are you ",
+    "suffix": "? says I. \n\n — Honest injun, says Alf. Read them. \n\n So Joe took up the letters. \n\n — Who are you laughing at? says Bob Doran. \n\n So I saw there was going to be a bit of a dust Bob",
+    "start": 19625,
+    "end": 19632,
+    "canonical_text": "codding"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9355
+  },
+  "genius": {
+    "referent_id": 15109722,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

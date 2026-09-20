@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23879264",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "The",
+  "html_source": "<p>Nurse Callan said it shouldn’t be long now; she’s been in labor for three days.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23879264/James-joyce-ulysses-chap-14-oxen-of-the-sun/The",
+    "original_id": "23879264",
+    "referent_id": 23879264,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "The",
+    "prefix": "m at the last for to go as he came. \n\n The man that was come into the house then spoke to the nursingwoman and he asked her how it fared with the woman that lay there in childbed. ",
+    "suffix": " nursingwoman answered him and said that that woman was in throes now full three days and that it would be a hard birth unneth to bear but that now in a little it would be. She sai",
+    "start": 7728,
+    "end": 7731,
+    "canonical_text": "The"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 23879264,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

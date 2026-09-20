@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15109305",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Bedight",
+  "html_source": "<p>Term meaning adorned or bedecked</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15109305/James-joyce-ulysses-chap-12-cyclops/Bedight",
+    "original_id": "15109305",
+    "referent_id": 15109305,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "bedight",
+    "prefix": "w him before I met you, says I, sloping around by Pill lane and Greek street with his cod's eye counting up all the guts of the fish. \n\n1986#244\n\n Who comes through Michan's land, ",
+    "suffix": " in sable armour? O'Bloom, the son of Rory: it is he. Impervious to fear is Rory's son: he of the prudent soul. \n\n — For the old woman of Prince's street, says the citizen, the 196",
+    "start": 13973,
+    "end": 13980,
+    "canonical_text": "bedight"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15109305,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

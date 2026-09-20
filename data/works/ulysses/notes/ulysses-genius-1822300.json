@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-1822300",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Gunrest",
+  "html_source": "<p>A raised circular platform in the center of the tower’s flat roof, once used as a swivel-gun mount.</p><p><img src=\"https://images.rapgenius.com/f7838bab64e1dea041df356960ba3ab7.350x262x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1822300/James-joyce-ulysses-chap-1-telemachus/Gunrest",
+    "original_id": "1822300",
+    "referent_id": 1822300,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "gunrest",
+    "prefix": " Dei. \n\n Halted, he peered down the dark winding stairs and called up coarsely: \n\n — Come up, Kinch! Come up, you fearful jesuit. \n\n Solemnly he came forward and mounted the round ",
+    "suffix": ". He faced about and blessed gravely thrice the tower, the surrounding country and the awaking mountains. Then, catching sight of Stephen Dedalus, he bent towards him and made rapi",
+    "start": 466,
+    "end": 473,
+    "canonical_text": "gunrest"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9598
+  },
+  "genius": {
+    "referent_id": 1822300,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 293151,
+        "login": "jeeho",
+        "name": "Jeeho",
+        "role": "contributor",
+        "attribution": 0.625
+      },
+      {
+        "id": 176532,
+        "login": "biblicalmike",
+        "name": "Michael Bible",
+        "role": "verified_artist",
+        "attribution": 0.375
+      }
+    ]
+  },
+  "color": "F59627"
+}

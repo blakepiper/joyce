@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20260528",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "He swears (His Highness not His Lordship) by saint Patrick.",
+  "html_source": "<p>That is, Hamlet swears, not Judge Barton.<br /><em>Hamlet</em> 1.5:<br />HORATIO: There’s no offence my lord.<br />HAMLET: Yes, by Saint Patrick, but there is Horatio,<br />And much offense too.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20260528/James-joyce-ulysses-chap-9-scylla-and-charybdis/He-swears-his-highness-not-his-lordship-by-saint-patrick",
+    "original_id": "20260528",
+    "referent_id": 20260528,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "He swears (His Highness not His Lordship) by saint Patrick.",
+    "prefix": "ndredandeighth time last night in Dublin. Vining held that the prince was a woman. Has no-one made him out to be an Irishman? Judge Barton, I believe, is searching for some clues. ",
+    "suffix": " \n\n — The most brilliant of all is that story of Wilde's, Mr Best said, lifting his brilliant notebook. That Portrait of Mr W. H. where he proves that the sonnets were written by a",
+    "start": 29741,
+    "end": 29800,
+    "canonical_text": "He swears (His Highness not His Lordship) by saint Patrick."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20260528,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11041825,
+        "login": "raggedclaws",
+        "name": "raggedclaws",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

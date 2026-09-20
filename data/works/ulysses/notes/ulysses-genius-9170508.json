@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9170508",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Baisemoins",
+  "html_source": "<p>an alternate spelling of baise-mains?<br />polite manner to greet or leave a lady, by kissing her hand</p><p><img src=\"https://images.genius.com/4604987d4419c040731ecef8eda263af.485x500x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9170508/James-joyce-ulysses-chap-14-oxen-of-the-sun/Baisemoins",
+    "original_id": "9170508",
+    "referent_id": 9170508,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "baisemoins",
+    "prefix": "rful of compliant smiles for this or that halfwon housewife reckoning it out upon her fingertips or for a budding virgin, shyly acknowledging (but the heart? tell me!) his studied ",
+    "suffix": ". The scent, the smile, but, more than these, the dark eyes and oleaginous address, brought home at duskfall many a commission to the head of the firm, seated with Jacob's pipe aft",
+    "start": 76429,
+    "end": 76439,
+    "canonical_text": "baisemoins"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9170508,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15130534",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Ostiarii",
+  "html_source": "<p>A Latin word meaning gaterkeepers, porters, doormen, etc.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15130534/James-joyce-ulysses-chap-12-cyclops/Ostiarii",
+    "original_id": "15130534",
+    "referent_id": 15130534,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "ostiarii",
+    "prefix": "er. \n\n — Amen, says the citizen. \n\n — And I'm sure He will, says Joe. \n\n And at the sound of the sacring bell, headed by a crucifer with acolytes, thurifers, boatbearers, readers, ",
+    "suffix": ", deacons and subdeacons, the blessed company drew nigh of mitred abbots and priors and guardians and monks and friars: the 1961#338monks of Benedict of Spoleto, Carthusians and Ca",
+    "start": 107059,
+    "end": 107067,
+    "canonical_text": "ostiarii"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15130534,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

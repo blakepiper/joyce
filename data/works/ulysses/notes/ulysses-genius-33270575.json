@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33270575",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Leave",
+  "html_source": "<p>Give ‘em some bread – those that live by bread alone – presumably Stephen is continuing his drunken, irreverent drivel.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33270575/James-joyce-ulysses-chap-14-oxen-of-the-sun/Leave",
+    "original_id": "33270575",
+    "referent_id": 33270575,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Leave",
+    "prefix": "e vicar of Christ which also as he said is vicar of Bray. Now drink we, quod he, of this mazer and quaff ye this mead which is not indeed parcel of my body but my soul's bodiment. ",
+    "suffix": " ye fraction of bread to them that live by bread alone. Be not afeard neither for any want for this will comfort more than the other will dismay. See ye here. And he showed them gl",
+    "start": 20150,
+    "end": 20155,
+    "canonical_text": "Leave"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 33270575,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

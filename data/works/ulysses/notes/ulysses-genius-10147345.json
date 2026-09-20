@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10147345",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Atavism",
+  "html_source": "<p>Biology.<br />the reappearance in an individual of characteristics of some remote ancestor that have been absent in intervening generations.<br />dictionary.com</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10147345/James-joyce-ulysses-chap-15-circe/Atavism",
+    "original_id": "10147345",
+    "referent_id": 10147345,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "atavism",
+    "prefix": "as no attempt at carnally knowing. Intimacy did not occur and the offence complained of by Driscoll, that her virtue was solicited, was not repeated. I would deal in especial with ",
+    "suffix": ". There have been cases of shipwreck and somnambulism in my client's family. If the accused could speak he could a tale unfold — one of the strangest that have ever been narrated b",
+    "start": 47170,
+    "end": 47177,
+    "canonical_text": "atavism"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10147345,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

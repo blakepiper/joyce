@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3184321",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Gill’s",
+  "html_source": "<p><a href=\"http://irishsportsart.com/wp-content/uploads/2011/04/Gills-Near-Croke-park.jpg\" rel=\"noopener nofollow\">North Circular Road</a>?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3184321/James-joyce-ulysses-chap-6-hades/Gills",
+    "original_id": "3184321",
+    "referent_id": 3184321,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Gill's",
+    "prefix": " over. Like dying in sleep. \n\n No-one spoke. \n\n Dead side of the street this. Dull business by day, land agents, temperance hotel, Falconer's railway guide, civil service college, ",
+    "suffix": ", catholic club, the industrious blind. Why? Some reason. Sun or wind. At night too. Chummies and slaveys. Under the patronage of the late Father Mathew. Foundation stone for Parne",
+    "start": 18251,
+    "end": 18257,
+    "canonical_text": "Gill's"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3184321,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

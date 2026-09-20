@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4833867",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "The third profession",
+  "html_source": "<p>Law; the other two are medicine and theology. They form the three higher faculties of Medieval education, which could be studied after the Master of Arts degree had been attained.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4833867/James-joyce-ulysses-chap-7-aeolus/The-third-profession",
+    "original_id": "4833867",
+    "referent_id": 4833867,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "the third profession",
+    "prefix": " palely, took up the gage. \n\n — My dear Myles, he said, flinging his cigarette aside, you put a false construction on my words. I hold no brief, as at1961#138 present advised, for ",
+    "suffix": " qua profession but your Cork legs are running1932#123 away with you. Why not bring in Henry Grattan and Flood and Demosthenes and Edmund Burke? Ignatius Gallaher we all know and h",
+    "start": 39981,
+    "end": 40001,
+    "canonical_text": "the third profession"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4833867,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.7333333333333333
+      },
+      {
+        "id": 1482232,
+        "login": "JayEn",
+        "name": "JayEn",
+        "role": "editor",
+        "attribution": 0.26666666666666666
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-34886018",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Chlorotic",
+  "html_source": "<p>Chlorosis is a diseased condition in green plants marked by yellowing or blanching. This is in accord with the jaundice (a condition marked by yellow skin) of the aforementioned “jaundiced politicians”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/34886018/James-joyce-ulysses-chap-14-oxen-of-the-sun/Chlorotic",
+    "original_id": "34886018",
+    "referent_id": 34886018,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "chlorotic",
+    "prefix": "uterperfect imperturbability such multifarious aliments as cancrenous females emaciated by parturition, corpulent professional gentlemen, not to speak of jaundiced politicians and ",
+    "suffix": " nuns, might possibly find gastric relief in an innocent collation of 1986#342staggering bob, reveals as nought else could and in a very 1939#301unsavoury light the tendency above ",
+    "start": 93682,
+    "end": 93691,
+    "canonical_text": "chlorotic"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 34886018,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

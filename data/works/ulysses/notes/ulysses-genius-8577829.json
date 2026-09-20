@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8577829",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Nannan",
+  "html_source": "<p>Joseph Nannetti. Printer Bloom works with on ad for Keyes. He is a “mimber” of Parliament.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8577829/James-joyce-ulysses-chap-12-cyclops/Nannan",
+    "original_id": "8577829",
+    "referent_id": 8577829,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Nannan",
+    "prefix": "ay down the tumbler already. Want a small fortune to keep him in drinks. \n\n — Who is the long fellow running for the mayoralty, Alf? says Joe. \n\n — Friend of yours, says Alf. \n\n — ",
+    "suffix": "? says Joe. The mimber? \n\n — I won't mention any names, says Alf. \n\n — I thought so, says Joe. I saw him up at that meeting now with William Field, M. P., the cattle traders. \n\n196",
+    "start": 53408,
+    "end": 53414,
+    "canonical_text": "Nannan"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9712
+  },
+  "genius": {
+    "referent_id": 8577829,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

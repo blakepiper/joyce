@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-2468842",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Hagadah book",
+  "html_source": "<p>The typesetter reading backwards makes Bloom think of his father reading his hagadah book (Hebrew) right to left.</p><p><img src=\"https://images.rapgenius.com/5se5fgo0msm0tyz5b88tf7zq2.800x616x1.jpg\" alt=\"\" /></p><p>Book for Judaism History.</p><p>ACCEPTED SUGGESTION: Book read on Passover (Pessach), the Jewish festival celebrating the exodus from Egypt.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2468842/James-joyce-ulysses-chap-7-aeolus/Hagadah-book",
+    "original_id": "2468842",
+    "referent_id": 2468842,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "hagadah book",
+    "prefix": "ayed in his walk to watch a typesetter neatly distributing type. Reads it backwards first. Quickly he does it. Must require some practice that. mangiD. kcirtaP. Poor papa with his ",
+    "suffix": ", reading backwards with his finger to me. Pessach. Next year in Jerusalem. Dear, O dear! All that long business about that brought us out of the land of Egypt and into the house o",
+    "start": 11466,
+    "end": 11478,
+    "canonical_text": "hagadah book"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2468842,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 0.5074626865671642
+      },
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.49253731343283585
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3251066",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Mr Bloom stood in his way",
+  "html_source": "<p>This external narrative gets in the way of two pieces of dialogue and assisted by the impersonal <em>Mr. Bloom</em> demonstrates the literal physicality of the line which in turn reinforces Bloom as an outsider.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3251066/James-joyce-ulysses-chap-7-aeolus/Mr-bloom-stood-in-his-way",
+    "original_id": "3251066",
+    "referent_id": 3251066,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Mr Bloom stood in his way",
+    "prefix": "ed press on a corner of the sheet and made a sign to a typesetter. He handed the sheet silently over the dirty glass screen. \n\n — Right: thanks, Hynes said moving off. \n\n1986#98\n\n ",
+    "suffix": ". \n\n — If you want to draw the cashier is just going to lunch, he said, pointing backward with his thumb. \n\n — Did you? Hynes asked. \n\n — Mm, Mr Bloom said. Look sharp and you'll c",
+    "start": 6181,
+    "end": 6206,
+    "canonical_text": "Mr Bloom stood in his way"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3251066,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

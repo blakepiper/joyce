@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23879118",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Christ’s",
+  "html_source": "<p>She blessed herself and quickly let him in.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23879118/James-joyce-ulysses-chap-14-oxen-of-the-sun/Christs",
+    "original_id": "23879118",
+    "referent_id": 23879118,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Christ's",
+    "prefix": "im her gate wide undid. Lo, levin leaping lightens in eyeblink Ireland's westward welkin. Full she dread that God the Wreaker all mankind would fordo with water for his evil sins. ",
+    "suffix": " rood made she on breastbone and him drew that he would rathe infare under her thatch. That man her will wotting worthful went in Horne's house. \n\n Loth to irk in Horne's hall hat ",
+    "start": 5755,
+    "end": 5763,
+    "canonical_text": "Christ's"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23879118,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

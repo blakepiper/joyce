@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23879074",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Smarts",
+  "html_source": "<p>They treat three hundred patients a year.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23879074/James-joyce-ulysses-chap-14-oxen-of-the-sun/Smarts",
+    "original_id": "23879074",
+    "referent_id": 23879074,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Smarts",
+    "prefix": "s he there teeming mothers are wont that they lie for to thole and bring forth bairns hale so God's angel to Mary quoth. Watchers twey there walk, white sisters in ward sleepless. ",
+    "suffix": " they still, sickness soothing: in twelve moons thrice an hundred. Truest bedthanes they twain are, for Horne holding wariest ward. \n\n1986#315\n\n In ward wary the watcher hearing co",
+    "start": 5330,
+    "end": 5336,
+    "canonical_text": "Smarts"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23879074,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

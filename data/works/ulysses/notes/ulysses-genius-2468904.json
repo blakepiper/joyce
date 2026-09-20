@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2468904",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Skin-the-Goat",
+  "html_source": "<p>James Fitzharris' nickname.</p><p><img src=\"https://images.rapgenius.com/3syojr2j3dhj2k7uxs8vch99z.556x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2468904/James-joyce-ulysses-chap-7-aeolus/Skin-the-goat",
+    "original_id": "2468904",
+    "referent_id": 2468904,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Skin-the-Goat",
+    "prefix": "cHugh nodded. \n\n — New York World, the editor said, excitedly pushing back his straw hat. Where it took place. Tim Kelly, or Kavanagh I mean. Joe Brady and the rest of them. Where ",
+    "suffix": " drove the car. Whole route, see? \n\n — Skin-the-goat, Mr O'Madden Burke said. Fitzharris. He has that cabman's shelter, they say, down there at Butt bridge. Holohan told me. You kn",
+    "start": 35120,
+    "end": 35133,
+    "canonical_text": "Skin-the-goat"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 2468904,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

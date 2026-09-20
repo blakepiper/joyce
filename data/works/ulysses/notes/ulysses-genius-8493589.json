@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8493589",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Secret of all secrets",
+  "html_source": "<p>Subtitle of the <em>Eighth and Ninth Book of Moses.</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8493589/James-joyce-ulysses-chap-10-wandering-rocks/Secret-of-all-secrets",
+    "original_id": "8493589",
+    "referent_id": 8493589,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Secret of all secrets",
+    "prefix": "ther Conmee, having read his little hours, walked through the hamlet of Donnycarney, murmuring vespers. \n\n Binding too good probably. What is this? Eighth and ninth book of Moses. ",
+    "suffix": ". Seal of King David. Thumbed pages: read and read. Who has passed here before me? How to soften chapped hands. Recipe for white wine vinegar. How to win a woman's love. For me thi",
+    "start": 48826,
+    "end": 48847,
+    "canonical_text": "Secret of all secrets"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8493589,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

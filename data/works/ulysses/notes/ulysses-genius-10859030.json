@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10859030",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Voyages in China",
+  "html_source": "<p><a href=\"https://books.google.com/books?id=fE9mkomQHEQC&amp;pg=PA124&amp;lpg=PA124&amp;dq=Voyages+in+China+viator&amp;source=bl&amp;ots=HKILIuu7rs&amp;sig=8sK4AtPmEFy0aFjuClW9iReIpjc&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwj47tqOo67QAhUD-2MKHWLbCHcQ6AEILjAB#v=onepage&amp;q=Voyages%20in%20China%20viator&amp;f=false\" rel=\"noopener nofollow\">https://books.google.com/books?id=fE9mkomQHEQC&amp;pg=PA124&amp;lpg=PA124&amp;dq=Voyages+in+China+viator&amp;source=bl&amp;ots=HKILIuu7rs&amp;sig=8sK4AtPmEFy0aFjuClW9iReIpjc&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwj47tqOo67QAhUD-2MKHWLbCHcQ6AEILjAB#v=onepage&amp;q=Voyages%20in%20China%20viator&amp;f=false</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10859030/James-joyce-ulysses-chap-17-ithaca/Voyages-in-china",
+    "original_id": "10859030",
+    "referent_id": 10859030,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Voyages in China",
+    "prefix": " of the City of Dublin Public Library, 106 Capel street, lent 21 May (Whitsun Eve) 1904, due 4 June 1904, 13 days overdue (black cloth binding, bearing white letternumber ticket).\n",
+    "suffix": " by \"Viator\" (recovered with brown paper, red ink title).\nPhilosophy of the Talmud (sewn pamphlet).\nLockhart's Life of Napoleon (cover wanting, marginal 1961#708annotations, minimi",
+    "start": 87187,
+    "end": 87203,
+    "canonical_text": "Voyages in China"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10859030,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

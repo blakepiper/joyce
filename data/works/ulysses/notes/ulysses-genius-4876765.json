@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4876765",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Green twinkling stone.",
+  "html_source": "<p>I.e. Ireland.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4876765/James-joyce-ulysses-chap-9-scylla-and-charybdis/Green-twinkling-stone",
+    "original_id": "4876765",
+    "referent_id": 4876765,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Green twinkling stone.",
+    "prefix": " ween, 'twas not my wish \nIn lean unlovely English. \n\n — The peatsmoke is going to his head, John Eglinton opined. \n\n We feel in England. Penitent thief. Gone. I smoked his baccy. ",
+    "suffix": " An emerald set in the ring of the sea. \n\n — People do not know how dangerous lovesongs can be, the auric egg of Russell warned occultly. The movements which work revolutions in th",
+    "start": 5763,
+    "end": 5785,
+    "canonical_text": "Green twinkling stone."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4876765,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1482232,
+        "login": "JayEn",
+        "name": "JayEn",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

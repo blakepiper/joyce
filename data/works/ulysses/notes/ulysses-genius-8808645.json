@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8808645",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Take the starch out of her.",
+  "html_source": "<p><a href=\"http://www.jstor.org/stable/20539007?seq=1#page_scan_tab_contents\" rel=\"noopener nofollow\">http://www.jstor.org/stable/20539007?seq=1#page_scan_tab_contents</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8808645/James-joyce-ulysses-chap-5-lotus-eaters/Take-the-starch-out-of-her",
+    "original_id": "8808645",
+    "referent_id": 8808645,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "take the starch out of her.",
+    "prefix": "lo match. Women all for caste till you touch the spot. Handsome is and handsome does. Reserved about to yield. The honourable Mrs and Brutus is an honourable man. Possess her once ",
+    "suffix": " \n\n1961#73\n\n — I was with Bob Doran, he's on one of his periodical bends, and what do you call him Bantam Lyons. Just down there in Conway's we were. \n\n Doran Lyons in Conway's. Sh",
+    "start": 6891,
+    "end": 6918,
+    "canonical_text": "take the starch out of her."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8808645,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

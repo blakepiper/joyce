@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13971765",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Naggin",
+  "html_source": "<p>A naggin in Ireland is a 200 mL bottle of spirits</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13971765/James-joyce-ulysses-chap-14-oxen-of-the-sun/Naggin",
+    "original_id": "13971765",
+    "referent_id": 13971765,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "naggin",
+    "prefix": "! Pap! Per deam Partulam et Pertundam nunc est bibendum! \n\n All off for a buster, armstrong, hollering down the street. Bonafides. Where you slep las nigh? Timothy of the battered ",
+    "suffix": ". Like ole Billyo. Any brollies or gumboots in the fambly? Where the Henry Nevil's sawbones and ole clo? Sorra one o' me knows. Hurrah there, Dix! Forward the ribbon counter. Where",
+    "start": 104708,
+    "end": 104714,
+    "canonical_text": "naggin"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13971765,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-10931378",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "90% of the human body",
+  "html_source": "<p>an overestimation of water content<br /><a href=\"http://chemistry.about.com/od/waterchemistry/f/How-Much-Of-Your-Body-Is-Water.htm\" rel=\"noopener nofollow\">http://chemistry.about.com/od/waterchemistry/f/How-Much-Of-Your-Body-Is-Water.htm</a></p><p>A foreshadow of Bloom’s perversity revealed by Molly. He loves pox filled water.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10931378/James-joyce-ulysses-chap-17-ithaca/90-of-the-human-body",
+    "original_id": "10931378",
+    "referent_id": 10931378,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "90% of the human body",
+    "prefix": "urses falling from level to level: its submarine fauna and flora (anacoustic, photophobe) numerically, if not literally, the inhabitants of the globe: its ubiquity as constituting ",
+    "suffix": ": the noxiousness of its effluvia in lacustrine marshes, pestilential fens, faded flowerwater, stagnant pools in the waning moon.\n\nHaving set the halffilled kettle on the now burni",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.8649
+  },
+  "genius": {
+    "referent_id": 10931378,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.7291666666666667
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.2708333333333333
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

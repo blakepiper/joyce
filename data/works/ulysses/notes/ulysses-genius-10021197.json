@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10021197",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Pshent",
+  "html_source": "<p>Pschent is the name of the Double Crown worn by rulers in Ancient Egypt<br /><a href=\"https://en.wikipedia.org/wiki/Pschent\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Pschent</a></p><p><img src=\"https://filepicker-images.genius.com/uQ3xFnO6SymA4UOGEoMj_Ring%20with%20engraved%20portrait%20of%20Ptolemy%20VI%20Philometor%20%283rd%E2%80%932nd%20century%20BCE%29%20-%2020080315.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10021197/James-joyce-ulysses-chap-15-circe/Pshent",
+    "original_id": "10021197",
+    "referent_id": 10021197,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "pshent",
+    "prefix": "wn macintosh under which he holds a roll of parchment. In his left eye flashes the monocle of Cashel Boyle O'Connor Fitzmaurice Tisdall Farrell. On his head is perched an Egyptian ",
+    "suffix": ". Two quills project over his ears.) \n\n VIRAG \n\n(Heels together, bows.) My name is Virag Lipoti, of Szombathely. (He coughs thoughtfully, drily.) Promiscuous nakedness is much in e",
+    "start": 115629,
+    "end": 115635,
+    "canonical_text": "pshent"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10021197,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

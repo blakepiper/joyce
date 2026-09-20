@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11137591",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Wilkie Collins",
+  "html_source": "<p>Like Joyce, Collins lived a Bohemian writer’s life at odds with Victorian society.</p><p><a href=\"http://www.wilkie-collins.info/wilkie_collins_biography.htm\" rel=\"noopener nofollow\">http://www.wilkie-collins.info/wilkie_collins_biography.htm</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11137591/James-joyce-ulysses-chap-18-penelope/Wilkie-collins",
+    "original_id": "11137591",
+    "referent_id": 11137591,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Wilkie Collins",
+    "prefix": "e a rose I didnt get a wink of sleep it wouldnt have been nice on account of her but I could have stopped it in time she gave me the Moonstone to read that was the first I read of ",
+    "suffix": " East Lynne I read and the shadow of Ashlydyat Mrs Henry Wood Henry Dunbar by that other woman I lent him afterwards with Mulveys photo in it so as he see I wasnt without and Lord ",
+    "start": 48609,
+    "end": 48623,
+    "canonical_text": "Wilkie Collins"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11137591,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

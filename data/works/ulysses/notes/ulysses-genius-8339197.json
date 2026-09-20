@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8339197",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Nones",
+  "html_source": "<p>A liturgical service, generally observed at the ninth hour after sunrise, which on 16 June in Dublin would be about 1/0pm.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8339197/James-joyce-ulysses-chap-10-wandering-rocks/Nones",
+    "original_id": "8339197",
+    "referent_id": 8339197,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Nones",
+    "prefix": "ies in the quiet evening. He was their rector: his reign was mild. \n\n Father Conmee drew off his gloves and took his rededged breviary out. An ivory bookmark told him the page. \n\n ",
+    "suffix": ". He should have read that before lunch. But lady Maxwell had come. \n\n Father Conmee read in secret Pater and Ave and crossed his breast. Deus in adiutorium. \n\n He walked calmly an",
+    "start": 12059,
+    "end": 12064,
+    "canonical_text": "Nones"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8339197,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2568065,
+        "login": "GeoffBobker",
+        "name": "GeoffBobker",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10517240",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Röntgen",
+  "html_source": "<p>Wilhelm Röntgen discovered x-rays.<br /><a href=\"http://www.nobelprize.org/nobel_prizes/physics/laureates/1901/rontgen-bio.html\" rel=\"noopener nofollow\">http://www.nobelprize.org/nobel_prizes/physics/laureates/1901/rontgen-bio.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10517240/James-joyce-ulysses-chap-16-eumaeus/Rontgen",
+    "original_id": "10517240",
+    "referent_id": 10517240,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Röntgen",
+    "prefix": "se, I grant you, to concede a point, you do knock across a simple soul once in a blue moon. But what I am anxious to arrive at is it is one thing for instance to invent those rays ",
+    "suffix": " did, or the telescope like Edison, though I believe it was before his time, Galileo was the man I mean. The same applies to the laws, for example, of a farreaching natural phenome",
+    "start": 51550,
+    "end": 51557,
+    "canonical_text": "Röntgen"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10517240,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

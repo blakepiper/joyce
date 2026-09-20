@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10958254",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Theatre Royal",
+  "html_source": "<p>There were 3 different Theatre Royals at the same location from 1821 to 1962</p><p><a href=\"http://www.arthurlloyd.co.uk/Dublin/TheatreRoyalDublin/TheatreRoyalDublin.htm\" rel=\"noopener nofollow\">http://www.arthurlloyd.co.uk/Dublin/TheatreRoyalDublin/TheatreRoyalDublin.htm</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10958254/James-joyce-ulysses-chap-17-ithaca/Theatre-royal",
+    "original_id": "10958254",
+    "referent_id": 10958254,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Theatre Royal",
+    "prefix": "Brian Boru (imaginary): thirdly, a conflict between professional etiquette and professional emulation concerning the recent erections of the Grand Lyric Hall on Burgh Quay and the ",
+    "suffix": " in Hawkins street: fourthly, distraction resultant from compassion for Nelly Bouverist's non-intellectual, non-political, non-topical expression of countenance and concupiscence c",
+    "start": 28198,
+    "end": 28211,
+    "canonical_text": "Theatre Royal"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10958254,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

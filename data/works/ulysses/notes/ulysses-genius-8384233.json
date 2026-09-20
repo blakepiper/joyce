@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8384233",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Sometime venery",
+  "html_source": "<p>Venery – referring to Bloom’s sexual indulgence in Nauticaa, I meant Nausicaa :)</p><p><a href=\"https://www.youtube.com/watch?v=3S7hJdYdnpw\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=3S7hJdYdnpw</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8384233/James-joyce-ulysses-chap-14-oxen-of-the-sun/Sometime-venery",
+    "original_id": "8384233",
+    "referent_id": 8384233,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "sometime venery",
+    "prefix": "it was a marvellous castle. And the traveller Leopold went into the castle for to rest him for 1961#386a space being sore of limb after many marches environing in divers lands and ",
+    "suffix": ". \n\n And in the castle was set a board that was of the birchwood of Finlandy and it was upheld by four dwarfmen of that country but they durst not move more for enchantment. And on",
+    "start": 9675,
+    "end": 9690,
+    "canonical_text": "sometime venery"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8384233,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.7317073170731707
+      },
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 0.2682926829268293
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8561703",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "The brothers Sheares",
+  "html_source": "<p>From D. S. Sullivan’s <em>Speeches from the Dock</em>, 1886. It displays the kind of florid speech being parodied here.</p><p>“Among the many distinguished Irishmen who acted prominent parts in the stormy events of 1798, and whose names come down to us hallowed by the sufferings and sacrifices inseparable in those dark days from the lot of an Irish patriot, there are few whose fate excited more sympathy, more loved in life, more Honored in death, than the brothers John and Henry Sheares. Even in the days of Emmet and Wolfe Tone, of Russell and Fitzgerald, when men of education, talent, and social standing were not few in the national ranks, the Sheareses were hailed as valuable accessions to the cause, and were recognized by the United Irishmen as heaven-destined leaders for the people. It is a touching story, the history of their patrotic exertions, their betrayal, trial, and execution; but it is by studying such scenes in our history that Irishmen can learn to estimate the sacrifices which were made in bygone days for Ireland, and attach a proper value to the memory of the patriots who made them.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8561703/James-joyce-ulysses-chap-12-cyclops/The-brothers-sheares",
+    "original_id": "8561703",
+    "referent_id": 8561703,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "the brothers Sheares",
+    "prefix": "old boots and his tongue hanging out of him a yard long for more. Near ate the tin and all, hungry bloody mongrel. \n\n And the citizen and Bloom having an argument about the point, ",
+    "suffix": " and Wolfe Tone beyond on Arbour Hill and Robert Emmet and die for your country, the Tommy Moore touch about Sara Curran and she's far from the land. And Bloom, of course, with his",
+    "start": 31112,
+    "end": 31132,
+    "canonical_text": "the brothers Sheares"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8561703,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

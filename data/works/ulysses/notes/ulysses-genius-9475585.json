@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9475585",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Double curb Albert",
+  "html_source": "<p>pocket watch chain</p><p><img src=\"https://images.genius.com/ba082c17385249b380594efac6b3c8f3.300x228x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9475585/James-joyce-ulysses-chap-15-circe/Double-curb-albert",
+    "original_id": "9475585",
+    "referent_id": 9475585,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "double curb Albert",
+    "prefix": "22#416\n\n BLOOM \n\n(In youth's smart blue Oxford suit with white vestslips, narrowshouldered, in brown Alpine hat, wearing gent's sterling silver waterbury keyless watch and 1932#394",
+    "suffix": " with seal attached, one side of him coated with stiffening mud.) Harriers, father. Only that once. \n\n RUDOLPH \n\n Once! Mud head to foot. Cut your hand open. Lockjaw. They make you",
+    "start": 12890,
+    "end": 12908,
+    "canonical_text": "double curb Albert"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9475585,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

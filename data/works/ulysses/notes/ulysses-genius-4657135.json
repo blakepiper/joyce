@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4657135",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Prince’s stores",
+  "html_source": "<p><a href=\"http://www.jjon.org/joyce-s-environs/prince-s-stores\" rel=\"noopener nofollow\">A good note on the location of Princes’s Store – most sources get it wrong</a></p><p><img src=\"https://images.rapgenius.com/2d7f1eea3f2497d280a4147ae6ea97c2.577x478x1.jpg\" alt=\"\" /></p><p>Source: James Joyce Online Notes</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4657135/James-joyce-ulysses-chap-7-aeolus/Princes-stores",
+    "original_id": "4657135",
+    "referent_id": 4657135,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Prince's stores",
+    "prefix": ", lettercards, parcels, insured and paid, for local, provincial, British and overseas delivery. \n\n GENTLEMEN OF THE PRESS \n\n Grossbooted draymen rolled barrels dullthudding out of ",
+    "suffix": " and bumped them up on the brewery float. On the brewery float bumped dullthudding barrels rolled by grossbooted draymen out of Prince's stores. \n\n — There it is, Red Murray said. ",
+    "start": 1061,
+    "end": 1076,
+    "canonical_text": "Prince's stores"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 4657135,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-3285425",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Xenophon",
+  "html_source": "<p>A allusion to Byron’s poem <em>The Isles of Greece</em>:</p><blockquote><p>The mountains look on Marathon,<br />and Marathon looks on the sea:<br />And musing there an hour alone,<br />I dream’d that Greece might still be free.<br />For, standing on the Persian’s grave,<br />I could not deem myself a slave.</p></blockquote>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3285425/James-joyce-ulysses-chap-7-aeolus/Xenophon",
+    "original_id": "3285425",
+    "referent_id": 3285425,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Xenophon",
+    "prefix": "dalus said. \n\n Ned Lambert, laughing, struck the newspaper on his knees, repeating: \n\n1932#110\n\n — The pensive bosom and the overarsing leafage. O boys! O boys! \n\n1961#123\n\n — And ",
+    "suffix": " looked upon Marathon, Mr Dedalus said, looking again on the fireplace and to the window, and Marathon looked on the sea. \n\n — That will do, professor MacHugh cried from the window",
+    "start": 14283,
+    "end": 14291,
+    "canonical_text": "Xenophon"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3285425,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.9787234042553191
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.02127659574468085
+      }
+    ]
+  },
+  "color": "F59627"
+}

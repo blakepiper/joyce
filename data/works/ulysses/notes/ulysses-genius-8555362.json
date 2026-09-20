@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8555362",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "The rapparee",
+  "html_source": "<p><em>The Irish Rapparees</em> was an Irish ballad by Charles Gavan Duffy. The last part of the lyrics may be a warning against the kind of verbal abuse Bloom will incur:</p><p>“Now Sassenach and Cromweller, take heed of what I say –<br />Keep down your black and angry looks, that scorn us night and day,<br />For there’s a just and wrathful judge, that every action sees,<br />And he’ll make strong to right our wrongs, the faithful Rapparees!”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8555362/James-joyce-ulysses-chap-12-cyclops/The-rapparee",
+    "original_id": "8555362",
+    "referent_id": 8555362,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "the rapparee",
+    "prefix": " — That's all right, citizen, says Joe. Friends here. \n\n — Pass, friends, says he. \n\n Then he rubs his hand in his eye and says he: \n\n — What's your opinion of the times? \n\n Doing ",
+    "suffix": " and Rory of the hill. But, begob, Joe was equal to the occasion. \n\n — I think the markets are on a rise, says he, sliding his hand down his fork. \n\n So begob the citizen claps his",
+    "start": 8712,
+    "end": 8724,
+    "canonical_text": "the rapparee"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8555362,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

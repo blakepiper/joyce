@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8971494",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Black Beast Burned in Omaha, Ga",
+  "html_source": "<p>Joyce seems to reference a riot and lynching in Omaha, Nebraska that happened Sep 1919 where the victim was hung, shot and burned. Obviously this wouldn’t appear in a 1904 newspaper.<br /><a href=\"http://plainshumanities.unl.edu/encyclopedia/doc/egp.afam.032\" rel=\"noopener nofollow\">http://plainshumanities.unl.edu/encyclopedia/doc/egp.afam.032</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8971494/James-joyce-ulysses-chap-12-cyclops/Black-beast-burned-in-omaha-ga",
+    "original_id": "8971494",
+    "referent_id": 8971494,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Black Beast Burned in Omaha, Ga",
+    "prefix": "he general public. Picture of a butting match, trying to crack their 1922#314bloody skulls, one chap going for the other with his head down like a bull at a gate. And another one: ",
+    "suffix": ". A lot of Deadwood Dicks in slouch hats and they firing at a Sambo strung up in a tree with his tongue out and a bonfire under him. Gob, they ought to drown him in the sea after a",
+    "start": 84884,
+    "end": 84915,
+    "canonical_text": "Black Beast Burned in Omaha. Ga"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 8971494,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

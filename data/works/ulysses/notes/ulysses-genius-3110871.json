@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3110871",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "A garland of grey hair",
+  "html_source": "<p>This alludes to the swimming priest which Stephen came across in <a href=\"http://poetry.genius.com/James-joyce-ulysses-chap-1-telemachus-annotated\" rel=\"noopener nofollow\">Telemachus</a>. He is imagining himself as this priest.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3110871/James-joyce-ulysses-chap-3-proteus/A-garland-of-grey-hair",
+    "original_id": "3110871",
+    "referent_id": 3110871,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "A garland of grey hair",
+    "prefix": "aces, Temple, Buck Mulligan, Foxy Campbell, Lanternjaws. Abbas father, furious dean, what offence laid 1961#39fire to their brains? Paff! Descende, calve, ut ne nimium decalveris. ",
+    "suffix": " on his comminated head see him me clambering down to the footpace (descende!), clutching a monstrance, basiliskeyed. Get down, bald poll! A choir gives back menace and echo, assis",
+    "start": 6832,
+    "end": 6854,
+    "canonical_text": "A garland of grey hair"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3110871,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

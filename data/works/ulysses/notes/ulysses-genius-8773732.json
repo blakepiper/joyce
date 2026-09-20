@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8773732",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Denis Carey",
+  "html_source": "<p>Bloom mistakes the first name of James Carey. Denis Carey was an exceptional all-round Irish athlete and world champion hammer thrower. Carey won the hammer at the AAA Championships in 1893, placed third in the pole vault in 1897, and was a finalist in the 120y hurdles in 1902. At home he won the Irish AAA hammer title six times (1892-3, 1907, 1910, 1913-14), the 120y hurdles five times (1898-1901, 1905), and the pole vault in 1893.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8773732/James-joyce-ulysses-chap-5-lotus-eaters/Denis-carey",
+    "original_id": "8773732",
+    "referent_id": 8773732,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Denis Carey",
+    "prefix": "een's evidence on the invincibles he used to receive the, Carey was his name, the communion every morning. This very church. Peter Carey. No, Peter Claver I am thinking of. 1986#66",
+    "suffix": ". And just imagine that. Wife and six children at home. And plotting that murder all the time. Those crawthumpers, now that's a good name for them, there's always something shiftyl",
+    "start": 23976,
+    "end": 23987,
+    "canonical_text": "Denis Carey"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8773732,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

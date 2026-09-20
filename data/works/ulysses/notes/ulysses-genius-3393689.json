@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3393689",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "The Sorrows of Satan",
+  "html_source": "<p>A prose Romance from 1900. The full text has been digitized <a href=\"http://www.luminist.org/archives/corelli_sorrows_of_satan.pdf\" rel=\"noopener nofollow\">here.</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3393689/James-joyce-ulysses-chap-9-scylla-and-charybdis/The-sorrows-of-satan",
+    "original_id": "3393689",
+    "referent_id": 3393689,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "The Sorrows of Satan",
+    "prefix": "sneered, was alive fifteen minutes before his death. \n\n — Have you found those six brave medicals, John Eglinton asked with elder's gall, to write Paradise Lost at your dictation? ",
+    "suffix": " he calls it. \n\n Smile. Smile Cranly's smile. \n\nFirst he tickled her \nThen he patted her \nThen he passed the female catheter. \nFor he was a medical \nJolly old medi... \n\n1922#176\n\n ",
+    "start": 1094,
+    "end": 1114,
+    "canonical_text": "The Sorrows of Satan"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3393689,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

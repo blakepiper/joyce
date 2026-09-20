@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8433909",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Assuefaction",
+  "html_source": "<p>Habituation.<br />Assuefaction minorates atrocities – that is the act of becoming accustomed to atrocities diminishes their effect.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8433909/James-joyce-ulysses-chap-14-oxen-of-the-sun/Assuefaction",
+    "original_id": "8433909",
+    "referent_id": 8433909,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Assuefaction",
+    "prefix": ", hath not been illumined by 1961#393the wit of the septuagint nor so much as mentioned for the Orient from on high which brake hell's gates visited a darkness that was foraneous. ",
+    "suffix": " minorates atrocities (as Tully saith of his darling Stoics) and Hamlet his father showeth the prince no blister of combustion. The adiaphane in the noon of life is an Egypt's plag",
+    "start": 27334,
+    "end": 27346,
+    "canonical_text": "Assuefaction"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8433909,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

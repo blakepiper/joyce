@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13908359",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Cozening",
+  "html_source": "<p>verb<br />gerund or present participle: cozening<br />trick or deceive.<br />“do not think to cozen your contemporaries”<br />obtain by deception.<br />“he was able to cozen a profit”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13908359/James-joyce-ulysses-chap-14-oxen-of-the-sun/Cozening",
+    "original_id": "13908359",
+    "referent_id": 13908359,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "cozening",
+    "prefix": "doss and dung to his heart's content. By this time the father of the faithful (for so they called him) was grown so heavy that he could scarce walk to pasture. To remedy which our ",
+    "suffix": " dames and damsels brought him his fodder in their apronlaps and as soon as his belly was full he would rear up on his hind quarters to show their ladyships a mystery and roar and ",
+    "start": 43550,
+    "end": 43558,
+    "canonical_text": "cozening"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13908359,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

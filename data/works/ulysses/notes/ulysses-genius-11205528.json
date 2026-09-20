@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11205528",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Where softly sighs of love the light guitar",
+  "html_source": "<p>Molly uses several lines from the song “In Old Madrid” in the next lines</p><p><a href=\"http://www.james-joyce-music.com/songb_17_lyrics.html\" rel=\"noopener nofollow\">http://www.james-joyce-music.com/songb_17_lyrics.html</a></p><p><a href=\"https://www.youtube.com/watch?v=fV4PAecdy0g\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=fV4PAecdy0g</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11205528/James-joyce-ulysses-chap-18-penelope/Where-softly-sighs-of-love-the-light-guitar",
+    "original_id": "11205528",
+    "referent_id": 11205528,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "where softly sighs of love the light guitar",
+    "prefix": "ope hes not a professor like Goodwin was he was a patent professor of John Jameson they all write about some woman in their poetry well I suppose he wont find many like 1939#546me ",
+    "suffix": " where poetry is in the air the blue sea and the moon shining so beautifully coming back on the nightboat from Tarifa the lighthouse at Europa point the guitar that fellow played w",
+    "start": 99194,
+    "end": 99237,
+    "canonical_text": "where softly sighs of love the light guitar"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11205528,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

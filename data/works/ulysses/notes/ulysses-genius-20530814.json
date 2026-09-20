@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20530814",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Gravediggers in Hamlet",
+  "html_source": "<p>Bloom forgives himself for thinking about jokes at a funeral, which puts him in mind of Hamlet Act V, Scene I, where two gravediggers referred to by Shakespeare as “clowns” joke back and forth while digging a grave.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20530814/James-joyce-ulysses-chap-6-hades/Gravediggers-in-hamlet",
+    "original_id": "20530814",
+    "referent_id": 20530814,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Gravediggers in Hamlet",
+    "prefix": "ear an odd joke or the women to know what's in fashion. A juicy pear or ladies' punch, hot, strong and sweet. Keep out the damp. You must laugh sometimes so better do it that way. ",
+    "suffix": ". Shows the profound knowledge of the human heart. Daren't joke about the dead for two years at least. De mortuis nil nisi prius. Go out of mourning first. Hard to imagine his fune",
+    "start": 47863,
+    "end": 47885,
+    "canonical_text": "Gravediggers in Hamlet"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20530814,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4583662",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "That bit his tongue off",
+  "html_source": "<p>See the short story “Grace” in “Dubliners” for the complete story of how Tom Kernan bit his tongue off.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4583662/James-joyce-ulysses-chap-18-penelope/That-bit-his-tongue-off",
+    "original_id": "4583662",
+    "referent_id": 4583662,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "that bit his tongue off",
+    "prefix": "in if they saw a real officers funeral thatd be something reversed arms muffled drums the poor horse walking behind in black L Boom and Tom Kernan that drunken little barrelly man ",
+    "suffix": " falling down the mens W C drunk in some place or other and Martin Cunningham and the two Dedaluses and Fanny MCoys husband white head of cabbage skinny thing with a turn in her ey",
+    "start": 94089,
+    "end": 94112,
+    "canonical_text": "that bit his tongue off"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4583662,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2464379",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Dublin Bay",
+  "html_source": "<p>Dublin Bay is a C-shaped inlet of the Irish Sea on the east coast of Ireland<br />Imagine standing on a tower’s parapet gazing over this beautiful sight.</p><p><img src=\"https://images.rapgenius.com/f3jneykvqk39kxv6lhjc2r9vt.640x479x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2464379/James-joyce-ulysses-chap-1-telemachus/Dublin-bay",
+    "original_id": "2464379",
+    "referent_id": 2464379,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Dublin Bay",
+    "prefix": "e said: \n\n1961#4\n\n — The bard's noserag! A new art colour for our Irish poets: snotgreen. You can almost taste it, can't you? \n\n He mounted to the parapet again and gazed out over ",
+    "suffix": ", his fair oakpale hair stirring slightly. \n\n — God! he said quietly. Isn't the sea what Algy calls it: a great sweet mother? The snotgreen sea. The scrotumtightening sea. Epi oino",
+    "start": 4362,
+    "end": 4372,
+    "canonical_text": "Dublin bay"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2464379,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

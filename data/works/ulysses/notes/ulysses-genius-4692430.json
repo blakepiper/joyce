@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4692430",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Fivebarred gate",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/7bb8cc2fdefde442ec15ee062fb53aae.300x223x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4692430/James-joyce-ulysses-chap-8-lestrygonians/Fivebarred-gate",
+    "original_id": "4692430",
+    "referent_id": 4692430,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "fivebarred gate",
+    "prefix": "agger around livery stables. Toss off a glass of brandy neat while you'd say knife. 1986#131That one at the Grosvenor this morning. Up with her on the car: wishswish. Stonewall or ",
+    "suffix": " put her mount to it. Think that pugnosed driver did it out of spite. Who is this she was like? O yes! Mrs Miriam Dandrade that sold me her old wraps and black underclothes in the ",
+    "start": 21430,
+    "end": 21445,
+    "canonical_text": "fivebarred gate"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4692430,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

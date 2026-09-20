@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8963093",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Tamoshant",
+  "html_source": "<p>Tam o' shanter?</p><p><img src=\"https://images.rapgenius.com/b78085ec004bce62095dd7038d056bf1.750x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8963093/James-joyce-ulysses-chap-12-cyclops/Tamoshant",
+    "original_id": "8963093",
+    "referent_id": 8963093,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Tamoshant",
+    "prefix": " government has issued orders that these animals shall be 1939#2291961#315slaughtered though no medical evidence is forthcoming as to their pathological condition? \n\n Mr Allfours (",
+    "suffix": ". Con.): Honourable members are already in possession of the evidence produced before a committee of the whole house. I feel I cannot usefully add anything to that. The answer to t",
+    "start": 56058,
+    "end": 56067,
+    "canonical_text": "Tamoshant"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8963093,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-8793820",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Piebald for bachelors. Dun for a nun",
+  "html_source": "<p>Horse colors.<br />Piebald</p><p><img src=\"https://images.rapgenius.com/93943aca9fd6de826af63f1fc3655187.979x1000x1.jpg\" alt=\"\" /></p><p>Dun</p><p><img src=\"https://images.rapgenius.com/5be9c7524d29d9aa4b70c8ab68eda5e9.300x280x1.jpg\" alt=\"\" /></p><p>PROPOSED SUGGESTION: Great, but how do each of the colours relate to ‘bachelors’ and ‘nuns’?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8793820/James-joyce-ulysses-chap-6-hades/Piebald-for-bachelors-dun-for-a-nun",
+    "original_id": "8793820",
+    "referent_id": 8793820,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Piebald for bachelors. Dun for a nun",
+    "prefix": "orses with white frontlet plumes came round the Rotunda corner, galloping. A tiny coffin flashed by. In a hurry1961#95 to bury. A mourning coach. Unmarried. Black for the married. ",
+    "suffix": ". \n\n — Sad, Martin Cunningham said. A child. \n\n A dwarf's face, mauve and wrinkled like little Rudy's was. Dwarf's body, weak as putty, in a whitelined deal box. Burial friendly so",
+    "start": 18649,
+    "end": 18685,
+    "canonical_text": "Piebald for bachelors. Dun for a nun"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8793820,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.7619047619047619
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.21428571428571427
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.023809523809523808
+      }
+    ]
+  },
+  "color": "F59627"
+}

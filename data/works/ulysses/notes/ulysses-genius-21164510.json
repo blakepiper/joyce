@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21164510",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "I fear thee, ancient mariner.",
+  "html_source": "<p>From The Rime of the Ancient Mariner by Coleridge:</p><p>‘I fear thee, ancient Mariner!<br />I fear thy skinny hand!<br />And thou art long, and lank, and brown,<br />As is the ribbed sea-sand.</p><p>I fear thee and thy glittering eye,<br />And thy skinny hand, so brown.‘—</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21164510/James-joyce-ulysses-chap-9-scylla-and-charybdis/I-fear-thee-ancient-mariner",
+    "original_id": "21164510",
+    "referent_id": 21164510,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "I fear thee, ancient mariner.",
+    "prefix": "r. A creamfruit melon he held to me. In. You will see. \n\n — The wandering jew, Buck Mulligan whispered with clown's awe. Did you see his eye? He looked upon you to lust after you. ",
+    "suffix": " O, Kinch, thou art in peril. Get thee a breechpad. \n\n Manner of Oxenford. \n\n Day. Wheelbarrow sun over arch of bridge. \n\n1939#1591961#217\n\n A dark back went before them, step of a",
+    "start": 68995,
+    "end": 69024,
+    "canonical_text": "I fear thee, ancient mariner."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21164510,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

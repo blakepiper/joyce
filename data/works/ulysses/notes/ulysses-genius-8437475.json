@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8437475",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Braggart boaster",
+  "html_source": "<p>Braggart boaster – refering to Stephen</p><p>Braggart – a person who boasts about their achievements or possessions.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8437475/James-joyce-ulysses-chap-14-oxen-of-the-sun/Braggart-boaster",
+    "original_id": "8437475",
+    "referent_id": 8437475,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "braggart boaster",
+    "prefix": "961#394and Punch Costello fell hard again to his yale which Master 1922#376Lenehan vowed he would do after and he was indeed but a word and a blow on any the least colour. But the ",
+    "suffix": " cried that an old Nobodaddy was in his cups it was muchwhat indifferent and he would not lag behind his lead. But this was only to dye his desperation as cowed he crouched in Horn",
+    "start": 29749,
+    "end": 29765,
+    "canonical_text": "braggart boaster"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8437475,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9097168",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Friar’s vows",
+  "html_source": "<p>The three vows to become a priest are obedience, chastity and poverty, which Stephen is characteristically mocking here.<br /><a href=\"http://vocations.ca/types_of_vocations/religious_vows/\" rel=\"noopener nofollow\">http://vocations.ca/types_of_vocations/religious_vows/</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9097168/James-joyce-ulysses-chap-14-oxen-of-the-sun/Friars-vows",
+    "original_id": "9097168",
+    "referent_id": 9097168,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "friar's vows",
+    "prefix": " should reign. \n\n To be short this passage was scarce by when Master Dixon of Mary in Eccles, goodly grinning, asked young Stephen what was the reason why he had not cided to take ",
+    "suffix": " and he answered him obedience in the womb, chastity in the tomb but involuntary poverty all his days. Master Lenehan at this made return that he had heard of those nefarious deeds",
+    "start": 23830,
+    "end": 23842,
+    "canonical_text": "friar's vows"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9097168,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

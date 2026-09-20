@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8774388",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Half a mo",
+  "html_source": "<p>Australian Slang:  just a moment</p><p><img src=\"https://images.rapgenius.com/60adba2f08424003d2d263dc549050d6.980x734x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8774388/James-joyce-ulysses-chap-5-lotus-eaters/Half-a-mo",
+    "original_id": "8774388",
+    "referent_id": 8774388,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Half a mo",
+    "prefix": "r's itch. Tight collar he'll lose his hair. Better leave him the paper and get shut of him. \n\n — You can keep it, Mr Bloom said. \n\n — Ascot. Gold cup. Wait, Bantam Lyons muttered. ",
+    "suffix": ". Maximum the second. \n\n — I was just going to throw it away, Mr Bloom said. \n\n1961#85\n\n Bantam Lyons raised his eyes suddenly and leered weakly. \n\n — What's that? his sharp voice ",
+    "start": 33894,
+    "end": 33903,
+    "canonical_text": "Half a mo"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8774388,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

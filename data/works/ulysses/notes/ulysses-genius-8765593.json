@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8765593",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Love’s Old Sweet Song.",
+  "html_source": "<p>Love’s Old Sweet Song<br />Music by J.L. Molloy;<br />words by G. Clifton Bingham</p><p>Song Lyrics<br />Once in the dear dead days beyond recall,<br />When on the world the mists began to fall,<br />Out of the dreams that rose in happy throng<br />Low to our hearts Love sang an old sweet song;<br />And in the dusk where fell the firelight gleam,<br />Softly it wove itself into our dream.</p><p>Just a song a twilight, when the lights are low,<br />And the flick'ring shadows softly come and go,<br />Tho' the heart be weary, sad the day and long,<br />Still to us at twilight comes Love’s old song,<br />comes Love’s old sweet song.</p><p>Even today we hear Love’s song of yore,<br />Deep in our hearts it dwells forevermore.<br />Footsteps may falter, weary grow the way,<br />Still we can hear it at the close of day.<br />So till the end, when life’s dim shadows fall,<br />Love will be found the sweetest song of all.</p><p>Just a song a twilight, when the lights are low,<br />And the flick'ring shadows softly come and go,<br />Tho' the heart be weary, sad the day and long,<br />Still to us at twilight comes Love’s old song,<br />comes Love’s old sweet song.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8765593/James-joyce-ulysses-chap-4-calypso/Loves-old-sweet-song",
+    "original_id": "8765593",
+    "referent_id": 8765593,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Love's Old Sweet Song.",
+    "prefix": "the letter from? he asked. \n\n Bold hand. Marion. \n\n — O, Boylan, she said. He's bringing the programme. \n\n — What are you singing? \n\n — Là ci darem with J. C. Doyle, she said, and ",
+    "suffix": " \n\n Her full lips, drinking, smiled. Rather stale smell that incense leaves next day. Like foul flowerwater. \n\n — Would you like the window open a little? \n\n She doubled a slice of",
+    "start": 19582,
+    "end": 19604,
+    "canonical_text": "Love's Old Sweet Song."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8765593,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

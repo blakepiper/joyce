@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15126253",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Meila murder",
+  "html_source": "<p>Meila is from the Gaelic “mile” meaning thousand; so here, yelling like a thousand murders (cf. “yelling bloody murder”).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15126253/James-joyce-ulysses-chap-12-cyclops/Meila-murder",
+    "original_id": "15126253",
+    "referent_id": 15126253,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "meila murder",
+    "prefix": "an in the observance. \n\n Then he was telling us the master at arms comes along with a long cane and he draws out and he flogs the bloody backside off of the poor lad till he yells ",
+    "suffix": ". \n\n — That's your glorious British navy, says the citizen, that bosses the earth. The fellows that never will be slaves, with the only hereditary chamber on the face of God's eart",
+    "start": 86188,
+    "end": 86200,
+    "canonical_text": "meila murder"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15126253,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

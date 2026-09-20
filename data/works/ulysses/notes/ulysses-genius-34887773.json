@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-34887773",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Transpontine",
+  "html_source": "<p>On the other side of a river or (in this case) sea.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/34887773/James-joyce-ulysses-chap-14-oxen-of-the-sun/Transpontine",
+    "original_id": "34887773",
+    "referent_id": 34887773,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "transpontine",
+    "prefix": "it, regret them not. With thee it was not as with many that will and would and wait and never do. Thou sawest thy America, thy lifetask, 1922#402and didst charge to cover like the ",
+    "suffix": " bison. How saith Zarathustra? Deine Kuh Trübsal melkest Du. Nun Trinkst Du die süsse Milch des Euters. See! it displodes for thee in abundance. Drink, man, an udderful! Mother's m",
+    "start": 103957,
+    "end": 103969,
+    "canonical_text": "transpontine"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 34887773,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

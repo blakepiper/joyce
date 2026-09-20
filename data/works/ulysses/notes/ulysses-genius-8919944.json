@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8919944",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "As said before",
+  "html_source": "<p>The first sentence of Chapter 4 (Calypso):<br />‘Mr Leopold Bloom ate with relish the inner organs of beasts and fowls.’</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8919944/James-joyce-ulysses-chap-11-sirens/As-said-before",
+    "original_id": "8919944",
+    "referent_id": 8919944,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "As said before",
+    "prefix": "e by maraschino, thoughtful all two. Mina Kennedy, 4 Lismore terrace, Drumcondra with Idolores, a queen, Dolores, silent. \n\n Pat served, uncovered dishes. Leopold cut liverslices. ",
+    "suffix": " 1932#242he ate with relish the inner organs, nutty gizzards, fried cods'roes while Richie Goulding, Collis, Ward ate steak and kidney, steak then kidney, bite by bite of pie he at",
+    "start": 26817,
+    "end": 26831,
+    "canonical_text": "As said before"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8919944,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.9523809523809524
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.047619047619047616
+      }
+    ]
+  },
+  "color": "F59627"
+}

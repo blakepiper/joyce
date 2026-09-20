@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8489191",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Chalked mirror",
+  "html_source": "<p>Items up for auction were marked with chalk.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8489191/James-joyce-ulysses-chap-10-wandering-rocks/Chalked-mirror",
+    "original_id": "8489191",
+    "referent_id": 8489191,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "chalked mirror",
+    "prefix": "s of Sin, he said, tapping on it. That's a good one. \n\n*\n*  *\n\n1986#194\n\n The lacquey by the door of Dillon's auctionrooms shook his handbell twice again and viewed himself in the ",
+    "suffix": " of the cabinet. \n\n Dilly Dedalus, loitering by the curbstone, heard the beats of the bell, the cries of the auctioneer within. Four and nine. Those lovely curtains. Five shillings",
+    "start": 36857,
+    "end": 36871,
+    "canonical_text": "chalked mirror"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8489191,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

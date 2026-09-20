@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-22337891",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Barbacan",
+  "html_source": "<p>Barbacan or barbican, a slit in a fortified wall or tower through which guns or projectile weapons could be fired from inside in relative safety. Can also mean the tower or wall itself.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/22337891/James-joyce-ulysses-chap-1-telemachus/Barbacan",
+    "original_id": "22337891",
+    "referent_id": 22337891,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "barbacan",
+    "prefix": "uck Mulligan's gowned form moved briskly about the hearth to and fro, hiding and revealing its yellow glow. Two shafts of soft daylight fell across the flagged floor from the high ",
+    "suffix": "s: and at the meeting of their rays a cloud of coalsmoke and fumes of fried grease floated, turning. \n\n — We'll be choked, Buck Mulligan said. Haines, open that door, will you? \n\n ",
+    "start": 18102,
+    "end": 18110,
+    "canonical_text": "barbacan"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 22337891,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

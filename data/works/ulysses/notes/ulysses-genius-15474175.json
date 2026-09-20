@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15474175",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Shandygaff",
+  "html_source": "<p>Beer diluted with a nonalcoholic drink (such as ginger beer)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15474175/James-joyce-ulysses-chap-8-lestrygonians/Shandygaff",
+    "original_id": "15474175",
+    "referent_id": 15474175,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Shandygaff",
+    "prefix": "'s. Moral pub. He doesn't chat. Stands a drink now and then. But in leapyear once in four. Cashed a cheque for me once. \n\n What will I take now? He drew his watch. Let me see now. ",
+    "suffix": "? \n\n — Hello, Bloom, Nosey Flynn said from his nook. \n\n — Hello, Flynn. \n\n — How's things? \n\n — Tiptop... Let me see. I'll take a glass of burgundy and... let me see. \n\n Sardines o",
+    "start": 46173,
+    "end": 46183,
+    "canonical_text": "Shandygaff"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15474175,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 7060080,
+        "login": "keithalt",
+        "name": "keithalt",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

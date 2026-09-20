@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5117768",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Moi faire, she said, Tous les messieurs",
+  "html_source": "<p>Literally: ‘moi faire’ means me do and' Tous les messieurs' means all the men. Referring back to ‘bonnne à tout faire’. Faire is the verb for make, do, perform. So here she is saying she will perform, do, all the men. The retort ‘Not this Monsieur’, not this man, suggests Stephen is not comfortable with this arrangement, perhaps due to its sexual nature and Stephen’s catholic guilt.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5117768/James-joyce-ulysses-chap-3-proteus/Moi-faire-she-said-tous-les-messieurs",
+    "original_id": "5117768",
+    "referent_id": 5117768,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Moi faire, she said, Tous les messieurs",
+    "prefix": "aud Gonne, beautiful woman, La Patrie, M. Millevoye, Félix Faure, know how he died? Licentious men. The froeken, bonne à tout faire, who rubs male nakedness in the bath at Upsala. ",
+    "suffix": ". Not this monsieur, I said. Most licentious custom. Bath a most private thing. I wouldn't let my brother, not even my own brother, most lascivious thing. Green eyes, I see you. Fa",
+    "start": 14707,
+    "end": 14746,
+    "canonical_text": "Moi faire, she said, tous les messieurs"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 5117768,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1618748,
+        "login": "Kataryna",
+        "name": "Kataryna",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

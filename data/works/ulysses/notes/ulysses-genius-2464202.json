@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-2464202",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Haines",
+  "html_source": "<p>Stephen Dedalus has quite the tension with this English student, he refers to him as the “Usurper”.</p><p>Further analysis of Haines: his name is a pun on the French word “la haine,” which means hate, and he is anti-Semitic.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2464202/James-joyce-ulysses-chap-1-telemachus/Haines",
+    "original_id": "2464202",
+    "referent_id": 2464202,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Haines",
+    "prefix": "th delight, cried: \n\n — Will he come? The jejune jesuit! \n\n Ceasing, he began to shave with care. \n\n — Tell me, Mulligan, Stephen said quietly. \n\n — Yes, my love? \n\n — How long is ",
+    "suffix": " going to stay in this tower? \n\n Buck Mulligan showed a shaven cheek over his right shoulder. \n\n — God, isn't he dreadful? he said frankly. A ponderous Saxon. He thinks you're not ",
+    "start": 2825,
+    "end": 2831,
+    "canonical_text": "Haines"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.967
+  },
+  "genius": {
+    "referent_id": 2464202,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 0.8974358974358974
+      },
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 0.10256410256410257
+      }
+    ]
+  },
+  "color": "F59627"
+}

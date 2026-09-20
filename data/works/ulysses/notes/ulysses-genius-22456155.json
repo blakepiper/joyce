@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-22456155",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Bous Stephanoumenos",
+  "html_source": "<p>Greek: “crowned bull,” a play on Stephen’s name by his classmates at the university in <a href=\"https://genius.com/2842186\" rel=\"noopener nofollow\">A Portrait</a>. (cf. <a href=\"https://genius.com/7616063\" rel=\"noopener nofollow\">Scylla and Charybdis</a>)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/22456155/James-joyce-ulysses-chap-14-oxen-of-the-sun/Bous-stephanoumenos",
+    "original_id": "22456155",
+    "referent_id": 22456155,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Bous Stephanoumenos",
+    "prefix": "n of the past and its phantoms, Stephen said. Why think of them? If I call them into life across the waters of Lethe will not the poor ghosts troop to my call? Who supposes it? I, ",
+    "suffix": ", bullockbefriending bard, am lord and giver of their life. He encircled his gadding hair with a coronal of vineleaves, smiling at Vincent. That answer and those leaves, Vincent sa",
+    "start": 80789,
+    "end": 80808,
+    "canonical_text": "Bous Stephanoumenos"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 22456155,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 4263328,
+        "login": "bousstephanoumenos",
+        "name": "bousstephanoumenos",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

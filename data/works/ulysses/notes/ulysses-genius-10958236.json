@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10958236",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Grand Lyric Hall",
+  "html_source": "<p>Formerly The Grand Lyric Hall</p><p><a href=\"http://www.arthurlloyd.co.uk/Dublin/TivoliTheatreDublin.htm\" rel=\"noopener nofollow\">http://www.arthurlloyd.co.uk/Dublin/TivoliTheatreDublin.htm</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10958236/James-joyce-ulysses-chap-17-ithaca/Grand-lyric-hall",
+    "original_id": "10958236",
+    "referent_id": 10958236,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Grand Lyric Hall",
+    "prefix": "of York (real) and of His Majesty King Brian Boru (imaginary): thirdly, a conflict between professional etiquette and professional emulation concerning the recent erections of the ",
+    "suffix": " on Burgh Quay and the Theatre Royal in Hawkins street: fourthly, distraction resultant from compassion for Nelly Bouverist's non-intellectual, non-political, non-topical expressio",
+    "start": 28159,
+    "end": 28175,
+    "canonical_text": "Grand Lyric Hall"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10958236,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

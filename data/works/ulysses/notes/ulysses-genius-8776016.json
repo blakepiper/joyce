@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8776016",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Lace affair",
+  "html_source": "<p>The priest in <em>Lotus Eaters</em> is masculinity without the oomph – <em>lace affair</em>,<em>[B]ald spot behind</em> (Maud Ellmann,The Nets of Modernism: Henry James, Virginia Woolf, James Joyce, and Sigmund ,p164).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8776016/James-joyce-ulysses-chap-5-lotus-eaters/Lace-affair",
+    "original_id": "8776016",
+    "referent_id": 8776016,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "lace affair",
+    "prefix": ". Lulls all pain. Wake this time next year. \n\n He saw the priest stow the communion cup away, well in, and kneel an instant before it, showing a large grey bootsole from under the ",
+    "suffix": " he had on. Suppose he lost the pin of his. He wouldn't know what to do to. Bald spot behind. Letters on his back: I.N.R.I? No: I.H.S. Molly told me one time I asked her. I have si",
+    "start": 23265,
+    "end": 23276,
+    "canonical_text": "lace affair"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8776016,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

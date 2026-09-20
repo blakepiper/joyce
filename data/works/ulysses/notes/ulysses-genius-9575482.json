@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9575482",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Shebeen",
+  "html_source": "<p>A shebeen (Irish: síbín) was originally an illicit bar or club where excisable alcoholic beverages were sold without a licence.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9575482/James-joyce-ulysses-chap-15-circe/Shebeen",
+    "original_id": "9575482",
+    "referent_id": 9575482,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "shebeen",
+    "prefix": "stiffen it for you. \n\n(He plodges through their sump towards the lighted street beyond. From a bulge of window curtains a gramophone rears a battered brazen trunk. In the shadow a ",
+    "suffix": "keeper haggles with the navvy and the two redcoats.) \n\n1961#450\n\n THE NAVVY \n\n(Belching.) Where's the bloody house? \n\n1939#322\n\n THE SHEBEENKEEPER \n\n Purdon street. Shilling a bott",
+    "start": 29102,
+    "end": 29109,
+    "canonical_text": "shebeen"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9575482,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9047437",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Nainsook",
+  "html_source": "<p>A soft, light, cotton fabric of a plain weave, formerly used for undergarments.<br />TheFreeDictionary.com</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9047437/James-joyce-ulysses-chap-13-nausicaa/Nainsook",
+    "original_id": "9047437",
+    "referent_id": 9047437,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "nainsook",
+    "prefix": " more to look up after it, high, high, almost out of sight, and her face was suffused with a divine, an entrancing blush from straining back and he could see her other things too, ",
+    "suffix": " knickers, the fabric that caresses the skin, better than those other pettiwidth, the green, four and eleven, on account of being white and she let him and she saw that he saw and ",
+    "start": 51068,
+    "end": 51076,
+    "canonical_text": "nainsook"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9047437,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23908179",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "And",
+  "html_source": "<p>2nd half of the sentence – Bloom poured the drink which Dixon had poured for him into someone else’s  glass.</p><p>The first half is difficult to interpret due the presence of ‘beaver’ – Bloom held his hand or hat up in a jovial manner to indicate he wouldn’t drink it. There is no suggestion of awkwardness or unpleasantness (‘apertly’ and ‘amity’)! There is an echo of otherness and outsiderness which has occurred earlier on in the day – his difficulty negotiating the door in the office in the press works during the Aeolus episode, defending Jews against the obnoxious citizen.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23908179/James-joyce-ulysses-chap-14-oxen-of-the-sun/And",
+    "original_id": "23908179",
+    "referent_id": 23908179,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "And",
+    "prefix": "rpents they brew out a brewage like to mead. \n\n And the learning knight let pour for childe Leopold a draught and halp thereto the while all they that were there drank every each. ",
+    "suffix": " childe Leopold did up his beaver for to pleasure him and took apertly somewhat in amity for he never drank no manner of mead which he then put by and anon full privily he voided t",
+    "start": 11218,
+    "end": 11221,
+    "canonical_text": "And"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 23908179,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

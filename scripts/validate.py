@@ -205,7 +205,14 @@ def validate() -> tuple[list[str], list[str]]:
                 pass
             chapters_by_id[chapter_id] = (work_id, chapter, path)
 
-        note_manifest_path = BASE_DIR / "data" / "notes.json" if work_id == "ulysses" else None
+        # The original Ulysses mirror has a top-level note manifest. Once a
+        # work supplies its own generated layout, discover that layout's
+        # complete note directory so generated Genius IDs are validated too.
+        note_manifest_path = (
+            BASE_DIR / "data" / "notes.json"
+            if work_id == "ulysses" and (work.get("legacy_paths") or {}).get("notes")
+            else None
+        )
         if note_manifest_path and note_manifest_path.exists():
             try:
                 note_ids = [item.get("id") for item in load_json(note_manifest_path)]

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8922065",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Numbers it is",
+  "html_source": "<p><a href=\"http://www.phy.mtu.edu/~suits/chords.html\" rel=\"noopener nofollow\">http://www.phy.mtu.edu/~suits/chords.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8922065/James-joyce-ulysses-chap-11-sirens/Numbers-it-is",
+    "original_id": "8922065",
+    "referent_id": 8922065,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Numbers it is",
+    "prefix": "e name you know better. Take out sheet notepaper, envelope: unconcerned. It's so characteristic. \n\n — Grandest number in the whole opera, Goulding said. \n\n — It is, Bloom said. \n\n ",
+    "suffix": ". All music when you come to think. Two multiplied by two divided by half is twice one. Vibrations: chords those are. One plus 1932#250two plus six is seven. Do anything you like w",
+    "start": 45393,
+    "end": 45406,
+    "canonical_text": "Numbers it is"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8922065,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

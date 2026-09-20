@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10040451",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Spirit is willing",
+  "html_source": "<p>Matthew 26:41<br />King James Bible<br />Watch and pray, that ye enter not into temptation: the spirit indeed is willing, but the flesh is weak.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10040451/James-joyce-ulysses-chap-15-circe/Spirit-is-willing",
+    "original_id": "10040451",
+    "referent_id": 10040451,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Spirit is willing",
+    "prefix": "ore. When was it not Atkinson his card I have somewhere. Mac Somebody. Unmack I have it. He told me about, hold on, Swinburne, was it, no? \n\n FLORRY \n\n And the song? \n\n STEPHEN \n\n ",
+    "suffix": " but the flesh is weak. \n\n FLORRY \n\n Are you out of Maynooth? You're like someone I knew once. \n\n1922#487\n\n STEPHEN \n\n Out of it now. (To himself.) Clever. \n\n1939#367\n\n PHILIP DRUN",
+    "start": 127610,
+    "end": 127627,
+    "canonical_text": "Spirit is willing"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10040451,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

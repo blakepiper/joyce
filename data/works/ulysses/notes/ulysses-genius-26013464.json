@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-26013464",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "And a prettier, a daintier head of winsome curls was never seen",
+  "html_source": "<p>C.f. “a prettier, a daintier head of nutbrown tresses was never seen on a girl’s shoulders” in Nausicaa.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/26013464/James-joyce-ulysses-chap-15-circe/And-a-prettier-a-daintier-head-of-winsome-curls-was-never-seen",
+    "original_id": "26013464",
+    "referent_id": 26013464,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "And a prettier, a daintier head of winsome curls was never seen",
+    "prefix": " a mis dans cette fichue position, Philippe? \n\n PHILIP SOBER \n\n(Gaily.) C'était le sacré pigeon, Philippe. \n\n(Kitty unpins her hat and sets it down calmly, patting her henna hair. ",
+    "suffix": " on a whore's shoulders. Lynch puts on her hat. She whips it off.) \n\n LYNCH \n\n(Laughs.) And to such delights has Metchnikoff inoculated anthropoid apes. \n\n FLORRY \n\n(Nods.) Locomot",
+    "start": 130401,
+    "end": 130464,
+    "canonical_text": "And a prettier, a daintier head of winsome curls was never seen"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 26013464,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 4328905,
+        "login": "panickyintheuk",
+        "name": "panickyintheuk",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8985067",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Rent the welkin",
+  "html_source": "<p>Webster’s Revised Unabridged Dictionary</p><p>n Welkin<br />The visible regions of the air; the vault of heaven; the sky.<br />☞ was the din of the shrieks and shouts which rent the welkin.<br />“In the Wilds of Africa” by W.H.G. Kingston</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8985067/James-joyce-ulysses-chap-12-cyclops/Rent-the-welkin",
+    "original_id": "8985067",
+    "referent_id": 8985067,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "rent the welkin",
+    "prefix": "the Ox and Donegal and Sperrin peaks, the Nagles and the Bograghs, the Connemara hills, the reeks of M Gillicuddy, Slieve Aughty, Slieve Bernagh and Slieve Bloom. Amid cheers that ",
+    "suffix": ", responded to by answering cheers from a big muster of henchmen on the distant Cambrian and Caledonian hills, the mastodontic pleasureship slowly moved away saluted by a final flo",
+    "start": 117476,
+    "end": 117491,
+    "canonical_text": "rent the welkin"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8985067,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15129825",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Grianauns",
+  "html_source": "<p>Another term for a dun or hillfort (also spelled grianan); see, e.g., <a href=\"https://en.wikipedia.org/wiki/Grianan_of_Aileach\" rel=\"noopener nofollow\">Grianan of Aileach</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15129825/James-joyce-ulysses-chap-12-cyclops/Grianauns",
+    "original_id": "15129825",
+    "referent_id": 15129825,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "grianauns",
+    "prefix": "ticle, be it said in passing), a Kerry calf and a golden eagle from Carrantuohill. The scenes depicted on the emunctory field, showing our ancient duns and raths and cromlechs and ",
+    "suffix": " and seats of learning and maledictive stones, are as wonderfully beautiful and the pigments as delicate as when the Sligo illuminators gave free rein to their artistic fantasy lon",
+    "start": 92572,
+    "end": 92581,
+    "canonical_text": "grianauns"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15129825,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

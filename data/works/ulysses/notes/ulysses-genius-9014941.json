@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9014941",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Fair field and no favour",
+  "html_source": "<p>equal conditions in a contest, not unduly favouring or hindering either side</p><p><img src=\"https://images.rapgenius.com/39da1897d205e6a3d05f88eea6a30f36.640x480x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9014941/James-joyce-ulysses-chap-12-cyclops/Fair-field-and-no-favour",
+    "original_id": "9014941",
+    "referent_id": 9014941,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "fair field and no favour",
+    "prefix": " that used to be stravaging about the landings Bantam Lyons told me that was stopping there at two in the morning without a stitch on her, exposing her person, open to all comers, ",
+    "suffix": ". \n\n — The noblest, the truest, says he. And he's gone, poor little Willy, poor little Paddy Dignam. \n\n And mournful and with a heavy heart he bewept the extinction of that beam of",
+    "start": 25372,
+    "end": 25396,
+    "canonical_text": "fair field and no favour"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9014941,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

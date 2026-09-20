@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9093671",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "High colour, of course. Grizzled moustache. Returned Indian officer.",
+  "html_source": "<p>An officer who has been a tour of duty and returns sunburned.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9093671/James-joyce-ulysses-chap-10-wandering-rocks/High-colour-of-course-grizzled-moustache-returned-indian-officer",
+    "original_id": "9093671",
+    "referent_id": 9093671,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "High colour, of course. Grizzled moustache. Returned Indian officer.",
+    "prefix": ", with hulls and anchorchains, sailing westward, sailed by a skiff, a crumpled throwaway, rocked on the ferrywash, Elijah is coming. \n\n Mr Kernan glanced in farewell at his image. ",
+    "suffix": " Bravely he bore his stumpy body forward on spatted feet, squaring his shoulders. Is that Ned Lambert's brother over the way, Sam? What? Yes. He's as like it as damn it. No. The wi",
+    "start": 43423,
+    "end": 43491,
+    "canonical_text": "High colour, of course. Grizzled moustache. Returned Indian officer."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9093671,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083736,
+        "login": "JessicaVestuto",
+        "name": "JessicaVestuto",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

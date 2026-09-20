@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10881242",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Venville",
+  "html_source": "Definition of venville   a tenure under English law peculiar to the neighborhood of Dartmoor forest by which the tenants have some rights in the forest<br />Merriam-Webster.com",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10881242/James-joyce-ulysses-chap-17-ithaca/Venville",
+    "original_id": "10881242",
+    "referent_id": 10881242,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "venville",
+    "prefix": " law merchant) against all traversers in covin and trespassers acting in contravention of bylaws and regulations, all resuscitators (by trespass and petty larceny of kindlings) of ",
+    "suffix": " rights, obsolete by desuetude, all orotund instigators of international persecution, all perpetuators of international animosities, all menial molestors of domestic conviviality, ",
+    "start": 102461,
+    "end": 102469,
+    "canonical_text": "venville"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10881242,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15120385",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "The revolution of Rienzi",
+  "html_source": "<p>Cola di Rienzi (1313-1350) was an Italian populist figure who fomented popular rebellion, leading a successful revolt against the nobility and installing himself as Roman Tribune. He was immortalized in Bulwer-Lytton’s novel “Rienzi, The Last of the Tribunes” and perhaps more famously in the Wagner opera it inspired, “Rienzi, der letzte der Tribunen”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15120385/James-joyce-ulysses-chap-12-cyclops/The-revolution-of-rienzi",
+    "original_id": "15120385",
+    "referent_id": 15120385,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "the revolution of Rienzi",
+    "prefix": " was then promptly given by megaphone and in an instant all heads were bared, 1922#295the commendatore's patriarchal sombrero, which has been in the possession of his family since ",
+    "suffix": ", being removed by his medical adviser in attendance, Dr Pippi. The learned prelate who administered the last comforts of holy religion to the hero martyr when about to pay the dea",
+    "start": 38738,
+    "end": 38762,
+    "canonical_text": "the revolution of Rienzi"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15120385,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

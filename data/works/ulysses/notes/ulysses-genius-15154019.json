@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15154019",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Farraginous",
+  "html_source": "<p>Random, miscellaneous, or indiscriminate. Related to the word <a href=\"https://en.wiktionary.org/wiki/farrago#Latin\" rel=\"noopener nofollow\">farrago</a>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15154019/James-joyce-ulysses-chap-14-oxen-of-the-sun/Farraginous",
+    "original_id": "15154019",
+    "referent_id": 15154019,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "farraginous",
+    "prefix": " into thee. By heaven, Theodore Purefoy, thou hast done a doughty deed and no botch! Thou art, I vow, the remarkablest progenitor barring none in this chaffering allincluding most ",
+    "suffix": " chronicle. Astounding! In her lay a Godframed Godgiven preformed possibility which thou hast fructified with thy modicum of man's work. Cleave to her! Serve! Toil on, labour like ",
+    "start": 102547,
+    "end": 102558,
+    "canonical_text": "farraginous"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15154019,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

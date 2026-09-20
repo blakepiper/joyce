@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11782003",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "New paganism",
+  "html_source": "<p>According to the Gifford reference, a slogan associated with the avant-garde “younger generation” of the 1890s, defined and also questioned as somewhat “misleading.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11782003/James-joyce-ulysses-chap-1-telemachus/New-paganism",
+    "original_id": "11782003",
+    "referent_id": 11782003,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "new paganism",
+    "prefix": " quadrangle. A deaf gardener, aproned, masked with Matthew Arnold's face, pushes his mower on the sombre lawn watching narrowly the dancing motes of grasshalms. \n\n To ourselves... ",
+    "suffix": "... omphalos. \n\n — Let him stay, Stephen said. There's nothing wrong with him except at night. \n\n — Then what is it? Buck Mulligan asked impatiently. Cough it up. I'm quite frank w",
+    "start": 10381,
+    "end": 10393,
+    "canonical_text": "new paganism"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11782003,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1829727,
+        "login": "HestertheMolester",
+        "name": "HestertheMolester",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

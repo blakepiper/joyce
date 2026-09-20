@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21162659",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "And why no other children born?",
+  "html_source": "<p>There is no record of Shakespeare or Hathaway having any children after 1585.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21162659/James-joyce-ulysses-chap-9-scylla-and-charybdis/And-why-no-other-children-born",
+    "original_id": "21162659",
+    "referent_id": 21162659,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "And why no other children born?",
+    "prefix": "terlinck. Abbey Theatre! I smell the pubic sweat of monks. \n\n He spat blank. \n\n Forgot: any more than he forgot the whipping lousy Lucy gave him. And left the femme de trente ans. ",
+    "suffix": " And his first child a girl? \n\n Afterwit. Go back. \n\n The dour recluse still there (he has his cake) and the douce youngling, minion of pleasure, Phedo's toyable fair hair. \n\n1961#",
+    "start": 65707,
+    "end": 65738,
+    "canonical_text": "And why no other children born?"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21162659,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

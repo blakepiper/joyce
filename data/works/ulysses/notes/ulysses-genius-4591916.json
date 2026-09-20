@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4591916",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Orthodox Samaritan fashion",
+  "html_source": "<p>An obvious allusion to “the Good Samaritan” (<a href=\"https://genius.com/3468830\" rel=\"noopener nofollow\">Luke 10:33</a>). The Good Samaritan helped an injured robbery victim after a priest and Levite just passed him by. The story epitomizes the virtue of kindness to strangers and the ignored.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4591916/James-joyce-ulysses-chap-16-eumaeus/Orthodox-samaritan-fashion",
+    "original_id": "4591916",
+    "referent_id": 4591916,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "orthodox Samaritan fashion",
+    "prefix": "\n\nIII\n\n\n\n[16]\n\n\n\nPreparatory to anything else Mr Bloom brushed off the greater bulk of the shavings and handed Stephen the hat and ashplant and bucked him up generally in ",
+    "suffix": " which he very badly needed. His (Stephen's) mind was not exactly what you would call wandering but a bit unsteady and on his expressed desire for some beverage to drink Mr Bloom i",
+    "start": 171,
+    "end": 197,
+    "canonical_text": "orthodox Samaritan fashion"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4591916,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.9487179487179488
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.05128205128205129
+      }
+    ]
+  },
+  "color": "F59627"
+}

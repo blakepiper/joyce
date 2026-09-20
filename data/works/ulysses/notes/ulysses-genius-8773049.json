@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8773049",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Manflower",
+  "html_source": "<p>Orchis italica, commonly known as the naked man orchid or the Italian orchid, is a species of orchid native to the Mediterranean. They are widely popular for their petals looking like naked men. It prefers partial shade and low nutrient soil and flowers in April.</p><p><img src=\"https://images.rapgenius.com/43b34deeaa3f784ae800acbbb21e7fd0.500x706x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8773049/James-joyce-ulysses-chap-5-lotus-eaters/Manflower",
+    "original_id": "8773049",
+    "referent_id": 8773049,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "manflower",
+    "prefix": "cause no-one can hear. Or a poison bouquet to strike him down. Then walking slowly forward he read the letter again, murmuring here and there a word. Angry tulips with you darling ",
+    "suffix": " punish your cactus if you don't please poor forgetmenot how I long violets to dear roses when we soon anemone meet all naughty nightstalk wife Martha's perfume. Having read it all",
+    "start": 16242,
+    "end": 16251,
+    "canonical_text": "manflower"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8773049,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23885970",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "And",
+  "html_source": "<p>There was great craic round the table.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23885970/James-joyce-ulysses-chap-14-oxen-of-the-sun/And",
+    "original_id": "23885970",
+    "referent_id": 23885970,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "And",
+    "prefix": "usly. And there were vessels that are wrought by magic of Mahound out of seasand and the 1922#369air by a warlock with 1939#279his breath that he blares into them like to bubbles. ",
+    "suffix": " full fair cheer and rich was on the board that no wight could devise a fuller ne richer. And there was a vat of silver that was moved by craft to open in the which lay strange fis",
+    "start": 10241,
+    "end": 10244,
+    "canonical_text": "And"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9388
+  },
+  "genius": {
+    "referent_id": 23885970,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

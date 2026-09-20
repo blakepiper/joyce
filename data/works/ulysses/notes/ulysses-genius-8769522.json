@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8769522",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "ERIN’S KING",
+  "html_source": "<p>Erin’s King is apparently the name of a boat Bloom remembers being on with Milly. However, Erin is another name for Ireland. Who is Ireland’s king?<br />Erin is a Hiberno-English derivative of the Irish word “Éirinn”. “Éirinn” is the dative case of the Irish word for Ireland.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8769522/James-joyce-ulysses-chap-4-calypso/Erins-king",
+    "original_id": "8769522",
+    "referent_id": 8769522,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "ERIN'S KING",
+    "prefix": " smiled with troubled affection at the kitchen window.1961#66 Day I caught her in the street pinching her cheeks to make them red. Anemic a little. Was given milk too long. On the ",
+    "suffix": " that day round round the Kish. Damned old tub pitching about. Not a bit funky. Her pale blue scarf loose in the wind with her hair. \n\n1986#54\n\nAll dimpled cheeks and curls, \nYour ",
+    "start": 26761,
+    "end": 26772,
+    "canonical_text": "Erin's King"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 8769522,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

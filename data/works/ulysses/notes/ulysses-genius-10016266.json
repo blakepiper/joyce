@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10016266",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Hennessy’s three stars",
+  "html_source": "<p><img src=\"https://images.genius.com/0458fa03f4d601d9cec99c8bcd5a8d24.210x316x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10016266/James-joyce-ulysses-chap-15-circe/Hennessys-three-stars",
+    "original_id": "10016266",
+    "referent_id": 10016266,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Hennessy's three stars",
+    "prefix": "s my ruination when I was pure. \n\n1961#508\n\n ZOE-FANNY \n\n I let him larrup it into me for the fun of it. \n\n FLORRY-TERESA \n\n It was in consequence of a portwine beverage on top of ",
+    "suffix": " I was guilty with Whelan when he slipped into the bed. \n\n STEPHEN \n\n In the beginning was the word, in the end the world without end. Blessed be the eight beatitudes. \n\n(The beati",
+    "start": 111683,
+    "end": 111705,
+    "canonical_text": "Hennessy's three star."
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9545
+  },
+  "genius": {
+    "referent_id": 10016266,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

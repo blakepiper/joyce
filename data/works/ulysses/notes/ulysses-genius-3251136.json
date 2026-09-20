@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-3251136",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Nannan",
+  "html_source": "<p>Nickname for Nannetti. <a href=\"http://en.wikibooks.org/wiki/Annotations_to_James_Joyce&#x27;s_Ulysses/Aeolus/115#cite_note-1\" rel=\"noopener nofollow\">See wiki annotations</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3251136/James-joyce-ulysses-chap-7-aeolus/Nannan",
+    "original_id": "3251136",
+    "referent_id": 3251136,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Nannan",
+    "prefix": " said. This ad, you see. Keyes, you remember? \n\n Mr Nannetti considered the cutting awhile and nodded. \n\n — He wants it in for July, Mr Bloom said. \n\n1961#119\n\nHe doesn't hear it. ",
+    "suffix": ". Iron nerves.\n\nThe foreman moved his pencil towards it. \n\n — But wait, Mr Bloom said. He wants it changed. Keyes, you see. He wants two keys at the top. \n\n1922#115\n\n Hell of a rac",
+    "start": 6861,
+    "end": 6867,
+    "canonical_text": "Nannan"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3251136,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.5
+      },
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.5
+      }
+    ]
+  },
+  "color": "F59627"
+}

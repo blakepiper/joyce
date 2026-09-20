@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9176082",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Threnes and trentals",
+  "html_source": "<p>musical lamentations or requiems</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9176082/James-joyce-ulysses-chap-14-oxen-of-the-sun/Threnes-and-trentals",
+    "original_id": "9176082",
+    "referent_id": 9176082,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "threnes and trentals",
+    "prefix": ", mumps, quinsy, 1961#423bunions, hayfever, bedsores, ringworm, floating kidney, Derbyshire neck, warts, bilious 1986#345attacks, gallstones, cold feet, varicose veins. A truce to ",
+    "suffix": " and jeremies and all such congenital defunctive music! Twenty years of it, regret them not. With thee it was not as with many that will and would and wait and never do. Thou sawes",
+    "start": 103685,
+    "end": 103705,
+    "canonical_text": "threnes and trentals"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9176082,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

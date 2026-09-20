@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4546834",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "When he could have been in Mr Cuffes still only for what he did",
+  "html_source": "<p>Mr. Bloom worked as a clerk in Mr. Cuffe’s Cattle Market from 1893 to 1894, so about ten years ago. He was fired when Mr. Cuffe was insulted by Mr. Bloom’s perceived rude behavior.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4546834/James-joyce-ulysses-chap-18-penelope/When-he-could-have-been-in-mr-cuffes-still-only-for-what-he-did",
+    "original_id": "4546834",
+    "referent_id": 4546834,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "when he could have been in Mr Cuffes still only for what he did",
+    "prefix": "you cant stir with him any side whats your programme today I wish hed even smoke a pipe like father to get the smell of a man or pretending to be mooching about for advertisements ",
+    "suffix": " then sending me to try and patch it up I could have got him promoted there to be the manager he gave me a great mirada once or twice first he was as stiff as the mischief really a",
+    "start": 38085,
+    "end": 38148,
+    "canonical_text": "when he could have been in Mr Cuffes still only for what he did"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4546834,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

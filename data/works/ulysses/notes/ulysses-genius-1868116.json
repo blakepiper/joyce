@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-1868116",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "To ourselves",
+  "html_source": "<p>English translation of the Gaelic, <a href=\"http://en.wikipedia.org/wiki/Sinn_F%C3%A9in\" rel=\"noopener nofollow\">Sinn Féin</a>, the party of Irish nationalism.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1868116/James-joyce-ulysses-chap-1-telemachus/To-ourselves",
+    "original_id": "1868116",
+    "referent_id": 1868116,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "To ourselves",
+    "prefix": "g evening in the quadrangle. A deaf gardener, aproned, masked with Matthew Arnold's face, pushes his mower on the sombre lawn watching narrowly the dancing motes of grasshalms. \n\n ",
+    "suffix": "... new paganism... omphalos. \n\n — Let him stay, Stephen said. There's nothing wrong with him except at night. \n\n — Then what is it? Buck Mulligan asked impatiently. Cough it up. I",
+    "start": 10365,
+    "end": 10377,
+    "canonical_text": "To ourselves"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1868116,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 176532,
+        "login": "biblicalmike",
+        "name": "Michael Bible",
+        "role": "verified_artist",
+        "attribution": 0.9166666666666667
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.08333333333333334
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8809158",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Reproachful",
+  "html_source": "<p>Shameful or deserving blame</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8809158/James-joyce-ulysses-chap-1-telemachus/Reproachful",
+    "original_id": "8809158",
+    "referent_id": 8809158,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "reproachful",
+    "prefix": "a dream she had come to him after her death, her wasted body within its loose brown graveclothes giving off an odour of wax and rosewood, her breath, that had bent upon him, mute, ",
+    "suffix": ", a faint odour of wetted ashes. Across the 1922#5threadbare cuffedge he saw the sea hailed as a great sweet mother by the wellfed voice beside him. The ring of bay and skyline hel",
+    "start": 6081,
+    "end": 6092,
+    "canonical_text": "reproachful"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8809158,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.5555555555555556
+      },
+      {
+        "id": 3013920,
+        "login": "Timmitei",
+        "name": "Timmitei",
+        "role": null,
+        "attribution": 0.4444444444444444
+      }
+    ]
+  },
+  "color": "F59627"
+}

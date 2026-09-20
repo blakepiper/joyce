@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-24417266",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Violet",
+  "html_source": "<p>Same color as Molly’s new garters in real life</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/24417266/James-joyce-ulysses-chap-15-circe/Violet",
+    "original_id": "24417266",
+    "referent_id": 24417266,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "violet",
+    "prefix": "an in Turkish costume stands before him. Opulent curves fill out her scarlet 1922#417trousers and jacket, slashed with gold. A wide yellow cummerbund girdles her. A white yashmak, ",
+    "suffix": " in the night, covers her face, leaving free only her large dark eyes and raven hair.) \n\n BLOOM \n\n Molly! \n\n MARION \n\n Welly? Mrs Marion from this out, my dear man, when you speak ",
+    "start": 14392,
+    "end": 14398,
+    "canonical_text": "violet"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9284
+  },
+  "genius": {
+    "referent_id": 24417266,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 10526289,
+        "login": "satchlj",
+        "name": "satchlj",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

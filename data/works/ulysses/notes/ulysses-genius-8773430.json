@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8773430",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Osssticks",
+  "html_source": "<p>Joss sticks are a type of incense. They are traditionally burned before an Asian religious image, idol, buddha statue, or shrine</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8773430/James-joyce-ulysses-chap-5-lotus-eaters/Osssticks",
+    "original_id": "8773430",
+    "referent_id": 8773430,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "osssticks",
+    "prefix": ". The protestants are the same. Convert Dr William J. Walsh D.D. to the true religion. Buddha their god lying on his side in the museum. Taking it easy with hand under his cheek. J",
+    "suffix": " burning. Not like Ecce Homo. Crown of thorns and cross. Clever idea Saint Patrick the shamrock. Chopsticks? Conmee: Martin Cunningham knows him: distinguishedlooking. Sorry I didn",
+    "start": 20346,
+    "end": 20355,
+    "canonical_text": "osssticks"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8773430,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

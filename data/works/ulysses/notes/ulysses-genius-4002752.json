@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4002752",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "He",
+  "html_source": "<p>The Boots boy.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4002752/James-joyce-ulysses-chap-11-sirens/He",
+    "original_id": "4002752",
+    "referent_id": 4002752,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "he",
+    "prefix": "oul. \n\n1932#231\n\n The boots to them, them in the bar, them barmaids came. For them unheeding him he banged on the counter his tray of chattering china. And \n\n — There's your teas, ",
+    "suffix": " said. \n\n Miss Kennedy with manners transposed the teatray down to an upturned lithia crate, safe from eyes, low. \n\n — What is it? loud boots unmannerly asked. \n\n — Find out, Miss ",
+    "start": 3935,
+    "end": 3937,
+    "canonical_text": "he"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 4002752,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

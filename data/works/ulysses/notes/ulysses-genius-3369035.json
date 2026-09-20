@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-3369035",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Hamlet, I am thy father’s spirit,",
+  "html_source": "<p>A misquote (Gifford) but introduces Stephen’s message that Hamlet is Shakespeare.</p><p>Interestingly, Bloom makes the same mistake in (<a href=\"https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated/\" rel=\"noopener nofollow\">Chapter 8</a>).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3369035/James-joyce-ulysses-chap-9-scylla-and-charybdis/Hamlet-i-am-thy-fathers-spirit",
+    "original_id": "3369035",
+    "referent_id": 3369035,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Hamlet, I am thy father's spirit,",
+    "prefix": " not vanity in order to play the part of the spectre. He speaks the words to Burbage, the young player who stands before him beyond the rack of cerecloth, calling him by a name: \n\n",
+    "suffix": " \n\n1939#138bidding him list. To a son he speaks, the son of his soul, the prince, young Hamlet and to the son of his body, Hamnet Shakespeare, who has died in Stratford that his na",
+    "start": 9700,
+    "end": 9733,
+    "canonical_text": "Hamlet, I am thy father's spirit,"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3369035,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.55
+      },
+      {
+        "id": 1482232,
+        "login": "JayEn",
+        "name": "JayEn",
+        "role": "editor",
+        "attribution": 0.45
+      }
+    ]
+  },
+  "color": "F59627"
+}

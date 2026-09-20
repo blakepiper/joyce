@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-24331620",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Mrs Riordan",
+  "html_source": "<p>Mrs Dante Riordan, devout Catholic, features prominently in the early parts of <em>Portrait of the Artist as a Young Man</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/24331620/James-joyce-ulysses-chap-17-ithaca/Mrs-riordan",
+    "original_id": "24331620",
+    "referent_id": 24331620,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Mrs Riordan",
+    "prefix": "itude, in appreciatively grateful sincerity of regret, he declined. \n\n Did their conversation on the subject of these reminiscences reveal a third connecting link between them? \n\n ",
+    "suffix": " (Dante), a widow of independent means, had resided in the house of Stephen's parents from 1 September 1888 to 29 December 1891 and had also resided during the years 1892, 1893 and",
+    "start": 31188,
+    "end": 31199,
+    "canonical_text": "Mrs Riordan"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 24331620,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9699081,
+        "login": "AntoineBoisvert",
+        "name": "AntoineBoisvert",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

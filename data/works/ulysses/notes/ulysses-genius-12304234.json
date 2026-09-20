@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-12304234",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Wellfed",
+  "html_source": "<p>In my opinion it’s related to the people drowned in sea : Wellfed<br />Joyce creates a relation betwen sea and Stephen’s mom with using  “green mass of liquid” and “green sluggish bile”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/12304234/James-joyce-ulysses-chap-1-telemachus/Wellfed",
+    "original_id": "12304234",
+    "referent_id": 12304234,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "wellfed",
+    "prefix": "od, her breath, that had bent upon him, mute, reproachful, a faint odour of wetted ashes. Across the 1922#5threadbare cuffedge he saw the sea hailed as a great sweet mother by the ",
+    "suffix": " voice beside him. The ring of bay and skyline held a dull green mass of liquid. A bowl of white1932#5 china had stood beside her deathbed holding the green sluggish bile which she",
+    "start": 6215,
+    "end": 6222,
+    "canonical_text": "wellfed"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 12304234,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 783302,
+        "login": "13leak",
+        "name": "13leak",
+        "role": null,
+        "attribution": 0.8709677419354839
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.12903225806451613
+      }
+    ]
+  },
+  "color": "F59627"
+}

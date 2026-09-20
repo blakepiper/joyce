@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8951012",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Little Alf Bergan",
+  "html_source": "<p>There was a real-life Alf Bergan who was assistant to the subsheriff in Dublin in 1904. He was a typical Dublin character and practical joker. He gets a particular kick out of watching Denis Breen stumble around town trying to take legal action over his U.P. postcard, and seems to suggest that he might be somehow involved with the prank.<br /><a href=\"http://www.shmoop.com/ulysses-joyce/alf-bergan.html\" rel=\"noopener nofollow\">http://www.shmoop.com/ulysses-joyce/alf-bergan.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8951012/James-joyce-ulysses-chap-12-cyclops/Little-alf-bergan",
+    "original_id": "8951012",
+    "referent_id": 8951012,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Little Alf Bergan",
+    "prefix": "nd behind him there passed an elder of noble gait and countenance, bearing the sacred scrolls of law and with him his lady wife a dame of peerless lineage, fairest of her race. \n\n ",
+    "suffix": " popped in round the door and hid behind Barney's snug, squeezed up with the laughing. And who was sitting up there in the corner that I hadn't seen snoring drunk blind to the worl",
+    "start": 16055,
+    "end": 16072,
+    "canonical_text": "Little Alf Bergan"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8951012,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4592244",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "O tell me where is fancy bread?",
+  "html_source": "<p><a href=\"https://genius.com/3377082\" rel=\"noopener nofollow\">The start of a song in Shakespeare’s “The Merchant of Venice”, Act 3, Scene 2.</a> [Gifford]</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4592244/James-joyce-ulysses-chap-16-eumaeus/O-tell-me-where-is-fancy-bread",
+    "original_id": "4592244",
+    "referent_id": 4592244,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "O tell me where is fancy bread?",
+    "prefix": "here they were, the very palatable odour indeed of our daily bread, of all commodities of the public the primary and most indispensable. Bread, the staff of life, earn your bread, ",
+    "suffix": ", at Rourke's the baker's it is said. \n\n En route, to his taciturn and, not to put too fine a point on it, not yet perfectly sober companion, Mr Bloom, who at all events, was in co",
+    "start": 4265,
+    "end": 4295,
+    "canonical_text": "O tell me where is fancy bread"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4592244,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

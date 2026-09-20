@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11336392",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "The winds that waft my sighs to thee",
+  "html_source": "<p><a href=\"https://www.youtube.com/watch?v=4z_cB_5Tgg4&amp;list=PLUSRfoOcUe4ZmWmiwailgfPhCn1sFstez&amp;index=17\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=4z_cB_5Tgg4&amp;list=PLUSRfoOcUe4ZmWmiwailgfPhCn1sFstez&amp;index=17</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11336392/James-joyce-ulysses-chap-18-penelope/The-winds-that-waft-my-sighs-to-thee",
+    "original_id": "11336392",
+    "referent_id": 11336392,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "the winds that waft my sighs to thee",
+    "prefix": "e to his wife after that only I suppose the half of those sailors are rotten again 1932#677with disease O move over your big carcass out of that for the love of Mike listen to him ",
+    "suffix": " so well he may sleep and sigh the great Suggester Don Poldo de la Flora if he knew how he came out on the 1986#639cards this morning hed have something to sigh for a dark man in s",
+    "start": 106042,
+    "end": 106078,
+    "canonical_text": "the winds that waft my sighs to thee"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11336392,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

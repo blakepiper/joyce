@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4603165",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "By their total absence",
+  "html_source": "<p>M'Coy and Stephen are listed as mourners but did not attend the funeral.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4603165/James-joyce-ulysses-chap-16-eumaeus/By-their-total-absence",
+    "original_id": "4603165",
+    "referent_id": 4603165,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "by their total absence",
+    "prefix": " it incorrectly stated) and 1961#647the line of bitched type, but tickled to death simultaneously by C. P. M'Coy and Stephen Dedalus, B. A., who were conspicuous, needless to say, ",
+    "suffix": " (to say nothing of M'Intosh), L. Boom pointed it out to his companion B. A., engaged in stifling another yawn, half nervousness, not forgetting the usual crop of nonsensical howle",
+    "start": 86530,
+    "end": 86552,
+    "canonical_text": "by their total absence"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4603165,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

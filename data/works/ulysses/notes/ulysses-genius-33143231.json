@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33143231",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "To",
+  "html_source": "<p>Stephen then said to the lot of them –</p><p>‘Murmur, sirs, is eke oft among lay folk.’</p><p>Does  ‘murmur’ refer to prayer or complaint?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33143231/James-joyce-ulysses-chap-14-oxen-of-the-sun/To",
+    "original_id": "33143231",
+    "referent_id": 33143231,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "To",
+    "prefix": "igion sake by rede of palmer and bedesman and for a vow he had made to Saint Ultan of Arbraccan her goodman husband would not let her death whereby they were all wondrous grieved. ",
+    "suffix": " whom young Stephen 1922#371had these words following: Murmur, sirs, is eke oft among lay folk. Both babe and parent now glorify their Maker, the one in limbo gloom, the other in p",
+    "start": 15692,
+    "end": 15694,
+    "canonical_text": "To"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9712
+  },
+  "genius": {
+    "referent_id": 33143231,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

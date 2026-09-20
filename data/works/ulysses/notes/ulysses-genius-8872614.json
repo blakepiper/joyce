@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8872614",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "The old saying",
+  "html_source": "<p>“Tea – the cups that cheer but not inebriate.”<br />William Cowper 1731-1800<br />English poet and hymnodist</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8872614/James-joyce-ulysses-chap-10-wandering-rocks/The-old-saying",
+    "original_id": "8872614",
+    "referent_id": 8872614,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "the old saying",
+    "prefix": "racter for those fellows. Knight of the road. Gentleman. And now, Mr Crimmins, may we have the honour of your 1932#215custom again, sir. The cup that cheers but not inebriates, as ",
+    "suffix": " has it. \n\n North wall and sir John Rogerson's quay, with hulls and anchorchains, sailing westward, sailed by a skiff, a crumpled throwaway, rocked on the ferrywash, Elijah is comi",
+    "start": 43178,
+    "end": 43192,
+    "canonical_text": "the old saying"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8872614,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

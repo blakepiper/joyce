@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2081133",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "To revert to Mr Bloom",
+  "html_source": "<p>This section (from “To revert to Mr. Bloom” to “of the Supreme Being”) is written in the style of Irish statesman and political philosopher <a href=\"http://en.wikipedia.org/wiki/Edmund_Burke\" rel=\"noopener nofollow\">Edmund Burke</a>.</p><p><img src=\"https://images.genius.com/4805f3ec99700093e1d0a5808e899b50.180x232x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2081133/James-joyce-ulysses-chap-14-oxen-of-the-sun/To-revert-to-mr-bloom",
+    "original_id": "2081133",
+    "referent_id": 2081133,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "To revert to Mr Bloom",
+    "prefix": " particular to honour thy father and thy mother 1986#332that had the best hand to a rolypoly or a hasty pudding as you ever see what I always looks back on with a loving heart. \n\n ",
+    "suffix": " who, after his first entry, had been conscious of some impudent mocks which he however had borne with being the fruits of that age upon which it is commonly charged that it knows ",
+    "start": 60948,
+    "end": 60969,
+    "canonical_text": "To revert to Mr Bloom"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2081133,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

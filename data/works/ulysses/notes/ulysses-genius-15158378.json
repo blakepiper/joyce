@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15158378",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Zoe mou sas agapo",
+  "html_source": "<p>Greek for “My life, I love you” though the word “Zoe” also refers to Zoe’s name.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15158378/James-joyce-ulysses-chap-15-circe/Zoe-mou-sas-agapo",
+    "original_id": "15158378",
+    "referent_id": 15158378,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Zoe mou sas agapo",
+    "prefix": "an. Go to hell! I paid my way. If I could only find out about octaves. Reduplication of personality. Who was it told me his name? (His lawnmower begins to 1961#518purr.) Aha, yes. ",
+    "suffix": ". Have a notion I was here before. When was it not Atkinson his card I have somewhere. Mac Somebody. Unmack I have it. He told me about, hold on, Swinburne, was it, no? \n\n FLORRY \n",
+    "start": 127383,
+    "end": 127400,
+    "canonical_text": "Zoe mou sas agapo"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15158378,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-5111400",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Pointsman’s",
+  "html_source": "<p>A man who has charge of the “points” on a railway, the tapering, movable rails that direct vehicles from one line of rails to another.</p><p><img src=\"https://images.genius.com/48384656fe4b9f293cf992e11bd27bac.594x450x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5111400/James-joyce-ulysses-chap-6-hades/Pointsmans",
+    "original_id": "5111400",
+    "referent_id": 5111400,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "pointsman's",
+    "prefix": "re now. Nodding. Full as a tick. Too much bone in their skulls. The other trotting round with a fare. An hour ago I was passing there. The jarvies raised their hats. \n\n1932#81\n\n A ",
+    "suffix": " back straightened itself upright suddenly against a tramway standard by Mr Bloom's window. Couldn't they invent something automatic 1922#88so that the wheel itself much handier? W",
+    "start": 10080,
+    "end": 10091,
+    "canonical_text": "pointsman's"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5111400,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.5454545454545454
+      },
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 0.45454545454545453
+      }
+    ]
+  },
+  "color": "F59627"
+}

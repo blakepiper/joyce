@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15103384",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Screwed",
+  "html_source": "<p>Irish slang for drunk</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15103384/James-joyce-ulysses-chap-11-sirens/Screwed",
+    "original_id": "15103384",
+    "referent_id": 15103384,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Screwed",
+    "prefix": "r about his drink. Flaw in the glass, fresh Vartry water. Fecking matches from counters to save. Then squander a sovereign in dribs and drabs. And when he's wanted not a farthing. ",
+    "suffix": " refusing to pay his fare. Curious types. \n\n Never would Richie forget that night. As long as he lived: never. In the gods of the old Royal with little Peake. And when the first no",
+    "start": 32839,
+    "end": 32846,
+    "canonical_text": "Screwed"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15103384,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

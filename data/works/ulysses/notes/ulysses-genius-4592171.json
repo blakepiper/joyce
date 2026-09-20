@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4592171",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Through rising fog a dragon sandstrewer, travelling at caution, slews heavily down upon him",
+  "html_source": "<p>Bloom is almost run over by a sand-strewer.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4592171/James-joyce-ulysses-chap-15-circe/Through-rising-fog-a-dragon-sandstrewer-travelling-at-caution-slews-heavily-down-upon-him",
+    "original_id": "4592171",
+    "referent_id": 4592171,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Through rising fog a dragon sandstrewer, travelling at caution, slews heavily down upon him",
+    "prefix": "wing, swim by him, grazing him, their bells rattling.) \n\n THE BELLS \n\n Haltyaltyaltyall. \n\n BLOOM \n\n(Halts erect, stung by a spasm.) Ow! \n\n(He looks round, darts forward suddenly. ",
+    "suffix": ", its huge red headlight winking, its trolley hissing on the wire. The motorman bangs his footgong.) \n\n THE GONG \n\n Bang Bang Bla Bak Blud Bugg Bloo. \n\n(The brake cracks violently.",
+    "start": 8663,
+    "end": 8754,
+    "canonical_text": "Through rising fog a dragon sandstrewer, travelling at caution, slews heavily down upon him"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4592171,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

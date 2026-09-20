@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15156215",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Dolman",
+  "html_source": "<p>A long Turkish cloak, usually open in the front, with large sleeves.</p><p><img src=\"https://images.genius.com/4b76562b2d5903b4bac401a172deee0b.550x550x1.png\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15156215/James-joyce-ulysses-chap-15-circe/Dolman",
+    "original_id": "15156215",
+    "referent_id": 15156215,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "dolman",
+    "prefix": "tronomer royal at the levee. Sir Bob, I said... \n\n1922#440\n\n MRS YELVERTON BARRY \n\n(In lowcorsaged opal balldress and elbowlength ivory gloves, wearing a sabletrimmed brickquilted ",
+    "suffix": ", a comb of brilliants and panache of osprey in her hair.) Arrest him, constable. He wrote me an anonymous letter in prentice backhand when my husband was in the North Riding of Ti",
+    "start": 51086,
+    "end": 51092,
+    "canonical_text": "dolman"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15156215,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

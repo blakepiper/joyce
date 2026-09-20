@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8877223",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Do a bunk",
+  "html_source": "<p>informal<br />Make a hurried or furtive departure or escape</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8877223/James-joyce-ulysses-chap-10-wandering-rocks/Do-a-bunk",
+    "original_id": "8877223",
+    "referent_id": 8877223,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "do a bunk",
+    "prefix": "y sovereigns. Gob, that'd be a good pucking match to see. Myler Keogh, that's the chap sparring out to him with the green sash. Two bar entrance, soldiers half price. I could easy ",
+    "suffix": " on ma. Master Dignam on his left turned as he turned. 1961#250That's me in mourning. When is it? May the twentysecond. Sure, the blooming thing is all over. He turned to the right",
+    "start": 65350,
+    "end": 65359,
+    "canonical_text": "do a bunk"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8877223,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

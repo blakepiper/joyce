@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15123878",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Puck",
+  "html_source": "<p>Slang for a punch or blow; see mention of Pucking Percy below</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15123878/James-joyce-ulysses-chap-12-cyclops/Puck",
+    "original_id": "15123878",
+    "referent_id": 15123878,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "puck",
+    "prefix": "Sayers was only a bloody fool to it. Handed him the father and mother of a beating. See the little kipper not up to his navel and the big fellow swiping. God, he gave him one last ",
+    "suffix": " in the wind, Queensberry rules and all, made him puke what he never ate. \n\n It was a historic and a hefty battle when Myler and Percy were scheduled to don the gloves for the purs",
+    "start": 61953,
+    "end": 61957,
+    "canonical_text": "puck"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15123878,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

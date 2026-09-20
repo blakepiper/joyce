@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20012816",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "There is a flower that bloometh",
+  "html_source": "<p>Song from William Vincent Wallace’s 1845 opera <em>Maritana</em>.</p><p><a href=\"https://www.youtube.com/watch?v=YcAUf5UnwX0\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=YcAUf5UnwX0</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20012816/James-joyce-ulysses-chap-18-penelope/There-is-a-flower-that-bloometh",
+    "original_id": "20012816",
+    "referent_id": 20012816,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "there is a flower that bloometh",
+    "prefix": "ged for fun to the son of a Spanish nobleman named Don Miguel de la Flora and he believed me that I was to be married to him in 3 years time theres many a true word spoken in jest ",
+    "suffix": " a few things I told him true about 1932#660myself just for him to be imagining the Spanish girls he didnt like I suppose one of them wouldnt have him I got him excited he crushed ",
+    "start": 57641,
+    "end": 57672,
+    "canonical_text": "there is a flower that bloometh"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20012816,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11041825,
+        "login": "raggedclaws",
+        "name": "raggedclaws",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

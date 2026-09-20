@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-1822351",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Jejune jesuit!",
+  "html_source": "<p>Jejune roughly means naive and superficial.Mulligan pokes fun at Stephen’s morose nature and the fact that he was a theology student.</p><p>Stephen had religious phases <em>Portrait of the Artist as a Young Man</em>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1822351/James-joyce-ulysses-chap-1-telemachus/Jejune-jesuit",
+    "original_id": "1822351",
+    "referent_id": 1822351,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "jejune jesuit!",
+    "prefix": "ck himself. We must go to Athens. Will you come if I can get the aunt to fork out twenty quid? \n\n He laid the brush aside and, laughing with delight, cried: \n\n — Will he come? The ",
+    "suffix": " \n\n Ceasing, he began to shave with care. \n\n — Tell me, Mulligan, Stephen said quietly. \n\n — Yes, my love? \n\n — How long is Haines going to stay in this tower? \n\n Buck Mulligan sho",
+    "start": 2687,
+    "end": 2701,
+    "canonical_text": "jejune jesuit!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1822351,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 141494,
+        "login": "Soma_Cruz",
+        "name": "Soma_Cruz",
+        "role": "contributor",
+        "attribution": 0.4705882352941177
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.35294117647058826
+      },
+      {
+        "id": 3013920,
+        "login": "Timmitei",
+        "name": "Timmitei",
+        "role": null,
+        "attribution": 0.17647058823529413
+      }
+    ]
+  },
+  "color": "F59627"
+}

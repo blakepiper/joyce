@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9165891",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Catamenic period",
+  "html_source": "<p>menstruation</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9165891/James-joyce-ulysses-chap-14-oxen-of-the-sun/Catamenic-period",
+    "original_id": "9165891",
+    "referent_id": 9165891,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "catamenic period",
+    "prefix": "hat distressing manner of delivery called by the Brandenburghers Sturzgeburt, the recorded instances of multigeminal, twikindled and monstruous births conceived 1932#371during the ",
+    "suffix": " or of consanguineous parents— in a word all the cases of human nativity which Aristotle has classified in his masterpiece with 1986#335chromolithographic illustrations. The graves",
+    "start": 70597,
+    "end": 70613,
+    "canonical_text": "catamenic period"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9165891,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

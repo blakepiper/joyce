@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15149100",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Childermas",
+  "html_source": "<p>A <a href=\"https://en.wikipedia.org/wiki/Massacre_of_the_Innocents#Feast_day\" rel=\"noopener nofollow\">Christian feast day</a> commemorating the Massacre of the Innocents, when King Herod supposedly executed all young men in the vicinity of Bethlehem to prevent the King of the Jews from rising up in fulfillment of prophecy. Hence childer (“children”).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15149100/James-joyce-ulysses-chap-14-oxen-of-the-sun/Childermas",
+    "original_id": "15149100",
+    "referent_id": 15149100,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Childermas",
+    "prefix": "man then right earnest asked the nun of which death the dead man was died and the nun answered him and said that he was died in Mona Island through bellycrab three year agone come ",
+    "suffix": " and she 1961#385prayed to God the Allruthful to have his dear soul in his undeathliness. He heard her sad words, in held hat sad staring. So stood they there both awhile in wanhop",
+    "start": 7122,
+    "end": 7132,
+    "canonical_text": "Childermas"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15149100,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

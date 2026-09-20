@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-6419760",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "That was a papish but is now, folk say, a good Williamite",
+  "html_source": "<p>He was Catholic (papish or supporting the pope) but is now Protestant.  A Williamite is a  follower of King William III who deposed King James II in part because King James II was Catholic.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6419760/James-joyce-ulysses-chap-14-oxen-of-the-sun/That-was-a-papish-but-is-now-folk-say-a-good-williamite",
+    "original_id": "6419760",
+    "referent_id": 6419760,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "that was a papish but is now, folk say, a good Williamite",
+    "prefix": "ce Fitzgibbon's door (that is to sit with Mr Healy the lawyer upon the college lands) Mal. Mulligan a gentleman's gentleman that had but come from 1922#378Mr Moore's the writer's (",
+    "suffix": ") chanced against Alec. Bannon in a cut bob (which are now in with dance cloaks of Kendal green) that was new got to town from Mullingar with the stage where his coz and Mal M's br",
+    "start": 35363,
+    "end": 35420,
+    "canonical_text": "that was a papish but is now, folk say, a good Williamite"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6419760,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1689524,
+        "login": "LeopoldQ",
+        "name": "LeopoldQ",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

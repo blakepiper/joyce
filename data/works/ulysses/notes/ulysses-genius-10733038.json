@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10733038",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Bezique cards",
+  "html_source": "<p><a href=\"https://www.britannica.com/topic/bezique\" rel=\"noopener nofollow\">https://www.britannica.com/topic/bezique</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10733038/James-joyce-ulysses-chap-17-ithaca/Bezique-cards",
+    "original_id": "10733038",
+    "referent_id": 10733038,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "bezique cards",
+    "prefix": ", evenly, round and round and round the rim of a round and round precipitous globe. \n\n What distinct different memories had each of her now eight years deceased? \n\n The older, her ",
+    "suffix": " and counters, her Skye terrier, her suppositious wealth, her lapses of responsiveness and incipient catarrhal deafness: the younger, her lamp of colza oil before the statue of the",
+    "start": 32967,
+    "end": 32980,
+    "canonical_text": "bezique cards"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10733038,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

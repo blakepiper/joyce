@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15164158",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Dans ce bordel où tenons nostre état",
+  "html_source": "<p>French. Literally “In the brothel where we hold our estate”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15164158/James-joyce-ulysses-chap-15-circe/Dans-ce-bordel-ou-tenons-nostre-etat",
+    "original_id": "15164158",
+    "referent_id": 15164158,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Dans ce bordel où tenons nostre état",
+    "prefix": "ken purse I made out of the sow's ear of the public. Madam, excuse me. If you allow me. (He indicates vaguely Lynch and Bloom.) We are all in the same sweepstake, Kinch and Lynch. ",
+    "suffix": ". \n\n1932#482\n\n LYNCH \n\n(Calls from the hearth.) Dedalus! Give her your blessing for me. \n\n1986#453\n\n STEPHEN \n\n(Hands Bella a coin.) Gold. She has it. \n\n BELLA \n\n(Looks at the mone",
+    "start": 176534,
+    "end": 176570,
+    "canonical_text": "Dans ce bordel où tenons nostre état"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15164158,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

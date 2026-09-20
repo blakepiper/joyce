@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8421413",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "_vergine madre, figlia di tuo figlio_",
+  "html_source": "<p>(Italian) virgin mother, daughter of your son, a quotation from Dante’s Paradiso (33.1). The words are spoken by St Bernard of Clairvaux in honour of the Virgin Mary.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8421413/James-joyce-ulysses-chap-14-oxen-of-the-sun/Vergine-madre-figlia-di-tuo-figlio",
+    "original_id": "8421413",
+    "referent_id": 8421413,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "_vergine madre, figlia di tuo figlio_",
+    "prefix": "velcords sold us all, seed, breed and generation, for a penny pippin. But here is the matter now. Or she knew him, 1939#282that second I say, and was but creature of her creature, ",
+    "suffix": " or she knew him not and then stands she in the one denial or ignorancy with Peter Piscator who lives in the house 1986#320that Jack built and with Joseph the joiner patron of the ",
+    "start": 21602,
+    "end": 21636,
+    "canonical_text": "vergine madre figlia di tuo figlio"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 8421413,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

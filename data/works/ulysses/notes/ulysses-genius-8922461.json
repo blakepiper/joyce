@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8922461",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Why minor sad?",
+  "html_source": "<p>There is debate about whether music in minor keys sounds sad compared to major keys due cultural tradition or parallels to speech patterns.<br />See <a href=\"http://www.nature.com/news/2010/100108/full/news.2010.3.html\" rel=\"noopener nofollow\">http://www.nature.com/news/2010/100108/full/news.2010.3.html</a><br />“It’s possible even in the Western idiom to write happy minor-key music — Van Morrison’s ‘Moondance’, for example — or sad major-key music, such as Billie Holiday’s ‘No Good Man’.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8922461/James-joyce-ulysses-chap-11-sirens/Why-minor-sad",
+    "original_id": "8922461",
+    "referent_id": 8922461,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Why minor sad?",
+    "prefix": "tum. How will you pun? You punish me? Crooked skirt swinging, whack by. Tell me I want to. Know. O. Course if I didn't I wouldn't ask. La la la ree. Trails off there sad in minor. ",
+    "suffix": " Sign H. They like sad tail at end. P. P. S. La la la ree. I feel so sad today. La ree. So lonely. Dee. \n\n He blotted quick on pad of Pat. Envel. Address. Just copy out of paper. M",
+    "start": 49691,
+    "end": 49705,
+    "canonical_text": "Why minor sad?"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8922461,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

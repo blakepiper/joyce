@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15150785",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Tow",
+  "html_source": "<p>A tow is a bundle of untwisted natural or man-made fibers. From Old English towcræft (“spinning”), of Germanic origin.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15150785/James-joyce-ulysses-chap-14-oxen-of-the-sun/Tow",
+    "original_id": "15150785",
+    "referent_id": 15150785,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "tow",
+    "prefix": " had run on in the same vein of mimicry but for some larum in the antechamber. \n\n Here the listener who was none other than the Scotch student, a little fume of a fellow, blond as ",
+    "suffix": ", congratulated in the liveliest fashion with the young gentleman and, interrupting the narrative at a salient point, having desired his visavis with a polite beck to have the obli",
+    "start": 53208,
+    "end": 53211,
+    "canonical_text": "tow"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 15150785,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

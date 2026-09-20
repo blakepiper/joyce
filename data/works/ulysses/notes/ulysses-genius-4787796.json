@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4787796",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Olivet’s breezy",
+  "html_source": "<p>Olivet, the mountain of olives, is east of Jerusalem. ‘Breezy’ may imply the site of the ascension, located on the summit.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4787796/James-joyce-ulysses-chap-1-telemachus/Olivets-breezy",
+    "original_id": "4787796",
+    "referent_id": 4787796,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Olivet's breezy",
+    "prefix": "air, and chanted: \n\n1939#16\n\n— Goodbye, now, goodbye! Write down all I said \nAnd tell Tom, Dick and Harry I rose from the dead. \nWhat's bred in the bone cannot fail me to fly \nAnd ",
+    "suffix": "... Goodbye, now, goodbye! \n\n He capered before them down towards the fortyfoot hole, fluttering his winglike hands, leaping nimbly, Mercury's hat quivering in the fresh wind that ",
+    "start": 33668,
+    "end": 33683,
+    "canonical_text": "Olivet's breezy"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4787796,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 0.9523809523809524
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.047619047619047616
+      }
+    ]
+  },
+  "color": "F59627"
+}

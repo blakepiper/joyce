@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8921926",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Ungyved",
+  "html_source": "<p>gyve<br />noun archaic<br />a fetter or shackle.</p><p>Bloom is starting to break the shackles of his silence.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8921926/James-joyce-ulysses-chap-11-sirens/Ungyved",
+    "original_id": "8921926",
+    "referent_id": 8921926,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "ungyved",
+    "prefix": "ds. Wonderful, more than all the others. \n\n1932#2491986#227\n\n That voice was a lamentation. Calmer now. It's in the silence you feel you hear. Vibrations. Now silent air. \n\n Bloom ",
+    "suffix": " his crisscrossed hands and with slack fingers plucked the slender catgut thong. He drew and plucked. It buzzed, it twanged. 1939#202While Goulding talked of Barraclough's voice pr",
+    "start": 43193,
+    "end": 43200,
+    "canonical_text": "ungyved"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8921926,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

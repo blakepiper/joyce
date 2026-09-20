@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20530947",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Hate at first sight",
+  "html_source": "<p>An excellent description of prejudice.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20530947/James-joyce-ulysses-chap-6-hades/Hate-at-first-sight",
+    "original_id": "20530947",
+    "referent_id": 20530947,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Hate at first sight",
+    "prefix": " really. Yes, Menton. Got his rag out that evening on 1922#110the bowling green because I sailed inside him. Pure fluke of mine: the bias. Why he took such a rooted dislike to me. ",
+    "suffix": ".1986#94 Molly and Floey Dillon linked under the lilactree, laughing. Fellow always like that, mortified if women are by. \n\n Got a dinge in the side of his hat. Carriage probably. ",
+    "start": 62091,
+    "end": 62110,
+    "canonical_text": "Hate at first sight"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20530947,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

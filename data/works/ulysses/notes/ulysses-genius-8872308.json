@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8872308",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Gunpowder plot",
+  "html_source": "<p>The Gunpowder Plot of 1605 was a failed assassination attempt against King James I of England by a group of provincial English Catholics led by Robert Catesby. The plan was to blow up the House of Lords during the State Opening of England’s Parliament on 5 November 1605, as the prelude to a popular revolt in the Midlands during which James’s nine-year-old daughter, Princess Elizabeth, was to be installed as the Catholic head of state. Catesby may have embarked on the scheme after hopes of securing greater religious tolerance under King James had faded, leaving many English Catholics disappointed.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8872308/James-joyce-ulysses-chap-10-wandering-rocks/Gunpowder-plot",
+    "original_id": "8872308",
+    "referent_id": 8872308,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "gunpowder plot",
+    "prefix": "Fitzgeralds he told me. He's well up in history, faith. \n\n The young woman with slow care detached from her light skirt a clinging twig. \n\n1932#207\n\n — I thought you were at a new ",
+    "suffix": ", J. J. O'Molloy said. \n\n Ned Lambert cracked his fingers in the air. \n\n — God! he cried. I forgot to tell him that one about the earl of Kildare after he set fire to Cashel cathed",
+    "start": 25253,
+    "end": 25267,
+    "canonical_text": "gunpowder plot"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8872308,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20134833",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Paysayenn",
+  "html_source": "<p>The French pronunciation of “P. C. N.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20134833/James-joyce-ulysses-chap-3-proteus/Paysayenn",
+    "original_id": "20134833",
+    "referent_id": 20134833,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Paysayenn",
+    "prefix": "oui. \n\n Schluss. He laps. \n\n My Latin quarter hat. God, we simply must dress the character. I want puce gloves. You were a student, weren't you? Of what in the other devil's name? ",
+    "suffix": ". P. C. N., you know: physiques, chimiques et naturelles. Aha. Eating your groatsworth of mou en civet, fleshpots of Egypt, elbowed by belching cabmen. Just say in the most natural",
+    "start": 10741,
+    "end": 10750,
+    "canonical_text": "Paysayenn"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20134833,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11041825,
+        "login": "raggedclaws",
+        "name": "raggedclaws",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

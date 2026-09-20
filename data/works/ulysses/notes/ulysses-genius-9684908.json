@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9684908",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Jeyes’ Fluid",
+  "html_source": "<p>Jeyes Fluid is a brand of disinfectant fluid made by Jeyes Group Ltd. in Thetford, Norfolk, England. It is for outdoor use only.</p><p><img src=\"https://filepicker-images.genius.com/Q4aSuo5eTU2dnjzChg8a_jeyes_fluid.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9684908/James-joyce-ulysses-chap-15-circe/Jeyes-fluid",
+    "original_id": "9684908",
+    "referent_id": 9684908,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Jeyes' Fluid",
+    "prefix": "ives in sealed envelopes tied with gold thread, butter scotch, pineapple rock, billets doux in the form of cocked hats, readymade suits, porringers of toad in the hole, bottles of ",
+    "suffix": ", purchase stamps, 40 days' indulgences, spurious coins, dairyfed pork sausages, theatre passes, season tickets available for all tramlines, coupons of the royal and privileged Hun",
+    "start": 79052,
+    "end": 79064,
+    "canonical_text": "Jeyes' Fluid"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9684908,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

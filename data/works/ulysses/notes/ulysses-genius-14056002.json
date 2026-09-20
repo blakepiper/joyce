@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-14056002",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "M’Coy",
+  "html_source": "<p>C.P. M'Coy, along with friends including Martin Cunningham, Jack Powers persuade Tom Kernan to attend a Jesuit retreat in “Grace”, a story in Joyce’s Dubliners.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/14056002/James-joyce-ulysses-chap-6-hades/Mcoy",
+    "original_id": "14056002",
+    "referent_id": 14056002,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "M'Coy",
+    "prefix": "tly. \n\n — Yes, Mr Bloom answered. He's behind with Ned Lambert and Hynes. \n\n — And Corny Kelleher himself? Mr Power asked. \n\n — At the cemetery, Martin Cunningham said. \n\n — I met ",
+    "suffix": " this morning, Mr Bloom said. He said he'd try to come. \n\n The carriage halted short. \n\n — What's wrong? \n\n — We're stopped. \n\n — Where are we? \n\n Mr Bloom put his head out of the ",
+    "start": 6760,
+    "end": 6765,
+    "canonical_text": "M'Coy"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9606
+  },
+  "genius": {
+    "referent_id": 14056002,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2680303,
+        "login": "Cortez67",
+        "name": "Cortez67",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

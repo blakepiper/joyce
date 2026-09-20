@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15169451",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Distich",
+  "html_source": "<p>A <a href=\"https://en.wiktionary.org/wiki/distich\" rel=\"noopener nofollow\">distich</a> is a couplet or two-line stanza.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15169451/James-joyce-ulysses-chap-17-ithaca/Distich",
+    "original_id": "15169451",
+    "referent_id": 15169451,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "distich",
+    "prefix": "nticipation of that multiple, ethnically irreducible consummation? \n\nKolod balejwaw pnimah \nNefesch, jehudi, homijah. \n\n Why was the chant arrested at the conclusion of this first ",
+    "suffix": "? \n\n In consequence of defective mnemotechnic. \n\n How did the chanter compensate for this deficiency? \n\n By a periphrastic version of the general text. \n\n1932#594\n\n In what common ",
+    "start": 49381,
+    "end": 49388,
+    "canonical_text": "distich"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15169451,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

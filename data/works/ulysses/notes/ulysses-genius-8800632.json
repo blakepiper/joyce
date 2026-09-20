@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8800632",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Kyrios",
+  "html_source": "<p>Kyrios or kurios (Ancient Greek: κύριος) is a Greek word which is usually translated as “lord” or “master”. In religious usage, it is sometimes translated as God. It is used in the Septuagint translation of the Hebrew Bible and the Greek New Testament</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8800632/James-joyce-ulysses-chap-7-aeolus/Kyrios",
+    "original_id": "8800632",
+    "referent_id": 8800632,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Kyrios",
+    "prefix": " Salisbury? A sofa in a westend club. But the Greek! \n\n KYRIE ELEISON! \n\n A smile of light brightened his darkrimmed eyes, lengthened his long lips. \n\n — The Greek! he said again. ",
+    "suffix": "! Shining word! The vowels the Semite and the 1939#99Saxon know not. Kyrie! The radiance of the intellect. I ought to profess Greek, the language of the mind. Kyrie eleison! The cl",
+    "start": 30727,
+    "end": 30733,
+    "canonical_text": "Kyrios"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8800632,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

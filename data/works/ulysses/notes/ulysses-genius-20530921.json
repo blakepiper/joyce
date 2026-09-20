@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20530921",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "The chief’s grave",
+  "html_source": "<p>Charles Stewart Parnell</p><p><img src=\"https://en.wikipedia.org/wiki/Charles_Stewart_Parnell#/media/File:Parnellgrave.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20530921/James-joyce-ulysses-chap-6-hades/The-chiefs-grave",
+    "original_id": "20530921",
+    "referent_id": 20530921,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "the chief's grave",
+    "prefix": "ble. Headshake. I know that. For yourselves just. \n\n The mourners moved away slowly without aim, by devious paths, staying awhile to read a name on a tomb. \n\n — Let us go round by ",
+    "suffix": ", Hynes said. We have time. \n\n — Let us, Mr Power said. \n\n They turned to the right, following their slow thoughts. With awe Mr Power's blank voice spoke: \n\n1986#92\n\n — Some say he",
+    "start": 55857,
+    "end": 55874,
+    "canonical_text": "the chief's grave"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20530921,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

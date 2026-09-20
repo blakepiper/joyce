@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9232622",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Cresset",
+  "html_source": "<p><img src=\"https://images.genius.com/888a39fd6f122d1a288a0d985bb155d9.600x900x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9232622/James-joyce-ulysses-chap-15-circe/Cresset",
+    "original_id": "9232622",
+    "referent_id": 9232622,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "cresset",
+    "prefix": "ses a forefinger against a wing of his nose and ejects from the farther nostril a long liquid jet of snot. Shouldering the lamp he staggers away through the crowd with his flaring ",
+    "suffix": ". \n\nSnakes of river fog creep slowly. From drains, clefts, cesspools, middens arise on all sides stagnant fumes. A glow leaps in the south beyond the seaward reaches of the river. ",
+    "start": 6300,
+    "end": 6307,
+    "canonical_text": "cresset"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9232622,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

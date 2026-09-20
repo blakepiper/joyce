@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15141011",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Tantumer gosa cramen tum",
+  "html_source": "<p>“Tantum ergo sacramentum” (Lat. “so great a sacrament therefore”) but in correctly parsed by Gerty.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15141011/James-joyce-ulysses-chap-13-nausicaa/Tantumer-gosa-cramen-tum",
+    "original_id": "15141011",
+    "referent_id": 15141011,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Tantumer gosa cramen tum",
+    "prefix": " Conroy and knelt down looking up at the Blessed Sacrament and the choir began to sing Tantum ergo and she just swung her foot in and out in time as the music rose and fell to the ",
+    "suffix": ". Three and eleven she paid for those stockings in Sparrow's of George's street on the Tuesday, no the Monday before Easter and there wasn't a brack on them and that was what he wa",
+    "start": 35120,
+    "end": 35144,
+    "canonical_text": "Tantumer gosa cramen tum"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15141011,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

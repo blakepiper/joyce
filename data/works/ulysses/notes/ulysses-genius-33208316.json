@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33208316",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Message",
+  "html_source": "<p>This is an error in the text. In my copy of the Ulysses, it’s “mess\"u\"age” which means a dwelling house with outbuildings and land assigned to its use.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33208316/James-joyce-ulysses-chap-17-ithaca/Message",
+    "original_id": "33208316",
+    "referent_id": 33208316,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "message",
+    "prefix": "result of a national equine handicap (flat or steeplechase) of 1 or more miles and furlongs won by an outsider at odds of 50 to 1 at 3 hr. 8 m. p.m. at Ascot (Greenwich time), the ",
+    "suffix": " being received and available for betting purposes in Dublin at 2.59 p.m. (Dunsink time). The unexpected discovery of an object of great monetary value (precious stone, valuable ad",
+    "start": 105755,
+    "end": 105762,
+    "canonical_text": "message"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 33208316,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 22269618,
+        "login": "Rudrakshmanshani",
+        "name": "Rudrakshmanshani",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

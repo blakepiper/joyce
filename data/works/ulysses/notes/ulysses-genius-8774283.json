@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8774283",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Loofahs",
+  "html_source": "<p>a rough sponge made from the dried fruit of a tropical plant from the cucumber family</p><p><img src=\"https://images.rapgenius.com/84067f3d5fe15ca3f064bae12780cb35.1000x849x1.jpg\" alt=\"\" /></p><p>Scientific name: Luffa<br />Higher classification: Luffinae</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8774283/James-joyce-ulysses-chap-5-lotus-eaters/Loofahs",
+    "original_id": "8774283",
+    "referent_id": 8774283,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "loofahs",
+    "prefix": "ct it. Clever of nature. \n\n — About a fortnight ago, sir? \n\n — Yes, Mr Bloom said. \n\n He waited by the counter, inhaling the keen reek of drugs, the dusty dry smell of sponges and ",
+    "suffix": ". Lot of time taken up telling your aches and pains. \n\n — Sweet almond oil and tincture of benzoin, Mr Bloom said, and then orangeflower water... \n\n It certainly did make her skin ",
+    "start": 31323,
+    "end": 31330,
+    "canonical_text": "loofahs"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8774283,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

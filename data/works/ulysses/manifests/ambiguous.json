@@ -1,0 +1,1214 @@
+[
+  {
+    "source_id": "ulysses-genius-10565950",
+    "referent": "As I am.",
+    "candidates": [
+      {
+        "text": "As I am.",
+        "start": 29435,
+        "end": 29443,
+        "context_score": 0.931129548915612
+      },
+      {
+        "text": "As I am.",
+        "start": 29444,
+        "end": 29452,
+        "context_score": 0.9963503649635037
+      }
+    ]
+  },
+  {
+    "source_id": "ulysses-genius-8768459",
+    "referent": "a",
+    "candidates": [
+      {
+        "text": "a",
+        "start": 20,
+        "end": 21,
+        "context_score": 0.17176515295458863
+      },
+      {
+        "text": "a",
+        "start": 48,
+        "end": 49,
+        "context_score": 0.21022499799823846
+      },
+      {
+        "text": "a",
+        "start": 61,
+        "end": 62,
+        "context_score": 0.21847452562378605
+      },
+      {
+        "text": "a",
+        "start": 77,
+        "end": 78,
+        "context_score": 0.22980917998968542
+      },
+      {
+        "text": "a",
+        "start": 91,
+        "end": 92,
+        "context_score": 0.19409937888198758
+      },
+      {
+        "text": "a",
+        "start": 98,
+        "end": 99,
+        "context_score": 0.20858924469032775
+      },
+      {
+        "text": "a",
+        "start": 133,
+        "end": 134,
+        "context_score": 0.15807117070654975
+      },
+      {
+        "text": "a",
+        "start": 142,
+        "end": 143,
+        "context_score": 0.18469314079422383
+      },
+      {
+        "text": "a",
+        "start": 161,
+        "end": 162,
+        "context_score": 0.19505265352935042
+      },
+      {
+        "text": "a",
+        "start": 173,
+        "end": 174,
+        "context_score": 0.2234760927719918
+      },
+      {
+        "text": "a",
+        "start": 176,
+        "end": 177,
+        "context_score": 0.22382671480144403
+      },
+      {
+        "text": "a",
+        "start": 194,
+        "end": 195,
+        "context_score": 0.2631353401033686
+      }
+    ]
+  },
+  {
+    "source_id": "ulysses-genius-3247405",
+    "referent": "Martha",
+    "candidates": [
+      {
+        "text": "Martha",
+        "start": 16395,
+        "end": 16401,
+        "context_score": 0.26565640537395535
+      },
+      {
+        "text": "Martha",
+        "start": 17651,
+        "end": 17657,
+        "context_score": 0.27365958015777514
+      }
+    ]
+  },
+  {
+    "source_id": "ulysses-genius-8822391",
+    "referent": "flower",
+    "candidates": [
+      {
+        "text": "flower",
+        "start": 2170,
+        "end": 2176,
+        "context_score": 0.17615694678299915
+      },
+      {
+        "text": "flower",
+        "start": 14624,
+        "end": 14630,
+        "context_score": 0.10575757575757574
+      },
+      {
+        "text": "flower",
+        "start": 14657,
+        "end": 14663,
+        "context_score": 0.13172117902713545
+      },
+      {
+        "text": "flower",
+        "start": 15933,
+        "end": 15939,
+        "context_score": 0.048291152930997186
+      },
+      {
+        "text": "flower",
+        "start": 16038,
+        "end": 16044,
+        "context_score": 0.11623376623376623
+      },
+      {
+        "text": "flower",
+        "start": 16245,
+        "end": 16251,
+        "context_score": 0.1827956989247312
+      },
+      {
+        "text": "flower",
+        "start": 19544,
+        "end": 19550,
+        "context_score": 0.17996114057658982
+      },
+      {
+        "text": "flower",
+        "start": 24258,
+        "end": 24264,
+        "context_score": 0.1403927952528488
+      },
+      {
+        "text": "flower",
+        "start": 31460,
+        "end": 31466,
+        "context_score": 0.1464986313868613
+      },
+      {
+        "text": "flower",
+        "start": 32103,
+        "end": 32109,
+        "context_score": 0.07189105858170607
+      },
+      {
+        "text": "flower",
+        "start": 36317,
+        "end": 36323,
+        "context_score": 0.5263157894736842
+      }
+    ]
+  },
+  {
+    "source_id": "ulysses-genius-8799058",
+    "referent": "Monks",
+    "candidates": [
+      {
+        "text": "Monks",
+        "start": 10330,
+        "end": 10335,
+        "context_score": 0.5281550546949563
+      },
+      {
+        "text": "Monks",
+        "start": 10394,
+        "end": 10399,
+        "context_score": 0.9673583070529634
+      },
+      {
+        "text": "Monks",
+        "start": 10406,
+        "end": 10411,
+        "context_score": 0.9286194990636705
+      },
+      {
+        "text": "Monks",
+        "start": 10571,
+        "end": 10576,
+        "context_score": 0.27262813522355506
+      },
+      {
+        "text": "Monks",
+        "start": 10884,
+        "end": 10889,
+        "context_score": 0.27740259740259743
+      }
+    ]
+  },
+  {
+    "source_id": "ulysses-genius-8813233",
+    "referent": "marge",
+    "candidates": [
+      {
+        "text": "marge",
+        "start": 2635,
+        "end": 2640,
+        "context_score": 0.9908823060996974
+      },
+      {
+        "text": "marge",
+        "start": 2642,
+        "end": 2647,
+        "context_score": 0.948905109489051
+      }
+    ]
+  },
+  {
+    "source_id": "ulysses-genius-3420487",
+    "referent": "Mananaan",
+    "candidates": [
+      {
+        "text": "Mananaan",
+        "start": 10997,
+        "end": 11005,
+        "context_score": 0.9791977690769273
+      },
+      {
+        "text": "Mananaan",
+        "start": 11007,
+        "end": 11015,
+        "context_score": 0.9308470183938481
+      }
+    ]
+  },
+  {
+    "source_id": "ulysses-genius-8849653",
+    "referent": "Cuckoo!",
+    "candidates": [
+      {
+        "text": "Cuckoo!",
+        "start": 59431,
+        "end": 59438,
+        "context_score": 0.9495919280004472
+      },
+      {
+        "text": "Cuckoo!",
+        "start": 59439,
+        "end": 59446,
+        "context_score": 0.9106275148629269
+      }
+    ]
+  },
+  {
+    "source_id": "ulysses-genius-15147266",
+    "referent": "tway",
+    "candidates": [
+      {
+        "text": "t way",
+        "start": 4909,
+        "end": 4914,
+        "context_score": 0.2919588592800374
+      },
+      {
+        "text": "t way",
+        "start": 15379,
+        "end": 15384,
+        "context_score": 0.24100719424460432
+      },
+      {
+        "text": "t way",
+        "start": 73801,
+        "end": 73806,
+        "context_score": 0.22299858959926505
+      },
+      {
+        "text": "t way",
+        "start": 90087,
+        "end": 90092,
+        "context_score": 0.27956989247311825
+      },
+      {
+        "text": "t way",
+        "start": 113717,
+        "end": 113722,
+        "context_score": 0.12033216968158256
+      }
+    ]
+  },
+  {
+    "source_id": "ulysses-genius-9583403",
+    "referent": "Cuckoo",
+    "candidates": [
+      {
+        "text": "Cuckoo",
+        "start": 57535,
+        "end": 57541,
+        "context_score": 0.9378625739228387
+      },
+      {
+        "text": "Cuckoo",
+        "start": 57543,
+        "end": 57549,
+        "context_score": 0.9421695502697263
+      },
+      {
+        "text": "Cuckoo",
+        "start": 57551,
+        "end": 57557,
+        "context_score": 0.8861139838443692
+      },
+      {
+        "text": "Cuckoo",
+        "start": 159564,
+        "end": 159570,
+        "context_score": 0.22504611330698288
+      }
+    ]
+  },
+  {
+    "source_id": "ulysses-genius-15156668",
+    "referent": "ad",
+    "candidates": [
+      {
+        "text": "ad",
+        "start": 2387,
+        "end": 2389,
+        "context_score": 0.22633366633366633
+      },
+      {
+        "text": "ad",
+        "start": 3693,
+        "end": 3695,
+        "context_score": 0.19382404350359292
+      },
+      {
+        "text": "ad",
+        "start": 3754,
+        "end": 3756,
+        "context_score": 0.2519650475315162
+      },
+      {
+        "text": "ad",
+        "start": 5307,
+        "end": 5309,
+        "context_score": 0.21634295227524972
+      },
+      {
+        "text": "ad",
+        "start": 5475,
+        "end": 5477,
+        "context_score": 0.2854545454545454
+      },
+      {
+        "text": "ad",
+        "start": 5592,
+        "end": 5594,
+        "context_score": 0.24619625861503117
+      },
+      {
+        "text": "ad",
+        "start": 5783,
+        "end": 5785,
+        "context_score": 0.2817230273752013
+      },
+      {
+        "text": "ad",
+        "start": 6662,
+        "end": 6664,
+        "context_score": 0.2490974729241877
+      },
+      {
+        "text": "ad",
+        "start": 6895,
+        "end": 6897,
+        "context_score": 0.23428044567955741
+      },
+      {
+        "text": "ad",
+        "start": 8020,
+        "end": 8022,
+        "context_score": 0.2795216942010119
+      },
+      {
+        "text": "ad",
+        "start": 8369,
+        "end": 8371,
+        "context_score": 0.24008606602026364
+      },
+      {
+        "text": "ad",
+        "start": 8771,
+        "end": 8773,
+        "context_score": 0.2856682769726248
+      }
+    ]
+  },
+  {
+    "source_id": "ulysses-genius-15157142",
+    "referent": "D",
+    "candidates": [
+      {
+        "text": "D",
+        "start": 831,
+        "end": 832,
+        "context_score": 0.1724308300395257
+      },
+      {
+        "text": "D",
+        "start": 865,
+        "end": 866,
+        "context_score": 0.21216931216931217
+      },
+      {
+        "text": "D",
+        "start": 933,
+        "end": 934,
+        "context_score": 0.2890030977189524
+      },
+      {
+        "text": "D",
+        "start": 984,
+        "end": 985,
+        "context_score": 0.2845849802371542
+      },
+      {
+        "text": "D",
+        "start": 2930,
+        "end": 2931,
+        "context_score": 0.17329202331565405
+      },
+      {
+        "text": "D",
+        "start": 3617,
+        "end": 3618,
+        "context_score": 0.26434227537168714
+      },
+      {
+        "text": "D",
+        "start": 3802,
+        "end": 3803,
+        "context_score": 0.2416221696519094
+      },
+      {
+        "text": "D",
+        "start": 4014,
+        "end": 4015,
+        "context_score": 0.2362727465086754
+      },
+      {
+        "text": "D",
+        "start": 4021,
+        "end": 4022,
+        "context_score": 0.23932063140696236
+      },
+      {
+        "text": "D",
+        "start": 4163,
+        "end": 4164,
+        "context_score": 0.24513457556935817
+      },
+      {
+        "text": "D",
+        "start": 5354,
+        "end": 5355,
+        "context_score": 0.2565478746243023
+      },
+      {
+        "text": "D",
+        "start": 9619,
+        "end": 9620,
+        "context_score": 0.23645940390544706
+      }
+    ]
+  },
+  {
+    "source_id": "ulysses-genius-14030345",
+    "referent": "her",
+    "candidates": [
+      {
+        "text": "her",
+        "start": 942,
+        "end": 945,
+        "context_score": 0.2569409103760249
+      },
+      {
+        "text": "her",
+        "start": 1395,
+        "end": 1398,
+        "context_score": 0.24820143884892087
+      },
+      {
+        "text": "her",
+        "start": 1531,
+        "end": 1534,
+        "context_score": 0.2553956834532374
+      },
+      {
+        "text": "her",
+        "start": 1549,
+        "end": 1552,
+        "context_score": 0.2589928057553957
+      },
+      {
+        "text": "her",
+        "start": 1652,
+        "end": 1655,
+        "context_score": 0.23381294964028776
+      },
+      {
+        "text": "her",
+        "start": 1676,
+        "end": 1679,
+        "context_score": 0.2985611510791367
+      },
+      {
+        "text": "her",
+        "start": 2423,
+        "end": 2426,
+        "context_score": 0.2261295822676897
+      },
+      {
+        "text": "her",
+        "start": 2715,
+        "end": 2718,
+        "context_score": 0.28471652725384067
+      },
+      {
+        "text": "her",
+        "start": 3169,
+        "end": 3172,
+        "context_score": 0.2975600352500551
+      },
+      {
+        "text": "her",
+        "start": 3203,
+        "end": 3206,
+        "context_score": 0.2731510594668489
+      },
+      {
+        "text": "her",
+        "start": 3663,
+        "end": 3666,
+        "context_score": 0.15243445692883895
+      },
+      {
+        "text": "her",
+        "start": 3828,
+        "end": 3831,
+        "context_score": 0.2500407099820876
+      }
+    ]
+  },
+  {
+    "source_id": "ulysses-genius-8751937",
+    "referent": "hone",
+    "candidates": [
+      {
+        "text": "hone",
+        "start": 26754,
+        "end": 26758,
+        "context_score": 0.30166834274515875
+      },
+      {
+        "text": "hone",
+        "start": 29050,
+        "end": 29054,
+        "context_score": 0.30924824803567635
+      },
+      {
+        "text": "hone",
+        "start": 39415,
+        "end": 39419,
+        "context_score": 0.3009826872462273
+      },
+      {
+        "text": "hone",
+        "start": 46695,
+        "end": 46699,
+        "context_score": 0.21920528093654107
+      },
+      {
+        "text": "hone",
+        "start": 54000,
+        "end": 54004,
+        "context_score": 0.3158892241045873
+      },
+      {
+        "text": "hone",
+        "start": 62540,
+        "end": 62544,
+        "context_score": 0.2669313654715115
+      },
+      {
+        "text": "hone",
+        "start": 105406,
+        "end": 105410,
+        "context_score": 0.29166666666666663
+      },
+      {
+        "text": "hone",
+        "start": 108001,
+        "end": 108005,
+        "context_score": 0.22242504701847549
+      },
+      {
+        "text": "hone",
+        "start": 110278,
+        "end": 110282,
+        "context_score": 0.23381294964028776
+      },
+      {
+        "text": "hone",
+        "start": 119363,
+        "end": 119367,
+        "context_score": 0.1670430079294229
+      },
+      {
+        "text": "hone",
+        "start": 121673,
+        "end": 121677,
+        "context_score": 0.22297271068669694
+      },
+      {
+        "text": "hone",
+        "start": 151870,
+        "end": 151874,
+        "context_score": 0.2692684562027797
+      }
+    ]
+  },
+  {
+    "source_id": "ulysses-genius-15161038",
+    "referent": "ads",
+    "candidates": [
+      {
+        "text": "ads",
+        "start": 6895,
+        "end": 6898,
+        "context_score": 0.26368198110133595
+      },
+      {
+        "text": "ads",
+        "start": 35393,
+        "end": 35396,
+        "context_score": 0.2098734598734599
+      },
+      {
+        "text": "ads",
+        "start": 38327,
+        "end": 38330,
+        "context_score": 0.28927550239619826
+      },
+      {
+        "text": "ads",
+        "start": 58085,
+        "end": 58088,
+        "context_score": 0.27864317330609467
+      },
+      {
+        "text": "ads",
+        "start": 58222,
+        "end": 58225,
+        "context_score": 0.2541226452009615
+      },
+      {
+        "text": "ads",
+        "start": 71506,
+        "end": 71509,
+        "context_score": 0.22027313397692488
+      },
+      {
+        "text": "ads",
+        "start": 72894,
+        "end": 72897,
+        "context_score": 0.21266862170087975
+      },
+      {
+        "text": "ads",
+        "start": 73469,
+        "end": 73472,
+        "context_score": 0.15395622895622896
+      },
+      {
+        "text": "ads",
+        "start": 81768,
+        "end": 81771,
+        "context_score": 0.22262773722627738
+      },
+      {
+        "text": "ads",
+        "start": 86884,
+        "end": 86887,
+        "context_score": 0.22290176013644053
+      },
+      {
+        "text": "ads",
+        "start": 89630,
+        "end": 89633,
+        "context_score": 0.2197190055430547
+      },
+      {
+        "text": "ads",
+        "start": 100076,
+        "end": 100079,
+        "context_score": 0.2796779888798124
+      }
+    ]
+  },
+  {
+    "source_id": "ulysses-genius-10092314",
+    "referent": "Poulaphouca",
+    "candidates": [
+      {
+        "text": "Poulaphouca",
+        "start": 165645,
+        "end": 165656,
+        "context_score": 0.983060155457925
+      },
+      {
+        "text": "Poulaphouca",
+        "start": 165657,
+        "end": 165668,
+        "context_score": 0.9041483609327475
+      },
+      {
+        "text": "Poulaphouca",
+        "start": 165670,
+        "end": 165681,
+        "context_score": 0.8079445858071812
+      },
+      {
+        "text": "Poulaphouca",
+        "start": 165682,
+        "end": 165693,
+        "context_score": 0.7225036128688282
+      },
+      {
+        "text": "Poulaphouca",
+        "start": 165788,
+        "end": 165799,
+        "context_score": 0.20502968429229318
+      },
+      {
+        "text": "Poulaphouca",
+        "start": 166071,
+        "end": 166082,
+        "context_score": 0.26866045695668517
+      },
+      {
+        "text": "Poulaphouca",
+        "start": 167977,
+        "end": 167988,
+        "context_score": 0.36071263970503514
+      },
+      {
+        "text": "Poulaphouca",
+        "start": 167989,
+        "end": 168000,
+        "context_score": 0.33486583391163544
+      },
+      {
+        "text": "Poulaphouca",
+        "start": 171761,
+        "end": 171772,
+        "context_score": 0.3365329839352854
+      },
+      {
+        "text": "Poulaphouca",
+        "start": 171774,
+        "end": 171785,
+        "context_score": 0.29123188198633465
+      },
+      {
+        "text": "Poulaphouca",
+        "start": 171786,
+        "end": 171797,
+        "context_score": 0.24093462717058223
+      }
+    ]
+  },
+  {
+    "source_id": "ulysses-genius-4593942",
+    "referent": "be",
+    "candidates": [
+      {
+        "text": "be",
+        "start": 349,
+        "end": 351,
+        "context_score": 0.23516716371056348
+      },
+      {
+        "text": "be",
+        "start": 413,
+        "end": 415,
+        "context_score": 0.24228273949667764
+      },
+      {
+        "text": "be",
+        "start": 1175,
+        "end": 1177,
+        "context_score": 0.25668393240203
+      },
+      {
+        "text": "be",
+        "start": 1258,
+        "end": 1260,
+        "context_score": 0.2825598949786675
+      },
+      {
+        "text": "be",
+        "start": 1850,
+        "end": 1852,
+        "context_score": 0.3152609123728257
+      },
+      {
+        "text": "be",
+        "start": 2258,
+        "end": 2260,
+        "context_score": 0.16432900432900432
+      },
+      {
+        "text": "be",
+        "start": 2383,
+        "end": 2385,
+        "context_score": 0.22416679746769214
+      },
+      {
+        "text": "be",
+        "start": 2547,
+        "end": 2549,
+        "context_score": 0.3146549468947837
+      },
+      {
+        "text": "be",
+        "start": 3163,
+        "end": 3165,
+        "context_score": 0.308014440433213
+      },
+      {
+        "text": "be",
+        "start": 4422,
+        "end": 4424,
+        "context_score": 0.2867852437417655
+      },
+      {
+        "text": "be",
+        "start": 4549,
+        "end": 4551,
+        "context_score": 0.29651284466070216
+      },
+      {
+        "text": "be",
+        "start": 5237,
+        "end": 5239,
+        "context_score": 0.289331868361848
+      }
+    ]
+  },
+  {
+    "source_id": "ulysses-genius-15630841",
+    "referent": "wrecks",
+    "candidates": [
+      {
+        "text": "wrecks",
+        "start": 65315,
+        "end": 65321,
+        "context_score": 0.9177428411005053
+      },
+      {
+        "text": "wrecks",
+        "start": 65326,
+        "end": 65332,
+        "context_score": 0.9927139527139528
+      }
+    ]
+  },
+  {
+    "source_id": "ulysses-genius-15169080",
+    "referent": "ICP",
+    "candidates": [
+      {
+        "text": "ic p",
+        "start": 1473,
+        "end": 1477,
+        "context_score": 0.17646676882320858
+      },
+      {
+        "text": "ic p",
+        "start": 14823,
+        "end": 14827,
+        "context_score": 0.28776978417266186
+      },
+      {
+        "text": "ic p",
+        "start": 26594,
+        "end": 26598,
+        "context_score": 0.2793728034603947
+      },
+      {
+        "text": "ic p",
+        "start": 36841,
+        "end": 36845,
+        "context_score": 0.23381294964028776
+      },
+      {
+        "text": "ic p",
+        "start": 42410,
+        "end": 42414,
+        "context_score": 0.21995303589399529
+      },
+      {
+        "text": "ic p",
+        "start": 44254,
+        "end": 44258,
+        "context_score": 0.2949640287769784
+      },
+      {
+        "text": "ic p",
+        "start": 68906,
+        "end": 68910,
+        "context_score": 0.18451275343361673
+      },
+      {
+        "text": "ic p",
+        "start": 93967,
+        "end": 93971,
+        "context_score": 0.302158273381295
+      },
+      {
+        "text": "ic p",
+        "start": 103641,
+        "end": 103645,
+        "context_score": 0.26683635041425346
+      },
+      {
+        "text": "ic p",
+        "start": 108165,
+        "end": 108169,
+        "context_score": 0.29262262916939175
+      },
+      {
+        "text": "ic p",
+        "start": 108199,
+        "end": 108203,
+        "context_score": 0.1510791366906475
+      },
+      {
+        "text": "ic p",
+        "start": 108338,
+        "end": 108342,
+        "context_score": 0.3057553956834532
+      }
+    ]
+  },
+  {
+    "source_id": "ulysses-genius-4260221",
+    "referent": "I",
+    "candidates": [
+      {
+        "text": "I",
+        "start": 747,
+        "end": 748,
+        "context_score": 0.5272130121989365
+      },
+      {
+        "text": "I",
+        "start": 810,
+        "end": 811,
+        "context_score": 0.9567302679595454
+      },
+      {
+        "text": "I",
+        "start": 817,
+        "end": 818,
+        "context_score": 0.9332632071061244
+      },
+      {
+        "text": "I",
+        "start": 998,
+        "end": 999,
+        "context_score": 0.289423429079684
+      },
+      {
+        "text": "I",
+        "start": 1137,
+        "end": 1138,
+        "context_score": 0.2889862655330281
+      },
+      {
+        "text": "I",
+        "start": 1394,
+        "end": 1395,
+        "context_score": 0.2745021374204984
+      },
+      {
+        "text": "I",
+        "start": 1404,
+        "end": 1405,
+        "context_score": 0.24524700015583606
+      },
+      {
+        "text": "I",
+        "start": 1622,
+        "end": 1623,
+        "context_score": 0.2812451301231105
+      },
+      {
+        "text": "I",
+        "start": 1888,
+        "end": 1889,
+        "context_score": 0.29973412574288394
+      },
+      {
+        "text": "I",
+        "start": 2252,
+        "end": 2253,
+        "context_score": 0.31412261495151705
+      },
+      {
+        "text": "I",
+        "start": 2384,
+        "end": 2385,
+        "context_score": 0.17672818267125429
+      },
+      {
+        "text": "I",
+        "start": 2515,
+        "end": 2516,
+        "context_score": 0.31422613229064844
+      }
+    ]
+  },
+  {
+    "source_id": "ulysses-genius-4545199",
+    "referent": "he",
+    "candidates": [
+      {
+        "text": "he",
+        "start": 22,
+        "end": 24,
+        "context_score": 0.16068475602655177
+      },
+      {
+        "text": "he",
+        "start": 124,
+        "end": 126,
+        "context_score": 0.20265580835642125
+      },
+      {
+        "text": "he",
+        "start": 144,
+        "end": 146,
+        "context_score": 0.2057918882285476
+      },
+      {
+        "text": "he",
+        "start": 148,
+        "end": 150,
+        "context_score": 0.22055668916444304
+      },
+      {
+        "text": "he",
+        "start": 288,
+        "end": 290,
+        "context_score": 0.1728696465210503
+      },
+      {
+        "text": "he",
+        "start": 299,
+        "end": 301,
+        "context_score": 0.23834845167344385
+      },
+      {
+        "text": "he",
+        "start": 326,
+        "end": 328,
+        "context_score": 0.28834116822065814
+      },
+      {
+        "text": "he",
+        "start": 373,
+        "end": 375,
+        "context_score": 0.21223021582733814
+      },
+      {
+        "text": "he",
+        "start": 385,
+        "end": 387,
+        "context_score": 0.20863309352517986
+      },
+      {
+        "text": "he",
+        "start": 452,
+        "end": 454,
+        "context_score": 0.2446043165467626
+      },
+      {
+        "text": "he",
+        "start": 489,
+        "end": 491,
+        "context_score": 0.2522011271848947
+      },
+      {
+        "text": "he",
+        "start": 503,
+        "end": 505,
+        "context_score": 0.2805532911507058
+      }
+    ]
+  },
+  {
+    "source_id": "ulysses-genius-4565257",
+    "referent": "it",
+    "candidates": [
+      {
+        "text": "it",
+        "start": 96,
+        "end": 98,
+        "context_score": 0.24707602339181287
+      },
+      {
+        "text": "it",
+        "start": 128,
+        "end": 130,
+        "context_score": 0.307968017645437
+      },
+      {
+        "text": "it",
+        "start": 188,
+        "end": 190,
+        "context_score": 0.23055523206914846
+      },
+      {
+        "text": "it",
+        "start": 471,
+        "end": 473,
+        "context_score": 0.22700828506869594
+      },
+      {
+        "text": "it",
+        "start": 544,
+        "end": 546,
+        "context_score": 0.2735142269321843
+      },
+      {
+        "text": "it",
+        "start": 606,
+        "end": 608,
+        "context_score": 0.2958763424043374
+      },
+      {
+        "text": "it",
+        "start": 689,
+        "end": 691,
+        "context_score": 0.36395511921458623
+      },
+      {
+        "text": "it",
+        "start": 1159,
+        "end": 1161,
+        "context_score": 0.2420237722865186
+      },
+      {
+        "text": "it",
+        "start": 1192,
+        "end": 1194,
+        "context_score": 0.19448002794922556
+      },
+      {
+        "text": "it",
+        "start": 1309,
+        "end": 1311,
+        "context_score": 0.3064126538881097
+      },
+      {
+        "text": "it",
+        "start": 1317,
+        "end": 1319,
+        "context_score": 0.2958547607916472
+      },
+      {
+        "text": "it",
+        "start": 1359,
+        "end": 1361,
+        "context_score": 0.32384871187712694
+      }
+    ]
+  }
+]

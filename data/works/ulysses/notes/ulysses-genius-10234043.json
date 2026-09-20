@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10234043",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Give a thing and take it back",
+  "html_source": "<p><a href=\"http://www.jjon.org/joyce-s-allusions/give-and-take\" rel=\"noopener nofollow\">http://www.jjon.org/joyce-s-allusions/give-and-take</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10234043/James-joyce-ulysses-chap-15-circe/Give-a-thing-and-take-it-back",
+    "original_id": "10234043",
+    "referent_id": 10234043,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Give a thing and take it back",
+    "prefix": " back that potato, will you? \n\n ZOE \n\n Forfeits, a fine thing and a superfine thing. \n\n BLOOM \n\n(With feeling.) It is nothing, but still, a relic of poor mamma. \n\n1939#391\n\n ZOE \n\n",
+    "suffix": " \nGod'll ask you where is that \nYou'll say you don't know \nGod'll send you down below. \n\n BLOOM \n\n There is a memory attached to it. I should like to have it. \n\n STEPHEN \n\n To have",
+    "start": 175640,
+    "end": 175669,
+    "canonical_text": "Give a thing and take it back"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10234043,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

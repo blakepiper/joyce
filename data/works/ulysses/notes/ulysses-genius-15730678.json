@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15730678",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Nice young student",
+  "html_source": "<p>“…learningknight yclept Dixon.”  From chapter 14.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15730678/James-joyce-ulysses-chap-6-hades/Nice-young-student",
+    "original_id": "15730678",
+    "referent_id": 15730678,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Nice young student",
+    "prefix": "use handy underneath. Where old Mrs Riordan died. They look terrible the women. Her feeding cup and rubbing her mouth with the spoon. Then the screen round her bed for her to die. ",
+    "suffix": " that was dressed that bite the bee gave me. He's gone over to the lying-in hospital they told me. From one extreme to the other. The carriage galloped round a corner: stopped. \n\n ",
+    "start": 22234,
+    "end": 22252,
+    "canonical_text": "Nice young student"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15730678,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 7060080,
+        "login": "keithalt",
+        "name": "keithalt",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

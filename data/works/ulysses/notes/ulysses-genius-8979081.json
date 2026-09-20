@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8979081",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Junius",
+  "html_source": "<p>Junius was the pseudonym of a writer who contributed a series of letters to the Public Advertiser, [London newspaper] from 1769 to 1772…exposing blatant corruption by the only means available (anonymity) in a country struggling with the idea of freedom of speech…The identity of Junius is open to question and debate, and may never be finally resolved unless documents are found which establish his identity.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8979081/James-joyce-ulysses-chap-12-cyclops/Junius",
+    "original_id": "8979081",
+    "referent_id": 8979081,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Junius",
+    "prefix": "n he's quite sure which country it is. \n\n — Is he a jew or a gentile or a holy Roman or a swaddler or what the hell is he? says Ned. Or who is he? No offence, Crofton. \n\n — Who is ",
+    "suffix": "? says J. J. \n\n — We don't want him, says Crofter the Orangeman or presbyterian. \n\n — He's a perverted jew, says Martin, from a place in Hungary and it was he drew up all the plans",
+    "start": 104381,
+    "end": 104387,
+    "canonical_text": "Junius"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8979081,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

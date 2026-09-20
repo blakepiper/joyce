@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5098453",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Must be selling off some old furniture",
+  "html_source": "<p>Blooms thoughts are speculative revealing an inquiring yet uncomplicated mind compared to the challenging psyche of Stephen Daedalus.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5098453/James-joyce-ulysses-chap-8-lestrygonians/Must-be-selling-off-some-old-furniture",
+    "original_id": "5098453",
+    "referent_id": 5098453,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Must be selling off some old furniture",
+    "prefix": "luey greeny. Very good for the brain. \n\n From Butler's monument house corner he glanced along Bachelor's walk. 1922#144Dedalus' daughter there still outside Dillon's auctionrooms. ",
+    "suffix": ". Knew her eyes at once from the father. Lobbing about waiting for him. Home always breaks up when the mother goes. Fifteen children he had. Birth every year almost. That's in thei",
+    "start": 1655,
+    "end": 1693,
+    "canonical_text": "Must be selling off some old furniture"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5098453,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

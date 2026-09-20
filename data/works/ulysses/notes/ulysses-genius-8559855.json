@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8559855",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Pony",
+  "html_source": "<p>A quarter-pint glass.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8559855/James-joyce-ulysses-chap-12-cyclops/Pony",
+    "original_id": "8559855",
+    "referent_id": 8559855,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "pony",
+    "prefix": " that fellow in Mountjoy? says Joe. \n\n — Bergan, says Bob Doran, waking up. Is that Alf Bergan? \n\n1932#269\n\n — Yes, says Alf. Hanging? Wait till I show you. Here, Terry, give us a ",
+    "suffix": ". That bloody old fool! Ten thousand pounds. You should have seen long John's eye. U. p... \n\n And he started laughing. \n\n — Who are you laughing at? says Bob Doran. Is that Bergan?",
+    "start": 17636,
+    "end": 17640,
+    "canonical_text": "pony"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9532
+  },
+  "genius": {
+    "referent_id": 8559855,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-7141444",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Mockery",
+  "html_source": "<p>Mockery is one of the principal strains of Buck’s character. He begins by mocking religion and proceeds to mock both Stephen and his “absurd name” Dedalus.<br />This identifies Buck with the suitors in the “Odyssey”. They frequently mock Telemachus for his impotence in the face of their occupancy of his palace and their consumption of his food and drink. Antinous is the most conspicuous and offensive of these.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7141444/James-joyce-ulysses-chap-1-telemachus/Mockery",
+    "original_id": "7141444",
+    "referent_id": 7141444,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "mockery",
+    "prefix": " folds of his gown. The plump1932#3shadowed face and sullen oval jowl recalled a prelate, patron of arts in the middle ages. A pleasant smile broke quietly over his lips. \n\n — The ",
+    "suffix": " of it! he said gaily. Your absurd name, an ancient Greek! \n\n1986#3\n\n He pointed his finger in friendly jest and went over to the parapet, laughing to himself. Stephen Dedalus step",
+    "start": 1943,
+    "end": 1950,
+    "canonical_text": "mockery"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9615
+  },
+  "genius": {
+    "referent_id": 7141444,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1773543,
+        "login": "IanT",
+        "name": "IanT",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

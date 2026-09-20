@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11220878",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Why they call it that",
+  "html_source": "<p>The word arsenic … was adopted into Greek as arsenikon (ἀρσενικόν), a form that is folk etymology, being the neuter form of the Greek word arsenikos (ἀρσενικός), meaning “male”, “virile”. The Greek word was adopted in Latin as arsenicum, which in French became arsenic, from which the English word arsenic is taken.<br /><a href=\"https://en.wikipedia.org/wiki/Arsenic\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Arsenic</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11220878/James-joyce-ulysses-chap-18-penelope/Why-they-call-it-that",
+    "original_id": "11220878",
+    "referent_id": 11220878,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "why they call it that",
+    "prefix": "o they ask us to marry them for if were so bad as all that comes to yes because they cant get on without us white Arsenic she put in his tea off flypaper wasnt it I 1932#646wonder ",
+    "suffix": " if I asked him hed say its from the Greek leave us as wise as we were before she must have been madly in love with the other fellow to run the chance of being hanged O she didnt c",
+    "start": 17912,
+    "end": 17933,
+    "canonical_text": "why they call it that"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11220878,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

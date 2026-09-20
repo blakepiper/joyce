@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8063422",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Daguerreotype atelier",
+  "html_source": "<p><a href=\"http://www.thedaglab.com/daguerreotype-process-details/\" rel=\"noopener nofollow\">The daguerreotype process</a>, invented by Louis-Jaques-Mandé Daguerre in the early 1800’s, was the first publicly available photographic process.</p><p>An atelier is an artist’s studio or workshop.</p><p>Thus Bloom is referring to an early form of darkroom.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8063422/James-joyce-ulysses-chap-8-lestrygonians/Daguerreotype-atelier",
+    "original_id": "8063422",
+    "referent_id": 8063422,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "daguerreotype atelier",
+    "prefix": "pence a dozen. Milly's tubbing night. American soap I bought: elderflower. Cosy smell of her bathwater. Funny she looked soaped all over. Shapely too. Now photography. Poor papa's ",
+    "suffix": " he told me of. Hereditary taste. \n\n He walked along the curbstone. \n\n Stream of life. What was the name of that priestylooking 1961#155chap was always squinting in when he passed?",
+    "start": 11109,
+    "end": 11130,
+    "canonical_text": "daguerreotype atelier"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8063422,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2409862,
+        "login": "jocularfowl",
+        "name": "jocularfowl",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15141565",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "With the letter em on her forehead",
+  "html_source": "<p>Tabby-cat fur coloration often features an “M” shape just above the nose:</p><p><img src=\"https://images.genius.com/4ea97fef7164e6e692b1e6c5b3f96575.912x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15141565/James-joyce-ulysses-chap-13-nausicaa/With-the-letter-em-on-her-forehead",
+    "original_id": "15141565",
+    "referent_id": 15141565,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "with the letter em on her forehead",
+    "prefix": "g. Instance, that cat this morning on the staircase. Colour of brown turf. Say you never see them with three colours. Not true. That half tabbywhite tortoiseshell in the City Arms ",
+    "suffix": ". Body fifty different colours. Howth a while ago amethyst. Glass flashing. That's how that wise man what's his name with the burning glass. Then the heather goes on fire. It can't",
+    "start": 80393,
+    "end": 80427,
+    "canonical_text": "with the letter em on her forehead"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15141565,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

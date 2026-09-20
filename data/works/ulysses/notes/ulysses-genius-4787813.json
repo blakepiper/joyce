@@ -1,0 +1,63 @@
+{
+  "id": "ulysses-genius-4787813",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Three times a day, after meals,",
+  "html_source": "<p>Just like a prescribed medicine.</p><p>PROPOSED SUGGESTION: Stating the obvious.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4787813/James-joyce-ulysses-chap-1-telemachus/Three-times-a-day-after-meals",
+    "original_id": "4787813",
+    "referent_id": 4787813,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Three times a day, after meals,",
+    "prefix": " harm out of it somehow, doesn't it? What did he call it? Joseph the Joiner? \n\n — The ballad of joking Jesus, Stephen answered. \n\n — O, Haines said, you have heard it before? \n\n — ",
+    "suffix": " Stephen said drily. \n\n — You're not a believer, are you? Haines asked. I mean, a believer in1932#18 the narrow sense of the word. Creation from nothing and miracles and a personal",
+    "start": 34298,
+    "end": 34329,
+    "canonical_text": "Three times a day, after meals,"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4787813,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2649593,
+        "login": "RHvdG",
+        "name": "RHvdG",
+        "role": null,
+        "attribution": 0.5333333333333333
+      },
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 0.26666666666666666
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.13333333333333333
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.06666666666666667
+      }
+    ]
+  },
+  "color": "F59627"
+}

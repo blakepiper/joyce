@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13809403",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Conclamation",
+  "html_source": "<p>an outcry of many together</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13809403/James-joyce-ulysses-chap-14-oxen-of-the-sun/Conclamation",
+    "original_id": "13809403",
+    "referent_id": 13809403,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "conclamation",
+    "prefix": " over us dead they bend. First, saved from water of old Nile, among bulrushes, a bed of fasciated 1986#322wattles: at last the cavity of a mountain, an occulted sepulchre amid the ",
+    "suffix": " of the hillcat and the ossifrage. And as no man 1932#356knows the ubicity of his tumulus nor to what processes we shall thereby be ushered nor whether to Tophet or to Edenville in",
+    "start": 28235,
+    "end": 28247,
+    "canonical_text": "conclamation"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13809403,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

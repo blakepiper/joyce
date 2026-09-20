@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23704692",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "True word spoken in jest",
+  "html_source": "<p>Variant of: “Ful ofte in game a sooth I have herd saye!”</p><p>From Chaucer’s The Cook’s Tale in The Canterbury Tales.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23704692/James-joyce-ulysses-chap-15-circe/True-word-spoken-in-jest",
+    "original_id": "23704692",
+    "referent_id": 23704692,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "True word spoken in jest",
+    "prefix": "report him. Tension makes them nervous. Might 1922#414be the fellow balked me this morning with that horsey woman. Same style of beauty. Quick of him all the same. The stiff walk. ",
+    "suffix": ". That awful cramp in Lad lane. Something poisonous I ate. Emblem of luck. Why? Probably lost cattle. Mark of the beast. (He closes his eyes an instant.) Bit light in the head. Mon",
+    "start": 9945,
+    "end": 9969,
+    "canonical_text": "True word spoken in jest"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23704692,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

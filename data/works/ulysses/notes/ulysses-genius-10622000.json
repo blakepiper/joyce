@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10622000",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Ivan St Austell and Hilton St Just",
+  "html_source": "<p>Two tenors from the Arthur Rousbey Opera Company, a short-lived company<br /><a href=\"https://books.google.com/books?id=xn_MH9pp29EC&amp;pg=PA43&amp;lpg=PA43&amp;dq=Ivan+St+Austell&amp;source=bl&amp;ots=27gf1jf8hi&amp;sig=Z8GYmDEhSYw7cKeTzCPSCZQ8aZg&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjszIu8wd3PAhXHxlQKHXO7C1wQ6AEIHjAA#v=onepage&amp;q=Ivan%20St%20Austell&amp;f=false\" rel=\"noopener nofollow\">https://books.google.com/books?id=xn_MH9pp29EC&amp;pg=PA43&amp;lpg=PA43&amp;dq=Ivan+St+Austell&amp;source=bl&amp;ots=27gf1jf8hi&amp;sig=Z8GYmDEhSYw7cKeTzCPSCZQ8aZg&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjszIu8wd3PAhXHxlQKHXO7C1wQ6AEIHjAA#v=onepage&amp;q=Ivan%20St%20Austell&amp;f=false</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10622000/James-joyce-ulysses-chap-16-eumaeus/Ivan-st-austell-and-hilton-st-just",
+    "original_id": "10622000",
+    "referent_id": 10622000,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Ivan St Austell and Hilton St Just",
+    "prefix": ", would rapidly have a great vogue as it would be a decided novelty for Dublin's musical world after the usual hackneyed run of catchy tenor solos foisted on a confiding public by ",
+    "suffix": " and their genus omne. Yes, beyond a shadow of a doubt, he could with all the cards in his hand and he had a capital opening to make a name for himself and win a high place in the ",
+    "start": 128126,
+    "end": 128160,
+    "canonical_text": "Ivan St Austell and Hilton St Just"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10622000,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

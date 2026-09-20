@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3139604",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "With two crucified shirts",
+  "html_source": "<p>One less salvation than there should be. Stephen !</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3139604/James-joyce-ulysses-chap-3-proteus/With-two-crucified-shirts",
+    "original_id": "3139604",
+    "referent_id": 3139604,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "with two crucified shirts",
+    "prefix": " A sentinel: isle of dreadful thirst. Broken hoops on the shore; at the land a maze of dark cunning nets; farther away chalkscrawled backdoors and on the higher beach a dryingline ",
+    "suffix": ". Ringsend: wigwams of brown steersmen and master mariners. Human shells. \n\n He halted. I have passed the way to aunt Sara's. Am I not going there? Seems not. No-one about. He turn",
+    "start": 9669,
+    "end": 9694,
+    "canonical_text": "with two crucified shirts"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3139604,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

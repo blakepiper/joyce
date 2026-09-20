@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4161938",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Consubstantial",
+  "html_source": "<p>Means of the same substance. Joyce joins Stephen to his real father, Simon Dedalus, early in <em>Proteus</em>, however there are conflations about uniting Stephen and Bloom, one of which, grief Stephen is now exhibiting.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4161938/James-joyce-ulysses-chap-3-proteus/Consubstantial",
+    "original_id": "4161938",
+    "referent_id": 4161938,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "consubstantial",
+    "prefix": "ss. And after? The Ship, half twelve. By the way go easy with that money like a good young imbecile. Yes, I must. \n\n His pace slackened. Here. Am I going to aunt Sara's or not? My ",
+    "suffix": " father's voice. Did you see anything of your artist brother 1922#38Stephen lately? No? Sure he's not down in Strasburg terrace with his aunt Sally? Couldn't he fly a bit higher th",
+    "start": 3912,
+    "end": 3926,
+    "canonical_text": "consubstantial"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9711
+  },
+  "genius": {
+    "referent_id": 4161938,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.8529411764705883
+      },
+      {
+        "id": 1209714,
+        "login": "AlexBeston",
+        "name": "AlexBeston",
+        "role": "contributor",
+        "attribution": 0.14705882352941177
+      }
+    ]
+  },
+  "color": "F59627"
+}

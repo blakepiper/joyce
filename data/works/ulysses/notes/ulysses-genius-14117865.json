@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-14117865",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Rictus",
+  "html_source": "<p>rictus :(noun)<br />a fixed grimace or grin.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/14117865/James-joyce-ulysses-chap-15-circe/Rictus",
+    "original_id": "14117865",
+    "referent_id": 14117865,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "rictus",
+    "prefix": "'t get a connection. Only, you know, sensation. A dry rush. \n\n BLOOM \n\n Poor man! \n\n1922#488\n\n ZOE \n\n(Lightly.) Only for what happened him. \n\n BLOOM \n\n How? \n\n VIRAG \n\n(A diabolic ",
+    "suffix": " of black luminosity contracting his visage, cranes his scraggy neck forward. He lifts a mooncalf nozzle and howls.) Verfluchte Goim! He had a father, forty fathers. He never exist",
+    "start": 129466,
+    "end": 129472,
+    "canonical_text": "rictus"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 14117865,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

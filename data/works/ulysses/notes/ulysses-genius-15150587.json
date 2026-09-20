@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15150587",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Trulls",
+  "html_source": "<p>An archaic term for prostitute (from the German trulle).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15150587/James-joyce-ulysses-chap-14-oxen-of-the-sun/Trulls",
+    "original_id": "15150587",
+    "referent_id": 15150587,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "trulls",
+    "prefix": "There was bad blood between them at first, says Mr 1986#327Vincent, and the lord Harry called farmer Nicholas all the old Nicks in the world and an old whoremaster that kept seven ",
+    "suffix": " in his house and I'll meddle in his matters, says he. I'll make that animal smell hell, says he, with the help of that good pizzle my father left me. But one evening, says Mr Dixo",
+    "start": 44637,
+    "end": 44643,
+    "canonical_text": "trulls"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15150587,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

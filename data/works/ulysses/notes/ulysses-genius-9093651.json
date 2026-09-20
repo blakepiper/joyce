@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9093651",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Neary",
+  "html_source": "<p>the tailor</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9093651/James-joyce-ulysses-chap-10-wandering-rocks/Neary",
+    "original_id": "9093651",
+    "referent_id": 9093651,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Neary",
+    "prefix": "ted and preened himself before the sloping mirror of Peter Kennedy, hairdresser. Stylish coat, beyond a doubt. Scott of Dawson street. Well 1939#175worth the half sovereign I gave ",
+    "suffix": " for it. Never built under three guineas. Fits me down to the ground. Some Kildare street club toff had it probably. John Mulligan, the manager of the Hibernian bank, gave me a ver",
+    "start": 42721,
+    "end": 42726,
+    "canonical_text": "Neary"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9093651,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083736,
+        "login": "JessicaVestuto",
+        "name": "JessicaVestuto",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

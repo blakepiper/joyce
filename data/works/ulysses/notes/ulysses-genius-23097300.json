@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23097300",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Pared her nails too, Thursday for wealth",
+  "html_source": "<p>“Trim your nails on  —<br />Monday for news,<br />Tuesday for shoes,<br />Wednesday for health,<br />Thursday for wealth,<br />Friday for woe,<br />Saturday, a journey to go.”</p><p>~Journal of American Folklore (1918)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23097300/James-joyce-ulysses-chap-13-nausicaa/Pared-her-nails-too-thursday-for-wealth",
+    "original_id": "23097300",
+    "referent_id": 23097300,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "pared her nails too, Thursday for wealth",
+    "prefix": "was dark brown with a natural wave in it. She had cut it that very morning on account of the new moon and it nestled about her pretty head in a profusion of luxuriant clusters and ",
+    "suffix": ". And just now at Edy's words as a telltale flush, delicate as the faintest rosebloom, crept into her cheeks she looked so lovely in her sweet girlish shyness that of a surety God'",
+    "start": 7964,
+    "end": 8004,
+    "canonical_text": "pared her nails too, Thursday for wealth"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23097300,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8978833",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Dark horse",
+  "html_source": "<p>This was originally horse racing parlance. A dark horse was one that wasn’t known to the punters and was difficult to place odds on. The figurative use later spread to other fields and has come to apply to anyone who comes under scrutiny but is previously little known.<br /><a href=\"http://www.phrases.org.uk/meanings/108200.html\" rel=\"noopener nofollow\">http://www.phrases.org.uk/meanings/108200.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8978833/James-joyce-ulysses-chap-12-cyclops/Dark-horse",
+    "original_id": "8978833",
+    "referent_id": 8978833,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "dark horse",
+    "prefix": "him off it and he told me Bloom gave him the tip. Bet you what you like he has a hundred shillings to five on. He's the only man in Dublin has it. A dark horse. \n\n — He's a bloody ",
+    "suffix": " himself, says Joe. \n\n — Mind, Joe, says I. Show us the entrance out. \n\n — There you are, says Terry. \n\n Goodbye Ireland I'm going to Gort. So I just went round the back of the yar",
+    "start": 99735,
+    "end": 99745,
+    "canonical_text": "dark horse"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9752
+  },
+  "genius": {
+    "referent_id": 8978833,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

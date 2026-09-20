@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8799728",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Overarsing",
+  "html_source": "<p>Lambert changes ‘overarching’ to ‘overarsing’ to match the ‘pensive bosom’?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8799728/James-joyce-ulysses-chap-7-aeolus/Overarsing",
+    "original_id": "8799728",
+    "referent_id": 8799728,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "overarsing",
+    "prefix": "er. How's that for high? \n\n — Changing his drink, Mr Dedalus said. \n\n Ned Lambert, laughing, struck the newspaper on his knees, repeating: \n\n1932#110\n\n — The pensive bosom and the ",
+    "suffix": " leafage. O boys! O boys! \n\n1961#123\n\n — And Xenophon looked upon Marathon, Mr Dedalus said, looking again on the fireplace and to the window, and Marathon looked on the sea. \n\n — ",
+    "start": 14228,
+    "end": 14238,
+    "canonical_text": "overarsing"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8799728,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

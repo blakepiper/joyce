@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10655838",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "First Cause,",
+  "html_source": "<p>First cause, in philosophy, the self-created being (i.e., God) to which every chain of causes must ultimately go back.<br /><a href=\"https://www.britannica.com/topic/first-cause\" rel=\"noopener nofollow\">https://www.britannica.com/topic/first-cause</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10655838/James-joyce-ulysses-chap-16-eumaeus/First-cause",
+    "original_id": "10655838",
+    "referent_id": 10655838,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "First Cause,",
+    "prefix": "\n — They tell me on the best authority it is a simple substance and therefore incorruptible. It would be immortal, I understand, but for the possibility of its annihilation by its ",
+    "suffix": " Who, from all I can hear, is quite capable of adding that to the number of His other practical jokes, corruptio per se and corruptio per accidens both being excluded by court etiq",
+    "start": 50853,
+    "end": 50865,
+    "canonical_text": "First Cause,"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10655838,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

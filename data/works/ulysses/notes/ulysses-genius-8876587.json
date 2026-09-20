@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8876587",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Pokorny of Vienna",
+  "html_source": "<p>Julius Pokorny (1887-1970) was a German Celtic scholar who supported Irish nationalism and the Gaelic League. And he was a German nationalist who lost his chair in Berlin because of Jewish ancestry, after which an Irish visa saved his life…<br />In 1922 his name cropped up in no less a place than James Joyce’s new novel, Ulysses, where the idea that the ancient Celts had no concept of hell is attributed to him. The scene is curiously anachronistic, because on 16 June 1904, the day on which Ulysses is set, Pokorny was a seventeen-year-old schoolboy in Austria whose name was unknown in Dublin.<br />HistoryIreland.com</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8876587/James-joyce-ulysses-chap-10-wandering-rocks/Pokorny-of-vienna",
+    "original_id": "8876587",
+    "referent_id": 8876587,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Pokorny of Vienna",
+    "prefix": "\n — Eternal punishment, Haines said, nodding curtly. I see. I tackled him this morning on belief. There was something on his mind, I saw. It's rather interesting because professor ",
+    "suffix": " makes an interesting point out of that. \n\n Buck Mulligan's watchful eyes saw the waitress come. He helped her to unload her tray. \n\n — He can find no trace of hell in ancient Iris",
+    "start": 61843,
+    "end": 61860,
+    "canonical_text": "Pokorny of Vienna"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8876587,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

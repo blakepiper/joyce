@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8876235",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Macebearer",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/a2023d5062deac74cc7d2a965d6d2a5d.220x491x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8876235/James-joyce-ulysses-chap-10-wandering-rocks/Macebearer",
+    "original_id": "8876235",
+    "referent_id": 8876235,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "macebearer",
+    "prefix": "they were having, Jimmy Henry said pettishly, about their damned Irish language. Where was the marshal, he wanted to know, to keep order in the council chamber. And old Barlow the ",
+    "suffix": " laid up with asthma, no mace on the table, nothing in order, no quorum even, and Hutchinson, the lord mayor, in Llandudno and little Lorcan Sherlock doing locum tenens for him. Da",
+    "start": 57944,
+    "end": 57954,
+    "canonical_text": "macebearer"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8876235,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

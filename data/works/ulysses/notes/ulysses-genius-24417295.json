@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-24417295",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Mrs Marion",
+  "html_source": "<p>Disrespectful to Bloom – Marion is Mrs. Leopold<br />Boylan has referred to her as Mrs. Marion and Bloom was bothered. Now Marion asks Bloom to call her Mrs. Marion. More self-abasement</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/24417295/James-joyce-ulysses-chap-15-circe/Mrs-marion",
+    "original_id": "24417295",
+    "referent_id": 24417295,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Mrs Marion",
+    "prefix": "h the sky. \n\n(The freckled face of Sweny, the druggist, appears in the disc of the soapsun.) \n\n SWENY \n\n Three and a penny, please. \n\n1932#3961961#440\n\n BLOOM \n\n Yes. For my wife. ",
+    "suffix": ". Special recipe. \n\n MARION \n\n(Softly.) Poldy! \n\n BLOOM \n\n Yes, ma'am? \n\n MARION \n\n Ti trema un poco il cuore? \n\n(In disdain she saunters away, plump as a pampered pouter pigeon, h",
+    "start": 16464,
+    "end": 16474,
+    "canonical_text": "Mrs Marion"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.8849
+  },
+  "genius": {
+    "referent_id": 24417295,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 10526289,
+        "login": "satchlj",
+        "name": "satchlj",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

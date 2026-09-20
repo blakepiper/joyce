@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4877223",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "I mean, we have the plays. I mean",
+  "html_source": "<p>Starting a sentence with “I mean”, let alone repeating it is bad rhetoric. Is this a further slight on A.E.? Or is it a mere sign of his impatience?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4877223/James-joyce-ulysses-chap-9-scylla-and-charybdis/I-mean-we-have-the-plays-i-mean",
+    "original_id": "4877223",
+    "referent_id": 4877223,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "I mean, we have the plays. I mean",
+    "prefix": "peare, born Hathaway? \n\n — But this prying into the family life of a great man, Russell began impatiently. \n\n Art thou there, truepenny? \n\n — Interesting only to the parish clerk. ",
+    "suffix": " when we read the poetry of King Lear what is it to us how the poet lived? As for living our servants can do that for us, Villiers de l'Isle has said. Peeping and prying into green",
+    "start": 10587,
+    "end": 10620,
+    "canonical_text": "I mean, we have the plays. I mean"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4877223,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1482232,
+        "login": "JayEn",
+        "name": "JayEn",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15157142",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "D",
+  "html_source": "<p>Error of transcription or typography: should be ‘H’ for ‘How’.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15157142/James-joyce-ulysses-chap-15-circe/D",
+    "original_id": "15157142",
+    "referent_id": 15157142,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "D",
+    "prefix": "nton, solicitor, commissioner for oaths and affidavits, of 27 Bachelor's Walk. Now I am defunct, the wall of the heart hypertrophied. Hard lines. The poor wife was awfully cut up. ",
+    "suffix": "ow is she bearing it? Keep her off that bottle of sherry. (He looks round him.) A lamp. I must satisfy an animal need. That buttermilk didn't agree with me.\n\n(The portly figure of ",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "ambiguous",
+    "confidence": 0.2890030977189524
+  },
+  "genius": {
+    "referent_id": 15157142,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

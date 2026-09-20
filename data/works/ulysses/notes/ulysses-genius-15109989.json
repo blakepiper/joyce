@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15109989",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "In articulo mortis per diminutionem capitis",
+  "html_source": "<p>“in the article of [in the moment of] death by removal of head”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15109989/James-joyce-ulysses-chap-12-cyclops/In-articulo-mortis-per-diminutionem-capitis",
+    "original_id": "15109989",
+    "referent_id": 15109989,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "in articulo mortis per diminutionem capitis",
+    "prefix": "of the human anatomy known as the penis or male organ resulting in the phenomenon which has been denominated by the faculty a morbid upwards and outwards philoprogenitive erection ",
+    "suffix": ". \n\n So of course the citizen was only waiting for the wink of the word and he starts gassing out of him about the invincibles and the old guard and the men of sixtyseven and who f",
+    "start": 29678,
+    "end": 29721,
+    "canonical_text": "in articulo mortis per diminutionem capitis"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15109989,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

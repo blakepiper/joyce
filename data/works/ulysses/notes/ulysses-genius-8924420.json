@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8924420",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Melodeon",
+  "html_source": "<p>a small accordion of German origin, played especially by folk musicians.</p><p><img src=\"https://images.rapgenius.com/1e9f3bd5ccdba309d2b157c9fdfa5f0a.515x640x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8924420/James-joyce-ulysses-chap-11-sirens/Melodeon",
+    "original_id": "8924420",
+    "referent_id": 8924420,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "melodeon",
+    "prefix": "s to live like the rest. Look in here. \n\n In Lionel Marks's antique saleshop window haughty Henry Lionel Leopold dear Henry Flower earnestly Mr Leopold Bloom envisaged candlestick ",
+    "suffix": " oozing maggoty blowbags. Bargain: six bob. Might learn to play. Cheap. Let her pass. Course everything is dear if you don't want it. That's what good salesman is. Make you buy wha",
+    "start": 71556,
+    "end": 71564,
+    "canonical_text": "melodeon"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8924420,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

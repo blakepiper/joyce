@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23229039",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Noctambules",
+  "html_source": "<p>French for “night owls”, directly from noct (night) roaming (ambule).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23229039/James-joyce-ulysses-chap-16-eumaeus/Noctambules",
+    "original_id": "23229039",
+    "referent_id": 23229039,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "noctambules",
+    "prefix": "kin-the-Goat Fitzharris, the invincible, though he could not vouch for the actual facts which quite possibly there was not one vestige of truth in. A few moments later saw our two ",
+    "suffix": " safely seated in a discreet corner only to be greeted by stares from the decidedly miscellaneous collection of waifs and strays and other nondescript specimens of the genus homo, ",
+    "start": 22403,
+    "end": 22414,
+    "canonical_text": "noctambules"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23229039,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

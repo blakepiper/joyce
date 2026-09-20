@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33863459",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Unprepared",
+  "html_source": "<p>Not just unprepared in the sense of not seeing it coming, but unprepared in the Catholic sense of not having had the opportunity to confess sins, thus dying unshriven.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33863459/James-joyce-ulysses-chap-10-wandering-rocks/Unprepared",
+    "original_id": "33863459",
+    "referent_id": 33863459,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "unprepared",
+    "prefix": "obacconist against which newsboards leaned and told of a dreadful catastrophe in New York. In America those things were continually happening. Unfortunate people to die like that, ",
+    "suffix": ". Still, an act of perfect contrition. \n\n1939#1621932#198\n\n Father Conmee went by Daniel Bergin's publichouse against the window of which two unlabouring men lounged. They saluted ",
+    "start": 5683,
+    "end": 5693,
+    "canonical_text": "unprepared"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 33863459,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

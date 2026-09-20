@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10722828",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Scutchmills",
+  "html_source": "<p><a href=\"https://www.ancestryireland.com/family-records/scutch-mills-of-ireland-1876/\" rel=\"noopener nofollow\">https://www.ancestryireland.com/family-records/scutch-mills-of-ireland-1876/</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10722828/James-joyce-ulysses-chap-17-ithaca/Scutchmills",
+    "original_id": "10722828",
+    "referent_id": 10722828,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "scutchmills",
+    "prefix": "ea: its solidity in glaciers, icebergs, icefloes: its docility in working hydraulic millwheels, turbines, 1939#472dynamos, electric power stations, bleachworks, 1932#578tanneries, ",
+    "suffix": ": its utility in canals, rivers, if navigable, floating and graving docks: its potentiality derivable from harnessed tides or watercourses falling from level to level: its submarin",
+    "start": 14874,
+    "end": 14885,
+    "canonical_text": "scutchmills"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10722828,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

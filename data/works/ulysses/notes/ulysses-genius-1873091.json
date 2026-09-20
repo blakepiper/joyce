@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1873091",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Schluss.",
+  "html_source": "<p>German: Enough!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1873091/James-joyce-ulysses-chap-3-proteus/Schluss",
+    "original_id": "1873091",
+    "referent_id": 1873091,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Schluss.",
+    "prefix": "is friend. \n\n1986#34\n\n— C'est tordant, vous savez. Moi, je suis socialiste. Je ne crois pas en l'existence de Dieu. Faut pas le dire à mon père. \n\n— Il croit? \n\n—Mon père, oui. \n\n ",
+    "suffix": " He laps. \n\n My Latin quarter hat. God, we simply must dress the character. I want puce gloves. You were a student, weren't you? Of what in the other devil's name? Paysayenn. P. C.",
+    "start": 10569,
+    "end": 10577,
+    "canonical_text": "Schluss."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1873091,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 176532,
+        "login": "biblicalmike",
+        "name": "Michael Bible",
+        "role": "verified_artist",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

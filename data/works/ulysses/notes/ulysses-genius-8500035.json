@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8500035",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Foundation stone for Parnell.",
+  "html_source": "<p>The foundation stone for the Parnell Monument was laid in 1899 near the Rotunda Hospital at the top of Sackville Street (now O'Connell Street), and was all that Bloom would see in 1904. In 1911, the completed monument created by sculptor Augustus Saint-Gaudens was unveiled.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8500035/James-joyce-ulysses-chap-6-hades/Foundation-stone-for-parnell",
+    "original_id": "8500035",
+    "referent_id": 8500035,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Foundation stone for Parnell.",
+    "prefix": "il service college, Gill's, catholic club, the industrious blind. Why? Some reason. Sun or wind. At night too. Chummies and slaveys. Under the patronage of the late Father Mathew. ",
+    "suffix": " Breakdown. Heart. \n\n White horses with white frontlet plumes came round the Rotunda corner, galloping. A tiny coffin flashed by. In a hurry1961#95 to bury. A mourning coach. Unmar",
+    "start": 18411,
+    "end": 18440,
+    "canonical_text": "Foundation stone for Parnell."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8500035,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2680303,
+        "login": "Cortez67",
+        "name": "Cortez67",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

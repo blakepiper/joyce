@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10859191",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Physical Strength and How to Obtain",
+  "html_source": "<p><a href=\"https://archive.org/details/strengthandhowt00sandgoog\" rel=\"noopener nofollow\">https://archive.org/details/strengthandhowt00sandgoog</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10859191/James-joyce-ulysses-chap-17-ithaca/Physical-strength-and-how-to-obtain",
+    "original_id": "10859191",
+    "referent_id": 10859191,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Physical Strength and How to Obtain",
+    "prefix": " brevier, captions small pica). \nThe Hidden Life of Christ (black boards). 932#6131922#661\nIn the Track of the Sun (yellow cloth, titlepage missing, recurrent title intestation). \n",
+    "suffix": " It by Eugen Sandow (red cloth). \nShort but yet Plain Elements of Geometry written in French by F. Ignat. Pardies and rendered into Engliſh by John Harris D. D. London, printed for",
+    "start": 88186,
+    "end": 88221,
+    "canonical_text": "Physical Strength and How to Obtain"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9398
+  },
+  "genius": {
+    "referent_id": 10859191,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

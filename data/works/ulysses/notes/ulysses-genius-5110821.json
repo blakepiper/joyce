@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5110821",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Stamer street",
+  "html_source": "<p>In south-central Dublin near the Grand Canal.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5110821/James-joyce-ulysses-chap-6-hades/Stamer-street",
+    "original_id": "5110821",
+    "referent_id": 5110821,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Stamer street",
+    "prefix": "tleworks. Dodder bridge. \n\n Richie Goulding and the legal bag. Goulding, Collis and Ward he calls the firm. His jokes are getting a bit damp. Great card he was.1932#78 Waltzing in ",
+    "suffix": " with Ignatius Gallaher on a Sunday morning, the landlady's two hats pinned on his head. Out on the rampage all night. Beginning to tell on him now: that backache of his, I fear. W",
+    "start": 3410,
+    "end": 3423,
+    "canonical_text": "Stamer street"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5110821,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

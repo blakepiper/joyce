@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15150421",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Etienne chanson",
+  "html_source": "<p>French for “Stephen song” (perhaps bidding him sing?)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15150421/James-joyce-ulysses-chap-14-oxen-of-the-sun/Etienne-chanson",
+    "original_id": "15150421",
+    "referent_id": 15150421,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Etienne chanson",
+    "prefix": "ke way is all hidden when we would backward see from what region of remoteness the whatness of our whoness hath fetched his whenceness. \n\n Thereto Punch Costello roared out mainly ",
+    "suffix": " but he loudly bid them, lo, wisdom hath built herself a house, this vast majestic longstablished vault, the crystal palace of the Creator, all in applepie order, a penny for him w",
+    "start": 28614,
+    "end": 28629,
+    "canonical_text": "Etienne chanson"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15150421,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

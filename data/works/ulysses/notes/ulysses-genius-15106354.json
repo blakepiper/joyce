@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15106354",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Pelurious",
+  "html_source": "<p>Another term original to Joyce; the consensus is that this term <a href=\"https://en.wiktionary.org/wiki/pelurious\" rel=\"noopener nofollow\">simply means “hairy”</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15106354/James-joyce-ulysses-chap-12-cyclops/Pelurious",
+    "original_id": "15106354",
+    "referent_id": 15106354,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "pelurious",
+    "prefix": "marrows and fat vetches and bere and rape and red green yellow brown russet sweet big bitter ripe pomellated apples and chips of strawberries and sieves of gooseberries, pulpy and ",
+    "suffix": ", and strawberries fit for princes and raspberries from their canes. \n\n I dare him, says he, and I doubledare him. Come out here, Geraghty, you notorious bloody hill and dale robbe",
+    "start": 6533,
+    "end": 6542,
+    "canonical_text": "pelurious"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15106354,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

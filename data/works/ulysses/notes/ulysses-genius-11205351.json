@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11205351",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "John Jameson",
+  "html_source": "<p>John Jameson is an Irish whiskey, so Molly suggests that Professor Goodwin was an expert drinker<br /><a href=\"https://en.wikipedia.org/wiki/Jameson_Irish_Whiskey\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Jameson_Irish_Whiskey</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11205351/James-joyce-ulysses-chap-18-penelope/John-jameson",
+    "original_id": "11205351",
+    "referent_id": 11205351,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "John Jameson",
+    "prefix": "d to understand it all probably he told him he was out of Trinity college hes very young to be a professor I hope hes not a professor like Goodwin was he was a patent professor of ",
+    "suffix": " they all write about some woman in their poetry well I suppose he wont find many like 1939#546me where softly sighs of love the light guitar where poetry is in the air the blue se",
+    "start": 99084,
+    "end": 99096,
+    "canonical_text": "John Jameson"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11205351,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

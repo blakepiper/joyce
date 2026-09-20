@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2464136",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Patron of arts",
+  "html_source": "<p>Rulers, nobles and very wealthy people used patronage of the arts to endorse their political ambitions, social positions, and prestige. In this case, a patron of the arts.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2464136/James-joyce-ulysses-chap-1-telemachus/Patron-of-arts",
+    "original_id": "2464136",
+    "referent_id": 2464136,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "patron of arts",
+    "prefix": "pped off the gunrest and looked gravely at his watcher, gathering about his legs the loose folds of his gown. The plump1932#3shadowed face and sullen oval jowl recalled a prelate, ",
+    "suffix": " in the middle ages. A pleasant smile broke quietly over his lips. \n\n — The mockery of it! he said gaily. Your absurd name, an ancient Greek! \n\n1986#3\n\n He pointed his finger in fr",
+    "start": 1853,
+    "end": 1867,
+    "canonical_text": "patron of arts"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2464136,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

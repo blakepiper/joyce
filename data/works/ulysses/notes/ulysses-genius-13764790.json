@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13764790",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Stow",
+  "html_source": "<p>stow – Obsolete (from AngloSaxon): “place.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13764790/James-joyce-ulysses-chap-14-oxen-of-the-sun/Stow",
+    "original_id": "13764790",
+    "referent_id": 13764790,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "stow",
+    "prefix": "him drew that he would rathe infare under her thatch. That man her will wotting worthful went in Horne's house. \n\n Loth to irk in Horne's hall hat holding the seeker stood. On her ",
+    "suffix": " he ere was living with dear wife and lovesome daughter that then over land and seafloor nine years had long outwandered. Once her in 1932#348townhithe meeting he to her bow had no",
+    "start": 5976,
+    "end": 5980,
+    "canonical_text": "stow"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13764790,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9575638",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Corpus delicti",
+  "html_source": "<p>(Latin: “body of the crime”) the facts and circumstances constituting a breach of a law.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9575638/James-joyce-ulysses-chap-15-circe/Corpus-delicti",
+    "original_id": "9575638",
+    "referent_id": 9575638,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "corpus delicti",
+    "prefix": "iversity of life. Bad art. \n\n BEAUFOY \n\n(Shouts.) It's a damnably foul lie, showing the moral rottenness of the man! (He extends his portfolio.) We have here damning evidence, the ",
+    "suffix": ", my lord, a specimen of my maturer work disfigured by the hallmark of the beast. \n\n A VOICE FROM THE GALLERY \n\n Moses, Moses, king of the jews, \nWiped his arse in the Daily News. ",
+    "start": 41384,
+    "end": 41398,
+    "canonical_text": "corpus delicti"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9575638,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

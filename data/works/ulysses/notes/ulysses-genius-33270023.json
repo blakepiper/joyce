@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33270023",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "All",
+  "html_source": "<p>What do you make of it ( save the mother or the child?) Bloom, they asked!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33270023/James-joyce-ulysses-chap-14-oxen-of-the-sun/All",
+    "original_id": "33270023",
+    "referent_id": 33270023,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "All",
+    "prefix": "m to bring forth beastly should die by canon for so saith 1939#281he that holdeth the fisherman's seal, even that blessed Peter on which rock was holy church for all ages founded. ",
+    "suffix": " they bachelors then asked of sir Leopold would he in like case so jeopard her person as risk life to save life. A wariness of mind he would answer as fitted all and, laying hand t",
+    "start": 17895,
+    "end": 17898,
+    "canonical_text": "All"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9712
+  },
+  "genius": {
+    "referent_id": 33270023,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

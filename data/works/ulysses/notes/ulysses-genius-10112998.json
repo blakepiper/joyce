@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10112998",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Mount of the moon",
+  "html_source": "<p>In palmistry, an indicator of intuition, creativity and imagination.<br /><a href=\"http://psychiclibrary.com/beyondBooks/mount-of-moon/\" rel=\"noopener nofollow\">http://psychiclibrary.com/beyondBooks/mount-of-moon/</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10112998/James-joyce-ulysses-chap-15-circe/Mount-of-the-moon",
+    "original_id": "10112998",
+    "referent_id": 10112998,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Mount of the moon",
+    "prefix": "PHEN \n\n Thursday. Today. \n\n ZOE \n\n Thursday's child has far to go.(She traces lines on his hand.) Line of fate. Influential friends. \n\n FLORRY \n\n(Pointing.) Imagination. \n\n ZOE \n\n ",
+    "suffix": ". You'll meet with a... (She peers at his hands abruptly.) I won't tell you what's not good for you. Or do you want to know? \n\n1986#458\n\n BLOOM \n\n(Detaches her fingers and offers h",
+    "start": 182665,
+    "end": 182682,
+    "canonical_text": "Mount of the moon"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10112998,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

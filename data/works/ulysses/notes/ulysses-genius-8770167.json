@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8770167",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Loop Line bridge",
+  "html_source": "<p>The Loopline Bridge (or the Liffey Viaduct) is a railway bridge spanning the River Liffey and several streets in Dublin, Ireland. It joins rail services from south of Dublin to Connolly Station and lines north.</p><p><img src=\"https://images.rapgenius.com/517b186640129cd71aabd7a9e79fa08a.600x399x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8770167/James-joyce-ulysses-chap-5-lotus-eaters/Loop-line-bridge",
+    "original_id": "8770167",
+    "referent_id": 8770167,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Loop Line bridge",
+    "prefix": "corps. Well, what are you gaping at? \n\n — Yes, yes, Mr Bloom said after a dull sigh. Another gone. \n\n — One of the best, M'Coy said. \n\n The tram passed. They drove off towards the ",
+    "suffix": ", her rich gloved hand on the steel grip. Flicker, flicker: the laceflare of her hat in the sun: flicker, flick. \n\n1922#71\n\n — Wife well, I suppose? M'Coy's changed voice said. \n\n ",
+    "start": 8797,
+    "end": 8813,
+    "canonical_text": "Loop Line bridge"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8770167,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10890810",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Arenary",
+  "html_source": "<p>Arenary is not an English word. Joyce may have derived it from the Spanish ‘arena’ meaning sand.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10890810/James-joyce-ulysses-chap-17-ithaca/Arenary",
+    "original_id": "10890810",
+    "referent_id": 10890810,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "arenary",
+    "prefix": "r problem of the quadrature of the circle, government premium £1,000,000 sterling. \n\n Was vast wealth acquirable through industrial channels? \n\n The reclamation of dunams of waste ",
+    "suffix": " soil, proposed in the prospectus of Agendath Netaim, Bleibtreustrasse, Berlin, W. 15, by the cultivation of orange plantations and melonfields and reafforestation. The utilisation",
+    "start": 107341,
+    "end": 107348,
+    "canonical_text": "arenary"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10890810,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

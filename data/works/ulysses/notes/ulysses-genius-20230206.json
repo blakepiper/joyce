@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20230206",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "???",
+  "html_source": "<p>These question marks are a new headline, they should be on a separate line with spaces in between (and, originally, in boldface):</p><p><strong>?      ?      ?</strong></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20230206/James-joyce-ulysses-chap-7-aeolus",
+    "original_id": "20230206",
+    "referent_id": 20230206,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "???",
+    "prefix": "urke said melodiously. Youth led by Experience visits Notoriety. \n\n — How do you do? the editor said, holding out a hand. Come in. Your governor is just gone. \n\n1961#1311986#108\n\n ",
+    "suffix": " \n\n Lenehan said to all: \n\n — Silence! What opera resembles a railwayline? Reflect, ponder, excogitate, reply. \n\n1939#98\n\n Stephen handed over the typed sheets, pointing to the tit",
+    "start": 28264,
+    "end": 28269,
+    "canonical_text": "? ? ?"
+  },
+  "provenance": {
+    "match_method": "compact-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 20230206,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11041825,
+        "login": "raggedclaws",
+        "name": "raggedclaws",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

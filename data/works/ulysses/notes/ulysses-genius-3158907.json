@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3158907",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "With",
+  "html_source": "<p>A memory</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3158907/James-joyce-ulysses-chap-3-proteus/With",
+    "original_id": "3158907",
+    "referent_id": 3158907,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "With",
+    "prefix": "ellow did it: other me. Hat, tie, overcoat, nose. Lui, c'est moi. You seem to have enjoyed yourself. \n\n Proudly walking. Whom were you trying to walk like? Forget: a dispossessed. ",
+    "suffix": " mother's money order, eight shillings, the banging door of the post office slammed in your face by the 1961#41usher. Hunger toothache. Encore deux minutes. Look clock. Must get. F",
+    "start": 11370,
+    "end": 11374,
+    "canonical_text": "With"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9712
+  },
+  "genius": {
+    "referent_id": 3158907,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

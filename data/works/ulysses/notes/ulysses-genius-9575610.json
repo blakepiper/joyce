@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-9575610",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Freeman’s Urinal",
+  "html_source": "<p>The Freeman’s Journal was the oldest nationalist newspaper in Ireland for which Bloom worked – his odyssey on 4th June is to sort out an ad for the paper.</p><p>PROPOSED SUGGESTION: 16 June</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9575610/James-joyce-ulysses-chap-15-circe/Freemans-urinal",
+    "original_id": "9575610",
+    "referent_id": 9575610,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Freeman's Urinal",
+    "prefix": " onions in one hand and holds with the other hand a telephone receiver nozzle to his ear.) \n\n MYLES CRAWFORD \n\n (His cock's wattles wagging.) Hello, seventyseven eightfour. Hello. ",
+    "suffix": " and Weekly Arsewipe here. Paralyse Europe. You which? Bluebags? Who writes? Is it Bloom? \n\n1932#409\n\n(Mr Philip Beaufoy, palefaced, stands in the witnessbox, in accurate morning d",
+    "start": 39538,
+    "end": 39554,
+    "canonical_text": "Freeman's Urinal"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9575610,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.6875
+      },
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.3125
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1878177",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Trinity college",
+  "html_source": "<p>The most prestigious university in Dublin, at the time a Protestant-only college. Joyce studied in University College Dublin, a leading Catholic college, and a rival of a sort to Trinity College Dublin.</p><p>This rivalry persists to this day, with TCD students supposed to be pretentious, well-to-do types, and UCD offering many country bumpkins on their first foray into Dublin.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1878177/James-joyce-ulysses-chap-13-nausicaa/Trinity-college",
+    "original_id": "1878177",
+    "referent_id": 1878177,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Trinity college",
+    "prefix": "s riding up and down in front of her window. Only now his father kept him in in the evenings studying hard to get an exhibition in the intermediate that was on and he was going to ",
+    "suffix": " to study for a doctor when he left the high school like his brother W. E. Wylie who was racing in the bicycle races in Trinity college university. Little recked he perhaps for wha",
+    "start": 9017,
+    "end": 9032,
+    "canonical_text": "Trinity college"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9784
+  },
+  "genius": {
+    "referent_id": 1878177,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 211351,
+        "login": "prepski",
+        "name": "prepski",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

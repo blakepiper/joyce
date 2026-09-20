@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15153970",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Bilbo",
+  "html_source": "<p>A type of old-fashioned sword.</p><p>Etym. mid 16th century: from Bilboa, an earlier English form of the name Bilbao, Spain, noted for the manufacture of fine blades.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15153970/James-joyce-ulysses-chap-14-oxen-of-the-sun/Bilbo",
+    "original_id": "15153970",
+    "referent_id": 15153970,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "bilbo",
+    "prefix": "ving the cry, and a tag and bobtail 1922#401of all them after, cockerel, jackanapes, welsher, pilldoctor, punctual Bloom at heels with a universal grabbing at headgear, ashplants, ",
+    "suffix": "s, Panama hats and scabbards, Zermatt alpenstocks and what not. A dedale of lusty youth, noble every student 1939#303there. Nurse Callan taken aback in the hallway cannot stay them",
+    "start": 101244,
+    "end": 101249,
+    "canonical_text": "bilbo"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15153970,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

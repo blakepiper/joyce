@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4667042",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "CALUMET",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/62374c47841cdb8e5e59158838aa5390.640x471x1.jpg\" alt=\"\" /></p><p>A North American Indian peace pipe.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4667042/James-joyce-ulysses-chap-7-aeolus/Calumet",
+    "original_id": "4667042",
+    "referent_id": 4667042,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "CALUMET",
+    "prefix": " said in a low voice. \n\n — Seems to be, J. J. O'Molloy said, taking out a cigarettecase in murmuring meditation, but it is not always as it seems. Who has the most matches? \n\n THE ",
+    "suffix": " OF PEACE \n\n He offered a cigarette to the professor and took one himself. Lenehan promptly struck a match for them and lit their cigarettes in turn. J. J. O'Molloy opened his case",
+    "start": 25496,
+    "end": 25503,
+    "canonical_text": "CALUMET"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4667042,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.7317073170731707
+      },
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.2682926829268293
+      }
+    ]
+  },
+  "color": "F59627"
+}

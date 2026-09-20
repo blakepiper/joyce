@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795060",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Frogmore memorial",
+  "html_source": "<p>The Frogmore Estate or Gardens comprise 33 acres of private gardens within the grounds of the Home Park, adjoining Windsor Castle, in the English county of Berkshire. The name derives from the preponderance of frogs which have always lived in this low-lying and marshy area near the River Thames.</p><p>It is the location of Frogmore House, a Royal retreat. It is also the site of burial places of the British Royal Family: the Royal Mausoleum containing the tombs of Queen Victoria and Prince Albert.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795060/James-joyce-ulysses-chap-6-hades/Frogmore-memorial",
+    "original_id": "8795060",
+    "referent_id": 8795060,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Frogmore memorial",
+    "prefix": "For Hindu widows only. She would marry another. Him? No. Yet who knows after. Widowhood not the thing 1939#77since the old queen died. Drawn on a guncarriage. Victoria and Albert. ",
+    "suffix": " mourning. But in the end she put a few violets in her bonnet. Vain in her heart of hearts. All for a shadow. Consort not even a king. Her son was the substance. Something new to h",
+    "start": 32458,
+    "end": 32475,
+    "canonical_text": "Frogmore memorial"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8795060,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

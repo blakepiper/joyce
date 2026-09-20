@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15167776",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Circumlocution departments",
+  "html_source": "<p>The Circumlocution Department is Dickens' term for bureaucracy, especially that of the British treasury, as used in <a href=\"https://en.wikipedia.org/wiki/Little_Dorrit\" rel=\"noopener nofollow\">Little Dorrit</a>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15167776/James-joyce-ulysses-chap-16-eumaeus/Circumlocution-departments",
+    "original_id": "15167776",
+    "referent_id": 15167776,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Circumlocution departments",
+    "prefix": "32#536be opened up in the line of opening up new routes to keep pace with the times apropos of the Fishguard-Rosslare route which, it was mooted, was once more on the tapis in the ",
+    "suffix": " with the usual quantity of red tape and dillydallying of effete fogeydom and dunderheads generally. A great opportunity there certainly was for push and enterprise to meet the tra",
+    "start": 35814,
+    "end": 35840,
+    "canonical_text": "circumlocution departments"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 15167776,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

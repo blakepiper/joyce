@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2669640",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "The jews Temples gardens",
+  "html_source": "<p>On Adelaide Road, there is a place between a Jewish synagogue and the Royal Victoria Eye, near the grand canal.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2669640/James-joyce-ulysses-chap-18-penelope/The-jews-temples-gardens",
+    "original_id": "2669640",
+    "referent_id": 2669640,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "the jews Temples gardens",
+    "prefix": " hour question and answer would you do this that and the other with the coalman yes with a bishop yes I would because I told him about some dean or bishop was sitting beside me in ",
+    "suffix": " when I was knitting 1939#522that woollen thing a stranger to Dublin what place was it and so on about the monuments and he tired me out with statues encouraging him making him wor",
+    "start": 6727,
+    "end": 6751,
+    "canonical_text": "the jews temples gardens"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2669640,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 406252,
+        "login": "gimblewart",
+        "name": "gimblewart",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

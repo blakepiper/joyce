@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-7343810",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Smoky",
+  "html_source": "<p>Sekunden</p><p>PROPOSED SUGGESTION: Translation of annotation is: seconds. But what is the reference?</p><p>PROPOSED SUGGESTION: Una vieja arrugada que está al lado con una humeante lámpara de aceite mete una última botella en el buche de su bolsa. (subirat)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7343810/James-joyce-ulysses-chap-15-circe/Smoky",
+    "original_id": "7343810",
+    "referent_id": 7343810,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "smoky",
+    "prefix": ", grinding 1986#350growling teeth, and snores again. On a step a gnome totting among a rubbishtip crouches to 1961#429shoulder a sack of rags and bones. A crone standing by with a ",
+    "suffix": " oillamp rams her last bottle in the maw of his sack. He heaves his booty, tugs askew his peaked cap and hobbles off mutely. The crone makes back for her lair, swaying her lamp. A ",
+    "start": 1376,
+    "end": 1381,
+    "canonical_text": "smoky"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 7343810,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2707000,
+        "login": "JozueCoronel",
+        "name": "JozueCoronel",
+        "role": "contributor",
+        "attribution": 0.6590909090909091
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.3181818181818182
+      },
+      {
+        "id": 1960092,
+        "login": "gone_160f0_5995",
+        "name": "gone_160f0_5995",
+        "role": null,
+        "attribution": 0.022727272727272728
+      }
+    ]
+  },
+  "color": "F59627"
+}

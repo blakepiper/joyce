@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9666651",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Caparison",
+  "html_source": "<p>A caparison is a cloth covering laid over a horse or other animal for protection and decoration. In modern times, they are used mainly in parades and for historical reenactments.<br />Wikipedia</p><p><img src=\"https://images.genius.com/a432cd10ffafc57c10af2c9c086d8488.600x600x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9666651/James-joyce-ulysses-chap-15-circe/Caparison",
+    "original_id": "9666651",
+    "referent_id": 9666651,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "caparison",
+    "prefix": " mantle trimmed with ermine, bearing Saint Edward's staff, the orb and sceptre with the dove, the curtana. He is seated on a milkwhite horse with long flowing crimson tail, richly ",
+    "suffix": "ed, with golden headstall. Wild excitement. The ladies from their balconies throw 1932#426down rosepetals. The air is perfumed with essences. The men cheer. Bloom's boys run amid t",
+    "start": 72867,
+    "end": 72876,
+    "canonical_text": "caparison"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9666651,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

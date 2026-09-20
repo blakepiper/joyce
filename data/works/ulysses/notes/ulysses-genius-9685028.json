@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-9685028",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "32 feet per second.",
+  "html_source": "<p>Reference to the rate of accelation of falling bodies that Bloom ruminated on in Chapter 5. “Thirtytwo feet per second per second. Law of falling bodies”.</p><p>Bloom’s deterministic thinking contrasts with the experimental philosophy of Stephen in <em>Proteus</em>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9685028/James-joyce-ulysses-chap-15-circe/32-feet-per-second",
+    "original_id": "9685028",
+    "referent_id": 9685028,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "32 feet per second.",
+    "prefix": " perambulator.) Ticktacktwo wouldyousetashoe? (He performs juggler's tricks, draws red, orange, yellow, green, blue, indigo and violet silk handkerchiefs from his mouth.) Roygbiv. ",
+    "suffix": "(He consoles a widow.) Absence makes the heart grow younger. (He dances the Highland fling with grotesque antics.) Leg it, ye devils! (He kisses the bedsores of a palsied veteran.)",
+    "start": 80787,
+    "end": 80806,
+    "canonical_text": "32 feet per second."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9685028,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.6842105263157895
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.3157894736842105
+      }
+    ]
+  },
+  "color": "F59627"
+}

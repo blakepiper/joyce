@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15141340",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Ghesabo",
+  "html_source": "<p>Variant of “gazebo” and apparently slang for “the whole show” (from Gifford and Seidman’s Ulysses Annotated).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15141340/James-joyce-ulysses-chap-13-nausicaa/Ghesabo",
+    "original_id": "15141340",
+    "referent_id": 15141340,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "ghesabo",
+    "prefix": "verything magnetism. Earth for instance pulling this and being pulled. That causes movement. And time, well that's the time the movement takes. Then if one thing stopped the whole ",
+    "suffix": " would stop bit by bit. Because it's all arranged. Magnetic needle tells you what's going on in the sun, the stars. Little piece of steel iron. When you hold out the fork. Come. Co",
+    "start": 69961,
+    "end": 69968,
+    "canonical_text": "ghesabo"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15141340,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

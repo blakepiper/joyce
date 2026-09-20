@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8799029",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Castingbox",
+  "html_source": "<p>In printing and typography, hot metal typesetting (also called mechanical typesetting, hot lead typesetting, hot metal, and hot type) refers to technologies for typesetting text in letterpress printing. This method injects molten type metal into a mold (or cast) that has the shape of one or more glyphs. The resulting sorts and slugs are later used to press ink onto paper.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8799029/James-joyce-ulysses-chap-7-aeolus/Castingbox",
+    "original_id": "8799029",
+    "referent_id": 8799029,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "castingbox",
+    "prefix": "bishop's letter? It's to be repeated in the Telegraph. Where's what's his name? \n\n He looked about him round his loud unanswering machines. \n\n — Monks, sir? a voice asked from the ",
+    "suffix": ". \n\n — Ay. Where's Monks? \n\n — Monks! \n\n Mr Bloom took up his cutting. Time to get out. \n\n — Then I'll get the design, Mr Nannetti, he said, and you'll give it a good place I know.",
+    "start": 10365,
+    "end": 10375,
+    "canonical_text": "castingbox"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8799029,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

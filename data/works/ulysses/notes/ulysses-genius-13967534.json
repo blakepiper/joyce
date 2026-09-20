@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13967534",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "A dead cert.",
+  "html_source": "<p>Something that is certain.  ex:  They’re a dead cert to win.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13967534/James-joyce-ulysses-chap-14-oxen-of-the-sun/A-dead-cert",
+    "original_id": "13967534",
+    "referent_id": 13967534,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "a dead cert.",
+    "prefix": "antam's flowers. Gemini. He's going to holler. The colleen bawn, my colleen bawn. O, cheese it! Shut his blurry Dutch oven with a firm hand. Had the winner today till I tipped him ",
+    "suffix": " The ruffin cly the nab of Stephen Hand as give me the jady coppaleen. He strike a 1932#385telegramboy paddock wire big bug Bass to the depot. Shove him a joey and grahamise. Mare ",
+    "start": 109828,
+    "end": 109840,
+    "canonical_text": "a dead cert."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13967534,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

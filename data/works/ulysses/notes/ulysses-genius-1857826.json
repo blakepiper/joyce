@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1857826",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "One tabloid of cascara sagrada.",
+  "html_source": "<p>A mild laxative made from the bark of the buckthorn tree.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1857826/James-joyce-ulysses-chap-4-calypso/One-tabloid-of-cascara-sagrada",
+    "original_id": "1857826",
+    "referent_id": 1857826,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "One tabloid of cascara sagrada.",
+    "prefix": "mselves quietly as he read, reading still patiently, that slight constipation of yesterday quite gone. Hope it's not too big bring on piles again. No, just right. So. Ah! Costive. ",
+    "suffix": " Life might be so. It did not move or touch him but it was something quick and neat. Print anything now. Silly season. He read on, seated calm above his own rising smell. Neat cert",
+    "start": 31424,
+    "end": 31455,
+    "canonical_text": "One tabloid of cascara sagrada."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1857826,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 32383,
+        "login": "WrathOfGod",
+        "name": "WrathOfGod",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11157076",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Chronicle",
+  "html_source": "<p>Gibraltar’s oldest established daily paper, now publishing online.<br /><a href=\"http://chronicle.gi/\" rel=\"noopener nofollow\">http://chronicle.gi</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11157076/James-joyce-ulysses-chap-18-penelope/Chronicle",
+    "original_id": "11157076",
+    "referent_id": 11157076,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Chronicle",
+    "prefix": "what I did with her beloved husband before he ever dreamt of her in broad daylight too in the sight of the whole world you might say they could have put an article about it in the ",
+    "suffix": " I was a bit wild after when I blew out the old bag the biscuits were in from Benady Bros and exploded it Lord what a bang all the woodcocks and pigeons screaming coming back the s",
+    "start": 61746,
+    "end": 61755,
+    "canonical_text": "Chronicle"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11157076,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

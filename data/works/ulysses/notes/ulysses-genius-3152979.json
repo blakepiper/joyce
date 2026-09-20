@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3152979",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Niall of nine hostages",
+  "html_source": "<p>Irish king reigning from 368–395 CE.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3152979/James-joyce-ulysses-chap-12-cyclops/Niall-of-nine-hostages",
+    "original_id": "3152979",
+    "referent_id": 3152979,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Niall of nine hostages",
+    "prefix": "nt of his portentous frame and on these were graven with rude yet striking art the tribal images of many Irish heroes and heroines of antiquity, Cuchulin, Conn of hundred battles, ",
+    "suffix": ", Brian of Kincora, the ardri Malachi, Art MacMurragh, Shane O'Neill, Father John Murphy, Owen Roe, Patrick Sarsfield, Red Hugh O'Donnell, Red Jim MacDermott, Soggarth Eoghan O'Gro",
+    "start": 11468,
+    "end": 11490,
+    "canonical_text": "Niall of nine hostages"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3152979,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 591961,
+        "login": "dbrannen",
+        "name": "dbrannen",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

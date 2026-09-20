@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15126022",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Bretelles",
+  "html_source": "<p>A (dated) French term referring to suspenders or braces.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15126022/James-joyce-ulysses-chap-12-cyclops/Bretelles",
+    "original_id": "15126022",
+    "referent_id": 15126022,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "bretelles",
+    "prefix": "d silk, moulded on an underslip of gloaming grey, sashed with a yoke of broad emerald and finished 1932#295with a triple flounce of darkerhued fringe, the scheme being relieved by ",
+    "suffix": " and hip insertions of acorn bronze. The maids of honour, Miss Larch Conifer and Miss Spruce Conifer, sisters of the bride, wore very becoming costumes in the same tone, a dainty m",
+    "start": 82013,
+    "end": 82022,
+    "canonical_text": "bretelles"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15126022,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

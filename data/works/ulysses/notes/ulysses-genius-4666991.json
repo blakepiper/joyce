@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4666991",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "SPORT’S tissues",
+  "html_source": "<p>Racing forms.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4666991/James-joyce-ulysses-chap-7-aeolus/Sports-tissues",
+    "original_id": "4666991",
+    "referent_id": 4666991,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "SPORT'S tissues",
+    "prefix": "le case on today? \n\n The telephone whirred inside. \n\n — Twenty eight... No, twenty... Double four... Yes. \n\n1961#127\n\n SPOT THE WINNER \n\n Lenehan came out of the inner office with ",
+    "suffix": ". \n\n — Who wants a dead cert for the Gold cup? he asked. Sceptre with O. Madden up. \n\n1986#105\n\n He tossed the tissues on to the table. \n\n Screams of newsboys barefoot in the hall ",
+    "start": 21329,
+    "end": 21344,
+    "canonical_text": "Sport's tissues"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4666991,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

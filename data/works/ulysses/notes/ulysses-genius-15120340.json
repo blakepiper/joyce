@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15120340",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Chinchin",
+  "html_source": "<p>My Penguin 20th c. Classics Annotated Students' Edition says this is an English slang expression meaning salutations, but my googling is turning up <a href=\"https://imgur.com/zJJMNNh\" rel=\"noopener nofollow\">something quite different!</a><br />EDIT: It turns out “cin cin” is an Italian toast slightly more formal than “salute”. <a href=\"http://www.i18nguy.com/humor/chin-chin.html\" rel=\"noopener nofollow\">Hijinx can happen when Italians and Japanese toast each other.</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15120340/James-joyce-ulysses-chap-12-cyclops/Chinchin",
+    "original_id": "15120340",
+    "referent_id": 15120340,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "chinchin",
+    "prefix": "eregal ladies waving their handkerchiefs in their excitement while the even more excitable foreign delegates cheered vociferously in a medley of cries, hoch, banzai, eljen, zivio, ",
+    "suffix": ", polla kronia, hiphip, vive, Allah, amid which the ringing evviva of the delegate of the land of song (a high double F recalling those piercingly lovely notes with which the eunuc",
+    "start": 38236,
+    "end": 38244,
+    "canonical_text": "chinchin"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15120340,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

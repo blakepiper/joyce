@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8817263",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Eat drink and be merry.",
+  "html_source": "<p>And I will say to my soul, Soul, thou hast much goods laid up for many years; take thine ease, eat, drink, and be merry.<br />Luke 12:19</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8817263/James-joyce-ulysses-chap-8-lestrygonians/Eat-drink-and-be-merry",
+    "original_id": "8817263",
+    "referent_id": 8817263,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Eat drink and be merry.",
+    "prefix": "was what they call now. Yom Kippur fast spring cleaning of inside. Peace and war depend on some fellow's digestion. Religions. Christmas turkeys and geese. Slaughter of innocents. ",
+    "suffix": " Then casual wards full after. Heads bandaged. Cheese digests all but itself. Mity cheese. \n\n — Have you a cheese sandwich? \n\n1922#163\n\n — Yes, sir. \n\n Like a few olives too if the",
+    "start": 47334,
+    "end": 47357,
+    "canonical_text": "Eat drink and be merry."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8817263,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

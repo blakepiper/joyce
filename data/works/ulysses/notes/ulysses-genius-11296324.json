@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11296324",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Jarvies",
+  "html_source": "<p>Driver of a coach</p><p><a href=\"https://www.merriam-webster.com/dictionary/jarvey\" rel=\"noopener nofollow\">https://www.merriam-webster.com/dictionary/jarvey</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11296324/James-joyce-ulysses-chap-6-hades/Jarvies",
+    "original_id": "11296324",
+    "referent_id": 11296324,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "jarvies",
+    "prefix": "l. Meade's yard. The hazard. Only two there now. Nodding. Full as a tick. Too much bone in their skulls. The other trotting round with a fare. An hour ago I was passing there. The ",
+    "suffix": " raised their hats. \n\n1932#81\n\n A pointsman's back straightened itself upright suddenly against a tramway standard by Mr Bloom's window. Couldn't they invent something automatic 19",
+    "start": 10039,
+    "end": 10046,
+    "canonical_text": "jarvies"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11296324,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

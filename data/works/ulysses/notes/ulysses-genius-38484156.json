@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-38484156",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Or through M’Coy.",
+  "html_source": "<p>Remember this name and the intentions of Bloom to travel to Mullingar for next chapter.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/38484156/James-joyce-ulysses-chap-4-calypso/Or-through-mcoy",
+    "original_id": "38484156",
+    "referent_id": 38484156,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Or through M'Coy.",
+    "prefix": "here: away. Occupy her. Wanted a dog to pass the time. Might take a trip down there. August bank holiday, only two and six return. Six weeks off, however. Might work a press pass. ",
+    "suffix": " \n\n The cat, having cleaned all her fur, returned to the meatstained paper,1932#59 nosed at it and stalked to the door. She looked back at him, mewing. Wants to go out. Wait before",
+    "start": 27861,
+    "end": 27878,
+    "canonical_text": "Or through M'Coy."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 38484156,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 23750768,
+        "login": "MardouFox",
+        "name": "MardouFox",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

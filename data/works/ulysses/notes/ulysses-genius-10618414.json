@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10618414",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Byrd (William)",
+  "html_source": "<p>Wlliam Byrd, (1539 – 1623) English organist and composer of madrigal, virginal and organ music<br /><a href=\"https://www.youtube.com/watch?v=ePqqoag8s1E\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=ePqqoag8s1E</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10618414/James-joyce-ulysses-chap-16-eumaeus/Byrd-william",
+    "original_id": "10618414",
+    "referent_id": 10618414,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Byrd (William)",
+    "prefix": "old Dolmetsch, whom Bloom did not quite recall, though the name certainly sounded familiar, for 1961#661sixtyfive guineas and Farnaby and son with their dux and comes conceits and ",
+    "suffix": ", who played the virginals, he said, in the Queen's chapel or anywhere else he found them and one Tomkins who made toys or airs and John Bull. \n\n On the roadway which they were app",
+    "start": 122266,
+    "end": 122280,
+    "canonical_text": "Byrd (William)"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10618414,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

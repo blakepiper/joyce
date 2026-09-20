@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10896461",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Royal Hospital), Kilmainham",
+  "html_source": "<p>A home for army pensioners from 1680 to 1922. Now a site for prestige events.</p><p><a href=\"http://www.rhk.ie/about-the-rhk.html\" rel=\"noopener nofollow\">http://www.rhk.ie/about-the-rhk.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10896461/James-joyce-ulysses-chap-17-ithaca/Royal-hospital-kilmainham",
+    "original_id": "10896461",
+    "referent_id": 10896461,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Royal Hospital), Kilmainham",
+    "prefix": "t, lickplate, spoilsport, pickthank, eccentric public laughingstock seated on bench of public park under discarded perforated umbrella. Destitution: the inmate of Old Man's House (",
+    "suffix": ", the inmate of Simpson's Hospital for reduced but respectable men permanently disabled by gout or want of sight. Nadir of 1922#677misery: the aged impotent disfranchised ratesuppo",
+    "start": 123562,
+    "end": 123589,
+    "canonical_text": "Royal Hospital), Kilmainham"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10896461,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4665836",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Aleph, alpha",
+  "html_source": "<p>The first letters of the Hebrew and Greek alphabets respectively.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4665836/James-joyce-ulysses-chap-3-proteus/Aleph-alpha",
+    "original_id": "4665836",
+    "referent_id": 4665836,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Aleph, alpha",
+    "prefix": "cords of all link back, strandentwining cable of all flesh. That is why mystic monks. Will you be as 1939#30gods? Gaze in your omphalos. Hello! Kinch here. Put me on to Edenville. ",
+    "suffix": ": nought, nought, one. \n\n Spouse and helpmate of Adam Kadmon: Heva, naked Eve. She had no navel. Gaze. Belly without blemish, bulging big, a buckler of taut vellum, no, whiteheaped",
+    "start": 2558,
+    "end": 2570,
+    "canonical_text": "Aleph, alpha"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4665836,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

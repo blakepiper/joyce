@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8920040",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Fresh Vartry water",
+  "html_source": "<p>Vartry Reservoir (Irish: Taiscumar Fheartraí) is a reservoir at Roundwood in County Wicklow, Ireland. The original (lower) reservoir was completed in 1863. This work was particularly important in the improvement of living conditions and public health in Dublin city. It improved sanitation and helped reduce outbreaks of cholera, typhus and other diseases associated with contaminated water.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8920040/James-joyce-ulysses-chap-11-sirens/Fresh-vartry-water",
+    "original_id": "8920040",
+    "referent_id": 8920040,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "fresh Vartry water",
+    "prefix": "among the dead men. Appropriate. Kidney pie. Sweets to the. Not making much hand of it. Best value in. Characteristic of him. Power. Particular about his drink. Flaw in the glass, ",
+    "suffix": ". Fecking matches from counters to save. Then squander a sovereign in dribs and drabs. And when he's wanted not a farthing. Screwed refusing to pay his fare. Curious types. \n\n Neve",
+    "start": 32697,
+    "end": 32715,
+    "canonical_text": "fresh Vartry water"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8920040,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

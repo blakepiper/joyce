@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21139243",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Rutland",
+  "html_source": "<p>Roger Manners, 5th Earl of Rutland (1576-1612). Thought by some to be the actual author of Shakespeare’s works.<br /><a href=\"https://en.wikipedia.org/wiki/Roger_Manners,_5th_Earl_of_Rutland\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Roger_Manners,_5th_Earl_of_Rutland</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21139243/James-joyce-ulysses-chap-9-scylla-and-charybdis/Rutland",
+    "original_id": "21139243",
+    "referent_id": 21139243,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Rutland",
+    "prefix": "r it since you don't believe it yourself. Dowden believes there is some mystery in Hamlet but will say no more. Herr Bleibtreu, the man Piper met in Berlin, who is working up that ",
+    "suffix": " theory, believes that the secret is hidden in the Stratford monument. He is going to visit the present duke, Piper says, and prove to him that his ancestor wrote the plays. It wil",
+    "start": 62631,
+    "end": 62638,
+    "canonical_text": "Rutland"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 21139243,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

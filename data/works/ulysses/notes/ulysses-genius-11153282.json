@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11153282",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Barbary apes",
+  "html_source": "<p><a href=\"http://www.untamedscience.com/biodiversity/barbary-macaque/\" rel=\"noopener nofollow\">http://www.untamedscience.com/biodiversity/barbary-macaque/</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11153282/James-joyce-ulysses-chap-18-penelope/Barbary-apes",
+    "original_id": "11153282",
+    "referent_id": 11153282,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Barbary apes",
+    "prefix": "ys like that in the spring Id like a new fellow every year up on the tiptop under the rockgun near OHaras tower I told him it was struck by lightning and all about the old 1922#710",
+    "suffix": " they sent to Clapham without a tail careering all over the show on each others back Mrs Rubio said she was a regular old rock scorpion robbing the chickens out of Inces farm and t",
+    "start": 58312,
+    "end": 58324,
+    "canonical_text": "Barbary apes"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11153282,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

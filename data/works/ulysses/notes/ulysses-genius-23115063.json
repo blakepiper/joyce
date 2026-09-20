@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23115063",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Flying Dutchman",
+  "html_source": "<p>a.k.a. “Der fliegende Holländer”, Richard Wagner’s German-language opera.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23115063/James-joyce-ulysses-chap-16-eumaeus/Flying-dutchman",
+    "original_id": "23115063",
+    "referent_id": 23115063,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Flying Dutchman",
+    "prefix": " his horrifying adventures (who reminded him a bit of Ludwig, alias Ledwidge, when he occupied the boards of the Gaiety when Michael Gunn was identified with the management in the ",
+    "suffix": ", a stupendous success, and his host of admirers came in large numbers, everyone simply flocking to hear him though ships of any sort, phantom or the reverse, on the stage usually ",
+    "start": 58116,
+    "end": 58131,
+    "canonical_text": "Flying Dutchman"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23115063,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

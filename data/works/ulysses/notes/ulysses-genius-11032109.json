@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11032109",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Rite of Melchizedek",
+  "html_source": "<p>Melchizedek meets Abraham on his return from battle, gives him bread and wine (which has been interpreted by some Christian scholars as a precursor of the Eucharist)</p><p><a href=\"https://www.britannica.com/biography/Melchizedek\" rel=\"noopener nofollow\">https://www.britannica.com/biography/Melchizedek</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11032109/James-joyce-ulysses-chap-17-ithaca/Rite-of-melchizedek",
+    "original_id": "11032109",
+    "referent_id": 11032109,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "rite of Melchizedek",
+    "prefix": "premeditative defecation (holy of holies): the bath (rite of John): the funeral (rite of Samuel): the advertisement of Alexander Keyes (Urim and Thummin): the unsubstantial lunch (",
+    "suffix": "): the visit to museum and national library (holy place): the bookhunt along Bedford row, Merchants' Arch, Wellington Quay (Simchath Torah): the music in the Ormond Hotel (Shira Sh",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.6111
+  },
+  "genius": {
+    "referent_id": 11032109,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

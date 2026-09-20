@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23879086",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Hearing",
+  "html_source": "<p>The neck wrapped nurse opened the door to Bloom.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23879086/James-joyce-ulysses-chap-14-oxen-of-the-sun/Hearing",
+    "original_id": "23879086",
+    "referent_id": 23879086,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "hearing",
+    "prefix": "ss. Smarts they still, sickness soothing: in twelve moons thrice an hundred. Truest bedthanes they twain are, for Horne holding wariest ward. \n\n1986#315\n\n In ward wary the watcher ",
+    "suffix": " come that man mildhearted eft rising with swire ywimpled to him her gate wide undid. Lo, levin leaping lightens in eyeblink Ireland's westward welkin. Full she dread that God the ",
+    "start": 5506,
+    "end": 5513,
+    "canonical_text": "hearing"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9615
+  },
+  "genius": {
+    "referent_id": 23879086,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

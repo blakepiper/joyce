@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20239144",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Ca’ canny",
+  "html_source": "<p>Scots: drive gently, move cautiously (Gifford).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20239144/James-joyce-ulysses-chap-8-lestrygonians/Ca-canny",
+    "original_id": "20239144",
+    "referent_id": 20239144,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Ca' canny",
+    "prefix": "for spirit counter. Resp. girl (R.C.) wishes to hear of post in fruit or pork shop. James Carlisle made that. Six and a half per cent dividend. Made a big deal on Coates's shares. ",
+    "suffix": ". Cunning old Scotch hunks. All the toady news. Our gracious and popular vicereine. Bought the Irish Field now. Lady Mountcashel has quite recovered after her confinement and rode ",
+    "start": 20695,
+    "end": 20704,
+    "canonical_text": "Ca' canny"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20239144,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11041825,
+        "login": "raggedclaws",
+        "name": "raggedclaws",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

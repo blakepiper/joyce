@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15123908",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Santry",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Santry\" rel=\"noopener nofollow\">A village</a> just north of Dublin, presently a suburb on the north side of the city. From the Irish “Seantrabh” meaning “Old tribe”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15123908/James-joyce-ulysses-chap-12-cyclops/Santry",
+    "original_id": "15123908",
+    "referent_id": 15123908,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Santry",
+    "prefix": " was a knockout clean and 1922#305clever. Amid tense expectation the Portobello bruiser was being counted out when Bennett's second Ole Pfotts Wettstein threw in the towel and the ",
+    "suffix": " boy was declared victor to the frenzied cheers of the public who broke through the ringropes and fairly mobbed him with delight. \n\n — He knows which side his bread is buttered, sa",
+    "start": 63916,
+    "end": 63922,
+    "canonical_text": "Santry"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 15123908,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

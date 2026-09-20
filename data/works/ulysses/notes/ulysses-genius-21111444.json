@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21111444",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Moore",
+  "html_source": "<p>George Moore, Irish novelist (1852-1933)</p><p><a href=\"https://en.wikipedia.org/wiki/George_Moore_\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/George_Moore_</a>(novelist)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21111444/James-joyce-ulysses-chap-9-scylla-and-charybdis/Moore",
+    "original_id": "21111444",
+    "referent_id": 21111444,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Moore",
+    "prefix": "gend older than history? \n\n — That was Will's way, John Eglinton defended. We should not now combine a Norse saga with an excerpt from a novel by George Meredith. Que voulez-vous? ",
+    "suffix": " would say. He 1961#211puts Bohemia on the seacoast and makes Ulysses quote Aristotle. \n\n — Why? Stephen answered himself. Because the theme of the false or the usurping or the adu",
+    "start": 57432,
+    "end": 57437,
+    "canonical_text": "Moore"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9649
+  },
+  "genius": {
+    "referent_id": 21111444,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

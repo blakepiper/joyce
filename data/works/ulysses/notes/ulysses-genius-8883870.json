@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8883870",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Jupiter Pluvius",
+  "html_source": "<p>Jupiter the rainmaker.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8883870/James-joyce-ulysses-chap-16-eumaeus/Jupiter-pluvius",
+    "original_id": "8883870",
+    "referent_id": 8883870,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Jupiter Pluvius",
+    "prefix": " the mischance. So as neither of them were particularly pressed for time, 1939#431as it happened, and the temperature refreshing since it cleared up after the recent visitation of ",
+    "suffix": ", they dandered along past by where the empty vehicle was waiting without a fare or a jarvey. As it so happened a Dublin United Tramways Company's sandstrewer happening to be retur",
+    "start": 2976,
+    "end": 2991,
+    "canonical_text": "Jupiter Pluvius"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8883870,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

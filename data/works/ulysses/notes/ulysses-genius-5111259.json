@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5111259",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Ned Lambert",
+  "html_source": "<p>A fictional character who works in a seed and grain store in Mary’s Abbey in central Dublin.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5111259/James-joyce-ulysses-chap-6-hades/Ned-lambert",
+    "original_id": "5111259",
+    "referent_id": 5111259,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Ned Lambert",
+    "prefix": "ost natural thing in the world. \n\n1961#89\n\n — Did Tom Kernan turn up? Martin Cunningham asked, twirling the peak of his beard gently. \n\n — Yes, Mr Bloom answered. He's behind with ",
+    "suffix": " and Hynes. \n\n — And Corny Kelleher himself? Mr Power asked. \n\n — At the cemetery, Martin Cunningham said. \n\n — I met M'Coy this morning, Mr Bloom said. He said he'd try to come. \n",
+    "start": 6631,
+    "end": 6642,
+    "canonical_text": "Ned Lambert"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9693
+  },
+  "genius": {
+    "referent_id": 5111259,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

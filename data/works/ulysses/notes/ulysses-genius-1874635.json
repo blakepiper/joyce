@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-1874635",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Offal linked",
+  "html_source": "<p>Linked meat; specifically offal is a variety of organ and entrail meats.</p><p><img src=\"https://images.rapgenius.com/05d98de05d6d739213b9feeab6d2ee59.300x225x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1874635/James-joyce-ulysses-chap-5-lotus-eaters/Offal-linked",
+    "original_id": "1874635",
+    "referent_id": 1874635,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "offal linked",
+    "prefix": "ss too. And past the sailors' home. He turned from the morning noises of the quayside and walked through Lime street. By Brady's cottages a boy for the skins lolled, his bucket of ",
+    "suffix": ", smoking a chewed fagbutt. A smaller girl with scars of eczema on her forehead eyed him, listlessly holding her battered caskhoop. Tell him if he smokes he won't grow. O let him! ",
+    "start": 361,
+    "end": 373,
+    "canonical_text": "offal linked"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1874635,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 176532,
+        "login": "biblicalmike",
+        "name": "Michael Bible",
+        "role": "verified_artist",
+        "attribution": 0.7619047619047619
+      },
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 0.2380952380952381
+      }
+    ]
+  },
+  "color": "F59627"
+}

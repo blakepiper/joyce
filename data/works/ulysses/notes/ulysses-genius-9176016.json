@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9176016",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Derbyshire neck",
+  "html_source": "<p>Derbyshire Neck, also called Goitre, is a swelling of the thyroid gland and is now known to be caused by lack of iodine. It is almost unknown today because iodine is added to drinking water. In the eighteenth century no-one knew for sure what caused it.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9176016/James-joyce-ulysses-chap-14-oxen-of-the-sun/Derbyshire-neck",
+    "original_id": "9176016",
+    "referent_id": 9176016,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Derbyshire neck",
+    "prefix": "ation! Give her beefsteaks, red, raw, bleeding! She is a hoary pandemonium of ills, enlarged glands, mumps, quinsy, 1961#423bunions, hayfever, bedsores, ringworm, floating kidney, ",
+    "suffix": ", warts, bilious 1986#345attacks, gallstones, cold feet, varicose veins. A truce to threnes and trentals and jeremies and all such congenital defunctive music! Twenty years of it, ",
+    "start": 103586,
+    "end": 103601,
+    "canonical_text": "Derbyshire neck"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9176016,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

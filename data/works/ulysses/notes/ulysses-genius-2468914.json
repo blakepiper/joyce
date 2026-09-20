@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2468914",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Lady Dudley was walking home through the park to see all the trees that were blown down by that cyclone last year and thought she’d buy a view of Dublin.",
+  "html_source": "<p>There was terrible a great storm on February 27th 1903 in Dublin.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2468914/James-joyce-ulysses-chap-7-aeolus/Lady-dudley-was-walking-home-through-the-park-to-see-all-the-trees-that-were-blown-down-by-that-cyclone-last-year-and-thought-shed-buy-a-view-of-dublin",
+    "original_id": "2468914",
+    "referent_id": 2468914,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Lady Dudley was walking home through the park to see all the trees that were blown down by that cyclone last year and thought she'd buy a view of Dublin.",
+    "prefix": "from the inner office. \n\n1961#137\n\n — Talking about the invincibles, he said, did you see that some hawkers were up before the recorder... \n\n — O yes, J. J. O'Molloy said eagerly. ",
+    "suffix": " And it turned out to be a commemoration postcard of Joe Brady or Number One or Skin-the-goat. Right outside the viceregal lodge, imagine! \n\n — They're only in the hook and eye dep",
+    "start": 38322,
+    "end": 38475,
+    "canonical_text": "Lady Dudley was walking home through the park to see all the trees that were blown down by that cyclone last year and thought she'd buy a view of Dublin."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2468914,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

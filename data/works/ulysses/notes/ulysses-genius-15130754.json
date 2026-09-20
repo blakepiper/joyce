@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15130754",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Missa pro defunctis",
+  "html_source": "<p>Latin for “Mass for the deceased”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15130754/James-joyce-ulysses-chap-12-cyclops/Missa-pro-defunctis",
+    "original_id": "15130754",
+    "referent_id": 15130754,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "missa pro defunctis",
+    "prefix": "ages of condolence and sympathy are being hourly received from all parts of the different continents and the sovereign pontiff has been graciously pleased to decree that a special ",
+    "suffix": " shall be celebrated simultaneously by the ordinaries of each and every cathedral church of all the episcopal dioceses subject to the spiritual authority of the Holy See in suffrag",
+    "start": 120905,
+    "end": 120924,
+    "canonical_text": "missa pro defunctis"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15130754,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

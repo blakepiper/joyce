@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8445664",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "AVEC LUI",
+  "html_source": "<p>French: with him</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8445664/James-joyce-ulysses-chap-14-oxen-of-the-sun/Avec-lui",
+    "original_id": "8445664",
+    "referent_id": 8445664,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "AVEC LUI",
+    "prefix": "ashion as ever kept a lady from wetting. Tut, tut! cries Le Fécondateur, tripping in, my friend Monsieur Moore, that most accomplished traveller (I have just cracked a half bottle ",
+    "suffix": " in a circle of the best wits of the town), is my authority that in Cape Horn, ventre biche, they have a rain that will wet through 1932#366any, even the stoutest cloak. A drenchin",
+    "start": 56234,
+    "end": 56242,
+    "canonical_text": "avec lui"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 8445664,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

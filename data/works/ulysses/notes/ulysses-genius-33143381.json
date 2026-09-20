@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33143381",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "But",
+  "html_source": "<p>What about contraception (or maybe masturbation) ?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33143381/James-joyce-ulysses-chap-14-oxen-of-the-sun/But",
+    "original_id": "33143381",
+    "referent_id": 33143381,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "But",
+    "prefix": "g Stephen 1922#371had these words following: Murmur, sirs, is eke oft among lay folk. Both babe and parent now glorify their Maker, the one in limbo gloom, the other in purgefire. ",
+    "suffix": ", gramercy, what of those Godpossibled souls that we nightly impossibilise, which is the sin against the Holy Ghost, Very God, Lord and Giver of Life? For, sirs, he said, our lust ",
+    "start": 15884,
+    "end": 15887,
+    "canonical_text": "But"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 33143381,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21116979",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "He is all in all",
+  "html_source": "<p>A quotation from Hamlet Act I, Scene 2, where Hamlet the protagonist describes his deceased father, also named Hamlet:</p><p>“He was a man, take him for all in all,<br />I shall not look upon his like again.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21116979/James-joyce-ulysses-chap-9-scylla-and-charybdis/He-is-all-in-all",
+    "original_id": "21116979",
+    "referent_id": 21116979,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "He is all in all",
+    "prefix": "ave not read. \n\n1939#155\n\n He laughed to free his mind from his mind's bondage. \n\n Judge Eglinton summed up. \n\n — The truth is midway, he affirmed. He is the ghost and the prince. ",
+    "suffix": ". \n\n — He is, Stephen said. The boy of act one is the mature man of act five. All in all. In Cymbeline, in Othello he is bawd and cuckold. He acts and is acted on. Lover of an idea",
+    "start": 59064,
+    "end": 59080,
+    "canonical_text": "He is all in all"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21116979,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

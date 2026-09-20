@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4187198",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Deshil Holles Eamus. Deshil Holles Eamus. Deshil Holles Eamus.",
+  "html_source": "<p>Deshil – the phonetic pronunciation of the Gaelic <em>deiseal</em> or <em>deisil</em> – from Old Irish dess (“<em>right, south</em>”) + sel (“<em>turn</em>”).</p><p>Holles refers to <em>Holles street</em>.</p><p>Eamus is latin for “<em>Let us go</em>”</p><p>Essentially: Let us turn south to Holles street.</p><p>There are a total of nine repetitions.</p><p>PROPOSED SUGGESTION: A general improvement would be pagination of the text for referencing</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4187198/James-joyce-ulysses-chap-14-oxen-of-the-sun/Deshil-holles-eamus-deshil-holles-eamus-deshil-holles-eamus",
+    "original_id": "4187198",
+    "referent_id": 4187198,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Deshil Holles Eamus. Deshil Holles Eamus. Deshil Holles Eamus.",
+    "prefix": "\n\n[14]\n\n\n\n",
+    "suffix": " \n\n Send us bright one, light one, Horhorn, quickening and wombfruit. Send us bright one, light one, Horhorn, quickening and wombfruit. Send us bright one, light one, Horhorn, quic",
+    "start": 10,
+    "end": 72,
+    "canonical_text": "Deshil Holles Eamus. Deshil Holles Eamus. Deshil Holles Eamus."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4187198,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1061426,
+        "login": "tooManyWords",
+        "name": "tooManyWords",
+        "role": "contributor",
+        "attribution": 0.7758620689655173
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.22413793103448276
+      }
+    ]
+  },
+  "color": "F59627"
+}

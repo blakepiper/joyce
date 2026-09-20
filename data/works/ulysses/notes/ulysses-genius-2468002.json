@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2468002",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Those girls, those girls,\n Those lovely seaside girls.",
+  "html_source": "<p>“Seaside Girls”  was a music hall song from the early 20th century that is free associated from Bloom’s recollections about the sea. It also appears elsewhere in the book than here.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2468002/James-joyce-ulysses-chap-4-calypso/Those-girls-those-girls-those-lovely-seaside-girls",
+    "original_id": "2468002",
+    "referent_id": 2468002,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Those girls, those girls,\n Those lovely seaside girls.",
+    "prefix": "rls. Torn envelope. Hands stuck in his trousers' pockets, jarvey off for the day, singing. Friend of the family. Swurls, he says. Pier with lamps, summer evening, band, \n\n1922#64\n\n",
+    "suffix": " \n\n Milly too. Young kisses: the first. Far away now past. Mrs Marion. Reading, lying back now, counting the strands of her hair, smiling, braiding. \n\n A soft qualm, regret, flowed",
+    "start": 27177,
+    "end": 27231,
+    "canonical_text": "Those girls, those girls, \nThose lovely seaside girls."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2468002,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 170881,
+        "login": "Abraxas01",
+        "name": "Abraxas01",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

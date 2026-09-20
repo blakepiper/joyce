@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33283541",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "No",
+  "html_source": "<p>Yes, she that brought the Lord into the world is powerful; she , says Augustine and Bernardus that stretches back to Eve.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33283541/James-joyce-ulysses-chap-14-oxen-of-the-sun/No",
+    "original_id": "33283541",
+    "referent_id": 33283541,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "No",
+    "prefix": " woman's womb word is made flesh but in the spirit of the maker all flesh that passes becomes the word that shall not pass away. This is the postcreation. Omnis caro ad te veniet. ",
+    "suffix": " question but her name is puissant who aventried the dear corse of our Agenbuyer, Healer and Herd, our mighty mother and mother most venerable and Bernardus saith aptly that She ha",
+    "start": 20989,
+    "end": 20991,
+    "canonical_text": "No"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 33283541,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

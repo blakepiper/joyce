@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2468789",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "GENTLEMEN OF THE PRESS",
+  "html_source": "<p>A period advertisement for the 4 newspapers published by the same office.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2468789/James-joyce-ulysses-chap-7-aeolus/Gentlemen-of-the-press",
+    "original_id": "2468789",
+    "referent_id": 2468789,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "GENTLEMEN OF THE PRESS",
+    "prefix": "ides the royal initials, E. R., received loudly flung sacks of letters, postcards, lettercards, parcels, insured and paid, for local, provincial, British and overseas delivery. \n\n ",
+    "suffix": " \n\n Grossbooted draymen rolled barrels dullthudding out of Prince's stores and bumped them up on the brewery float. On the brewery float bumped dullthudding barrels rolled by gross",
+    "start": 980,
+    "end": 1002,
+    "canonical_text": "GENTLEMEN OF THE PRESS"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2468789,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

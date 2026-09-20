@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10896649",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "No human being",
+  "html_source": "<p>The first person to survive Niagara Falls was 1901</p><p><a href=\"http://www.niagarafallslive.com/daredevils_of_niagara_falls.htm\" rel=\"noopener nofollow\">http://www.niagarafallslive.com/daredevils_of_niagara_falls.htm</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10896649/James-joyce-ulysses-chap-17-ithaca/No-human-being",
+    "original_id": "10896649",
+    "referent_id": 10896649,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "no human being",
+    "prefix": " street money market (which controlled international finance), the Plaza de Toros at La Linea, Spain (where 1986#597O'Hara of the Camerons had slain the bull), Niagara (over which ",
+    "suffix": " had passed with impunity), the land of the Eskimos (eaters of soap), the forbidden country of Thibet (from which no traveller returns), the bay of Naples (to see which was to die)",
+    "start": 126246,
+    "end": 126260,
+    "canonical_text": "no human being"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10896649,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

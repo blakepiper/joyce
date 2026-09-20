@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2081122",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Larum in the antechamber.",
+  "html_source": "<p>This ends the section in the style of Addison and Steele which began with “Our worthy acquaintance.”</p><p><img src=\"https://images.genius.com/2bdae442514dbc1466e4148f8b7e0f3f.820x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2081122/James-joyce-ulysses-chap-14-oxen-of-the-sun/Larum-in-the-antechamber",
+    "original_id": "2081122",
+    "referent_id": 2081122,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "larum in the antechamber.",
+    "prefix": "nceit that it renewed the storms of mirth and threw the whole room into the most violent agitations of delight. The spry rattle had run on in the same vein of mimicry but for some ",
+    "suffix": " \n\n Here the listener who was none other than the Scotch student, a little fume of a fellow, blond as tow, congratulated in the liveliest fashion with the young gentleman and, inte",
+    "start": 53081,
+    "end": 53106,
+    "canonical_text": "larum in the antechamber."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2081122,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

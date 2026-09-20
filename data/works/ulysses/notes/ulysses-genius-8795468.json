@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795468",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Ballsbridge",
+  "html_source": "<p>Ballsbridge or Ball’s Bridge (Irish: Droichead na Dothra, meaning “Dodder bridge”) is a bridge in Dublin, Ireland. Situated in “Pembroke” which spans the River Dodder on the south side of the city, it is a three-arch stone bridge and was built in 1791.Pembroke is an exclusive and very affluent area and is known to contain very expensive property.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795468/James-joyce-ulysses-chap-6-hades/Ballsbridge",
+    "original_id": "8795468",
+    "referent_id": 8795468,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Ballsbridge",
+    "prefix": "ow, John O'Connell, real good sort. Keys: like Keyes's ad: no fear of anyone getting out. No passout checks. Habeas corpus. I must see about that ad after the funeral. Did I write ",
+    "suffix": " on the envelope I took to cover when she disturbed me writing to Martha?1986#88 Hope it's not chucked 1922#103in the dead letter office. Be the better of a shave. Grey sprouting b",
+    "start": 44249,
+    "end": 44260,
+    "canonical_text": "Ballsbridge"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8795468,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

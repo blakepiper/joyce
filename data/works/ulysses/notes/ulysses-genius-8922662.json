@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8922662",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Music hath charms",
+  "html_source": "<p>Bloom mistakenly attributes the quote to Shakespeare.</p><p>“Music hath charms to soothe a savage breast, to soften rocks, or bend a knotted oak.”<br />― William Congreve<br />The Mourning Bride (1697)<br />spoken by Almeria in Act I, Scene 1.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8922662/James-joyce-ulysses-chap-11-sirens/Music-hath-charms",
+    "original_id": "8922662",
+    "referent_id": 8922662,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Music hath charms",
+    "prefix": "d off blottingpad. Payment at the rate of guinea per col. Matcham often thinks the laughing witch. Poor Mrs Purefoy. U. P.: up. \n\n Too poetical that about the sad. Music did that. ",
+    "suffix": ". Shakespeare said. Quotations every day in the year. To be or not to be. Wisdom while you wait. \n\n1932#252\n\n In Gerard's rosery of Fetter lane he walks, greyedauburn. One life is ",
+    "start": 50300,
+    "end": 50317,
+    "canonical_text": "Music hath charms"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8922662,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

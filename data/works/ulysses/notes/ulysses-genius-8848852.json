@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8848852",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Ostler",
+  "html_source": "<p>ostler<br />(also hostler)<br />NOUN<br />historical<br />A man employed to look after the horses of people staying at an inn.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8848852/James-joyce-ulysses-chap-9-scylla-and-charybdis/Ostler",
+    "original_id": "8848852",
+    "referent_id": 8848852,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "ostler",
+    "prefix": "re sudden lizards flash. At Charenton I watched them. \n\n — It seems so, Stephen said, when he wants to do for him, and for all other and singular uneared wombs, the holy office an ",
+    "suffix": " does for the stallion. Maybe, like Socrates, he had a midwife to mother as he had a shrew to wife. But she, the giglot wanton, did not break a bedvow. Two deeds are rank in that g",
+    "start": 38217,
+    "end": 38223,
+    "canonical_text": "ostler"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 8848852,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

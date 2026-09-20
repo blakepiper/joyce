@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8814617",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Turn up like a bad penny",
+  "html_source": "<p>turn up like a bad penny  (old-fashioned)<br />to arrive at a place or event where you are not wanted<br />She’ll turn up again, like a bad penny, just you see.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8814617/James-joyce-ulysses-chap-8-lestrygonians/Turn-up-like-a-bad-penny",
+    "original_id": "8814617",
+    "referent_id": 8814617,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Turn up like a bad penny",
+    "prefix": "in black, I see. You have no... \n\n1961#156\n\n — No, Mr Bloom said. I have just come from a funeral. \n\n Going to crop up all day, I foresee. Who's dead, when and what did he die of? ",
+    "suffix": ". \n\n — O, dear me, Mrs Breen said. I hope it wasn't any near relation. \n\n May as well get her sympathy. \n\n — Dignam, Mr Bloom said. An old friend of mine. He died quite suddenly, p",
+    "start": 13629,
+    "end": 13653,
+    "canonical_text": "Turn up like a bad penny"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8814617,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

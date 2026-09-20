@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-6919202",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Ignatius Gallaher",
+  "html_source": "<p>A central character in “A Little Cloud,” a story in Joyce’s <em>Dubliners.</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6919202/James-joyce-ulysses-chap-7-aeolus/Ignatius-gallaher",
+    "original_id": "6919202",
+    "referent_id": 6919202,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Ignatius Gallaher",
+    "prefix": " for the pressgang, J. J. O'Molloy said. \n\n THE GREAT GALLAHER \n\n — You can do it, Myles Crawford repeated, clenching his hand in emphasis. Wait a minute. We'll paralyse Europe as ",
+    "suffix": " used to say when1986#111 he was on the shaughraun, doing billiardmarking in the Clarence. Gallaher, that was a1961#135 pressman for you. That was a pen. You know how he made his m",
+    "start": 34372,
+    "end": 34389,
+    "canonical_text": "Ignatius Gallaher"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9312
+  },
+  "genius": {
+    "referent_id": 6919202,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1835164,
+        "login": "AdamKadmon",
+        "name": "AdamKadmon",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

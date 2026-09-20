@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4256205",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Buck Mulligan slung his towel stolewise round his neck",
+  "html_source": "<p>In the manner of a Priest, <a href=\"https://genius.com/2464090\" rel=\"noopener nofollow\">continuing the religious parody.</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4256205/James-joyce-ulysses-chap-1-telemachus/Buck-mulligan-slung-his-towel-stolewise-round-his-neck",
+    "original_id": "4256205",
+    "referent_id": 4256205,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Buck Mulligan slung his towel stolewise round his neck",
+    "prefix": "gebra that Hamlet's grandson is Shakespeare's grandfather and that he himself is the ghost of his own father. \n\n — What? Haines said, beginning to point at Stephen. He himself? \n\n ",
+    "suffix": " and, bending in loose laughter, said to Stephen's ear: \n\n — O, shade of Kinch the elder! Japhet in search of a father! \n\n — We're always tired in the morning, Stephen said to Hain",
+    "start": 31321,
+    "end": 31375,
+    "canonical_text": "Buck Mulligan slung his towel stolewise round his neck"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4256205,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 0.6
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.4
+      }
+    ]
+  },
+  "color": "F59627"
+}

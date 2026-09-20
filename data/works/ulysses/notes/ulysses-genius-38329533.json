@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-38329533",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "All kings’ sons",
+  "html_source": "<p>Mr. Deasy says in Chapter II “We are all Irish, all kings’ sons”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/38329533/James-joyce-ulysses-chap-3-proteus/All-kings-sons",
+    "original_id": "38329533",
+    "referent_id": 38329533,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "All kings' sons",
+    "prefix": "ilken knight, Perkin Warbeck, York's false scion, in breeches of silk of whiterose ivory, wonder of a day, and Lambert Simnel, with a tail of nans and sutlers, a scullion crowned. ",
+    "suffix": ". Paradise of pretenders then and now. He saved men from drowning and you shake at a cur's yelping. But the courtiers who mocked Guido in Or san Michele were in their own house. Ho",
+    "start": 20261,
+    "end": 20276,
+    "canonical_text": "All kings' sons"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 38329533,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 23750768,
+        "login": "MardouFox",
+        "name": "MardouFox",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

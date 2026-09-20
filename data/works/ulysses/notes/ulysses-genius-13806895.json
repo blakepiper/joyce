@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13806895",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Gasteful",
+  "html_source": "<p>gasteful – Obsolete: “wasteful.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13806895/James-joyce-ulysses-chap-14-oxen-of-the-sun/Gasteful",
+    "original_id": "13806895",
+    "referent_id": 13806895,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "gasteful",
+    "prefix": "ly bid them hist ye should shame you nor was it not meet as she remembered them being her mind was to have all orderly against lord Andrew came for because she was jealous that no ",
+    "suffix": "1932#354turmoil might shorten the honour of her guard. It was an ancient and a sad matron of a sedate look and christian walking, in habit dun beseeming her megrims and wrinkled vi",
+    "start": 22782,
+    "end": 22790,
+    "canonical_text": "gasteful"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13806895,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

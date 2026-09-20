@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-1878121",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Many a time and oft",
+  "html_source": "<p>A lift from <a href=\"https://genius.com/albums/William-shakespeare/The-merchant-of-venice\" rel=\"noopener nofollow\"><em>The Merchant of Venice</em></a>, typical of Joyce’s almost compulsive references to Shakespeare, but also typifying young Gerty’s lyrical efforts and lifts from school texts.</p><p>PROPOSED SUGGESTION: …they were wont to come there… (Spell-check prefers the incorrect won’t, rather than wont.)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1878121/James-joyce-ulysses-chap-13-nausicaa/Many-a-time-and-oft",
+    "original_id": "1878121",
+    "referent_id": 1878121,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Many a time and oft",
+    "prefix": "the stormtossed heart of man, Mary, star of the sea. \n\n The three girl friends were seated on the rocks, enjoying the evening scene and the air which was fresh but not too chilly. ",
+    "suffix": " were they wont to come there to that favourite nook to have a cosy chat beside the sparkling waves and discuss matters feminine, Cissy Caffrey 1932#312and Edy Boardman with the ba",
+    "start": 685,
+    "end": 704,
+    "canonical_text": "Many a time and oft"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1878121,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 211351,
+        "login": "prepski",
+        "name": "prepski",
+        "role": "contributor",
+        "attribution": 0.5813953488372092
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.37209302325581395
+      },
+      {
+        "id": 149810,
+        "login": "perfectrhyme",
+        "name": "Perfectrhyme",
+        "role": "editor",
+        "attribution": 0.046511627906976744
+      }
+    ]
+  },
+  "color": "F59627"
+}

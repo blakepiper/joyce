@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10016066",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "The Holy City",
+  "html_source": "<p><a href=\"https://www.youtube.com/watch?v=5PAc3krFyQA\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=5PAc3krFyQA</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10016066/James-joyce-ulysses-chap-15-circe/The-holy-city",
+    "original_id": "10016066",
+    "referent_id": 10016066,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "The Holy City",
+    "prefix": "Interval which. Is the greatest possible ellipse. Consistent with. The ultimate return. The octave. Which. \n\n1986#411\n\n THE CAP \n\n Which? \n\n(Outside the gramophone begins to blare ",
+    "suffix": ".) \n\n1961#504\n\n STEPHEN \n\n(Abruptly.) What went forth to the ends of the world to traverse not itself, God, the sun, Shakespeare, a commercial traveller, having itself traversed in",
+    "start": 105427,
+    "end": 105440,
+    "canonical_text": "The Holy City"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10016066,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

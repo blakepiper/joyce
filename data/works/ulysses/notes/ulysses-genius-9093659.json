@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9093659",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Knight of the road",
+  "html_source": "<p>Refers to the salesman</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9093659/James-joyce-ulysses-chap-10-wandering-rocks/Knight-of-the-road",
+    "original_id": "9093659",
+    "referent_id": 9093659,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Knight of the road",
+    "prefix": "ohn Mulligan, the manager of the Hibernian bank, gave me a very sharp eye yesterday on Carlisle bridge as if he remembered me. \n\n Aham! Must dress the character for those fellows. ",
+    "suffix": ". Gentleman. And now, Mr Crimmins, may we have the honour of your 1932#215custom again, sir. The cup that cheers but not inebriates, as the old saying has it. \n\n North wall and sir",
+    "start": 43024,
+    "end": 43042,
+    "canonical_text": "Knight of the road"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9093659,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083736,
+        "login": "JessicaVestuto",
+        "name": "JessicaVestuto",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

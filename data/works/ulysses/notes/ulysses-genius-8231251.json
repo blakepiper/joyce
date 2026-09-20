@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8231251",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Glencree",
+  "html_source": "<p>This is the same evening Bloom recalls in chapter 8 and Molly in chapter 18.</p><blockquote><p>…that sponger he was making free with me after the Glencree dinner coming back that long joult over the featherbed mountain</p></blockquote>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8231251/James-joyce-ulysses-chap-10-wandering-rocks/Glencree",
+    "original_id": "8231251",
+    "referent_id": 8231251,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Glencree",
+    "prefix": "y the riverwall. \n\n1961#233\n\n Master Patrick Aloysius Dignam came out of Mangan's, late Fehrenbach's, carrying a pound and a half of porksteaks. \n\n — There was a big spread out at ",
+    "suffix": " reformatory, Lenehan said eagerly. The annual dinner, you know. Boiled shirt affair. The lord mayor was there, Val Dillon it was, and sir Charles Cameron and Dan Dawson spoke and ",
+    "start": 30478,
+    "end": 30486,
+    "canonical_text": "Glencree"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8231251,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1520984,
+        "login": "RedSwanHotel",
+        "name": "RedSwanHotel",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

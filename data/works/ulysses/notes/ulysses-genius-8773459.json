@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8773459",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Seventh heaven",
+  "html_source": "<p>In religious or mythological cosmology, the seven heavens refer to the seven divisions of the Heaven, the abode of immortal beings, or the visible sky, the expanse containing the Sun, Moon and the stars. This concept dates back to ancient Mesopotamian religions and similar concept is also found in some Indian religions such as Hinduism, and in some Abrahamic religions such as Judaism, Islam and Catholicism</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8773459/James-joyce-ulysses-chap-5-lotus-eaters/Seventh-heaven",
+    "original_id": "8773459",
+    "referent_id": 8773459,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Seventh heaven",
+    "prefix": "1\n\n Something going on: some sodality. Pity so empty. Nice discreet place to be next some girl. Who is my neighbour? Jammed by the hour to slow music. That woman at midnight mass. ",
+    "suffix": ". Women knelt in the benches with crimson halters round their necks, heads bowed. A batch knelt at the altarrails. The priest went along by them, murmuring, holding the thing in hi",
+    "start": 21241,
+    "end": 21255,
+    "canonical_text": "Seventh heaven"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8773459,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

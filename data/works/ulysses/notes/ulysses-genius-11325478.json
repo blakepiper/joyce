@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11325478",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Wherever you be let your wind go free",
+  "html_source": "<p>A comical Scottish rhyme about flatulence as a parody of the style of Robert Burns.</p><p>Wher air ye be<br />let yer wind gae free<br />wether Church or Chapel<br />Let it rattle.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11325478/James-joyce-ulysses-chap-18-penelope/Wherever-you-be-let-your-wind-go-free",
+    "original_id": "11325478",
+    "referent_id": 11325478,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "wherever you be let your wind go free",
+    "prefix": "t God or do the least thing better yes hold them like that a bit on my side piano quietly sweeeee theres that train far away pianissimo eeeeeeee one more song \n\n that was a relief ",
+    "suffix": " who knows if that pork chop I took with my cup of tea after was quite good with the heat I couldnt smell anything off it Im sure that queerlooking man in the porkbutchers is a gre",
+    "start": 67410,
+    "end": 67447,
+    "canonical_text": "wherever you be let your wind go free"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11325478,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10113068",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Raoul",
+  "html_source": "<p>Raoul is a character in the spicy novel “Sweets of Sin” that Bloom bought for Molly in Chapter 10.</p><p>“He read the other title: SWEETS OF SIN. More in her line. Let us see. He read where his finger opened.<br /> –ALL THE DOLLARBILLS HER HUSBAND GAVE HER WERE SPENT IN THE STORES ON WONDROUS GOWNS AND COSTLIEST FRILLIES. FOR HIM! FOR RAOUL!”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10113068/James-joyce-ulysses-chap-15-circe/Raoul",
+    "original_id": "10113068",
+    "referent_id": 10113068,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Raoul",
+    "prefix": "d? \n\n BLOOM \n\n Thank you, sir. Yes, sir. Madam Tweedy is in her bath, sir. \n\n1922#526\n\n MARION \n\n He ought to feel himself highly honoured. (She plops splashing out of the water.) ",
+    "suffix": " darling, come and dry me. I'm in my pelt. Only my new hat and a carriage sponge. \n\n BOYLAN \n\n(A merry twinkle in his eye.) Topping! \n\n BELLA \n\n What? What is it? \n\n(Zoe whispers t",
+    "start": 185871,
+    "end": 185876,
+    "canonical_text": "Raoul"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10113068,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

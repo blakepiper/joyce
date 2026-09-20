@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8004506",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Like him was I, these sloping shoulders, this gracelessness.",
+  "html_source": "<p>Stephen continues to see himself in the piteous student before him</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8004506/James-joyce-ulysses-chap-2-nestor/Like-him-was-i-these-sloping-shoulders-this-gracelessness",
+    "original_id": "8004506",
+    "referent_id": 8004506,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "Like him was I, these sloping shoulders, this gracelessness.",
+    "prefix": " his dull skin. Amor matris: subjective and objective genitive. With her weak blood and wheysour milk she had fed him and hid from sight of others his swaddling bands. \n\n1986#23\n\n ",
+    "suffix": " My childhood bends beside me. Too far for me to lay a hand there once or lightly. Mine is far and his secret as our eyes. Secrets, silent, stony sit in the dark palaces of both 19",
+    "start": 9186,
+    "end": 9246,
+    "canonical_text": "Like him was I, these sloping shoulders, this gracelessness."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8004506,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 4177912,
+        "login": "ShaneGreen",
+        "name": "ShaneGreen",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

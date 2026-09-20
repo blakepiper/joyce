@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10616617",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "It simply wasn’t art",
+  "html_source": "<p><a href=\"https://www.theguardian.com/artanddesign/2012/oct/19/photography-is-it-art\" rel=\"noopener nofollow\">https://www.theguardian.com/artanddesign/2012/oct/19/photography-is-it-art</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10616617/James-joyce-ulysses-chap-16-eumaeus/It-simply-wasnt-art",
+    "original_id": "10616617",
+    "referent_id": 10616617,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "it simply wasn't art",
+    "prefix": "seum. Marble could give the original, shoulders, back, all the symmetry. All the rest, yes, Puritanism. It does though, Saint Joseph's sovereign... whereas no photo could, because ",
+    "suffix": ", in a word. \n\n The spirit moving him, he would much have liked to follow Jack Tar's good example and leave the likeness there for a very few minutes to speak for itself on the ple",
+    "start": 100015,
+    "end": 100035,
+    "canonical_text": "it simply wasn't art"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10616617,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

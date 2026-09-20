@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-12763179",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "The seas’ ruler,",
+  "html_source": "<p>ie <a href=\"https://www.youtube.com/watch?v=rB5Nbp_gmgQ\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=rB5Nbp_gmgQ</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/12763179/James-joyce-ulysses-chap-1-telemachus/The-seas-ruler",
+    "original_id": "12763179",
+    "referent_id": 12763179,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "The seas' ruler,",
+    "prefix": "mourning between their gay attires. \n\n — It's a wonderful tale, Haines said, bringing them to halt again. \n\n Eyes, pale as the sea the wind had freshened, paler, firm and prudent. ",
+    "suffix": " he gazed southward over the bay, empty save for the smokeplume of the mailboat vague on the bright skyline and a sail tacking by the Muglins. \n\n1932#17\n\n — I read a theological in",
+    "start": 32242,
+    "end": 32258,
+    "canonical_text": "The seas' ruler,"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 12763179,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

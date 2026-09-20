@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4787930",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "There is who wants me for odd jobs",
+  "html_source": "<p>Having mused silently on “A crazy queen, old and jealous. Kneel down before me,” Stephen expands his list of masters: “And a third, Stephen said, there is who wants me for odd jobs.” The crazy old queen cannot be Victoria: she was dead by 1904, and England has already been spoken for as a master. She is almost certainly Ireland, embodied by the ardently nationalistic Shan Van Vocht.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4787930/James-joyce-ulysses-chap-1-telemachus/There-is-who-wants-me-for-odd-jobs",
+    "original_id": "4787930",
+    "referent_id": 4787930,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "there is who wants me for odd jobs",
+    "prefix": "ervant of two masters, Stephen said, an English and an Italian. \n\n — Italian? Haines said. \n\n A crazy queen, old and jealous. Kneel down before me. \n\n — And a third, Stephen said, ",
+    "suffix": ". \n\n — Italian? Haines said again. What do you mean? \n\n — The imperial British state, Stephen answered, his colour rising, and the holy Roman catholic and apostolic church. \n\n1939#",
+    "start": 36176,
+    "end": 36210,
+    "canonical_text": "there is who wants me for odd jobs"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4787930,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 0.9705882352941176
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.029411764705882356
+      }
+    ]
+  },
+  "color": "F59627"
+}

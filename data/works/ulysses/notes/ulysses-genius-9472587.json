@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9472587",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Rags and bones",
+  "html_source": "<p>In the UK, 19th-century rag-and-bone men scavenged unwanted rags, bones, metal and other waste, from the towns and cities where they lived. Some wealthier rag-and-bone men used a cart, sometimes pulled by horse or pony.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9472587/James-joyce-ulysses-chap-15-circe/Rags-and-bones",
+    "original_id": "9472587",
+    "referent_id": 9472587,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Rags and bones",
+    "prefix": "who procured that public boon? I who lost my way and contributed to the columns of the Irish Cyclist the letter 1932#393headed In darkest Stepaside. Keep, keep, keep to the right. ",
+    "suffix": " at midnight. A fence more likely. First place murderer makes for. Wash off his sins of the world. \n\n1961#436\n\n(Jacky Caffrey, hunted by Tommy Caffrey, runs full tilt against Bloom",
+    "start": 11130,
+    "end": 11144,
+    "canonical_text": "Rags and bones"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9472587,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

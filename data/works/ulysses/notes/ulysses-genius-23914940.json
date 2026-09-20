@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23914940",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Sir",
+  "html_source": "<p>Bloom wondered if he heard the scream of the baby.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23914940/James-joyce-ulysses-chap-14-oxen-of-the-sun/Sir",
+    "original_id": "23914940",
+    "referent_id": 23914940,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Sir",
+    "prefix": "by the door and begged them at the reverence of Jesu our alther liege Lord to leave their wassailing for there was above one quick with child, a gentle dame, whose time hied fast. ",
+    "suffix": " 1986#317Leopold heard on the upfloor cry on high and he wondered what cry that it was whether of child or woman and I marvel, said he, that it be not come or now. Meseems it duret",
+    "start": 11804,
+    "end": 11807,
+    "canonical_text": "Sir"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9712
+  },
+  "genius": {
+    "referent_id": 23914940,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

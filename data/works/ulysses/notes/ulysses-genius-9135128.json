@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9135128",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Sackpossets",
+  "html_source": "<p>Sack Posset was a popular, custard-like drink of Elizabethan England….a curdled milk and wine/beer concoction.<br /><a href=\"http://arrowheadwine.blogspot.com/2013/12/sack-posset.html\" rel=\"noopener nofollow\">http://arrowheadwine.blogspot.com/2013/12/sack-posset.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9135128/James-joyce-ulysses-chap-14-oxen-of-the-sun/Sackpossets",
+    "original_id": "9135128",
+    "referent_id": 9135128,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "sackpossets",
+    "prefix": "caps, waistcoateers, ladies of the bagnio and other rogues of the game or with a chanceable catchpole or a tipstaff often at nights till broad day of whom he picked up between his ",
+    "suffix": " much loose gossip. He took his ordinary at a boilingcook's and if he had but gotten into him a mess of broken victuals or a platter of tripes with a bare tester in his purse he co",
+    "start": 38599,
+    "end": 38610,
+    "canonical_text": "sackpossets"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9135128,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

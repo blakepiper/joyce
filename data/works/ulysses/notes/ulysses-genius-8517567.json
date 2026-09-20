@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8517567",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "The Croppy Boy",
+  "html_source": "<p><strong>The Croppy Boy</strong><br /><a href=\"https://www.youtube.com/watch?v=_8dTjDqdBXQ\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=_8dTjDqdBXQ</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8517567/James-joyce-ulysses-chap-11-sirens/The-croppy-boy",
+    "original_id": "8517567",
+    "referent_id": 8517567,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "The Croppy Boy",
+    "prefix": " he knock Paul de Kock with a loud proud knocker with a cock carracarracarra cock. Cockcock. \n\n Tap. \n\n — Qui sdegno, Ben, said Father Cowley. \n\n — No, Ben, Tom Kernan interfered. ",
+    "suffix": ". Our native Doric. \n\n — Ay do, Ben, Mr Dedalus said. Good men and true. \n\n1961#282\n\n — Do, do, they begged in one. \n\n I'll go. Here, Pat, return. Come. He came, he came, he did no",
+    "start": 55554,
+    "end": 55568,
+    "canonical_text": "The Croppy Boy"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8517567,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

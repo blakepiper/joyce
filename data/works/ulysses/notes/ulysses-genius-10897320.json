@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10897320",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Muratti’s Turkish",
+  "html_source": "<p><a href=\"http://bibliotheques-specialisees.paris.fr/ark:/73873/pf0000832866/v0001.simple.selectedTab=record\" rel=\"noopener nofollow\">http://bibliotheques-specialisees.paris.fr/ark:/73873/pf0000832866/v0001.simple.selectedTab=record</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10897320/James-joyce-ulysses-chap-17-ithaca/Murattis-turkish",
+    "original_id": "10897320",
+    "referent_id": 10897320,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Muratti's Turkish",
+    "prefix": "ew inodorous halfsilk black ladies' hose, a pair of new violet garters, a pair of outsize ladies' drawers of India mull, cut on generous lines, redolent of opoponax, jessamine and ",
+    "suffix": " cigarettes and containing a long bright steel safety pin, folded curvilinear, a camisole of batiste with thin lace border, an accordion underskirt of blue silk moirette, all these",
+    "start": 133142,
+    "end": 133159,
+    "canonical_text": "Muratti's Turkish"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10897320,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

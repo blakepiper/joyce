@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-34764759",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Lundy Foot’s",
+  "html_source": "<p>A seller of snuff and tobacco in Dublin, first established in 1758.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/34764759/James-joyce-ulysses-chap-10-wandering-rocks/Lundy-foots",
+    "original_id": "34764759",
+    "referent_id": 34764759,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Lundy Foot's",
+    "prefix": " she couldn't see what Her Excellency had on because the tram and Spring's big yellow furniture van had to stop in front of her on account of its being the lord lieutenant. Beyond ",
+    "suffix": " from the shaded door of Kavanagh's winerooms John Wyse Nolan smiled with unseen coldness towards the lord lieutenantgeneral and general governor of Ireland. The Right Honourable W",
+    "start": 70413,
+    "end": 70425,
+    "canonical_text": "Lundy Foot's"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 34764759,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-3954892",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Stagnant",
+  "html_source": "<p>The knowledge in the library is undisturbed, untainted – here, “stagnant” bares no direct negative connotations.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3954892/James-joyce-ulysses-chap-3-proteus/Stagnant",
+    "original_id": "3954892",
+    "referent_id": 3954892,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "stagnant",
+    "prefix": " of decay, mine, his and all. You told the Clongowes gentry you had an uncle a judge and an uncle a general in the army. Come out of them, Stephen. Beauty is not there. Nor in the ",
+    "suffix": " bay of Marsh's library where you read the fading prophecies of Joachim Abbas. For whom? The hundredheaded rabble of the cathedral close. A hater 1932#36of his kind ran from them t",
+    "start": 6346,
+    "end": 6354,
+    "canonical_text": "stagnant"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3954892,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1135238,
+        "login": "Critic94",
+        "name": "Critic94",
+        "role": null,
+        "attribution": 0.9333333333333332
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.06666666666666667
+      }
+    ]
+  },
+  "color": "F59627"
+}

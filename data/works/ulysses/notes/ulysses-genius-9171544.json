@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9171544",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Staggering bob",
+  "html_source": "dialectal, British   a very young calf",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9171544/James-joyce-ulysses-chap-14-oxen-of-the-sun/Staggering-bob",
+    "original_id": "9171544",
+    "referent_id": 9171544,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "staggering bob",
+    "prefix": " by parturition, corpulent professional gentlemen, not to speak of jaundiced politicians and chlorotic nuns, might possibly find gastric relief in an innocent collation of 1986#342",
+    "suffix": ", reveals as nought else could and in a very 1939#301unsavoury light the tendency above alluded to. For the enlightenment of those who are not so intimately acquainted with the min",
+    "start": 93769,
+    "end": 93783,
+    "canonical_text": "staggering bob"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.941
+  },
+  "genius": {
+    "referent_id": 9171544,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

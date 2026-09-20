@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8763631",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Morrice",
+  "html_source": "<p>Morrice<br />n.  Same as 1st Morris.<br />a.  Dancing the morrice; dancing.</p><p>mor·ris  (môr′ĭs, mŏr′-) n.<br />An English folk dance in which a story is enacted by costumed dancers.</p><p>The dance was ‘moorish’. ‘Mummers’ and ‘moorish’ return in <em>Scylla and Charybdis</em>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8763631/James-joyce-ulysses-chap-2-nestor/Morrice",
+    "original_id": "8763631",
+    "referent_id": 8763631,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "morrice",
+    "prefix": "red askance through his slanted glasses. Hockeysticks rattled in the lumberroom: the hollow knock of a ball and calls from the field. \n\n Across the page the symbols moved in grave ",
+    "suffix": ", in the mummery of their letters, wearing quaint caps of squares and cubes. Give hands, traverse, bow to partner: so: imps of fancy of the Moors. Gone too from the world, Averroes",
+    "start": 8378,
+    "end": 8385,
+    "canonical_text": "morrice"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8763631,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.7209302325581395
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.27906976744186046
+      }
+    ]
+  },
+  "color": "F59627"
+}

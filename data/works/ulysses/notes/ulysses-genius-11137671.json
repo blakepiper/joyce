@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11137671",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Molly bawn",
+  "html_source": "<p><a href=\"http://www.goodreads.com/book/show/7201740-molly-bawn\" rel=\"noopener nofollow\">http://www.goodreads.com/book/show/7201740-molly-bawn</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11137671/James-joyce-ulysses-chap-18-penelope/Molly-bawn",
+    "original_id": "11137671",
+    "referent_id": 11137671,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Molly bawn",
+    "prefix": "and the shadow of Ashlydyat Mrs Henry Wood Henry Dunbar by that other woman I lent him afterwards with Mulveys photo in it so as he see I wasnt without and Lord Lytton Eugene Aram ",
+    "suffix": " she gave me by Mrs Hungerford on account of the name I dont like books with a Molly in them like that one he brought me about the one from Flanders a whore always shoplifting 1939",
+    "start": 48822,
+    "end": 48832,
+    "canonical_text": "Molly bawn"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11137671,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

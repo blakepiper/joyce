@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8774465",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Kildare street club",
+  "html_source": "<p>Founded in the year of the Constitution of 1782, the Club’s first home was a house in Kildare Street.  In 1859, the club was described in The Building News as “an institution famous for aristocracy, claret and whist…” Overwhelmingly Protestant and Anglo-Irish, in 1900 the club was called by a member “the only place in Ireland where one can enjoy decent caviar”. It has been estimated that at about this time only between two and six per cent of the Club’s members were supporters of Irish Home Rule. The Kildare Street Club was closely associated with the Irish Conservative Party and later the Irish Unionist Alliance.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8774465/James-joyce-ulysses-chap-5-lotus-eaters/Kildare-street-club",
+    "original_id": "8774465",
+    "referent_id": 8774465,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Kildare street club",
+    "prefix": " was always like that. Cricket weather. Sit around under sunshades. Over after over. Out. They can't play it here. Duck for six wickets. Still Captain Buller broke a window in the ",
+    "suffix": " with a slog to square leg. Donnybrook fair more in their line. And the skulls we were acracking when M'Carthy took the floor. Heatwave. Won't last. Always passing, the stream of l",
+    "start": 35571,
+    "end": 35590,
+    "canonical_text": "Kildare street club"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8774465,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

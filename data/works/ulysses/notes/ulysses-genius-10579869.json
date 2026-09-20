@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10579869",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Paradise and the peri",
+  "html_source": "<p>A phrase meaning “So near to paradise and yet prevented”.</p><p>See “ Das Paradies und die Peri” by Robert Schuman (1843)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10579869/James-joyce-ulysses-chap-5-lotus-eaters/Paradise-and-the-peri",
+    "original_id": "10579869",
+    "referent_id": 10579869,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Paradise and the peri",
+    "prefix": " fellow. \n\n Watch! Watch! Silk flash rich stockings white. Watch! \n\n A heavy tramcar honking its gong slewed between. \n\n Lost it. Curse your noisy pugnose. Feels locked out of it. ",
+    "suffix": ". Always happening like that. The very moment. Girl in 1932#65Eustace street hallway Monday was it settling her garter. Her friend covering the display of esprit de corps. Well, wh",
+    "start": 8431,
+    "end": 8452,
+    "canonical_text": "Paradise and the peri"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10579869,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

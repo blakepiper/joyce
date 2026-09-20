@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10220915",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Truffles",
+  "html_source": "<p>Apparently pigs can sniff out truffles because they contain a sex hormone.<br /><a href=\"http://www.nytimes.com/1982/03/24/garden/truffles-why-pigs-can-sniff-them-out.html\" rel=\"noopener nofollow\">http://www.nytimes.com/1982/03/24/garden/truffles-why-pigs-can-sniff-them-out.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10220915/James-joyce-ulysses-chap-15-circe/Truffles",
+    "original_id": "10220915",
+    "referent_id": 10220915,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Truffles",
+    "prefix": ".) Incline feet forward! Slide left foot one pace back! You will fall. You are falling. On the hands down! \n\n BLOOM \n\n(Her eyes upturned in the sign of admiration, closing, yaps.) ",
+    "suffix": "! \n\n(With a piercing epileptic cry she sinks on all fours, grunting, snuffling, rooting at his feet: then lies, shamming dead, with eyes shut tight, trembling eyelids, bowed upon t",
+    "start": 142708,
+    "end": 142716,
+    "canonical_text": "Truffles"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10220915,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-7448459",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Moves to one great goal",
+  "html_source": "<p>Remembering Deasy in <a href=\"https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated\" rel=\"noopener nofollow\">Nestor</a>: “All history moves towards one great goal, the manifestation of God.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7448459/James-joyce-ulysses-chap-3-proteus/Moves-to-one-great-goal",
+    "original_id": "7448459",
+    "referent_id": 7448459,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "moves to one great goal",
+    "prefix": "ed, sniffed, stalked round it, brother, nosing closer, went round it, sniffling rapidly like a dog all over the dead dog's bedraggled fell. Dogskull, dogsniff, eyes on the ground, ",
+    "suffix": ". Ah, poor dogsbody! Here lies poor dogsbody's body. \n\n — Tatters! Out of that, you mongrel! \n\n The cry brought him skulking back to his master and a blunt bootless kick sent him u",
+    "start": 22713,
+    "end": 22736,
+    "canonical_text": "moves to one great goal"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 7448459,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1060900,
+        "login": "dvrath",
+        "name": "dvrath",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

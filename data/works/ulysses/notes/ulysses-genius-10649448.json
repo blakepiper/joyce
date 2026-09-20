@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10649448",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Hollands",
+  "html_source": "<p><img src=\"https://images.genius.com/3fc4cc6522b9a19d9ebc3036e5ab47e5.192x500x1.jpg\" alt=\"\" /></p><p><a href=\"http://www.ginvodka.org/history/ginHistory.asp\" rel=\"noopener nofollow\">http://www.ginvodka.org/history/ginHistory.asp</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10649448/James-joyce-ulysses-chap-16-eumaeus/Hollands",
+    "original_id": "10649448",
+    "referent_id": 10649448,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Hollands",
+    "prefix": "unexpected quarter, answered: \n\n — Dedalus. \n\n The sailor stared at him heavily from a pair of drowsy baggy eyes, rather bunged up from excessive use of boose, preferably good old ",
+    "suffix": " and water. \n\n — You know Simon Dedalus? he asked at length. \n\n — I've heard of him, Stephen said. \n\n1922#5781932#532\n\n Mr Bloom was all at sea for a moment, seeing the others evid",
+    "start": 25682,
+    "end": 25690,
+    "canonical_text": "Hollands"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10649448,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

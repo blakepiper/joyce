@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8566617",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Speranza’s plaintive muse",
+  "html_source": "<p>This refers to the pen name of Lady Jane Wilde, who not only gave birth to her famous literary son Oscar, but was a poet of some fame herself. Her activism for Irish independence led to her being considered “Speranza of the Nation.” Her poem <em>To Ireland</em>, contained the kind of extreme passionate nationalism that Joyce seems to be lampooning in this parody. Robert Emmet, whose public funeral the parody supposedly describes, was executed in 1803, eighteen years prior to Lady Jane’s birth. There was, in fact, no public funeral for Emmet. Joyce was wary of such excessive emotionalism would devolve into kitsch.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8566617/James-joyce-ulysses-chap-12-cyclops/Speranzas-plaintive-muse",
+    "original_id": "8566617",
+    "referent_id": 8566617,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Speranza's plaintive muse",
+    "prefix": "the York street brass and reed band whiled away the intervening time by admirably rendering on their blackdraped instruments the matchless melody endeared to us from the cradle by ",
+    "suffix": ". Special quick excursion trains and upholstered charabancs had been provided for the comfort of our country 1961#306cousins of whom there were large contingents. Considerable amus",
+    "start": 33878,
+    "end": 33903,
+    "canonical_text": "Speranza's plaintive muse"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8566617,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

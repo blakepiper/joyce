@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8804411",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Wrote a book",
+  "html_source": "<p>There are ten volumes of [Antisthenes] writings extant. The ninth book contains an essay on the Odyssey; one on the Magic Wand; the Minerva, or an essay on Telemachus; an essay on Helen and Penelope; one on Proteus; the Cyclops, being an essay on Ulysses; an essay on the Use of Wine, or on Drunkenness, or on the Cyclops; one on Circe; one on Amphiaraus; one on Ulysses and Penelope, and also on Ulysses' Dog.<br />THE LIVES AND OPINIONS OF EMINENT PHILOSOPHERS BY DIOGENES LAERTIUS, TRANSLATED BY C.D. YONGE</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8804411/James-joyce-ulysses-chap-7-aeolus/Wrote-a-book",
+    "original_id": "8804411",
+    "referent_id": 8804411,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "wrote a book",
+    "prefix": "le of Gorgias, the sophist. It is said of him that none could1961#148 tell if he were bitterer against others or against himself. He was the son of a noble and a bondwoman. And he ",
+    "suffix": " in which he took away the palm of beauty from Argive Helen and handed it to poor Penelope. \n\n Poor Penelope. Penelope Rich. \n\n They made ready to cross O'Connell street. \n\n HELLO ",
+    "start": 57991,
+    "end": 58003,
+    "canonical_text": "wrote a book"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8804411,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

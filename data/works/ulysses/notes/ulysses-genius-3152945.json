@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3152945",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Your funeral’s tomorrow While you’re coming through the rye",
+  "html_source": "<p>Combination of the lyrics of the songs “His funeral’s tomorrow” and “Comin' through the rye.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3152945/James-joyce-ulysses-chap-8-lestrygonians/Your-funerals-tomorrow-while-youre-coming-through-the-rye",
+    "original_id": "3152945",
+    "referent_id": 3152945,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Your funeral's tomorrow While you're coming through the rye",
+    "prefix": "y as well get her sympathy. \n\n — Dignam, Mr Bloom said. An old friend of mine. He died quite suddenly, poor fellow. Heart trouble, I believe. Funeral was this morning. \n\n1922#149\n\n",
+    "suffix": ". \nDiddlediddle dumdum \nDiddlediddle... \n\n — Sad to lose the old friends, Mrs Breen's womaneyes said melancholily. \n\n Now that's quite enough about that. Just quietly: husband. \n\n ",
+    "start": 13909,
+    "end": 13969,
+    "canonical_text": "Your funeral's tomorrow \nWhile you're coming through the rye"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 3152945,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 591961,
+        "login": "dbrannen",
+        "name": "dbrannen",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

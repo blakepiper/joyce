@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9575436",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Fairyhouse races",
+  "html_source": "<p>one of Ireland’s premier horse racing venues<br /><a href=\"http://www.fairyhouse.ie/Fairyhouse/Home/\" rel=\"noopener nofollow\">http://www.fairyhouse.ie/Fairyhouse/Home/</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9575436/James-joyce-ulysses-chap-15-circe/Fairyhouse-races",
+    "original_id": "9575436",
+    "referent_id": 9575436,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Fairyhouse races",
+    "prefix": " in bandolier and a grey billycock hat.) Do you remember a long long time, years and years ago, just after Milly, Marionette we called her, was weaned when we all went together to ",
+    "suffix": ", was it? \n\n MRS BREEN \n\n(In smart Saxe tailormade, white velours hat and spider veil.) Leopardstown. \n\n BLOOM \n\n I mean, Leopardstown. And Molly won seven shillings on a three yea",
+    "start": 25921,
+    "end": 25937,
+    "canonical_text": "Fairyhouse races"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9575436,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

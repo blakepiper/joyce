@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8505000",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Opposite",
+  "html_source": "<p>Beginning of Episode 18</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8505000/James-joyce-ulysses-chap-10-wandering-rocks/Opposite",
+    "original_id": "8505000",
+    "referent_id": 8505000,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Opposite",
+    "prefix": "ipling turned his sickly face after the striding form. \n\n1986#205\n\n — God's curse on you, he said sourly, whoever you are! You're blinder nor I am, you bitch's bastard! \n\n*\n*  *\n\n ",
+    "suffix": " Ruggy O'Donohoe's Master Patrick Aloysius Dignam, pawing the pound and a half of Mangan's, late Fehrenbach's, porksteaks he had been sent for, went along warm Wicklow street dawdl",
+    "start": 64299,
+    "end": 64307,
+    "canonical_text": "Opposite"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9297
+  },
+  "genius": {
+    "referent_id": 8505000,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

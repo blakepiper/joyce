@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23608621",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Hop-of-my-thumb",
+  "html_source": "<p>A physically small person.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23608621/James-joyce-ulysses-chap-12-cyclops/Hop-of-my-thumb",
+    "original_id": "23608621",
+    "referent_id": 23608621,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "hop-of-my-thumb",
+    "prefix": "rner of Chicken lane—old Troy was just giving me a wrinkle about him—lifted any God's quantity of tea and sugar to pay three bob a week said he had a farm in the county Down off a ",
+    "suffix": " by the name of Moses Herzog over there near Heytesbury street. \n\n — Circumcised? says Joe. \n\n — Ay, says I. A bit off the top. An old plumber named Geraghty. I'm hanging on to his",
+    "start": 990,
+    "end": 1005,
+    "canonical_text": "hop-of-my-thumb"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23608621,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

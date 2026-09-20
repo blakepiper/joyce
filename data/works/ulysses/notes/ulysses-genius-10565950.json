@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10565950",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "As I am.",
+  "html_source": "<p>From ‘The Picture of Dorian Gray’ by Oscar Wilde:</p><p>“Don’t leave me, Basil, and don’t quarrel with me. I am what I am. There is nothing more to be said.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10565950/James-joyce-ulysses-chap-3-proteus/As-i-am",
+    "original_id": "10565950",
+    "referent_id": 10565950,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "As I am.",
+    "prefix": "w in Paris. Tiens, quel petit pied! Staunch friend, a brother soul: Wilde's love that dare not speak its name. His arm: Cranly's arm. He now will leave me. And the blame? As I am. ",
+    "suffix": " All or not at all.\n\nIn long lassoes from the Cock lake the water flowed full, covering greengoldenly lagoons of sand, rising, flowing. My ashplant will float away. I shall wait. N",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "ambiguous",
+    "confidence": 0.9963503649635037
+  },
+  "genius": {
+    "referent_id": 10565950,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-14118671",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Locomotor ataxy",
+  "html_source": "<p>Locomotor ataxia is the inability to precisely control one’s own bodily movements which is a key finding in tertiary syphilis.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/14118671/James-joyce-ulysses-chap-15-circe/Locomotor-ataxy",
+    "original_id": "14118671",
+    "referent_id": 14118671,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Locomotor ataxy",
+    "prefix": "er seen on a whore's shoulders. Lynch puts on her hat. She whips it off.) \n\n LYNCH \n\n(Laughs.) And to such delights has Metchnikoff inoculated anthropoid apes. \n\n FLORRY \n\n(Nods.) ",
+    "suffix": ". \n\n ZOE \n\n(Gaily.) O, my dictionary. \n\n1922#489\n\n LYNCH \n\n Three wise virgins. \n\n VIRAG \n\n(Agueshaken, profuse yellow spawn foaming over his bony epileptic lips.) She sold lovephi",
+    "start": 130637,
+    "end": 130652,
+    "canonical_text": "Locomotor ataxy"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 14118671,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

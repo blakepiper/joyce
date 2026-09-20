@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23111548",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Signal House",
+  "html_source": "<p>Now a bar.</p><p><img src=\"https://images.genius.com/77582b617cfcb32e10d12f0fa8949538.347x522x1.png\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23111548/James-joyce-ulysses-chap-16-eumaeus/Signal-house",
+    "original_id": "23111548",
+    "referent_id": 23111548,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Signal House",
+    "prefix": " common sense to bear on it, evidently there was nothing for it but put a good face on the matter and foot it which they accordingly did. So, bevelling around by Mullett's and the ",
+    "suffix": " which they shortly reached, they proceeded perforce in the direction of Amiens street railway terminus, Mr Bloom being handicapped 1986#501by the circumstance that one of the back",
+    "start": 2421,
+    "end": 2433,
+    "canonical_text": "Signal House"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23111548,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

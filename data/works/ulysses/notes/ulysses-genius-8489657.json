@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8489657",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Down there Emmet was hanged",
+  "html_source": "<p>From the end of the Hades chapter in which Bloom observes, “Robert Emmet was buried here by torchlight, wasn’t he?”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8489657/James-joyce-ulysses-chap-10-wandering-rocks/Down-there-emmet-was-hanged",
+    "original_id": "8489657",
+    "referent_id": 8489657,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Down there Emmet was hanged",
+    "prefix": "at. Damn like him. \n\n Aham! Hot spirit of juniper juice warmed his vitals and his breath. Good drop of gin, that was. His frocktails winked in bright sunshine to his fat strut. \n\n ",
+    "suffix": ", drawn and quartered. Greasy black rope. 1922#230Dogs licking the blood off the street when the lord lieutenant's wife drove by in her noddy. \n\n Bad times those were. Well, well. ",
+    "start": 43915,
+    "end": 43942,
+    "canonical_text": "Down there Emmet was hanged"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8489657,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

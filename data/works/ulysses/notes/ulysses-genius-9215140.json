@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9215140",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Strawberry mark and portwine stain",
+  "html_source": "<p>Strawberry hemangiomas (also called strawberry mark, nevus vascularis, capillary hemangioma, hemangioma simplex) may appear anywhere on the body, but are most common on the face, scalp, back, or chest. They consist of small, closely packed blood vessels.</p><p>Port-wine stains are flat purple-to-red birthmarks made of dilated blood capillaries. These birthmarks occur most often on the face and may vary in size.<br />WebMD.com</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9215140/James-joyce-ulysses-chap-14-oxen-of-the-sun/Strawberry-mark-and-portwine-stain",
+    "original_id": "9215140",
+    "referent_id": 9215140,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "strawberry mark and portwine stain",
+    "prefix": "er hand against that part of her person which long usage has consecrated as the seat of castigation. The abnormalities of harelip, breastmole, supernumerary digits, negro's inkle, ",
+    "suffix": " were alleged by one as a primafacie and natural hypothetical explanation of swineheaded (the case of Madame Grissel Steevens was not forgotten) or doghaired infants occasionally b",
+    "start": 71360,
+    "end": 71394,
+    "canonical_text": "strawberry mark and portwine stain"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9215140,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

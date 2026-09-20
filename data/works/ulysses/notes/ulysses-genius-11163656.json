@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11163656",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Skerrys academy",
+  "html_source": "<p>School that prepared students for civil service exams</p><p><a href=\"https://www.revolvy.com/main/index.php?s=Skerry%27s%20College&amp;item_type=topic\" rel=\"noopener nofollow\">https://www.revolvy.com/main/index.php?s=Skerry%27s%20College&amp;item_type=topic</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11163656/James-joyce-ulysses-chap-18-penelope/Skerrys-academy",
+    "original_id": "11163656",
+    "referent_id": 11163656,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Skerrys academy",
+    "prefix": "ts the feeling especially now with Milly away such an idea for him to send the girl down there to learn to take photographs on account of his grandfather instead of sending her to ",
+    "suffix": " where shed have to learn not like me 1932#666getting all 1s at school only hed do a thing like that all the same on account of me and Boylan thats why he did it Im certain the way",
+    "start": 74674,
+    "end": 74689,
+    "canonical_text": "Skerrys academy"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11163656,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

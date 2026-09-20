@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-4440938",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "And called out coarsely:",
+  "html_source": "<p>Of all the impressive literary techniques, wide-ranging vocabulary, and esoteric religious allusions, somehow “coarse” feels like the best word to describe Mulligan.</p><p>PROPOSED SUGGESTION: The word “coarsely” contains the word “arse” and Ulysses is crammed full of lewd half-jokes such as this.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4440938/James-joyce-ulysses-chap-1-telemachus/And-called-out-coarsely",
+    "original_id": "4440938",
+    "referent_id": 4440938,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "and called out coarsely:",
+    "prefix": "irdled, was sustained gently behind him by the mild morning air. He held the bowl aloft and intoned: \n\n — Introibo ad altare Dei. \n\n Halted, he peered down the dark winding stairs ",
+    "suffix": " \n\n — Come up, Kinch! Come up, you fearful jesuit. \n\n Solemnly he came forward and mounted the round gunrest. He faced about and blessed gravely thrice the tower, the surrounding c",
+    "start": 342,
+    "end": 365,
+    "canonical_text": "and called up coarsely:"
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9362
+  },
+  "genius": {
+    "referent_id": 4440938,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2737454,
+        "login": "NewsomFanNo1",
+        "name": "NewsomFanNo1",
+        "role": "contributor",
+        "attribution": 0.48936170212765956
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.46808510638297873
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.0425531914893617
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-9091863",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Vicar of Bray",
+  "html_source": "<p>(Biography) a vicar (Simon Aleyn) appointed to the parish of Bray in Berkshire during Henry VIII’s reign who changed his faith to Catholic when Mary I was on the throne and back to Protestant when Elizabeth I succeeded and so retained his living.<br />The Free Dictionary<br />Thus anyone who changes his beliefs to suit external events.</p><p>Also a <a href=\"http://faculty.history.wisc.edu/sommerville/367/Vicar%20of%20Bray.htm.\" rel=\"noopener nofollow\">song</a>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9091863/James-joyce-ulysses-chap-14-oxen-of-the-sun/Vicar-of-bray",
+    "original_id": "9091863",
+    "referent_id": 9091863,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "vicar of Bray",
+    "prefix": "ch from him that still plied it very busily who, praying for the intentions of the sovereign pontiff, he gave them for a1932#353pledge the vicar of Christ which also as he said is ",
+    "suffix": ". Now drink we, quod he, of this mazer and quaff ye this mead which is not indeed parcel of my body but my soul's bodiment. Leave ye fraction of bread to them that live by bread al",
+    "start": 20013,
+    "end": 20026,
+    "canonical_text": "vicar of Bray"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9091863,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.9491525423728814
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.05084745762711864
+      }
+    ]
+  },
+  "color": "F59627"
+}

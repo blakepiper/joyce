@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15158000",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Silent means consent",
+  "html_source": "<p>Apparently this derives from the Latin motto “Qui tacet consentire”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15158000/James-joyce-ulysses-chap-15-circe/Silent-means-consent",
+    "original_id": "15158000",
+    "referent_id": 15158000,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Silent means consent",
+    "prefix": "its bronze buckles with a chubby finger, his moist tongue lolling and lisping.) One two tlee: tlee tlwo tlone. \n\n1986#408\n\n THE BUCKLES \n\n Love me. Love me not. Love me. \n\n ZOE \n\n ",
+    "suffix": ". (With little parted talons she captures his hand, her forefinger giving to his palm the passtouch of secret monitor, luring him to doom.) Hot hands cold gizzard. \n\n(He hesitates ",
+    "start": 99837,
+    "end": 99857,
+    "canonical_text": "Silent means consent"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15158000,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

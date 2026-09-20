@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-7616661",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Vere dignum et iustum est",
+  "html_source": "<p>(Latin) {It is truly fitting and just}…that we give thee thanks Lord…. (Eucharist prayer preface)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7616661/James-joyce-ulysses-chap-10-wandering-rocks/Vere-dignum-et-iustum-est",
+    "original_id": "7616661",
+    "referent_id": 7616661,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Vere dignum et iustum est",
+    "prefix": ". reset his smooth watch in his interior pocket as he came down the presbytery steps. Five to three. Just nice time to walk to Artane. What was that boy's name again? Dignam. Yes. ",
+    "suffix": ". Brother Swan was the person to see. Mr Cunningham's letter. Yes. Oblige him, if possible. Good practical catholic: useful at mission time. \n\n A onelegged sailor, swinging himself",
+    "start": 237,
+    "end": 262,
+    "canonical_text": "Vere dignum et iustum est"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 7616661,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2082826,
+        "login": "Jmpetro",
+        "name": "Jmpetro",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

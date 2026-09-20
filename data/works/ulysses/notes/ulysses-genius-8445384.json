@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8445384",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Shottery",
+  "html_source": "<p>A small town in England that used to stand a mile west of Stratford-Upon-Avon, whence from her arms the star came, and to which it then hastens home.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8445384/James-joyce-ulysses-chap-9-scylla-and-charybdis/Shottery",
+    "original_id": "8445384",
+    "referent_id": 8445384,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Shottery",
+    "prefix": "gnature of his initial among the stars. His eyes watched it, lowlying on the horizon, eastward of the bear, as he walked by the slumberous summer fields at midnight returning from ",
+    "suffix": " and from her arms. \n\n1986#172\n\n Both satisfied. I too. \n\n Don't tell them he was nine years old when it was quenched. \n\n1922#201\n\n And from her arms. \n\n Wait to be wooed and won. ",
+    "start": 53979,
+    "end": 53987,
+    "canonical_text": "Shottery"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8445384,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

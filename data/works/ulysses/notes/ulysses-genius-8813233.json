@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8813233",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Marge",
+  "html_source": "<p>Margarine. Hippolyte Mège-Mouriès created it in France, in 1869. He was responding to a challenge by Emperor Napoleon III to create a butter substitute for the armed forces and lower classes. It was later named margarine. Whereas butter is made from the butterfat of milk, modern margarine is made mainly of refined vegetable oil and water, and may also contain milk</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8813233/James-joyce-ulysses-chap-8-lestrygonians/Marge",
+    "original_id": "8813233",
+    "referent_id": 8813233,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "marge",
+    "prefix": "r one. Watching his water. Bring your own bread and butter. His reverence: mum's the word.\n\nGood Lord, that poor child's dress is in flitters. Underfed she looks too. Potatoes and ",
+    "suffix": ", marge and potatoes. It's after they feel it. Proof of the pudding. Undermines the constitution.\n\nAs he set foot on O'Connell bridge a puffball of smoke plumed up from the parapet",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "ambiguous",
+    "confidence": 0.9908823060996974
+  },
+  "genius": {
+    "referent_id": 8813233,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

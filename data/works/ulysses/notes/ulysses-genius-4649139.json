@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4649139",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "In paradisum.",
+  "html_source": "<p>(May the angels lead you) into paradise.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4649139/James-joyce-ulysses-chap-6-hades/In-paradisum",
+    "original_id": "4649139",
+    "referent_id": 4649139,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "In paradisum.",
+    "prefix": "d businessmen, consumptive girls with little sparrows' breasts. All the year round he prayed the same thing over them all and shook water on top of them: sleep. On Dignam now. \n\n— ",
+    "suffix": " \n\n Said he was going to paradise or is in paradise. Says that over everybody. Tiresome kind of a job. But he has to say something. \n\n The priest closed his book and went off, foll",
+    "start": 37541,
+    "end": 37554,
+    "canonical_text": "In paradisum."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4649139,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15165228",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "From right to left",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Right-to-left\" rel=\"noopener nofollow\">Right-to-left</a>: his is the way that Hebrew is read (along with Arabic, Persian, and Urdu, thought these are obviously unlikely).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15165228/James-joyce-ulysses-chap-15-circe/From-right-to-left",
+    "original_id": "15165228",
+    "referent_id": 15165228,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "from right to left",
+    "prefix": " a figure appears slowly, a fairy boy of eleven, a changeling, kidnapped, dressed in an Eton suit with glass shoes and a little bronze helmet, holding a book in his hand. He reads ",
+    "suffix": " inaudibly, smiling, kissing the page.) \n\n BLOOM \n\n(Wonderstruck, calls inaudibly.) Rudy! \n\n RUDY \n\n(Gazes, unseeing, into Bloom's eyes and goes on reading, kissing, smiling. He ha",
+    "start": 239973,
+    "end": 239991,
+    "canonical_text": "from right to left"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15165228,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

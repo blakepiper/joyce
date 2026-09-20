@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1873092",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Mou en civet",
+  "html_source": "<p>very cheap stew.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1873092/James-joyce-ulysses-chap-3-proteus/Mou-en-civet",
+    "original_id": "1873092",
+    "referent_id": 1873092,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "mou en civet",
+    "prefix": "puce gloves. You were a student, weren't you? Of what in the other devil's name? Paysayenn. P. C. N., you know: physiques, chimiques et naturelles. Aha. Eating your groatsworth of ",
+    "suffix": ", fleshpots of Egypt, elbowed by belching cabmen. Just say in the most natural tone: when I was in Paris, boul' Mich', I used to. Yes, used to carry punched tickets to prove an ali",
+    "start": 10840,
+    "end": 10852,
+    "canonical_text": "mou en civet"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1873092,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 176532,
+        "login": "biblicalmike",
+        "name": "Michael Bible",
+        "role": "verified_artist",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23608688",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Ditto MacAnaspey",
+  "html_source": "<p>A saying of disputed origin which means, here “I will have the same.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23608688/James-joyce-ulysses-chap-12-cyclops/Ditto-macanaspey",
+    "original_id": "23608688",
+    "referent_id": 23608688,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Ditto MacAnaspey",
+    "prefix": "'ve a thirst on me I wouldn't sell for half a crown. \n\n — Give it a name, citizen, says Joe. \n\n — Wine of the country, says he. \n\n — What's yours? says Joe. \n\n1939#2151922#283\n\n — ",
+    "suffix": ", says I. \n\n — Three pints, Terry, says Joe. And how's the old heart, citizen? says he. \n\n1961#295\n\n — Never better, a chara, says he. What Garry? Are we going to win? Eh? \n\n And w",
+    "start": 9302,
+    "end": 9318,
+    "canonical_text": "Ditto MacAnaspey"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23608688,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

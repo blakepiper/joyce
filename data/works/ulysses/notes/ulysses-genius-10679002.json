@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10679002",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Lever line",
+  "html_source": "<p>Mr Lever mismanaged a steam ship line out of Galway<br /><a href=\"https://www.jstor.org/stable/25535652?seq=1#page_scan_tab_contents\" rel=\"noopener nofollow\">https://www.jstor.org/stable/25535652?seq=1#page_scan_tab_contents</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10679002/James-joyce-ulysses-chap-16-eumaeus/Lever-line",
+    "original_id": "10679002",
+    "referent_id": 10679002,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Lever line",
+    "prefix": "d by a Mr Worthington or some name like that, eh? Ask her captain, he advised them, how much palmoil the British government gave him for that day's work. Captain John Lever of the ",
+    "suffix": ". \n\n1939#449\n\n — Am I right, skipper? he queried of the sailor now returning after his private potation and the rest of his exertions. \n\n1986#522\n\n That worthy, picking up the scen",
+    "start": 65692,
+    "end": 65702,
+    "canonical_text": "Lever Line"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 10679002,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

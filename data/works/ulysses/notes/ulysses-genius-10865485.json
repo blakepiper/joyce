@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10865485",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Closestool",
+  "html_source": "<p><img src=\"https://images.genius.com/699fe02ad9d3e9ce193bf91f711518f2.750x1000x1.jpg\" alt=\"\" /></p><p>A covered chamber pot enclosed in a wooden stool.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10865485/James-joyce-ulysses-chap-17-ithaca/Closestool",
+    "original_id": "10865485",
+    "referent_id": 10865485,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "closestool",
+    "prefix": "ng and everything in its place: the deficient appreciation of literature possessed by females: the incongruity of an apple incuneated in a tumbler and of an umbrella inclined in a ",
+    "suffix": ": the insecurity of hiding any secret document behind, beneath or between the pages of a book. \n\n Which volume was the largest in bulk? \n\n1961#709\n\n Hozier's History of the Russo-T",
+    "start": 89245,
+    "end": 89255,
+    "canonical_text": "closestool"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10865485,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

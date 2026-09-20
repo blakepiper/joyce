@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2075321",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "—For old Mary Ann\n She doesn’t care a damn.\n But, hising up her petticoats...",
+  "html_source": "<p>This is from a bawdy Irish song.  He leaves off the last line where:</p><blockquote><p>She pisses like a man</p></blockquote><p><img src=\"https://images.genius.com/a4df67da54bd7754c48b10d0346c536b.350x539x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2075321/James-joyce-ulysses-chap-1-telemachus/For-old-mary-ann-she-doesnt-care-a-damn-but-hising-up-her-petticoats",
+    "original_id": "2075321",
+    "referent_id": 2075321,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "—For old Mary Ann\n She doesn't care a damn.\n But, hising up her petticoats...",
+    "prefix": "antly. Do you think she was? Quite charming! \n\n Then, suddenly overclouding all his features, he growled in a hoarsened rasping voice as he hewed again vigorously at the loaf: \n\n— ",
+    "suffix": "\n\n He crammed his mouth with fry and munched and droned. \n\n The doorway was darkened by an entering form. \n\n — The milk, sir! \n\n — Come in, ma'am, Mulligan said. Kinch, get the jug",
+    "start": 21767,
+    "end": 21843,
+    "canonical_text": "For old Mary Ann \nShe doesn't care a damn. \nBut, hising up her petticoats..."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2075321,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8800005",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Bosky",
+  "html_source": "Definition of bosky   having abundant trees or shrubs of or relating to a woods",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8800005/James-joyce-ulysses-chap-7-aeolus/Bosky",
+    "original_id": "8800005",
+    "referent_id": 8800005,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "bosky",
+    "prefix": "nything for it? \n\n— As 'twere, in the peerless panorama of Ireland's portfolio, unmatched, despite their wellpraised prototypes in other vaunted prize regions, for very beauty, of ",
+    "suffix": " grove and undulating plain and luscious pastureland of vernal green, steeped in the transcendent translucent glow of our mild mysterious Irish twilight... \n\n1939#941932#1121961#12",
+    "start": 17862,
+    "end": 17867,
+    "canonical_text": "bosky"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8800005,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

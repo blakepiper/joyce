@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8554725",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Dodging along Stony Batter only Joe Hynes",
+  "html_source": "<p>Joe Hynes is one who “dodges” his debts. The narrator is a nasty debt collector. Hynes owes Bloom three pounds, but, since the narrator likes Hynes and despises Bloom, Hynes’s identity as a debt “dodger” is not a concern with him.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8554725/James-joyce-ulysses-chap-12-cyclops/Dodging-along-stony-batter-only-joe-hynes",
+    "original_id": "8554725",
+    "referent_id": 8554725,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "dodging along Stony Batter only Joe Hynes",
+    "prefix": "Arbour hill there and be damned but a bloody sweep came along and he near drove his gear into my eye. I turned around to let him have the weight of my tongue when who should I see ",
+    "suffix": ". \n\n — Lo, Joe, says I. How are you blowing? Did you see that bloody chimneysweep near shove my eye out with his brush? \n\n — Soot's luck, says Joe. Who's the old ballocks you were ",
+    "start": 272,
+    "end": 313,
+    "canonical_text": "dodging along Stony Batter only Joe Hynes"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8554725,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

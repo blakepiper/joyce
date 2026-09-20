@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15123460",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Swatting",
+  "html_source": "<p>Training or practicing in preparation for the event</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15123460/James-joyce-ulysses-chap-12-cyclops/Swatting",
+    "original_id": "15123460",
+    "referent_id": 15123460,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "swatting",
+    "prefix": "2#3  \t    — What I meant about tennis, for example, is the agility and training the eye. \n\n — Ay, Blazes, says Alf. He let out that Myler was on the beer to run up the odds and he ",
+    "suffix": " all the time. \n\n — We know him, says the citizen. The traitor's son. We know what put English gold in his pocket. \n\n — True for you, says Joe. \n\n And Bloom cuts in again about law",
+    "start": 61436,
+    "end": 61444,
+    "canonical_text": "swatting"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15123460,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

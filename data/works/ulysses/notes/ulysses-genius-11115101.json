@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11115101",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Kathleen Kearney",
+  "html_source": "<p><a href=\"https://www.jstor.org/stable/3831084?seq=1#page_scan_tab_contents\" rel=\"noopener nofollow\">https://www.jstor.org/stable/3831084?seq=1#page_scan_tab_contents</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11115101/James-joyce-ulysses-chap-18-penelope/Kathleen-kearney",
+    "original_id": "11115101",
+    "referent_id": 11115101,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Kathleen Kearney",
+    "prefix": " with him that gets you on on the stage the last concert I sang at where its over a year ago when was it St Teresas hall Clarendon St little chits of missies they have now singing ",
+    "suffix": " and her like on account of father being in the army and my singing the absentminded beggar and wearing a brooch for Lord Roberts when I had the map of it all and Poldy not Irish e",
+    "start": 28001,
+    "end": 28017,
+    "canonical_text": "Kathleen Kearney"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 11115101,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

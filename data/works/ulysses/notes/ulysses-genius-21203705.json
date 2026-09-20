@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21203705",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "He is going to write something in ten years",
+  "html_source": "<p>Ulysses is set in 1904, and Joyce began writing the novel in 1914.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21203705/James-joyce-ulysses-chap-10-wandering-rocks/He-is-going-to-write-something-in-ten-years",
+    "original_id": "21203705",
+    "referent_id": 21203705,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "He is going to write something in ten years",
+    "prefix": "pped cream. Buck Mulligan slit a steaming scone in two and plastered butter over its smoking pith. He bit off a soft piece hungrily. \n\n — Ten years, he said, chewing and laughing. ",
+    "suffix": ". \n\n — Seems a long way off, Haines said, thoughtfully lifting his spoon. Still, I shouldn't wonder if he did after all. \n\n He tasted a spoonful from the creamy cone of his cup. \n\n",
+    "start": 62488,
+    "end": 62531,
+    "canonical_text": "He is going to write something in ten years"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21203705,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

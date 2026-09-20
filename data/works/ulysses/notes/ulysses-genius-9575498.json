@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9575498",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Cheapjacks",
+  "html_source": "<p>noun<br />a seller of cheap inferior goods, typically a hawker at a fair or market.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9575498/James-joyce-ulysses-chap-15-circe/Cheapjacks",
+    "original_id": "9575498",
+    "referent_id": 9575498,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "cheapjacks",
+    "prefix": "e's the best of that lot. If I hadn't heard about Mrs Beaufoy Purefoy I wouldn't have gone and wouldn't have met. Kismet. He'll lose that cash. Relieving office here. Good biz for ",
+    "suffix": ", organs. What do ye lack? Soon got, soon gone. Might have lost my life too with that mangongwheeltracktrolleyglarejuggernaut only for presence of mind. Can't always save you, thou",
+    "start": 30589,
+    "end": 30599,
+    "canonical_text": "cheapjacks"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9575498,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

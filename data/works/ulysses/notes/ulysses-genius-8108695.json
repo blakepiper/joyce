@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8108695",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Bi i dho husht",
+  "html_source": "<p>A corruption of the Irish, “Bí i do thost”, or “Be Silent”. The fact that the Citizen says “husht” rather than “thost” (pronounced “hawst”) suggests that he is mixing up the English word “hush” with the proper Irish word.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8108695/James-joyce-ulysses-chap-12-cyclops/Bi-i-dho-husht",
+    "original_id": "8108695",
+    "referent_id": 8108695,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Bi i dho husht",
+    "prefix": "ds. \n\n — O hell! says I. \n\n1922#286\n\n The bloody mongrel began to growl that'd put the fear of God in you seeing something was up but the citizen gave him a kick in the ribs. \n\n — ",
+    "suffix": ", says he. \n\n — Who? says Joe. \n\n — Breen, says Alf. He was in John Henry Menton's and then he went round to Collis and Ward's and then Tom Rochford met him and sent him round to t",
+    "start": 17023,
+    "end": 17037,
+    "canonical_text": "Bi i dho husht"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8108695,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1212531,
+        "login": "inokhrin",
+        "name": "inokhrin",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

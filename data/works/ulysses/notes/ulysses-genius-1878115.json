@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-1878115",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Dear old Howth",
+  "html_source": "<p>Howth is a coastal suburb in Dublin, famous for its beautiful castle and its hill walks and sea views.</p><p>It figures into many of Joyce’s works including <a href=\"http://poetry.genius.com/1587987\" rel=\"noopener nofollow\">Finnegans Wake</a>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1878115/James-joyce-ulysses-chap-13-nausicaa/Dear-old-howth",
+    "original_id": "1878115",
+    "referent_id": 1878115,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "dear old Howth",
+    "prefix": "world in its mysterious embrace. Far away in the west the sun was setting and the last glow of all too fleeting day lingered lovingly on sea and strand, on the proud promontory of ",
+    "suffix": " guarding as ever the waters of the bay, on the weedgrown rocks along Sandymount shore and, last but not least, on the quiet church whence there streamed forth at times upon the st",
+    "start": 231,
+    "end": 245,
+    "canonical_text": "dear old Howth"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1878115,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 211351,
+        "login": "prepski",
+        "name": "prepski",
+        "role": "contributor",
+        "attribution": 0.6551724137931035
+      },
+      {
+        "id": 176532,
+        "login": "biblicalmike",
+        "name": "Michael Bible",
+        "role": "verified_artist",
+        "attribution": 0.3448275862068966
+      }
+    ]
+  },
+  "color": "F59627"
+}

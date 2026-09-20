@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8814709",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Pull the chain",
+  "html_source": "<p>A british euphemism for flushing the toilet derived from old fashioned flush toilets with the very high tank and the pull chain for flushing</p><p><img src=\"https://images.rapgenius.com/5c9fb2c2cdbe0d38c4a5530dc5b87c4d.600x600x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8814709/James-joyce-ulysses-chap-8-lestrygonians/Pull-the-chain",
+    "original_id": "8814709",
+    "referent_id": 8814709,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "pull the chain",
+    "prefix": "u ever see anything of Mrs Beaufoy? Mr Bloom asked. \n\n — Mina Purefoy? she said. \n\n Philip Beaufoy I was thinking. Playgoers' Club. Matcham often thinks of the masterstroke. Did I ",
+    "suffix": "? Yes. The last act. \n\n1932#140\n\n — Yes. \n\n — I just called to ask on the way in is she over it. She's in 1961#158the lying-in hospital in Holles street. Dr Horne got her in. She's",
+    "start": 17215,
+    "end": 17229,
+    "canonical_text": "pull the chain"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8814709,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

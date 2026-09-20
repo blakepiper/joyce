@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15153474",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Antelucan",
+  "html_source": "<p><a href=\"https://en.wiktionary.org/wiki/antelucan\" rel=\"noopener nofollow\">Antelucan</a> is an archaic English term meaning  “[occurring] before dawn”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15153474/James-joyce-ulysses-chap-14-oxen-of-the-sun/Antelucan",
+    "original_id": "15153474",
+    "referent_id": 15153474,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "antelucan",
+    "prefix": "he bride, ever virgin. It is she, Martha, thou lost one, Millicent, the young, the dear, the radiant. How serene does she now arise, a queen among the Pleiades, in the penultimate ",
+    "suffix": " hour, shod in sandals of bright gold, coifed with a veil of what do you call it gossamer. It floats, it flows about her starborn flesh and loose it streams, emerald, sapphire, mau",
+    "start": 79936,
+    "end": 79945,
+    "canonical_text": "antelucan"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15153474,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

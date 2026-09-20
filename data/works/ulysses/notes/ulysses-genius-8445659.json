@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8445659",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "_Mais bien sûr_, noble stranger, said he cheerily, _et mille compliments_",
+  "html_source": "<p>(French) But of course … and thank you very much..</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8445659/James-joyce-ulysses-chap-14-oxen-of-the-sun/Mais-bien-sur-noble-stranger-said-he-cheerily-et-mille-compliments",
+    "original_id": "8445659",
+    "referent_id": 8445659,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "_Mais bien sûr_, noble stranger, said he cheerily, _et mille compliments_",
+    "prefix": "ice a gesture) to which was united an equivalent but contrary balance of the bottle asked the narrator as plainly as was ever done in words if he might treat him with a cup of it. ",
+    "suffix": ". That you may and very opportunely. There wanted nothing but this cup to crown my felicity. But, gracious heaven, was I left with but a crust in my wallet and a cupful of water fr",
+    "start": 53736,
+    "end": 53805,
+    "canonical_text": "Mais bien sûr, noble stranger, said he cheerily, et mille compliments"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 8445659,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

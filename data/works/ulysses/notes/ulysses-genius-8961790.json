@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8961790",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Banba",
+  "html_source": "<p>In Irish mythology, Banba (modern spelling: Banbha, pronounced [ˈbˠanˠəvˠə]), daughter of Ernmas of the Tuatha Dé Danann, is a patron goddess of Ireland.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8961790/James-joyce-ulysses-chap-12-cyclops/Banba",
+    "original_id": "8961790",
+    "referent_id": 8961790,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Banba",
+    "prefix": "was intimated that this had given satisfaction. \n\n He is gone from mortal haunts: O'Dignam, sun of our morning. Fleet was his foot on the bracken: Patrick of the beamy brow. Wail, ",
+    "suffix": ", with your wind: and wail, O ocean, with your whirlwind. \n\n1922#289\n\n — There he is again, says the citizen, staring out. \n\n — Who? says I. \n\n — Bloom, says he. He's on point duty",
+    "start": 23802,
+    "end": 23807,
+    "canonical_text": "Banba"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8961790,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

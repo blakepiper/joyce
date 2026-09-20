@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10678222",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Henry Campbell",
+  "html_source": "<p><img src=\"https://images.genius.com/dafc60448958c8332bd36a090ee58671.360x450x1.jpg\" alt=\"\" /></p><p>Leader of the Liberal Party from 1899 to 1908 and Prime Minister of the United Kingdom from 1905 to 1908</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10678222/James-joyce-ulysses-chap-16-eumaeus/Henry-campbell",
+    "original_id": "10678222",
+    "referent_id": 10678222,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Henry Campbell",
+    "prefix": "they drifted on to the wreck off Daunt's rock, wreck of that illfated Norwegian barque—nobody could think of her name for the moment till the jarvey who had really quite a look of ",
+    "suffix": " remembered it, Palme, on Booterstown Strand, that was the talk of the town that year (Albert William Quill wrote a fine piece of original verse of distinctive merit 1922#592on the",
+    "start": 61483,
+    "end": 61497,
+    "canonical_text": "Henry Campbell"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 10678222,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

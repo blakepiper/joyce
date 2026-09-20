@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-4565615",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "He gave me that clumsy Claddagh ring for luck",
+  "html_source": "<p>Mulvey gave Molly a ring before he sailed and she in turn gave the ring to Gardner.</p><p>PROPOSED SUGGESTION: <a href=\"http://www.claddaghring.com/How-to-wear-claddagh-rings-a/122.htm\" rel=\"noopener nofollow\">http://www.claddaghring.com/How-to-wear-claddagh-rings-a/122.htm</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4565615/James-joyce-ulysses-chap-18-penelope/He-gave-me-that-clumsy-claddagh-ring-for-luck",
+    "original_id": "4565615",
+    "referent_id": 4565615,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "he gave me that clumsy Claddagh ring for luck",
+    "prefix": "e was no decent perfume to be got in that Gibraltar only that cheap peau dEspagne that faded and left a stink 1939#537on you more than anything else I wanted to give him a memento ",
+    "suffix": " that I gave Gardner going to south Africa where those Boers killed him with their war and fever but they were well beaten all the same as if it brought its bad luck with it like a",
+    "start": 64442,
+    "end": 64487,
+    "canonical_text": "he gave me that clumsy Claddagh ring for luck"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4565615,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.6481481481481481
+      },
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.3148148148148148
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.037037037037037035
+      }
+    ]
+  },
+  "color": "F59627"
+}

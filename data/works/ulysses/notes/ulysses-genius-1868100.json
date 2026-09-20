@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-1868100",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Cranly",
+  "html_source": "<p>Cranly is Stephen’s (now estranged) friend from <em>A Portrait of an Artist as a Young Man</em>.</p><p>ACCEPTED COMMENT: This is a memory of physical closeness that did not end well for Stephen.</p><p>ACCEPTED COMMENT: (See <a href=\"http://poetry.genius.com/2682626\" rel=\"noopener nofollow\">Portrait chapter 5</a>)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1868100/James-joyce-ulysses-chap-1-telemachus/Cranly",
+    "original_id": "1868100",
+    "referent_id": 1868100,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Cranly",
+    "prefix": "ow made his tin by selling jalap to Zulus or some bloody swindle or other. God, Kinch, if you and I could only work together we might do something for the island. Hellenise it. \n\n ",
+    "suffix": "'s arm. His arm.\n\n — And to think of your having to beg from these swine. I'm the only one that knows what you are. Why don't you trust me more? What have you up your nose against ",
+    "start": 9338,
+    "end": 9344,
+    "canonical_text": "Cranly"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1868100,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 293151,
+        "login": "jeeho",
+        "name": "Jeeho",
+        "role": "contributor",
+        "attribution": 0.46511627906976744
+      },
+      {
+        "id": 176532,
+        "login": "biblicalmike",
+        "name": "Michael Bible",
+        "role": "verified_artist",
+        "attribution": 0.37209302325581395
+      },
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.16279069767441862
+      }
+    ]
+  },
+  "color": "F59627"
+}

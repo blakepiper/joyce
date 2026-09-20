@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8774213",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Aq. Dist. Fol. Laur. Te Virid.",
+  "html_source": "<p>(Latin abbreviations) Aqua Distillata. Folia Lauri. Thea Viridis. (Distilled Water. Laurel Leaves. Green Tea.)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8774213/James-joyce-ulysses-chap-5-lotus-eaters/Aq-dist-fol-laur-te-virid",
+    "original_id": "8774213",
+    "referent_id": 8774213,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Aq. Dist. Fol. Laur. Te Virid.",
+    "prefix": " Reaction. A lifetime in a night. Gradually changes your character. Living all the day among herbs, ointments, disinfectants. All 1932#74his alabaster lilypots. Mortar and pestle. ",
+    "suffix": " Smell almost cure you like the dentist's doorbell. Doctor Whack. He ought to physic himself a bit. Electuary or emulsion. The first fellow that picked an herb to cure himself had ",
+    "start": 30631,
+    "end": 30661,
+    "canonical_text": "Aq. Dist. Fol. Laur. Te Virid."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8774213,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2078863",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "With this came up Lenehan",
+  "html_source": "<p>This section (“With this came up Lenehan” through “sent the ale purling about”) is in the style of <a href=\"http://en.wikipedia.org/wiki/Daniel_Defoe\" rel=\"noopener nofollow\">Daniel Defoe</a>, author of <a href=\"http://en.wikipedia.org/wiki/Robinson_Crusoe\" rel=\"noopener nofollow\"><em>Robinson Crusoe</em></a></p><p><img src=\"https://images.genius.com/a3933dc687d21578914351a587267b0a.836x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2078863/James-joyce-ulysses-chap-14-oxen-of-the-sun/With-this-came-up-lenehan",
+    "original_id": "2078863",
+    "referent_id": 2078863,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "With this came up Lenehan",
+    "prefix": " in all but this a mere fetch without bottom of reason for old crones and bairns yet sometimes they are found in the right guess with their queerities no telling how. \n\n1986#325\n\n ",
+    "suffix": " to the feet of the table to say how the letter was in that night's gazette and he made a show to find it about him (for he swore with an oath that he had been at pains about it) b",
+    "start": 37783,
+    "end": 37808,
+    "canonical_text": "With this came up Lenehan"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2078863,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4635013",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Gelid",
+  "html_source": "<p>Icy.</p><p><img src=\"https://images.rapgenius.com/378560d44168dde0919f3c88a211d604.500x375x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4635013/James-joyce-ulysses-chap-4-calypso/Gelid",
+    "original_id": "4635013",
+    "referent_id": 4635013,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Gelid",
+    "prefix": "s which gave to his palate a fine tang of faintly scented urine. \n\n Kidneys were in his mind as he moved about the kitchen softly, righting her breakfast things on the humpy tray. ",
+    "suffix": " light and air were in the kitchen but out of doors gentle summer morning everywhere. Made him feel a bit peckish. \n\n The coals were reddening. \n\n Another slice of bread and butter",
+    "start": 432,
+    "end": 437,
+    "canonical_text": "Gelid"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4635013,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

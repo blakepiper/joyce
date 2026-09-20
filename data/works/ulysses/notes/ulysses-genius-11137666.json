@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11137666",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Eugene Aram",
+  "html_source": "<p><a href=\"http://www.goodreads.com/book/show/7659290-eugene-aram\" rel=\"noopener nofollow\">http://www.goodreads.com/book/show/7659290-eugene-aram</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11137666/James-joyce-ulysses-chap-18-penelope/Eugene-aram",
+    "original_id": "11137666",
+    "referent_id": 11137666,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Eugene Aram",
+    "prefix": "ynne I read and the shadow of Ashlydyat Mrs Henry Wood Henry Dunbar by that other woman I lent him afterwards with Mulveys photo in it so as he see I wasnt without and Lord Lytton ",
+    "suffix": " Molly bawn she gave me by Mrs Hungerford on account of the name I dont like books with a Molly in them like that one he brought me about the one from Flanders a whore always shopl",
+    "start": 48810,
+    "end": 48821,
+    "canonical_text": "Eugene Aram"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11137666,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

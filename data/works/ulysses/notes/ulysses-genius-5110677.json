@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5110677",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Huggermugger",
+  "html_source": "<p>Secretly. From Hamlet; Claudius uses this expression in speaking of the burial of Polonius “And we have done but greenly / In huggermugger to inter him”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5110677/James-joyce-ulysses-chap-6-hades/Huggermugger",
+    "original_id": "5110677",
+    "referent_id": 5110677,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Huggermugger",
+    "prefix": "nst the pane. Thanking her stars she was passed over. Extraordinary the interest they take in a corpse. Glad to see us go we give them such trouble coming. Job seems to suit them. ",
+    "suffix": " in corners. Slop about in slipperslappers for fear he'd wake. Then getting it ready. Laying it out. Molly and Mrs Fleming making the bed. Pull it more to your side. Our windingshe",
+    "start": 872,
+    "end": 884,
+    "canonical_text": "Huggermugger"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5110677,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

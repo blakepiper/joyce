@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8774437",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Over after over. Out.",
+  "html_source": "<p>In the sport of cricket, an over is a set of six balls bowled from one end of a cricket pitch. A dismissal occurs when the batsman is out (also known as the fielding side taking a wicket and/or the batting side losing a wicket). There are 10 ways that a player can be given out in the game of cricket</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8774437/James-joyce-ulysses-chap-5-lotus-eaters/Over-after-over-out",
+    "original_id": "8774437",
+    "referent_id": 8774437,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Over after over. Out.",
+    "prefix": "there on the nod. How do you do, Mr Hornblower? How do you do, sir? \n\n1986#70\n\n Heavenly weather really. If life was always like that. Cricket weather. Sit around under sunshades. ",
+    "suffix": " They can't play it here. Duck for six wickets. Still Captain Buller broke a window in the Kildare street club with a slog to square leg. Donnybrook fair more in their line. And th",
+    "start": 35459,
+    "end": 35480,
+    "canonical_text": "Over after over. Out."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8774437,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

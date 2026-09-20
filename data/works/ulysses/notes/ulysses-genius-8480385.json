@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8480385",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "From a long face a beard and gaze hung on a chessboard",
+  "html_source": "<p>This is an intrusion referring to an encounter Haines and Mulligan are to have with Parnell’s brother.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8480385/James-joyce-ulysses-chap-10-wandering-rocks/From-a-long-face-a-beard-and-gaze-hung-on-a-chessboard",
+    "original_id": "8480385",
+    "referent_id": 8480385,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "From a long face a beard and gaze hung on a chessboard",
+    "prefix": "dows. You can take it from here or from here. \n\n1986#189\n\n In the still faint light he moved about, tapping with his lath the piled seedbags and points of vantage on the floor. \n\n ",
+    "suffix": ". \n\n — I'm deeply obliged, Mr Lambert, the clergyman said. I won't trespass on your valuable time... \n\n1961#230\n\n — You're welcome, sir, Ned Lambert said. Drop in whenever you like",
+    "start": 24254,
+    "end": 24308,
+    "canonical_text": "From a long face a beard and gaze hung on a chessboard"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8480385,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

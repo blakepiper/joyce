@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8561633",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "The bottom of a Jacobs’ tin",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/6d348b5bfaae7fe64134a6d1c0f418a5.520x375x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8561633/James-joyce-ulysses-chap-12-cyclops/The-bottom-of-a-jacobs-tin",
+    "original_id": "8561633",
+    "referent_id": 8561633,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "the bottom of a Jacobs' tin",
+    "prefix": " talking all kinds of drivel about training by kindness and thoroughbred dog and intelligent dog: give you the bloody pip. Then he starts scraping a few bits of old biscuit out of ",
+    "suffix": " he told Terry to bring. Gob, he golloped it down like old boots and his tongue hanging out of him a yard long for more. Near ate the tin and all, hungry bloody mongrel. \n\n And the",
+    "start": 30850,
+    "end": 30877,
+    "canonical_text": "the bottom of a Jacobs' tin"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8561633,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

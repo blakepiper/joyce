@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3411893",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "His free hand graciously wrote tiny signs in air",
+  "html_source": "<p>Joyce distinguishes Best from Stephen with a gracious enacting of an inconsequential action. However flowery it is, the best Best can do are <em>tiny signs</em>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3411893/James-joyce-ulysses-chap-9-scylla-and-charybdis/His-free-hand-graciously-wrote-tiny-signs-in-air",
+    "original_id": "3411893",
+    "referent_id": 3411893,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "His free hand graciously wrote tiny signs in air",
+    "prefix": "ne, lisant au livre de lui-même, don't you know, reading the book of himself. He describes Hamlet given in a French town, don't you know, a provincial town. They advertised it. \n\n ",
+    "suffix": ". \n\nHamlet\nou\n\nLe Distrait\n\nPièce de Shakespeare \n\n\n\n1986#153\n\n He repeated to John Eglinton's newgathered frown: \n\n — Pièce de Shakespeare, don't you know. It's so French. The Fre",
+    "start": 6794,
+    "end": 6842,
+    "canonical_text": "His free hand graciously wrote tiny signs in air"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3411893,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

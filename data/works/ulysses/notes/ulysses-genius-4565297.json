@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4565297",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "He was the first man kissed me",
+  "html_source": "<p>Molly remembers that Mulvey was the first man to kiss her.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4565297/James-joyce-ulysses-chap-18-penelope/He-was-the-first-man-kissed-me",
+    "original_id": "4565297",
+    "referent_id": 4565297,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "he was the first man kissed me",
+    "prefix": "rill instructing to find out by the handwriting or the language of stamps singing I remember shall I wear a white rose and I wanted to put on the old stupid clock to near the time ",
+    "suffix": " under the Moorish wall my sweetheart when a boy it never entered my head what kissing meant till he put his tongue in my mouth his mouth was sweetlike young I put my knee up to hi",
+    "start": 57190,
+    "end": 57220,
+    "canonical_text": "he was the first man kissed me"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4565297,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

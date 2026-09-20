@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15156009",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "The Lyons mail. Lesurques and Dubosc",
+  "html_source": "<p>The former (Lesurques) was wrongly executed in 1796 for holding up the Lyons mail; in fact, it was the latter (Dubose) who committed the crime.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15156009/James-joyce-ulysses-chap-15-circe/The-lyons-mail-lesurques-and-dubosc",
+    "original_id": "15156009",
+    "referent_id": 15156009,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "The Lyons mail. Lesurques and Dubosc",
+    "prefix": "en, plucking at his heart and lifting his right forearm on the square, he gives the sign and dueguard of fellowcraft.) No, no, worshipful master, light of love. Mistaken identity. ",
+    "suffix": ". You remember the Childs fratricide case. We medical men. By striking him dead with a hatchet. I am wrongfully accused. Better one guilty escape than ninetynine wrongfully condemn",
+    "start": 36873,
+    "end": 36909,
+    "canonical_text": "The Lyons mail. Lesurques and Dubosc"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15156009,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

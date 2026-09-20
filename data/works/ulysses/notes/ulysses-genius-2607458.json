@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2607458",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "O si, certo!",
+  "html_source": "<p>Italian for <em>Oh yes, certainly!</em>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2607458/James-joyce-ulysses-chap-3-proteus/O-si-certo",
+    "original_id": "2607458",
+    "referent_id": 2607458,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "O si, certo!",
+    "prefix": "lessed Virgin that you might not have a red nose. You prayed to the devil in Serpentine avenue that the fubsy widow in front might lift her clothes still more from the wet street. ",
+    "suffix": " Sell your soul for that, do, dyed rags pinned round a squaw. More tell me, more still!! On the top of the Howth tram alone crying to the rain: naked women! What about that, eh? \n\n",
+    "start": 8075,
+    "end": 8087,
+    "canonical_text": "O si, certo!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2607458,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 293151,
+        "login": "jeeho",
+        "name": "Jeeho",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8493574",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Eighth and ninth book of Moses.",
+  "html_source": "<p>The first five books of the Bible – the <em>Torah</em> or <em>Pentateuch</em> – are traditionally ascribed to Moses. Some pamphlets were printed in German in the 18th century containing magical spells and incantations whose origins were said to be Mosaic. The pamphlets were later combined into book form.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8493574/James-joyce-ulysses-chap-10-wandering-rocks/Eighth-and-ninth-book-of-moses",
+    "original_id": "8493574",
+    "referent_id": 8493574,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Eighth and ninth book of Moses.",
+    "prefix": " palmam ferenti. \n\n1922#232\n\n Father Conmee, having read his little hours, walked through the hamlet of Donnycarney, murmuring vespers. \n\n Binding too good probably. What is this? ",
+    "suffix": " Secret of all secrets. Seal of King David. Thumbed pages: read and read. Who has passed here before me? How to soften chapped hands. Recipe for white wine vinegar. How to win a wo",
+    "start": 48794,
+    "end": 48825,
+    "canonical_text": "Eighth and ninth book of Moses."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8493574,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

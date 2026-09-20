@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15764690",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "The man in the brown macintosh",
+  "html_source": "<p>A mystery.  Possibly James Duffy who loved Emily Sinico.  Perhaps Joyce who loved his mother?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15764690/James-joyce-ulysses-chap-12-cyclops/The-man-in-the-brown-macintosh",
+    "original_id": "15764690",
+    "referent_id": 15764690,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "The man in the brown macintosh",
+    "prefix": "eman. Li Chi Han lovey up kissy Cha Pu Chow. Jumbo, the elephant, loves Alice, the elephant. Old Mr Verschoyle with the ear trumpet loves old Mrs Verschoyle with the turnedin eye. ",
+    "suffix": " loves a lady who is dead. His Majesty the King loves Her Majesty the Queen. Mrs Norman W. Tupper loves officer Taylor. You love a certain person. And this person loves that other ",
+    "start": 95890,
+    "end": 95920,
+    "canonical_text": "The man in the brown macintosh"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15764690,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 7060080,
+        "login": "keithalt",
+        "name": "keithalt",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

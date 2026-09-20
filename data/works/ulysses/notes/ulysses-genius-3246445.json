@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3246445",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Red",
+  "html_source": "<p><a href=\"http://charlespeakeulyssesseminar.wordpress.com/2013/12/05/notes-and-queries-from-andrew-gibson-7-1-48/\" rel=\"noopener nofollow\">Joyce’s uncle</a>.</p><p>Ellman (page 19 <em>James Joyce, Richard Ellman, Oxford Lives</em>) states Joyce’s paternal uncle was known as <em>Red</em> and worked at The Freeman Journal.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3246445/James-joyce-ulysses-chap-7-aeolus/Red",
+    "original_id": "3246445",
+    "referent_id": 3246445,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Red",
+    "prefix": "f Prince's stores and bumped them up on the brewery float. On the brewery float bumped dullthudding barrels rolled by grossbooted draymen out of Prince's stores. \n\n — There it is, ",
+    "suffix": " Murray said. Alexander Keyes. \n\n1922#112\n\n — Just cut it out, will you? Mr Bloom said, and I'll take it round to the Telegraph office. \n\n1932#104\n\n The door of Ruttledge's office ",
+    "start": 1239,
+    "end": 1242,
+    "canonical_text": "Red"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9439
+  },
+  "genius": {
+    "referent_id": 3246445,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

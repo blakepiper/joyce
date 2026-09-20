@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-38565193",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Hornblower",
+  "html_source": "<p>The porter at the south (Lincoln Place) gate of Trinity College. (Gifford, 5.555)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/38565193/James-joyce-ulysses-chap-5-lotus-eaters/Hornblower",
+    "original_id": "38565193",
+    "referent_id": 38565193,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Hornblower",
+    "prefix": " a pot. Damn bad ad. Now if they had made it round like a wheel. Then the spokes: sports, sports, sports: and the hub big: college. Something to catch the eye. \n\n1932#76\n\n There's ",
+    "suffix": " standing at the porter's lodge. Keep him on hands: might take a turn in there on the nod. How do you do, Mr Hornblower? How do you do, sir? \n\n1986#70\n\n Heavenly weather really. If",
+    "start": 35196,
+    "end": 35206,
+    "canonical_text": "Hornblower"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9652
+  },
+  "genius": {
+    "referent_id": 38565193,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 23750768,
+        "login": "MardouFox",
+        "name": "MardouFox",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

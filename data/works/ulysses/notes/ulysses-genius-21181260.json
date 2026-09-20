@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21181260",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Here I watched the birds for augury",
+  "html_source": "<p>In Portrait of the Artist as a Young Man, Stephen stands on the steps of the National Library and observes passing birds in a beautiful passage that begins:</p><p>What birds were they? He stood on the steps of the library to look at them, leaning wearily on his ashplant. They flew round and round the jutting shoulder of a house in Molesworth Street. The air of the late March evening made clear their flight, their dark darting quivering bodies flying clearly against the sky as against a limp-hung cloth of smoky tenuous blue.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21181260/James-joyce-ulysses-chap-9-scylla-and-charybdis/Here-i-watched-the-birds-for-augury",
+    "original_id": "21181260",
+    "referent_id": 21181260,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Here I watched the birds for augury",
+    "prefix": "\n My will: his will that fronts me. Seas between. \n\n1932#1951986#178\n\n A man passed out between them, bowing, greeting. \n\n — Good day again, Buck Mulligan said. \n\n The portico. \n\n ",
+    "suffix": ". Ængus of the birds. They go, they come. Last night I flew. Easily flew. Men wondered. Street of harlots after. A creamfruit melon he held to me. In. You will see. \n\n — The wander",
+    "start": 68670,
+    "end": 68705,
+    "canonical_text": "Here I watched the birds for augury"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21181260,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

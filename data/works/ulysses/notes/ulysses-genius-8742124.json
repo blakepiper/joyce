@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8742124",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "M’Auley’s",
+  "html_source": "<p>Grocer &amp; Wine Merchant.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8742124/James-joyce-ulysses-chap-4-calypso/Mauleys",
+    "original_id": "8742124",
+    "referent_id": 8742124,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "M'Auley's",
+    "prefix": "by gush of porter. Through the open doorway the bar squirted out whiffs of ginger, teadust, biscuitmush.1961#57 Good house, however: just the end of the city traffic. For instance ",
+    "suffix": " down there: n. g. as position. Of course if they ran a tramline along the North Circular from the cattlemarket to the quays value would go up like a shot. \n\n Baldhead over the bli",
+    "start": 7055,
+    "end": 7064,
+    "canonical_text": "M'Auley's"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8742124,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9090176",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "In the porch of Four Courts Richie Goulding with the costbag of Goulding, Collis and Ward saw him with surprise.",
+  "html_source": "<p>From Section 9: “Lawyers of the past, haughty, pleading, beheld pass from the consolidated taxing office to Nisi Prius court Richie Goulding carrying the costbag of Goulding, Collis and Ward and heard rustling from the admiralty division of king’s bench to the court of appeal an elderly female with false teeth smiling incredulously and a black silk skirt of great amplitude.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9090176/James-joyce-ulysses-chap-10-wandering-rocks/In-the-porch-of-four-courts-richie-goulding-with-the-costbag-of-goulding-collis-and-ward-saw-him-with-surprise",
+    "original_id": "9090176",
+    "referent_id": 9090176,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "In the porch of Four Courts Richie Goulding with the costbag of Goulding, Collis and Ward saw him with surprise.",
+    "prefix": "ided whether he should arrive at Phibsborough more quickly by a triple change of tram or by hailing a car or on foot through Smithfield, Constitution hill and Broadstone terminus. ",
+    "suffix": " Past Richmond bridge at the doorstep of the office of Reuben J Dodd, solicitor, agent for the Patriotic Insurance Company, an elderly female about to enter changed her plan and re",
+    "start": 68898,
+    "end": 69011,
+    "canonical_text": "In the porch of Four Courts Richie Goulding with the costsbag of Goulding, Collis and Ward saw him with surprise."
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9956
+  },
+  "genius": {
+    "referent_id": 9090176,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083675,
+        "login": "brnmzsk",
+        "name": "brnmzsk",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

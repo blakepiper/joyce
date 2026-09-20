@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15169046",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Inanition",
+  "html_source": "<p>Exhaustion brought about by lack of nourishment. From Latin inanire ‘make empty,’ from inanis ‘empty, vain' (cf. inane).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15169046/James-joyce-ulysses-chap-17-ithaca/Inanition",
+    "original_id": "15169046",
+    "referent_id": 15169046,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "inanition",
+    "prefix": "n the reign of Cormac MacArt († 266 A.D.), suffocated by imperfect deglutition of aliment at Sletty and 1939#468interred at Rossnaree. The collapse which Bloom ascribed to gastric ",
+    "suffix": " and certain chemical compounds of varying degrees of adulteration and alcoholic strength, accelerated by mental exertion and the velocity of rapid circular motion in a relaxing at",
+    "start": 2561,
+    "end": 2570,
+    "canonical_text": "inanition"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15169046,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

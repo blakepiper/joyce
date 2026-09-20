@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4699071",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Noserag",
+  "html_source": "<p>English/Irish slang for a handkerchief.</p><p><img src=\"https://images.rapgenius.com/3ea5aa49d256124e521865d79652910b.450x299x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4699071/James-joyce-ulysses-chap-1-telemachus/Noserag",
+    "original_id": "4699071",
+    "referent_id": 4699071,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "noserag",
+    "prefix": "rouser pockets hastily. \n\n1922#4\n\n — Scutter! he cried thickly. \n\n He came over to the gunrest and, thrusting a hand into Stephen's upper pocket, said: \n\n — Lend us a loan of your ",
+    "suffix": " to wipe my razor. \n\n1932#4\n\n Stephen suffered him to pull out and hold up on show by its corner a dirty crumpled handkerchief. Buck Mulligan wiped the razorblade neatly. Then, gaz",
+    "start": 3967,
+    "end": 3974,
+    "canonical_text": "noserag"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9632
+  },
+  "genius": {
+    "referent_id": 4699071,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1434474,
+        "login": "BartholomewJamesHeeren",
+        "name": "BartholomewJamesHeeren",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

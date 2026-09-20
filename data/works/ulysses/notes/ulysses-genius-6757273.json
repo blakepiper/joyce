@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-6757273",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Will you ever forget his goggle eye?",
+  "html_source": "<p>Referring to how he ogled at her.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6757273/James-joyce-ulysses-chap-11-sirens/Will-you-ever-forget-his-goggle-eye",
+    "original_id": "6757273",
+    "referent_id": 6757273,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Will you ever forget his goggle eye?",
+    "prefix": "laughter sprang from Miss Kennedy's throat. Miss Douce huffed and snorted down her nostrils that quivered imperthnthn like a snout in quest. \n\n — O! shrieking, Miss Kennedy cried. ",
+    "suffix": " \n\n Miss Douce chimed in in deep bronze laughter, shouting: \n\n — And your other eye! \n\n Bloowhose dark eye read Aaron Figatner's name. Why do I always think Figather? Gathering fig",
+    "start": 6695,
+    "end": 6731,
+    "canonical_text": "Will you ever forget his goggle eye?"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6757273,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1618748,
+        "login": "Kataryna",
+        "name": "Kataryna",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

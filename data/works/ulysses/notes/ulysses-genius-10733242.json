@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10733242",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Physical Strength and How To Obtain It",
+  "html_source": "<p><a href=\"https://www.amazon.com/Strength-How-Obtain-Eugen-Sandow/dp/147510569X\" rel=\"noopener nofollow\">https://www.amazon.com/Strength-How-Obtain-Eugen-Sandow/dp/147510569X</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10733242/James-joyce-ulysses-chap-17-ithaca/Physical-strength-and-how-to-obtain-it",
+    "original_id": "10733242",
+    "referent_id": 10733242,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Physical Strength and How To Obtain It",
+    "prefix": "ences divulged to a younger companion rendered the more desirable? \n\n The indoor exercises, formerly intermittently practised, subsequently abandoned, prescribed in Eugen Sandow's ",
+    "suffix": " which, designed particularly for commercial men engaged in sedentary occupations, were to be made with mental concentration in front of a mirror so as to bring into play the vario",
+    "start": 33566,
+    "end": 33604,
+    "canonical_text": "Physical Strength and How to Obtain It"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 10733242,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

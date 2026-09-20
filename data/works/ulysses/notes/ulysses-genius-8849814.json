@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8849814",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Marcato",
+  "html_source": "<p>Marcato is defined as music played with each note emphasized.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8849814/James-joyce-ulysses-chap-9-scylla-and-charybdis/Marcato",
+    "original_id": "8849814",
+    "referent_id": 8849814,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "marcato",
+    "prefix": "nal immorality in three orgasms) \nby\nBallocky Mulligan \n\n1961#216\n\n He turned a happy patch's smirk to Stephen, saying: \n\n — The disguise, I fear, is thin. But listen. \n\n He read, ",
+    "suffix": ": \n\n — Characters: \n\nTOBY TOSTOFF (a ruined Pole). \nCRAB (a bushranger).\nMEDICAL DICK      )\n         and                ) (two birds with one stone)\nMEDICAL DAVY     )\nMOTHER GROG",
+    "start": 67589,
+    "end": 67596,
+    "canonical_text": "marcato"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8849814,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

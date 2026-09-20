@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4377482",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Signs on you, hairy arse.",
+  "html_source": "<p>I.e., “[Bad] signs on you”. The closest expression in contemporary English would probably be “Screw you!”. “Hairy arse” requires less explication.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4377482/James-joyce-ulysses-chap-15-circe/Signs-on-you-hairy-arse",
+    "original_id": "4377482",
+    "referent_id": 4377482,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Signs on you, hairy arse.",
+    "prefix": "eir oxters, as they march unsteadily rightaboutface and burst together from their mouths a volleyed fart. Laughter of men from the lane. A hoarse virago retorts.) \n\n THE VIRAGO \n\n ",
+    "suffix": " More power the Cavan girl. \n\n CISSY CAFFREY \n\n More luck to me. Cavan, Cootehill and Belturbet. (She sings.) \n\n1922#409\n\nI gave it to Nelly \nTo stick in her belly, \nThe leg of the",
+    "start": 2536,
+    "end": 2561,
+    "canonical_text": "Signs on you, hairy arse."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4377482,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

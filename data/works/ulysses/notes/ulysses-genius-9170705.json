@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9170705",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Bulls of Bashan",
+  "html_source": "<p>New American Standard Bible<br />Psalm 22:11-12<br />Be not far from me, for trouble is near; For there is none to help.<br />Many bulls have surrounded me; Strong bulls of Bashan have encircled me.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9170705/James-joyce-ulysses-chap-14-oxen-of-the-sun/Bulls-of-bashan",
+    "original_id": "9170705",
+    "referent_id": 9170705,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "bulls of Bashan",
+    "prefix": "under of rebellion, the ghosts of beasts. Huuh! Hark! Huuh! Parallax stalks behind and goads them, the lancinating lightnings of whose brow 1932#374are scorpions. Elk and yak, the ",
+    "suffix": " and of Babylon, mammoth and mastodon, they come trooping to the sunken sea, Lacus Mortis. Ominous revengeful zodiacal host! They moan, passing upon the clouds, horned and capricor",
+    "start": 79013,
+    "end": 79028,
+    "canonical_text": "bulls of Bashan"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9170705,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

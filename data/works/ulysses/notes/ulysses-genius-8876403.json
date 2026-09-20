@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8876403",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Mélange",
+  "html_source": "<p>Wiener melange is a coffee drink, made popular in Viennese coffee houses, that primarily consists of coffee and milk, usually milk foam. This is similar to Italian cappuccino, though a milder coffee is often used for the Viennese version, which is also frequently served with a glass of water to drink along with the coffee.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8876403/James-joyce-ulysses-chap-10-wandering-rocks/Melange",
+    "original_id": "8876403",
+    "referent_id": 8876403,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "mélange",
+    "prefix": " his forehead whereat it rested. \n\n An instant after, under its screen, his eyes looked quickly, ghostbright, at his foe and fell once more upon a working corner. \n\n — I'll take a ",
+    "suffix": ", Haines said to the waitress. \n\n — Two mélanges, Buck Mulligan said. And bring us some scones and butter and some cakes as well. \n\n When she had gone he said, laughing: \n\n — We ca",
+    "start": 60478,
+    "end": 60485,
+    "canonical_text": "mélange"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 8876403,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

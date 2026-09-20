@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15165431",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Tanner touch",
+  "html_source": "<p>It cost a sixpence; <a href=\"https://en.wiktionary.org/wiki/tanner#Noun_2\" rel=\"noopener nofollow\">tanner</a> is a term for a sixpence, probably named for the coin designer</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15165431/James-joyce-ulysses-chap-16-eumaeus/Tanner-touch",
+    "original_id": "15165431",
+    "referent_id": 15165431,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "tanner touch",
+    "prefix": "omething to do with Stephen being fired out of his digs for bringing in a bloody tart off the street. There was a dosshouse in Marlborough street, Mrs Maloney's, but it was only a ",
+    "suffix": " and full of undesirables but M'Conachie told him you got a decent enough do in the Brazen Head over in Winetavern 1986#504street (which was distantly suggestive to the person addr",
+    "start": 11685,
+    "end": 11697,
+    "canonical_text": "tanner touch"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15165431,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

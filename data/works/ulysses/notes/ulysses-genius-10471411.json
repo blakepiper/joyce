@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10471411",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "G Division",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/G_Division\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/G_Division</a><br />G (detective) Division was a plainclothes divisional office of the Dublin Metropolitan Police concerned with detective police work.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10471411/James-joyce-ulysses-chap-16-eumaeus/G-division",
+    "original_id": "10471411",
+    "referent_id": 10471411,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "G Division",
+    "prefix": "cognised Corley's breath redolent of rotten cornjuice. Lord John Corley some called him and his genealogy came about in this wise. He was the eldest son of Inspector Corley of the ",
+    "suffix": ", lately deceased, who had married a certain Katherine Brophy, the daughter of a Louth farmer. His grandfather Patrick Michael Corley of New Ross had married the widow of a publica",
+    "start": 9385,
+    "end": 9395,
+    "canonical_text": "G division"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 10471411,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

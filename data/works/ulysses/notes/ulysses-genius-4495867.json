@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4495867",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "A cloud began to cover the sun slowly, wholly, shadowing the bay in deeper green",
+  "html_source": "<p>The waters of Dublin bay are literally green.</p><p><img src=\"https://images.rapgenius.com/ca4b5326c6e5e4792276c7b0ec312356.800x320x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4495867/James-joyce-ulysses-chap-1-telemachus/A-cloud-began-to-cover-the-sun-slowly-wholly-shadowing-the-bay-in-deeper-green",
+    "original_id": "4495867",
+    "referent_id": 4495867,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "A cloud began to cover the sun slowly, wholly, shadowing the bay in deeper green",
+    "prefix": " White breast of the dim sea. The twining stresses, two by two. A hand plucking the harpstrings merging their twining chords. Wavewhite wedded words shimmering on the dim tide. \n\n ",
+    "suffix": " It lay behind him, a bowl of bitter waters. Fergus' song: I sang it alone in the house, holding down the long dark chords. Her door was open: she wanted to hear my music. Silent w",
+    "start": 14349,
+    "end": 14422,
+    "canonical_text": "A cloud began to cover the sun slowly, shadowing the bay in deeper green."
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9412
+  },
+  "genius": {
+    "referent_id": 4495867,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.9565217391304348
+      },
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.043478260869565216
+      }
+    ]
+  },
+  "color": "F59627"
+}

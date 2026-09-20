@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1819545",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Epi oinopa ponton",
+  "html_source": "<p>Greek for “over the winedark sea” from Homer’s <em>The Odyssey</em>.</p><p><img src=\"https://images.genius.com/0d6afdcfaef75b622b9f6e6658831fea.1000x625x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1819545/James-joyce-ulysses-chap-1-telemachus/Epi-oinopa-ponton",
+    "original_id": "1819545",
+    "referent_id": 1819545,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Epi oinopa ponton",
+    "prefix": "blin bay, his fair oakpale hair stirring slightly. \n\n — God! he said quietly. Isn't the sea what Algy calls it: a great sweet mother? The snotgreen sea. The scrotumtightening sea. ",
+    "suffix": ". Ah, Dedalus, the Greeks! I must teach you. You must read them in the1986#4 original. Thalatta! Thalatta! She is our great sweet mother. Come and look. \n\n Stephen stood up and wen",
+    "start": 4544,
+    "end": 4561,
+    "canonical_text": "Epi oinopa ponton"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1819545,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 176532,
+        "login": "biblicalmike",
+        "name": "Michael Bible",
+        "role": "verified_artist",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

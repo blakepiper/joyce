@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15154074",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Homer",
+  "html_source": "<p>A <a href=\"https://www.biblestudytools.com/dictionary/homer/\" rel=\"noopener nofollow\">homer</a> is a Hebrew unit of measure equal to 8 (possibly 11?) bushels.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15154074/James-joyce-ulysses-chap-14-oxen-of-the-sun/Homer",
+    "original_id": "15154074",
+    "referent_id": 15154074,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "homer",
+    "prefix": "es, Theodore. Art drooping under thy load, bemoiled with butcher's bills at home and ingots (not thine!) in the countinghouse? Head up! For every newbegotten thou shalt gather thy ",
+    "suffix": " of ripe wheat. See, thy fleece is drenched. Dost envy Darby Dullman there with his Joan? A canting jay and a rheumeyed curdog is all their progeny. Pshaw, I tell thee! He is a mul",
+    "start": 103006,
+    "end": 103011,
+    "canonical_text": "homer"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15154074,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

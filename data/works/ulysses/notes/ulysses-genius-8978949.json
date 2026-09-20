@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8978949",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Tabard",
+  "html_source": "<p>noun<br />historical<br />a coarse sleeveless garment worn as the outer dress of medieval peasants and clerics, or worn as a surcoat over armor.</p><p><img src=\"https://images.rapgenius.com/320b0c39bd5379bb028ed139005f2e7d.300x300x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8978949/James-joyce-ulysses-chap-12-cyclops/Tabard",
+    "original_id": "8978949",
+    "referent_id": 8978949,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "tabard",
+    "prefix": "r of the party. Saucy knave! To us! \n\n So saying he knocked loudly with his swordhilt upon the open lattice. \n\n1986#275\n\n Mine host came forth at the summons, girding him with his ",
+    "suffix": ". \n\n — Give you good den, my masters, said he with an obsequious bow. \n\n — Bestir thyself, sirrah! cried he who had knocked. Look to our steeds. And for ourselves give us of your b",
+    "start": 102381,
+    "end": 102387,
+    "canonical_text": "tabard"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8978949,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

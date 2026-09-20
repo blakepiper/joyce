@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-26542915",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "—We’ll be choked, Buck Mulligan said. Haines, open that door, will you?",
+  "html_source": "<p>Though the fireplace Mulligan cooks over vents to the outside, and there are two narrow open slits in the wall (which the narrator calls “barbacans”, originally designed for shooting muskets through), there is clearly very little ventilation in the tiny tower. Mulligan’s greasy fried eggs over coal fire quickly fill the chamber with smoke, requiring opening the heavy iron door to the outside.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/26542915/James-joyce-ulysses-chap-1-telemachus/Well-be-choked-buck-mulligan-said-haines-open-that-door-will-you",
+    "original_id": "26542915",
+    "referent_id": 26542915,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "—We'll be choked, Buck Mulligan said. Haines, open that door, will you?",
+    "prefix": "afts of soft daylight fell across the flagged floor from the high barbacans: and at the meeting of their rays a cloud of coalsmoke and fumes of fried grease floated, turning. \n\n — ",
+    "suffix": " \n\n Stephen laid the shavingbowl on the locker. A tall figure rose from the hammock where it had been sitting, went to the doorway and pulled open the inner doors. \n\n — Have you th",
+    "start": 18216,
+    "end": 18286,
+    "canonical_text": "We'll be choked, Buck Mulligan said. Haines, open that door, will you?"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 26542915,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 8067236,
+        "login": "AndyVineborg",
+        "name": "AndyVineborg",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

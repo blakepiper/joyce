@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-1878061",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "The summer evening had begun to fold the world in its mysterious embrace.",
+  "html_source": "<p>The opening sentence of each chapter of Ulysses is notable for setting the tone for the scene – the initial ‘Stately, plump Buck Mulligan…’ is at once a comically over-written sentence that nicely introduces the stately, plump text of the Telemachus chapter. In this introduction, we are likely introduced to the tone of the chapter – idealised, mythologised romanticism as the sun sets, an aubade that punctures its own flighty ideals.</p><p>PROPOSED SUGGESTION: This metaphor for a sunset is also a throwback to the signature lines used by Homer in his poems to introduce the beginning or end of the day.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1878061/James-joyce-ulysses-chap-13-nausicaa/The-summer-evening-had-begun-to-fold-the-world-in-its-mysterious-embrace",
+    "original_id": "1878061",
+    "referent_id": 1878061,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "The summer evening had begun to fold the world in its mysterious embrace.",
+    "prefix": "\n\n[13]\n\n\n\n",
+    "suffix": " Far away in the west the sun was setting and the last glow of all too fleeting day lingered lovingly on sea and strand, on the proud promontory of dear old Howth guarding as ever ",
+    "start": 10,
+    "end": 83,
+    "canonical_text": "The summer evening had begun to fold the world in its mysterious embrace."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1878061,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 211351,
+        "login": "prepski",
+        "name": "prepski",
+        "role": "contributor",
+        "attribution": 0.6666666666666667
+      },
+      {
+        "id": 1584262,
+        "login": "MilTonicNgin",
+        "name": "MilTonicNgin",
+        "role": null,
+        "attribution": 0.3142857142857143
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.019047619047619046
+      }
+    ]
+  },
+  "color": "F59627"
+}

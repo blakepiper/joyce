@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8494759",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "As",
+  "html_source": "<p>Episode 16 begins.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8494759/James-joyce-ulysses-chap-10-wandering-rocks/As",
+    "original_id": "8494759",
+    "referent_id": 8494759,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "As",
+    "prefix": "Martin Cunningham asked, as they went on up the staircase. \n\n — The lord lieutenantgeneral and general governor of Ireland, John Wyse Nolan answered from the stairfoot. \n\n*\n*  *\n\n ",
+    "suffix": " they trod across the thick carpet Buck Mulligan whispered behind his Panama to Haines: \n\n — Parnell's brother. There in the corner. \n\n They chose a small table near the window, op",
+    "start": 59800,
+    "end": 59802,
+    "canonical_text": "As"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9545
+  },
+  "genius": {
+    "referent_id": 8494759,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

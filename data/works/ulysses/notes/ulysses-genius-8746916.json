@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8746916",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Tara street",
+  "html_source": "<p>Public baths, wash houses.</p><p><img src=\"https://images.rapgenius.com/243215169f53a8eebe61bbbc623f45fa.1000x619x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8746916/James-joyce-ulysses-chap-4-calypso/Tara-street",
+    "original_id": "8746916",
+    "referent_id": 8746916,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Tara street",
+    "prefix": "s shopbell ringing. Queer I was just thinking that moment. Brown brillantined hair over his collar. Just had a wash and brushup. Wonder have I time for a bath this 1939#52morning. ",
+    "suffix": ". Chap in the paybox there got away James Stephens, they say. O'Brien. \n\n Deep voice that fellow Dlugacz has. Agenda what is it? Now, my miss. Enthusiast. \n\n He kicked open the cra",
+    "start": 30122,
+    "end": 30133,
+    "canonical_text": "Tara street"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8746916,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

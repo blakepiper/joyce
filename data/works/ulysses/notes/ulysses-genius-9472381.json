@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9472381",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Slan leath",
+  "html_source": "<p><a href=\"https://www.youtube.com/watch?v=z3uegaqGmgU\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=z3uegaqGmgU</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9472381/James-joyce-ulysses-chap-15-circe/Slan-leath",
+    "original_id": "9472381",
+    "referent_id": 9472381,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Slan leath",
+    "prefix": " eye.) \n\n BLOOM \n\nBueñas noches, señorita Blanca, que calle es esta? \n\n THE FIGURE \n\n (Impassive, raises a signal arm.) Password. Sraid Mabbot. \n\n BLOOM \n\n Haha. Merci. Esperanto. ",
+    "suffix": ". (He mutters.) Gaelic league spy, sent by that fireeater. \n\n(He steps forward. A sackshouldered ragman bars his path. He steps left, ragsackman left.) \n\n BLOOM \n\n I beg. \n\n (He sw",
+    "start": 10595,
+    "end": 10605,
+    "canonical_text": "Slan leath"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9472381,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

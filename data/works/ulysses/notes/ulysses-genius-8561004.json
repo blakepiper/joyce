@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8561004",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Jivic",
+  "html_source": "<p>The jiva is the life energy, the vital principle of the individual soul. <em>Don Gordon, Ulysses Annotated</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8561004/James-joyce-ulysses-chap-12-cyclops/Jivic",
+    "original_id": "8561004",
+    "referent_id": 8561004,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "jivic",
+    "prefix": "proper quarter a faint but increasing luminosity of ruby light became gradually visible, the apparition of the etheric double being particularly lifelike owing to the discharge of ",
+    "suffix": " rays from the crown of the head and face. Communication was effected through the pituitary body and also by means of the orangefiery and scarlet rays emanating from the sacral reg",
+    "start": 21300,
+    "end": 21305,
+    "canonical_text": "jivic"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8561004,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8577313",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Ireland sober is Ireland free",
+  "html_source": "<p>Probably more mockery here, but there is no doubt Joyce deplored the effect drunkenness had on the decline of Ireland, a major reason, likely, for his self-imposed exile from the Island.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8577313/James-joyce-ulysses-chap-12-cyclops/Ireland-sober-is-ireland-free",
+    "original_id": "8577313",
+    "referent_id": 8577313,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Ireland sober is Ireland free",
+    "prefix": "d a lot of colleen bawns going about with temperance beverages and selling medals and oranges and lemonade and a few old dry buns, gob, flahoolagh entertainment, don't be talking. ",
+    "suffix": ". And then an old fellow starts blowing into his bagpipes and all the gougers shuffling their feet to the tune the old cow died of. And one or two sky pilots having an eye around t",
+    "start": 44998,
+    "end": 45027,
+    "canonical_text": "Ireland sober is Ireland free"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8577313,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

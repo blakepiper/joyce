@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8732338",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Ti trema un poco il cuore?",
+  "html_source": "<p>“Does your heart beat a little faster?” from Mozart’s <em>Don Giovanni</em>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8732338/James-joyce-ulysses-chap-15-circe/Ti-trema-un-poco-il-cuore",
+    "original_id": "8732338",
+    "referent_id": 8732338,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Ti trema un poco il cuore?",
+    "prefix": "\n SWENY \n\n Three and a penny, please. \n\n1932#3961961#440\n\n BLOOM \n\n Yes. For my wife. Mrs Marion. Special recipe. \n\n MARION \n\n(Softly.) Poldy! \n\n BLOOM \n\n Yes, ma'am? \n\n MARION \n\n ",
+    "suffix": " \n\n(In disdain she saunters away, plump as a pampered pouter pigeon, humming the duet from Don Giovanni.) \n\n BLOOM \n\n Are you sure about that voglio? I mean the pronunciati... \n\n(H",
+    "start": 16558,
+    "end": 16584,
+    "canonical_text": "Ti trema un poco il cuore?"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8732338,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

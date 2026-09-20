@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4632978",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "The water flowed full",
+  "html_source": "<p>The tide continues to rise,</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4632978/James-joyce-ulysses-chap-3-proteus/The-water-flowed-full",
+    "original_id": "4632978",
+    "referent_id": 4632978,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "the water flowed full",
+    "prefix": ": Wilde's love that dare not speak its name. His arm: Cranly's arm. He now will leave me. And the blame? As I am. As I am. All or not at all. \n\n In long lassoes from the Cock lake ",
+    "suffix": ", covering greengoldenly lagoons of sand, rising, flowing. My ashplant will float away. I shall wait. No, they will pass on, passing, chafing against the low rocks, swirling, passi",
+    "start": 29510,
+    "end": 29531,
+    "canonical_text": "the water flowed full"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4632978,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

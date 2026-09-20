@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15149347",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Chaldee",
+  "html_source": "<p>Chaldea was a Mesopotamian nation that existed from around 900-600 BCE and was assimilated into Babylonian. It’s place and time being both around advent and spread of agriculture and breadmaking may warrant its mention here.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15149347/James-joyce-ulysses-chap-14-oxen-of-the-sun/Chaldee",
+    "original_id": "15149347",
+    "referent_id": 15149347,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Chaldee",
+    "prefix": "the fatness that therein is like to the juices of the olivepress. And also it was a marvel to see in that castle how by magic they make a compost out of fecund wheatkidneys out of ",
+    "suffix": " that by aid of certain angry spirits that they do into it swells up wondrously like to a vast mountain. And they teach the serpents there to entwine themselves up on long sticks o",
+    "start": 10805,
+    "end": 10812,
+    "canonical_text": "Chaldee"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15149347,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

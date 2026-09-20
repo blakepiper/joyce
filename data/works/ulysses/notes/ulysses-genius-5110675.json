@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5110675",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Job seems to suit them",
+  "html_source": "<p>The job of laying out the corpse is traditionally a woman’s job.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5110675/James-joyce-ulysses-chap-6-hades/Job-seems-to-suit-them",
+    "original_id": "5110675",
+    "referent_id": 5110675,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Job seems to suit them",
+    "prefix": "Nose whiteflattened against the pane. Thanking her stars she was passed over. Extraordinary the interest they take in a corpse. Glad to see us go we give them such trouble coming. ",
+    "suffix": ". Huggermugger in corners. Slop about in slipperslappers for fear he'd wake. Then getting it ready. Laying it out. Molly and Mrs Fleming making the bed. Pull it more to your side. ",
+    "start": 848,
+    "end": 870,
+    "canonical_text": "Job seems to suit them"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5110675,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

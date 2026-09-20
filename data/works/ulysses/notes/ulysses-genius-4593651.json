@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4593651",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Gumley",
+  "html_source": "<p><a href=\"https://genius.com/4593465\" rel=\"noopener nofollow\">We first hear of Gumley in Chapter 7 “Aeolus” and there is a more detailed note on that page.</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4593651/James-joyce-ulysses-chap-12-cyclops/Gumley",
+    "original_id": "4593651",
+    "referent_id": 4593651,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Gumley",
+    "prefix": " a squad of kids and, faith, he'll dissolve in tears on the bench. \n\n — Ay, says Alf. Reuben J. was bloody lucky he didn't clap him in the dock the other day for suing poor little ",
+    "suffix": " that's minding stones, for the corporation there near Butt bridge. \n\n And he starts taking off the old recorder letting on to cry: \n\n — A most scandalous thing! This poor hardwork",
+    "start": 70504,
+    "end": 70510,
+    "canonical_text": "Gumley"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4593651,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

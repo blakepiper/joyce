@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9136192",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Carry coals to Newcastle",
+  "html_source": "<p>Selling, carrying, bringing, or taking coal(s) to Newcastle is an idiom of British origin describing a foolhardy or pointless action. It refers to the fact that historically, the economy of Newcastle upon Tyne in north-eastern England was heavily dependent on the distribution and sale of coal—by the time of the first known recording of the phrase in 1538<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9136192/James-joyce-ulysses-chap-14-oxen-of-the-sun/Carry-coals-to-newcastle",
+    "original_id": "9136192",
+    "referent_id": 9136192,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "carry coals to Newcastle",
+    "prefix": "while was very favourably entertained by his auditors and won hearty eulogies from all though Mr Dixon of Mary's excepted to it, asking with a finicking air did he purpose also to ",
+    "suffix": ". Mr Mulligan however 1932#364made court to the scholarly by an apt quotation from the classics which, as it dwelt upon his memory, seemed to him a sound and tasteful support of hi",
+    "start": 50689,
+    "end": 50713,
+    "canonical_text": "carry coals to Newcastle"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9136192,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23115038",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "But oblige me by taking away that knife. I can’t look at the point of it. It reminds me of Roman history.",
+  "html_source": "<p>According to the Joyce Project, likely a reference to the assassination of Julius Caesar by stabbing.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23115038/James-joyce-ulysses-chap-16-eumaeus/But-oblige-me-by-taking-away-that-knife-i-cant-look-at-the-point-of-it-it-reminds-me-of-roman-history",
+    "original_id": "23115038",
+    "referent_id": 23115038,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "But oblige me by taking away that knife. I can't look at the point of it. It reminds me of Roman history.",
+    "prefix": "s the sine qua non for any kind of proper work, mental or manual. You ought to eat more solid food. You would feel a different man. \n\n1939#446\n\n — Liquids I can eat, Stephen said. ",
+    "suffix": " \n\n Mr Bloom promptly did as suggested and removed the incriminated article, a blunt hornhandled ordinary knife with nothing particularly Roman or antique about it to the lay eye, ",
+    "start": 54927,
+    "end": 55032,
+    "canonical_text": "But oblige me by taking away that knife. I can't look at the point of it. It reminds me of Roman history."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23115038,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

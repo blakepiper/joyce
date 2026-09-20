@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15064000",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "The recumbent constellation",
+  "html_source": "<p>Cassiopeia is a W-shaped constellation which might also appear to be a recumbent capital sigma. For further speculation, see this <a href=\"http://www.abuildingroam.com/2013/03/cassiopeia-and-tychos-star-in-ulysses.html\" rel=\"noopener nofollow\">post</a>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15064000/James-joyce-ulysses-chap-9-scylla-and-charybdis/The-recumbent-constellation",
+    "original_id": "15064000",
+    "referent_id": 15064000,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "the recumbent constellation",
+    "prefix": " A star, a daystar, a firedrake, rose at his birth. It shone by day in the heavens alone, brighter than Venus in the night, and by night it shone 1932#188over delta in Cassiopeia, ",
+    "suffix": " which is the signature of his initial among the stars. His eyes watched it, lowlying on the horizon, eastward of the bear, as he walked by the slumberous summer fields at midnight",
+    "start": 53756,
+    "end": 53783,
+    "canonical_text": "the recumbent constellation"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15064000,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

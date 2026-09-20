@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9252903",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Are you coming, you fellows?",
+  "html_source": "<p>If you can get hold of a good audiobook version of <em>Ulysses</em>—there are several, but they’re usually pretty expensive—you can hear more starkly the differences between English Haines and Irish Mulligan and Stephen. <a href=\"http://www.audible.co.uk/pd/Classics/Ulysses-Audiobook/B004FTX5ZY?ref_=audlib-pd-LIBRARY-grid\" rel=\"noopener nofollow\">Jim Norton’s rendering</a> is very good: in this bit of dialogue Haines’s “Oxford manner” is particularly noticeable, with plummy accent and diction.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9252903/James-joyce-ulysses-chap-1-telemachus/Are-you-coming-you-fellows",
+    "original_id": "9252903",
+    "referent_id": 9252903,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Are you coming, you fellows?",
+    "prefix": " black missile flew out of his talking hands. \n\n — And there's your Latin quarter hat, he said. \n\n Stephen picked it up and put it on. Haines called to them from the doorway: \n\n — ",
+    "suffix": " \n\n1986#14\n\n — I'm ready, Buck Mulligan answered, going towards the door. Come out, Kinch. You have eaten all we left, I suppose. Resigned he passed out with grave words and gait, ",
+    "start": 29310,
+    "end": 29338,
+    "canonical_text": "Are you coming, you fellows?"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9252903,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

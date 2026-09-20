@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8342423",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Nosey Flynn",
+  "html_source": "<p>Previously met in Davy Byrne’s pub where Bloom is having lunch, in the Lestrygonians episode.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8342423/James-joyce-ulysses-chap-10-wandering-rocks/Nosey-flynn",
+    "original_id": "8342423",
+    "referent_id": 8342423,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Nosey Flynn",
+    "prefix": "? he said. See now the last one I put in is over here: Turns Over. The impact. Leverage, see? \n\n He showed them the rising column of disks on the right. \n\n1932#208\n\n — Smart idea, ",
+    "suffix": " said, snuffling. So a fellow coming in late can see what turn is on and what turns are over. \n\n — See? Tom Rochford said. \n\n He slid in a disk for himself: and watched it shoot, w",
+    "start": 27337,
+    "end": 27348,
+    "canonical_text": "Nosey Flynn"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9435
+  },
+  "genius": {
+    "referent_id": 8342423,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2568065,
+        "login": "GeoffBobker",
+        "name": "GeoffBobker",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

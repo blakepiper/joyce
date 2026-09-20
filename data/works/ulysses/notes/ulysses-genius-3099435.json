@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-3099435",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Cathedral close",
+  "html_source": "<p>Marsh’s library is in <a href=\"http://www.stpatrickscathedral.ie/index.aspx\" rel=\"noopener nofollow\">St. Patrick’s Close</a>.</p><p><img src=\"https://images.rapgenius.com/fcd0ebef8e354ed113cb5debb55ab9fb.550x366x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3099435/James-joyce-ulysses-chap-3-proteus/Cathedral-close",
+    "original_id": "3099435",
+    "referent_id": 3099435,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "cathedral close",
+    "prefix": " of them, Stephen. Beauty is not there. Nor in the stagnant bay of Marsh's library where you read the fading prophecies of Joachim Abbas. For whom? The hundredheaded rabble of the ",
+    "suffix": ". A hater 1932#36of his kind ran from them to the wood of madness, his mane foaming in the moon, his eyeballs stars. Houyhnhnm, horsenostrilled. The oval equine faces, Temple, Buck",
+    "start": 6475,
+    "end": 6490,
+    "canonical_text": "cathedral close"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3099435,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 170881,
+        "login": "Abraxas01",
+        "name": "Abraxas01",
+        "role": "editor",
+        "attribution": 0.8108108108108109
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.1891891891891892
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15130163",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Argol bargol",
+  "html_source": "<p>Term referring to argument or disputation; there are several spelling variations (e.g., argle-bargle) and the rhyming nature of the phrase suggests a minor spat that does not escalate into something more severe.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15130163/James-joyce-ulysses-chap-12-cyclops/Argol-bargol",
+    "original_id": "15130163",
+    "referent_id": 15130163,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "argol bargol",
+    "prefix": " that puts the bloody kybosh on it if old sloppy eyes is mucking up the show. Give us a bloody chance. God save Ireland from the likes of that bloody mouseabout. Mr Bloom with his ",
+    "suffix": ". And his old fellow before him perpetrating frauds, old Methusalem Bloom, the robbing bagman, that poisoned himself with the prussic acid after he swamping the country with his ba",
+    "start": 101203,
+    "end": 101215,
+    "canonical_text": "argol bargol"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15130163,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

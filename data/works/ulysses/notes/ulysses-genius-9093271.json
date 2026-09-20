@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9093271",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Scotch house",
+  "html_source": "<p>a pub</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9093271/James-joyce-ulysses-chap-10-wandering-rocks/Scotch-house",
+    "original_id": "9093271",
+    "referent_id": 9093271,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Scotch house",
+    "prefix": "ed, his tongue in his cheek. \n\n Mr Kernan, pleased with the order he had booked, walked boldly along James's street. \n\n1932#213\n\n — I know you did, Dilly answered. Were you in the ",
+    "suffix": " now? \n\n — I was not, then, Mr Dedalus said, smiling. Was it the little nuns taught you to be so saucy? Here. \n\n He handed her a shilling. \n\n — See if you can do anything with that",
+    "start": 38603,
+    "end": 38615,
+    "canonical_text": "Scotch house"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9093271,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3083736,
+        "login": "JessicaVestuto",
+        "name": "JessicaVestuto",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

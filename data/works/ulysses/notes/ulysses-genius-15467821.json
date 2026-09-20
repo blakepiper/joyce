@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15467821",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Policeman’s lot is oft a happy one",
+  "html_source": "<p>A play on lyrics from Pirates of Penzance which is “A policeman’s lot is not a happy one.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15467821/James-joyce-ulysses-chap-8-lestrygonians/Policemans-lot-is-oft-a-happy-one",
+    "original_id": "15467821",
+    "referent_id": 15467821,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Policeman's lot is oft a happy one",
+    "prefix": " College street, marching in Indian file. Goosestep. Foodheated faces, sweating helmets, patting their truncheons. After their feed with a good load of fat soup under their belts. ",
+    "suffix": ". They split up into groups and scattered, saluting towards 1922#154their beats. Let out to graze. Best moment to attack one in pudding time. A punch in his dinner. A squad of othe",
+    "start": 25500,
+    "end": 25534,
+    "canonical_text": "Policeman's lot is oft a happy one"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15467821,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 7060080,
+        "login": "keithalt",
+        "name": "keithalt",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

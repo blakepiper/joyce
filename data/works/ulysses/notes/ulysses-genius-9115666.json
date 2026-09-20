@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9115666",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "So I carried the boat of incense then at Clongowes",
+  "html_source": "<p>Clongowes is a Jesuit school outside of Dublin. Stephen Dedalus is carrying the nickel shaving bowl previously used as a device in parody of the catholic mass. It continues in this capacity, now being compared to the “boat of incense” used during mass to replenish the metal censer as it burns low.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9115666/James-joyce-ulysses-chap-1-telemachus/So-i-carried-the-boat-of-incense-then-at-clongowes",
+    "original_id": "9115666",
+    "referent_id": 9115666,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "So I carried the boat of incense then at Clongowes",
+    "prefix": "ere all day, forgotten friendship? \n\n He went over to it, held it in his hands awhile, feeling its coolness, smelling the clammy slaver of the lather in which the brush was stuck. ",
+    "suffix": ". I am another now and yet the same. A servant too. A server of a servant. \n\n In the gloomy domed livingroom of the tower Buck Mulligan's gowned form moved briskly about the hearth",
+    "start": 17749,
+    "end": 17799,
+    "canonical_text": "So I carried the boat of incense then at Clongowes"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9115666,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3221641,
+        "login": "NicoDios",
+        "name": "NicoDios",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

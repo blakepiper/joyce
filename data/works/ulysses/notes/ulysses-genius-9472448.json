@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9472448",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Fingerpost",
+  "html_source": "<p>A traditional type of sign post primarily used in the United Kingdom and the Republic of Ireland, consisting of a post with one or more arms, known as fingers, pointing in the direction of travel.  Wikipedia</p><p><img src=\"https://images.genius.com/ef994f54eac84571e557a85038054537.1000x795x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9472448/James-joyce-ulysses-chap-15-circe/Fingerpost",
+    "original_id": "9472448",
+    "referent_id": 9472448,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "fingerpost",
+    "prefix": "red ragman bars his path. He steps left, ragsackman left.)\n\nBLOOM I beg. (He swerves, sidles, stepsaside, slips past and on.)\n\nBLOOM Keep to the right, right, right. If there is a ",
+    "suffix": " planted by the Touring Club at Stepaside who procured that public boon? I who lost my way and contributed to the columns of the Irish Cyclist the letter headed, In darkest Stepasi",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.5263
+  },
+  "genius": {
+    "referent_id": 9472448,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

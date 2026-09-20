@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9093243",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Sweets of Sin",
+  "html_source": "<p>Not found; most likely invented by Joyce</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9093243/James-joyce-ulysses-chap-10-wandering-rocks/Sweets-of-sin",
+    "original_id": "9093243",
+    "referent_id": 9093243,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Sweets of Sin",
+    "prefix": "1961#235\n\n He opened it. Thought so. \n\n A woman's voice behind the dingy curtain. Listen: the man. \n\n No: she wouldn't like that much. Got her it once. \n\n He read the other title: ",
+    "suffix": ". More in her line. Let us see. \n\n He read where his finger opened. \n\n— All the dollarbills her husband gave her were spent in the stores on wondrous gowns and costliest frillies. ",
+    "start": 34675,
+    "end": 34688,
+    "canonical_text": "Sweets of Sin"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 9093243,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083736,
+        "login": "JessicaVestuto",
+        "name": "JessicaVestuto",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

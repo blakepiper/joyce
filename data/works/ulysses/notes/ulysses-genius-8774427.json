@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8774427",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Porter’s lodge",
+  "html_source": "<p>A porters' lodge (colloquially, plodge) is a place near the entrance of a building where one or more porters can be found to respond to enquiries from the public and direct them around the building. It is particularly associated with university accommodation in the United Kingdom.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8774427/James-joyce-ulysses-chap-5-lotus-eaters/Porters-lodge",
+    "original_id": "8774427",
+    "referent_id": 8774427,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "porter's lodge",
+    "prefix": " they had made it round like a wheel. Then the spokes: sports, sports, sports: and the hub big: college. Something to catch the eye. \n\n1932#76\n\n There's Hornblower standing at the ",
+    "suffix": ". Keep him on hands: might take a turn in there on the nod. How do you do, Mr Hornblower? How do you do, sir? \n\n1986#70\n\n Heavenly weather really. If life was always like that. Cri",
+    "start": 35223,
+    "end": 35237,
+    "canonical_text": "porter's lodge"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8774427,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

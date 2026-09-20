@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15129611",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Ehren on the Rhine",
+  "html_source": "<p>A popular song of parting between a soldier and his lover, in which they promise to meet after the war at Ehren on the Rhine. Ehren is a German term meaning to honor, but it is also a place name.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15129611/James-joyce-ulysses-chap-12-cyclops/Ehren-on-the-rhine",
+    "original_id": "15129611",
+    "referent_id": 15129611,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Ehren on the Rhine",
+    "prefix": "old Vic, with her jorum of mountain dew and her coachman carting her up body and bones to roll into bed and she pulling him by the whiskers and singing him old bits of songs about ",
+    "suffix": " and come where the boose is cheaper. \n\n1922#316\n\n — Well, says J. J. We have Edward the peacemaker now. \n\n — Tell that to a fool, says the citizen. There's a bloody sight more pox",
+    "start": 89744,
+    "end": 89762,
+    "canonical_text": "Ehren on the Rhine"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15129611,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

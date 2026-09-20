@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8978788",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Kaffir",
+  "html_source": "<p>The word kaffir is a term used in South Africa to refer to a black person. Now widely considered an offensive ethnic slur, it was formerly considered by whites to be a neutral term for South African blacks.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8978788/James-joyce-ulysses-chap-12-cyclops/Kaffir",
+    "original_id": "8978788",
+    "referent_id": 8978788,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "kaffir",
+    "prefix": "\n\n1932#302\n\n — Who? says I. 1922#320\n\n — Bloom, says he. The courthouse is a blind. He had a few bob on Throwaway and he's gone to gather in the shekels. \n\n — Is it that whiteeyed ",
+    "suffix": "? says the citizen, that never backed a horse in anger in his life? \n\n1986#274\n\n — That's where he's gone, says Lenehan. I met Bantam Lyons going to back that horse only I put him ",
+    "start": 99373,
+    "end": 99379,
+    "canonical_text": "kaffir"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8978788,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

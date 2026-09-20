@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9093278",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Monica",
+  "html_source": "<p>Alludes to St. Monica’s Window’s Almshouse, next to where they are now</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9093278/James-joyce-ulysses-chap-10-wandering-rocks/Monica",
+    "original_id": "9093278",
+    "referent_id": 9093278,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Monica",
+    "prefix": ", murmuring to himself with a pursing mincing mouth: \n\n — The little nuns! Nice little things! O, sure they wouldn't do anything! O, sure they wouldn't really! Is it little sister ",
+    "suffix": "! \n\n*\n*  *\n\n From the sundial towards James's gate walked Mr Kernan, pleased with the order he had booked for Pulbrook Robertson, boldly along James's street, past Shackleton's off",
+    "start": 40870,
+    "end": 40876,
+    "canonical_text": "Monica"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9093278,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083736,
+        "login": "JessicaVestuto",
+        "name": "JessicaVestuto",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

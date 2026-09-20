@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8773203",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Lord Ardilaun",
+  "html_source": "<p>Arthur Edward Guinness, 1st Baron Ardilaun, 2nd Baronet (1 November 1840 – 20 January 1915), known as Sir Arthur Guinness, Bt, between 1868 and 1880, was an Irish businessman, politician, and philanthropist, best known for giving St Stephen’s Green to the people of Dublin; elder brother of Edward Guinness, 1st Earl of Iveagh.<br />Joyce considered him to be a prime Irish example of Victorian conventional respectability.</p><p><img src=\"https://images.rapgenius.com/41fa6db09782aa07b62c776a7bf6329a.365x438x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8773203/James-joyce-ulysses-chap-5-lotus-eaters/Lord-ardilaun",
+    "original_id": "8773203",
+    "referent_id": 8773203,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "lord Ardilaun",
+    "prefix": " way. Simple bit of paper. Lord Iveagh once cashed a sevenfigure cheque for a million in the bank of Ireland. Shows you the money to be made out of porter. Still the other brother ",
+    "suffix": " has to change his shirt four times a day, they say. Skin breeds lice or vermin. A million pounds, wait a moment. Twopence a pint, fourpence a quart, eightpence a gallon of porter,",
+    "start": 18814,
+    "end": 18827,
+    "canonical_text": "lord Ardilaun"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8773203,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

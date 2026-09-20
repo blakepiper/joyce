@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1857154",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "The six feet by two",
+  "html_source": "<p>i.e. Coffin. Referring to something by its measurements is a form of <a href=\"http://en.wikipedia.org/wiki/Synecdoche\" rel=\"noopener nofollow\">synecdoche</a>.</p><p><img src=\"https://images.genius.com/2b1b9dc195097234f3df10befec99037.512x477x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1857154/James-joyce-ulysses-chap-6-hades/The-six-feet-by-two",
+    "original_id": "1857154",
+    "referent_id": 1857154,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "the six feet by two",
+    "prefix": "th solemnity: \n\n1922#101\n\n — I am the resurrection and the life. That touches a man's inmost heart. \n\n — It does, Mr Bloom said. \n\n Your heart perhaps but what price the fellow in ",
+    "suffix": " with his toes to the daisies? No touching that. Seat of the affections. Broken heart. A pump after all, pumping thousands of gallons of blood every day. One fine day it gets bunge",
+    "start": 40125,
+    "end": 40144,
+    "canonical_text": "the six feet by two"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1857154,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 48446,
+        "login": "Twite",
+        "name": "Tom White",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

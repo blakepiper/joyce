@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10722610",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Chord in any circle",
+  "html_source": "<p><a href=\"http://www.mathopenref.com/chord.html\" rel=\"noopener nofollow\">http://www.mathopenref.com/chord.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10722610/James-joyce-ulysses-chap-17-ithaca/Chord-in-any-circle",
+    "original_id": "10722610",
+    "referent_id": 10722610,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "chord in any circle",
+    "prefix": "ring right, Temple street, north, as far as Hardwicke place. Approaching, disparate, at relaxed walking pace they crossed both the circus before George's church diametrically, the ",
+    "suffix": " being less than the arc which it subtends. \n\n Of what did the duumvirate deliberate during their itinerary? \n\n1932#572\n\n Music, literature, Ireland, Dublin, Paris, friendship, wom",
+    "start": 599,
+    "end": 618,
+    "canonical_text": "chord in any circle"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10722610,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

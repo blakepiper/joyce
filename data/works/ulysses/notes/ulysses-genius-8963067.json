@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8963067",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Cowe Conacre",
+  "html_source": "<p>Cowe has an obvious interest in hoof and mouth.<br />Conacre (a corruption of corn-acre), in Ireland, is a system of letting land, formerly in small patches or strips, and usually for tillage (growth of corn or potatoes). During the 19th century, conacre land was normally let on an eleven-month system – considered to be of sufficient length to sow and harvest a crop but without creating a relationship between landlord and tenant.  Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8963067/James-joyce-ulysses-chap-12-cyclops/Cowe-conacre",
+    "original_id": "8963067",
+    "referent_id": 8963067,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Cowe Conacre",
+    "prefix": " league told him to ask a question tomorrow about the commissioner of police forbidding Irish games in the park. What do you think of that, citizen? The Sluagh na h-Eireann. \n\n Mr ",
+    "suffix": " (Multifarnham. Nat.): Arising out of the question of my honourable friend, the member for Shillelagh, may I ask the right honourable gentleman whether the government has issued or",
+    "start": 55711,
+    "end": 55723,
+    "canonical_text": "Cowe Conacre"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 8963067,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-17300793",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Trinity medicals",
+  "html_source": "<p>Students at the Medical School of the University of Dublin, usually called Trinity college after its only college.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/17300793/James-joyce-ulysses-chap-15-circe/Trinity-medicals",
+    "original_id": "17300793",
+    "referent_id": 17300793,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Trinity medicals",
+    "prefix": " till I tell you. Maidenhead inside. Sst! \n\n STEPHEN \n\n(Altius aliquantulum.) Et omnes ad quos pervenit aqua ista. \n\n1922#410\n\n THE BAWD \n\n(Spits in their trail her jet of venom.) ",
+    "suffix": ". Fallopian tube. All prick and no pence. \n\n(Edy Boardman, sniffling, crouched with Bertha Supple, draws her shawl across her nostrils.) \n\n1961#431\n\n EDY BOARDMAN \n\n(Bickering.) An",
+    "start": 3847,
+    "end": 3863,
+    "canonical_text": "Trinity medicals"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 17300793,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 8618059,
+        "login": "solsolis",
+        "name": "solsolis",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

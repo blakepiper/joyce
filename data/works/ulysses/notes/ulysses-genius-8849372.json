@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8849372",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Legal fiction",
+  "html_source": "<p>Legal fiction is an assumption that something is true even though it may be untrue. In order to do justice, the law will permit or create a legal fiction. It is the presumption of facts arrived based on the circumstantial evidence or situation prevailing in that case, with an objective to achieve justice. Legal fiction is the assumption that a certain thing is true, and which gives to a person or thing a quality which is not natural to it, and consequently establishes, a certain disposition, which, without the fiction, would be repugnant to reason and to truth.<br />USLegal.com</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8849372/James-joyce-ulysses-chap-9-scylla-and-charybdis/Legal-fiction",
+    "original_id": "8849372",
+    "referent_id": 8849372,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "legal fiction",
+    "prefix": "ld, macro and microcosm, upon the void. Upon incertitude, upon unlikelihood. Amor matris, subjective and objective genitive, may be the only true thing in life. Paternity may be a ",
+    "suffix": ". Who is the father of any son that any son should love him or he any son? \n\n What the hell are you driving at? \n\n I know. Shut up. Blast you. I have reasons. \n\n Amplius. Adhuc. It",
+    "start": 49036,
+    "end": 49049,
+    "canonical_text": "legal fiction"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8849372,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

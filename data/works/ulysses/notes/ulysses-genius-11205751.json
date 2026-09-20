@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11205751",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Statue",
+  "html_source": "<p>A small statue of Narcissus in the Bloom home  mentioned in the last chapter.</p><p>“What caused him consolation in his sitting posture?<br />The candour, nudity, pose, tranquility, youth, grace, sex, counsel of a statue erect in the centre of the table, an image of Narcissus purchased     by auction from P. A. Wren, 9 Bachelor’s Walk. ”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11205751/James-joyce-ulysses-chap-18-penelope/Statue",
+    "original_id": "11205751",
+    "referent_id": 11205751,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "statue",
+    "prefix": "ing up in the sun naked like a God or something and then plunging into the sea with them why arent all men like that thered be some consolation for a woman like that lovely little ",
+    "suffix": " he bought I 1932#675could look at him all day long curly head and his shoulders his finger up for you to listen theres real beauty and poetry for you I 1961#775often felt I wanted",
+    "start": 100301,
+    "end": 100307,
+    "canonical_text": "statue"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9693
+  },
+  "genius": {
+    "referent_id": 11205751,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

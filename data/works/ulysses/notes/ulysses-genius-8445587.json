@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8445587",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Omphalos_ with an obelisk hewn and erected after the fashion of Egypt",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Omphalos_of_Delphi\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Omphalos_of_Delphi</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8445587/James-joyce-ulysses-chap-14-oxen-of-the-sun/Omphalos-with-an-obelisk-hewn-and-erected-after-the-fashion-of-egypt",
+    "original_id": "8445587",
+    "referent_id": 8445587,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Omphalos_ with an obelisk hewn and erected after the fashion of Egypt",
+    "prefix": "nd from its holder, lord Talbot de Malahide, a Tory gentleman of note much in favour with our ascendancy party. He proposed to set up there a national fertilising farm to be named ",
+    "suffix": " and to offer his dutiful yeoman services for the fecundation of any female of what grade of life soever who should there direct to him with the desire of fulfilling the functions ",
+    "start": 49300,
+    "end": 49368,
+    "canonical_text": "Omphalos with an obelisk hewn and erected after the fashion of Egypt"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 8445587,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

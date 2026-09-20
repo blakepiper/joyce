@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8800565",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "On swift sail flaming\n From storm and south\n He comes, pale vampire,\n Mouth to my mouth.",
+  "html_source": "<p>How Stephen Wrote His Vampire Poem<br />Robert Adams Day<br />James Joyce Quarterly<br />Vol. 17, No. 2 (Winter, 1980), pp. 183-197<br /><a href=\"http://www.jstor.org/stable/25476277?seq=1#page_scan_tab_contents\" rel=\"noopener nofollow\">http://www.jstor.org/stable/25476277?seq=1#page_scan_tab_contents</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8800565/James-joyce-ulysses-chap-7-aeolus/On-swift-sail-flaming-from-storm-and-south-he-comes-pale-vampire-mouth-to-my-mouth",
+    "original_id": "8800565",
+    "referent_id": 8800565,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "On swift sail flaming\n From storm and south\n He comes, pale vampire,\n Mouth to my mouth.",
+    "prefix": "e title and signature. \n\n — Who? the editor asked. \n\n Bit torn off. \n\n — Mr Garrett Deasy, Stephen said. \n\n — That old pelters, the editor said. Who tore it? Was he short taken? \n\n",
+    "suffix": " \n\n — Good day, Stephen, the professor said, coming to peer over their shoulders. Foot and mouth? Are you turned...? \n\n Bullockbefriending bard. \n\n SHINDY IN WELLKNOWN RESTAURANT \n",
+    "start": 28624,
+    "end": 28712,
+    "canonical_text": "On swift sail flaming \nFrom storm and south \nHe comes, pale vampire, \nMouth to my mouth."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 8800565,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

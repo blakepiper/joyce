@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10881138",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Semper paratus",
+  "html_source": "<p>always ready</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10881138/James-joyce-ulysses-chap-17-ithaca/Semper-paratus",
+    "original_id": "10881138",
+    "referent_id": 10881138,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Semper paratus",
+    "prefix": "gardener, groundsman, cultivator, breeder, and at 1932#619career, resident magistrate or justice of the peace with a family crest and coat of arms and appropriate classical motto (",
+    "suffix": "), duly recorded in the court directory (Bloom, Leopold P., M. P., P. C., K. P., L. L. D. honoris causa, Bloomville, Dundrum) and mentioned in court and fashionable intelligence (M",
+    "start": 101138,
+    "end": 101152,
+    "canonical_text": "Semper paratus"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10881138,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

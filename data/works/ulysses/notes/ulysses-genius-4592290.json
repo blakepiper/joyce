@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4592290",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "And that one was Judas",
+  "html_source": "<p><a href=\"https://genius.com/4592306\" rel=\"noopener nofollow\">Stephen calls Lynch “Judas” in Chapter 15 “Circe”.</a> when Lynch abandons him at the appearance of the constables.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4592290/James-joyce-ulysses-chap-16-eumaeus/And-that-one-was-judas",
+    "original_id": "4592290",
+    "referent_id": 4592290,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "And that one was Judas",
+    "prefix": "mmented adversely on the desertion of Stephen by all his pubhunting confrères but one, a most glaring piece of ratting on the part of his brother medicos under all the circs. \n\n — ",
+    "suffix": ", Stephen said, who up to then had said nothing whatsoever of any kind. \n\n Discussing these and kindred topics they made a beeline across the back of the Customhouse and passed und",
+    "start": 7161,
+    "end": 7183,
+    "canonical_text": "And that one was Judas"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4592290,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 0.5555555555555556
+      },
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.4444444444444444
+      }
+    ]
+  },
+  "color": "F59627"
+}

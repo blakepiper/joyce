@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8905920",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Narcissus",
+  "html_source": "<p>Narcissus, in Greek mythology, is represented as a beautiful youth, who, because he refused all love, was punished by Nemesis who caused him to fall in love with a reflected image of himself. The use of Narcissus here could point to Stephen’s refusal of Bloom’s love and concern for him, as well as to Stephen’s tendencies toward self-preoccupation.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8905920/James-joyce-ulysses-chap-17-ithaca/Narcissus",
+    "original_id": "8905920",
+    "referent_id": 8905920,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Narcissus",
+    "prefix": "What caused him consolation in his sitting posture? \n\n The candour, nudity, pose, tranquility, youth, grace, sex, counsel of a statue erect in the centre of the table, an image of ",
+    "suffix": " purchased by auction from P. A. Wren, 9 Bachelor's Walk. \n\n1932#614\n\n What caused him irritation in his sitting posture? \n\n Inhibitory pressure of collar (size 17) and waistcoat (",
+    "start": 90164,
+    "end": 90173,
+    "canonical_text": "Narcissus"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9536
+  },
+  "genius": {
+    "referent_id": 8905920,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5110709",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Mrs Fleming",
+  "html_source": "<p>Part time domestic maid of the Bloom’s</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5110709/James-joyce-ulysses-chap-6-hades/Mrs-fleming",
+    "original_id": "5110709",
+    "referent_id": 5110709,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Mrs Fleming",
+    "prefix": "e give them such trouble coming. Job seems to suit them. Huggermugger in corners. Slop about in slipperslappers for fear he'd wake. Then getting it ready. Laying it out. Molly and ",
+    "suffix": " making the bed. Pull it more to your side. Our windingsheet. Never know who will touch you dead. Wash and shampoo. I believe1932#77 they clip the nails and the hair. Keep a bit in",
+    "start": 995,
+    "end": 1006,
+    "canonical_text": "Mrs Fleming"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9765
+  },
+  "genius": {
+    "referent_id": 5110709,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33270882",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "What",
+  "html_source": "<p>You woh!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33270882/James-joyce-ulysses-chap-14-oxen-of-the-sun/What",
+    "original_id": "33270882",
+    "referent_id": 33270882,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "What",
+    "prefix": "dmired to see the foresaid riches in such dearth of money as was herebefore. His words were then these as followeth: Know all men, he said, time's ruins build eternity's mansions. ",
+    "suffix": " means this? Desire's wind blasts the thorntree but after it becomes from a bramblebush to be a rose upon the rood of time. Mark me now. In woman's womb word is made flesh but in t",
+    "start": 20666,
+    "end": 20670,
+    "canonical_text": "What"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 33270882,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

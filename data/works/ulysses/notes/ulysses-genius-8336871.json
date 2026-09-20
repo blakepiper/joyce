@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8336871",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Sea Venture",
+  "html_source": "<p>The wreck of the Sea Venture, carrying emigrants to New England, in 1609; and the stranding of its passengers &amp; crew in Bermuda are believed to have inspired <em>The Tempest</em>. It’s not clear why Stephen should refer to it coming home; it did not, though its passengers did reach America in two boats built in Bermuda.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8336871/James-joyce-ulysses-chap-9-scylla-and-charybdis/Sea-venture",
+    "original_id": "8336871",
+    "referent_id": 8336871,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Sea Venture",
+    "prefix": "ve's Labour Lost. His pageants, the histories, sail fullbellied on a tide of Mafeking enthusiasm. Warwickshire jesuits are tried and we have a porter's theory of equivocation. The ",
+    "suffix": " comes home from Bermudas and the play Renan admired is written with Patsy Caliban, our American cousin. The sugared sonnets follow Sidney's. As for fay Elizabeth, otherwise carrot",
+    "start": 43256,
+    "end": 43267,
+    "canonical_text": "Sea Venture"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8336871,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2568065,
+        "login": "GeoffBobker",
+        "name": "GeoffBobker",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

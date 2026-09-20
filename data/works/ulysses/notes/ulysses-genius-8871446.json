@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8871446",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Providence of the Creator",
+  "html_source": "<p>In theology, divine providence, or just providence, is God’s intervention in the world. A distinction is usually made between “general providence”, which refers to God’s continuous upholding the existence and natural order of the universe, and “special providence”, which refers to God’s extraordinary intervention in the life of people.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8871446/James-joyce-ulysses-chap-10-wandering-rocks/Providence-of-the-creator",
+    "original_id": "8871446",
+    "referent_id": 8871446,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "providence of the Creator",
+    "prefix": "e with pendent head, a bargeman with a hat of dirty straw seated amidships, smoking and staring at a branch of poplar above him. It was idyllic: and Father Conmee reflected on the ",
+    "suffix": " who had made 1922#212turf to be in bogs whence men might dig it out and bring it to town and hamlet to make fires in the houses of poor people. \n\n On Newcomen bridge the very reve",
+    "start": 6522,
+    "end": 6547,
+    "canonical_text": "providence of the Creator"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8871446,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

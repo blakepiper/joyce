@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-9094275",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Youkstetter’s, the porkbutcher’s",
+  "html_source": "<p><img src=\"https://images.genius.com/f86c6887e483082bb2a387926fba39c0.600x452x1.jpg\" alt=\"\" /></p><p>What used to be Youkstetter’s Butcher House later became The Cheese Pantry Restaurant, and in 2014 the name changed to Restaurant 104. It is  located in the heart of Drumcondra Village in Dublin.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9094275/James-joyce-ulysses-chap-10-wandering-rocks/Youkstetters-the-porkbutchers",
+    "original_id": "9094275",
+    "referent_id": 9094275,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Youkstetter's, the porkbutcher's",
+    "prefix": "shment where Corny Kelleher totted figures in the daybook while he chewed a blade of hay. A constable on his beat saluted Father Conmee and Father Conmee saluted the constable. In ",
+    "suffix": ", Father Conmee observed pig's puddings, white and black and red, lie neatly curled in tubes. \n\n Moored under the trees of Charleville Mall Father Conmee saw a turfbarge, a towhors",
+    "start": 6130,
+    "end": 6162,
+    "canonical_text": "Youkstetter's, the porkbutcher's"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9094275,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3083734,
+        "login": "Meybel12",
+        "name": "Meybel12",
+        "role": null,
+        "attribution": 0.9841269841269842
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.015873015873015872
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11115290",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Black Watch",
+  "html_source": "<p>Legendary Scottish regiment with a famous tartan kilt</p><p><a href=\"http://www.theblackwatch.co.uk/history-and-research/black-watch-history/\" rel=\"noopener nofollow\">http://www.theblackwatch.co.uk/history-and-research/black-watch-history/</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11115290/James-joyce-ulysses-chap-18-penelope/Black-watch",
+    "original_id": "11115290",
+    "referent_id": 11115290,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Black Watch",
+    "prefix": "e Spanish cavalry at La Roque it was lovely after looking across the bay from Algeciras all the 1939#528lights of the rock like fireflies or those sham battles on the 15 acres the ",
+    "suffix": " with their kilts in time at the march past the 10th hussars the prince of Wales own or the lancers O the lancers theyre grand or the Dublins that won Tugela his father made his mo",
+    "start": 29862,
+    "end": 29873,
+    "canonical_text": "Black Watch"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11115290,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

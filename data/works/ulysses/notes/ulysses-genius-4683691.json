@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4683691",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Throwaway",
+  "html_source": "<p>A leaflet advertising a meeting and talk/sermon from Dr. John Alexander Dowie.</p><p><img src=\"https://images.rapgenius.com/228dc86341596fc292230e68ed3826c4.220x314x1.jpg\" alt=\"\" /></p><p>Photo source: Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4683691/James-joyce-ulysses-chap-8-lestrygonians/Throwaway",
+    "original_id": "4683691",
+    "referent_id": 4683691,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "throwaway",
+    "prefix": "s Majesty the King. God. Save. Our. Sitting on his throne sucking red jujubes white.\n\n A sombre Y.M.C.A. young man, watchful among the warm sweet fumes of Graham Lemon's, placed a ",
+    "suffix": " in a hand of Mr Bloom. \n\n Heart to heart talks. \n\n Bloo... Me? No. \n\n Blood of the Lamb. \n\n His slow feet walked him riverward, reading. Are you saved? All are washed in the blood",
+    "start": 387,
+    "end": 396,
+    "canonical_text": "throwaway"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4683691,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

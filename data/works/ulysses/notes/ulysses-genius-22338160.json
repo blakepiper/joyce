@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-22338160",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "He proves by algebra that Hamlet’s grandson is Shakespeare’s grandfather and that he himself is the ghost of his own father",
+  "html_source": "<p>Stephen’s theory is that Shakespeare acted the role of the ghost of Hamlet the murdered king, and he extrapolates widely from there. See Chapter 9. Mulligan is taking a dig here.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/22338160/James-joyce-ulysses-chap-1-telemachus/He-proves-by-algebra-that-hamlets-grandson-is-shakespeares-grandfather-and-that-he-himself-is-the-ghost-of-his-own-father",
+    "original_id": "22338160",
+    "referent_id": 22338160,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "He proves by algebra that Hamlet's grandson is Shakespeare's grandfather and that he himself is the ghost of his own father",
+    "prefix": " can wait longer. \n\n — You pique my curiosity, Haines said amiably. Is it some paradox? \n\n — Pooh! Buck Mulligan said. We have grown out of Wilde and paradoxes. It's quite simple. ",
+    "suffix": ". \n\n — What? Haines said, beginning to point at Stephen. He himself? \n\n Buck Mulligan slung his towel stolewise round his neck and, bending in loose laughter, said to Stephen's ear",
+    "start": 31126,
+    "end": 31249,
+    "canonical_text": "He proves by algebra that Hamlet's grandson is Shakespeare's grandfather and that he himself is the ghost of his own father"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 22338160,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

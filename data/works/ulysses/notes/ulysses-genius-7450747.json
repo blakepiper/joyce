@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-7450747",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Thousand and one things",
+  "html_source": "<p>Shows Bloom’s subconscious fascination with the far east, allusion to <em>One Thousand and One Nights</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7450747/James-joyce-ulysses-chap-7-aeolus/Thousand-and-one-things",
+    "original_id": "7450747",
+    "referent_id": 7450747,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "thousand and one things",
+    "prefix": " jaundice, and beyond the obedient reels feeding in huge webs of paper. Clank it. Clank it. Miles of it unreeled. What becomes of it after? O, wrap up meat, parcels: various uses, ",
+    "suffix": ". \n\n1932#107\n\n Slipping his words deftly into the pauses of the clanking he drew swiftly on the scarred woodwork. \n\n HOUSE OF KEY(E)S \n\n — Like that, see. Two crossed keys here. A ",
+    "start": 7624,
+    "end": 7647,
+    "canonical_text": "thousand and one things"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 7450747,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1060900,
+        "login": "dvrath",
+        "name": "dvrath",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

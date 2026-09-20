@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2696799",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Gamp",
+  "html_source": "<p>(British, informal) umbrella</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2696799/James-joyce-ulysses-chap-3-proteus/Gamp",
+    "original_id": "2696799",
+    "referent_id": 2696799,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "gamp",
+    "prefix": "hore flabbily, their splayed feet sinking 1932#34in the silted sand. Like me, like Algy, coming down to our mighty mother. Number one swung lourdily her midwife's bag, the other's ",
+    "suffix": " poked in the beach. From the liberties, out for the day. Mrs Florence MacCabe, relict of the late Patk MacCabe, deeply lamented, of Bride Street. 1986#31One of her sisterhood lugg",
+    "start": 2048,
+    "end": 2052,
+    "canonical_text": "gamp"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2696799,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 410950,
+        "login": "FrankGiraffe",
+        "name": "FrankGiraffe",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

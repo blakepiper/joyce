@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15681017",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Ebullition",
+  "html_source": "<p>Bubbling or boiling water.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15681017/James-joyce-ulysses-chap-17-ithaca/Ebullition",
+    "original_id": "15681017",
+    "referent_id": 15681017,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "ebullition",
+    "prefix": "n equal and opposite power of abandonment and recuperation. \n\n1932#579\n\n What concomitant phenomenon took place in the vessel of liquid by the agency of fire? \n\n The phenomenon of ",
+    "suffix": ". Fanned by a constant updraught of ventilation between the kitchen and the chimneyflue, ignition was communicated from the faggots of precombustible fuel to polyhedral masses of b",
+    "start": 17207,
+    "end": 17217,
+    "canonical_text": "ebullition"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15681017,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 7060080,
+        "login": "keithalt",
+        "name": "keithalt",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

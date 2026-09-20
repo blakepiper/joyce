@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11115265",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Oom Paul",
+  "html_source": "<p><a href=\"https://www.britannica.com/biography/Paul-Kruger\" rel=\"noopener nofollow\">https://www.britannica.com/biography/Paul-Kruger</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11115265/James-joyce-ulysses-chap-18-penelope/Oom-paul",
+    "original_id": "11115265",
+    "referent_id": 11115265,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "oom Paul",
+    "prefix": "th excitement about going 1932#650away or wed be seen from the road he couldnt stand properly and I so hot as I never felt they could have made their peace in the beginning or old ",
+    "suffix": " and the rest of the other old Krugers go and fight it out between them instead of 1986#616dragging on for years killing any finelooking men there were with their fever if he was e",
+    "start": 29385,
+    "end": 29393,
+    "canonical_text": "oom Paul"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11115265,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

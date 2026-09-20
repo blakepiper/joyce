@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-6757277",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Panting, sighing, sighing, ah, fordone, their mirth died down.",
+  "html_source": "<p>Even their giggling is referred to in a sexual manner, like a climatic crescendo ascending to an orgasmic-like explosion. Words like ‘panting, sighing, fordone’ all bring this to mind.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6757277/James-joyce-ulysses-chap-11-sirens/Panting-sighing-sighing-ah-fordone-their-mirth-died-down",
+    "original_id": "6757277",
+    "referent_id": 6757277,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "panting, sighing, sighing, ah, fordone, their mirth died down.",
+    "prefix": "th Kennedy your other eye. They threw young heads back, bronze gigglegold, to let freefly their laughter, screaming, your other, signals to each other, high piercing notes. \n\n Ah, ",
+    "suffix": ". \n\n Miss Kennedy lipped her cup again, raised, drank a sip and gigglegiggled. Miss Douce, bending again over the teatray, ruffled again her nose and rolled droll fattened eyes. Ag",
+    "start": 7585,
+    "end": 7645,
+    "canonical_text": "panting, sighing. Sighing, ah, fordone their mirth died down"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 6757277,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1618748,
+        "login": "Kataryna",
+        "name": "Kataryna",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

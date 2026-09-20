@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-4256147",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "But ours is the omphalos.",
+  "html_source": "<p>Greek for “navel”, meaning that the tower is source of all others. The tower at Sandycove was the first in Ireland to be constructed, to protect from approaches to Dublin by military invaders. It is the centre of Buck’s and Stephen’s life but it is culturally British.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4256147/James-joyce-ulysses-chap-1-telemachus/But-ours-is-the-omphalos",
+    "original_id": "4256147",
+    "referent_id": 4256147,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "But ours is the omphalos.",
+    "prefix": "e tower and said at last: \n\n — Rather bleak in wintertime, I should say. Martello you call it? \n\n — Billy Pitt had them built, Buck Mulligan said, when the French were on the sea. ",
+    "suffix": " \n\n — What is your idea of Hamlet? Haines asked Stephen. \n\n — No, no, Buck Mulligan shouted in pain. I'm not equal to Thomas Aquinas and the fiftyfive reasons he has made to prop i",
+    "start": 30451,
+    "end": 30476,
+    "canonical_text": "But ours is the omphalos."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4256147,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 0.574468085106383
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.36170212765957444
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.06382978723404255
+      }
+    ]
+  },
+  "color": "F59627"
+}

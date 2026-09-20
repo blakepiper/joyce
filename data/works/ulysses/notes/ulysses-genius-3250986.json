@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3250986",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Crown",
+  "html_source": "<p><em>tonsured</em> motif !</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3250986/James-joyce-ulysses-chap-7-aeolus/Crown",
+    "original_id": "3250986",
+    "referent_id": 3250986,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "crown",
+    "prefix": "Working away, tearing away. And that old grey rat tearing to get in. \n\n HOW A GREAT DAILY ORGAN IS TURNED OUT \n\n Mr Bloom halted behind the foreman's spare body, admiring a glossy ",
+    "suffix": ". \n\n Strange he never saw his real country. Ireland my country. Member for College green. He boomed that workaday worker tack for all it was worth. It's the ads and side features s",
+    "start": 4563,
+    "end": 4568,
+    "canonical_text": "crown"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 3250986,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

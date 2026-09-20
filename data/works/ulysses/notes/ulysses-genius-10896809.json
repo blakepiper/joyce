@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10896809",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Where was Moses",
+  "html_source": "<p>A popular song from 1901:<br /><a href=\"http://www.loc.gov/jukebox/recordings/detail/id/6810/\" rel=\"noopener nofollow\">http://www.loc.gov/jukebox/recordings/detail/id/6810/</a></p><p>Or a different song with the same title:<br /><a href=\"http://library.duke.edu/digitalcollections/songsheets_bsvg401580/\" rel=\"noopener nofollow\">http://library.duke.edu/digitalcollections/songsheets_bsvg401580/</a></p><p>Or a joke riddle in Huckleberry Finn (1884):</p><p>he asked me where Moses was when the candle went out. I said I didn’t know; I hadn’t heard about it before, no way.<br />“Well, guess,” he says.<br />“How’m I going to guess,” says I, “when I never heard tell of it before?”<br />“But you can guess, can’t you? It’s just as easy.”<br />“WHICH candle?” I says.<br />“Why, any candle,” he says.<br />“I don’t know where he was,” says I; “where was he?”<br />“Why, he was in the DARK! That’s where he was!”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10896809/James-joyce-ulysses-chap-17-ithaca/Where-was-moses",
+    "original_id": "10896809",
+    "referent_id": 10896809,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Where was Moses",
+    "prefix": "t enigma pondered with desultory constancy during 30 years did Bloom now, having effected natural obscurity by the extinction of artificial light, silently suddenly comprehend? \n\n ",
+    "suffix": " when the candle went out? \n\n What imperfections in a perfect day did Bloom, walking, charged with collected articles of recently disvested male wearing apparel, silently, successi",
+    "start": 131550,
+    "end": 131565,
+    "canonical_text": "Where was Moses"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10896809,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

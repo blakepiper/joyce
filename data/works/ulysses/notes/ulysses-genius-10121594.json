@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10121594",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "The harlot’s cry",
+  "html_source": "<p>A misquote of William Blake’s Auguries of Innocence</p><p>The whore and gambler, by the state<br />Licensed, build that nation’s fate.<br />The harlot’s cry from street to street<br />Shall weave old England’s winding-sheet.<br /><a href=\"http://www.artofeurope.com/blake/bla3.htm\" rel=\"noopener nofollow\">http://www.artofeurope.com/blake/bla3.htm</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10121594/James-joyce-ulysses-chap-15-circe/The-harlots-cry",
+    "original_id": "10121594",
+    "referent_id": 10121594,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "The harlot's cry",
+    "prefix": "DY THE CLAP \n\n Methinks yon sable knight will joust it with the best. \n\n CUNTY KATE \n\n(Blushing deeply.) Nay, madam. The gules doublet and merry saint George for me! \n\n STEPHEN \n\n ",
+    "suffix": " from street to street \nShall weave Old Ireland's windingsheet. \n\n1986#487\n\n PRIVATE CARR \n\n(Loosening his belt, shouts.) I'll wring the neck of any fucking bastard says a word aga",
+    "start": 225264,
+    "end": 225280,
+    "canonical_text": "The harlot's cry"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10121594,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

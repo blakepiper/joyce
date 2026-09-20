@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4612797",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "A young man clinging to a spur of rock near him",
+  "html_source": "<p>As Mulligan and Haines prepare for a swim (bath) in the creek, we learn that there is another young man already in the water. He obviously knows Mulligan.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4612797/James-joyce-ulysses-chap-1-telemachus/A-young-man-clinging-to-a-spur-of-rock-near-him",
+    "original_id": "4612797",
+    "referent_id": 4612797,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "A young man clinging to a spur of rock near him",
+    "prefix": "ffy face, saltwhite. Here I am. \n\n They followed the winding path down to the creek. Buck Mulligan stood on a stone, in shirtsleeves, his unclipped tie rippling over his shoulder. ",
+    "suffix": ", moved slowly frogwise his green legs in the deep jelly of the water. \n\n — Is the brother with you, Malachi? \n\n — Down in Westmeath. With the Bannons. \n\n — Still there? I got a ca",
+    "start": 38655,
+    "end": 38702,
+    "canonical_text": "A young man clinging to a spur of rock near him"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4612797,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

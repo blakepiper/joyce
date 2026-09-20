@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11204938",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Maritana",
+  "html_source": "<p><a href=\"https://www.youtube.com/watch?v=hd1moAyxhUo&amp;list=PLUzviTC04s-aWc1hHcieh_NIDjJxfUfys&amp;index=17\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=hd1moAyxhUo&amp;list=PLUzviTC04s-aWc1hHcieh_NIDjJxfUfys&amp;index=17</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11204938/James-joyce-ulysses-chap-18-penelope/Maritana",
+    "original_id": "11204938",
+    "referent_id": 11204938,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Maritana",
+    "prefix": "alf screwed singing the second verse first the old love is the new was one of his so sweetly sang the maiden on the hawthorn bough he was always on for flirtyfying too when I sang ",
+    "suffix": " with him at Freddy Mayers private opera he had a delicious glorious voice Phoebe dearest goodbye sweetheart sweetheart he always sang it not like Bartell Darcy 1986#636sweet tart ",
+    "start": 96175,
+    "end": 96183,
+    "canonical_text": "Maritana"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9604
+  },
+  "genius": {
+    "referent_id": 11204938,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8485096",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Mr Bloom",
+  "html_source": "<p>Episode 10 begins.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8485096/James-joyce-ulysses-chap-10-wandering-rocks/Mr-bloom",
+    "original_id": "8485096",
+    "referent_id": 8485096,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Mr Bloom",
+    "prefix": " He's a cultured allroundman, Bloom is, he said seriously. He's not one of your common or garden... you know... There's a touch of the artist about old Bloom. \n\n1922#225\n\n*\n*  *\n\n ",
+    "suffix": " turned over idly pages of The Awful Disclosures of Maria Monk, then of Aristotle's Masterpiece. Crooked botched print. Plates: infants cuddled in a ball in bloodred wombs like liv",
+    "start": 33415,
+    "end": 33423,
+    "canonical_text": "Mr Bloom"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9354
+  },
+  "genius": {
+    "referent_id": 8485096,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

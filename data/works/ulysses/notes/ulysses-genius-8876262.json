@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8876262",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Lorcan Sherlock",
+  "html_source": "<p>Lorcan George Sherlock (born 1874 in Dublin; died 1945) was a member of the City Council of Dublin and later Lord Mayor of Dublin.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8876262/James-joyce-ulysses-chap-10-wandering-rocks/Lorcan-sherlock",
+    "original_id": "8876262",
+    "referent_id": 8876262,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Lorcan Sherlock",
+    "prefix": "council chamber. And old Barlow the macebearer laid up with asthma, no mace on the table, nothing in order, no quorum even, and Hutchinson, the lord mayor, in Llandudno and little ",
+    "suffix": " doing locum tenens for him. Damned Irish language, language of our forefathers. \n\n Long John Fanning blew a plume of smoke from his lips. \n\n Martin Cunningham spoke by turns, twir",
+    "start": 58088,
+    "end": 58103,
+    "canonical_text": "Lorcan Sherlock"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8876262,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

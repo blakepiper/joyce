@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8913670",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Trained by owner",
+  "html_source": "<p>This may be a reference to Pavlov’s bell used to train dogs. It suggests that Lenehan and Boylan are responding like dogs to the barmaid’s flirtation.</p><p>During the 1890s Russian physiologist Ivan Pavlov was looking at salivation in dogs in response to being fed. In his experiment, Pavlov used a bell as his neutral stimulus. Whenever he gave food to his dogs, he also rang a bell. After a number of repeats of this procedure, he tried the bell on its own. As you might expect, the bell on its own now caused an increase in salivation. So the dog had learned an association between the bell and the food and a new behavior had been learned. Because this response was learned (or conditioned), it is called a conditioned response.<br /><a href=\"http://www.simplypsychology.org/pavlov.html\" rel=\"noopener nofollow\">http://www.simplypsychology.org/pavlov.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8913670/James-joyce-ulysses-chap-11-sirens/Trained-by-owner",
+    "original_id": "8913670",
+    "referent_id": 8913670,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Trained by owner",
+    "prefix": "s. \n\n— Sonnez! \n\n Smack. She let free sudden in rebound her nipped elastic garter smackwarm against her smackable a woman's warmhosed thigh. \n\n — La Cloche! cried gleeful Lenehan. ",
+    "suffix": ". No sawdust there. \n\n She smilesmirked supercilious (wept! aren't men?), but, lightward gliding, mild she smiled on Boylan. \n\n — You're the essence of vulgarity, she in gliding sa",
+    "start": 21050,
+    "end": 21066,
+    "canonical_text": "Trained by owner"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8913670,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

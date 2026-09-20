@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9090204",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Hugh C. Love",
+  "html_source": "<p>From Section 8: “The reverend Hugh C. Love, Rathcoffey. Present address: Saint Michael’s, Sallins. Nice young chap he is. He’s writing a book about the Fitzgeralds he told me. He’s well up in history, faith.”</p><p>From Section 14: “The reverend Hugh C. Love walked from the old chapterhouse of saint Mary’s abbey past James and Charles Kennedy’s, rectifiers, attended by Geraldines tall and personable, towards the Tholsel beyond the ford of hurdles.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9090204/James-joyce-ulysses-chap-10-wandering-rocks/Hugh-c-love",
+    "original_id": "9090204",
+    "referent_id": 9090204,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Hugh C. Love",
+    "prefix": "reenhouse for the subsheriff's office, stood still in midstreet and brought his hat low. His Excellency graciously returned Mr Dedalus' greeting. From Cahill's corner the reverend ",
+    "suffix": ", M.A., made obeisance unperceived, mindful of lords deputies whose hands benignant 1986#207had held of yore rich advowsons. On Grattan bridge Lenehan and M'Coy, taking leave of ea",
+    "start": 69770,
+    "end": 69782,
+    "canonical_text": "Hugh C. Love"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9714
+  },
+  "genius": {
+    "referent_id": 9090204,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083675,
+        "login": "brnmzsk",
+        "name": "brnmzsk",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

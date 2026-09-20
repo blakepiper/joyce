@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-38329711",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Thomas Fitzgerald, silken knight,",
+  "html_source": "<p>Thomas FitzGerald, 10th Earl of Kildare, also known as Silken Thomas. (1513-1537). He was leader of a major Irish Rebellion against King Henry VIII.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/38329711/James-joyce-ulysses-chap-3-proteus/Thomas-fitzgerald-silken-knight",
+    "original_id": "38329711",
+    "referent_id": 38329711,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Thomas Fitzgerald, silken knight,",
+    "prefix": "erribilia meditans. A primrose doublet, fortune's knave, smiled on my fear. For that are you pining, the bark of their applause? Pretenders: live their lives. The Bruce's brother, ",
+    "suffix": " Perkin Warbeck, York's false scion, in breeches of silk of whiterose ivory, wonder of a day, and Lambert Simnel, with a tail of nans and sutlers, a scullion crowned. All kings' so",
+    "start": 20061,
+    "end": 20094,
+    "canonical_text": "Thomas Fitzgerald, silken knight,"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 38329711,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 23750768,
+        "login": "MardouFox",
+        "name": "MardouFox",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15156650",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Cope",
+  "html_source": "<p>Another term for a cloak, this time one worn by bishops during ceremonial occasions.</p><p><img src=\"https://images.genius.com/73c672860d9a9be07d9024ae79739080.657x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15156650/James-joyce-ulysses-chap-15-circe/Cope",
+    "original_id": "15156650",
+    "referent_id": 15156650,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "cope",
+    "prefix": "d Heart and Evening Telegraph with Saint Patrick's Day supplement. Containing the new addresses of all the cuckolds in Dublin. \n\n(The very reverend Canon O'Hanlon in cloth of gold ",
+    "suffix": " elevates and exposes a marble timepiece. Before him Father Conroy and the reverend John Hughes S.J. bend low.) \n\n THE TIMEPIECE \n\n(Unportalling.) \n\nCuckoo.\nCuckoo.\nCuckoo.\n\n(The b",
+    "start": 57382,
+    "end": 57386,
+    "canonical_text": "cope"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 15156650,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

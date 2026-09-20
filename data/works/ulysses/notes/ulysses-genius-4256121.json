@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-4256121",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Ashplant",
+  "html_source": "<p>An ash sapling; a walking stick. It will go on to feature prominently throughout the novel.</p><p><img src=\"https://images.rapgenius.com/b19c0cd1fd2ee8f45cc9816617c8c4dd.234x387x1.jpg\" alt=\"\" /></p><p><a href=\"https://www.theguardian.com/books/booksblog/2016/may/23/poem-of-the-week-the-ash-plant-by-seamus-heaney\" rel=\"noopener nofollow\">Also a poem by Heaney</a> which is referred to by Heaney in a later poem :<br />“The dotted line my father’s ashplant made<br />On Sandymount Strand<br />Is something else the tide won’t wash away.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4256121/James-joyce-ulysses-chap-1-telemachus/Ashplant",
+    "original_id": "4256121",
+    "referent_id": 4256121,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "ashplant",
+    "prefix": "You have eaten all we left, I suppose. Resigned he passed out with grave words and gait, saying, wellnigh with sorrow: \n\n — And going forth he met Butterly. \n\n Stephen, taking his ",
+    "suffix": " from its leaningplace, followed them out and, as they went down the ladder, pulled to the slow iron door and locked it. He put the huge key in his inner pocket. \n\n At the foot of ",
+    "start": 29609,
+    "end": 29617,
+    "canonical_text": "ashplant"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 4256121,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.5063291139240507
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.4177215189873418
+      },
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 0.0759493670886076
+      }
+    ]
+  },
+  "color": "F59627"
+}

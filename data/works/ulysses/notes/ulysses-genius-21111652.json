@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21111652",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "It is between the lines of his last written words, it is petrified on his tombstone under which her four bones are not to be laid",
+  "html_source": "<p>Shakespeare’s tombstone in Holy Trinity Church in Stratford-upon-Avon reads:</p><p>Good friend for Jesus sake forbeare,<br />To dig the dust enclosed here.<br />Blessed be the man that spares these stones,<br />And cursed be he that moves my bones.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21111652/James-joyce-ulysses-chap-9-scylla-and-charybdis/It-is-between-the-lines-of-his-last-written-words-it-is-petrified-on-his-tombstone-under-which-her-four-bones-are-not-to-be-laid",
+    "original_id": "21111652",
+    "referent_id": 21111652,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "It is between the lines of his last written words, it is petrified on his tombstone under which her four bones are not to be laid",
+    "prefix": "rong inclination to evil. The words are those of my lords bishops of Maynooth: an original sin and, like original sin, 1932#190committed by another in whose sin he too has sinned. ",
+    "suffix": ". Age has not withered it. Beauty and peace have not done it away. It is in infinite variety everywhere in the world he has created, in Much Ado about Nothing, twice in As you like",
+    "start": 58483,
+    "end": 58612,
+    "canonical_text": "It is between the lines of his last written words, it is petrified on his tombstone under which her four bones are not to be laid"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21111652,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

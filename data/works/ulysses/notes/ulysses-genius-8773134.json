@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8773134",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Saw that picture",
+  "html_source": "<p>JAN VERMEER<br />Style: Baroque<br />Lived: 1632 – 1675 (17th century)<br />Nationality: Netherlands<br />CHRIST IN THE HOUSE OF MARY AND MARTHA</p><p><img src=\"https://images.rapgenius.com/eab1bac89bb044beb190c515f0531039.819x936x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8773134/James-joyce-ulysses-chap-5-lotus-eaters/Saw-that-picture",
+    "original_id": "8773134",
+    "referent_id": 8773134,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "saw that picture",
+    "prefix": "Or sitting all day typing. Eyefocus bad for stomach nerves. What perfume does your wife use. Now could you make out a thing like that? \n\nTo keep it up. \n\n1939#60\n\n Martha, Mary. I ",
+    "suffix": " somewhere I forget now old master or faked for money. He is sitting in their house, talking. Mysterious. Also the two sluts in the Coombe would listen. \n\n1986#64\n\nTo keep it up. \n",
+    "start": 17667,
+    "end": 17683,
+    "canonical_text": "saw that picture"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8773134,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

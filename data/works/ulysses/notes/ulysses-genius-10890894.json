@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10890894",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Scheme",
+  "html_source": "<p>Bloom has been mulling this idea all day.</p><p>Chapter 4.<br />“Of course if they ran a tramline along the North Circular from the cattlemarket to the quays value would go up like a shot.”</p><p>Chapter 6<br />“I can’t make out why the corporation doesn’t run a tramline from the parkgate to the quays, Mr Bloom said. All those animals could be taken in trucks down to the boats.”</p><p>Chapter 15<br />“BLOOM: (IN ALDERMAN’S GOWN AND CHAIN) Electors of Arran Quay, Inns Quay, Rotunda, Mountjoy and North Dock, better run a tramline, I say, from the cattlemarket to the river. ”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10890894/James-joyce-ulysses-chap-17-ithaca/Scheme",
+    "original_id": "10890894",
+    "referent_id": 10890894,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "scheme",
+    "prefix": "avigation (10/- per person per day, guide (trilingual) included). A scheme for the repristination of passenger and goods traffics over Irish waterways, when freed from weedbeds. A ",
+    "suffix": " to connect by tramline the Cattle Market (North 1986#590Circular road and Prussia street) with the quays (Sheriff street, lower, and East Wall), parallel with the Link line railwa",
+    "start": 109224,
+    "end": 109230,
+    "canonical_text": "scheme"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9712
+  },
+  "genius": {
+    "referent_id": 10890894,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1872332",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "I’m hanging on to his taw now for the past fortnight and I can’t get a penny out of him",
+  "html_source": "<p>The unnamed narrator is a debt collector, throwing the later stereotypes about Jewish people into comic relief.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1872332/James-joyce-ulysses-chap-12-cyclops/Im-hanging-on-to-his-taw-now-for-the-past-fortnight-and-i-cant-get-a-penny-out-of-him",
+    "original_id": "1872332",
+    "referent_id": 1872332,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "I'm hanging on to his taw now for the past fortnight and I can't get a penny out of him",
+    "prefix": "off a hop-of-my-thumb by the name of Moses Herzog over there near Heytesbury street. \n\n — Circumcised? says Joe. \n\n — Ay, says I. A bit off the top. An old plumber named Geraghty. ",
+    "suffix": ". \n\n — That the lay you're on now? says Joe. \n\n — Ay, says I. How are the mighty fallen! Collector of bad and doubtful debts. But that's the most notorious bloody robber you'd meet",
+    "start": 1164,
+    "end": 1251,
+    "canonical_text": "I'm hanging on to his taw now for the past fortnight and I can't get a penny out of him"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1872332,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 211351,
+        "login": "prepski",
+        "name": "prepski",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

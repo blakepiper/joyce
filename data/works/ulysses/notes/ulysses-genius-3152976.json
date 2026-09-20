@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-3152976",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Cuchulin, Conn of hundred battles",
+  "html_source": "<p>Traditional Irish mythological hero. Much invoked by Joyce’s contemporary, William Butler Yeats.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3152976/James-joyce-ulysses-chap-12-cyclops/Cuchulin-conn-of-hundred-battles",
+    "original_id": "3152976",
+    "referent_id": 3152976,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Cuchulin, Conn of hundred battles",
+    "prefix": "tones which jangled at every movement of his portentous frame and on these were graven with rude yet striking art the tribal images of many Irish heroes and heroines of antiquity, ",
+    "suffix": ", Niall of nine hostages, Brian of Kincora, the ardri Malachi, Art MacMurragh, Shane O'Neill, Father John Murphy, Owen Roe, Patrick Sarsfield, Red Hugh O'Donnell, Red Jim MacDermot",
+    "start": 11433,
+    "end": 11466,
+    "canonical_text": "Cuchulin, Conn of hundred battles"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3152976,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 149810,
+        "login": "perfectrhyme",
+        "name": "Perfectrhyme",
+        "role": "editor",
+        "attribution": 0.6666666666666667
+      },
+      {
+        "id": 591961,
+        "login": "dbrannen",
+        "name": "dbrannen",
+        "role": "contributor",
+        "attribution": 0.33333333333333337
+      }
+    ]
+  },
+  "color": "F59627"
+}

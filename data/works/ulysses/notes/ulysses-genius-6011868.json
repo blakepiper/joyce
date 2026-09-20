@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-6011868",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Enrique Flor",
+  "html_source": "<p>Enrique Flor, Spanish for Henry Flower, Bloom’s pseudonym for corresponding with Martha</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6011868/James-joyce-ulysses-chap-12-cyclops/Enrique-flor",
+    "original_id": "6011868",
+    "referent_id": 6011868,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Enrique Flor",
+    "prefix": " plume rose being worked into the pleats in a pinstripe and repeated capriciously 1922#313in the jadegreen toques in the form of heron feathers 1986#268of paletinted coral. Senhor ",
+    "suffix": " presided at the organ with his wellknown ability and, in addition to the prescribed numbers of the nuptial mass, played a new and striking arrangement of Woodman, spare that tree ",
+    "start": 82389,
+    "end": 82401,
+    "canonical_text": "Enrique Flor"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6011868,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1689524,
+        "login": "LeopoldQ",
+        "name": "LeopoldQ",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

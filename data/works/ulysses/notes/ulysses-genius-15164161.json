@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15164161",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Brevi manu",
+  "html_source": "<p>Literally Latin for “short-handed”, but originally used to indicate a direct delivery, without intermediaries. Can also mean “without delay” or “at once”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15164161/James-joyce-ulysses-chap-15-circe/Brevi-manu",
+    "original_id": "15164161",
+    "referent_id": 15164161,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "brevi manu",
+    "prefix": "ty.) Do you want three girls? It's ten shillings here. \n\n STEPHEN \n\n(Delightedly.) A hundred thousand apologies. (He fumbles again and takes out and hands her two crowns.) Permit, ",
+    "suffix": ", my sight is somewhat troubled. \n\n(Bella goes to the table to count the money while Stephen talks to himself in monosyllables. Zoe bends over the 1961#556table. Kitty leans over Z",
+    "start": 176977,
+    "end": 176987,
+    "canonical_text": "brevi manu"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15164161,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

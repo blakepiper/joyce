@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2081127",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Store of knowledge.",
+  "html_source": "<p>This ends the section in the style of Laurence Sterne, which began with “Here the listener who.”</p><p><img src=\"https://images.genius.com/f0319d64691b48e8ca262fa48145fa94.499x421x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2081127/James-joyce-ulysses-chap-14-oxen-of-the-sun/Store-of-knowledge",
+    "original_id": "2081127",
+    "referent_id": 2081127,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "store of knowledge.",
+    "prefix": "tongue the outer chamber of my ear), the first is a bath... But at this point a bell tinkling in the hall cut short a discourse which promised so bravely for the enrichment of our ",
+    "suffix": " \n\n1986#3311961#405\n\n Amid the general vacant hilarity of the assembly a bell rang and, while all were conjecturing what might be the cause, Miss Callan entered and, having spoken ",
+    "start": 57568,
+    "end": 57587,
+    "canonical_text": "store of knowledge."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2081127,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

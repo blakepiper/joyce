@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10616586",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Lafayette",
+  "html_source": "<p>Her Majesty’s Royal Photographer in Dublin is still in business.<br /><a href=\"https://www.lafayette.ie/Main.aspx?Id=1\" rel=\"noopener nofollow\">https://www.lafayette.ie/Main.aspx?Id=1</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10616586/James-joyce-ulysses-chap-16-eumaeus/Lafayette",
+    "original_id": "10616586",
+    "referent_id": 10616586,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Lafayette",
+    "prefix": " was In Old Madrid, a ballad, pretty in its way, which was then all the vogue. Her (the lady's) eyes, dark, large, looked at Stephen, about to smile about something to be admired, ",
+    "suffix": " of Westmoreland street, Dublin's premier photographic artist, being responsible for the esthetic execution. \n\n — Mrs Bloom, my wife the prima donna, Madam Marion Tweedy, Bloom ind",
+    "start": 98676,
+    "end": 98685,
+    "canonical_text": "Lafayette"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10616586,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

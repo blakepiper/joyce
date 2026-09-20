@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8774161",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Philosopher’s stone",
+  "html_source": "<p>The philosopher’s stone is a legendary substance, allegedly capable of turning inexpensive metals into gold. It was sometimes believed to be an elixir of life, useful for rejuvenation and possibly for achieving immortality. For a long time, it was the most sought-after goal in Western alchemy.  The concept of the philosopher’s stone may have been inspired by the knowledge that metals like gold and silver could be hidden in alloys and ores, from which they could be recovered by the appropriate chemical treatment. Though the notion of a simple philosopher’s stone of the alchemic sense fell out of scientific conception by at least the 19th century, its metaphors and imagery persisted: man’s attempt to discover the essential secret of the universe, redemptively transforming not just lead into gold, but death into life.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8774161/James-joyce-ulysses-chap-5-lotus-eaters/Philosophers-stone",
+    "original_id": "8774161",
+    "referent_id": 8774161,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "philosopher's stone",
+    "prefix": "second. O, he can look it up in the prescriptions book. \n\n The chemist turned back page after page. Sandy shrivelled smell he seems to have. Shrunken skull. And old. Quest for the ",
+    "suffix": ". The alchemists. Drugs age you after mental excitement. Lethargy then. Why? Reaction. A lifetime in a night. Gradually changes your character. Living all the day among herbs, oint",
+    "start": 30356,
+    "end": 30375,
+    "canonical_text": "philosopher's stone"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8774161,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

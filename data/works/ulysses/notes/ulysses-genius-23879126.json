@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23879126",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "That",
+  "html_source": "<p>She recognised Bloom.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23879126/James-joyce-ulysses-chap-14-oxen-of-the-sun/That",
+    "original_id": "23879126",
+    "referent_id": 23879126,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "That",
+    "prefix": "she dread that God the Wreaker all mankind would fordo with water for his evil sins. Christ's rood made she on breastbone and him drew that he would rathe infare under her thatch. ",
+    "suffix": " man her will wotting worthful went in Horne's house. \n\n Loth to irk in Horne's hall hat holding the seeker stood. On her stow he ere was living with dear wife and lovesome daughte",
+    "start": 5850,
+    "end": 5854,
+    "canonical_text": "That"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 23879126,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

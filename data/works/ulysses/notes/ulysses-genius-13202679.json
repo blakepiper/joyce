@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13202679",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Ventre biche",
+  "html_source": "<p>(French) A coarse oath. In French, ventre de Dieu (God’s belly!) is an archaic oath. In order to avoid taking the holy name in vain, Dieu was either suppressed altogether or replaced with an innocuous word: Ventre! (Belly!), Ventre de loup! (Wolf’s belly!), Ventre de boeuf! (Bull’s belly!), Ventre de biche! (Doe’s belly!). Ventre de biche is always the name of a colour (reddish-white, or a light beige). I have not come across Joyce’s contraction of ventre de biche, which may be an error.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13202679/James-joyce-ulysses-chap-14-oxen-of-the-sun/Ventre-biche",
+    "original_id": "13202679",
+    "referent_id": 13202679,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "ventre biche",
+    "prefix": "y friend Monsieur Moore, that most accomplished traveller (I have just cracked a half bottle avec lui in a circle of the best wits of the town), is my authority that in Cape Horn, ",
+    "suffix": ", they have a rain that will wet through 1932#366any, even the stoutest cloak. A drenching of that violence, he tells me, sans blague, has sent more than one luckless fellow in goo",
+    "start": 56321,
+    "end": 56333,
+    "canonical_text": "ventre biche"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13202679,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5585716,
+        "login": "BrianLawler",
+        "name": "BrianLawler",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

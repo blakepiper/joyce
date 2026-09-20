@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15130452",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Trencherman",
+  "html_source": "<p>A hearty eater or gourmand; one of large appetites (and usually of large proportions, as suggested here).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15130452/James-joyce-ulysses-chap-12-cyclops/Trencherman",
+    "original_id": "15130452",
+    "referent_id": 15130452,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "trencherman",
+    "prefix": "961#336want for aught. The king's friends (God bless His Majesty!) shall not go afasting in my house I warrant me. \n\n — Then about! cried the traveller who had not spoken, a lusty ",
+    "suffix": " by his aspect. Hast aught to give us? \n\n Mine host bowed again as he made answer: \n\n — What say you, good masters, to a squab pigeon pasty, some collops of venison, a saddle of ve",
+    "start": 103215,
+    "end": 103226,
+    "canonical_text": "trencherman"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15130452,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

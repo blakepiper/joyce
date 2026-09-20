@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15064274",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "I gall his kibe",
+  "html_source": "<p>From Hamlet 5.1: “gall” as in chafe; a “gibe” is a sore, typically a chilblain on one’s foot. Has the same effect as “I poke his sore spot” or “I irritate by calling attention to his flaw”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15064274/James-joyce-ulysses-chap-9-scylla-and-charybdis/I-gall-his-kibe",
+    "original_id": "15064274",
+    "referent_id": 15064274,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "I gall his kibe",
+    "prefix": "ill eleven. Irish nights entertainment. \n\n Lubber... \n\n Stephen followed a lubber... \n\n One day in the national library we had a discussion. Shakes. After his lub back I followed. ",
+    "suffix": ". \n\n Stephen, greeting, then all amort, followed a lubber jester, a wellkempt head, newbarbered, out of the vaulted cell into a shattering daylight of no thoughts. \n\n What have I l",
+    "start": 64433,
+    "end": 64448,
+    "canonical_text": "I gall his kibe"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15064274,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

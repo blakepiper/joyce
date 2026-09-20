@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4667129",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Entrez, mes enfants!",
+  "html_source": "<p>French: “Enter, my children” [Gifford]</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4667129/James-joyce-ulysses-chap-7-aeolus/Entrez-mes-enfants",
+    "original_id": "4667129",
+    "referent_id": 4667129,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Entrez, mes enfants!",
+    "prefix": "dle, Lenehan said. Are you ready? \n\n Mr O'Madden Burke, tall in copious grey of Donegal tweed, came in from the hallway. Stephen Dedalus, behind him, uncovered as he entered. \n\n — ",
+    "suffix": " Lenehan cried. \n\n1932#117\n\n — I escort a suppliant, Mr O'Madden Burke said melodiously. Youth led by Experience visits Notoriety. \n\n — How do you do? the editor said, holding out ",
+    "start": 27998,
+    "end": 28018,
+    "canonical_text": "Entrez, mes enfants!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4667129,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

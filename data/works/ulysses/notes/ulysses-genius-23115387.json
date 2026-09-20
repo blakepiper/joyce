@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23115387",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Maidenhead",
+  "html_source": "<p>A virgin</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23115387/James-joyce-ulysses-chap-15-circe/Maidenhead",
+    "original_id": "23115387",
+    "referent_id": 23115387,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Maidenhead",
+    "prefix": "dextro. Alleluia. \n\n(The famished snaggletusks of an elderly bawd protrude from a doorway.) \n\n1932#389\n\n THE BAWD \n\n(Her voice whispering huskily.) Sst! Come here till I tell you. ",
+    "suffix": " inside. Sst! \n\n STEPHEN \n\n(Altius aliquantulum.) Et omnes ad quos pervenit aqua ista. \n\n1922#410\n\n THE BAWD \n\n(Spits in their trail her jet of venom.) Trinity medicals. Fallopian ",
+    "start": 3685,
+    "end": 3695,
+    "canonical_text": "Maidenhead"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23115387,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11649475,
+        "login": "aburda",
+        "name": "aburda",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

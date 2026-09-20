@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9041527",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Prayer of Mary",
+  "html_source": "<p>The Memorare of St. Bernard<br />Remember, O most gracious Virgin Mary, that never was it known that any one who fled to thy protection, implored thy help, and sought thy intercession, was left unaided.<br />Inspired with this confidence, I fly unto thee, O Virgin of virgins, my Mother, to thee I come, before thee I stand sinful and sorrowful.<br />O Mother of the Word Incarnate! despise not my petitions, but, in thy mercy, hear and answer me. Amen.<br />CatholicOnline</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9041527/James-joyce-ulysses-chap-13-nausicaa/Prayer-of-mary",
+    "original_id": "9041527",
+    "referent_id": 9041527,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "prayer of Mary",
+    "prefix": "d erred and wandered, their eyes wet with contrition but for all that bright with hope for the reverend father Hughes had told them what the great saint Bernard said in his famous ",
+    "suffix": ", the most pious Virgin's intercessory power that it was not recorded in any age that those who implored her powerful protection were ever abandoned by her. \n\n The twins were now p",
+    "start": 26584,
+    "end": 26598,
+    "canonical_text": "prayer of Mary"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9041527,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

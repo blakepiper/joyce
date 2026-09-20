@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5110810",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Wallace Bros: the bottleworks",
+  "html_source": "<p>At 34 Ringsend Road</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5110810/James-joyce-ulysses-chap-6-hades/Wallace-bros-the-bottleworks",
+    "original_id": "5110810",
+    "referent_id": 5110810,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Wallace Bros: the bottleworks",
+    "prefix": "e Goulding faction, the drunken little costdrawer and Crissie, papa's little lump of dung, the wise child that knows her own father. \n\n Mr Bloom smiled joylessly on Ringsend road. ",
+    "suffix": ". Dodder bridge. \n\n Richie Goulding and the legal bag. Goulding, Collis and Ward he calls the firm. His jokes are getting a bit damp. Great card he was.1932#78 Waltzing in Stamer s",
+    "start": 3210,
+    "end": 3238,
+    "canonical_text": "Wallace Bros the bottleworks"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 5110810,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

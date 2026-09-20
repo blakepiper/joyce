@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2607475",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Encore deux minutes.",
+  "html_source": "<p>French for <em>Still two minutes left</em>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2607475/James-joyce-ulysses-chap-3-proteus/Encore-deux-minutes",
+    "original_id": "2607475",
+    "referent_id": 2607475,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Encore deux minutes.",
+    "prefix": "g to walk like? Forget: a dispossessed. With mother's money order, eight shillings, the banging door of the post office slammed in your face by the 1961#41usher. Hunger toothache. ",
+    "suffix": " Look clock. Must get. Fermé. Hired dog! Shoot him to bloody bits with a bang shotgun, bits man spattered walls all brass buttons. Bits all khrrrrklak in place clack back. Not hurt",
+    "start": 11510,
+    "end": 11530,
+    "canonical_text": "Encore deux minutes."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2607475,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 293151,
+        "login": "jeeho",
+        "name": "Jeeho",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

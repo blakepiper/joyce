@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8437432",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Tophet or to Edenville",
+  "html_source": "<p>To hell or to Garden of Eden</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8437432/James-joyce-ulysses-chap-14-oxen-of-the-sun/Tophet-or-to-edenville",
+    "original_id": "8437432",
+    "referent_id": 8437432,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Tophet or to Edenville",
+    "prefix": "hre amid the conclamation of the hillcat and the ossifrage. And as no man 1932#356knows the ubicity of his tumulus nor to what processes we shall thereby be ushered nor whether to ",
+    "suffix": " in the like way is all hidden when we would backward see from what region of remoteness the whatness of our whoness hath fetched his whenceness. \n\n Thereto Punch Costello roared o",
+    "start": 28402,
+    "end": 28424,
+    "canonical_text": "Tophet or to Edenville"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8437432,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

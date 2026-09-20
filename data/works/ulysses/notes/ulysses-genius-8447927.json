@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8447927",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Lancinating",
+  "html_source": "<p>Lancinate – to tear, pierce or stab.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8447927/James-joyce-ulysses-chap-14-oxen-of-the-sun/Lancinating",
+    "original_id": "8447927",
+    "referent_id": 8447927,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "lancinating",
+    "prefix": " golden, is no more. And on the highway of the clouds they come, muttering thunder of rebellion, the ghosts of beasts. Huuh! Hark! Huuh! Parallax stalks behind and goads them, the ",
+    "suffix": " lightnings of whose brow 1932#374are scorpions. Elk and yak, the bulls of Bashan and of Babylon, mammoth and mastodon, they come trooping to the sunken sea, Lacus Mortis. Ominous ",
+    "start": 78936,
+    "end": 78947,
+    "canonical_text": "lancinating"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8447927,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

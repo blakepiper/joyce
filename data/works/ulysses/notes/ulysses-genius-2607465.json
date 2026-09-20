@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2607465",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Lapin",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/ac316695b7b177c44ce774a9808b2ead.1000x665x1.jpg\" alt=\"\" /></p><p>French for <em>rabbit</em>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2607465/James-joyce-ulysses-chap-3-proteus/Lapin",
+    "original_id": "2607465",
+    "referent_id": 2607465,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "lapin",
+    "prefix": "m milk with me in the bar MacMahon. Son of the wild goose, Kevin Egan of Paris. My father's a bird, he lapped the sweet lait chaud with pink young tongue, plump bunny's face. Lap, ",
+    "suffix": ". He hopes to win in the gros lots. About the nature of women he read in Michelet. But he must send me La Vie de Jésus by M. Léo Taxil. Lent it to his friend. \n\n1986#34\n\n— C'est to",
+    "start": 10236,
+    "end": 10241,
+    "canonical_text": "lapin"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2607465,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 293151,
+        "login": "jeeho",
+        "name": "Jeeho",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

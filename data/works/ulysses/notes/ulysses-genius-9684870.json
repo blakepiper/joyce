@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9684870",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Morituri te salutant",
+  "html_source": "<p>“They who are about to die salute you”<br />Supposedly said by Roman galdiators before combat.<br /><a href=\"http://ancienthistory.about.com/od/games/qt/morituritesalut.htm\" rel=\"noopener nofollow\">http://ancienthistory.about.com/od/games/qt/morituritesalut.htm</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9684870/James-joyce-ulysses-chap-15-circe/Morituri-te-salutant",
+    "original_id": "9684870",
+    "referent_id": 9684870,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Morituri te salutant",
+    "prefix": "ll marked in red with the letters: L. B. Several paupers fall from a ladder. A part of the walls of Dublin, crowded with loyal sightseers, collapses.) \n\n THE SIGHTSEERS \n\n(Dying.) ",
+    "suffix": ". (They die.) \n\n(A man in a brown macintosh springs up through a trapdoor. He points an elongated finger at Bloom.) \n\n1932#429\n\n THE MAN IN THE MACINTOSH \n\n Don't you believe a wor",
+    "start": 78103,
+    "end": 78123,
+    "canonical_text": "Morituri te salutant"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9684870,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

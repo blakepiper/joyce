@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8793730",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "John Barleycorn",
+  "html_source": "<p>noun<br />a personification of barley, or of malt liquor.</p><p>John Barleycorn is an old English folksong that originated in the 16th century. It was a popular tale, though remains somewhat disturbing, even today. Primarily an allegorical story of death, resurrection and drinking, the main character—the eponymous John Barleycorn—is the personification of barley who is attacked and made to suffer indignities and eventually death. These correspond roughly to the stages of barley growing and cultivation, like reaping and malting.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8793730/James-joyce-ulysses-chap-6-hades/John-barleycorn",
+    "original_id": "8793730",
+    "referent_id": 8793730,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "John Barleycorn",
+    "prefix": "ttle man as ever wore a hat, Mr Dedalus said. He went very suddenly. \n\n — Breakdown, Martin Cunningham said. Heart. \n\n He tapped his chest sadly. \n\n Blazing face: redhot. Too much ",
+    "suffix": ". Cure for a red nose. Drink like the devil till it turns adelite. A lot of money he spent colouring it. \n\n Mr Power gazed at the passing houses with rueful apprehension. \n\n — He h",
+    "start": 17713,
+    "end": 17728,
+    "canonical_text": "John Barleycorn"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8793730,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10194176",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Dr Eustace",
+  "html_source": "<p>Dr John Eustace of the Hampstead and Highfield Private Asylums in Dublin…His sympathy with the insane was earnest and sincere.<br />From his obituary in the British Journal of Psychiatry, Vol 45<br /><a href=\"https://books.google.com/books?id=8FA9AQAAMAAJ&amp;pg=PA626&amp;lpg=PA626&amp;dq=dr+eustace+asylum&amp;source=bl&amp;ots=KprAvSB_vP&amp;sig=n1p_8ojr4xMPMbNzOIHBbrrIAxw&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiQz-6OrqbOAhUp1oMKHSU-DpkQ6AEIITAC#v=onepage&amp;q=dr%20eustace%20asylum&amp;f=false\" rel=\"noopener nofollow\">https://books.google.com/books?id=8FA9AQAAMAAJ&amp;pg=PA626&amp;lpg=PA626&amp;dq=dr+eustace+asylum&amp;source=bl&amp;ots=KprAvSB_vP&amp;sig=n1p_8ojr4xMPMbNzOIHBbrrIAxw&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiQz-6OrqbOAhUp1oMKHSU-DpkQ6AEIITAC#v=onepage&amp;q=dr%20eustace%20asylum&amp;f=false</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10194176/James-joyce-ulysses-chap-15-circe/Dr-eustace",
+    "original_id": "10194176",
+    "referent_id": 10194176,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Dr Eustace",
+    "prefix": "ecialist, to give medical testimony on my behalf. \n\n DR MULLIGAN \n\n(In motor jerkin, green motorgoggles on his brow.) Dr Bloom is bisexually abnormal. He has recently escaped from ",
+    "suffix": "'s private asylum for demented gentlemen. Born out of bedlock hereditary epilepsy is present, the consequence of unbridled lust. Traces of elephantiasis have been discovered among ",
+    "start": 88439,
+    "end": 88449,
+    "canonical_text": "Dr Eustace"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10194176,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

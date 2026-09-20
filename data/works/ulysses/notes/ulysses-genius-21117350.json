@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21117350",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Hamlet (père?) and Hamlet fils",
+  "html_source": "<p>Stephen is echoing (mocking?) Eglinton’s confusion about which Dumas he is quoting, by noting that both the king and prince are named Hamlet, both are dead by end of the play, but that both are products of Shakespeare’s imagination and thus, projections of his self, and so both, in some sense, die with Shakespeare because the complexity of Shakespeare’s conflicting aspects of self die with Shakespeare.</p><p>Of course, this is also presented by Joyce as irony because these characters are intimately and passionately engaged in attempts to understand Shakespeare through his work, which implies a belief that, though dead, Shakespeare is capable of being, at least somewhat, understood.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21117350/James-joyce-ulysses-chap-9-scylla-and-charybdis/Hamlet-pere-and-hamlet-fils",
+    "original_id": "21117350",
+    "referent_id": 21117350,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Hamlet (père?) and Hamlet fils",
+    "prefix": " he has always been, man and boy, a silent witness and there, his journey of life ended, he plants his mulberrytree in the earth. Then dies. The motion is ended. Gravediggers bury ",
+    "suffix": ". A king and a prince at last in death, with incidental music. And, what though murdered and betrayed, bewept by all frail tender hearts for, Dane or Dubliner, sorrow for the dead ",
+    "start": 60025,
+    "end": 60053,
+    "canonical_text": "Hamlet père? and Hamlet fils"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 21117350,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

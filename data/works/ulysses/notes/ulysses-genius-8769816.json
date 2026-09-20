@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8769816",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Dead sea floating on his back",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/50489910592025b1bdbaf845f07c232f.640x480x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8769816/James-joyce-ulysses-chap-5-lotus-eaters/Dead-sea-floating-on-his-back",
+    "original_id": "8769816",
+    "referent_id": 8769816,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "dead sea floating on his back",
+    "prefix": "red 1986#58to. Sleeping sickness 1961#71in the air. Walk on roseleaves. Imagine trying to eat tripe and cowheel. Where was the chap I saw in that picture somewhere? Ah yes, in the ",
+    "suffix": ", reading a book with a parasol open. Couldn't sink if you tried: so thick with salt. Because the weight of the water, no, the weight of the body in the water is equal to the weigh",
+    "start": 2724,
+    "end": 2753,
+    "canonical_text": "dead sea floating on his back"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8769816,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

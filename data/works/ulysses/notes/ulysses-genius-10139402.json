@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10139402",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Breakdown",
+  "html_source": "<p>A fast paced bluegrass instrumental song with multiple musical breaks<br /><a href=\"https://www.youtube.com/watch?v=W0gCI7IVRag\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=W0gCI7IVRag</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10139402/James-joyce-ulysses-chap-15-circe/Breakdown",
+    "original_id": "10139402",
+    "referent_id": 10139402,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "breakdown",
+    "prefix": " buttonholes, leap 1932#398out. Each has his banjo slung. Their paler smaller negroid hands jingle the twingtwang wires. Flashing white Kaffir eyes and tusks they rattle through a ",
+    "suffix": " in clumsy clogs, twinging, singing, back to back, toe heel, heel toe, with smackfatclacking nigger lips.) \n\n1922#421\n\n TOM AND SAM \n\n There's someone in the house with Dina \nThere",
+    "start": 19824,
+    "end": 19833,
+    "canonical_text": "breakdown"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10139402,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

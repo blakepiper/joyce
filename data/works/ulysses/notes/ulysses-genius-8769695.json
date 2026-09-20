@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8769695",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Piles",
+  "html_source": "<p>Piles are hemorrhoids that become inflamed. Hemorrhoids are masses, clumps, cushions of tissue in the anal canal – they are full of blood vessels, support tissue, muscle and elastic fibers.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8769695/James-joyce-ulysses-chap-4-calypso/Piles",
+    "original_id": "8769695",
+    "referent_id": 8769695,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "piles",
+    "prefix": "ce yielding, he allowed his bowels to ease themselves quietly as he read, reading still patiently, that slight constipation of yesterday quite gone. Hope it's not too big bring on ",
+    "suffix": " again. No, just right. So. Ah! Costive. One tabloid of cascara sagrada. Life might be so. It did not move or touch him but it was something quick and neat. Print anything now. Sil",
+    "start": 31378,
+    "end": 31383,
+    "canonical_text": "piles"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8769695,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

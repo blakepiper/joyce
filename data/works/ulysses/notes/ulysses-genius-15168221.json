@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15168221",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Au fait",
+  "html_source": "<p>French expression which, used in this fashion, means having a good or detailed knowledge of something (i.e., “in the know”). From French, literally ‘to the fact, to the point.’</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15168221/James-joyce-ulysses-chap-16-eumaeus/Au-fait",
+    "original_id": "15168221",
+    "referent_id": 15168221,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "au fait",
+    "prefix": " at Alexandra basin, the only launch that year. Right enough the harbours were there only no ships ever called. \n\n There were wrecks and wrecks, the keeper said, who was evidently ",
+    "suffix": ". \n\n What he wanted to ascertain was why that ship ran bang against the only rock in Galway bay when the Galway harbour scheme was mooted by a Mr Worthington or some name like that",
+    "start": 65369,
+    "end": 65376,
+    "canonical_text": "au fait"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15168221,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

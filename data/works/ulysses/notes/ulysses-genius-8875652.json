@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8875652",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Distrained for rent",
+  "html_source": "<p>The right of a landlord to seize the property of a tenant which is in the premises being rented, as collateral against a tenant that has not paid the rent or has otherwise defaulted on the lease.</p><p>Cowley’s landlord has prior claim to be paid rent over Rueben’s claim to be repaid a loan.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8875652/James-joyce-ulysses-chap-10-wandering-rocks/Distrained-for-rent",
+    "original_id": "8875652",
+    "referent_id": 8875652,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "distrained for rent",
+    "prefix": "utton of his coat wagging brightbacked from its thread as he wiped away the heavy shraums that clogged his eyes to hear aright. \n\n — What few days? he boomed. Hasn't your landlord ",
+    "suffix": "? \n\n — He has, Father Cowley said. \n\n1986#201\n\n — Then our friend's writ is not worth the paper it's printed on, Ben Dollard said. The landlord has the prior claim. I gave him all ",
+    "start": 54308,
+    "end": 54327,
+    "canonical_text": "distrained for rent"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8875652,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

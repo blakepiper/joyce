@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2607436",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Basta!",
+  "html_source": "<p>Italian for <em>Enough!</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2607436/James-joyce-ulysses-chap-3-proteus/Basta",
+    "original_id": "2607436",
+    "referent_id": 2607436,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Basta!",
+    "prefix": "eter of iambs marching. No, agallop: deline the mare. \n\n1922#37\n\n Open your eyes now. I will. One moment. Has all vanished since? If I open and am for ever in the black adiaphane. ",
+    "suffix": " I will see if I can see. \n\n See now. There all the time without you: and ever shall be, world without end. \n\n They came down the steps from Leahy's terrace prudently, Frauenzimmer",
+    "start": 1657,
+    "end": 1663,
+    "canonical_text": "Basta!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2607436,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 293151,
+        "login": "jeeho",
+        "name": "Jeeho",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8773803",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Quis est homo",
+  "html_source": "<p>Part of lyric from Rossini’s Stabat Mater</p><p>Quis est homo qui non fleret<br />Christi Matrem si videret<br />In tanto supplicio?</p><p>What man would not weep<br />if he saw the Mother of Christ<br />in such torment?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8773803/James-joyce-ulysses-chap-5-lotus-eaters/Quis-est-homo",
+    "original_id": "8773803",
+    "referent_id": 8773803,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Quis est homo",
+    "prefix": "nted. Footdrill stopped. Could hear a pin drop. I told her to pitch her voice against that corner. I could feel the thrill in the air, the full, the people looking up: \n\n1932#72\n\n ",
+    "suffix": ". \n\n Some of that old sacred music is splendid. Mercadante: seven last words. Mozart's twelfth mass: the Gloria in that. Those old popes were keen on music, on art and statues and ",
+    "start": 25503,
+    "end": 25516,
+    "canonical_text": "Quis est homo"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8773803,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

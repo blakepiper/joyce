@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11238103",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Absentminded beggar",
+  "html_source": "<p><a href=\"https://www.youtube.com/watch?v=MTGTsI7W6yU\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=MTGTsI7W6yU</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11238103/James-joyce-ulysses-chap-18-penelope/Absentminded-beggar",
+    "original_id": "11238103",
+    "referent_id": 11238103,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "absentminded beggar",
+    "prefix": " ago when was it St Teresas hall Clarendon St little chits of missies they have now singing Kathleen Kearney and her like on account of father being in the army and my singing the ",
+    "suffix": " and wearing a brooch for Lord Roberts when I had the map of it all and Poldy not Irish enough was it him managed it this time I wouldnt put it past him like he got me on to sing i",
+    "start": 28089,
+    "end": 28108,
+    "canonical_text": "absentminded beggar"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11238103,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

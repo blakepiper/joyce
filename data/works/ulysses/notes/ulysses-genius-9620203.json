@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9620203",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Sir Walter Raleigh",
+  "html_source": "<p>There seems to be debate about whether potatoes and tobacco were introduced to Europe by Sir Francis Drake<br /><a href=\"https://www.lib.umn.edu/bell/tradeproducts/tobacco\" rel=\"noopener nofollow\">https://www.lib.umn.edu/bell/tradeproducts/tobacco</a><br />or Sir Walter Raleigh<br /><a href=\"http://www.biography.com/people/walter-raleigh-9450901#profile\" rel=\"noopener nofollow\">http://www.biography.com/people/walter-raleigh-9450901#profile</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9620203/James-joyce-ulysses-chap-15-circe/Sir-walter-raleigh",
+    "original_id": "9620203",
+    "referent_id": 9620203,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Sir Walter Raleigh",
+    "prefix": ". \n\n1922#451\n\n ZOE \n\n Go on. Make a stump speech out of it. \n\n BLOOM \n\n(In workman's corduroy overalls, black gansy with red floating tie and apache cap.) Mankind is incorrigible. ",
+    "suffix": " brought from the new world that potato and that weed, the one a killer of pestilence by absorption, the other a poisoner of the ear, eye, heart, memory, will, understanding, all. ",
+    "start": 67455,
+    "end": 67472,
+    "canonical_text": "Sir Walter Ralegh"
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9714
+  },
+  "genius": {
+    "referent_id": 9620203,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

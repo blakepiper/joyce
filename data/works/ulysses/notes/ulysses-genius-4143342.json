@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4143342",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Albert Edward",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/4ba11dbbe4551797c2a24cd04c8e5fd9.200x303x1.jpg\" alt=\"\" /></p><p>Became Edward 7th. Reigned from 1901 to 1910.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4143342/James-joyce-ulysses-chap-2-nestor/Albert-edward",
+    "original_id": "4143342",
+    "referent_id": 4143342,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "Albert Edward",
+    "prefix": "— I fear those big words, Stephen said, which make us so unhappy. \n\n Mr Deasy stared sternly for some moments over the mantelpiece at the shapely bulk of a man in tartan filibegs: ",
+    "suffix": ", prince of Wales. \n\n — You think me an old fogey and an old tory, his thoughtful voice said. I saw three generations since O'Connell's time. I remember the famine in '46. Do you k",
+    "start": 14936,
+    "end": 14949,
+    "canonical_text": "Albert Edward"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4143342,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1209714,
+        "login": "AlexBeston",
+        "name": "AlexBeston",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

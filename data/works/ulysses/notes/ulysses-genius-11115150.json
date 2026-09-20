@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11115150",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Sinner Fein",
+  "html_source": "<p>Sinn Féin is an Irish republican political party dedicated to the reunification of Ireland and an end to British administration in Northern Ireland. It was founded in 1905, so it would be an active movement in 1904. Is Molly making a joke of their name or actually mistaking it?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11115150/James-joyce-ulysses-chap-18-penelope/Sinner-fein",
+    "original_id": "11115150",
+    "referent_id": 11115150,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Sinner Fein",
+    "prefix": "music I put him up to that till the jesuits found out he was a freemason thumping the piano lead Thou me on copied from some old opera yes and he was going about with some of them ",
+    "suffix": " lately or whatever they call themselves talking his usual trash and nonsense he says that little man he showed me without the neck is very intelligent the coming man Griffith is h",
+    "start": 28546,
+    "end": 28557,
+    "canonical_text": "Sinner Fein"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 11115150,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

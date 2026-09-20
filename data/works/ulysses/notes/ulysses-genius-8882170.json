@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8882170",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Von der Sirenen Listigkeit\n Tun die Poeten dichten",
+  "html_source": "<p>German for: “From the Sirens' craftiness / Poets make poems.” Jeep’s song was taken from a Renaissance Latin translation of <em>The Odyssey</em>.  The significance for Stephen and his aspirations is obvious. Other lyrics in that first verse have more to do with Bloom’s concern of what might rob a young aspiring poet of his gifts, being lured by those sirens: \"</p><p>“That they with their loveliness / Have drawn many men into the sea / For their song resounds so sweetly, / That the sailors fall asleep,  The ship is brought into misfortune, / And all becomes evil.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8882170/James-joyce-ulysses-chap-16-eumaeus/Von-der-sirenen-listigkeit-tun-die-poeten-dichten",
+    "original_id": "8882170",
+    "referent_id": 8882170,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Von der Sirenen Listigkeit\n Tun die Poeten dichten",
+    "prefix": "here the frows come from. Even more he liked an old German song of Johannes Jeep about the clear sea and the voices of sirens, sweet murderers of men, which boggled Bloom a bit: \n\n",
+    "suffix": ". \n\n These opening bars he sang and translated extempore. Bloom, nodding, said he perfectly understood and begged him to go on by all means, which he did. \n\n A phenomenally beautif",
+    "start": 125535,
+    "end": 125585,
+    "canonical_text": "Von der Sirenen Listigkeit \nTun die Poeten dichten"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 8882170,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

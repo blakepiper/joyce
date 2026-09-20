@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8435780",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Ubi_ and _quomodo",
+  "html_source": "<p>(Latin) the where and the manner</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8435780/James-joyce-ulysses-chap-14-oxen-of-the-sun/Ubi-and-quomodo",
+    "original_id": "8435780",
+    "referent_id": 8435780,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "ubi_ and _quomodo",
+    "prefix": "ather showeth the prince no blister of combustion. The adiaphane in the noon of life is an Egypt's plague which in the nights of prenativity and postmortemity is their most proper ",
+    "suffix": ". And as the ends and ultimates of all things accord in some mean and measure with their inceptions and originals, that same multiplicit concordance which leads forth growth from b",
+    "start": 27603,
+    "end": 27618,
+    "canonical_text": "ubi and quomodo"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 8435780,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

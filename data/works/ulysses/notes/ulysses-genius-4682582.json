@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4682582",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Metempsychosis",
+  "html_source": "<blockquote><p>the supposed transmigration at death of the soul of a human being or animal into a new body of the same or a different species.</p></blockquote>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4682582/James-joyce-ulysses-chap-4-calypso/Metempsychosis",
+    "original_id": "4682582",
+    "referent_id": 4682582,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Metempsychosis",
+    "prefix": "with the hairpin till she reached the word. \n\n — Met him what? he asked. \n\n — Here, she said. What does that mean? \n\n He leaned downward and read near her polished thumbnail. \n\n — ",
+    "suffix": "? \n\n1932#56\n\n — Yes. Who's he when he's at home? \n\n1939#49\n\n — Metempsychosis, he said, frowning. It's Greek: from the Greek. That means the transmigration of souls. \n\n — O, rocks!",
+    "start": 20837,
+    "end": 20851,
+    "canonical_text": "Metempsychosis"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9025
+  },
+  "genius": {
+    "referent_id": 4682582,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

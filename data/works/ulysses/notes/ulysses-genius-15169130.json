@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15169130",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Rhabdomantic",
+  "html_source": "<p><a href=\"https://en.wiktionary.org/wiki/rhabdomancy\" rel=\"noopener nofollow\">Rhabdomantic</a> means related to divination with a wand or rod, most commonly for dowsing (finding hidden sources of water)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15169130/James-joyce-ulysses-chap-17-ithaca/Rhabdomantic",
+    "original_id": "15169130",
+    "referent_id": 15169130,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "rhabdomantic",
+    "prefix": "eysers, cataracts, whirlpools, maelstroms, inundations, deluges, cloudbursts: its vast circumterrestrial ahorizontal curve: its secrecy in springs and latent humidity, revealed by ",
+    "suffix": " or hygrometric instruments and exemplified by the hole in the wall at Ashtown gate, saturation of air, distillation of dew: the simplicity of its composition, two constituent part",
+    "start": 13897,
+    "end": 13909,
+    "canonical_text": "rhabdomantic"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15169130,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

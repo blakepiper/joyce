@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4781505",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Do I contradict myself? Very well then, I contradict myself.",
+  "html_source": "<p>Direct quotation from Walt Whitman’s “Song of Myself” from <em>Leaves of Grass</em>: “Do I contradict myself? Very well then … . I contradict myself; I am large … . I contain multitudes.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4781505/James-joyce-ulysses-chap-1-telemachus/Do-i-contradict-myself-very-well-then-i-contradict-myself",
+    "original_id": "4781505",
+    "referent_id": 4781505,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Do I contradict myself? Very well then, I contradict myself.",
+    "prefix": "hands plunged and rummaged in his trunk while he called for a clean handkerchief. God, we'll simply have to dress the character. I want puce gloves and green boots. Contradiction. ",
+    "suffix": " Mercurial Malachi. A limp black missile flew out of his talking hands. \n\n — And there's your Latin quarter hat, he said. \n\n Stephen picked it up and put it on. Haines called to th",
+    "start": 29044,
+    "end": 29104,
+    "canonical_text": "Do I contradict myself? Very well then, I contradict myself."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4781505,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1472854,
+        "login": "Sopranoman",
+        "name": "Sopranoman",
+        "role": null,
+        "attribution": 0.8214285714285714
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.17857142857142858
+      }
+    ]
+  },
+  "color": "F59627"
+}

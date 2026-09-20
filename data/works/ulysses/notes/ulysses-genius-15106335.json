@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15106335",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Pomellated",
+  "html_source": "<p>This appears to be a term original to Joyce. To speculate at its meaning, it may derive from “pome” and thus may be redundant (i.e.,  “apple-y apples”)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15106335/James-joyce-ulysses-chap-12-cyclops/Pomellated",
+    "original_id": "15106335",
+    "referent_id": 15106335,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "pomellated",
+    "prefix": "y, and trays of onions, pearls of the earth, and punnets of mushrooms and custard marrows and fat vetches and bere and rape and red green yellow brown russet sweet big bitter ripe ",
+    "suffix": " apples and chips of strawberries and sieves of gooseberries, pulpy and pelurious, and strawberries fit for princes and raspberries from their canes. \n\n I dare him, says he, and I ",
+    "start": 6451,
+    "end": 6461,
+    "canonical_text": "pomellated"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15106335,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

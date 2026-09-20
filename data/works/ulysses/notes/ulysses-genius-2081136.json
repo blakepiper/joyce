@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2081136",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Accordingly he broke his mind",
+  "html_source": "<p>This section (from “Accordingly he broke his mind” to “feather laugh together”) is in the style of Irish playwright and politician <a href=\"http://en.wikipedia.org/wiki/Richard_Brinsley_Sheridan\" rel=\"noopener nofollow\">Richard Brinsley Sheridan</a>.</p><p><img src=\"https://images.genius.com/0a3ea6795819f4adf3ff0fcd415c205a.267x341x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2081136/James-joyce-ulysses-chap-14-oxen-of-the-sun/Accordingly-he-broke-his-mind",
+    "original_id": "2081136",
+    "referent_id": 2081136,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Accordingly he broke his mind",
+    "prefix": "e alleviated by the intelligence that the issue so auspicated after an ordeal of such duress now testified once more to the mercy as well as to the bounty of the Supreme Being. \n\n ",
+    "suffix": " to his neighbour, saying that, to express his notion of the thing, his opinion (who ought not perchance to express one) was that one must have a cold constitution and a frigid gen",
+    "start": 63528,
+    "end": 63557,
+    "canonical_text": "Accordingly he broke his mind"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2081136,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

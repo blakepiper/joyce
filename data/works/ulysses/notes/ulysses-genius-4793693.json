@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4793693",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Comyn",
+  "html_source": "<p>Comyn was the name of a powerful and prominent family in Scotland after the Norman Conquest. It spent itself in a futile (<a href=\"https://genius.com/4793672/James-joyce-ulysses-chap-2-nestor/The-end-of-pyrrhus\" rel=\"noopener nofollow\">Pyrrhic</a>) struggle to preserve the Scots' independence in the course of the 13th century.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4793693/James-joyce-ulysses-chap-2-nestor/Comyn",
+    "original_id": "4793693",
+    "referent_id": 4793693,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "Comyn",
+    "prefix": "pear. Any general to any officers. They lend ear. \n\n — You, Armstrong, Stephen said. What was the end of Pyrrhus? \n\n — End of Pyrrhus, sir? \n\n1932#22\n\n — I know, sir. Ask me, sir, ",
+    "suffix": " said. \n\n — Wait. You, Armstrong. Do you know anything about Pyrrhus? \n\n A bag of figrolls lay snugly in Armstrong's satchel. He curled them between his palms at whiles and swallow",
+    "start": 1006,
+    "end": 1011,
+    "canonical_text": "Comyn"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9381
+  },
+  "genius": {
+    "referent_id": 4793693,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 0.9444444444444444
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.05555555555555555
+      }
+    ]
+  },
+  "color": "F59627"
+}

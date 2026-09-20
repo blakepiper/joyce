@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8962327",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Adam and Eve’s",
+  "html_source": "<p>Church of Adam and Eve  </p><p><img src=\"https://images.rapgenius.com/cc6fcc94bd927b327fb431f84d4362e2.250x333x1.jpg\" alt=\"\" /></p><p>Address: Merchant’s Quay, Dublin 8, Ireland</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8962327/James-joyce-ulysses-chap-12-cyclops/Adam-and-eves",
+    "original_id": "8962327",
+    "referent_id": 8962327,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Adam and Eve's",
+    "prefix": "and a bully on guard, drinking porter out of teacups. And calling himself a Frenchy for the shawls, Joseph Manuo, and talking against the Catholic religion, and he serving mass in ",
+    "suffix": " when he was young with his eyes shut, who wrote the new testament, and the old testament, and hugging and smugging. And the two shawls killed with the laughing, picking his pocket",
+    "start": 52192,
+    "end": 52206,
+    "canonical_text": "Adam and Eve's"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8962327,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

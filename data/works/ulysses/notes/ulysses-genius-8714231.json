@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8714231",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Your genius father",
+  "html_source": "<p>This likely refers to Daedalus, who cunningly constructed the labyrinth on Crete in which the minataur was kept, the innovator who, according to Pliny, invented carpentry “and with it the saw, axe, plumb-line, drill, glue, and isinglass.” Pausanius wrote of Daedalus, “All the works of this artist, though somewhat uncouth to look at, nevertheless have a touch of the divine in them.” It most certainly does not refer to Simon Dedalus, whose self-aggrandizing antics Stephen abhors, and yet, perhaps affected by alcohol, exhibits himself in this scene.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8714231/James-joyce-ulysses-chap-14-oxen-of-the-sun/Your-genius-father",
+    "original_id": "8714231",
+    "referent_id": 8714231,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "your genius father",
+    "prefix": "eaves, smiling at Vincent. That answer and those leaves, Vincent said to him, will adorn you more fitly when something more, and greatly more, than a capful of light odes can call ",
+    "suffix": ". All who wish you well hope this for 1922#394you. All desire to see you bring forth the work you meditate. I heartily wish you may not fail them. O no, Vincent Lenehan said, layin",
+    "start": 81101,
+    "end": 81119,
+    "canonical_text": "your genius father"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8714231,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9087439",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Touch me not.",
+  "html_source": "<p>“For I am not yet ascended to my Father” (John 20:17): Jesus' words to Mary Magdalene after the Resurrection, when he discovers her weeping at the empty tomb.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9087439/James-joyce-ulysses-chap-10-wandering-rocks/Touch-me-not",
+    "original_id": "9087439",
+    "referent_id": 9087439,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Touch me not.",
+    "prefix": "ring his beard. I wrote to Father Conmee and laid the whole case before him. \n\n — You could try our friend, Mr Power suggested backward. \n\n — Boyd? Martin Cunningham said shortly. ",
+    "suffix": " \n\n John Wyse Nolan, lagging behind, reading the list, came after them quickly down Cork hill. \n\n On the steps of the City hall Councillor Nannetti, descending, hailed Alderman Cow",
+    "start": 55642,
+    "end": 55655,
+    "canonical_text": "Touch me not."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9087439,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083730,
+        "login": "mburkert",
+        "name": "mburkert",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

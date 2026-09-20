@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-24341725",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Cissy Caffrey",
+  "html_source": "<p>Cissy Caffrey was one of Gertie MacDowell’s companions on the Beach in the Nausicaa episode. Cissy’s presence in Night town (and her subsequent association with Private Carr) suggests that some of the shade Gertie throws Cissy’s way in her reverie is justified</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/24341725/James-joyce-ulysses-chap-15-circe/Cissy-caffrey",
+    "original_id": "24341725",
+    "referent_id": 24341725,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Cissy Caffrey",
+    "prefix": "a man roar, mutter, cease. Figures wander, lurk, peer from warrens. In a room lit by a candle stuck in a bottleneck a slut combs out the tatts from the hair of a scrofulous child. ",
+    "suffix": "'s voice, still young, sings shrill from a lane.) \n\n1932#388\n\n CISSY CAFFREY \n\nI gave it to Molly \nBecause she was jolly, \nThe leg of the duck, \nThe leg of the duck. \n\n(Private Car",
+    "start": 2115,
+    "end": 2128,
+    "canonical_text": "Cissy Caffrey"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.959
+  },
+  "genius": {
+    "referent_id": 24341725,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9699081,
+        "login": "AntoineBoisvert",
+        "name": "AntoineBoisvert",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

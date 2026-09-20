@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9037822",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Catesby’s cork lino",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/c7c886961cca9b4ae35321fd5311fd85.554x768x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9037822/James-joyce-ulysses-chap-13-nausicaa/Catesbys-cork-lino",
+    "original_id": "9037822",
+    "referent_id": 9037822,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Catesby's cork lino",
+    "prefix": "o him for the rest of his days and he couldn't even go to the funeral on account of the gout and she had to go into town to bring him the letters and samples from his office about ",
+    "suffix": ", artistic, standard designs, fit for a palace, gives tiptop wear and always bright and cheery in the home. \n\n A sterling good daughter was Gerty just like a second mother in the h",
+    "start": 22598,
+    "end": 22617,
+    "canonical_text": "Catesby's cork lino"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9037822,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

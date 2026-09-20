@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5111404",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "With a crape armlet.",
+  "html_source": "<p>A small band of black cloth worn on the arm in token of mourning, usually for a person who was not a close relation.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5111404/James-joyce-ulysses-chap-6-hades/With-a-crape-armlet",
+    "original_id": "5111404",
+    "referent_id": 5111404,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "with a crape armlet.",
+    "prefix": "that fellow would lose his job then? Well but then another fellow would get a job making the new invention? \n\n Antient concert rooms. Nothing on there. A man in a buff1961#91 suit ",
+    "suffix": " Not much grief there. Quarter mourning. People in law perhaps. \n\n They went past the bleak pulpit of saint Mark's, under the railway bridge, past the Queen's theatre: in silence. ",
+    "start": 10459,
+    "end": 10479,
+    "canonical_text": "with a crape armlet."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5111404,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8800818",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Gregor Grey",
+  "html_source": "<p>Gregor Grey: Irish painter<br />Born:  fl.1880<br />Died:   1911<br />Known for:  rural figure, genre, and animal painting<br />Gregor Grey exhibited every year at the Royal Hibernian Academy from 1877-1911. His works tended to be on a rustic theme and featured quaint, anecdotal titles.</p><p><img src=\"https://images.rapgenius.com/2eb7616b1b8531c3ef76b0d679490ed0.407x500x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8800818/James-joyce-ulysses-chap-7-aeolus/Gregor-grey",
+    "original_id": "8800818",
+    "referent_id": 8800818,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Gregor Grey",
+    "prefix": "I ere I saw Elba. \n\n — History! Myles Crawford cried. The Old Woman of Prince's street was there first. There was weeping and gnashing of teeth over that. Out of an advertisement. ",
+    "suffix": " made the design for it. That gave him the leg up. Then Paddy Hooper worked Tay Pay who took him on to the Star. Now he's got in with Blumenfeld. That's press. That's talent. Pyatt",
+    "start": 37522,
+    "end": 37533,
+    "canonical_text": "Gregor Grey"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8800818,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

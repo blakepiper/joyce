@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3654653",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Knowing no vixen",
+  "html_source": "<p>Fox married late in life, Shakespeare didn’t marry in London, Lyster was a celibate single.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3654653/James-joyce-ulysses-chap-9-scylla-and-charybdis/Knowing-no-vixen",
+    "original_id": "3654653",
+    "referent_id": 3654653,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Knowing no vixen",
+    "prefix": "here is a reconciliation, Stephen said, there must have been first a sundering. \n\n — Yes. \n\n Christfox in leather trews, hiding, a runaway in blighted treeforks, from hue and cry. ",
+    "suffix": ", walking lonely in the chase. Women he won to him, tender people, a whore of Babylon, ladies of justices, bully tapsters' wives. Fox and geese. And in New Place a slack dishonoure",
+    "start": 19021,
+    "end": 19037,
+    "canonical_text": "Knowing no vixen"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3654653,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

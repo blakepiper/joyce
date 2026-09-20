@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-9575685",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Mongolian",
+  "html_source": "<p>Mongolism is a discredited term for Down syndrome.<br />Down syndrome refers to the 19th century English physician J. Langdon Down who described the condition in 1866. In great error, Langdon Down attributed the condition to a “reversion” to the “mongoloid race.”<br />MedicineNet.com</p><p>May be an allusion to <em>Giga Bariceva</em>, (English Studies from Archives to Prospects: Volume 1 – Literature …, Volume 1, p84).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9575685/James-joyce-ulysses-chap-15-circe/Mongolian",
+    "original_id": "9575685",
+    "referent_id": 9575685,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Mongolian",
+    "prefix": "one of the strangest that have ever been narrated between the covers of a book. He himself, my lord, is a physical wreck from cobbler's weak chest. His submission is that he is of ",
+    "suffix": " extraction and irresponsible for his actions. Not all there, in fact. \n\n BLOOM \n\n(Barefoot, pigeonbreasted, in lascar's vest and trousers, apologetic toes turned in, opens his tin",
+    "start": 47486,
+    "end": 47495,
+    "canonical_text": "Mongolian"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9575685,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.6935483870967742
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.3064516129032258
+      }
+    ]
+  },
+  "color": "F59627"
+}

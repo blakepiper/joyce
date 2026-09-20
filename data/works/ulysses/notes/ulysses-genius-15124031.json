@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15124031",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Two pair back and passages",
+  "html_source": "<p>Extremely humble living accommodations</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15124031/James-joyce-ulysses-chap-12-cyclops/Two-pair-back-and-passages",
+    "original_id": "15124031",
+    "referent_id": 15124031,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "two pair back and passages",
+    "prefix": "staches, the signior 1986#263Brini from Summerhill, the eyetallyano, papal Zouave to the Holy Father, has left the quay and gone to Moss street. And who was he, tell us? A nobody, ",
+    "suffix": ", at seven shillings a week, and he covered with all kinds of breastplates bidding defiance to the world. \n\n — And moreover, says J. J., a postcard is publication. It was held to b",
+    "start": 68620,
+    "end": 68646,
+    "canonical_text": "two pair back and passages"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15124031,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

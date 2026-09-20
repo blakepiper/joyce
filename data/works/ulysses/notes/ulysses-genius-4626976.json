@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4626976",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "The liberties",
+  "html_source": "<p>A poor and rough part of Dublin. More of the Novel will take place in this part of Dublin.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4626976/James-joyce-ulysses-chap-3-proteus/The-liberties",
+    "original_id": "4626976",
+    "referent_id": 4626976,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "the liberties",
+    "prefix": "eet sinking 1932#34in the silted sand. Like me, like Algy, coming down to our mighty mother. Number one swung lourdily her midwife's bag, the other's gamp poked in the beach. From ",
+    "suffix": ", out for the day. Mrs Florence MacCabe, relict of the late Patk MacCabe, deeply lamented, of Bride Street. 1986#31One of her sisterhood lugged me squealing into life. Creation fro",
+    "start": 2078,
+    "end": 2091,
+    "canonical_text": "the liberties"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4626976,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

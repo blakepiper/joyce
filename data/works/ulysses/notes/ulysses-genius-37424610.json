@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-37424610",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Soot’s luck",
+  "html_source": "<p>Chimney sweeps are associated with luck in Britain, though this usage is more sarcastic than direct.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/37424610/James-joyce-ulysses-chap-12-cyclops/Soots-luck",
+    "original_id": "37424610",
+    "referent_id": 37424610,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Soot's luck",
+    "prefix": " should I see dodging along Stony Batter only Joe Hynes. \n\n — Lo, Joe, says I. How are you blowing? Did you see that bloody chimneysweep near shove my eye out with his brush? \n\n — ",
+    "suffix": ", says Joe. Who's the old ballocks you were talking to? \n\n — Old Troy, says I, was in the force. I'm on two minds not to give that fellow in charge for obstructing the thoroughfare",
+    "start": 438,
+    "end": 449,
+    "canonical_text": "Soot's luck"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 37424610,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-29004223",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Used to carry punched tickets to prove an alibi if they arrested you for murder somewhere",
+  "html_source": "<p>Seems like an oblique reference to Crime and Punishment–and that Stephen was and is aware of a Raskolnikovian aspect to his mild paranoia.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/29004223/James-joyce-ulysses-chap-3-proteus/Used-to-carry-punched-tickets-to-prove-an-alibi-if-they-arrested-you-for-murder-somewhere",
+    "original_id": "29004223",
+    "referent_id": 29004223,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "used to carry punched tickets to prove an alibi if they arrested you for murder somewhere",
+    "prefix": " Aha. Eating your groatsworth of mou en civet, fleshpots of Egypt, elbowed by belching cabmen. Just say in the most natural tone: when I was in Paris, boul' Mich', I used to. Yes, ",
+    "suffix": " Justice. On the night of the seventeenth of February 1904 the prisoner was seen by two witnesses. Other fellow did it: other me. Hat, tie, overcoat, nose. Lui, c'est moi. You seem",
+    "start": 10987,
+    "end": 11084,
+    "canonical_text": "used to carry punched tickets to prove an alibi if they arrested 1922#41you for murder somewhere."
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.957
+  },
+  "genius": {
+    "referent_id": 29004223,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2715160,
+        "login": "oskular",
+        "name": "oskular",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

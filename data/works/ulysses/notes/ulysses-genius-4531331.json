@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4531331",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "It was we were never the same",
+  "html_source": "<p>Molly feels that she and Bloom were never the same after the death of their son Rudy, who died shortly after birth.</p><p>It appears that Rudy’s death may be the source of Bloom’s sexual problems and feelings of inadequacy. This makes us question Bloom’s motivations: maybe his sexual problems are because he fears losing another child or thinks that another lover could produce a more healthy boy.  How Molly was never the same is less clear.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4531331/James-joyce-ulysses-chap-18-penelope/It-was-we-were-never-the-same",
+    "original_id": "4531331",
+    "referent_id": 4531331,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "it was we were never the same",
+    "prefix": " suppose I oughtnt to have buried him in that little woolly jacket I knitted crying as I was but give it to some poor child but I knew well Id never have another our 1st death too ",
+    "suffix": " since O Im not going to think myself into the glooms about that any more I wonder why he wouldnt stay the night I felt all the time it was somebody strange he brought in instead o",
+    "start": 107774,
+    "end": 107803,
+    "canonical_text": "it was we were never the same"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4531331,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.986842105263158
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.013157894736842106
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15153492",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Gadding",
+  "html_source": "<p><a href=\"https://en.wiktionary.org/wiki/gadding\" rel=\"noopener nofollow\">Gadding</a> means moving about friviously or randomly, but usually refers to a person.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15153492/James-joyce-ulysses-chap-14-oxen-of-the-sun/Gadding",
+    "original_id": "15153492",
+    "referent_id": 15153492,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "gadding",
+    "prefix": " the waters of Lethe will not the poor ghosts troop to my call? Who supposes it? I, Bous Stephanoumenos, bullockbefriending bard, am lord and giver of their life. He encircled his ",
+    "suffix": " hair with a coronal of vineleaves, smiling at Vincent. That answer and those leaves, Vincent said to him, will adorn you more fitly when something more, and greatly more, than a c",
+    "start": 80885,
+    "end": 80892,
+    "canonical_text": "gadding"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15153492,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

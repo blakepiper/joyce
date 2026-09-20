@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795877",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Church Times",
+  "html_source": "<p>The Church Times is an independent Anglican weekly newspaper based in London and published in the United Kingdom on Fridays</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795877/James-joyce-ulysses-chap-6-hades/Church-times",
+    "original_id": "8795877",
+    "referent_id": 8795877,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Church Times",
+    "prefix": "Dr Murren's. The great physician called him home. Well it's God's acre for them. Nice country residence. Newly plastered and painted. Ideal spot to have a quiet smoke and read the ",
+    "suffix": ". Marriage ads they never try to beautify. Rusty wreaths1932#101 hung on knobs, garlands of bronzefoil. Better value that for the money. Still, the flowers are more poetical. The o",
+    "start": 57540,
+    "end": 57552,
+    "canonical_text": "Church Times"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8795877,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

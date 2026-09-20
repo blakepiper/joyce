@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13971959",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Heap good",
+  "html_source": "<p>Very good. a heap of good. dialect,  usually native American.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13971959/James-joyce-ulysses-chap-14-oxen-of-the-sun/Heap-good",
+    "original_id": "13971959",
+    "referent_id": 13971959,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "heap good",
+    "prefix": ". A make, mister. The Denzille lane boys. Hell, blast ye! Scoot. Righto, Isaacs, shove em out of the bleeding limelight. 1939#304Yous join uz, dear sir? No hentrusion in life. Lou ",
+    "suffix": " man. Allee samee this bunch. En avant, mes enfants! Fire away number one on the gun. Burke's! Burke's! Thence they advanced five parasangs. Slattery's mounted foot. Where's that b",
+    "start": 105212,
+    "end": 105221,
+    "canonical_text": "heap good"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13971959,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

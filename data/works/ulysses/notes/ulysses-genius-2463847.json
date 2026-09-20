@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-2463847",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Parapet",
+  "html_source": "<p>A parapet is a low wall at the edge of a platform, roof, or bridge.</p><p><img src=\"https://images.rapgenius.com/nat7delijuieazgq67nrfnpr.640x471x1.jpg\" alt=\"\" /></p><p>PROPOSED SUGGESTION: I see only a roof here.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2463847/James-joyce-ulysses-chap-1-telemachus/Parapet",
+    "original_id": "2463847",
+    "referent_id": 2463847,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "parapet",
+    "prefix": "et, laughing to himself. Stephen Dedalus stepped up, followed him wearily halfway and sat down on the edge of the gunrest, watching him still as he propped his mirror on the 1961#3",
+    "suffix": ", dipped the brush in the bowl and lathered cheeks and neck. \n\n Buck Mulligan's gay voice went on. \n\n1939#5\n\n — My name is absurd too: Malachi Mulligan, two dactyls. But it has a H",
+    "start": 2265,
+    "end": 2272,
+    "canonical_text": "parapet"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9392
+  },
+  "genius": {
+    "referent_id": 2463847,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 0.7758620689655173
+      },
+      {
+        "id": 4055631,
+        "login": "aquawrench",
+        "name": "aquawrench",
+        "role": null,
+        "attribution": 0.1896551724137931
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.034482758620689655
+      }
+    ]
+  },
+  "color": "F59627"
+}

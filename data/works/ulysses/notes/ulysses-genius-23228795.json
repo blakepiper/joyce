@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23228795",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Quondam",
+  "html_source": "<p>Quondam means “former” or “one-time”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23228795/James-joyce-ulysses-chap-16-eumaeus/Quondam",
+    "original_id": "23228795",
+    "referent_id": 23228795,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "quondam",
+    "prefix": "er that this had 1961#615happened, or had been mentioned as having happened, before but it cost 1922#571him no small effort before he remembered that he recognised in the sentry a ",
+    "suffix": " friend of his father's, Gumley. To avoid a meeting he drew nearer to the pillars of the railway bridge. \n\n — Someone saluted you, Mr Bloom said. \n\n A figure of middle height on th",
+    "start": 7960,
+    "end": 7967,
+    "canonical_text": "quondam"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23228795,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

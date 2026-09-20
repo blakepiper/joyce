@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8773611",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Bread of angels",
+  "html_source": "<p>‘Man ate of the bread of the angels; he sent them food in abundance.’<br />Psalm 78:25</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8773611/James-joyce-ulysses-chap-5-lotus-eaters/Bread-of-angels",
+    "original_id": "8773611",
+    "referent_id": 8773611,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "bread of angels",
+    "prefix": "t to melt in their stomachs. Something like those mazzoth: it's that sort of bread: unleavened shewbread. Look at them. Now I bet it makes them feel happy. Lollipop. It does. Yes, ",
+    "suffix": " it's called. There's a big idea behind it, kind of kingdom of God is within you feel. First communicants. Hokypoky penny a lump. Then feel all like one 1932#71family party, same i",
+    "start": 22520,
+    "end": 22535,
+    "canonical_text": "bread of angels"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8773611,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.9444444444444444
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.05555555555555555
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8871472",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Saint Agatha’s church",
+  "html_source": "<p>The foundation stone of the church was laid on Sunday April 25th 1880 and the church was finally completed and blessed by the Archbishop of Dublin William Joseph Walsh on Sunday October 25th 1908.The church is a fine example of the Roman Renaissance style.<br /><a href=\"http://www.stagathasparish.ie/\" rel=\"noopener nofollow\">http://www.stagathasparish.ie</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8871472/James-joyce-ulysses-chap-10-wandering-rocks/Saint-agathas-church",
+    "original_id": "8871472",
+    "referent_id": 8871472,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "saint Agatha's church",
+    "prefix": ".J. 1961#221of saint Francis Xavier's church, upper Gardiner street, stepped on to an outward bound tram. \n\n Off an inward bound tram stepped the reverend Nicholas Dudley C. C. of ",
+    "suffix": ", north William street, on to Newcomen bridge. \n\n At Newcomen bridge Father Conmee stepped into an outward bound tram for he disliked to traverse on foot the dingy way past Mud Isl",
+    "start": 6925,
+    "end": 6946,
+    "canonical_text": "saint Agatha's church"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8871472,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

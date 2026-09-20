@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9092064",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Peter Piscator",
+  "html_source": "<p>Petrus Piscator (1571 – 1611) was a German oriental scholar and Lutheran theologian.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9092064/James-joyce-ulysses-chap-14-oxen-of-the-sun/Peter-piscator",
+    "original_id": "9092064",
+    "referent_id": 9092064,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Peter Piscator",
+    "prefix": "im, 1939#282that second I say, and was but creature of her creature, vergine madre figlia di tuo figlio or she knew him not and then stands she in the one denial or ignorancy with ",
+    "suffix": " who lives in the house 1986#320that Jack built and with Joseph the joiner patron of the happy demise of all unhappy marriages, parceque M. Léo Taxil nous a dit que qui l'avait mis",
+    "start": 21713,
+    "end": 21727,
+    "canonical_text": "Peter Piscator"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9092064,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

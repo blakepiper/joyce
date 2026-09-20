@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-9232608",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Entelechy",
+  "html_source": "<p>Entelechy, (from Greek entelecheia), in philosophy, that which realizes or makes actual what is otherwise merely potential. The concept is intimately connected with Aristotle’s distinction between matter and form, or the potential and the actual. He analyzed each thing into the stuff or elements of which it is composed and the form which makes it what it is.  Encyclopedia Britannica</p><p>Also crops up in <em>Nestor</em> and <em>Scylla and Charybdis</em>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9232608/James-joyce-ulysses-chap-15-circe/Entelechy",
+    "original_id": "9232608",
+    "referent_id": 9232608,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "entelechy",
+    "prefix": "\n So that? \n\n STEPHEN \n\n (Looks behind.) So that gesture, not music not odour, would be a universal language, the gift of tongues rendering visible not the lay sense but the first ",
+    "suffix": ", the structural rhythm. \n\n LYNCH \n\n Pornosophical philotheology. Metaphysics in Mecklenburgh street! \n\n STEPHEN \n\n We have shrewridden Shakespeare and henpecked Socrates. Even the",
+    "start": 4877,
+    "end": 4886,
+    "canonical_text": "entelechy"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9232608,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.8695652173913043
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.13043478260869565
+      }
+    ]
+  },
+  "color": "F59627"
+}

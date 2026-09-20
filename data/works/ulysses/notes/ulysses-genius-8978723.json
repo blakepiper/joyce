@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8978723",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Usquebaugh",
+  "html_source": "<p>noun IRISH SCOTTISH<br />whiskey.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8978723/James-joyce-ulysses-chap-12-cyclops/Usquebaugh",
+    "original_id": "8978723",
+    "referent_id": 8978723,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "usquebaugh",
+    "prefix": "sented to him by the white chief woman, the great squaw Victoria, with a personal dedication from the august hand of the Royal Donor. The Alaki then drank a lovingcup of firstshot ",
+    "suffix": " to the toast Black and White from the skull of his immediate predecessor in the dynasty Kakachakachak, surnamed Forty Warts, after which he visited the chief factory of Cottonopol",
+    "start": 97872,
+    "end": 97882,
+    "canonical_text": "usquebaugh"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8978723,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

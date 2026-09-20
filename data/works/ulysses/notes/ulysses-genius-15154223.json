@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15154223",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Golly, whatten tunket’s yon guy in the mackintosh?",
+  "html_source": "<p>Perhaps a reference to (or sighting of) the mysterious macintoshed fellow at Dignam’s funeral.</p><p>Gifford has “whatten tunket’s…” as “what in thunder is…” (from American slang).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15154223/James-joyce-ulysses-chap-14-oxen-of-the-sun/Golly-whatten-tunkets-yon-guy-in-the-mackintosh",
+    "original_id": "15154223",
+    "referent_id": 15154223,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Golly, whatten tunket's yon guy in the mackintosh?",
+    "prefix": "alls, none! Not a pite of sheeses? Thrust syphilis down to hell and with him those other licensed spirits. Time. Who wander through the world. Health all! A la vôtre! \n\n1922#405\n\n ",
+    "suffix": " Dusty Rhodes. Peep at his wearables. By mighty! What's he got? Jubilee mutton. Bovril, by James. Wants it real bad. D'ye ken bare socks? Seedy cuss in the Richmond? Rawthere! Thou",
+    "start": 112054,
+    "end": 112104,
+    "canonical_text": "Golly, whatten tunket's yon guy in the mackintosh?"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15154223,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

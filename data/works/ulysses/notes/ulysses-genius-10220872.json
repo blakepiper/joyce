@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10220872",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "I knelt once before today",
+  "html_source": "<p>Bloom knelt at Dignam’s funeral earlier that day.<br />“Mr Bloom stood behind near the font and, when all had knelt, dropped carefully his unfolded newspaper from his pocket and knelt his right knee upon it.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10220872/James-joyce-ulysses-chap-15-circe/I-knelt-once-before-today",
+    "original_id": "10220872",
+    "referent_id": 10220872,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "I knelt once before today",
+    "prefix": "e.) I can make a true black knot. Learned when 1922#496I served my time and worked the mail order line for Kellett's. Experienced hand. Every knot says a lot. Let me. In courtesy. ",
+    "suffix": ". Ah! \n\n(Bella raises her gown slightly and, steadying her pose, lifts to the edge of a chair a plump buskined hoof and a full pastern, silksocked. Bloom, stifflegged, aging, bends",
+    "start": 140840,
+    "end": 140865,
+    "canonical_text": "I knelt once before today"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10220872,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

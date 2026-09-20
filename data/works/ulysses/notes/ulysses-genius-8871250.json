@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8871250",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Belvedere",
+  "html_source": "<p>Belvedere College SJ is a private Jesuit secondary school for boys on Great Denmark Street, Dublin, Ireland. The school has numerous alumni in the arts, politics, sports, science, and business. Wikipedia<br />Founded: 1832<br />Number of students: 1,005</p><p>It forms part of the <em>Portrait</em> story.<br /> <a href=\"https://en.wikipedia.org/wiki/A_Portrait_of_the_Artist_as_a_Young_Man\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/A_Portrait_of_the_Artist_as_a_Young_Man</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8871250/James-joyce-ulysses-chap-10-wandering-rocks/Belvedere",
+    "original_id": "8871250",
+    "referent_id": 8871250,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Belvedere",
+    "prefix": "Very well, indeed, father. And you, father? \n\n Father Conmee was wonderfully well indeed. He would go to Buxton probably for the waters. And her boys, were they getting on well at ",
+    "suffix": "? Was that so? Father Conmee was very glad indeed to hear that. And Mr Sheehy himself? Still in London. The house was still sitting, to be sure it was. Beautiful weather it was, de",
+    "start": 1334,
+    "end": 1343,
+    "canonical_text": "Belvedere"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 8871250,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.5066666666666666
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.49333333333333335
+      }
+    ]
+  },
+  "color": "F59627"
+}

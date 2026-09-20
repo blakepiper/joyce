@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15130759",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Abba! Adonai!",
+  "html_source": "<p>Words meaning God in Hebrew and Greek, respectively.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15130759/James-joyce-ulysses-chap-12-cyclops/Abba-adonai",
+    "original_id": "15130759",
+    "referent_id": 15130759,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Abba! Adonai!",
+    "prefix": "f the sun, fair as the moon and terrible that for awe they durst not look upon Him. And there came a voice out of heaven, calling: Elijah! Elijah! And He answered with a main cry: ",
+    "suffix": " And they beheld Him even Him, ben Bloom Elijah, amid clouds of angels ascend to the glory of the brightness at an angle of fortyfive degrees over Donohoe's in Little Green street ",
+    "start": 123026,
+    "end": 123039,
+    "canonical_text": "Abba! Adonai!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15130759,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

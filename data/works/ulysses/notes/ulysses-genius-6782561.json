@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-6782561",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Fabulous artificer. The hawklike man. You flew. Whereto?",
+  "html_source": "<p>In Greek mythology, King Minos of Crete locked Daedalus in a tower in order to keep the secret of the labyrinth in which the Minotaur was kept. Daedalus fashioned wings for himself and his son Icarus and they escaped by flying from Crete to Sicily. Icarus famously flew too close to the sun and his wings melted. He fell and drowned. The subsequent references describe Stephen Dedalus' “flight” from (the ivory tower of) Ireland to Paris.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6782561/James-joyce-ulysses-chap-9-scylla-and-charybdis/Fabulous-artificer-the-hawklike-man-you-flew-whereto",
+    "original_id": "6782561",
+    "referent_id": 6782561,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Fabulous artificer. The hawklike man. You flew. Whereto?",
+    "prefix": "chief too. \n\n — You make good use of the name, John Eglinton allowed. Your own name is strange enough. I suppose it explains your fantastical humour. \n\n Me, Magee and Mulligan. \n\n ",
+    "suffix": " Newhaven-Dieppe, steerage passenger. Paris and back. Lapwing. Icarus. Pater, ait. Seabedabbled, fallen, weltering. Lapwing you are. Lapwing be. \n\n Mr Best eagerquietly lifted his ",
+    "start": 54916,
+    "end": 54972,
+    "canonical_text": "Fabulous artificer. The hawklike man. You flew. Whereto?"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6782561,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1773543,
+        "login": "IanT",
+        "name": "IanT",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

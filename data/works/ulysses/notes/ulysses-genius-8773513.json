@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8773513",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Cotton",
+  "html_source": "<p>Verb phrases<br />cotton (on) to, Informal.<br />to become fond of; begin to like.<br />to approve of; agree with: to cotton to a suggestion.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8773513/James-joyce-ulysses-chap-5-lotus-eaters/Cotton",
+    "original_id": "8773513",
+    "referent_id": 8773513,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "cotton",
+    "prefix": "dy. Corpse. Good idea the Latin. Stupefies them first. Hospice for the dying. They don't seem to chew it: only swallow it down. Rum idea: eating bits of a corpse why the cannibals ",
+    "suffix": " to it. \n\n He stood aside watching their blind masks pass down the aisle, one by one, and seek their places. He approached a bench and seated himself in its corner, nursing his hat",
+    "start": 21953,
+    "end": 21959,
+    "canonical_text": "cotton"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8773513,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

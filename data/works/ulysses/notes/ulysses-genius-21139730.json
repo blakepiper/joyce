@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21139730",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "French letters",
+  "html_source": "<p>A slang term for a condom.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21139730/James-joyce-ulysses-chap-9-scylla-and-charybdis/French-letters",
+    "original_id": "21139730",
+    "referent_id": 21139730,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "French letters",
+    "prefix": " see you tonight, John Eglinton said. Notre ami Moore says Malachi Mulligan must be there. \n\n Buck Mulligan flaunted his slip and panama. \n\n — Monsieur Moore, he said, lecturer on ",
+    "suffix": " to 1961#214the youth of Ireland. I'll be there. Come, Kinch, the bards must drink. Can you walk straight? \n\n Laughing, he... \n\n Swill till eleven. Irish nights entertainment. \n\n L",
+    "start": 64103,
+    "end": 64117,
+    "canonical_text": "French letters"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21139730,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

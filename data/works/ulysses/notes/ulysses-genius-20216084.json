@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20216084",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Two",
+  "html_source": "<p>The cab-drawing horses, “full as a tick” now after feeding from their nosebags in the previous episode.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20216084/James-joyce-ulysses-chap-6-hades/Two",
+    "original_id": "20216084",
+    "referent_id": 20216084,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "two",
+    "prefix": " after I read it in the bath? He patted his waistcoatpocket. There all right. Dear Henry fled. Before my patience are exhausted. \n\n National school. Meade's yard. The hazard. Only ",
+    "suffix": " there now. Nodding. Full as a tick. Too much bone in their skulls. The other trotting round with a fare. An hour ago I was passing there. The jarvies raised their hats. \n\n1932#81\n",
+    "start": 9893,
+    "end": 9896,
+    "canonical_text": "two"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 20216084,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11041825,
+        "login": "raggedclaws",
+        "name": "raggedclaws",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

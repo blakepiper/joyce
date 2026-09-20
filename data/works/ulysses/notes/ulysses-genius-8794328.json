@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8794328",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Mater Misericordiae",
+  "html_source": "<p>The Mater Misericordiae University Hospital (commonly known as the Mater or MMUH (Irish: Ospidéal an Mater Misercordiae)) is a major teaching hospital, based at Eccles Street, Phibsboro, on the northside of Dublin, Ireland. Mater misericordiae means “mother of mercy” in Latin and alludes to its founders, the Sisters of Mercy.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8794328/James-joyce-ulysses-chap-6-hades/Mater-misericordiae",
+    "original_id": "8794328",
+    "referent_id": 8794328,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Mater Misericordiae",
+    "prefix": " rollicking rattling song of the halls. Has anybody here seen Kelly? Kay ee double ell wy. Dead March from Saul. He's as bad as old Antonio. He left me on my ownio. Pirouette! The ",
+    "suffix": ". Eccles street. My house down there. Big place. Ward for incurables there. Very encouraging. Our Lady's Hospice for the dying. Deadhouse handy underneath. Where old Mrs Riordan di",
+    "start": 21901,
+    "end": 21920,
+    "canonical_text": "Mater Misericordiae"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8794328,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

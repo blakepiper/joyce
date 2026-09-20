@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5110816",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Goulding, Collis and Ward",
+  "html_source": "<p>The fictional Goulding has been added to the real firm of Collins and Ward, solicitors, 31 Dame Street, in the southeast quadrant of Dublin.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5110816/James-joyce-ulysses-chap-6-hades/Goulding-collis-and-ward",
+    "original_id": "5110816",
+    "referent_id": 5110816,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Goulding, Collis and Ward",
+    "prefix": "f dung, the wise child that knows her own father. \n\n Mr Bloom smiled joylessly on Ringsend road. Wallace Bros the bottleworks. Dodder bridge. \n\n Richie Goulding and the legal bag. ",
+    "suffix": " he calls the firm. His jokes are getting a bit damp. Great card he was.1932#78 Waltzing in Stamer street with Ignatius Gallaher on a Sunday morning, the landlady's two hats pinned",
+    "start": 3293,
+    "end": 3318,
+    "canonical_text": "Goulding, Collis and Ward"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5110816,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

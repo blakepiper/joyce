@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15149814",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Murrain",
+  "html_source": "<p>A <a href=\"https://en.wiktionary.org/wiki/murrain\" rel=\"noopener nofollow\">murrain</a> is a plague, disease, or pestilence.</p><p>Etymology (wiktionary):<br />From Anglo-Norman mourine, moreyn, Middle French morine, from Medieval Latin morticinium, ultimately from a form of Latin mori (“to die”).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15149814/James-joyce-ulysses-chap-14-oxen-of-the-sun/Murrain",
+    "original_id": "15149814",
+    "referent_id": 15149814,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "murrain",
+    "prefix": "r incontinently Punch Costello was of them all embraided and they reclaimed the churl with civil rudeness some and with menace of blandishments others whiles all chode with him, a ",
+    "suffix": " seize the dolt, what a devil he would be at, thou chuff, thou puny, thou got in the peasestraw, thou losel, thou chitterling, thou spawn of a rebel, thou dykedropt, thou abortion ",
+    "start": 23198,
+    "end": 23205,
+    "canonical_text": "murrain"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15149814,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

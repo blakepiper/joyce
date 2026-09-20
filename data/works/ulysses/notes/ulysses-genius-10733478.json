@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10733478",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Ferdinand Lassalle",
+  "html_source": "<p><a href=\"https://www.britannica.com/biography/Ferdinand-Lassalle\" rel=\"noopener nofollow\">https://www.britannica.com/biography/Ferdinand-Lassalle</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10733478/James-joyce-ulysses-chap-17-ithaca/Ferdinand-lassalle",
+    "original_id": "10733478",
+    "referent_id": 10733478,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Ferdinand Lassalle",
+    "prefix": "hal illustrious sons of the law and children of a selected or rejected race mentioned? \n\n Felix Bartholdy Mendelssohn (composer), Baruch Spinoza (philosopher), Mendoza (pugilist), ",
+    "suffix": " (reformer, duellist). \n\n What fragments of verse from the ancient Hebrew and 1961#687ancient Irish languages were cited with modulations of voice and translation of texts by guest",
+    "start": 46615,
+    "end": 46633,
+    "canonical_text": "Ferdinand Lassalle"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10733478,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8774447",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Duck for six wickets",
+  "html_source": "<p>Why is a wicket on 0 called a duck in cricket?<br />The name is believed to come from the shape of the number “0” being similar to that of a duck’s egg. Hence for scoring zero runs is termed as “DUCK”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8774447/James-joyce-ulysses-chap-5-lotus-eaters/Duck-for-six-wickets",
+    "original_id": "8774447",
+    "referent_id": 8774447,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Duck for six wickets",
+    "prefix": " How do you do, sir? \n\n1986#70\n\n Heavenly weather really. If life was always like that. Cricket weather. Sit around under sunshades. Over after over. Out. They can't play it here. ",
+    "suffix": ". Still Captain Buller broke a window in the Kildare street club with a slog to square leg. Donnybrook fair more in their line. And the skulls we were acracking when M'Carthy took ",
+    "start": 35506,
+    "end": 35526,
+    "canonical_text": "Duck for six wickets"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8774447,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

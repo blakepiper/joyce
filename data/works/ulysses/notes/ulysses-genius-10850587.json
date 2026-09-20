@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10850587",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Herschel",
+  "html_source": "<p>British astronomer who founded sidereal astronomy</p><p><a href=\"https://www.britannica.com/biography/William-Herschel\" rel=\"noopener nofollow\">https://www.britannica.com/biography/William-Herschel</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10850587/James-joyce-ulysses-chap-17-ithaca/Herschel",
+    "original_id": "10850587",
+    "referent_id": 10850587,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Herschel",
+    "prefix": "n: the condensation of spiral nebulae into suns: the interdependent gyrations of double suns: the independent synchronous discoveries of Galileo, Simon Marius, Piazzi, Le Verrier, ",
+    "suffix": ", Galle: the systematisations attempted by Bode and Kepler of cubes of distances and squares of times of revolution: the almost infinite compressibility of hirsute comets and their",
+    "start": 70475,
+    "end": 70483,
+    "canonical_text": "Herschel"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10850587,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

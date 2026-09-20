@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5110672",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Lowered blinds of the avenue",
+  "html_source": "<p>In Irish tradition, blinds were lowered and shops closed during a funeral in a village or, as here on a street or in a neighborhood. The “avenue” is Newbridge Avenue in Sandymount.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5110672/James-joyce-ulysses-chap-6-hades/Lowered-blinds-of-the-avenue",
+    "original_id": "5110672",
+    "referent_id": 5110672,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "lowered blinds of the avenue",
+    "prefix": "cant place. He pulled the door to after him and slammed it tight till it shut tight. He passed an arm through the armstrap and looked seriously from the open carriagewindow at the ",
+    "suffix": ". One dragged aside: an old woman peeping. Nose whiteflattened against the pane. Thanking her stars she was passed over. Extraordinary the interest they take in a corpse. Glad to s",
+    "start": 597,
+    "end": 625,
+    "canonical_text": "lowered blinds of the avenue"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5110672,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3888482",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Others abide our question.",
+  "html_source": "<p><a href=\"http://lit.genius.com/Matthew-arnold-shakespeare-annotated\" rel=\"noopener nofollow\">http://lit.genius.com/Matthew-arnold-shakespeare-annotated</a></p><p>Reported as <a href=\"http://www.columbia.edu/~fms5/ulw09.htm\" rel=\"noopener nofollow\">external narrative</a>, however it fits in with Stephen’s thoughts and is very specific, unlike Eglinton’s prior utterances. Arnold’s sonnet says exactly what Eglinton’s quote says.</p><p>The annotations above explain it succinctly.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3888482/James-joyce-ulysses-chap-9-scylla-and-charybdis/Others-abide-our-question",
+    "original_id": "3888482",
+    "referent_id": 3888482,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Others abide our question.",
+    "prefix": "ale, urge me to wreak their will. \n\n — Certainly, John Eglinton mused, of all great men he is the most enigmatic. We know nothing but that he lived and suffered. Not even so much. ",
+    "suffix": " A shadow hangs over all the rest. \n\n — But Hamlet is so personal, isn't it? Mr Best pleaded. I mean, a kind of private paper, don't you know, of his private life. I mean, I don't ",
+    "start": 20324,
+    "end": 20350,
+    "canonical_text": "Others abide our question."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3888482,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

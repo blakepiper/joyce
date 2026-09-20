@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8464001",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Newcomen bridge",
+  "html_source": "<p>Newcomen Bridge today.</p><p><img src=\"https://images.rapgenius.com/e1aad2c8d730e250db28f2f0b454d473.732x552x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8464001/James-joyce-ulysses-chap-10-wandering-rocks/Newcomen-bridge",
+    "original_id": "8464001",
+    "referent_id": 8464001,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Newcomen bridge",
+    "prefix": "the providence of the Creator who had made 1922#212turf to be in bogs whence men might dig it out and bring it to town and hamlet to make fires in the houses of poor people. \n\n On ",
+    "suffix": " the very reverend John Conmee S.J. 1961#221of saint Francis Xavier's church, upper Gardiner street, stepped on to an outward bound tram. \n\n Off an inward bound tram stepped the re",
+    "start": 6698,
+    "end": 6713,
+    "canonical_text": "Newcomen bridge"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9343
+  },
+  "genius": {
+    "referent_id": 8464001,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

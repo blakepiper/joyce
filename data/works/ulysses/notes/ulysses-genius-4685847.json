@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4685847",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Well out of that ruck I am.",
+  "html_source": "<p>Bloom is glad that he doesn’t work for Hely’s any more.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4685847/James-joyce-ulysses-chap-8-lestrygonians/Well-out-of-that-ruck-i-am",
+    "original_id": "4685847",
+    "referent_id": 4685847,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Well out of that ruck I am.",
+    "prefix": "lopes. Hello, Jones, where are you going? Can't stop, Robinson, I am hastening to purchase 1961#154the only reliable inkeraser 1922#147Kansell, sold by Hely's Ltd, 85 Dame street. ",
+    "suffix": " Devil of a job it was collecting accounts of those convents. Tranquilla convent. That was a nice nun there, really sweet face. Wimple suited her small head. Sister? Sister? I am s",
+    "start": 8860,
+    "end": 8887,
+    "canonical_text": "Well out of that ruck I am."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4685847,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

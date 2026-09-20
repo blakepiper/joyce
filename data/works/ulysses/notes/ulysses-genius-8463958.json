@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8463958",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Turfbarge, a towhorse with pendent head, a bargeman",
+  "html_source": "<p>Charleville Mall runs parallel with the Royal Canal, so the barge, tow horse, and bargeman make sense. The photo is of the canal one hundred yards or so northwest of the Newcomen Bridge on Strand Road where Father Conmee would have crossed the canal.</p><p><img src=\"https://images.rapgenius.com/9cc88a8beab655e8e7b639186e4ac3b1.900x675x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8463958/James-joyce-ulysses-chap-10-wandering-rocks/Turfbarge-a-towhorse-with-pendent-head-a-bargeman",
+    "original_id": "8463958",
+    "referent_id": 8463958,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "turfbarge, a towhorse with pendent head, a bargeman",
+    "prefix": "s, the porkbutcher's, Father Conmee observed pig's puddings, white and black and red, lie neatly curled in tubes. \n\n Moored under the trees of Charleville Mall Father Conmee saw a ",
+    "suffix": " with a hat of dirty straw seated amidships, smoking and staring at a branch of poplar above him. It was idyllic: and Father Conmee reflected on the providence of the Creator who h",
+    "start": 6322,
+    "end": 6373,
+    "canonical_text": "turfbarge, a towhorse with pendent head, a bargeman"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8463958,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9093793",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Stables behind Moira house.",
+  "html_source": "<p>Where Fitzgerald and his wife use to meet</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9093793/James-joyce-ulysses-chap-10-wandering-rocks/Stables-behind-moira-house",
+    "original_id": "9093793",
+    "referent_id": 9093793,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Stables behind Moira house.",
+    "prefix": "angement. Gaming at Daly's. No cardsharping then. One of those fellows got his hand nailed to the table by a dagger. Somewhere here lord Edward Fitzgerald escaped from major Sirr. ",
+    "suffix": " \n\n Damn good gin that was. \n\n Fine dashing young nobleman. Good stock, of course. That ruffian, that sham squire, with his violet gloves gave him away. Course they were on the wro",
+    "start": 45337,
+    "end": 45364,
+    "canonical_text": "Stables behind Moira house."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9093793,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083736,
+        "login": "JessicaVestuto",
+        "name": "JessicaVestuto",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

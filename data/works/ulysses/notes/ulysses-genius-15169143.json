@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15169143",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Falciform",
+  "html_source": "<p><a href=\"https://en.wiktionary.org/wiki/falciform\" rel=\"noopener nofollow\">Falciform</a> literally means “sickle-shaped”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15169143/James-joyce-ulysses-chap-17-ithaca/Falciform",
+    "original_id": "15169143",
+    "referent_id": 15169143,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "falciform",
+    "prefix": "penditure of 72 thermal units needed to raise 1 pound of water from 50° to 212° Fahrenheit. \n\n1922#626\n\n What announced the accomplishment of this rise in temperature? \n\n A double ",
+    "suffix": " ejection of water vapour from under the kettlelid at both sides simultaneously. \n\n For what personal purpose could Bloom have applied the water so boiled? \n\n To shave himself. \n\n ",
+    "start": 18320,
+    "end": 18329,
+    "canonical_text": "falciform"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15169143,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

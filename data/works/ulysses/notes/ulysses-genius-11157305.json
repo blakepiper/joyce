@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11157305",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "See over to Morocco",
+  "html_source": "<p>Atlas mountains from Gibraltar</p><p><img src=\"https://images.genius.com/8a839f971efaa1739cfe8ea9c771410d.468x311x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11157305/James-joyce-ulysses-chap-18-penelope/See-over-to-morocco",
+    "original_id": "11157305",
+    "referent_id": 11157305,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "see over to Morocco",
+    "prefix": "s that was dead spyglass like the sentry had he said hed have one or two from on board I wore that frock from the B Marche Paris and the coral necklace the straits shining I could ",
+    "suffix": " almost the bay of Tangier 1922#712white and the Atlas mountain with snow on it and the straits like a river so clear Harry Molly darling I was thinking of him on the sea all the t",
+    "start": 63910,
+    "end": 63929,
+    "canonical_text": "see over to Morocco"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11157305,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

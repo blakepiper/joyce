@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8113368",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "What about what? What else were they invented for?",
+  "html_source": "<p>Stephen’s response, while mechanical and arrogant (and totally piggish), indicates that he has thought of arousal during this time.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8113368/James-joyce-ulysses-chap-3-proteus/What-about-what-what-else-were-they-invented-for",
+    "original_id": "8113368",
+    "referent_id": 8113368,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "What about what? What else were they invented for?",
+    "prefix": "Sell your soul for that, do, dyed rags pinned round a squaw. More tell me, more still!! On the top of the Howth tram alone crying to the rain: naked women! What about that, eh? \n\n ",
+    "suffix": " \n\n Reading two pages apiece of seven books every night, eh? I was young. You bowed to yourself in the mirror, stepping forward to applause earnestly, striking face. Hurray for the",
+    "start": 8268,
+    "end": 8318,
+    "canonical_text": "What about what? What else were they invented for?"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8113368,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2436433,
+        "login": "essss",
+        "name": "essss",
+        "role": "contributor",
+        "attribution": 0.9473684210526316
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.052631578947368425
+      }
+    ]
+  },
+  "color": "F59627"
+}

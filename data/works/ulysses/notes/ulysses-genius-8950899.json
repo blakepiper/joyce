@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8950899",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Ulex Europeus",
+  "html_source": "<p>Gorse is a medium to tall, densely branched, perennial shrub native to central and western Europe and the British Isles</p><p><img src=\"https://images.rapgenius.com/e7c4b3a5452b5ecba421bed70cf7dea4.693x520x1.jpg\" alt=\"\" /></p><p>It has a sweet coconut aroma!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8950899/James-joyce-ulysses-chap-12-cyclops/Ulex-europeus",
+    "original_id": "8950899",
+    "referent_id": 8950899,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Ulex Europeus",
+    "prefix": "untainous knees were covered, as was likewise the rest of his body wherever visible, with a strong growth of tawny prickly hair in hue and toughness similar to the mountain gorse (",
+    "suffix": "). The widewinged nostrils, from which bristles of the same tawny hue projected, were of such capaciousness that within their cavernous obscurity the fieldlark might easily have lo",
+    "start": 10140,
+    "end": 10153,
+    "canonical_text": "Ulex Europeus"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8950899,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.8928571428571429
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.10714285714285714
+      }
+    ]
+  },
+  "color": "F59627"
+}

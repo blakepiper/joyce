@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4664017",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "What perfume does your wife use?",
+  "html_source": "<p>The citron lemon smell causes Bloom to recall the Post Script in Martha’s letter:</p><blockquote><p><a href=\"https://genius.com/4664027\" rel=\"noopener nofollow\">P. S. Do tell me what kind of perfume does your wife use. I want to know.</a></p></blockquote>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4664017/James-joyce-ulysses-chap-7-aeolus/What-perfume-does-your-wife-use",
+    "original_id": "4664017",
+    "referent_id": 4664017,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "What perfume does your wife use?",
+    "prefix": "I put there. Lose it out of that pocket. Putting back his handkerchief he took out the soap and stowed it away, buttoned, into the hip pocket of his trousers. \n\n1922#1181986#101\n\n ",
+    "suffix": " I could go home still: tram: something I forgot. Just to see: before: dressing. No. Here. No. \n\n A sudden screech of laughter came from the Evening Telegraph office. Know who that",
+    "start": 12980,
+    "end": 13012,
+    "canonical_text": "What perfume does your wife use?"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4664017,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

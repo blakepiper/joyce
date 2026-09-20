@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9093758",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Outside car",
+  "html_source": "<p>A low vehicle with passengers sitting sidewise back to back</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9093758/James-joyce-ulysses-chap-10-wandering-rocks/Outside-car",
+    "original_id": "9093758",
+    "referent_id": 9093758,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "outside car",
+    "prefix": "our. \n\n1986#197\n\n Mr Kernan turned and walked down the slope of Watling street by the corner of Guinness's visitors' waitingroom. Outside the Dublin Distillers Company's stores an ",
+    "suffix": " without fare or jarvey stood, the reins knotted to the wheel. Damn dangerous thing. Some Tipperary bosthoon endangering the lives of the citizens. Runaway horse. \n\n Denis Breen wi",
+    "start": 44591,
+    "end": 44602,
+    "canonical_text": "outside car"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9093758,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083736,
+        "login": "JessicaVestuto",
+        "name": "JessicaVestuto",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

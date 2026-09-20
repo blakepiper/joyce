@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10886708",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Torchlight procession",
+  "html_source": "<p><a href=\"http://digitalcollections.nypl.org/items/9a4b685d-b2e0-9b7d-e040-e00a180657d1\" rel=\"noopener nofollow\">http://digitalcollections.nypl.org/items/9a4b685d-b2e0-9b7d-e040-e00a180657d1</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10886708/James-joyce-ulysses-chap-17-ithaca/Torchlight-procession",
+    "original_id": "10886708",
+    "referent_id": 10886708,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "torchlight procession",
+    "prefix": "ns, had climbed up 1961#716into a secure position amid the ramifications of a tree on Northumberland road to see the entrance (2 February 1888) into the capital of a demonstrative ",
+    "suffix": " of 20,000 torchbearers, divided into 120 trade corporations, bearing 2000 torches in escort of the marquess of Ripon and John Morley. \n\n How much and how did he propose to pay for",
+    "start": 104195,
+    "end": 104216,
+    "canonical_text": "torchlight procession"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10886708,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

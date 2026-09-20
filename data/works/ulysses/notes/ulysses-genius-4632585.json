@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4632585",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "He",
+  "html_source": "<p><a href=\"https://genius.com/1822359\" rel=\"noopener nofollow\">Haines of course.</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4632585/James-joyce-ulysses-chap-3-proteus/He",
+    "original_id": "4632585",
+    "referent_id": 4632585,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "he",
+    "prefix": "g, delving and stopped to listen to the air, scraped up the sand again with a fury of his claws, soon ceasing, a pard, a panther, got in spousebreach, vulturing the dead. \n\n After ",
+    "suffix": " woke me up last night same dream or was it? Wait. Open hallway. Street of harlots. Remember. Haroun al Raschid. I am almosting it. That man led me, spoke. I was not afraid. The me",
+    "start": 23581,
+    "end": 23583,
+    "canonical_text": "he"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 4632585,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

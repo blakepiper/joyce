@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8504820",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Almidano",
+  "html_source": "<p>Beginning of Episode 17.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8504820/James-joyce-ulysses-chap-10-wandering-rocks/Almidano",
+    "original_id": "8504820",
+    "referent_id": 8504820,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Almidano",
+    "prefix": "lers, amid an archipelago of corks, beyond new Wapping street past1939#1821922#239 Benson's ferry, and by the threemasted schooner Rosevean from Bridgwater with bricks. \n\n*\n*  *\n\n ",
+    "suffix": " Artifoni walked past Holles street, past Sewell's yard. Behind him Cashel Boyle O'Connor Fitzmaurice Tisdall Farrell, with stickumbrelladustcoat dangling, shunned the 1961#249lamp",
+    "start": 63074,
+    "end": 63082,
+    "canonical_text": "Almidano"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9118
+  },
+  "genius": {
+    "referent_id": 8504820,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

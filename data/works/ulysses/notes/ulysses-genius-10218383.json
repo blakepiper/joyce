@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10218383",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Gull has been mulcted",
+  "html_source": "<p>gull: a person who is easily deceived or cheated; dupe.<br />mulct: deprive someone of (money or possessions) by fraudulent means.<br />Dictionary.com</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10218383/James-joyce-ulysses-chap-15-circe/Gull-has-been-mulcted",
+    "original_id": "10218383",
+    "referent_id": 10218383,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "gull has been mulcted",
+    "prefix": "solutely! Well observed and those pannier pockets of the skirt and slightly pegtop effect are devised to suggest bunchiness of hip. A new purchase at some monster sale for which a ",
+    "suffix": ". Meretricious finery to deceive the eye. Observe the attention to details of dustspecks. Never put on you tomorrow what you can wear today. Parallax!(With a nervous twitch of his ",
+    "start": 116808,
+    "end": 116829,
+    "canonical_text": "gull has been mulcted"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10218383,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

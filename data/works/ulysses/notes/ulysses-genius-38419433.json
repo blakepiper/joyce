@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-38419433",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Dan Tallons",
+  "html_source": "<p>Daniel Tallon was Lord Mayor of Dublin in 1899 and 1900.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/38419433/James-joyce-ulysses-chap-4-calypso/Dan-tallons",
+    "original_id": "38419433",
+    "referent_id": 38419433,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Dan Tallons",
+    "prefix": " do they get the money? Coming up redheaded curates from the county Leitrim, rinsing empties and old man in the cellar. Then, lo and behold, they blossom out as Adam Findlaters or ",
+    "suffix": ". Then think of the competition. General thirst. Good puzzle would be cross Dublin without passing a pub. Save it they can't. Off the drunks perhaps. Put down three and carry five.",
+    "start": 8169,
+    "end": 8180,
+    "canonical_text": "Dan Tallons"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 38419433,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 23750768,
+        "login": "MardouFox",
+        "name": "MardouFox",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8772827",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Gelded",
+  "html_source": "<p>geld  (gĕld)<br />tr.v. geld·ed, geld·ing, gelds<br />1. To castrate (a horse, for example).<br />2. To deprive of strength or vigor; weaken.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8772827/James-joyce-ulysses-chap-5-lotus-eaters/Gelded",
+    "original_id": "8772827",
+    "referent_id": 8772827,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Gelded",
+    "prefix": "ldorado. Poor jugginses! Damn all they know or care about anything with their long noses stuck in nosebags. Too full for words. Still they get their feed all right and their doss. ",
+    "suffix": " too: a stump of black guttapercha wagging limp between their haunches. Might be happy all the same that way. Good poor brutes they look. Still their neigh can be very irritating. ",
+    "start": 13355,
+    "end": 13361,
+    "canonical_text": "Gelded"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8772827,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

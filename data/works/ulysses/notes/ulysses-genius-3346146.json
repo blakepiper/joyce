@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3346146",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Ollav",
+  "html_source": "<p>Pronounced more <em>ullav</em> than <em>olav</em>. An early Irish learned person in the clan system.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3346146/James-joyce-ulysses-chap-9-scylla-and-charybdis/Ollav",
+    "original_id": "3346146",
+    "referent_id": 3346146,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "ollav",
+    "prefix": " dear to the mystic mind. The shining seven W.B. calls them. \n\n Glittereyed, his rufous skull close to his greencapped desklamp sought the face bearded amid darkgreener shadow, an ",
+    "suffix": ", holyeyed. He laughed low: a sizar's laugh of Trinity: unanswered. \n\nOrchestral Satan, weeping many a rood \nTears such as angels weep. \nEd egli avea del cul fatto trombetta. \n\n193",
+    "start": 1527,
+    "end": 1532,
+    "canonical_text": "ollav"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3346146,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-32663858",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "That",
+  "html_source": "<p>Bloom, who was a grand sort said cheers.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/32663858/James-joyce-ulysses-chap-14-oxen-of-the-sun/That",
+    "original_id": "32663858",
+    "referent_id": 32663858,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "that",
+    "prefix": "k, said he, fully delectably, and he quaffed as far as he might to their both's health for he was a passing good man of his lustiness. And sir Leopold that was the goodliest guest ",
+    "suffix": " ever sat in scholars' hall and that was the meekest man and the kindest that ever laid husbandly hand under hen and that was the very truest knight of the world one that ever did ",
+    "start": 12763,
+    "end": 12767,
+    "canonical_text": "that"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 32663858,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9091564",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Limbo",
+  "html_source": "<p>Limbo is a theory developed by Medieval theologians as the place where unbaptized persons go when they die. Limbo is not an official doctrine of the Catholic Church nor has it been rejected by the Church.<br /><a href=\"http://www.aboutcatholics.com/beliefs/do-unbaptized-babies-go-to-limbo/\" rel=\"noopener nofollow\">http://www.aboutcatholics.com/beliefs/do-unbaptized-babies-go-to-limbo/</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9091564/James-joyce-ulysses-chap-14-oxen-of-the-sun/Limbo",
+    "original_id": "9091564",
+    "referent_id": 9091564,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "limbo",
+    "prefix": "re all wondrous grieved. To whom young Stephen 1922#371had these words following: Murmur, sirs, is eke oft among lay folk. Both babe and parent now glorify their Maker, the one in ",
+    "suffix": " gloom, the other in purgefire. But, gramercy, what of those Godpossibled souls that we nightly impossibilise, which is the sin against the Holy Ghost, Very God, Lord and Giver of ",
+    "start": 15847,
+    "end": 15852,
+    "canonical_text": "limbo"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9091564,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

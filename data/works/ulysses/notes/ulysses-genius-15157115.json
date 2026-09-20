@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15157115",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Knuckledusters",
+  "html_source": "<p>A lesser-known term for <a href=\"https://en.wikipedia.org/wiki/Brass_knuckles\" rel=\"noopener nofollow\">brass knuckles</a>: pieces of metal shaped to fit around the knuckles to increase damage inflicted and reduced damage received from throwing punches.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15157115/James-joyce-ulysses-chap-15-circe/Knuckledusters",
+    "original_id": "15157115",
+    "referent_id": 15157115,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "knuckledusters",
+    "prefix": "ner's apron, a rope coiled over his shoulder, mounts the block. A life preserver and a nailstudded bludgeon are stuck in his belt. He rubs grimly his grappling hands, knobbed with ",
+    "suffix": ".) \n\n1932#419\n\n RUMBOLD \n\n(To the recorder with sinister familiarity.) Hanging Harry, your Majesty, the Mersey terror. Five guineas a jugular. Neck or nothing. \n\n(The bells of Geor",
+    "start": 59835,
+    "end": 59849,
+    "canonical_text": "knuckledusters"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15157115,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

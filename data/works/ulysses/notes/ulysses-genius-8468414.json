@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8468414",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Aldborough house",
+  "html_source": "<p>Aldborough House farther southeast from Saint Joseph’s Church on Portland Row.</p><p><img src=\"https://images.rapgenius.com/a96b908e7b4b0cc43e311be785dc8a05.590x445x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8468414/James-joyce-ulysses-chap-10-wandering-rocks/Aldborough-house",
+    "original_id": "8468414",
+    "referent_id": 8468414,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Aldborough house",
+    "prefix": " church, Portland row. For aged and virtuous females. Father 1986#181Conmee raised his hat to the Blessed Sacrament. Virtuous: but occasionally they were also badtempered. \n\n Near ",
+    "suffix": " Father Conmee thought of that spendthrift nobleman. And now it was an office or something. \n\n Father Conmee began to walk along the North Strand road and was saluted by Mr William",
+    "start": 5110,
+    "end": 5126,
+    "canonical_text": "Aldborough house"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8468414,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

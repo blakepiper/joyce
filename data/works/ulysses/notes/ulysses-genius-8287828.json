@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8287828",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Slan leat",
+  "html_source": "<p>Irish : literally “Safe with you”; good bye</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8287828/James-joyce-ulysses-chap-12-cyclops/Slan-leat",
+    "original_id": "8287828",
+    "referent_id": 8287828,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Slan leat",
+    "prefix": "ne. Told him if he didn't patch up the pot, Jesus, he'd kick the shite out of him. \n\n So Terry brought the three pints. \n\n — Here, says Joe, doing the honours. Here, citizen. \n\n — ",
+    "suffix": ", says he. \n\n — Fortune, Joe, says I. Good health, citizen. \n\n Gob, he had his mouth half way down the tumbler already. Want a small fortune to keep him in drinks. \n\n — Who is the ",
+    "start": 53128,
+    "end": 53137,
+    "canonical_text": "Slan leat"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8287828,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

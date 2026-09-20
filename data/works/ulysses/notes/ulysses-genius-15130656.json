@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15130656",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "—Deus, cuius verbo sanctificantur omnia, benedictionem tuam effunde super creaturas istas: et praesta ut quisquis eis secundum legem et voluntatem Tuam cum gratiarum actione usus fuerit per invocationem sanctissimi nominis Tui corporis sanitatem et animae tutelam Te auctore percipiat per Christum Dominum nostrum.",
+  "html_source": "<p>“O God, by whose word all things are sanctified, pour your blessing over these your creatures; great that whoever, rendering gratitude to you, using then in keeping with your law and will, may be invoking your most holy Name, will receive through your authority health of body and sanctuary of soul, through Christ our Lord.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15130656/James-joyce-ulysses-chap-12-cyclops/Deus-cuius-verbo-sanctificantur-omnia-benedictionem-tuam-effunde-super-creaturas-istas-et-praesta-ut-quisquis-eis-secundum-legem-et-voluntatem-tuam-cum-gratiarum-actione-usus-fuerit-per-invocationem-sanctissimi-nominis-tui-corporis-sanitatem-et-animae-tutelam-te-auctore-percipiat-per-christum-dominum-nostrum",
+    "original_id": "15130656",
+    "referent_id": 15130656,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "—Deus, cuius verbo sanctificantur omnia, benedictionem tuam effunde super creaturas istas: et praesta ut quisquis eis secundum legem et voluntatem Tuam cum gratiarum actione usus fuerit per invocationem sanctissimi nominis Tui corporis sanitatem et animae tutelam Te auctore percipiat per Christum Dominum nostrum.",
+    "prefix": "et terram. \n\n — Dominus vobiscum. \n\n1939#246\n\n — Et cum spiritu tuo. \n\n And he laid his hands upon that he blessed and gave thanks and he prayed and they all with him prayed: \n\n — ",
+    "suffix": " \n\n1961#340\n\n — And so say all of us, says Jack. \n\n — Thousand a year, Lambert, says Crofton or Crawford. \n\n — Right, says Ned, taking up his John Jameson. And butter for fish. \n\n ",
+    "start": 111843,
+    "end": 112156,
+    "canonical_text": "Deus, cuius verbo sanctificantur omnia, benedictionem tuam effunde super creaturas istas: et praesta ut quisquis eis secundum legem et voluntatem Tuam cum gratiarum actione usus fuerit per invocationem sanctissimi nominis Tui corporis sanitatem et animae tutelam Te auctore percipiat per Christum Dominum nostrum."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 15130656,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

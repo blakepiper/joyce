@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9093666",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "North wall and sir John Rogerson’s quay, with hulls and anchorchains, sailing westward, sailed by a skiff, a crumpled throwaway, rocked on the ferrywash, Elijah is coming.",
+  "html_source": "<p>Intrusion: 10.1096-99<br />“Elijah, skiff, light crumpled throwaway, sailed eastward by flanks of ships and trawlers, amid an archipelago of corks, beyond new Wapping street past Benson’s ferry, and by the threemasted schooner Rosevean from Bridgwater with bricks.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9093666/James-joyce-ulysses-chap-10-wandering-rocks/North-wall-and-sir-john-rogersons-quay-with-hulls-and-anchorchains-sailing-westward-sailed-by-a-skiff-a-crumpled-throwaway-rocked-on-the-ferrywash-elijah-is-coming",
+    "original_id": "9093666",
+    "referent_id": 9093666,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "North wall and sir John Rogerson's quay, with hulls and anchorchains, sailing westward, sailed by a skiff, a crumpled throwaway, rocked on the ferrywash, Elijah is coming.",
+    "prefix": "Knight of the road. Gentleman. And now, Mr Crimmins, may we have the honour of your 1932#215custom again, sir. The cup that cheers but not inebriates, as the old saying has it. \n\n ",
+    "suffix": " \n\n Mr Kernan glanced in farewell at his image. High colour, of course. Grizzled moustache. Returned Indian officer. Bravely he bore his stumpy body forward on spatted feet, squari",
+    "start": 43204,
+    "end": 43375,
+    "canonical_text": "North wall and sir John Rogerson's quay, with hulls and anchorchains, sailing westward, sailed by a skiff, a crumpled throwaway, rocked on the ferrywash, Elijah is coming."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9093666,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083736,
+        "login": "JessicaVestuto",
+        "name": "JessicaVestuto",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

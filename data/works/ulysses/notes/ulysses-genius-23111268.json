@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23111268",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Mangling",
+  "html_source": "<p>Ironing.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23111268/James-joyce-ulysses-chap-17-ithaca/Mangling",
+    "original_id": "23111268",
+    "referent_id": 23111268,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "mangling",
+    "prefix": "9#513\n\n The removal of nocturnal solitude, the superior quality of human (mature female) to inhuman (hotwaterjar) calefaction, the stimulation of matutinal contact, the economy of ",
+    "suffix": " done on the premises in the case of trousers accurately folded and placed lengthwise between the spring mattress (striped) and the woollen mattress (biscuit section). \n\n What past",
+    "start": 129554,
+    "end": 129562,
+    "canonical_text": "mangling"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23111268,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

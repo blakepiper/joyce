@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8772874",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Hopscotch",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/a930340061b70d7a5f126594b777fee8.320x242x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8772874/James-joyce-ulysses-chap-5-lotus-eaters/Hopscotch",
+    "original_id": "8772874",
+    "referent_id": 8772874,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "hopscotch",
+    "prefix": "umberland street and, going on some paces, halted in the lee of the station wall. No-one. Meade's timberyard. Piled balks. Ruins and tenements. With careful tread he passed over a ",
+    "suffix": " court with its forgotten pickeystone. Not a sinner. Near the timberyard a squatted child at marbles, alone, shooting the taw with a cunnythumb. A wise tabby, a blinking sphinx, wa",
+    "start": 14166,
+    "end": 14175,
+    "canonical_text": "hopscotch"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8772874,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

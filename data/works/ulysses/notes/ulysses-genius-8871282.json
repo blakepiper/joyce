@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8871282",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Mantilla",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/6597d025004574cfb3fcfd3f46ea486a.350x398x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8871282/James-joyce-ulysses-chap-10-wandering-rocks/Mantilla",
+    "original_id": "8871282",
+    "referent_id": 8871282,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "mantilla",
+    "prefix": "d to Mr David Sheehy M.P. Yes, he would certainly call. \n\n — Good afternoon, Mrs Sheehy. \n\n Father Conmee doffed his silk hat and smiled, as he took leave, at the jet beads of her ",
+    "suffix": " inkshining in the sun. And smiled yet again, in going. He had cleaned his teeth, he knew, with arecanut paste. \n\n Father Conmee walked and, walking, smiled for he thought on Fathe",
+    "start": 1982,
+    "end": 1990,
+    "canonical_text": "mantilla"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8871282,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

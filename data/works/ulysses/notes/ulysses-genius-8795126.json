@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795126",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Whip",
+  "html_source": "<p>a whip-round  (British &amp; Australian informal)<br />a collection of money among a group of people that is used to buy a present for someone<br />“We had a whip-round for Annie’s leaving present.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795126/James-joyce-ulysses-chap-6-hades/Whip",
+    "original_id": "8795126",
+    "referent_id": 8795126,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "whip",
+    "prefix": "olid man? \n\n — Nothing between himself and heaven, Ned Lambert answered. \n\n — By the holy Paul! Mr Dedalus said in subdued wonder. Dick Tivy bald? \n\n — Martin is going to get up a ",
+    "suffix": " for the youngsters, Ned Lambert said, pointing ahead. A few bob a skull. Just to keep them going till the insurance is cleared up. \n\n1986#84\n\n — Yes, yes, Mr Dedalus said dubiousl",
+    "start": 33318,
+    "end": 33322,
+    "canonical_text": "whip"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8795126,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

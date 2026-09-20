@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10544932",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Gros lots",
+  "html_source": "<p>Win the jackpot/lottery.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10544932/James-joyce-ulysses-chap-3-proteus/Gros-lots",
+    "original_id": "10544932",
+    "referent_id": 10544932,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "gros lots",
+    "prefix": "ahon. Son of the wild goose, Kevin Egan of Paris. My father's a bird, he lapped the sweet lait chaud with pink young tongue, plump bunny's face. Lap, lapin. He hopes to win in the ",
+    "suffix": ". About the nature of women he read in Michelet. But he must send me La Vie de Jésus by M. Léo Taxil. Lent it to his friend. \n\n1986#34\n\n— C'est tordant, vous savez. Moi, je suis so",
+    "start": 10266,
+    "end": 10275,
+    "canonical_text": "gros lots"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10544932,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

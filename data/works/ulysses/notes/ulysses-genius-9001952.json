@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9001952",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "I know that fellow",
+  "html_source": "<p>Another bawdy joke? A bitter experience of Cockburn?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9001952/James-joyce-ulysses-chap-12-cyclops/I-know-that-fellow",
+    "original_id": "9001952",
+    "referent_id": 9001952,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "I know that fellow",
+    "prefix": "Dr Forrest, dean of Worcester. Eh? Deaths. Bristow, at Whitehall lane, London: Carr, Stoke Newington, of gastritis and heart disease: Cockburn, at the Moat house, Chepstow... \n\n — ",
+    "suffix": ", says Joe, from bitter experience. \n\n1932#268\n\n — Cockburn. Dimsey, wife of David Dimsey, late of the admiralty: Miller, Tottenham, aged eightyfive: Welsh, June 12, at 35 Canning ",
+    "start": 15065,
+    "end": 15083,
+    "canonical_text": "I know that fellow"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9001952,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

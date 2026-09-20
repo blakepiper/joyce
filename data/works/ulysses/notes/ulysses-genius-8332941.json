@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8332941",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Gaseous vertebrate",
+  "html_source": "<p>A post-Darwinian description of God, first attributed to the Philosopher &amp; Naturalist Erich Haeckel (1834-1919).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8332941/James-joyce-ulysses-chap-9-scylla-and-charybdis/Gaseous-vertebrate",
+    "original_id": "8332941",
+    "referent_id": 8332941,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "gaseous vertebrate",
+    "prefix": "ntr'acte. \n\n A ribald face, sullen as a dean's, Buck Mulligan came forward, then blithe in motley, towards the greeting of their smiles. My telegram. \n\n — You were speaking of the ",
+    "suffix": ", if I mistake not? he asked of Stephen. \n\n Primrosevested he greeted gaily with his doffed Panama as with a bauble. \n\n They make him welcome. Was Du verlachst wirst Du noch dienen",
+    "start": 27861,
+    "end": 27879,
+    "canonical_text": "gaseous vertebrate"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8332941,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2568065,
+        "login": "GeoffBobker",
+        "name": "GeoffBobker",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

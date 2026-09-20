@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11115060",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "St Teresas hall Clarendon St",
+  "html_source": "<p><img src=\"https://images.genius.com/4896296c546eb8bb93cebac793bc80ab.750x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11115060/James-joyce-ulysses-chap-18-penelope/St-teresas-hall-clarendon-st",
+    "original_id": "11115060",
+    "referent_id": 11115060,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "St Teresas hall Clarendon St",
+    "prefix": "nicer then coming back suppose I never came back what would they say eloped with him that gets you on on the stage the last concert I sang at where its over a year ago when was it ",
+    "suffix": " little chits of missies they have now singing Kathleen Kearney and her like on account of father being in the army and my singing the absentminded beggar and wearing a brooch for ",
+    "start": 27926,
+    "end": 27954,
+    "canonical_text": "St Teresas hall Clarendon St"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11115060,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

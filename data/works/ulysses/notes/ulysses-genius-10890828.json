@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10890828",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Dunam",
+  "html_source": "<p>a unit of land area used especially in the state of Israel equal to 1000 square meters or about<br />1⁄4 acre<br />Merriam-Webster.com</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10890828/James-joyce-ulysses-chap-17-ithaca/Dunam",
+    "original_id": "10890828",
+    "referent_id": 10890828,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "dunam",
+    "prefix": "on of the secular problem of the quadrature of the circle, government premium £1,000,000 sterling. \n\n Was vast wealth acquirable through industrial channels? \n\n The reclamation of ",
+    "suffix": "s of waste arenary soil, proposed in the prospectus of Agendath Netaim, Bleibtreustrasse, Berlin, W. 15, by the cultivation of orange plantations and melonfields and reafforestatio",
+    "start": 107325,
+    "end": 107330,
+    "canonical_text": "dunam"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10890828,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

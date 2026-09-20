@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8814751",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Vicereine",
+  "html_source": "Definition of vicereine   the wife of a viceroy a woman who is a viceroy",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8814751/James-joyce-ulysses-chap-8-lestrygonians/Vicereine",
+    "original_id": "8814751",
+    "referent_id": 8814751,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "vicereine",
+    "prefix": ". James Carlisle made that. Six and a half per cent dividend. Made a big deal on Coates's shares. Ca' canny. Cunning old Scotch hunks. All the toady news. Our gracious and popular ",
+    "suffix": ". Bought the Irish Field now. Lady Mountcashel has quite recovered after her confinement and rode out with the Ward Union staghounds at the enlargement yesterday at Rathoath. Uneat",
+    "start": 20777,
+    "end": 20786,
+    "canonical_text": "vicereine"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8814751,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

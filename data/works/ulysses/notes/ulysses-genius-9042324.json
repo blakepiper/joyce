@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-9042324",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Billy winks",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/c3c72d1df2f36df372a33485d7acfd61.248x346x1.jpg\" alt=\"\" /></p><p><a href=\"https://en.wikipedia.org/wiki/Wee_Willie_Winkie\" rel=\"noopener nofollow\">Wee willy winkie</a>!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9042324/James-joyce-ulysses-chap-13-nausicaa/Billy-winks",
+    "original_id": "9042324",
+    "referent_id": 9042324,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "billy winks",
+    "prefix": "y to go and Cissy tucked in the ball and the spades and buckets and it was high time too because the sandman was on his way for Master Boardman junior. And Cissy told him too that ",
+    "suffix": " was coming and that baby was to go deedaw and baby looked just too ducky, laughing up out of his gleeful eyes, and Cissy poked him like that out of fun in his wee fat tummy and ba",
+    "start": 42736,
+    "end": 42747,
+    "canonical_text": "billy winks"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9042324,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.9090909090909091
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.09090909090909091
+      }
+    ]
+  },
+  "color": "F59627"
+}

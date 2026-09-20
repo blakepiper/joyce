@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3158885",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "You seem to have enjoyed yourself",
+  "html_source": "<p>Internal narrative – Stephen challenging himself after undermining his own experience and behaviour in Bohemian Paris.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3158885/James-joyce-ulysses-chap-3-proteus/You-seem-to-have-enjoyed-yourself",
+    "original_id": "3158885",
+    "referent_id": 3158885,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "You seem to have enjoyed yourself",
+    "prefix": "mewhere. Justice. On the night of the seventeenth of February 1904 the prisoner was seen by two witnesses. Other fellow did it: other me. Hat, tie, overcoat, nose. Lui, c'est moi. ",
+    "suffix": ". \n\n Proudly walking. Whom were you trying to walk like? Forget: a dispossessed. With mother's money order, eight shillings, the banging door of the post office slammed in your fac",
+    "start": 11256,
+    "end": 11289,
+    "canonical_text": "You seem to have enjoyed yourself"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3158885,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15124043",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Rede",
+  "html_source": "<p>Advice or counsel (the German word “rat”, as in Bundesrat, has the same meaning and etymology). Interestingly, the English word “read” apparently has the same etymology as well.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15124043/James-joyce-ulysses-chap-12-cyclops/Rede",
+    "original_id": "15124043",
+    "referent_id": 15124043,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "rede",
+    "prefix": "gin moon being then in her first quarter, it came to pass that those learned judges repaired them to the halls of law. There master Courtenay, sitting in his own chamber, gave his ",
+    "suffix": " and master Justice Andrews, sitting without a jury in the probate court, weighed well and pondered the claim of the first chargeant upon the property in the matter of the will 196",
+    "start": 71407,
+    "end": 71411,
+    "canonical_text": "rede"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 15124043,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

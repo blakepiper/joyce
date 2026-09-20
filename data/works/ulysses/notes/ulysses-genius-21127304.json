@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21127304",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Strong curtain",
+  "html_source": "<p>A good ending to an act or scene.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21127304/James-joyce-ulysses-chap-9-scylla-and-charybdis/Strong-curtain",
+    "original_id": "21127304",
+    "referent_id": 21127304,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Strong curtain",
+    "prefix": "n it: prosperous Prospero, the good man rewarded, Lizzie, grandpa's lump of love, and nuncle Richie, the bad man taken off by poetic justice to the place where the bad niggers go. ",
+    "suffix": ". He found in the world without as actual what was in his world within as possible. Maeterlinck says: If Socrates leave his house today he will find the sage seated on his doorstep",
+    "start": 60507,
+    "end": 60521,
+    "canonical_text": "Strong curtain"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21127304,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

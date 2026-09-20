@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8494592",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "There is much kindness in the jew",
+  "html_source": "<p>Quote from <em>Merchant of Venice</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8494592/James-joyce-ulysses-chap-10-wandering-rocks/There-is-much-kindness-in-the-jew",
+    "original_id": "8494592",
+    "referent_id": 8494592,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "there is much kindness in the jew",
+    "prefix": "t down the five shillings too. \n\n — Without a second word either, Mr Power said. \n\n — Strange but true, Martin Cunningham added. \n\n John Wyse Nolan opened wide eyes. \n\n — I'll say ",
+    "suffix": ", he quoted, elegantly. \n\n They went down Parliament street. \n\n — There's Jimmy Henry, Mr Power said, just heading for Kavanagh's. \n\n — Righto, Martin Cunningham said. Here goes. \n",
+    "start": 56315,
+    "end": 56348,
+    "canonical_text": "there is much kindness in the jew"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8494592,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

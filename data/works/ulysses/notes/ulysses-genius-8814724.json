@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8814724",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Dotty",
+  "html_source": "<p>Definition of dotty<br />mentally unbalanced :  crazy<br /> amiably eccentric </p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8814724/James-joyce-ulysses-chap-8-lestrygonians/Dotty",
+    "original_id": "8814724",
+    "referent_id": 8814724,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "dotty",
+    "prefix": " and an umbrella dangled to his stride. \n\n — Watch him, Mr Bloom said. He always walks outside the lampposts. Watch! \n\n — Who is he if it's a fair question? Mrs Breen asked. Is he ",
+    "suffix": "? \n\n1986#130\n\n — His name is Cashel Boyle O'Connor Fitzmaurice Tisdall Farrell, Mr Bloom said smiling. Watch! \n\n — He has enough of them, she said. Denis will be like that one of t",
+    "start": 18336,
+    "end": 18341,
+    "canonical_text": "dotty"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8814724,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2081178",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Ages yet to come.",
+  "html_source": "<p>This ends the section in the style of Thomas Babington Macaulay which began with “However, as a matter of fact.”</p><p><img src=\"https://images.genius.com/e75481c8e30802598d91f8254a48b6bc.790x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2081178/James-joyce-ulysses-chap-14-oxen-of-the-sun/Ages-yet-to-come",
+    "original_id": "2081178",
+    "referent_id": 2081178,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "ages yet to come.",
+    "prefix": "adfast and constant heart no lure or peril or threat or degradation could ever efface the image of that voluptuous loveliness which the inspired pencil of Lafayette has limned for ",
+    "suffix": " \n\n It had better be stated here and now at the outset that the perverted transcendentalism to which Mr S. Dedalus' (Div. Scep.) contentions would appear to prove him pretty badly ",
+    "start": 88605,
+    "end": 88622,
+    "canonical_text": "ages yet to come."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2081178,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

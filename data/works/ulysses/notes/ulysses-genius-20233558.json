@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20233558",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "I have often thought",
+  "html_source": "<p>This enigmatic sentence has puzzled commentators. Who is the “I” apparently looking back on this moment from the distant future? And who is the other person referred to in “both our lives”?</p><p>For a discussion see this essay at The Joyce Project</p><p><a href=\"http://m.joyceproject.com/notes/070005trivial.html\" rel=\"noopener nofollow\">http://m.joyceproject.com/notes/070005trivial.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20233558/James-joyce-ulysses-chap-7-aeolus/I-have-often-thought",
+    "original_id": "20233558",
+    "referent_id": 20233558,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "I have often thought",
+    "prefix": "faced. Silence! \n\n Pause. J. J. O'Molloy took out his cigarettecase. \n\n False lull. Something quite ordinary. \n\n Messenger took out his matchbox thoughtfully and lit his cigar. \n\n ",
+    "suffix": " since on looking back over that strange time that it was that small act, trivial in itself, that striking of that match, that determined the whole aftercourse of both our lives. \n",
+    "start": 41931,
+    "end": 41951,
+    "canonical_text": "I have often thought"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20233558,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11041825,
+        "login": "raggedclaws",
+        "name": "raggedclaws",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

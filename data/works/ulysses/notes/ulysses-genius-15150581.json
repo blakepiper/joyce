@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15150581",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Doss",
+  "html_source": "<p>An informal British term meaning to sleep (usually in rough accommodations or out of doors)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15150581/James-joyce-ulysses-chap-14-oxen-of-the-sun/Doss",
+    "original_id": "15150581",
+    "referent_id": 15150581,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "doss",
+    "prefix": "ock and rubbed him all over with spermacetic oil and built stables for him at every turn of the road with a gold manger in each full of the best hay in the market so that he could ",
+    "suffix": " and dung to his heart's content. By this time the father of the faithful (for so they called him) was grown so heavy that he could scarce walk to pasture. To remedy which our coze",
+    "start": 43370,
+    "end": 43374,
+    "canonical_text": "doss"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15150581,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

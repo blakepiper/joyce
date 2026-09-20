@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-22961623",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Sluagh na h-Eireann",
+  "html_source": "<p>The Legion of Ireland.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/22961623/James-joyce-ulysses-chap-12-cyclops/Sluagh-na-h-eireann",
+    "original_id": "22961623",
+    "referent_id": 22961623,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Sluagh na h-Eireann",
+    "prefix": "it for an hour so he would and talk steady. \n\n A most interesting discussion took place in the ancient hall of Brian O'ciarnain's in Sraid na Bretaine Bheag, under the auspices of ",
+    "suffix": ", on the revival of ancient 1961#316Gaelic sports and the importance of physical culture, as understood in ancient Greece and ancient Rome and ancient Ireland, for the development ",
+    "start": 58090,
+    "end": 58109,
+    "canonical_text": "Sluagh na h-Eireann"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9678
+  },
+  "genius": {
+    "referent_id": 22961623,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

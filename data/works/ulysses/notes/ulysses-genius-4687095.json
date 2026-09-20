@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4687095",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Bartell d’Arcy",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/26e6bfabbdc849ff76366e1c90f8fc33.501x334x1.jpg\" alt=\"\" /></p><p>Arthur Hanket as Bartell D'Arcy in <em>The Dead</em>.</p><p>Source: robnagle.com</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4687095/James-joyce-ulysses-chap-8-lestrygonians/Bartell-darcy",
+    "original_id": "4687095",
+    "referent_id": 4687095,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Bartell d'Arcy",
+    "prefix": "nnis? My memory is getting. Pen ...? of course it's years ago. Noise of the trams probably. Well, if he couldn't remember the dayfather's name that he sees every day. \n\n1922#148\n\n ",
+    "suffix": " was the tenor, just coming out then. Seeing her home after practice. Conceited fellow with his waxedup moustache. Gave her that song Winds that blow from the south. \n\n Windy night",
+    "start": 11571,
+    "end": 11585,
+    "canonical_text": "Bartell d'Arcy"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4687095,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

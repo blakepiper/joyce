@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15155442",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Ja, ich weiss, papachi",
+  "html_source": "<p>German for “yes, I know, dear papa”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15155442/James-joyce-ulysses-chap-15-circe/Ja-ich-weiss-papachi",
+    "original_id": "15155442",
+    "referent_id": 15155442,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Ja, ich weiss, papachi",
+    "prefix": "y today. I told you not go with drunken goy ever. So you catch no money. \n\n BLOOM \n\n(Hides the crubeen and trotter behind his back and, crestfallen, feels warm and cold feetmeat.) ",
+    "suffix": ". \n\n RUDOLPH \n\n What you making down this place? Have you no soul? (with feeble vulture talons he feels the silent face of Bloom.) Are you not my son Leopold, the grandson of Leopo",
+    "start": 12146,
+    "end": 12168,
+    "canonical_text": "Ja, ich weiss, papachi"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15155442,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

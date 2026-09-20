@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-3285371",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Again",
+  "html_source": "<p>Gifford states the source of this speech/quote is unknown.</p><p>Consider a paper office, 1904, 2 acquaintances have issued 2 ejaculations to the crowd prior to this odd attempt at grandeur. Ned lambert is <em>on the hop</em> from work and whilst the language might be pleasant on the ears, the impact is low. At best, it’s silly, at worst it’s bombast. Ned has well and truly blown a big wind round the Aeolian bag of the office. However, it is impersonal and apolitical !</p><p>PROPOSED SUGGESTION: As the section later implies, Lambert is reading from the newspaper’s report of a speech by Dan Dawson.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3285371/James-joyce-ulysses-chap-7-aeolus/Again",
+    "original_id": "3285371",
+    "referent_id": 3285371,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "again",
+    "prefix": "ace at Ned Lambert's quizzing face, asked of it sourly: \n\n — Agonising Christ, wouldn't it give you a heartburn on your arse? \n\n Ned Lambert, seated on the table, read on: \n\n — Or ",
+    "suffix": ", note the meanderings of some purling rill as it babbles on its way, tho' quarrelling with the stony obstacles, to the tumbling waters of Neptune's blue domain, 'mid mossy banks, ",
+    "start": 13631,
+    "end": 13636,
+    "canonical_text": "again"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 3285371,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.7870370370370371
+      },
+      {
+        "id": 4476155,
+        "login": "shandyist",
+        "name": "shandyist",
+        "role": "contributor",
+        "attribution": 0.21296296296296297
+      }
+    ]
+  },
+  "color": "F59627"
+}

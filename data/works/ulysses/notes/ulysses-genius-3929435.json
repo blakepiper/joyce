@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-3929435",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "—Corny might have given us a more commodious yoke, Mr Power said.",
+  "html_source": "<p>Commodious means roomy or spacious: Mr. Power is wishing that Corny Kelleher, the undertaker, had given them more time to arrive at the funeral.</p><p>Or a larger wagon.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3929435/James-joyce-ulysses-chap-6-hades/Corny-might-have-given-us-a-more-commodious-yoke-mr-power-said",
+    "original_id": "3929435",
+    "referent_id": 3929435,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "—Corny might have given us a more commodious yoke, Mr Power said.",
+    "prefix": "e's a dear girl. Soon be a woman. Mullingar. Dearest Papli. Young student. Yes, yes: a woman too. Life, life. \n\n The carriage heeled over and back, their four trunks swaying. \n\n — ",
+    "suffix": " \n\n1939#68\n\n — He might, Mr Dedalus said, if he hadn't that squint troubling him. Do you follow me? \n\n He closed his left eye. Martin Cunningham began to brush away crustcrumbs fro",
+    "start": 5568,
+    "end": 5632,
+    "canonical_text": "Corny might have given us a more commodious yoke, Mr Power said."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 3929435,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1116653,
+        "login": "slothcommander",
+        "name": "slothcommander",
+        "role": null,
+        "attribution": 0.8571428571428571
+      },
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 0.14285714285714288
+      }
+    ]
+  },
+  "color": "F59627"
+}

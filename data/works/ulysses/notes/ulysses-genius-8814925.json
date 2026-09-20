@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8814925",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Provost’s house",
+  "html_source": "<p>The Provost is the head of Trinity College in Dublin and accordingly a sumptuous residence was provided.</p><p><img src=\"https://images.rapgenius.com/d2abf2355aabff05ab9d4fdbbdd62ffe.1000x761x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8814925/James-joyce-ulysses-chap-8-lestrygonians/Provosts-house",
+    "original_id": "8814925",
+    "referent_id": 8814925,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Provost's house",
+    "prefix": "reeze. Shelter, for the night. \n\n No one is anything. \n\n This is the very worst hour of the day. Vitality. Dull, gloomy: hate this hour. Feel as if I had been eaten and spewed. \n\n ",
+    "suffix": ". The reverend Dr Salmon: tinned salmon. Well tinned in there. Wouldn't live in it if they paid me. Hope they have liver and bacon today. Nature abhors a vacuum. \n\n1961#164\n\n The s",
+    "start": 31258,
+    "end": 31273,
+    "canonical_text": "Provost's house"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8814925,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

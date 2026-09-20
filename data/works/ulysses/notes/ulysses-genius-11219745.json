@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11219745",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Mi fa pieti Masetto",
+  "html_source": "<p>A line from a duet in Mozart’s Don Giovanni where Giovanni attempts to lure away Zerlina after offering a wedding celebration to Zerlina and her fiance Masetto.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11219745/James-joyce-ulysses-chap-18-penelope/Mi-fa-pieti-masetto",
+    "original_id": "11219745",
+    "referent_id": 11219745,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "mi fa pieti Masetto",
+    "prefix": "a in the moustachecup she gave him to make his mouth bigger I suppose hed like my nice cream too I know what Ill do Ill go about rather gay not too much singing a bit now and then ",
+    "suffix": " then Ill start dressing myself to go out presto non son più forte Ill put on my best shift and drawers let him have a good eyeful out of that to make his micky stand for him Ill l",
+    "start": 112072,
+    "end": 112091,
+    "canonical_text": "mi fa pietà Masetto"
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9474
+  },
+  "genius": {
+    "referent_id": 11219745,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

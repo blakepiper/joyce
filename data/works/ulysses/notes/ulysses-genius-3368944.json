@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3368944",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Under the shadow",
+  "html_source": "<p><a href=\"http://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/The_Swan_cropped.png/640px-The_Swan_cropped.png\" rel=\"noopener nofollow\">Overhead protection/ shadow producer at the back of an Elizabethan/Shakepearean stage (Gifford)</a>.</p><p><a href=\"http://www.revisionworld.com/sites/revisionworld.com/files/rw_files/theatre.gif\" rel=\"noopener nofollow\">I’m still trying to find a labelled photo on interweb</a>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3368944/James-joyce-ulysses-chap-9-scylla-and-charybdis/Under-the-shadow",
+    "original_id": "3368944",
+    "referent_id": 3368944,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "under the shadow",
+    "prefix": "cygnets towards the rushes. The swan of Avon has other thoughts. \n\n Composition of place. Ignatius Loyola, make haste to help me! \n\n1922#180\n\n — The play begins. A player comes on ",
+    "suffix": ", made up in 1932#168the castoff mail of a court buck, a wellset man with a bass voice. It is the ghost, the king, a king and no king, and the player is Shakespeare who has studied",
+    "start": 9280,
+    "end": 9296,
+    "canonical_text": "under the shadow"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3368944,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

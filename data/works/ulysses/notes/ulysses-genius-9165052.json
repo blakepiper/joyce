@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9165052",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Sublime Porte",
+  "html_source": "<p>Sublime Porte, also called Porte, the government of the Ottoman Empire. The name is a French translation of Turkish Bâbıâli (“High Gate,” or “Gate of the Eminent”). which was the official name of the gate giving access to the block of buildings in Constantinople, or Istanbul, that housed the principal state departments.</p><p><img src=\"https://images.genius.com/8af6f9844e064f1e14cae987ba5a42a5.1000x818x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9165052/James-joyce-ulysses-chap-14-oxen-of-the-sun/Sublime-porte",
+    "original_id": "9165052",
+    "referent_id": 9165052,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Sublime Porte",
+    "prefix": "eir quondam vigour while the stuff that comes away from it is stagnant, acid and inoperative. \n\n The news was imparted with a circumspection recalling the ceremonial usages of the ",
+    "suffix": " by the second female infirmarian to the junior medical officer in residence, who in his turn announced to the delegation that an heir had been born. When he had betaken himself to",
+    "start": 68236,
+    "end": 68249,
+    "canonical_text": "Sublime Porte"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9165052,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8483880",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Five to three",
+  "html_source": "<p>This is Episode One of the nineteen episodes into which this chapter is divided. Commentary often refers to these sections.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8483880/James-joyce-ulysses-chap-10-wandering-rocks/Five-to-three",
+    "original_id": "8483880",
+    "referent_id": 8483880,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Five to three",
+    "prefix": "\n\n[10]\n\n\n\nThe superior, the very reverend John Conmee S.J. reset his smooth watch in his interior pocket as he came down the presbytery steps. ",
+    "suffix": ". Just nice time to walk to Artane. What was that boy's name again? Dignam. Yes. Vere dignum et iustum est. Brother Swan was the person to see. Mr Cunningham's letter. Yes. Oblige ",
+    "start": 143,
+    "end": 156,
+    "canonical_text": "Five to three"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8483880,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

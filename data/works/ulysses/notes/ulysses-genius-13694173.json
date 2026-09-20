@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13694173",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Mickle",
+  "html_source": "<p>(chiefly Scotland) A great amount.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13694173/James-joyce-ulysses-chap-14-oxen-of-the-sun/Mickle",
+    "original_id": "13694173",
+    "referent_id": 13694173,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "mickle",
+    "prefix": " but yet was she left after long years a handmaid. Nine twelve bloodflows chiding her childless. \n\n And whiles they spake the door of the castle was opened and there nighed them a ",
+    "suffix": " noise as of many that sat there at meat. And there 1986#316came against the place as they stood a young learningknight yclept Dixon. And the traveller Leopold was couth to him sit",
+    "start": 8455,
+    "end": 8461,
+    "canonical_text": "mickle"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13694173,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

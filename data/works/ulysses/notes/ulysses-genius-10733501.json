@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10733501",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Thy temple amid thy hair",
+  "html_source": "<p>Song of Solomon 6:7<br />King James Bible<br />As a piece of a pomegranate are thy temples within thy locks.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10733501/James-joyce-ulysses-chap-17-ithaca/Thy-temple-amid-thy-hair",
+    "original_id": "10733501",
+    "referent_id": 10733501,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "thy temple amid thy hair",
+    "prefix": " suil, suil, suil arun, suil go siocair agus suil go cuin (walk, walk, walk your way, walk in safety, walk with care). \n\n By Bloom: Kifeloch, harimon rakatejch m'baad l'zamatejch (",
+    "suffix": " is as a slice of pomegranate). \n\n How was a glyphic comparison of the phonic symbols of both languages made in substantiation of the oral comparison? \n\n By juxtaposition. On the p",
+    "start": 47038,
+    "end": 47062,
+    "canonical_text": "thy temple amid thy hair"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10733501,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

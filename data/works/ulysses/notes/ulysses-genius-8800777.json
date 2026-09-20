@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8800777",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "The New York World",
+  "html_source": "<p>New York World, daily newspaper published in New York City from 1860 to 1931, a colourful and vocal influence in American journalism. The World is most closely associated with publisher Joseph Pulitzer, who purchased the newspaper in 1883. It was an era marked by publicity stunts, screaming headlines, and sensationalism as the newspapers competed for readers, staff, advertisers, and public attention. The World played a major role in whipping up the jingoistic spirit that led the United States into the Spanish-American War.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8800777/James-joyce-ulysses-chap-7-aeolus/The-new-york-world",
+    "original_id": "8800777",
+    "referent_id": 8800777,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "The New York World",
+    "prefix": " of the invincibles, murder in the Phoenix park, before you were born, I suppose. I'll show you. \n\n He pushed past them to the files. \n\n1922#130\n\n — Look at here, he said turning. ",
+    "suffix": " cabled for a special. Remember that time? \n\n Professor MacHugh nodded. \n\n — New York World, the editor said, excitedly pushing back his straw hat. Where it took place. Tim Kelly, ",
+    "start": 34864,
+    "end": 34882,
+    "canonical_text": "The New York World"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8800777,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4252574",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "To never see thy face again",
+  "html_source": "<p>This is thought to be a reference to a song, possibly from ‘He Never Came Back’ and or ‘His Sweet face She Never saw no more’ by William Jerome, (Allusions in Ulysses, an Annotated List, Weldon, T).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4252574/James-joyce-ulysses-chap-18-penelope/To-never-see-thy-face-again",
+    "original_id": "4252574",
+    "referent_id": 4252574,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "to never see thy face again",
+    "prefix": "st old ones she could find at the bottom of the basket anything at all to get into a mans bedroom with her old maids voice 1922#690trying to imagine he was dying on account of her ",
+    "suffix": " though he looked more like a man with his beard a bit grown in the bed father was the same besides I hate bandaging and dosing when he cut his toe with the razor paring his corns ",
+    "start": 2125,
+    "end": 2152,
+    "canonical_text": "to never see thy face again"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4252574,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

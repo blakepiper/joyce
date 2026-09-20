@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-3929459",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Silk of the kine",
+  "html_source": "<p>Kine is an archaic plural form for cow.</p><p>Confuse your friends by telling them things about kine, and have them think it’s something deliciously exotic. Relates to Ireland, G &amp;S.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3929459/James-joyce-ulysses-chap-1-telemachus/Silk-of-the-kine",
+    "original_id": "3929459",
+    "referent_id": 3929459,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Silk of the kine",
+    "prefix": "patient cow at daybreak in the lush field, a witch on her toadstool, her 1961#13wrinkled fingers quick at the squirting dugs. They lowed about her whom they knew, dewsilky cattle. ",
+    "suffix": " and poor old woman, names given her in old times. A wandering crone, lowly form of an immortal serving her conqueror and her gay betrayer, their common cuckquean, a messenger from",
+    "start": 22937,
+    "end": 22953,
+    "canonical_text": "Silk of the kine"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3929459,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1116653,
+        "login": "slothcommander",
+        "name": "slothcommander",
+        "role": null,
+        "attribution": 0.5666666666666667
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.26666666666666666
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.16666666666666669
+      }
+    ]
+  },
+  "color": "F59627"
+}

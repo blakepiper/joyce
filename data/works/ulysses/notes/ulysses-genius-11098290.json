@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11098290",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Katty Lanner",
+  "html_source": "<p><a href=\"https://androom.home.xs4all.nl/biography/p016385.htm\" rel=\"noopener nofollow\">https://androom.home.xs4all.nl/biography/p016385.htm</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11098290/James-joyce-ulysses-chap-18-penelope/Katty-lanner",
+    "original_id": "11098290",
+    "referent_id": 11098290,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Katty Lanner",
+    "prefix": " muddy boots hed like me to walk in all the horses dung I could find but of course hes not natural like the rest of the world that I what did he say I could give 9 points in 10 to ",
+    "suffix": " and beat her what does that mean I asked him I forget what he said because the stoppress edition just passed and the man with the curly hair in the Lucan dairy thats so polite I t",
+    "start": 19993,
+    "end": 20005,
+    "canonical_text": "Katty Lanner"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11098290,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

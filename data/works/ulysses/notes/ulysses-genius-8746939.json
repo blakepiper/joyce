@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8746939",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "James Stephens",
+  "html_source": "<p>Fenian, escaped gaol.</p><p><a href=\"http://multitext.ucc.ie/d/James_Stephens\" rel=\"noopener nofollow\">http://multitext.ucc.ie/d/James_Stephens</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8746939/James-joyce-ulysses-chap-4-calypso/James-stephens",
+    "original_id": "8746939",
+    "referent_id": 8746939,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "James Stephens",
+    "prefix": "hat moment. Brown brillantined hair over his collar. Just had a wash and brushup. Wonder have I time for a bath this 1939#52morning. Tara street. Chap in the paybox there got away ",
+    "suffix": ", they say. O'Brien. \n\n Deep voice that fellow Dlugacz has. Agenda what is it? Now, my miss. Enthusiast. \n\n He kicked open the crazy door of the jakes. Better be careful not to get",
+    "start": 30169,
+    "end": 30183,
+    "canonical_text": "James Stephens"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8746939,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

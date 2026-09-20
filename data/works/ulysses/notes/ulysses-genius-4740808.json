@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4740808",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Sounds solid",
+  "html_source": "<p>Suggests his experiment has found an object which exists – something outwith the mind: Berkeley’s incorrect, though he implies an uncertainty about the conclusion- it only sounds solid!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4740808/James-joyce-ulysses-chap-3-proteus/Sounds-solid",
+    "original_id": "4740808",
+    "referent_id": 4740808,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Sounds solid",
+    "prefix": "einander ineluctably! I am getting on nicely in the dark. My ash sword hangs at my side. Tap with it: they do. My two feet in his boots are at the ends of his legs, nebeneinander. ",
+    "suffix": ": made by the mallet of Los Demiurgos. Am I walking into eternity along Sandymount strand? Crush, crack, crick, crick. Wild sea money. Dominie Deasy kens them a'. \n\nWon't you come ",
+    "start": 1196,
+    "end": 1208,
+    "canonical_text": "Sounds solid"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4740808,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

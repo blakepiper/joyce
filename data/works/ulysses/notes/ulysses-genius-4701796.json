@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4701796",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "A. E. has been telling some yankee interviewer",
+  "html_source": "<p><a href=\"https://genius.com/4701812\" rel=\"noopener nofollow\">Stephen will recall O'Molloy’s words when he debates A.E. in Chapter 9.</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4701796/James-joyce-ulysses-chap-7-aeolus/A-e-has-been-telling-some-yankee-interviewer",
+    "original_id": "4701796",
+    "referent_id": 4701796,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "A. E. has been telling some yankee interviewer",
+    "prefix": "y said to Stephen. What do you think really of that hermetic crowd, the opal hush poets: A. E. the mastermystic? That Blavatsky woman started it. She was a nice old bag of tricks. ",
+    "suffix": " that you came to him in the small hours of the morning to ask him about planes of consciousness. Magennis thinks you must have been pulling A. E.'s leg. He is a man of the very hi",
+    "start": 43237,
+    "end": 43283,
+    "canonical_text": "A. E. has been telling some yankee interviewer"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4701796,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

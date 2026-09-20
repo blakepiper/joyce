@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8341914",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "By the stern stone hand of Grattan",
+  "html_source": "<p>Another nearby statue of Irish politician Henry Grattan (1746-1820); he is portrayed declaiming, with his arm raised above his head.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8341914/James-joyce-ulysses-chap-10-wandering-rocks/By-the-stern-stone-hand-of-grattan",
+    "original_id": "8341914",
+    "referent_id": 8341914,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "By the stern stone hand of Grattan",
+    "prefix": "hen said smiling, swaying his ashplant in slow swingswong from its midpoint, lightly. \n\n— Speriamo, the round mustachioed face said pleasantly. Ma, dia retta a me. Ci rifletta. \n\n ",
+    "suffix": ", bidding halt, an Inchicore tram unloaded straggling Highland soldiers of a band. \n\n — Ci rifletteró, Stephen said, glancing down the solid trouserleg. \n\n — Ma, sul serio, eh? Alm",
+    "start": 20005,
+    "end": 20039,
+    "canonical_text": "By the stern stone hand of Grattan"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8341914,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2568065,
+        "login": "GeoffBobker",
+        "name": "GeoffBobker",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

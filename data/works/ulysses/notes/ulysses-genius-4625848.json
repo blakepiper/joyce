@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4625848",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "If no more",
+  "html_source": "<p>Stephen appears to agree with the Aristotelian (Western?) view but leaves open the possibility of alternatives. What can we directly know beyond our senses? Is spiritual insight possible?</p><p>A premonition of the Aristotle versus Plato thread to his Hamlet rant in the “Scylla and Charybdis” chapter.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4625848/James-joyce-ulysses-chap-3-proteus/If-no-more",
+    "original_id": "4625848",
+    "referent_id": 4625848,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "if no more",
+    "prefix": " \n\n[3]\n\n\n\nIneluctable modality of the visible: at least that ",
+    "suffix": ", thought through my eyes. Signatures of all things I am here to read, seaspawn and seawrack, the nearing tide, that rusty boot. Snotgreen, bluesilver, rust: coloured signs. Limits",
+    "start": 61,
+    "end": 71,
+    "canonical_text": "if no more"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4625848,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.6086956521739131
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.391304347826087
+      }
+    ]
+  },
+  "color": "F59627"
+}

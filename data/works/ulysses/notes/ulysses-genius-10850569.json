@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10850569",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Simon Marius",
+  "html_source": "<p>German astronomer who named the largest moons of Jupiter</p><p><a href=\"https://www.britannica.com/biography/Simon-Marius\" rel=\"noopener nofollow\">https://www.britannica.com/biography/Simon-Marius</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10850569/James-joyce-ulysses-chap-17-ithaca/Simon-marius",
+    "original_id": "10850569",
+    "referent_id": 10850569,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Simon Marius",
+    "prefix": "id: the annular cinctures of Saturn: the condensation of spiral nebulae into suns: the interdependent gyrations of double suns: the independent synchronous discoveries of Galileo, ",
+    "suffix": ", Piazzi, Le Verrier, Herschel, Galle: the systematisations attempted by Bode and Kepler of cubes of distances and squares of times of revolution: the almost infinite compressibili",
+    "start": 70441,
+    "end": 70453,
+    "canonical_text": "Simon Marius"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10850569,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

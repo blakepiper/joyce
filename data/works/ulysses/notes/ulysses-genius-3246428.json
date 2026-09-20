@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3246428",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Murray",
+  "html_source": "<p><a href=\"http://www.doc.ic.ac.uk/~rac101/concord/texts/ulysses/ulysses.cgi?word=MURRAY\" rel=\"noopener nofollow\">Mentioned 12 times in Ulysses</a>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3246428/James-joyce-ulysses-chap-7-aeolus/Murray",
+    "original_id": "3246428",
+    "referent_id": 3246428,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Murray",
+    "prefix": "ince's stores and bumped them up on the brewery float. On the brewery float bumped dullthudding barrels rolled by grossbooted draymen out of Prince's stores. \n\n — There it is, Red ",
+    "suffix": " said. Alexander Keyes. \n\n1922#112\n\n — Just cut it out, will you? Mr Bloom said, and I'll take it round to the Telegraph office. \n\n1932#104\n\n The door of Ruttledge's office creaked",
+    "start": 1243,
+    "end": 1249,
+    "canonical_text": "Murray"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9193
+  },
+  "genius": {
+    "referent_id": 3246428,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

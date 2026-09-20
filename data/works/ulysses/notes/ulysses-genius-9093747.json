@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9093747",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Noddy",
+  "html_source": "<p>A light, two-wheeled carriage</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9093747/James-joyce-ulysses-chap-10-wandering-rocks/Noddy",
+    "original_id": "9093747",
+    "referent_id": 9093747,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "noddy",
+    "prefix": "is fat strut. \n\n Down there Emmet was hanged, drawn and quartered. Greasy black rope. 1922#230Dogs licking the blood off the street when the lord lieutenant's wife drove by in her ",
+    "suffix": ". \n\n Bad times those were. Well, well. Over and done with. Great topers too. Fourbottle men. \n\n Let me see. Is he buried in saint Michan's? Or no, there was a midnight burial in Gl",
+    "start": 44078,
+    "end": 44083,
+    "canonical_text": "noddy"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9093747,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083736,
+        "login": "JessicaVestuto",
+        "name": "JessicaVestuto",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

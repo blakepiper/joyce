@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8742107",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Larry O’Rourke’s",
+  "html_source": "<p>Grocer.</p><p><img src=\"https://images.rapgenius.com/a2f62450f5a7061605c007fbb0af4b1d.1000x750x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8742107/James-joyce-ulysses-chap-4-calypso/Larry-orourkes",
+    "original_id": "8742107",
+    "referent_id": 8742107,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Larry O'Rourke's",
+    "prefix": "p in the northwest from the laneway behind the bank of Ireland. He prolonged his pleased smile. Ikey touch that: homerule sun rising up in the northwest. \n\n1922#55\n\n He approached ",
+    "suffix": ". From the cellar grating floated up1932#50 the flabby gush of porter. Through the open doorway the bar squirted out whiffs of ginger, teadust, biscuitmush.1961#57 Good house, howe",
+    "start": 6807,
+    "end": 6823,
+    "canonical_text": "Larry O'Rourke's"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8742107,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

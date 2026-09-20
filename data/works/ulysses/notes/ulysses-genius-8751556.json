@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8751556",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "I am Paddy Dignam’s spirit. List, list, O list!",
+  "html_source": "<p>From Act 1, scene 5, <em>Hamlet</em>: “I’m thy father’s spirit… But this eternal blazon must not be<br />To ears of flesh and blood. List, list, O, list!”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8751556/James-joyce-ulysses-chap-15-circe/I-am-paddy-dignams-spirit-list-list-o-list",
+    "original_id": "8751556",
+    "referent_id": 8751556,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "I am Paddy Dignam's spirit. List, list, O list!",
+    "prefix": "d to the disease from natural causes. \n\n(He lifts his mutilated ashen face moonwards and bays lugubriously.) \n\n BLOOM \n\n(In triumph.) You hear? \n\n1961#472\n\n PADDY DIGNAM \n\n Bloom, ",
+    "suffix": " \n\n1986#3851932#420\n\n BLOOM \n\n The voice is the voice of Esau. \n\n SECOND WATCH \n\n(Blesses himself.) How is that possible? \n\n FIRST WATCH \n\n It is not in the penny catechism. \n\n PAD",
+    "start": 61407,
+    "end": 61454,
+    "canonical_text": "I am Paddy Dignam's spirit. List, list, O list!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8751556,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

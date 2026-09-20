@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23990967",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "And",
+  "html_source": "<p>Bloom kept an eye on Stephen because he knew his da Simon Dedalus; Stephen appreciated the company.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23990967/James-joyce-ulysses-chap-14-oxen-of-the-sun/And",
+    "original_id": "23990967",
+    "referent_id": 23990967,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "And",
+    "prefix": " more mead) and beside the meek sir Leopold. But on young Malachi they waited for that he promised to have come and such as intended to no goodness said how he had broke his avow. ",
+    "suffix": " sir Leopold sat with them for he bore fast friendship to sir Simon and to this his son young Stephen and for that his languor becalmed him there after longest wanderings 1939#280i",
+    "start": 13838,
+    "end": 13841,
+    "canonical_text": "And"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 23990967,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4660675",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "An odour of rosewood and wetted ashes",
+  "html_source": "<p>Stephen thinks of a dream – his mother’s deathbed.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4660675/James-joyce-ulysses-chap-2-nestor/An-odour-of-rosewood-and-wetted-ashes",
+    "original_id": "4660675",
+    "referent_id": 4660675,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "an odour of rosewood and wetted ashes",
+    "prefix": "hen real? The only true thing in life? His mother's prostrate body the fiery Columbanus in holy zeal bestrode. She was no more: the trembling skeleton of a twig burnt in the fire, ",
+    "suffix": ". She 1961#27had saved him from being trampled underfoot and had gone, scarcely having been. A poor soul gone to heaven: and on a heath beneath winking stars a fox, red reek of rap",
+    "start": 7716,
+    "end": 7753,
+    "canonical_text": "an odour of rosewood and wetted ashes"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4660675,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

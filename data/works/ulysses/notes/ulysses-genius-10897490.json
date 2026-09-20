@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10897490",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Gea-Tellus",
+  "html_source": "<p>Gea: (Greek mythology) goddess of the earth and mother of Cronus and the Titans in ancient mythology</p><p>Tellus: also called Terra Mater, ancient Roman earth goddess</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10897490/James-joyce-ulysses-chap-17-ithaca/Gea-tellus",
+    "original_id": "10897490",
+    "referent_id": 10897490,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Gea-Tellus",
+    "prefix": "2#639\n\n In what posture? \n\n Listener: reclined semilaterally, left, left hand under head, right leg extended in a straight line and resting on left leg, flexed, in the attitude of ",
+    "suffix": ", fulfilled, recumbent, big with seed. Narrator: reclined laterally, left, with right and left legs flexed, the index finger and thumb of the right hand resting on the bridge of th",
+    "start": 147244,
+    "end": 147254,
+    "canonical_text": "Gea-Tellus"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10897490,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

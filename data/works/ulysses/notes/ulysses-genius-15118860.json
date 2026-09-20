@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15118860",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Commendatore Bacibaci Beninobenone",
+  "html_source": "<p>(Italian) Commander Kisskiss Quitewellverywell</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15118860/James-joyce-ulysses-chap-12-cyclops/Commendatore-bacibaci-beninobenone",
+    "original_id": "15118860",
+    "referent_id": 15118860,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Commendatore Bacibaci Beninobenone",
+    "prefix": "le the picturesque foreign delegation known as the Friends of the Emerald Isle was accommodated on a tribune directly opposite. The delegation, present in full force, consisted of ",
+    "suffix": " (the semiparalysed doyen of the party who had to be assisted to 1939#223his seat by the aid of a powerful steam crane), Monsieur Pierrepaul Petitépatant, the Grandjoker Vladinmire",
+    "start": 35160,
+    "end": 35194,
+    "canonical_text": "Commendatore Bacibaci Beninobenone"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15118860,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

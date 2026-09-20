@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8793762",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Temperance hotel",
+  "html_source": "<p>The Temperance movement in the United Kingdom originated as a mass movement in the 19th century. Before this, though there were diatribes published against drunkenness and excess, total abstinence from alcohol was very rarely advocated or practised. The earliest temperance societies, inspired by the Belfast professor of theology, and Presbyterian Church of Ireland minister John Edgar, who poured his stock of whiskey out of his window in 1829, concentrated their efforts on spirits rather than wine and beer</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8793762/James-joyce-ulysses-chap-6-hades/Temperance-hotel",
+    "original_id": "8793762",
+    "referent_id": 8793762,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "temperance hotel",
+    "prefix": "eyes looked at him. \n\n — No suffering, he said. A moment and all is over. Like dying in sleep. \n\n No-one spoke. \n\n Dead side of the street this. Dull business by day, land agents, ",
+    "suffix": ", Falconer's railway guide, civil service college, Gill's, catholic club, the industrious blind. Why? Some reason. Sun or wind. At night too. Chummies and slaveys. Under the patron",
+    "start": 18184,
+    "end": 18200,
+    "canonical_text": "temperance hotel"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8793762,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

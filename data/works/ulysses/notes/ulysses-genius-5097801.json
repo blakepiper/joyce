@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5097801",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Ruby: the Pride of the Ring",
+  "html_source": "<p>The circus novel Molly was reading.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5097801/James-joyce-ulysses-chap-4-calypso/Ruby-the-pride-of-the-ring",
+    "original_id": "5097801",
+    "referent_id": 5097801,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Ruby: the Pride of the Ring",
+    "prefix": "l us in plain words. \n\n He smiled, glancing askance at her mocking eyes. The same young eyes. The first night after the charades. Dolphin's Barn. He turned over the smudged pages. ",
+    "suffix": ". Hello. Illustration. Fierce Italian with carriagewhip. Must be Ruby pride of the on the floor naked. Sheet kindly lent.The monster Maffei desisted and flung his victim from him w",
+    "start": 21225,
+    "end": 21252,
+    "canonical_text": "Ruby: the Pride of the Ring"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5097801,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1616649,
+        "login": "bigguyforyou",
+        "name": "bigguyforyou",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8883929",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Swell mobsmen",
+  "html_source": "<p>Source Gifford:<br />In context this refers to showily dressed pimps who double as pick pockets or thieves</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8883929/James-joyce-ulysses-chap-16-eumaeus/Swell-mobsmen",
+    "original_id": "8883929",
+    "referent_id": 8883929,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "swell mobsmen",
+    "prefix": "o at all events, was in complete possession of his faculties, never more so, in fact disgustingly sober, spoke a word of caution re the dangers of nighttown, women of ill fame and ",
+    "suffix": ", which, barely permissible once in a while, though not as a habitual practice, was of the nature of a regular deathtrap for young fellows of his age particularly if they had acqui",
+    "start": 4629,
+    "end": 4642,
+    "canonical_text": "swell mobsmen"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8883929,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

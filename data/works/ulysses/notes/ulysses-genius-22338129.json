@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-22338129",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Wait till you hear him on Hamlet",
+  "html_source": "<p>We readers will get to “hear” Stephen discourse extensively on Hamlet in Chapter 9.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/22338129/James-joyce-ulysses-chap-1-telemachus/Wait-till-you-hear-him-on-hamlet",
+    "original_id": "22338129",
+    "referent_id": 22338129,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Wait till you hear him on Hamlet",
+    "prefix": "about the cracked lookingglass of a servant being the symbol of Irish art is deuced good. \n\n Buck Mulligan kicked Stephen's foot under the table and said with warmth of tone: \n\n — ",
+    "suffix": ", Haines. \n\n — Well, I mean it, Haines said, still speaking to Stephen. I was just thinking of it when that poor old creature came in. \n\n — Would I make money by it? Stephen asked.",
+    "start": 27383,
+    "end": 27415,
+    "canonical_text": "Wait till you hear him on Hamlet"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 22338129,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

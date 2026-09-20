@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8804649",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "CYNOSURE",
+  "html_source": "<p>noun<br />a person or thing that is the center of attention or admiration.<br />“the Queen was the cynosure of all eyes”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8804649/James-joyce-ulysses-chap-7-aeolus/Cynosure",
+    "original_id": "8804649",
+    "referent_id": 8804649,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "CYNOSURE",
+    "prefix": "\n1986#122\n\n He laughed richly. \n\n — I see, he said again with new pleasure. Moses and the promised land. We gave him that idea, he added to J. J. O'Molloy. \n\n1961#149\n\n HORATIO IS ",
+    "suffix": " THIS FAIR JUNE DAY \n\n J. J. O'Molloy sent a weary sidelong glance towards the statue and held his peace. \n\n — I see, the professor said. \n\n He halted on sir John Gray's pavement i",
+    "start": 59316,
+    "end": 59324,
+    "canonical_text": "CYNOSURE"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8804649,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

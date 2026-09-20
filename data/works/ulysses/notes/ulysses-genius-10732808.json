@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10732808",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Crown Derby",
+  "html_source": "<p><a href=\"http://www.royalcrownderby.co.uk/about/\" rel=\"noopener nofollow\">http://www.royalcrownderby.co.uk/about/</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10732808/James-joyce-ulysses-chap-17-ithaca/Crown-derby",
+    "original_id": "10732808",
+    "referent_id": 10732808,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Crown Derby",
+    "prefix": "by Bloom? \n\n On the lower shelf five vertical breakfast plates, six horizontal breakfast saucers on which rested inverted breakfast cups, a moustachecup, uninverted, and saucer of ",
+    "suffix": ", four white goldrimmed eggcups, 1986#551an open shammy purse displaying coins, mostly copper, and a phial of aromatic violet comfits. On the middle shelf a chipped eggcup containi",
+    "start": 20033,
+    "end": 20044,
+    "canonical_text": "Crown Derby"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9714
+  },
+  "genius": {
+    "referent_id": 10732808,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

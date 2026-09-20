@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-11193953",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "O beau pays de la Tourain",
+  "html_source": "<p><a href=\"https://www.youtube.com/watch?v=CwefT8g3-pI\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=CwefT8g3-pI</a></p><p>PROPOSED SUGGESTION: Video link no longer works. This is French for “Oh beautiful country of Touraine”, an aria from Les Huguenots by Meyerbeer, mentioned previously.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11193953/James-joyce-ulysses-chap-18-penelope/O-beau-pays-de-la-tourain",
+    "original_id": "11193953",
+    "referent_id": 11193953,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "O beau pays de la Tourain",
+    "prefix": "wasnt I the born fool to believe all his blather about home rule and the land league sending me that long strool of a song out of the Huguenots to sing in French to be more classy ",
+    "suffix": "e that I never even sang once explaining and rigmaroling about religion and persecution he wont let you enjoy anything naturally then might he as a great favour the very 1st opport",
+    "start": 88406,
+    "end": 88431,
+    "canonical_text": "O beau pays de la Tourain"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11193953,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.5
+      },
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 0.4666666666666666
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.03333333333333333
+      }
+    ]
+  },
+  "color": "F59627"
+}

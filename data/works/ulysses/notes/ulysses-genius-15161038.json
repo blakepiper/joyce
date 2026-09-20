@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15161038",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Ads",
+  "html_source": "<p>Should read “arms” (perhaps all the transcription errors in this chapter are due to the italic case used for all of the stage directions: OCR software must have balked at this).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15161038/James-joyce-ulysses-chap-15-circe/Ads",
+    "original_id": "15161038",
+    "referent_id": 15161038,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "ads",
+    "prefix": "Weighing upwards of three tons.\n\n\n(He looks at all for a moment, his right eye closed tight, his left cheek puffed out. Then, unable to repress his merriment, he rocks to and fro, ",
+    "suffix": " akimbo, and sings with broad rollicking humour.) O, the poor little fellow Hi-hi-hi-hi-his legs they were yellow He was plump, fat and heavy and brisk as a snake But some bloody s",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "ambiguous",
+    "confidence": 0.28927550239619826
+  },
+  "genius": {
+    "referent_id": 15161038,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

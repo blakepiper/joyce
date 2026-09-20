@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4686033",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Boyl",
+  "html_source": "<p>Boylan – he has an advertising firm. [Gifford]</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4686033/James-joyce-ulysses-chap-8-lestrygonians/Boyl",
+    "original_id": "4686033",
+    "referent_id": 4686033,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Boyl",
+    "prefix": " mouth and munched as he walked. Our staple food. Three bob a day, walking along the gutters, street after street. Just keep skin and bone together, bread and skilly. They are not ",
+    "suffix": ": no, M'Glade's men. Doesn't bring in any business either. I suggested to him about a transparent showcart with two smart girls sitting inside writing letters, copybooks, envelopes",
+    "start": 7965,
+    "end": 7969,
+    "canonical_text": "Boyl"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 4686033,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

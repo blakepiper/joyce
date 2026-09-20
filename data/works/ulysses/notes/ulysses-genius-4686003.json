@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4686003",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Skilly",
+  "html_source": "<p>Skilly is gruel, a soup-like concoction of oatmeal and water. [Gifford]</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4686003/James-joyce-ulysses-chap-8-lestrygonians/Skilly",
+    "original_id": "4686003",
+    "referent_id": 4686003,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "skilly",
+    "prefix": ", crammed it into his mouth and munched as he walked. Our staple food. Three bob a day, walking along the gutters, street after street. Just keep skin and bone together, bread and ",
+    "suffix": ". They are not Boyl: no, M'Glade's men. Doesn't bring in any business either. I suggested to him about a transparent showcart with two smart girls sitting inside writing letters, c",
+    "start": 7944,
+    "end": 7950,
+    "canonical_text": "skilly"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4686003,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

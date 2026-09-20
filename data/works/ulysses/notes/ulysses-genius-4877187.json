@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4877187",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Hamlet, I am thy father’s spirit\n Doomed for a certain time to walk the earth.",
+  "html_source": "<p>Misquote of Shakespeare’s <em>Hamlet</em>, where the ghost says to Hamlet:</p><blockquote><p>I am thy father’s spirit,<br />Doom’d for a certain term to walk the night…<br /><a href=\"https://genius.com/4721739/William-shakespeare-hamlet-act-1-scene-5/I-am-thy-fathers-spirit\" rel=\"noopener nofollow\">Act 1, Scene 5</a></p></blockquote><p>Stephen will make the same mistake in <a href=\"https://genius.com/3369035/James-joyce-ulysses-chap-9-scylla-and-charybdis/Hamlet-i-am-thy-fathers-spirit\" rel=\"noopener nofollow\">Chapter 9</a>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4877187/James-joyce-ulysses-chap-8-lestrygonians/Hamlet-i-am-thy-fathers-spirit-doomed-for-a-certain-time-to-walk-the-earth",
+    "original_id": "4877187",
+    "referent_id": 4877187,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Hamlet, I am thy father's spirit\n Doomed for a certain time to walk the earth.",
+    "prefix": "the waters dull. \n\n1922#145\n\n That is how poets write, the similar sounds. But then Shakespeare has no rhymes: blank verse. The flow of the language it is. The thoughts. Solemn. \n\n",
+    "suffix": " \n\n1961#152\n\n — Two apples a penny! Two for a penny! \n\n His gaze passed over the glazed apples serried on her stand. Australians they must be this time of year. Shiny peels: polish",
+    "start": 4178,
+    "end": 4256,
+    "canonical_text": "Hamlet, I am thy father's spirit \nDoomed for a certain time to walk the earth."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4877187,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1482232,
+        "login": "JayEn",
+        "name": "JayEn",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

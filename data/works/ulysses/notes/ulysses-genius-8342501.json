@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8342501",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "A darkbacked figure under Merchants’ arch scanned books on the hawker’s cart.",
+  "html_source": "<p>This is Bloom.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8342501/James-joyce-ulysses-chap-10-wandering-rocks/A-darkbacked-figure-under-merchants-arch-scanned-books-on-the-hawkers-cart",
+    "original_id": "8342501",
+    "referent_id": 8342501,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "A darkbacked figure under Merchants' arch scanned books on the hawker's cart.",
+    "prefix": "ng towards their goal. \n\n He turned suddenly from a chip of strawberries, drew a gold watch from his fob and held it at its chain's length. \n\n — Can you send them by tram? Now? \n\n ",
+    "suffix": " \n\n — Certainly, sir. Is it in the city? \n\n — O, yes, Blazes Boylan said. Ten minutes. \n\n The blond girl handed him a docket and pencil. \n\n — Will you write the address, sir? \n\n Bl",
+    "start": 18067,
+    "end": 18144,
+    "canonical_text": "A darkbacked figure under Merchants' arch scanned books on the hawker's cart."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8342501,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2568065,
+        "login": "GeoffBobker",
+        "name": "GeoffBobker",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

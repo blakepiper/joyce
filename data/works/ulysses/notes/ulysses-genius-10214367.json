@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10214367",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Shakti, Shiva",
+  "html_source": "<p>SHIVA symbolises consciousness, the masculine principle.<br />SHAKTI symbolises the feminine principle, the activating power and energy.<br /><a href=\"http://www.chakras.net/yoga-principles/22-shiva-and-shakti\" rel=\"noopener nofollow\">http://www.chakras.net/yoga-principles/22-shiva-and-shakti</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10214367/James-joyce-ulysses-chap-15-circe/Shakti-shiva",
+    "original_id": "10214367",
+    "referent_id": 10214367,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Shakti, Shiva",
+    "prefix": "(With a voice of whistling seawind.) Punarjanam patsypunjaub! I won't have my leg pulled. It has been said by one: beware the left, the cult of Shakti. (With a cry of stormbirds.) ",
+    "suffix": ", darkhidden Father! (He smites with his bicycle pump the crayfish in his left hand. On its cooperative dial glow the twelve signs of the zodiac. He wails with the vehemence of the",
+    "start": 113757,
+    "end": 113769,
+    "canonical_text": "Shakti Shiva"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 10214367,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

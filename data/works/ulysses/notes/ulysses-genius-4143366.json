@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4143366",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Fenians",
+  "html_source": "<p>That is, an Irish nationalist. <a href=\"http://en.wikipedia.org/wiki/Fenian\" rel=\"noopener nofollow\">More detail here</a>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4143366/James-joyce-ulysses-chap-2-nestor/Fenians",
+    "original_id": "4143366",
+    "referent_id": 4143366,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "fenians",
+    "prefix": "6. Do you know that the orange lodges agitated for repeal of the union twenty years before O'Connell did or before the prelates of your communion denounced him as a demagogue? You ",
+    "suffix": " forget some things. \n\n Glorious, pious and immortal memory. The lodge of Diamond in Armagh the splendid behung with corpses of papishes. Hoarse, masked and armed, the planters' co",
+    "start": 15298,
+    "end": 15305,
+    "canonical_text": "fenians"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4143366,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1209714,
+        "login": "AlexBeston",
+        "name": "AlexBeston",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8505041",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "The cavalcade",
+  "html_source": "<p>picture postcards captioned “Viceroy’s entrance into Dublin.”</p><p><img src=\"https://images.rapgenius.com/9203b19bfcdc89ae039e9dfccd65fa88.400x114x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8505041/James-joyce-ulysses-chap-10-wandering-rocks/The-cavalcade",
+    "original_id": "8505041",
+    "referent_id": 8505041,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "The cavalcade",
+    "prefix": " drove out after luncheon from the viceregal lodge. In the following carriage were the honourable Mrs Paget, Miss de Courcy and the honourable Gerald Ward A.D.C. in attendance. \n\n ",
+    "suffix": " passed out by the lower gate of Phoenix park saluted 1932#226by obsequious policemen and proceeded past Kingsbridge along the northern quays. The viceroy was most cordially greete",
+    "start": 68127,
+    "end": 68140,
+    "canonical_text": "The cavalcade"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8505041,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

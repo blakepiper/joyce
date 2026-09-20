@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4793753",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Weave, weaver of the wind.",
+  "html_source": "<p>In ancient Irish tradition, weaving is connected with the art of prophecy.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4793753/James-joyce-ulysses-chap-2-nestor/Weave-weaver-of-the-wind",
+    "original_id": "4793753",
+    "referent_id": 4793753,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "Weave, weaver of the wind.",
+    "prefix": " are lodged in the room of the infinite possibilities they have ousted. But can those have been possible seeing that they never were? Or was that only possible which came to pass? ",
+    "suffix": " \n\n — Tell us a story, sir. \n\n — O, do, sir. A ghoststory. \n\n — Where do you begin in this? Stephen asked, opening another book. \n\n — Weep no more, Comyn said. \n\n — Go on then, Tal",
+    "start": 3034,
+    "end": 3060,
+    "canonical_text": "Weave, weaver of the wind."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4793753,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

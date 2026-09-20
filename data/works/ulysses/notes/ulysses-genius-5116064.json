@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5116064",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Louis Werner",
+  "html_source": "<p>Billed as “Conductor and Accompanist” with Miss Anderson and company in Belfast.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5116064/James-joyce-ulysses-chap-6-hades/Louis-werner",
+    "original_id": "5116064",
+    "referent_id": 5116064,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Louis Werner",
+    "prefix": "is to tour the chief towns. What you lose on one you can make up on the other. \n\n — Quite so, Martin Cunningham said. Mary Anderson is up there now. \n\n Have you good artists? \n\n — ",
+    "suffix": " is touring her, Mr Bloom said. O yes, we'll have all topnobbers. J. C. Doyle and John MacCormack I hope and. The best, in fact. \n\n — And Madame, Mr Power said smiling. Last but no",
+    "start": 12791,
+    "end": 12803,
+    "canonical_text": "Louis Werner"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5116064,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8798007",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Dinge",
+  "html_source": "<p>verb (transitive)<br />to make a dent in (something)<br />noun<br />a dent</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8798007/James-joyce-ulysses-chap-6-hades/Dinge",
+    "original_id": "8798007",
+    "referent_id": 8798007,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "dinge",
+    "prefix": " such a rooted dislike to me. Hate at first sight.1986#94 Molly and Floey Dillon linked under the lilactree, laughing. Fellow always like that, mortified if women are by. \n\n Got a ",
+    "suffix": " in the side of his hat. Carriage probably. \n\n — Excuse me, sir, Mr Bloom said beside them. \n\n They stopped. \n\n — Your hat is a little crushed, Mr Bloom said pointing. \n\n John Henr",
+    "start": 62241,
+    "end": 62246,
+    "canonical_text": "dinge"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9554
+  },
+  "genius": {
+    "referent_id": 8798007,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

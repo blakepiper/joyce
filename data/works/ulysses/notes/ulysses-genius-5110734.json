@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5110734",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Watery lane",
+  "html_source": "<p>Now Dermot O'Hurley Avenue off Irishtown Road in Ringsend.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5110734/James-joyce-ulysses-chap-6-hades/Watery-lane",
+    "original_id": "5110734",
+    "referent_id": 5110734,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Watery lane",
+    "prefix": "to see it has not died out. \n\n All watched awhile through their windows caps and hats lifted by passers. Respect. The carriage swerved from the tramtrack to the smoother road past ",
+    "suffix": ". Mr Bloom at gaze saw a lithe young man, clad in mourning, a wide hat. \n\n1939#67\n\n — There's a friend of yours gone by, Dedalus, he said. \n\n — Who is that? \n\n — Your son and heir.",
+    "start": 2390,
+    "end": 2401,
+    "canonical_text": "Watery lane"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5110734,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

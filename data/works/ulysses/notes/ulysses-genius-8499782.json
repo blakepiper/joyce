@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8499782",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Voglio e non vorrei. No. vorrei e non.",
+  "html_source": "<p>Bloom misquotes and then corrects the duet from <em>Don Giovanni</em> that Molly is preparing for her recital. Translated into English, this would runL “I want to and would not like to. No. I would like to and would not like to.”</p><p>That is to say: should I or shouldn’t I?</p><p><img src=\"https://images.rapgenius.com/35268e2c24e12c1feb4c263e00f4bbd4.385x256x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8499782/James-joyce-ulysses-chap-6-hades/Voglio-e-non-vorrei-no-vorrei-e-non",
+    "original_id": "8499782",
+    "referent_id": 8499782,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "voglio e non vorrei. No. vorrei e non.",
+    "prefix": "comedown, poor wretch! Kicked about like snuff at a wake. O'Callaghan on his last legs. \n\n And Madame. Twenty past eleven. Up. Mrs Fleming is in to clean. Doing her hair, humming: ",
+    "suffix": ". Looking at the tips of her hairs to see if they are split. Mi trema un poco il. Beautiful on that tre her voice is: weeping tone. A thrush. A throstle. There is a word throstle t",
+    "start": 13797,
+    "end": 13834,
+    "canonical_text": "voglio e non vorrei. No: vorrei e non"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 8499782,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2680303,
+        "login": "Cortez67",
+        "name": "Cortez67",
+        "role": null,
+        "attribution": 0.85
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.15
+      }
+    ]
+  },
+  "color": "F59627"
+}

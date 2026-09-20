@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8774053",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Huguenot churchyard",
+  "html_source": "<p>The Huguenot Cemetery (Irish: Reilig na nÚgóineach) is a small cemetery dating from 1693 located near St. Stephen’s Green, Dublin, Ireland. Those buried there are descendants of Huguenots who fled persecution in France following the revocation of the Edict of Nantes which had guaranteed religious freedom. The cemetery is not open to visitors, though it is visible through the railings and a list of 239 surnames of those buried is inscribed on the wall plaque to the left</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8774053/James-joyce-ulysses-chap-5-lotus-eaters/Huguenot-churchyard",
+    "original_id": "8774053",
+    "referent_id": 8774053,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Huguenot churchyard",
+    "prefix": " this? Ah yes, the last time. Sweny's in Lincoln place. Chemists rarely move. Their green and gold beaconjars too heavy to stir. Hamilton Long's, founded in the year of the flood. ",
+    "suffix": " near there. Visit some day. \n\n He walked southward along Westland row. But the recipe is in the other trousers. O, and I forgot that latchkey too. Bore this funeral affair. O well",
+    "start": 29809,
+    "end": 29828,
+    "canonical_text": "Huguenot churchyard"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8774053,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

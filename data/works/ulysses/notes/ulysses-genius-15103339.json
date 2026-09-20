@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15103339",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Mitred",
+  "html_source": "<p>Mitred napkins have corners such that the fold on each edge meets with the fold on the other edge at a 45-degree angle (rather than overlapping with a contiguous edge’s fold). This is the same technique as a mitre joint in carpentry. Is the waiter sewing the napkins in this fashion, or is he folding them to look like a mitre (i.e., a bishop’s hat)?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15103339/James-joyce-ulysses-chap-11-sirens/Mitred",
+    "original_id": "15103339",
+    "referent_id": 15103339,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "mitred",
+    "prefix": "'t. Settling those napkins. Lot of ground he must cover in the day. Paint face behind on him then he'd be two. Wish they'd sing more. Keep my mind off. \n\n Bald Pat who is bothered ",
+    "suffix": " the napkins. Pat is a waiter hard of his hearing. Pat is a waiter who waits while you wait. Hee hee hee hee. He waits while you wait. Hee hee. A waiter is he. Hee hee hee hee. He ",
+    "start": 50950,
+    "end": 50956,
+    "canonical_text": "mitred"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15103339,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

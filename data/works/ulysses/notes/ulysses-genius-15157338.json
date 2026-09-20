@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15157338",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Aldebaran",
+  "html_source": "<p>A <a href=\"https://en.wikipedia.org/wiki/Aldebaran\" rel=\"noopener nofollow\">large star</a> also known as Alpha Tauri in the constellation Taurus.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15157338/James-joyce-ulysses-chap-15-circe/Aldebaran",
+    "original_id": "15157338",
+    "referent_id": 15157338,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Aldebaran",
+    "prefix": "hydrochlor. dil., 20 minims \nTinct. nux vom., 5 minims \nExtr. taraxel. liq., 30 minims. \nAq. dis. ter in die. \n\n CHRIS CALLINAN \n\n What is the parallax of the subsolar ecliptic of ",
+    "suffix": "? \n\n BLOOM \n\n Pleased to hear from you, Chris. K. II. \n\n JOE HYNES \n\n Why aren't you in uniform? \n\n BLOOM \n\n When my progenitor of sainted memory wore the uniform of the Austrian d",
+    "start": 83036,
+    "end": 83045,
+    "canonical_text": "Aldebaran"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15157338,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

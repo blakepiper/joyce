@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9093282",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Mr Crimmins",
+  "html_source": "<p>Tea merchant</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9093282/James-joyce-ulysses-chap-10-wandering-rocks/Mr-crimmins",
+    "original_id": "9093282",
+    "referent_id": 9093282,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Mr Crimmins",
+    "prefix": "gate walked Mr Kernan, pleased with the order he had booked for Pulbrook Robertson, boldly along James's street, past Shackleton's offices. Got round him all right. How do you do, ",
+    "suffix": "? First rate, sir. I was afraid you might be up in your other establishment in Pimlico. How are things going? Just keeping alive. Lovely weather we're having. Yes, indeed. Good for",
+    "start": 41102,
+    "end": 41113,
+    "canonical_text": "Mr Crimmins"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 9093282,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083736,
+        "login": "JessicaVestuto",
+        "name": "JessicaVestuto",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

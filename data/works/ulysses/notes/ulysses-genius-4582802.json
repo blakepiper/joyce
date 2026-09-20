@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4582802",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "I think Ill cut all this hair off me",
+  "html_source": "<p>Molly thinks about shaving her pubic hairs.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4582802/James-joyce-ulysses-chap-18-penelope/I-think-ill-cut-all-this-hair-off-me",
+    "original_id": "4582802",
+    "referent_id": 4582802,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "I think Ill cut all this hair off me",
+    "prefix": "ould hear us away over the other side of the park till I suggested to put the quilt on the floor with the pillow under my bottom I wonder is it nicer in the day I think it is easy ",
+    "suffix": " there scalding me I might look like a young girl wouldnt he get the great suckin the next time he turned up my clothes on me Id give anything to see his face wheres the chamber go",
+    "start": 84264,
+    "end": 84300,
+    "canonical_text": "I think Ill cut all this hair off me"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4582802,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

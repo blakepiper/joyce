@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8522528",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "One flat.",
+  "html_source": "<p>Key of F Major. Apparently a different key than the one Dedalus had just played in.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8522528/James-joyce-ulysses-chap-11-sirens/One-flat",
+    "original_id": "8522528",
+    "referent_id": 8522528,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "One flat.",
+    "prefix": "Well... \n\n Mr Dedalus laid his pipe to rest beside the tuningfork and, sitting, touched the obedient keys. \n\n1922#260\n\n — No, Simon, Father Cowley turned. Play it in the original. ",
+    "suffix": " \n\n1961#271\n\n The keys, obedient, rose higher, told, faltered, confessed, confused. \n\n Up stage strode Father Cowley. \n\n — Here, Simon, I'll accompany you, he said. Get up. \n\n By G",
+    "start": 31635,
+    "end": 31644,
+    "canonical_text": "One flat."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8522528,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

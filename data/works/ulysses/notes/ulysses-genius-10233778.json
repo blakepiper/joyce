@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10233778",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Assegai",
+  "html_source": "<p><img src=\"https://images.genius.com/e20a6b260b545bd5c6f2e62830f9452f.439x655x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10233778/James-joyce-ulysses-chap-15-circe/Assegai",
+    "original_id": "10233778",
+    "referent_id": 10233778,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "assegai",
+    "prefix": "ew! Piping hot! \n\n1961#551\n\n THE VOICE OF ZOE \n\n(From the thicket.) Came from a hot place. \n\n THE VOICE OF VIRAG \n\n(A birdchief, bluestreaked and feathered in war panoply with his ",
+    "suffix": ", striding through a crackling canebrake over beechmast and acorns.) Hot! Hot! Ware Sitting Bull! \n\n BLOOM \n\n It overpowers me. The warm impress of her warm form. Even to sit where",
+    "start": 171336,
+    "end": 171343,
+    "canonical_text": "assegai"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10233778,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

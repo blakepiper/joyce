@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8800312",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Anno Domini",
+  "html_source": "<p>The term anno Domini is Medieval Latin, which means in the year of the Lord but is often translated as in the year of our Lord. It is occasionally set out more fully as anno Domini nostri Iesu Christi.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8800312/James-joyce-ulysses-chap-7-aeolus/Anno-domini",
+    "original_id": "8800312",
+    "referent_id": 8800312,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "anno Domini",
+    "prefix": "fault, Mr Bloom said, suffering his grip. Are you hurt? I'm in a hurry. \n\n — Knee, Lenehan said. \n\n He made a comic face and whined, rubbing his knee: \n\n — The accumulation of the ",
+    "suffix": ". \n\n1939#96\n\n — Sorry, Mr Bloom said. \n\n He went to the door and, holding it ajar, paused. J. J. O'Molloy slapped the heavy pages over. The noise of two shrill voices, a mouthorgan",
+    "start": 23138,
+    "end": 23149,
+    "canonical_text": "anno Domini"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8800312,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

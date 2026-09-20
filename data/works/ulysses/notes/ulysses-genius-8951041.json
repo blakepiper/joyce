@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8951041",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Hang that fellow in Mountjoy",
+  "html_source": "<p>An interesting video of the prison history<br /><a href=\"http://www.irishtimes.com/culture/heritage/the-chilling-legacy-of-50-years-of-hangings-at-mountjoy-prison-1.1919635\" rel=\"noopener nofollow\">http://www.irishtimes.com/culture/heritage/the-chilling-legacy-of-50-years-of-hangings-at-mountjoy-prison-1.1919635</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8951041/James-joyce-ulysses-chap-12-cyclops/Hang-that-fellow-in-mountjoy",
+    "original_id": "8951041",
+    "referent_id": 8951041,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "hang that fellow in Mountjoy",
+    "prefix": ". U. p: up. The long fellow gave him an eye as good as a process and now the bloody old lunatic is gone round to Green street to look for a G. man. \n\n — When is long John going to ",
+    "suffix": "? says Joe. \n\n — Bergan, says Bob Doran, waking up. Is that Alf Bergan? \n\n1932#269\n\n — Yes, says Alf. Hanging? Wait till I show you. Here, Terry, give us a pony. That bloody old fo",
+    "start": 17452,
+    "end": 17480,
+    "canonical_text": "hang that fellow in Mountjoy"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8951041,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

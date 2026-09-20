@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4632454",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Grike",
+  "html_source": "<p>a fissure separating the rocks.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4632454/James-joyce-ulysses-chap-3-proteus/Grike",
+    "original_id": "4632454",
+    "referent_id": 4632454,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "grike",
+    "prefix": "ch it flow past from here. Get back then by the Poolbeg road to the strand there. He climbed over the sedge and eely oarweeds and sat on a stool of rock, resting his ashplant in a ",
+    "suffix": ". \n\n A bloated carcass of a dog lay lolled on bladderwrack. Before him the gunwale of a boat, sunk in sand. Un coche ensablé, Louis Veuillot called Gautier's prose. These heavy san",
+    "start": 18071,
+    "end": 18076,
+    "canonical_text": "grike"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4632454,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23079837",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "O’Lees",
+  "html_source": "<p>A family of hereditary physicians to the O'Flaherty’s of Connacht. The family produced a complete manual of medical studies in both Irish and Latin in the fifteenth century (Gifford).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23079837/James-joyce-ulysses-chap-14-oxen-of-the-sun/Olees",
+    "original_id": "23079837",
+    "referent_id": 23079837,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "O'Lees",
+    "prefix": "ine shall have 1961#383been highly honoured. Not to speak of 1986#314hostels, leperyards, sweating chambers, plaguegraves, their greatest doctors, the O'Shiels, the O'Hickeys, the ",
+    "suffix": ", have sedulously set down the divers methods by which the sick and the relapsed found again health whether the malady had been the trembling withering or loose boyconnell flux. Ce",
+    "start": 2535,
+    "end": 2541,
+    "canonical_text": "O'Lees"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23079837,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

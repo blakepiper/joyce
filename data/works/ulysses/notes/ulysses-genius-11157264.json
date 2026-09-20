@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11157264",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Europa point",
+  "html_source": "<p>The most southern tip of Gibraltar.</p><p><a href=\"http://www.visitgibraltar.gi/europa-point\" rel=\"noopener nofollow\">http://www.visitgibraltar.gi/europa-point</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11157264/James-joyce-ulysses-chap-18-penelope/Europa-point",
+    "original_id": "11157264",
+    "referent_id": 11157264,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Europa point",
+    "prefix": "ed him Mrs Boylan my mother whoever she was might have given me a nicer name the Lord knows after the lovely one she had Lunita Laredo the fun we had running along Williss road to ",
+    "suffix": " twisting in and out all round the other side of Jersey they were shaking and dancing about in my blouse like Millys little ones now when she runs up the stairs I loved looking dow",
+    "start": 63110,
+    "end": 63122,
+    "canonical_text": "Europa point"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 11157264,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

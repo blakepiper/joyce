@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10890775",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Quadrature of the circle",
+  "html_source": "<p>Squaring the circle is an ancient mathematical puzzle but unlikely that any government would offer a prize for solving it</p><p><a href=\"http://www-math.ucdenver.edu/~wcherowi/courses/history2/quad.pdf\" rel=\"noopener nofollow\">http://www-math.ucdenver.edu/~wcherowi/courses/history2/quad.pdf</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10890775/James-joyce-ulysses-chap-17-ithaca/Quadrature-of-the-circle",
+    "original_id": "10890775",
+    "referent_id": 10890775,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "quadrature of the circle",
+    "prefix": ", 4d., 8d., 1s. 4d., 2s. 8d. to 32 terms). A prepared scheme based on a study of the laws of probability to break the bank at Monte Carlo. A solution of the secular problem of the ",
+    "suffix": ", government premium £1,000,000 sterling. \n\n Was vast wealth acquirable through industrial channels? \n\n The reclamation of dunams of waste arenary soil, proposed in the prospectus ",
+    "start": 107178,
+    "end": 107202,
+    "canonical_text": "quadrature of the circle"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 10890775,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

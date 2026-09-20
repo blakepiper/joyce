@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10525543",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Illstarred",
+  "html_source": "<p>Ill-fated, unlucky.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10525543/James-joyce-ulysses-chap-3-proteus/Illstarred",
+    "original_id": "10525543",
+    "referent_id": 10525543,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Illstarred",
+    "prefix": "hen the divine substance wherein Father and Son are consubstantial? Where is poor dear Arius to try conclusions? Warring his life long on the contransmagnificandjewbangtantiality. ",
+    "suffix": " heresiarch. In a Greek watercloset he breathed his last: euthanasia. With beaded mitre and with crozier, stalled upon his throne, widower of a widowed see, with upstiffed omophori",
+    "start": 3317,
+    "end": 3327,
+    "canonical_text": "Illstarred"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10525543,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

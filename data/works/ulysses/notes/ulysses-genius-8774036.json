@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8774036",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Beaconjars",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/13e170dce24e525fe1a28a608a80602f.640x480x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8774036/James-joyce-ulysses-chap-5-lotus-eaters/Beaconjars",
+    "original_id": "8774036",
+    "referent_id": 8774036,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "beaconjars",
+    "prefix": "the time? Quarter past. Time enough yet. Better get that lotion made up. Where is this? Ah yes, the last time. Sweny's in Lincoln place. Chemists rarely move. Their green and gold ",
+    "suffix": " too heavy to stir. Hamilton Long's, founded in the year of the flood. Huguenot churchyard near there. Visit some day. \n\n He walked southward along Westland row. But the recipe is ",
+    "start": 29728,
+    "end": 29738,
+    "canonical_text": "beaconjars"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8774036,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

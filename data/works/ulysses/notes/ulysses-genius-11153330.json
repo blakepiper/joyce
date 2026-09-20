@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11153330",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Saint Michaels cave",
+  "html_source": "<p><a href=\"http://www.visitgibraltar.gi/upper-rock-st-michaels-cave\" rel=\"noopener nofollow\">http://www.visitgibraltar.gi/upper-rock-st-michaels-cave</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11153330/James-joyce-ulysses-chap-18-penelope/Saint-michaels-cave",
+    "original_id": "11153330",
+    "referent_id": 11153330,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Saint Michaels cave",
+    "prefix": " be plump I said I was tired we lay over the firtree cove a wild place I suppose it must be the highest rock in existence the galleries and casemates and those frightful rocks and ",
+    "suffix": " with the icicles or whatever they call them hanging down and ladders all the mud plotching my boots Im sure thats the way down the monkeys go under the sea to Africa when they die",
+    "start": 58869,
+    "end": 58888,
+    "canonical_text": "Saint Michaels cave"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11153330,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

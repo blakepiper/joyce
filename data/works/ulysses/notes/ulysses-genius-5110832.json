@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5110832",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Ironing",
+  "html_source": "<p>massaging</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5110832/James-joyce-ulysses-chap-6-hades/Ironing",
+    "original_id": "5110832",
+    "referent_id": 5110832,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "ironing",
+    "prefix": "h Ignatius Gallaher on a Sunday morning, the landlady's two hats pinned on his head. Out on the rampage all night. Beginning to tell on him now: that backache of his, I fear. Wife ",
+    "suffix": " his back. Thinks he'll cure it with pills. All breadcrumbs they are. About six hundred per cent profit. \n\n — He's in with a lowdown crowd, Mr Dedalus snarled. That Mulligan is a c",
+    "start": 3607,
+    "end": 3614,
+    "canonical_text": "ironing"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5110832,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

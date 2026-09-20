@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4667154",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Bit torn off.",
+  "html_source": "<p><a href=\"https://genius.com/4667161\" rel=\"noopener nofollow\">Stephen tore off a piece of Deasy’s letter to record a poem that was starting to come to him.</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4667154/James-joyce-ulysses-chap-7-aeolus/Bit-torn-off",
+    "original_id": "4667154",
+    "referent_id": 4667154,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Bit torn off.",
+    "prefix": " resembles a railwayline? Reflect, ponder, excogitate, reply. \n\n1939#98\n\n Stephen handed over the typed sheets, pointing to the title and signature. \n\n — Who? the editor asked. \n\n ",
+    "suffix": " \n\n — Mr Garrett Deasy, Stephen said. \n\n — That old pelters, the editor said. Who tore it? Was he short taken? \n\nOn swift sail flaming \nFrom storm and south \nHe comes, pale vampire",
+    "start": 28498,
+    "end": 28511,
+    "canonical_text": "Bit torn off."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4667154,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

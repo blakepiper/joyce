@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-32658651",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Certainly",
+  "html_source": "<p>Big jobs need to be planned, so they made a plan (though we’re not sure if the outcome was thoroughly intended or if they learnt on the job) to provide for rich and poor alike during labour.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/32658651/James-joyce-ulysses-chap-14-oxen-of-the-sun/Certainly",
+    "original_id": "32658651",
+    "referent_id": 32658651,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Certainly",
+    "prefix": "es, have sedulously set down the divers methods by which the sick and the relapsed found again health whether the malady had been the trembling withering or loose boyconnell flux. ",
+    "suffix": " in every public work which in it anything of gravity contains preparation should be with importance commensurate and 1939#277therefore a plan was by them adopted (whether by havin",
+    "start": 2719,
+    "end": 2728,
+    "canonical_text": "Certainly"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 32658651,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

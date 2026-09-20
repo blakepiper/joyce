@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8342860",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "The lacquey rang his bell",
+  "html_source": "<p>This is the bell of the assistant by the door of Dillon’s auctionrooms where Dilly is meeting her father, Simon Dedalus, as revealed later in the episode.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8342860/James-joyce-ulysses-chap-10-wandering-rocks/The-lacquey-rang-his-bell",
+    "original_id": "8342860",
+    "referent_id": 8342860,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "The lacquey rang his bell",
+    "prefix": "skirt, asked: \n\n — And what's in this? \n\n A heavy fume gushed in answer. \n\n — Peasoup, Maggy said. \n\n — Where did you get it? Katey asked. \n\n — Sister Mary Patrick, Maggy said. \n\n ",
+    "suffix": ". \n\n — Barang! \n\n Boody sat down at the table and said hungrily: \n\n — Give us it here. \n\n Maggy poured yellow thick soup from the kettle into a bowl. Katey, 1932#203sitting opposit",
+    "start": 16380,
+    "end": 16405,
+    "canonical_text": "The lacquey rang his bell"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9585
+  },
+  "genius": {
+    "referent_id": 8342860,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2568065,
+        "login": "GeoffBobker",
+        "name": "GeoffBobker",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

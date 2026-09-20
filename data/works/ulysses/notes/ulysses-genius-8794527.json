@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8794527",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Seymour Bushe",
+  "html_source": "<p>Seymour Bushe was one of the foremost barristers of his day and a great orator. He was the great grandson of Charles Kendall Bushe, chief justice of the King’s Bench, Ireland, from 1822 to 1841. Seymour Bushe missed judicial appointment because of involvement in an adulterous affair. In a trial held in October 1899, attended by James Joyce, Bushe successfully defended Samuel Childs of the murder of his 76-year-old brother at 36 Bengal Terrace, beside Glasnevin cemetery.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8794527/James-joyce-ulysses-chap-6-hades/Seymour-bushe",
+    "original_id": "8794527",
+    "referent_id": 8794527,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Seymour Bushe",
+    "prefix": "went by: one by one: gloomy houses. \n\n1961#99\n\n Mr Power pointed. \n\n — That is where Childs was murdered, he said. The last house. \n\n — So it is, Mr Dedalus said. A gruesome case. ",
+    "suffix": " got him off. Murdered his brother. Or so they said. \n\n — The crown had no evidence, Mr Power said. \n\n — Only circumstantial, Martin Cunningham said. That's the maxim of the law. B",
+    "start": 27630,
+    "end": 27643,
+    "canonical_text": "Seymour Bushe"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8794527,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

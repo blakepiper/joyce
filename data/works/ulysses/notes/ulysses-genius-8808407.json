@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8808407",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "But by Saint Patrick",
+  "html_source": "<p>This quick reference comes from the scene where Horatio reproves Hamlet: “These are but wild and whirling words, my Lord.” Hamlet responds: “I’m sorry they offend you…” Horatio: “There’s no offence, my Lord.” Hamlet: “Yes, by Saint Patrick, but there is.” Horatio: “And much offense, too.” This captures the essence of this entire chapter. There is much offence by Saint Patrick as symbol of Ireland, But there is much offence <em>to</em> Saint Patrick, as the spiritual symbol of Ireland.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8808407/James-joyce-ulysses-chap-15-circe/But-by-saint-patrick",
+    "original_id": "8808407",
+    "referent_id": 8808407,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "But by Saint Patrick",
+    "prefix": "ho wants your bleeding money? \n\n STEPHEN \n\n(Tries to move off.) Will someone tell me where I am least likely to meet these necessary evils? Ça se voit aussi à Paris. Not that I... ",
+    "suffix": "...! \n\n(The women's heads coalesce. Old Gummy Granny in sugarloaf hat appears seated on a toadstool, the deathflower of the potato blight on her breast.) \n\n1986#485\n\n STEPHEN \n\n Ah",
+    "start": 222778,
+    "end": 222799,
+    "canonical_text": "But, by Saint Patrick"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 8808407,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

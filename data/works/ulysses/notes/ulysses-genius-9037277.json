@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-9037277",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Blued",
+  "html_source": "<p>Bluing, laundry blue, dolly blue or washing blue is a household product used to improve the appearance of textiles, especially white fabrics. Used during laundering, it adds a trace of blue dye (often synthetic ultramarine, sometimes Prussian blue) to the fabric. White fabrics acquire a slight color cast after use (usually grey or yellow). Since blue and yellow are complementary colors in the subtractive color model of color perception, adding a trace of blue color to the slightly off-white color of these fabrics makes them appear whiter.<br />Wikipedia</p><p>It is also a colour associated with the Blessed Virgin.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9037277/James-joyce-ulysses-chap-13-nausicaa/Blued",
+    "original_id": "9037277",
+    "referent_id": 9037277,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "blued",
+    "prefix": " pretty stitchery, three garments and nighties extra, and each set slotted with different coloured ribbons, rosepink, pale blue, mauve and peagreen, and she aired them herself and ",
+    "suffix": " them when they came home from the wash and ironed them and she had a 1961#350brickbat to keep the iron on because she wouldn't trust those washerwomen as far as she'd see them sco",
+    "start": 12162,
+    "end": 12167,
+    "canonical_text": "blued"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9037277,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.8979591836734694
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.10204081632653061
+      }
+    ]
+  },
+  "color": "F59627"
+}

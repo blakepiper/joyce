@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8577267",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Shoneens",
+  "html_source": "<p>Gentlemen wannabes.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8577267/James-joyce-ulysses-chap-12-cyclops/Shoneens",
+    "original_id": "8577267",
+    "referent_id": 8577267,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "shoneens",
+    "prefix": "inks of my old mashtub what's waiting for me down Limehouse way. \n\n So then the citizen begins talking about the Irish language and the corporation meeting and all to that and the ",
+    "suffix": " that can't speak their own language and Joe chipping in because he stuck someone for a quid and Bloom putting in his 1961#310old goo with his twopenny stump that he cadged off of ",
+    "start": 44105,
+    "end": 44113,
+    "canonical_text": "shoneens"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8577267,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

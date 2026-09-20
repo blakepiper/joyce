@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10733270",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Saint Nicolas Without",
+  "html_source": "<p><a href=\"http://dublinghostsigns.com/widows-house-of-the-parish-of-st-nicholas-without-st-luke-the-coombe-d8/\" rel=\"noopener nofollow\">http://dublinghostsigns.com/widows-house-of-the-parish-of-st-nicholas-without-st-luke-the-coombe-d8/</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10733270/James-joyce-ulysses-chap-17-ithaca/Saint-nicolas-without",
+    "original_id": "10733270",
+    "referent_id": 10733270,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Saint Nicolas Without",
+    "prefix": " Had Bloom and Stephen been baptised, and where and by whom, cleric or layman? \n\n Bloom (three times), by the reverend Mr Gilmer Johnston M. A., alone, in the protestant church of ",
+    "suffix": " Coombe, by James O'Connor, Philip Gilligan and James Fitzpatrick, together, under a pump in the village of Swords, and by the reverend Charles Malone C. C., in the church of the T",
+    "start": 35381,
+    "end": 35404,
+    "canonical_text": "Saint Nicholas Without,"
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9545
+  },
+  "genius": {
+    "referent_id": 10733270,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

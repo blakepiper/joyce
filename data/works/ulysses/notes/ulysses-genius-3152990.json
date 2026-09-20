@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-3152990",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Father John Murphy",
+  "html_source": "<blockquote><p><a href=\"http://bit.ly/1o7A0uT\" rel=\"noopener nofollow\">John Murphy (1753 – c. 2 July 1798) was an Irish Roman Catholic priest and one of the leaders of the Irish Rebellion of 1798 in Wexford who was executed by British soldiers.</a></p></blockquote>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3152990/James-joyce-ulysses-chap-12-cyclops/Father-john-murphy",
+    "original_id": "3152990",
+    "referent_id": 3152990,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Father John Murphy",
+    "prefix": "ages of many Irish heroes and heroines of antiquity, Cuchulin, Conn of hundred battles, Niall of nine hostages, Brian of Kincora, the ardri Malachi, Art MacMurragh, Shane O'Neill, ",
+    "suffix": ", Owen Roe, Patrick Sarsfield, Red Hugh O'Donnell, Red Jim MacDermott, Soggarth Eoghan O'Growney, Michael Dwyer, Francy Higgins, Henry Joy M'Cracken, Goliath, Horace Wheatley, Thom",
+    "start": 11560,
+    "end": 11578,
+    "canonical_text": "Father John Murphy"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3152990,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 591961,
+        "login": "dbrannen",
+        "name": "dbrannen",
+        "role": "contributor",
+        "attribution": 0.9375
+      },
+      {
+        "id": 149810,
+        "login": "perfectrhyme",
+        "name": "Perfectrhyme",
+        "role": "editor",
+        "attribution": 0.0625
+      }
+    ]
+  },
+  "color": "F59627"
+}

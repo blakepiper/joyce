@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9084777",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Misbirth",
+  "html_source": "<p>Thoughts of birth lead to thoughts of death.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9084777/James-joyce-ulysses-chap-3-proteus/Misbirth",
+    "original_id": "9084777",
+    "referent_id": 9084777,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "misbirth",
+    "prefix": "e, relict of the late Patk MacCabe, deeply lamented, of Bride Street. 1986#31One of her sisterhood lugged me squealing into life. Creation from nothing. What has she in the bag? A ",
+    "suffix": " 1961#37with a trailing navelcord, hushed in ruddy wool. The cords of all link back, strandentwining cable of all flesh. That is why mystic monks. Will you be as 1939#30gods? Gaze ",
+    "start": 2309,
+    "end": 2317,
+    "canonical_text": "misbirth"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9084777,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

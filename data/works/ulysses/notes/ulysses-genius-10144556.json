@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10144556",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "General Gough",
+  "html_source": "<p>Brigadier General Sir John Edmond Gough VC, KCB, CMG (1871 – 1915), known as Johnnie Gough, was a senior British Army officer and a recipient of the Victoria Cross in 1904, the highest award for gallantry in the face of the enemy that can be awarded to British and Commonwealth forces.<br /><a href=\"https://en.wikipedia.org/wiki/John_Gough_\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/John_Gough_</a>(VC)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10144556/James-joyce-ulysses-chap-15-circe/General-gough",
+    "original_id": "10144556",
+    "referent_id": 10144556,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "General Gough",
+    "prefix": "e shoulder of the first watch.) My old dad too was a J. P. I'm as staunch a Britisher as you are, sir. I fought with the colours for king and country in the absentminded war under ",
+    "suffix": " in the park and was disabled at 1961#457Spion Kop and Bloemfontein, was mentioned in dispatches. I did all a white man could. (With quiet feeling.) Jim Bludso. Hold her nozzle aga",
+    "start": 38676,
+    "end": 38689,
+    "canonical_text": "general Gough"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 10144556,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4558012",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "The imprint of a human form, male, not his,",
+  "html_source": "<p>Bloom can feel or sense Boylan’s imprint on the bed.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4558012/James-joyce-ulysses-chap-17-ithaca/The-imprint-of-a-human-form-male-not-his",
+    "original_id": "4558012",
+    "referent_id": 4558012,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "the imprint of a human form, male, not his,",
+    "prefix": "f marriage, of sleep and of death. \n\n What did his limbs, when gradually extended, encounter? \n\n New clean bedlinen, additional odours, the presence of a human form, female, hers, ",
+    "suffix": " some crumbs, some flakes of potted meat, recooked, which he removed. \n\n1939#515\n\n If he had smiled why would he have smiled? \n\n To reflect that each one who enters imagines himsel",
+    "start": 135064,
+    "end": 135107,
+    "canonical_text": "the imprint of a human form, male, not his,"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4558012,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

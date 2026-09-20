@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8814814",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Phthisis",
+  "html_source": "<p>phthisis [thi´sis; ti´sis]<br />a progressively wasting or consumptive condition</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8814814/James-joyce-ulysses-chap-8-lestrygonians/Phthisis",
+    "original_id": "8814814",
+    "referent_id": 8814814,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Phthisis",
+    "prefix": "t stillborn of course. They are not even registered. Trouble for nothing. \n\n1961#161\n\n Funny sight two of them together, their bellies out. Molly and Mrs Moisel. Mothers' meeting. ",
+    "suffix": " retires for the time being, then returns. 1986#132How flat they look after all of a sudden! Peaceful eyes. Weight off their minds. Old Mrs Thornton was a jolly old soul. All my ba",
+    "start": 24329,
+    "end": 24337,
+    "canonical_text": "Phthisis"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8814814,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

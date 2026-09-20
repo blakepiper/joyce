@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23617353",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Bridewell",
+  "html_source": "<p>Bridewell Garda (police) Station<br />28 Chancery Street<br />built 1901</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23617353/James-joyce-ulysses-chap-16-eumaeus/Bridewell",
+    "original_id": "23617353",
+    "referent_id": 23617353,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Bridewell",
+    "prefix": "that, but for that man in the gap turning up at the eleventh hour the finis might have been that he might have 1961#614been a candidate for the accident ward or, failing that, the ",
+    "suffix": " and an appearance in the court next day before Mr Tobias or, he being the solicitor rather, old Wall, he meant to say, or Mahony which simply spelt ruin for a chap when it got bru",
+    "start": 5330,
+    "end": 5339,
+    "canonical_text": "bridewell"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 23617353,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

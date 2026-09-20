@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15169774",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Liliata rutilantium. Turma circumdet.\n Iubilantium te virginum. Chorus excipiat.",
+  "html_source": "<p>Words from the prayer he did not say at his mothers deathbed.<br />Full prayer:<br />“Liliata rutilantium te confessorum turma circumdet: iubilantium te virginum chorus excipiat”<br />“May the troop of confessors, glowing like lilies, surround you. May the choir of virgins, jubilant, take you in”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15169774/James-joyce-ulysses-chap-17-ithaca/Liliata-rutilantium-turma-circumdet-iubilantium-te-virginum-chorus-excipiat",
+    "original_id": "15169774",
+    "referent_id": 15169774,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Liliata rutilantium. Turma circumdet.\n Iubilantium te virginum. Chorus excipiat.",
+    "prefix": " The sound of the peal of the hour of the night by the chime of the bells in the church of Saint George. \n\n What echoes of that sound were by both and each heard? \n\n By Stephen: \n\n",
+    "suffix": " \n\n By Bloom: \n\nHeigho, heigho, \nHeigho, heigho. 922#656\n\n Where were the several members of the company which with Bloom that day at the bidding of that peal had travelled from Sa",
+    "start": 78263,
+    "end": 78343,
+    "canonical_text": "Liliata rutilantium. Turma circumdet. \nIubilantium te virginum. Chorus excipiat."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 15169774,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

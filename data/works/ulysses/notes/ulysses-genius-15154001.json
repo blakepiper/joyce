@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15154001",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Coelum",
+  "html_source": "<p>A Latin term meaning sky or heaven (an alternative spelling is caelum). Related to the English word “ceiling”, itself borrowed from French ciel (“heavens”), from Latin caelum.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15154001/James-joyce-ulysses-chap-14-oxen-of-the-sun/Coelum",
+    "original_id": "15154001",
+    "referent_id": 15154001,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "coelum",
+    "prefix": " going: Madam, when comes the storkbird for thee? \n\n The air without is impregnated with raindew moisture, life essence celestial, glistering on Dublin stone there under starshiny ",
+    "suffix": ". God's air, the Allfather's air, scintillant circumambient cessile air. Breathe it deep into thee. By heaven, Theodore Purefoy, thou hast done a doughty deed and no botch! Thou ar",
+    "start": 102273,
+    "end": 102279,
+    "canonical_text": "coelum"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15154001,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

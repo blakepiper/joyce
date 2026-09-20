@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13787203",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Effectu secuto",
+  "html_source": "<p>effectu secuto  (Latin) [the one] performance having followed [the other], or the effect having followed, a Scholastic expression implying that an event may produce a certain effect only if it is followed immediately by another particular event. In this case, Stephen is suggesting that the impregnation of a woman (the effect) may occur if this woman lies with another woman (the following event) who has just had sexual intercourse with a man (the first event). Stephen’s source for this superstition is unknown.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13787203/James-joyce-ulysses-chap-14-oxen-of-the-sun/Effectu-secuto",
+    "original_id": "13787203",
+    "referent_id": 13787203,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "effectu secuto",
+    "prefix": "otency of vampires mouth to mouth or, as Virgilius saith, by the influence of the occident or by the reek of moonflower or an she lie with a woman which her man has but lain with, ",
+    "suffix": ", or peradventure in her bath according to the opinions of Averroes and Moses Maimonides. He said also how at the end of the second month a human soul was infused and how in all ou",
+    "start": 17418,
+    "end": 17432,
+    "canonical_text": "effectu secuto"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13787203,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

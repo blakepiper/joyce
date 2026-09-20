@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8445645",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Ventripotence",
+  "html_source": "<p>Gluttonous</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8445645/James-joyce-ulysses-chap-14-oxen-of-the-sun/Ventripotence",
+    "original_id": "8445645",
+    "referent_id": 8445645,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "ventripotence",
+    "prefix": "oman's woe (and here he fetched a deep sigh) to know if her happiness had yet taken place. Mr Dixon, to turn the table, took on to ask of Mr Mulligan himself whether his incipient ",
+    "suffix": ", upon which he rallied him, betokened an ovoblastic gestation in the prostatic utricle or male womb or was due, as with the noted physician, 1961#403Mr Austin Meldon, to a wolf in",
+    "start": 52384,
+    "end": 52397,
+    "canonical_text": "ventripotence"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8445645,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

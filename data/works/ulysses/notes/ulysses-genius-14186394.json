@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-14186394",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "You just took the words out of my mouth, he said. A hocuspocus of conflicting evidence that candidly you couldn’t remotely.",
+  "html_source": "<p>You just took the words out of my mouth, he said. A hocuspocus of conflicting evidence that candidly you couldn’t remotely… (Ellipsis, not period)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/14186394/James-joyce-ulysses-chap-16-eumaeus/You-just-took-the-words-out-of-my-mouth-he-said-a-hocuspocus-of-conflicting-evidence-that-candidly-you-couldnt-remotely",
+    "original_id": "14186394",
+    "referent_id": 14186394,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "You just took the words out of my mouth, he said. A hocuspocus of conflicting evidence that candidly you couldn't remotely.",
+    "prefix": "\n1986#525\n\n — Yes, Mr Bloom thoroughly agreed, entirely endorsing the remark, that was overwhelmingly right and the whole world was overwhelmingly full of that sort of thing. \n\n — ",
+    "suffix": ".. \n\n All those wretched quarrels, in his humble opinion, stirring up bad blood—bump of combativeness or gland of some kind, erroneously supposed to be about a punctilio of honour ",
+    "start": 75487,
+    "end": 75610,
+    "canonical_text": "You just took the words out of my mouth, he said. A hocuspocus of conflicting evidence that candidly you couldn't remotely."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 14186394,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

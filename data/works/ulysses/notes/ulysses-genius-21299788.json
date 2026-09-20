@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21299788",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Eight plums a penny! Eight for a penny!",
+  "html_source": "<p>Stephen will tell the Parable of the Plums, which involves Nelson’s Pillar in the Aeolus chapter to come.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21299788/James-joyce-ulysses-chap-6-hades/Eight-plums-a-penny-eight-for-a-penny",
+    "original_id": "21299788",
+    "referent_id": 21299788,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Eight plums a penny! Eight for a penny!",
+    "prefix": "r Bloom said eagerly. \n\n — One and eightpence too much, Mr Dedalus said drily. \n\n1922#91\n\n Mr Power's choked laugh burst quietly in the carriage. \n\n Nelson's pillar. \n\n1939#72\n\n — ",
+    "suffix": " \n\n — We had better look a little serious, Martin Cunningham said. \n\n Mr Dedalus sighed. \n\n — Ah then indeed, he said, poor little Paddy wouldn't grudge us a laugh. Many a good one",
+    "start": 17040,
+    "end": 17079,
+    "canonical_text": "Eight plums a penny! Eight for a penny!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21299788,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

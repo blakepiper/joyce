@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8799199",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Best value in Dub. Fit for a prince’s liver and kidney.",
+  "html_source": "<p>Refers back to the scene <em>Sirens</em> in which Richie joins Bloom at the Ormond Hotel where Bloom orders liver and bacon, steak and kidneys, a dinner “fit for a prince.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8799199/James-joyce-ulysses-chap-15-circe/Best-value-in-dub-fit-for-a-princes-liver-and-kidney",
+    "original_id": "8799199",
+    "referent_id": 8799199,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Best value in Dub. Fit for a prince's liver and kidney.",
+    "prefix": "ite, he shared his bed with Athos, faithful after death. A dog's spittle as you probably... (He winces.) Ah! \n\n RICHIE GOULDING \n\n(Bagweighted, passes the door.) Mocking is catch. ",
+    "suffix": ". \n\n THE FAN \n\n(Tapping.) All things end. Be mine. Now. \n\n1961#528\n\n BLOOM \n\n(Undecided.) All now? I should not have parted with my talisman. Rain, exposure at dewfall on the searo",
+    "start": 140115,
+    "end": 140170,
+    "canonical_text": "Best value in Dub. Fit for a prince's. Liver and kidney"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 8799199,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

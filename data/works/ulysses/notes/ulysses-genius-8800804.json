@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8800804",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Madam, I’m Adam. And Able was I ere I saw Elba.",
+  "html_source": "<p>pal·in·drome<br />noun<br />a word, phrase, or sequence that reads the same backward as forward</p><p>These are two well known palindromes.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8800804/James-joyce-ulysses-chap-7-aeolus/Madam-im-adam-and-able-was-i-ere-i-saw-elba",
+    "original_id": "8800804",
+    "referent_id": 8800804,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Madam, I'm Adam. And Able was I ere I saw Elba.",
+    "prefix": "r said proudly. I was present. Dick Adams, the besthearted bloody Corkman the Lord ever put the breath of life in, and myself. \n\n Lenehan bowed to a shape of air, announcing: \n\n — ",
+    "suffix": " \n\n — History! Myles Crawford cried. The Old Woman of Prince's street was there first. There was weeping and gnashing of teeth over that. Out of an advertisement. Gregor Grey made ",
+    "start": 37312,
+    "end": 37359,
+    "canonical_text": "Madam, I'm Adam. And Able was I ere I saw Elba."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8800804,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

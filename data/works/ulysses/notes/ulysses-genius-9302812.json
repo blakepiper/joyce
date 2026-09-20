@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9302812",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Though",
+  "html_source": "<p>An example of what Hugh Kenner calls <em>The Uncle Charles Principle</em>(the narrative idiom need not be the narrator’s). The syntax is not quite right – <em>though</em> could be an <em>and</em> or a <em>but</em> better conjoining the purity and female sexual allure (Kenner, H. Joyce’s Voices, p18).</p><p><img src=\"https://images.genius.com/77882d3236e54275f74b8407708e2533.177x240x1.png\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9302812/James-joyce-ulysses-chap-13-nausicaa/Though",
+    "original_id": "9302812",
+    "referent_id": 9302812,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "though",
+    "prefix": " Welch's female pills and she was much better of those discharges she used to get and that tired feeling. The waxen pallor of her face was almost spiritual in its ivorylike purity ",
+    "suffix": " her rosebud mouth was a genuine Cupid's bow, Greekly perfect. Her hands were of finely veined alabaster with tapering fingers and as white as lemonjuice and queen of ointments cou",
+    "start": 5665,
+    "end": 5671,
+    "canonical_text": "though"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 9302812,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4256139",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Martello you call it?\n \n —Billy Pitt had them built, Buck Mulligan said, when the French were on the sea.",
+  "html_source": "<p>The “Martello” towers that line the Irish coast at intervals north and south of Dublin (12 to the north, 16 to the south) were built in the early years of the 19th century by the British government, then led of “Billy Pitt” (Prime Minister William Pitt the Younger), to protect against the threat of invasion “when the French were on the sea.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4256139/James-joyce-ulysses-chap-1-telemachus/Martello-you-call-it-billy-pitt-had-them-built-buck-mulligan-said-when-the-french-were-on-the-sea",
+    "original_id": "4256139",
+    "referent_id": 4256139,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Martello you call it?\n \n —Billy Pitt had them built, Buck Mulligan said, when the French were on the sea.",
+    "prefix": "To the secretary of state for war, Stephen added over his shoulder. \n\n They halted while Haines surveyed the tower and said at last: \n\n — Rather bleak in wintertime, I should say. ",
+    "suffix": " But ours is the omphalos. \n\n — What is your idea of Hamlet? Haines asked Stephen. \n\n — No, no, Buck Mulligan shouted in pain. I'm not equal to Thomas Aquinas and the fiftyfive rea",
+    "start": 30344,
+    "end": 30450,
+    "canonical_text": "Martello you call it? \n\n — Billy Pitt had them built, Buck Mulligan said, when the French were on the sea."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4256139,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 0.9838709677419355
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.016129032258064516
+      }
+    ]
+  },
+  "color": "F59627"
+}

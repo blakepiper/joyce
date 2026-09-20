@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10157166",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Peasants and phartridges",
+  "html_source": "<p>rather than pheasants and partridges</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10157166/James-joyce-ulysses-chap-15-circe/Peasants-and-phartridges",
+    "original_id": "10157166",
+    "referent_id": 10157166,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "peasants and phartridges",
+    "prefix": "rder, hideous hobgoblins produced by a horde of capitalistic lusts upon our prostituted labour. The poor man starves while they are grassing their royal mountain stags or shooting ",
+    "suffix": " in their purblind pomp of pelf and power. But their reign is rover for rever and ever and ev... \n\n(Prolonged applause. Venetian masts, maypoles and festal arches spring up. A stre",
+    "start": 69659,
+    "end": 69683,
+    "canonical_text": "peasants and phartridges"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10157166,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

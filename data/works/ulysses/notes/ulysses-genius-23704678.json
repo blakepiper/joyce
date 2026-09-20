@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23704678",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Big blaze. Might be his house.",
+  "html_source": "<p>Bloom wonders if the house on fire belongs to Blazes Boylan.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23704678/James-joyce-ulysses-chap-15-circe/Big-blaze-might-be-his-house",
+    "original_id": "23704678",
+    "referent_id": 23704678,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Big blaze. Might be his house.",
+    "prefix": "\n What is that? A flasher? Searchlight. \n\n(He stands at Cormack's corner, watching.) \n\n BLOOM \n\n Aurora borealis or a steel foundry? Ah, the brigade, of course. South side anyhow. ",
+    "suffix": " Beggar's bush. We're safe. (He hums cheerfully.) London's burning, London's burning! On fire, on fire! (He catches sight of the navvy lurching through the crowd at the farther sid",
+    "start": 8055,
+    "end": 8085,
+    "canonical_text": "Big blaze. Might be his house."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23704678,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

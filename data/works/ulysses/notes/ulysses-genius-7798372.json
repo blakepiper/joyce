@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-7798372",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Oakpale",
+  "html_source": "<p>Again, Mulligan’s complexion evokes the wood of the Trojan horse.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7798372/James-joyce-ulysses-chap-1-telemachus/Oakpale",
+    "original_id": "7798372",
+    "referent_id": 7798372,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "oakpale",
+    "prefix": "The bard's noserag! A new art colour for our Irish poets: snotgreen. You can almost taste it, can't you? \n\n He mounted to the parapet again and gazed out over Dublin bay, his fair ",
+    "suffix": " hair stirring slightly. \n\n — God! he said quietly. Isn't the sea what Algy calls it: a great sweet mother? The snotgreen sea. The scrotumtightening sea. Epi oinopa ponton. Ah, Ded",
+    "start": 4383,
+    "end": 4390,
+    "canonical_text": "oakpale"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 7798372,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1313008,
+        "login": "PeterFif",
+        "name": "PeterFif",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

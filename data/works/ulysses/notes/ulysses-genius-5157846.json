@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-5157846",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Cassiopeia",
+  "html_source": "<p>Cassiopeia constellation is located in the northern sky. It was named after Cassiopeia, the vain and boastful queen in Greek mythology.</p><p><img src=\"https://images.rapgenius.com/70eaab4854283a314605a6527ea380d1.1000x853x1.jpg\" alt=\"\" /></p><p>Gifford, p62 explains ‘delta’ refers to a specific star within the constellation.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5157846/James-joyce-ulysses-chap-3-proteus/Cassiopeia",
+    "original_id": "5157846",
+    "referent_id": 5157846,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Cassiopeia",
+    "prefix": " \n\n His shadow lay over the rocks as he bent, ending. Why not endless till the farthest star? Darkly they are there behind this light, darkness shining in the brightness, delta of ",
+    "suffix": ", worlds. Me sits there with his augur's rod of ash, in borrowed sandals, by day beside a livid sea, unbeheld, in violet night walking beneath a reign of uncouth stars. I throw thi",
+    "start": 26570,
+    "end": 26580,
+    "canonical_text": "Cassiopeia"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5157846,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.6666666666666667
+      },
+      {
+        "id": 1618748,
+        "login": "Kataryna",
+        "name": "Kataryna",
+        "role": "contributor",
+        "attribution": 0.33333333333333337
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8962310",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Up in a shebeen",
+  "html_source": "<p>shebeen  noun<br />(especially in Ireland, Scotland, and South Africa) an unlicensed establishment or private house selling alcoholic liquor and typically regarded as slightly disreputable.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8962310/James-joyce-ulysses-chap-12-cyclops/Up-in-a-shebeen",
+    "original_id": "8962310",
+    "referent_id": 8962310,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "up in a shebeen",
+    "prefix": "n of speech. \n\n And off with him and out trying to walk straight. Boosed at five o'clock. Night he was near being lagged only Paddy Leonard knew the bobby, 14A. Blind to the world ",
+    "suffix": " in Bride street after closing time, fornicating with two shawls and a bully on guard, drinking porter out of teacups. And calling himself a Frenchy for the shawls, Joseph Manuo, a",
+    "start": 51932,
+    "end": 51947,
+    "canonical_text": "up in a shebeen"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8962310,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

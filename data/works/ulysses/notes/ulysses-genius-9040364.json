@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9040364",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Maid, wife and widow in one day.",
+  "html_source": "<p>‘Lord Talbot of Malahide’ leads Father Conmee to think of another thread in the Talbot story: “The story is about Mr. Hussey, the son of Lord galtrim, and his bethothed,Maud, the daughter of Lord Plunkett. The bridgroom was called from the altar to lead his troops against a marauding party and was killed; thus his bride was'maid, wife and widow in one day” (Gifford &amp; Seidman. Ulysses Annotated, p263).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9040364/James-joyce-ulysses-chap-10-wandering-rocks/Maid-wife-and-widow-in-one-day",
+    "original_id": "9040364",
+    "referent_id": 9040364,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "maid, wife and widow in one day.",
+    "prefix": "e. The joybells were ringing in gay Malahide. Lord Talbot de Malahide, immediate hereditary lord admiral of Malahide and the seas adjoining. Then came the call to arms and she was ",
+    "suffix": " Those were old worldish days, loyal times in joyous townlands, old times in the barony. \n\n Father Conmee, walking, thought of his little book Old Times in the Barony and of the bo",
+    "start": 10024,
+    "end": 10056,
+    "canonical_text": "maid, wife and widow in one day."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9040364,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

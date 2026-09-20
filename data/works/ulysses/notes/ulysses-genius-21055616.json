@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21055616",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Il est irlandais. Hollandais? Non fromage. Deux irlandais, nous, Irlande, vous savez ah, oui! She thought you wanted a cheese hollandais",
+  "html_source": "<p>He is Irish. Dutch? No cheese. Two Irish, us, Ireland, you know ah, yes! She thought you wanted a Dutch cheese</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21055616/James-joyce-ulysses-chap-3-proteus/Il-est-irlandais-hollandais-non-fromage-deux-irlandais-nous-irlande-vous-savez-ah-oui-she-thought-you-wanted-a-cheese-hollandais",
+    "original_id": "21055616",
+    "referent_id": 21055616,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Il est irlandais. Hollandais? Non fromage. Deux irlandais, nous, Irlande, vous savez ah, oui! She thought you wanted a cheese hollandais",
+    "prefix": "en fairy as Patrice his white. About us gobblers fork spiced beans down their gullets. Un demi setier! A jet of coffee steam from the burnished caldron. She serves me at his beck. ",
+    "suffix": " Your postprandial, do you know that word? Postprandial. There was a fellow I knew once in Barcelona, queer fellow, used to call it his postprandial. Well: slainte! Around the slab",
+    "start": 13627,
+    "end": 13772,
+    "canonical_text": "Il est irlandais. Hollandais? Non fromage. Deux irlandais, nous, Irlande, 1961#42vous savez? Ah, oui! She thought you wanted a cheese hollandais."
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.968
+  },
+  "genius": {
+    "referent_id": 21055616,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 4177912,
+        "login": "ShaneGreen",
+        "name": "ShaneGreen",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-3152934",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "........................ la tua pace\n .................. che parlar ti piace\n .... mentreché il vento, come fa, si tace.",
+  "html_source": "<p>Italian, possibly fragments from the <em>Divine Comedy.</em></p><p>Loosely translates to:</p><blockquote><p>Your peace<br />Speak to you like that ………………<br />When they the wind, as it does, it is silent.</p></blockquote><p>Another reinforcement of the connection between this episode and Aeolus/wind.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3152934/James-joyce-ulysses-chap-7-aeolus/La-tua-pace-che-parlar-ti-piace-mentreche-il-vento-come-fa-si-tace",
+    "original_id": "3152934",
+    "referent_id": 3152934,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "........................ la tua pace\n .................. che parlar ti piace\n .... mentreché il vento, come fa, si tace.",
+    "prefix": "NS\n\nMouth, south. Is the mouth south someway? Or the south a mouth? Must be some. South, pout, out, shout, drouth. Rhymes: two men dressed the same, looking the same, two by two.\n\n",
+    "suffix": "\n\nHe saw them three by three, approaching girls, in green, in rose, in russet, entwining, per l'aer perso, in mauve, in purple, quella pacifica oriafiamma, gold of oriflamme, di ri",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.7577
+  },
+  "genius": {
+    "referent_id": 3152934,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 591961,
+        "login": "dbrannen",
+        "name": "dbrannen",
+        "role": "contributor",
+        "attribution": 0.8947368421052632
+      },
+      {
+        "id": 149810,
+        "login": "perfectrhyme",
+        "name": "Perfectrhyme",
+        "role": "editor",
+        "attribution": 0.10526315789473685
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

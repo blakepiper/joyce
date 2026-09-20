@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15124062",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Brehons",
+  "html_source": "<p>Old Irish law. A <a href=\"https://en.wikipedia.org/wiki/Brehon\" rel=\"noopener nofollow\">Brehon</a> was an important historical judicial role in Gaelic culture and part of the Early Irish Law system.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15124062/James-joyce-ulysses-chap-12-cyclops/Brehons",
+    "original_id": "15124062",
+    "referent_id": 15124062,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "brehons",
+    "prefix": " mind, and another. And to the solemn court of Green street there came sir Frederick the Falconer. And he sat him there about the hour of five o'clock to administer the law of the ",
+    "suffix": " at the commission for all that and those parts to be holden in and for the county of the city of Dublin. And there sat with him the high sinhedrim of the twelve tribes of Iar, for",
+    "start": 71954,
+    "end": 71961,
+    "canonical_text": "brehons"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15124062,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

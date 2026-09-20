@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10139308",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Mosenthal.",
+  "html_source": "<p>Salomon Hermann Mosenthal (14 January 1821 in Kassel – 17 February 1877 in Vienna) was a writer, dramatist, and poet of German-Jewish descent who spent much of his life in Austria. He was also known for his opera libretti.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10139308/James-joyce-ulysses-chap-15-circe/Mosenthal",
+    "original_id": "10139308",
+    "referent_id": 10139308,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Mosenthal.",
+    "prefix": "? Are you not my dear son Leopold who left the house of his father and left the god of his fathers Abraham and Jacob? \n\n1986#357\n\n BLOOM \n\n(With precaution.) I suppose so, father. ",
+    "suffix": " All that's left of him. \n\n1961#437\n\n RUDOLPH \n\n(Severely.) One night they bring you home drunk as dog after spend your good money. What you call them running chaps? \n\n1922#416\n\n B",
+    "start": 12530,
+    "end": 12540,
+    "canonical_text": "Mosenthal."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10139308,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

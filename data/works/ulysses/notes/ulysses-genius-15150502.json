@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15150502",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Kirtles",
+  "html_source": "<p>Women’s gowns or outer petticoats.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15150502/James-joyce-ulysses-chap-14-oxen-of-the-sun/Kirtles",
+    "original_id": "15150502",
+    "referent_id": 15150502,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "kirtles",
+    "prefix": "der and in a brace of shakes all scamper pellmell within door for the smoking shower, the men making shelter for their straws with a clout or kerchief, womenfolk skipping off with ",
+    "suffix": " catched up soon as the pour came. In Ely place, Baggot street, Duke's lawn, thence through Merrion green up to Holles street a swash of water running that was before bonedry and n",
+    "start": 34883,
+    "end": 34890,
+    "canonical_text": "kirtles"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15150502,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

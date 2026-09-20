@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8817492",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Jamesons",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/8c1e19196fa582d78fd27a56601a979e.1000x666x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8817492/James-joyce-ulysses-chap-8-lestrygonians/Jamesons",
+    "original_id": "8817492",
+    "referent_id": 8817492,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Jamesons",
+    "prefix": "thers turned. \n\n — That's the man now that gave it to me, Bantam Lyons whispered. \n\n1922#170\n\n — Prrwht! Paddy Leonard said with scorn. Mr Byrne, sir, we'll take two of your small ",
+    "suffix": " after that and a... \n\n — Stone ginger, Davy Byrne added civilly. \n\n — Ay, Paddy Leonard said. A suckingbottle for the baby. \n\n Mr Bloom walked towards Dawson street, his tongue br",
+    "start": 63153,
+    "end": 63161,
+    "canonical_text": "Jamesons"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8817492,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23885570",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Look",
+  "html_source": "<p>Ahses to ashes, dust to the auld dust!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23885570/James-joyce-ulysses-chap-14-oxen-of-the-sun/Look",
+    "original_id": "23885570",
+    "referent_id": 23885570,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "look",
+    "prefix": "e his dear soul in his undeathliness. He heard her sad words, in held hat sad staring. So stood they there both awhile in wanhope sorrowing one with other. \n\n Therefore, everyman, ",
+    "suffix": " to that last end that is thy death and the dust 1922#368that gripeth on every man that is born of woman for as he came naked forth from his mother's womb so naked shall he wend hi",
+    "start": 7364,
+    "end": 7368,
+    "canonical_text": "look"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9657
+  },
+  "genius": {
+    "referent_id": 23885570,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

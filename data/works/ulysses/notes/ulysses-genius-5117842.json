@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5117842",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Obelisk",
+  "html_source": "<p>An obelisk is defined as:<br />1.  A tall, four-sided shaft of stone, usually tapered and monolithic, that rises to a pointed pyramidal top.</p><ol><li>The dagger sign (†), used especially as a reference mark.</li></ol>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5117842/James-joyce-ulysses-chap-3-proteus/Obelisk",
+    "original_id": "5117842",
+    "referent_id": 5117842,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "obelisk",
+    "prefix": "lowly ever as my feet are sinking, creeping duskward over the dial floor. Blue dusk, nightfall, deep blue night. In the darkness of the dome they wait, their pushedback chairs, my ",
+    "suffix": " valise, around a board of abandoned platters. Who to clear it? He has the key. I will not sleep there when this night comes. A shut door of a silent tower, entombing their blind b",
+    "start": 17357,
+    "end": 17364,
+    "canonical_text": "obelisk"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5117842,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1618748,
+        "login": "Kataryna",
+        "name": "Kataryna",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

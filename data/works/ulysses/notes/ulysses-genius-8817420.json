@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8817420",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Ptarmigan",
+  "html_source": "<p>any of various grouses (genus Lagopus) of northern regions with completely feathered feet</p><p><img src=\"https://images.rapgenius.com/fd1bf833afdec56fe0c62edbd9e087b0.1000x750x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8817420/James-joyce-ulysses-chap-8-lestrygonians/Ptarmigan",
+    "original_id": "8817420",
+    "referent_id": 8817420,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "ptarmigan",
+    "prefix": "you've eaten. Too 1986#143many drugs spoil the broth. I know it myself. Dosing it with Edwards' desiccated soup. Geese stuffed silly for them. Lobsters boiled alive. Do ptake some ",
+    "suffix": ". Wouldn't mind being a waiter in a swell hotel. Tips, evening dress, halfnaked ladies. May I tempt you to a little more filleted lemon sole, miss Dubedat? Yes, do bedad. And she d",
+    "start": 55131,
+    "end": 55140,
+    "canonical_text": "ptarmigan"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8817420,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-6802017",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Protasis, epitasis, catastasis, catastrophe.",
+  "html_source": "<p>These are the parts of an ancient drama. Respectively, introduction, development, climax and catastrophe.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6802017/James-joyce-ulysses-chap-9-scylla-and-charybdis/Protasis-epitasis-catastasis-catastrophe",
+    "original_id": "6802017",
+    "referent_id": 6802017,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "protasis, epitasis, catastasis, catastrophe.",
+    "prefix": "ill Prospero breaks his staff, buries it certain fathoms in the earth and drowns his book. It doubles itself in the middle of his life, reflects itself in another, repeats itself, ",
+    "suffix": " It repeats itself again when he is near the grave, when his married daughter Susan, chip of the old block, is accused of adultery. But it was the original sin that darkened his un",
+    "start": 58028,
+    "end": 58072,
+    "canonical_text": "protasis, epitasis, catastasis, catastrophe."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6802017,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1773543,
+        "login": "IanT",
+        "name": "IanT",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

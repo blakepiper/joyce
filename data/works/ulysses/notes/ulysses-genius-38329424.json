@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-38329424",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "He",
+  "html_source": "<p>“He” is  Mulligan. This associative leap implies that he also considers Mulligan a pretender.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/38329424/James-joyce-ulysses-chap-3-proteus/He",
+    "original_id": "38329424",
+    "referent_id": 38329424,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "He",
+    "prefix": "reeches of silk of whiterose ivory, wonder of a day, and Lambert Simnel, with a tail of nans and sutlers, a scullion crowned. All kings' sons. Paradise of pretenders then and now. ",
+    "suffix": " saved men from drowning and you shake at a cur's yelping. But the courtiers who mocked Guido in Or san Michele were in their own house. House of... We don't want any of your medie",
+    "start": 20315,
+    "end": 20317,
+    "canonical_text": "He"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 38329424,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 23750768,
+        "login": "MardouFox",
+        "name": "MardouFox",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

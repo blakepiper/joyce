@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9131900",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Catchpole",
+  "html_source": "<p>noun<br />(formerly) a petty officer of justice, especially one arresting persons for debt.<br />Dictionary.com</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9131900/James-joyce-ulysses-chap-14-oxen-of-the-sun/Catchpole",
+    "original_id": "9131900",
+    "referent_id": 9131900,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "catchpole",
+    "prefix": "he coffeehouses and low taverns with crimps, ostlers, bookies, Paul's men, runners, flatcaps, waistcoateers, ladies of the bagnio and other rogues of the game or with a chanceable ",
+    "suffix": " or a tipstaff often at nights till broad day of whom he picked up between his sackpossets much loose gossip. He took his ordinary at a boilingcook's and if he had but gotten into ",
+    "start": 38511,
+    "end": 38520,
+    "canonical_text": "catchpole"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9131900,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23883346",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Who",
+  "html_source": "<p>The Celts have a long history of medical treatments and the National Maternity Hospital was set up to care for rich and poor alike.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23883346/James-joyce-ulysses-chap-14-oxen-of-the-sun/Who",
+    "original_id": "23883346",
+    "referent_id": 23883346,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "who",
+    "prefix": " menace that exalted of reiteratedly procreating function ever irrevocably enjoined? \n\n It is not why therefore we shall wonder if, as the best historians relate, among the Celts, ",
+    "suffix": " nothing that was not in its nature admirable admired, the art of medicine shall have 1961#383been highly honoured. Not to speak of 1986#314hostels, leperyards, sweating chambers, ",
+    "start": 2281,
+    "end": 2284,
+    "canonical_text": "who"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9388
+  },
+  "genius": {
+    "referent_id": 23883346,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

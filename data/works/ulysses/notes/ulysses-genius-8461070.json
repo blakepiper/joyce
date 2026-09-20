@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8461070",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "The corner of Dignam’s court",
+  "html_source": "<p>This is an interpolation, the first indisputable one in the chapter, in which lines that appear in the text of one episode are not directly related to that episode. These interpolations interfere, at least momentarily, with the reader’s ability to follow and comprehend the narrative. The next line, “Was that not Mrs M'Guinness?” is a trap, leading the reader to think this is Denis Maginni asking Father Conmee, and putting them in the same scene. The question of “where the corner of Dignam’s court is” is distinct and difficult to answer on its own. It likely is the “Four Courts” building on the banks of the Liffey, some 1.3 miles southwest of where Father Conmee is at the time, about a 25-minute walk from the court building. The reference to “Dignam” here is likely to allude to the reality that the priest is on his way to take care of a matter for a family, whose name he can hardly recall.</p><p><img src=\"https://images.rapgenius.com/93190fb125256bfbcc668cd0d2b6da82.480x320x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8461070/James-joyce-ulysses-chap-10-wandering-rocks/The-corner-of-dignams-court",
+    "original_id": "8461070",
+    "referent_id": 8461070,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "the corner of Dignam's court",
+    "prefix": "hite kerchief tie, tight lavender trousers, canary gloves and pointed patent boots, walking with grave deportment most respectfully took the curbstone as he passed lady Maxwell at ",
+    "suffix": ". \n\n Was that not Mrs M'Guinness? \n\n Mrs M'Guinness, stately, silverhaired, bowed to Father Conmee from the farther footpath along which she sailed. And Father Conmee smiled and sa",
+    "start": 3763,
+    "end": 3791,
+    "canonical_text": "the corner of Dignam's court"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8461070,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8773718",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Peter Claver",
+  "html_source": "<p>Saint Peter Claver, S.J., was a Spanish Jesuit priest and missionary born in Verdú who, due to his life and work, became the patron saint of slaves, the Republic of Colombia and ministry to African Americans.</p><p>Bloom saw a notice of a talk on St. Peter Claver on the door of the church as he entered.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8773718/James-joyce-ulysses-chap-5-lotus-eaters/Peter-claver",
+    "original_id": "8773718",
+    "referent_id": 8773718,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Peter Claver",
+    "prefix": " character. That fellow that turned queen's evidence on the invincibles he used to receive the, Carey was his name, the communion every morning. This very church. Peter Carey. No, ",
+    "suffix": " I am thinking of. 1986#66Denis Carey. And just imagine that. Wife and six children at home. And plotting that murder all the time. Those crawthumpers, now that's a good name for t",
+    "start": 23938,
+    "end": 23950,
+    "canonical_text": "Peter Claver"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9568
+  },
+  "genius": {
+    "referent_id": 8773718,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

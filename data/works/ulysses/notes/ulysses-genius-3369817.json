@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3369817",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Art thou there, truepenny?",
+  "html_source": "<p><a href=\"http://lit.genius.com/William-shakespeare-hamlet-act-1-scene-5-annotated\" rel=\"noopener nofollow\">Hamlet: Act 1 Scene 5.</a>.</p><p><a href=\"http://www.youtube.com/watch?v=5-tYlYJ0PJM\" rel=\"noopener nofollow\">http://www.youtube.com/watch?v=5-tYlYJ0PJM</a></p><p>Hamlet hears the ghost from the cellar and asks – ‘is that you ?’, <em>truepenny</em> meaning an honest man. The term derived  from a valuable coin used in Shakespeare’s time.</p><p>We’ve already had Russell as <em>formless spiritual</em> and <em>oracled out of his shadow</em> and here Joyce satirises him as the ultimate non-material essence – a ghost.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3369817/James-joyce-ulysses-chap-9-scylla-and-charybdis/Art-thou-there-truepenny",
+    "original_id": "3369817",
+    "referent_id": 3369817,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Art thou there, truepenny?",
+    "prefix": " I am the murdered father: your mother is the guilty queen, Ann Shakespeare, born Hathaway? \n\n — But this prying into the family life of a great man, Russell began impatiently. \n\n ",
+    "suffix": " \n\n — Interesting only to the parish clerk. I mean, we have the plays. I mean when we read the poetry of King Lear what is it to us how the poet lived? As for living our servants c",
+    "start": 10517,
+    "end": 10543,
+    "canonical_text": "Art thou there, truepenny?"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3369817,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-18942228",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "What kind of voice is it",
+  "html_source": "<p>Bloom is searching his memory for a specific word here.  The word he is seeking is “castrato”. Per Wikipedia, a castrato is “a type of classical male singing voice equivalent to that of a soprano, mezzo-soprano, or contralto. The voice is produced by castration of the singer before puberty, or it occurs in one who, due to an endocrinological condition, never reaches sexual maturity.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/18942228/James-joyce-ulysses-chap-5-lotus-eaters/What-kind-of-voice-is-it",
+    "original_id": "18942228",
+    "referent_id": 18942228,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "What kind of voice is it",
+    "prefix": "time while it lasted. Healthy too, chanting, regular hours, then brew liqueurs. Benedictine. Green Chartreuse. Still, having eunuchs in their choir that was coming it a bit thick. ",
+    "suffix": "? Must be curious to hear after their own strong basses. Connoisseurs. Suppose they wouldn't feel anything after. Kind of a placid. No worry. Fall into flesh, don't they? Gluttons,",
+    "start": 25946,
+    "end": 25970,
+    "canonical_text": "What kind of voice is it"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 18942228,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 10174791,
+        "login": "QuintusSlide",
+        "name": "QuintusSlide",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

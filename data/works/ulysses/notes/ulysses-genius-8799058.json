@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8799058",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Monks",
+  "html_source": "<p>Before the Gutenberg printing press, monks copied the bible by hand. Large monasteries had rooms called scriptoria where monks would copy manuscripts.</p><p><img src=\"https://images.rapgenius.com/ac0b96cf86a91cdca6231bd44becda6f.720x509x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8799058/James-joyce-ulysses-chap-7-aeolus/Monks",
+    "original_id": "8799058",
+    "referent_id": 8799058,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Monks",
+    "prefix": " to be repeated in the Telegraph. Where's what's his name?\n\nHe looked about him round his loud unanswering machines.\n\n—Monks, sir? a voice asked from the castingbox.\n\n—Ay. Where's ",
+    "suffix": "?\n\n—Monks!\n\nMr Bloom took up his cutting. Time to get out.\n\n—Then I'll get the design, Mr Nannetti, he said, and you'll give it a good place I know.\n\n—Monks!\n\n—Yes, sir.\n\nThree mon",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "ambiguous",
+    "confidence": 0.9673583070529634
+  },
+  "genius": {
+    "referent_id": 8799058,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

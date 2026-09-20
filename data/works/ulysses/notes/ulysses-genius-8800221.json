@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8800221",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "O, HARP EOLIAN",
+  "html_source": "<p>The Eolian Harp is a poem written by Samuel Taylor Coleridge in 1795 and published in his 1796 poetry collection. It is one of the early conversation poems and discusses Coleridge’s anticipation of a marriage with Sara Fricker along with the pleasure of conjugal love. However, The Eolian Harp is not a love poem and instead focuses on man’s relationship with nature.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8800221/James-joyce-ulysses-chap-7-aeolus/O-harp-eolian",
+    "original_id": "8800221",
+    "referent_id": 8800221,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "O, HARP EOLIAN",
+    "prefix": " jigs. Sad case. \n\n — Ohio! the editor crowed in high treble from his uplifted scarlet face. My Ohio! \n\n — A perfect cretic! the professor said. Long, short and long. \n\n1922#122\n\n ",
+    "suffix": "! \n\n He took a reel of dental floss from his waistcoat pocket and, breaking off a piece, twanged it smartly between two and two of his resonant unwashed teeth. \n\n — Bingbang, bangb",
+    "start": 20434,
+    "end": 20448,
+    "canonical_text": "O, HARP EOLIAN"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8800221,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8961384",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Bungiveagh and Bungardilaun",
+  "html_source": "<p>A mocking reference to the Guinness brothers (not twins), owners of the brewery, using their aristocratic titles:<br />Edward Guinness, 1st Earl of Iveagh (1847–1927)<br />Arthur Guinness, 1st Baron Ardilaun (1840–1915)</p><p>A bung is a stopper used in a beer barrel.</p><p><img src=\"https://images.rapgenius.com/a4bb3dea349a6fd0c77fb0bd27a927ba.784x539x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8961384/James-joyce-ulysses-chap-12-cyclops/Bungiveagh-and-bungardilaun",
+    "original_id": "8961384",
+    "referent_id": 8961384,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Bungiveagh and Bungardilaun",
+    "prefix": " Is that Bergan? \n\n — Hurry up, Terry boy, says Alf. \n\n Terence O'Ryan heard him and straightway brought him a crystal cup full of the foamy ebon ale which the noble twin brothers ",
+    "suffix": " brew ever in their divine alevats, cunning as the sons of deathless Leda. For they garner the succulent berries of the hop and mass and sift and bruise and brew them and they mix ",
+    "start": 17984,
+    "end": 18011,
+    "canonical_text": "Bungiveagh and Bungardilaun"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8961384,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

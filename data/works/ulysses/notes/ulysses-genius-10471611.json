@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10471611",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Skerries",
+  "html_source": "<p><a href=\"http://www.dublintourist.com/towns/skerries/\" rel=\"noopener nofollow\">http://www.dublintourist.com/towns/skerries/</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10471611/James-joyce-ulysses-chap-16-eumaeus/Skerries",
+    "original_id": "10471611",
+    "referent_id": 10471611,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Skerries",
+    "prefix": "ing a handsome fee for his services in addition to which professional status his rescue of that man from certain drowning by artificial respiration and what they call first aid at ",
+    "suffix": ", or Malahide was it?, was, he was bound to admit, an exceedingly plucky deed which he could not too highly praise, so that frankly he was utterly at a loss to fathom what earthly ",
+    "start": 20417,
+    "end": 20425,
+    "canonical_text": "Skerries"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10471611,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

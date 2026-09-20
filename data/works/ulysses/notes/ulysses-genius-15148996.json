@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15148996",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Under her thatch",
+  "html_source": "<p>The entire phrase “infare under [one’s] thatch” (meaning, presumably, to be received into one’s home) comes directly from excerpts of Aelfric in George Saintsbury’s History of English Prose Rhythm (1912). <a href=\"http://www.jjon.org/joyce-s-allusions/cuthbert\" rel=\"noopener nofollow\">See this link for more information</a>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15148996/James-joyce-ulysses-chap-14-oxen-of-the-sun/Under-her-thatch",
+    "original_id": "15148996",
+    "referent_id": 15148996,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "under her thatch",
+    "prefix": "ward welkin. Full she dread that God the Wreaker all mankind would fordo with water for his evil sins. Christ's rood made she on breastbone and him drew that he would rathe infare ",
+    "suffix": ". That man her will wotting worthful went in Horne's house. \n\n Loth to irk in Horne's hall hat holding the seeker stood. On her stow he ere was living with dear wife and lovesome d",
+    "start": 5832,
+    "end": 5848,
+    "canonical_text": "under her thatch"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15148996,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

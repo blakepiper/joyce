@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9063536",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Johnny comes marching home",
+  "html_source": "<p>“When Johnny Comes Marching Home” (sometimes “When Johnny Comes Marching Home Again”) is a popular song of the American Civil War. The lyrics to “When Johnny Comes Marching Home” were written by the Irish-American bandleader Patrick Gilmore during the American Civil War. Its first sheet music publication was deposited in the Library of Congress on September 26, 1863, with words and music credited to “Louis Lambert”; copyright was retained by the publisher, Henry Tolman &amp; Co., of Boston. Why Gilmore chose to publish under a pseudonym is not clear,<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9063536/James-joyce-ulysses-chap-13-nausicaa/Johnny-comes-marching-home",
+    "original_id": "9063536",
+    "referent_id": 9063536,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Johnny comes marching home",
+    "prefix": ". Married too. Sometimes away for years at the ends of the earth somewhere. No ends really because it's round. Wife in every port they say. She has a good job if she minds it till ",
+    "suffix": " again. If ever he does. Smelling the tail end of ports. How can they like the sea? Yet they do. The anchor's weighed. Off he sails with a scapular or a medal on him for luck. Well",
+    "start": 81649,
+    "end": 81675,
+    "canonical_text": "Johnny comes marching home"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9063536,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

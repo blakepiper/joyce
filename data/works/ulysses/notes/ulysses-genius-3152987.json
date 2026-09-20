@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3152987",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Shane O’Neill",
+  "html_source": "<p>Irish king, “Shane the Proud.”  Reigned 1559–1567.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3152987/James-joyce-ulysses-chap-12-cyclops/Shane-oneill",
+    "original_id": "3152987",
+    "referent_id": 3152987,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Shane O'Neill",
+    "prefix": "t the tribal images of many Irish heroes and heroines of antiquity, Cuchulin, Conn of hundred battles, Niall of nine hostages, Brian of Kincora, the ardri Malachi, Art MacMurragh, ",
+    "suffix": ", Father John Murphy, Owen Roe, Patrick Sarsfield, Red Hugh O'Donnell, Red Jim MacDermott, Soggarth Eoghan O'Growney, Michael Dwyer, Francy Higgins, Henry Joy M'Cracken, Goliath, H",
+    "start": 11545,
+    "end": 11558,
+    "canonical_text": "Shane O'Neill"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3152987,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 591961,
+        "login": "dbrannen",
+        "name": "dbrannen",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

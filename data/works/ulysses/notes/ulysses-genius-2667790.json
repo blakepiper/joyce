@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2667790",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Mummer!",
+  "html_source": "<p>Mummers were (and, in some places, still are) impromptu comic actors who performed in the streets, in inns and public houses, and in visits to private houses (just as carolers and trick-or-treaters do). Their performances typically revolved around a story of death and resurrection: the young hero is killed, and a quack doctor revives him.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2667790/James-joyce-ulysses-chap-1-telemachus/Mummer",
+    "original_id": "2667790",
+    "referent_id": 2667790,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "mummer!",
+    "prefix": "y for her. And you refused. There is something sinister in you... \n\n He broke off and lathered again lightly his farther cheek. A tolerant smile curled his lips. \n\n — But a lovely ",
+    "suffix": " he murmured to himself. Kinch, the loveliest mummer of them all! \n\n He shaved evenly and with care, in silence, seriously. \n\n Stephen, an elbow rested on the jagged granite, leane",
+    "start": 5551,
+    "end": 5558,
+    "canonical_text": "mummer!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2667790,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 405824,
+        "login": "prawwn",
+        "name": "prawwn",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9093769",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Times of the troubles.",
+  "html_source": "<p>The Rebellion of 1798</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9093769/James-joyce-ulysses-chap-10-wandering-rocks/Times-of-the-troubles",
+    "original_id": "9093769",
+    "referent_id": 9093769,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Times of the troubles.",
+    "prefix": "ited an hour in John Henry Menton's office, led his wife over O'Connell bridge, bound for the office of Messrs Collis and Ward. \n\n1961#240\n\n Mr Kernan approached Island street. \n\n ",
+    "suffix": " Must ask Ned Lambert to lend me those reminiscences of sir Jonah Barrington. When you look back on it all now in a kind of retrospective arrangement. Gaming at Daly's. No cardshar",
+    "start": 44994,
+    "end": 45016,
+    "canonical_text": "Times of the troubles."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9093769,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083736,
+        "login": "JessicaVestuto",
+        "name": "JessicaVestuto",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

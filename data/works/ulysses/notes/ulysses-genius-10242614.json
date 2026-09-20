@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10242614",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "My Girl’s a Yorkshire Girl",
+  "html_source": "<p><a href=\"https://www.youtube.com/watch?v=X6iLGTF9fjI\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=X6iLGTF9fjI</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10242614/James-joyce-ulysses-chap-15-circe/My-girls-a-yorkshire-girl",
+    "original_id": "10242614",
+    "referent_id": 10242614,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "My Girl's a Yorkshire Girl",
+    "prefix": "4\n\n ZOE \n\n(Twirls round herself, heeltapping.) Dance. Anybody here for there? Who'll dance? Clear the table. \n\n(The pianola with changing lights plays in waltz time the prelude of ",
+    "suffix": ". Stephen throws his ashplant on the table and seizes Zoe round the waist. Florry and Bella push the table towards the fireplace. Stephen, arming Zoe with exaggerated grace, begins",
+    "start": 197544,
+    "end": 197570,
+    "canonical_text": "My Girl's a Yorkshire Girl"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10242614,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-5236262",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Raimeis",
+  "html_source": "<p><strong>Ramieis</strong>: an Irish word meaning rubbish or poppycock</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5236262/James-joyce-ulysses-chap-12-cyclops/Raimeis",
+    "original_id": "5236262",
+    "referent_id": 5236262,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Raimeis",
+    "prefix": "zen arguing about law and history with Bloom sticking in an odd word. \n\n — Some people, says Bloom, can see the mote in others' eyes but they can't see the beam in their own. \n\n — ",
+    "suffix": ", says the citizen. There's no-one as blind as the fellow that won't see, if you know what that means. Where are our missing twenty millions of Irish should be here today instead o",
+    "start": 78878,
+    "end": 78885,
+    "canonical_text": "Raimeis"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5236262,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 934635,
+        "login": "ZombieT",
+        "name": "ZombieT",
+        "role": null,
+        "attribution": 0.75
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.25
+      }
+    ]
+  },
+  "color": "F59627"
+}

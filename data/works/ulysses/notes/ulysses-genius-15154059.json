@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15154059",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Kreutzer",
+  "html_source": "<p>A name given to a former, minor unit of currency in various German states.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15154059/James-joyce-ulysses-chap-14-oxen-of-the-sun/Kreutzer",
+    "original_id": "15154059",
+    "referent_id": 15154059,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "kreutzer",
+    "prefix": "an there with his Joan? A canting jay and a rheumeyed curdog is all their progeny. Pshaw, I tell thee! He is a mule, a dead gasteropod, without vim or stamina, not worth a cracked ",
+    "suffix": ". Copulation without population! No, say I! Herod's slaughter of the innocents were the truer name. Vegetables, forsooth, and sterile cohabitation! Give her beefsteaks, red, raw, b",
+    "start": 103257,
+    "end": 103265,
+    "canonical_text": "kreutzer"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15154059,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

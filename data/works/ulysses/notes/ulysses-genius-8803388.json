@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8803388",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Contumely",
+  "html_source": "<p>con·tu·me·ly<br />noun<br />insolent or insulting language or treatment.<br />“the church should not be exposed to gossip and contumely”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8803388/James-joyce-ulysses-chap-7-aeolus/Contumely",
+    "original_id": "8803388",
+    "referent_id": 8803388,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "contumely",
+    "prefix": " the professor said, of a finished orator, full of courteous haughtiness and pouring in chastened diction I will not say 1922#135the vials of his wrath but pouring the proud man's ",
+    "suffix": " upon the new movement. It was then a new movement. We were weak, therefore worthless. \n\n He closed his long thin lips an instant but, eager to be on, raised an outspanned hand to ",
+    "start": 44567,
+    "end": 44576,
+    "canonical_text": "contumely"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8803388,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

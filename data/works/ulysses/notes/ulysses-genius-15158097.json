@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15158097",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "A thing of beauty, don’t you know. Yeats says, or I mean, Keats says.",
+  "html_source": "<p>John Keats' poem <a href=\"https://en.wikipedia.org/wiki/Endymion\" rel=\"noopener nofollow\">Endymion</a> begins “A thing of beauty is a joy forever…”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15158097/James-joyce-ulysses-chap-15-circe/A-thing-of-beauty-dont-you-know-yeats-says-or-i-mean-keats-says",
+    "original_id": "15158097",
+    "referent_id": 15158097,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "A thing of beauty, don't you know. Yeats says, or I mean, Keats says.",
+    "prefix": "ST \n\n(Smiling, lifts the hat and displays a shaven poll from the crown of which bristles a pigtail toupee tied with an orange topknot.) I was just beautifying him, don't you know. ",
+    "suffix": ". \n\n1986#4151961#509\n\n JOHN EGLINTON \n\n(Produces a greencapped dark lantern and flashes it towards a corner: with carping accent.) Esthetics and cosmetics are for the boudoir. I am",
+    "start": 112712,
+    "end": 112780,
+    "canonical_text": "A thing of beauty, don't you know, Yeats says, or I mean, Keats says"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 15158097,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

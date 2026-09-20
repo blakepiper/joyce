@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11194010",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "She must have given him great value",
+  "html_source": "<p>Bloom followed the medical students to a brothel but he was there as Stephen’s protector rather than a customer. Molly suspects otherwise.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11194010/James-joyce-ulysses-chap-18-penelope/She-must-have-given-him-great-value",
+    "original_id": "11194010",
+    "referent_id": 11194010,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "she must have given him great value",
+    "prefix": "ing thing anyway wheres this those napkins 1922#721are ah yes I know I hope the old press doesnt creak ah I knew it would hes sleeping hard had a good time 1961#771somewhere still ",
+    "suffix": " for his money of course he has to pay for it from her O this nuisance of a thing I hope theyll have something better for us in the other world tying ourselves up God help us thats",
+    "start": 89895,
+    "end": 89930,
+    "canonical_text": "she must have given him great value"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11194010,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

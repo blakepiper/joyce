@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10517172",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Skibbereen",
+  "html_source": "<p>A town in County Cork.<br /><a href=\"http://www.skibbereen.ie/\" rel=\"noopener nofollow\">http://www.skibbereen.ie</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10517172/James-joyce-ulysses-chap-16-eumaeus/Skibbereen",
+    "original_id": "10517172",
+    "referent_id": 10517172,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Skibbereen",
+    "prefix": " strong suspicion of nosepaint about the nasal appendage.\n\n—Why, the sailor answered with a slow puzzled utterance. My son Danny? He'd be about eighteen now, way I figure it.\n\nThe ",
+    "suffix": " father hereupon tore open his grey or unclean anyhow shirt with his two hands and scratched away at his chest on which was to be seen an image tattooed in blue Chinese ink, intend",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.0
+  },
+  "genius": {
+    "referent_id": 10517172,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

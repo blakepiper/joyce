@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-30914181",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Raconteur",
+  "html_source": "<p>someone who tells funny or interesting stories</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/30914181/James-joyce-ulysses-chap-16-eumaeus/Raconteur",
+    "original_id": "30914181",
+    "referent_id": 30914181,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "raconteur",
+    "prefix": "\n1986#506\n\n — I believe he is in Dublin somewhere, Stephen answered unconcernedly. Why? \n\n — A gifted man, Mr Bloom said of Mr Dedalus senior, in more respects than one and a born ",
+    "suffix": " if ever there was one. He takes great pride, quite legitimate, out of you. You could go back perhaps, he 1932#529hazarded, still thinking of the very unpleasant scene at Westland ",
+    "start": 18086,
+    "end": 18095,
+    "canonical_text": "raconteur"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 30914181,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 21576350,
+        "login": "DrJaimeClaudio",
+        "name": "DrJaimeClaudio",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

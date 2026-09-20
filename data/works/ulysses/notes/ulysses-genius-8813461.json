@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8813461",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Thirtytwo feet per sec",
+  "html_source": "<p>Gravity will accelerate a falling object at a rate of 32 feet per second per second</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8813461/James-joyce-ulysses-chap-8-lestrygonians/Thirtytwo-feet-per-sec",
+    "original_id": "8813461",
+    "referent_id": 8813461,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "thirtytwo feet per sec",
+    "prefix": "the droll way he comes out with the things. Knows how to tell a story too. \n\n They wheeled lower. Looking for grub. Wait. \n\n He threw down among them a crumpled paper ball. Elijah ",
+    "suffix": " is com. Not a bit. The ball bobbed unheeded on the wake of swells, floated under by the bridgepiers. Not such damn fools. Also the day I threw that stale cake out of the Erin's Ki",
+    "start": 3665,
+    "end": 3687,
+    "canonical_text": "thirtytwo feet per sec"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8813461,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

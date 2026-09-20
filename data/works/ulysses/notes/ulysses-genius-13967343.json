@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13967343",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Garn!",
+  "html_source": "<p>Garn! – Cockney colloquialism:<br />“Get away with you!”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13967343/James-joyce-ulysses-chap-14-oxen-of-the-sun/Garn",
+    "original_id": "13967343",
+    "referent_id": 13967343,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Garn!",
+    "prefix": "e nae the fou. Au reservoir, mossoo. Tanks you. \n\n1922#404\n\n 'Tis, sure. What say? In the speakeasy. Tight. I shee you, shir. Bantam, two days teetee. Bowsing nowt but claretwine. ",
+    "suffix": " Have a glint, do. Gum, I'm jiggered. And been to barber he have. Too full for words. With a railway bloke. How come you so? Opera he'd like? Rose of Castile. Rows of cast. Police!",
+    "start": 109424,
+    "end": 109429,
+    "canonical_text": "Garn!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13967343,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

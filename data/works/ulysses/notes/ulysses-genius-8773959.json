@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8773959",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Placket",
+  "html_source": "<p>A placket is an opening in the upper part of trousers or skirts, or at the neck or sleeve of a garment.</p><p><img src=\"https://images.rapgenius.com/9127bf4bdd1083173af1be7223a7ed67.315x329x1.jpg\" alt=\"\" /></p><p> Plackets are almost always used to allow clothing to be put on or removed easily, but are sometimes used purely as a design element.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8773959/James-joyce-ulysses-chap-5-lotus-eaters/Placket",
+    "original_id": "8773959",
+    "referent_id": 8773959,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "placket",
+    "prefix": "Hello. Were those two buttons of my waistcoat open all the time? Women enjoy it. Never tell you. But we. Excuse, miss, there's a (whh!) just a (whh!) fluff. Or their skirt behind, ",
+    "suffix": " unhooked. Glimpses of the moon. Annoyed if you don't. Why didn't you tell me before. Still like you better untidy. Good job it wasn't farther south. He passed, discreetly buttonin",
+    "start": 29010,
+    "end": 29017,
+    "canonical_text": "placket"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8773959,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

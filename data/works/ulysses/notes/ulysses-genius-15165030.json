@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15165030",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Enfin, ce sont vos oignons",
+  "html_source": "<p>(Fr.) “Now then, those are your onions” (i.e., that’s your business; cf. “c’est pas tes oignons”).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15165030/James-joyce-ulysses-chap-15-circe/Enfin-ce-sont-vos-oignons",
+    "original_id": "15165030",
+    "referent_id": 15165030,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Enfin, ce sont vos oignons",
+    "prefix": "w? \n\n1961#588\n\n STEPHEN \n\n(Looks up to the sky.) How? Very unpleasant. Noble art of selfpretence. Personally, I detest action. (He waves his hand.) Hand hurts me slightly. 1932#506",
+    "suffix": ".(To Cissy Caffrey.) Some trouble is on here. What is it precisely? \n\n1986#480\n\n DOLLY GRAY \n\n(From her balcony waves her handkerchief, giving the sign of the heroine of Jericho.) ",
+    "start": 215315,
+    "end": 215340,
+    "canonical_text": "Enfin ce sont vos oignons"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 15165030,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

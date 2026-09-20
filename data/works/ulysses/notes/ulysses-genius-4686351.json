@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4686351",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Rust",
+  "html_source": "<p>Transformation. The sea’s transformation of anything in it. Our transformation of Stephen’s view. Our inner voice is the world rusted by words.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4686351/James-joyce-ulysses-chap-3-proteus/Rust",
+    "original_id": "4686351",
+    "referent_id": 4686351,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "rust",
+    "prefix": "le: at least that if no more, thought through my eyes. Signatures of all things I am here to read, seaspawn and seawrack, the nearing tide, that rusty boot. Snotgreen, bluesilver, ",
+    "suffix": ": coloured signs. Limits of the diaphane. But he adds: in bodies. Then he was aware of them bodies before of them coloured. How? By knocking his sconce against them, sure. Go easy.",
+    "start": 223,
+    "end": 227,
+    "canonical_text": "rust"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 4686351,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

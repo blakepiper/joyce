@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4546625",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Only a black mans Id like to try",
+  "html_source": "<p>Molly appears to say that she would “like to try a black man’s.” There doesn’t seem to be one in particular that she is referring to.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4546625/James-joyce-ulysses-chap-18-penelope/Only-a-black-mans-id-like-to-try",
+    "original_id": "4546625",
+    "referent_id": 4546625,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "only a black mans Id like to try",
+    "prefix": " and that Mrs Langtry the jersey lily the prince of Wales was in love with I suppose hes like the first man going the roads only for the name of a king theyre all made the one way ",
+    "suffix": " a beauty up to what was she 45 there was some funny story about the jealous old husband what was it at all and an oyster knife he 1986#618went no he made her wear a kind of a tin ",
+    "start": 36121,
+    "end": 36153,
+    "canonical_text": "only a black mans Id like to try"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4546625,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

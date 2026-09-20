@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21162024",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Fraidrine",
+  "html_source": "<p>A phonetic spelling of Fred Ryan. Stephen mentally mocking Eglinton’s accent in retaliation for Eglinton’s insult about Stephen wanting to be paid for his work.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21162024/James-joyce-ulysses-chap-9-scylla-and-charybdis/Fraidrine",
+    "original_id": "21162024",
+    "referent_id": 21162024,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Fraidrine",
+    "prefix": "Other chap. \n\n — You are the only contributor to Dana who asks for pieces of silver. Then I don't know about the next number. Fred Ryan wants space for an article on economics. \n\n ",
+    "suffix": ". Two pieces of silver he lent me. Tide you over. Economics. \n\n — For a guinea, Stephen said, you can publish this interview. \n\n1932#192\n\n Buck Mulligan stood up from his laughing ",
+    "start": 63202,
+    "end": 63211,
+    "canonical_text": "Fraidrine"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21162024,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

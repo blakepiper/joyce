@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10733383",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Halma",
+  "html_source": "<p><a href=\"http://www.mastersgames.com/rules/halma-rules.htm\" rel=\"noopener nofollow\">http://www.mastersgames.com/rules/halma-rules.htm</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10733383/James-joyce-ulysses-chap-17-ithaca/Halma",
+    "original_id": "10733383",
+    "referent_id": 10733383,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "halma",
+    "prefix": ", if not more than, any other frequently engaged his mind? \n\n What to do with our wives. \n\n1961#685\n\n What had been his hypothetical singular solutions? \n\n Parlour games (dominos, ",
+    "suffix": ", tiddledywinks, spilikins, cup and ball, nap, spoil five, bezique, twentyfive, beggar my neighbour, draughts, chess or backgammon): embroidery, darning or knitting for the policea",
+    "start": 42611,
+    "end": 42616,
+    "canonical_text": "halma"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10733383,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

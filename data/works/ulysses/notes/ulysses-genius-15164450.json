@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15164450",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Avant! huit! Traversé! Salut! Cours de mains! Croisé!",
+  "html_source": "<p>French dance instructions. Something like “Advance! Eight! Cross (over)! Bow! Touch/hold hands! Change sides!”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15164450/James-joyce-ulysses-chap-15-circe/Avant-huit-traverse-salut-cours-de-mains-croise",
+    "original_id": "15164450",
+    "referent_id": 15164450,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Avant! huit! Traversé! Salut! Cours de mains! Croisé!",
+    "prefix": "agging, languideyed, their cheeks delicate with cipria and false faint bloom. They are in grey gauze with dark bat sleeves that flutter in the land breeze.) \n\n1961#576\n\n MAGINNI \n\n",
+    "suffix": "! \n\n(The night hours, one by one, steal to the last place. Morning, noon and twilight hours retreat before them. They are masked, with daggered hair and bracelets of dull bells. We",
+    "start": 200316,
+    "end": 200367,
+    "canonical_text": "Avant huit! Traversé! Salut! Cours de mains! Croisé"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 15164450,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11153113",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Atlantic fleet",
+  "html_source": "<p><a href=\"http://www.historic-uk.com/HistoryMagazine/DestinationsUK/History-of-Gibraltar/\" rel=\"noopener nofollow\">http://www.historic-uk.com/HistoryMagazine/DestinationsUK/History-of-Gibraltar/</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11153113/James-joyce-ulysses-chap-18-penelope/Atlantic-fleet",
+    "original_id": "11153113",
+    "referent_id": 11153113,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Atlantic fleet",
+    "prefix": "false hair on her and vain about her appearance ugly as she was near 80 or a 100 her face a mass of wrinkles with all her religion domineering because she never could get over the ",
+    "suffix": " coming in half the ships of the world and the Union Jack flying with all her 1986#624carabineros because 4 drunken English sailors took all the rock from them and because I didnt ",
+    "start": 56094,
+    "end": 56108,
+    "canonical_text": "Atlantic fleet"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11153113,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

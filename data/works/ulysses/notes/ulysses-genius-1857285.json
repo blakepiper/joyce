@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-1857285",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "—You, Cochrane, what city sent for him?\n \n —Tarentum, sir.",
+  "html_source": "<p>The question refers to Pyrrhus, a 3rd century BC King of Epirus who was sent for by the inhabitants of Tarentum, who were under threat from the Romans. He’s famous for winning, but at such great cost that the phrase ‘Pyrrhic victory’ has come to mean a victory that costs so much it’s no longer worth winning.</p><p><img src=\"https://images.genius.com/91a51c6cb2d035fd31c28ceea80217ca.360x467x1.jpg\" alt=\"\" /></p><p>“Nestor” starts <em>in mediis rebus</em>: we’re slap bang in the middle of a history lesson, and Joyce uses this chapter in part to give us some of his ideas about history in general, and about the part of individuals in history.</p><p>There was a Cochrane’s solicitor’s premises in Dalkey according to <a href=\"http://search.ancestry.co.uk/search/db.aspx?dbid=2194\" rel=\"noopener nofollow\">Thom’s Directory</a> (G&amp; S page 30).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1857285/James-joyce-ulysses-chap-2-nestor/You-cochrane-what-city-sent-for-him-tarentum-sir",
+    "original_id": "1857285",
+    "referent_id": 1857285,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "—You, Cochrane, what city sent for him?\n \n —Tarentum, sir.",
+    "prefix": "\n\n[2]\n\n\n\n— ",
+    "suffix": " \n\n — Very good. Well? \n\n — There was a battle, sir. \n\n — Very good. Where? \n\n The boy's blank face asked the blank window. \n\n Fabled by the daughters of memory. And yet it was in ",
+    "start": 11,
+    "end": 68,
+    "canonical_text": "You, Cochrane, what city sent for him?\n\n — Tarentum, sir."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 1857285,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 48446,
+        "login": "Twite",
+        "name": "Tom White",
+        "role": "contributor",
+        "attribution": 0.8888888888888888
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.1111111111111111
+      }
+    ]
+  },
+  "color": "F59627"
+}

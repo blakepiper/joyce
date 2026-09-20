@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8876331",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Parnell’s brother",
+  "html_source": "<p>John Howard Parnell (1843 – 1923) was an older brother of the Irish Nationalist leader Charles Stewart Parnell and after his brother’s death was himself a Parnellite Nationalist Member of Parliament.<br />In his obituary in 1923, The Times commented that John “was like his brother in appearance, but differed from him in every other respect. He never spoke in the House of Commons, and was far better known in the members’ chess room”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8876331/James-joyce-ulysses-chap-10-wandering-rocks/Parnells-brother",
+    "original_id": "8876331",
+    "referent_id": 8876331,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Parnell's brother",
+    "prefix": "general governor of Ireland, John Wyse Nolan answered from the stairfoot. \n\n*\n*  *\n\n As they trod across the thick carpet Buck Mulligan whispered behind his Panama to Haines: \n\n — ",
+    "suffix": ". There in the corner. \n\n They chose a small table near the window, opposite a longfaced man whose beard and gaze hung intently down on a chessboard. \n\n — Is that he? Haines asked,",
+    "start": 59895,
+    "end": 59912,
+    "canonical_text": "Parnell's brother"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8876331,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

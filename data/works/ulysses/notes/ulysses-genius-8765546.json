@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8765546",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Sandow’s exercises",
+  "html_source": "<p>Eugen Sandow, born Friedrich Wilhelm Müller, was a German pioneering bodybuilder known as the “father of modern bodybuilding”<br />Born: April 2, 1867, Königsberg<br />Died: October 14, 1925, London, United Kingdom</p><p><img src=\"https://images.rapgenius.com/7c65a31c2380999f61a61276a9bddf81.463x640x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8765546/James-joyce-ulysses-chap-4-calypso/Sandows-exercises",
+    "original_id": "8765546",
+    "referent_id": 8765546,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Sandow's exercises",
+    "prefix": "s slid along his veins, chilling his blood: age crusting him with a salt cloak. Well, I am here now. Morning mouth bad images. Got up wrong side of the bed. Must begin again those ",
+    "suffix": ". On the hands down. Blotchy brown brick houses. Number eighty still unlet. Why is that? Valuation is only twenty-eight. Towers, Battersby, North, MacArthur: parlour windows plaste",
+    "start": 15145,
+    "end": 15163,
+    "canonical_text": "Sandow's exercises"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8765546,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

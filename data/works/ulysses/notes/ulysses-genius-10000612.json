@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10000612",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Tailor’s goose",
+  "html_source": "<p>A heavy iron used by tailors. The name goose came from the curved handle that somewhat resembled the necks of two geese.<br /><a href=\"http://www.thefreedictionary.com/\" rel=\"noopener nofollow\">http://www.thefreedictionary.com/</a></p><p><img src=\"https://images.genius.com/a6d4cb1183709f301e1eaf8e6cea58a6.621x415x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10000612/James-joyce-ulysses-chap-15-circe/Tailors-goose",
+    "original_id": "10000612",
+    "referent_id": 10000612,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "tailor's goose",
+    "prefix": "ks. They wag their beards at Bloom.) \n\n1986#405\n\n MASTIANSKY AND CITRON \n\n Belial! Laemlein of Istria! the false Messiah! Abulafia! \n\n(George S. Mesias, Bloom's tailor, appears, a ",
+    "suffix": " under his arm, presenting a bill.) \n\n MESIAS \n\n To alteration one pair trousers eleven shillings. \n\n BLOOM \n\n(Rubs his hands cheerfully.) Just like old times. Poor Bloom! \n\n(Reube",
+    "start": 95488,
+    "end": 95502,
+    "canonical_text": "tailor's goose"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10000612,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

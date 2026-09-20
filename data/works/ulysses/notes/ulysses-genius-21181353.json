@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21181353",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "The wandering jew",
+  "html_source": "<p>A mythical figure from medieval Christian tradition. He was a witness to Christ’s crucifixion. Because he taunted Jesus, he was cursed to walk the earth until the Second Coming.<br /><a href=\"https://en.wikipedia.org/wiki/Wandering_Jew\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Wandering_Jew</a></p><p>Mulligan is being anti-Semitic. However, in a more literal sense, we know that Bloom has spent and will continue to spend his day wandering about Dublin.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21181353/James-joyce-ulysses-chap-9-scylla-and-charybdis/The-wandering-jew",
+    "original_id": "21181353",
+    "referent_id": 21181353,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "The wandering jew",
+    "prefix": "for augury. Ængus of the birds. They go, they come. Last night I flew. Easily flew. Men wondered. Street of harlots after. A creamfruit melon he held to me. In. You will see. \n\n — ",
+    "suffix": ", Buck Mulligan whispered with clown's awe. Did you see his eye? He looked upon you to lust after you. I fear thee, ancient mariner. O, Kinch, thou art in peril. Get thee a breechp",
+    "start": 68875,
+    "end": 68892,
+    "canonical_text": "The wandering jew"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21181353,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

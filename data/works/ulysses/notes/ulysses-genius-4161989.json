@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4161989",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Coign",
+  "html_source": "<p>a projecting corner or angle of a wall.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4161989/James-joyce-ulysses-chap-3-proteus/Coign",
+    "original_id": "4161989",
+    "referent_id": 4161989,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "coign",
+    "prefix": "ess! Sir. Yes, sir. No, sir. Jesus wept: and no wonder, by Christ! \n\n1932#35\n\n I pull the wheezy bell of their shuttered cottage: and wait. They take me for a dun, peer out from a ",
+    "suffix": " of vantage. \n\n — It's Stephen, sir. \n\n — Let him in. Let Stephen in. \n\n A bolt drawn back and Walter welcomes me. \n\n1961#38\n\n — We thought you were someone else. \n\n In his broad b",
+    "start": 4559,
+    "end": 4564,
+    "canonical_text": "coign"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4161989,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1209714,
+        "login": "AlexBeston",
+        "name": "AlexBeston",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

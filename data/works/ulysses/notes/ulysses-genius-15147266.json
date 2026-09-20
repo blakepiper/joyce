@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15147266",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Tway",
+  "html_source": "<p>Old English term meaning two.</p><p>Wiktionary: From Old English twēġe, reduced form of twēġen (“twain”). Doublet of swy.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15147266/James-joyce-ulysses-chap-14-oxen-of-the-sun/Tway",
+    "original_id": "15147266",
+    "referent_id": 15147266,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "tway",
+    "prefix": "Of that house A. Horne is lord. Seventy beds keeps he there teeming mothers are won't that they lie for to thole and bring forth bairns hale so God's angel to Mary quoth. Watchers ",
+    "suffix": " there walk, white sisters in ward sleepless. Smarts they still, sickness soothing: in twelve moons thrice an hundred. Truest bedthanes they twain are, for Horne holding wariest wa",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "ambiguous",
+    "confidence": 0.2919588592800374
+  },
+  "genius": {
+    "referent_id": 15147266,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

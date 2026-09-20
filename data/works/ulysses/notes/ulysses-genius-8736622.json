@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8736622",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Thin bread and butter",
+  "html_source": "<p>Little Tommy Tucker sings for his supper,<br />What shall we give him? Brown bread and butter.<br />How shall he cut it without a knife?<br />How shall he marry without a wife?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8736622/James-joyce-ulysses-chap-4-calypso/Thin-bread-and-butter",
+    "original_id": "8736622",
+    "referent_id": 8736622,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Thin bread and butter",
+    "prefix": " holes. Nothing she can eat? He glanced round him. No. \n\n On quietly creaky boots he went up the staircase to the hall, paused by the bedroom door. She might like something tasty. ",
+    "suffix": " she likes in the morning. Still perhaps: once in a way. \n\n He said softly in the bare hall: \n\n — I'm going round the corner. Be back in a minute. \n\n And when he had heard his voic",
+    "start": 3121,
+    "end": 3142,
+    "canonical_text": "Thin bread and butter"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8736622,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

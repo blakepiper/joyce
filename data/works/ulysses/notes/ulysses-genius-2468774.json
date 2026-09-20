@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2468774",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Shoeblacks called and polished.",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/3qb9jg2wv8dv05a0bd1dsxse0.200x125x1.jpg\" alt=\"\" /></p><p>Aye, what my people had to do for money…</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2468774/James-joyce-ulysses-chap-7-aeolus/Shoeblacks-called-and-polished",
+    "original_id": "2468774",
+    "referent_id": 2468774,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "shoeblacks called and polished.",
+    "prefix": "ledeck moved from their railheads, swerved to the down line, glided parallel. \n\n — Start, Palmerston Park! \n\n THE WEARER OF THE CROWN \n\n Under the porch of the general post office ",
+    "suffix": " Parked in North Prince's street His Majesty's vermilion mailcars, bearing on their sides the royal initials, E. R., received loudly flung sacks of letters, postcards, lettercards,",
+    "start": 684,
+    "end": 715,
+    "canonical_text": "shoeblacks called and polished."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2468774,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

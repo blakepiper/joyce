@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9014997",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Stravaging",
+  "html_source": "<p>stravage<br />SCOT., IRISH, NORTH ENG. to wander about aimlessly; roam<br />yourdictionary.com</p><p>as a sleepwalker would wander</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9014997/James-joyce-ulysses-chap-12-cyclops/Stravaging",
+    "original_id": "9014997",
+    "referent_id": 9014997,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "stravaging",
+    "prefix": "rough his bloody hat. Fitter for him go home to the little sleepwalking bitch he married, Mooney, the bumbailiff's daughter, mother kept a kip in Hardwicke street, that used to be ",
+    "suffix": " about the landings Bantam Lyons told me that was stopping there at two in the morning without a stitch on her, exposing her person, open to all comers, fair field and no favour. \n",
+    "start": 25209,
+    "end": 25219,
+    "canonical_text": "stravaging"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9014997,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

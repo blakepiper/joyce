@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2081191",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Good and faithful servant!",
+  "html_source": "<p>This ends the section in the style of Charles Dickens, which began with “Meanwhile the skill and patience.”</p><p><img src=\"https://images.genius.com/40f715096fa485c50f817f2a0839a8f3.220x321x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2081191/James-joyce-ulysses-chap-14-oxen-of-the-sun/Good-and-faithful-servant",
+    "original_id": "2081191",
+    "referent_id": 2081191,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "good and faithful servant!",
+    "prefix": "uil heart to bed, to rest. He knows and will call in His own good time. You too have fought the good fight and played loyally your man's part. Sir, to you my hand. Well done, thou ",
+    "suffix": " \n\n1939#302\n\n There are sins or (let us call them as the world calls them) evil memories which are hidden away by man in the darkest places of the heart but they abide there and wa",
+    "start": 97588,
+    "end": 97614,
+    "canonical_text": "good and faithful servant!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2081191,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

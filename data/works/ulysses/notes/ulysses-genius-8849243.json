@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8849243",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Jennyass",
+  "html_source": "<p>JENNY ASS (noun)<br />Female donkey</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8849243/James-joyce-ulysses-chap-9-scylla-and-charybdis/Jennyass",
+    "original_id": "8849243",
+    "referent_id": 8849243,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "jennyass",
+    "prefix": "to what he calls his rights over her whom he calls his wife. No sir smile neighbour shall covet his ox or his wife or his manservant or his maidservant or his jackass. \n\n — Or his ",
+    "suffix": ", Buck Mulligan antiphoned. \n\n — Gentle Will is being roughly handled, gentle Mr Best said gently. \n\n — Which will? gagged sweetly Buck Mulligan. We are getting mixed. \n\n — The wil",
+    "start": 45497,
+    "end": 45505,
+    "canonical_text": "jennyass"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8849243,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

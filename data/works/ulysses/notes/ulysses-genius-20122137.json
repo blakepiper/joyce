@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20122137",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Be",
+  "html_source": "<p>typo: should be “he”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20122137/James-joyce-ulysses-chap-14-oxen-of-the-sun/Be",
+    "original_id": "20122137",
+    "referent_id": 20122137,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "be",
+    "prefix": " of my lady of Mercy, Vin. Lynch, a Scots fellow, Will. Madden, T. Lenehan, very sad for a racinghorse he fancied and Stephen D. Leop. Bloom there for a languor he had but was now ",
+    "suffix": "tter, he having dreamed tonight a strange fancy of his dame Mrs Moll with red slippers on in a pair of Turkey trunks which is thought by those in ken to be for a change and Mistres",
+    "start": 36231,
+    "end": 36233,
+    "canonical_text": "be"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9228
+  },
+  "genius": {
+    "referent_id": 20122137,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11041825,
+        "login": "raggedclaws",
+        "name": "raggedclaws",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

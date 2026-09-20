@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21111196",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Pater, ait",
+  "html_source": "<p>Latin. “Father! he cries”</p><p>The cry of terror issued by Icarus as he falls.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21111196/James-joyce-ulysses-chap-9-scylla-and-charybdis/Pater-ait",
+    "original_id": "21111196",
+    "referent_id": 21111196,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Pater, ait",
+    "prefix": "ur fantastical humour. \n\n Me, Magee and Mulligan. \n\n Fabulous artificer. The hawklike man. You flew. Whereto? Newhaven-Dieppe, steerage passenger. Paris and back. Lapwing. Icarus. ",
+    "suffix": ". Seabedabbled, fallen, weltering. Lapwing you are. Lapwing be. \n\n Mr Best eagerquietly lifted his book to say: \n\n — That's very interesting because that brother motive, don't you ",
+    "start": 55043,
+    "end": 55053,
+    "canonical_text": "Pater, ait"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21111196,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

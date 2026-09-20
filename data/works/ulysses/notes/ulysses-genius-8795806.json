@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795806",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Flag of distress",
+  "html_source": "<p>“Safety coffins” were devised to prevent premature burial, although there is no evidence that any have ever been successfully used to save an accidentally buried person. On 5 December 1882, J. G. Krichbaum received U.S. Patent 268,693 for his “Device For Life In Buried Persons”. It consisted of a movable periscope-like pipe which provided air and, when rotated or pushed by the person interred, indicated to passersby that someone was buried alive. The patent text refers to “that class of devices for indicating life in buried persons”, suggesting that such inventions were common at the time.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795806/James-joyce-ulysses-chap-6-hades/Flag-of-distress",
+    "original_id": "8795806",
+    "referent_id": 8795806,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Flag of distress",
+    "prefix": "urse he is dead. Monday he died. They ought to have some law to pierce the heart and make sure or an electric clock or a telephone in the coffin and some kind of a canvas airhole. ",
+    "suffix": ". Three days. Rather long to keep them in summer. Just as well to get shut of them as soon as you are sure there's no. \n\n The clay fell softer. Begin to be forgotten. Out of sight,",
+    "start": 52965,
+    "end": 52981,
+    "canonical_text": "Flag of distress"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8795806,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3451420",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Dialectic",
+  "html_source": "<p>logical argument.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3451420/James-joyce-ulysses-chap-9-scylla-and-charybdis/Dialectic",
+    "original_id": "3451420",
+    "referent_id": 3451420,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Dialectic",
+    "prefix": "iduous. \n\n — A shrew, John Eglinton said shrewdly, is not a useful portal of discovery, one should imagine. What useful discovery did Socrates learn from Xanthippe? \n\n1922#182\n\n — ",
+    "suffix": ", Stephen answered: and from his mother how to bring thoughts into the world. What he learnt from his other wife Myrto (absit nomen!), Socratididion's Epipsychidion, no man, not a ",
+    "start": 12988,
+    "end": 12997,
+    "canonical_text": "Dialectic"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3451420,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

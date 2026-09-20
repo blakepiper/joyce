@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33283426",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "In",
+  "html_source": "<p>The foetus is imbued with a soul in utero.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33283426/James-joyce-ulysses-chap-14-oxen-of-the-sun/In",
+    "original_id": "33283426",
+    "referent_id": 33283426,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "In",
+    "prefix": "ime's ruins build eternity's mansions. What means this? Desire's wind blasts the thorntree but after it becomes from a bramblebush to be a rose upon the rood of time. Mark me now. ",
+    "suffix": " woman's womb word is made flesh but in the spirit of the maker all flesh that passes becomes the word that shall not pass away. This is the postcreation. Omnis caro ad te veniet. ",
+    "start": 20807,
+    "end": 20809,
+    "canonical_text": "In"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 33283426,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1857146",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "And he came fifth and lost the job.",
+  "html_source": "<p>A pun on ‘forth/fourth’. Geddit?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1857146/James-joyce-ulysses-chap-6-hades/And-he-came-fifth-and-lost-the-job",
+    "original_id": "1857146",
+    "referent_id": 1857146,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "And he came fifth and lost the job.",
+    "prefix": "umps: damn the thing else.1932#94 The resurrection and the life. Once you are dead you are dead. That last day idea. Knocking them all up out of their graves. Come forth, Lazarus! ",
+    "suffix": " Get1961#105 up! Last day! Then every fellow mousing around for his liver and his lights and the rest of his traps. Find damn all of himself that morning. Pennyweight of powder in ",
+    "start": 40595,
+    "end": 40630,
+    "canonical_text": "And he came fifth and lost the job."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1857146,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 48446,
+        "login": "Twite",
+        "name": "Tom White",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

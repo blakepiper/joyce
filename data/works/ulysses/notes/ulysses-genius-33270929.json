@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33270929",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Know",
+  "html_source": "<p>Did you know – time’s ruins build eternity’s mansion!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33270929/James-joyce-ulysses-chap-14-oxen-of-the-sun/Know",
+    "original_id": "33270929",
+    "referent_id": 33270929,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Know",
+    "prefix": "ling that he had, he said, for a song which he writ. They all admired to see the foresaid riches in such dearth of money as was herebefore. His words were then these as followeth: ",
+    "suffix": " all men, he said, time's ruins build eternity's mansions. What means this? Desire's wind blasts the thorntree but after it becomes from a bramblebush to be a rose upon the rood of",
+    "start": 20603,
+    "end": 20607,
+    "canonical_text": "Know"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 33270929,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2468979",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Tay Pay",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/et6ozvsansd8g82rdn4hcq9dv.439x375x1.jpg\" alt=\"\" /></p><p>Thomas Power O'Connor known as T. P., was a journalist, an Irish nationalist political figure, and a Member of Parliament for nearly fifty years. O'Connor founded and was the first editor of several newspapers and journals: the Star (1887), the Weekly Sun (1891), the Sun (1893), M.A.P. and T.P.’s Weekly (1902). His nickname was “Tay Pay”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2468979/James-joyce-ulysses-chap-7-aeolus/Tay-pay",
+    "original_id": "2468979",
+    "referent_id": 2468979,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Tay Pay",
+    "prefix": "was there first. There was weeping and gnashing of teeth over that. Out of an advertisement. Gregor Grey made the design for it. That gave him the leg up. Then Paddy Hooper worked ",
+    "suffix": " who took him on to the Star. Now he's got in with Blumenfeld. That's press. That's talent. Pyatt! He was all their daddies! \n\n — The father of scare journalism, Lenehan confirmed,",
+    "start": 37609,
+    "end": 37616,
+    "canonical_text": "Tay Pay"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2468979,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

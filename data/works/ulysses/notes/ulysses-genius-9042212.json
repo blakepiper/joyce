@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9042212",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Thurible",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/731b5a26019e9353e839d7ea57443be8.1000x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9042212/James-joyce-ulysses-chap-13-nausicaa/Thurible",
+    "original_id": "9042212",
+    "referent_id": 9042212,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "thurible",
+    "prefix": "leman like that to witness. \n\n Queen of angels, queen of patriarchs, queen of prophets, of all saints, they prayed, queen of the most holy rosary and then Father Conroy handed the ",
+    "suffix": " to Canon O'Hanlon and he put in the incense and censed the Blessed Sacrament and Cissy Caffrey caught the two twins and she was itching to give them a ringing good clip on the ear",
+    "start": 34498,
+    "end": 34506,
+    "canonical_text": "thurible"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 9042212,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23741222",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "All on the baker’s list,",
+  "html_source": "<p>In good health</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23741222/James-joyce-ulysses-chap-8-lestrygonians/All-on-the-bakers-list",
+    "original_id": "23741222",
+    "referent_id": 23741222,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "All on the baker's list,",
+    "prefix": " position down in Mullingar, you know. \n\n — Go away! Isn't that grand for her? \n\n — Yes. In a photographer's there. Getting on like a house on fire. How are all your charges? \n\n — ",
+    "suffix": " Mrs Breen said. \n\n How many has she? No other in sight. \n\n1986#128\n\n — You're in black, I see. You have no... \n\n1961#156\n\n — No, Mr Bloom said. I have just come from a funeral. \n\n",
+    "start": 13346,
+    "end": 13370,
+    "canonical_text": "All on the baker's list,"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23741222,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 13890758,
+        "login": "halfstone",
+        "name": "halfstone",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

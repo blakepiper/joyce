@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9041554",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Aquiline nose",
+  "html_source": "<p>An aquiline nose (also called a Roman nose or hook nose) is a human nose with a prominent bridge, giving it the appearance of being curved or slightly bent. The word aquiline comes from the Latin word aquilinus (“eagle-like”), an allusion to the curved beak of an eagle.<br />Wikipedia</p><p><img src=\"https://images.rapgenius.com/f189cfdc485f01a07123331ab307f7eb.416x600x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9041554/James-joyce-ulysses-chap-13-nausicaa/Aquiline-nose",
+    "original_id": "9041554",
+    "referent_id": 9041554,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "aquiline nose",
+    "prefix": "which she preferred because she wasn't stagestruck like Winny Rippingham that wanted they two to always dress the same on account of a play but she could not see whether he had an ",
+    "suffix": " or a slightly retroussé from where he was sitting. He was in deep mourning, she could see that, and the story of a haunting sorrow was written on his face. She would have given wo",
+    "start": 29426,
+    "end": 29439,
+    "canonical_text": "aquiline nose"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9041554,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

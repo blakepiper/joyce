@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8747040",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Enthusiast",
+  "html_source": "<p>Relates to religious sects. Bloom uses it in reference to Dlugacz’s wish for a Jewish homeland.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8747040/James-joyce-ulysses-chap-4-calypso/Enthusiast",
+    "original_id": "8747040",
+    "referent_id": 8747040,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Enthusiast",
+    "prefix": "bath this 1939#52morning. Tara street. Chap in the paybox there got away James Stephens, they say. O'Brien. \n\n Deep voice that fellow Dlugacz has. Agenda what is it? Now, my miss. ",
+    "suffix": ". \n\n He kicked open the crazy door of the jakes. Better be careful not to get these trousers dirty for the funeral. He went in, bowing his head1932#60 under the low lintel. Leaving",
+    "start": 30276,
+    "end": 30286,
+    "canonical_text": "Enthusiast"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8747040,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

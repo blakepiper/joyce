@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11163521",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Williams and Woods",
+  "html_source": "<p><a href=\"http://builtdublin.com/factory-26-kings-inns-street-dublin-1/\" rel=\"noopener nofollow\">http://builtdublin.com/factory-26-kings-inns-street-dublin-1/</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11163521/James-joyce-ulysses-chap-18-penelope/Williams-and-woods",
+    "original_id": "11163521",
+    "referent_id": 11163521,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Williams and Woods",
+    "prefix": " fish tomorrow or today is it Friday yes I will with some blancmange with black currant jam like long ago not those 2 lb pots of mixed plum and apple from the London and Newcastle ",
+    "suffix": " goes twice as far only for the bones I hate those eels cod yes Ill get a nice piece of cod Im always getting enough for 3 forgetting anyway Im sick of that everlasting butchers me",
+    "start": 69875,
+    "end": 69893,
+    "canonical_text": "Williams and Woods"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11163521,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

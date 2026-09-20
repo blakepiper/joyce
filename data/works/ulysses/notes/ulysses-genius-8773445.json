@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8773445",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Saint Patrick the shamrock",
+  "html_source": "<p>Traditionally, shamrock is said to have been used by Saint Patrick to illustrate the Christian doctrine of the Holy Trinity when Christianising Ireland in the 5th century. The first evidence of a link between St Patrick and the shamrock appears in 1675 on the St Patrick’s Coppers or Halpennies. These appear to show a figure of St Patrick preaching to a crowd while holding a shamrock, presumably to explain the doctrine of the Holy Trinity.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8773445/James-joyce-ulysses-chap-5-lotus-eaters/Saint-patrick-the-shamrock",
+    "original_id": "8773445",
+    "referent_id": 8773445,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Saint Patrick the shamrock",
+    "prefix": "eligion. Buddha their god lying on his side in the museum. Taking it easy with hand under his cheek. Josssticks burning. Not like Ecce Homo. Crown of thorns and cross. Clever idea ",
+    "suffix": ". Chopsticks? Conmee: Martin Cunningham knows him: distinguishedlooking. Sorry I didn't work him about getting Molly into the choir instead of that Father Farley who looked a fool ",
+    "start": 20424,
+    "end": 20450,
+    "canonical_text": "Saint Patrick the shamrock"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8773445,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

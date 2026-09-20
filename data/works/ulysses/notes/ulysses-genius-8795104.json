@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795104",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Cork park races",
+  "html_source": "<p>By the second half of the nineteenth century the races at Cork Park in Cork city, which opened in the 1860s, were drawing huge crowds to see horses run for considerable amounts of prize-money. Racing at Cork Park went through phases of great prosperity and also phases of gloom, when the meetings seemed destined to collapse. Its Easter Monday meeting, however, remained its boon fixture. The racecourse closed suddenly in 1917 – the site became the home of the Ford factory – but racing was re-established in the county in 1924 at Mallow, where a racecourse remains to this day.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795104/James-joyce-ulysses-chap-6-hades/Cork-park-races",
+    "original_id": "8795104",
+    "referent_id": 8795104,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Cork park races",
+    "prefix": " Simon? Ned Lambert said softly, clasping hands. Haven't seen you for a month of Sundays. \n\n — Never better. How are all in Cork's own town? \n\n1922#98\n\n — I was down there for the ",
+    "suffix": " on Easter Monday, Ned Lambert said. Same old six and eightpence. Stopped with Dick Tivy. \n\n1932#91\n\n — And how is Dick, the solid man? \n\n — Nothing between himself and heaven, Ned",
+    "start": 32997,
+    "end": 33012,
+    "canonical_text": "Cork park races"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8795104,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

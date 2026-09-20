@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10555737",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Rode and not rutted",
+  "html_source": "<p>Before the fall of Adam and Eve, sexual intercourse was without sin.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10555737/James-joyce-ulysses-chap-3-proteus/Rode-and-not-rutted",
+    "original_id": "10555737",
+    "referent_id": 10555737,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "rode and not rutted",
+    "prefix": "thy quarrons dainty is. \nCouch a hogshead with me then. \nIn the darkmans clip and kiss. \n\n1932#43\n\n Morose delectation Aquinas tunbelly calls this, frate porcospino. Unfallen Adam ",
+    "suffix": ". Call away let him: thy quarrons dainty is. Language no whit worse than his. Monkwords, marybeads jabber on their girdles: roguewords, tough nuggets patter in their pockets. \n\n Pa",
+    "start": 24876,
+    "end": 24895,
+    "canonical_text": "rode and not rutted"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10555737,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

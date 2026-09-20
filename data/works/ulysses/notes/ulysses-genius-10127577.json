@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10127577",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Introibo ad altare diaboli",
+  "html_source": "<p>Go to the altar of the devil</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10127577/James-joyce-ulysses-chap-15-circe/Introibo-ad-altare-diaboli",
+    "original_id": "10127577",
+    "referent_id": 10127577,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Introibo ad altare diaboli",
+    "prefix": "Hugh C Haines Love M. A. in a plain cassock and mortarboard, his head and collar back to the front, holds over the celebrant's head an open umbrella.) \n\n FATHER MALACHI O'FLYNN \n\n ",
+    "suffix": ". \n\n THE REVEREND MR HAINES LOVE \n\n To the devil which hath made glad my young days. \n\n FATHER MALACHI O'FLYNN \n\n (Takes from the chalice and elevates a blooddripping host.) Corpus",
+    "start": 228486,
+    "end": 228512,
+    "canonical_text": "Introibo ad altare diaboli"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10127577,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

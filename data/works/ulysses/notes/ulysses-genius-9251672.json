@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9251672",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "His curling shaven lips laughed",
+  "html_source": "<p><a href=\"https://genius.com/9251494\" rel=\"noopener nofollow\">Again</a>, Mulligan’s lips are described with <a href=\"https://genius.com/1466781\" rel=\"noopener nofollow\">synecdochic</a> and <a href=\"https://genius.com/3890110\" rel=\"noopener nofollow\">anthropomorphic</a> techniques.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9251672/James-joyce-ulysses-chap-1-telemachus/His-curling-shaven-lips-laughed",
+    "original_id": "9251672",
+    "referent_id": 9251672,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "His curling shaven lips laughed",
+    "prefix": "in Dottyville with Conolly Norman. General paralysis of the insane! \n\n He swept the mirror a half circle in the air to flash the tidings abroad in sunlight now radiant on the sea. ",
+    "suffix": " and the edges of his white glittering teeth. Laughter seized all his strong wellknit trunk. \n\n — Look at yourself, he said, you dreadful bard! \n\n Stephen bent forward and peered a",
+    "start": 7684,
+    "end": 7715,
+    "canonical_text": "His curling shaven lips laughed"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9251672,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

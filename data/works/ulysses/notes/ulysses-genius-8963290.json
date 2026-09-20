@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8963290",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Rood",
+  "html_source": "<p>noun<br />a crucifix, especially a large one at the entrance to the choir or chancel of a medieval church, often supported on a rood beam or rood screen.<br />Dictionary.com</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8963290/James-joyce-ulysses-chap-12-cyclops/Rood",
+    "original_id": "8963290",
+    "referent_id": 8963290,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "rood",
+    "prefix": "ibe of Cormac and of the tribe of Kevin and of the tribe of Caolte and of the tribe of Ossian, there being in all twelve good men and true. And he conjured them by Him who died on ",
+    "suffix": " that they should well and truly try and true deliverance make in the issue joined between their sovereign lord the king and the prisoner at the bar and true verdict give according",
+    "start": 72576,
+    "end": 72580,
+    "canonical_text": "rood"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 8963290,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

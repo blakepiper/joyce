@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8848807",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "William Davenant",
+  "html_source": "<p>Sir William Davenant, (born February 1606, Oxford, Eng.—died April 7, 1668, London), English poet, playwright, and theatre manager who was made poet laureate. Shakespeare was apparently Davenant’s godfather, and gossip held that the famous playwright may even have been his father.<br />Encyclopedia Britannica</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8848807/James-joyce-ulysses-chap-9-scylla-and-charybdis/William-davenant",
+    "original_id": "8848807",
+    "referent_id": 8848807,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "William Davenant",
+    "prefix": "ks of the bankside, a penny a time. \n\n Cours la Reine. Encore vingt sous. Nous ferons de petites cochonneries. Minette? Tu veux? \n\n1961#201\n\n — The height of fine society. And sir ",
+    "suffix": " of oxford's mother with her cup of canary for every cockcanary. \n\n Buck Mulligan, his pious eyes upturned, prayed: \n\n — Blessed Margaret Mary Anycock! \n\n — And Harry of six wives'",
+    "start": 36977,
+    "end": 36993,
+    "canonical_text": "William Davenant"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8848807,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15120598",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Prebendary",
+  "html_source": "<p>A senior member of the clergy in the Anglican or Roman Catholic church who is connected with a cathedral or a collegiate church.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15120598/James-joyce-ulysses-chap-12-cyclops/Prebendary",
+    "original_id": "15120598",
+    "referent_id": 15120598,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "prebendary",
+    "prefix": "torrent of tears burst from their lachrymal ducts and the vast concourse of people, touched to the inmost core, broke into heartrending sobs, not the least affected being the aged ",
+    "suffix": " himself. Big strong men, officers of the peace and genial giants of the royal Irish constabulary, were making frank use of their handkerchiefs and it is safe to say that there was",
+    "start": 42274,
+    "end": 42284,
+    "canonical_text": "prebendary"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15120598,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

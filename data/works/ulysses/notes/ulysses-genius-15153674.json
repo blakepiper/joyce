@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15153674",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Mull of Galloway",
+  "html_source": "<p>The <a href=\"https://en.wikipedia.org/wiki/Mull_of_Galloway\" rel=\"noopener nofollow\">Mull of Galloway</a> is the southernmost point of Scotland, from which you can see across to Northern Ireland and the Isle of Man to the south.</p><p><img src=\"https://images.genius.com/18e69af399f380c9870e13fc8f829b01.330x220x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15153674/James-joyce-ulysses-chap-14-oxen-of-the-sun/Mull-of-galloway",
+    "original_id": "15153674",
+    "referent_id": 15153674,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Mull of Galloway",
+    "prefix": "anguage so encyclopaedic. A gallant scene in truth it made. Crotthers was there at the foot of the table in his striking Highland garb, his face glowing from the briny airs of the ",
+    "suffix": ". There too, opposite to him, was 1932#377Lynch whose countenance bore already the stigmata of early depravity and premature wisdom. Next the Scotchman was the place assigned to Co",
+    "start": 87429,
+    "end": 87445,
+    "canonical_text": "Mull of Galloway"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15153674,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

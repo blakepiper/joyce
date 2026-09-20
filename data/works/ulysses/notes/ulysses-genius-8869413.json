@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8869413",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Leonardo",
+  "html_source": "<p>This is da Vinci, whose <em>Mona Lisa</em> has conventionally been associated with Dante’s Beatrice because of a passage in Dante’s <em>Convivio</em> in which he describes a woman’s smile, the focus of da Vinci’s masterpiece, along with her eyes, “by a beautiful simile, may be called the balconies of the lady who dwells in the <em>architecture</em> of the body, that is to say the soul, because she often shows herself there as if under a veil.” This mention of the “soul” bears on the nearby references to it here in <em>Eumaeus</em>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8869413/James-joyce-ulysses-chap-16-eumaeus/Leonardo",
+    "original_id": "8869413",
+    "referent_id": 8869413,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Leonardo",
+    "prefix": " said, staring and rambling on to himself or some unknown listener somewhere, we have the impetuosity of Dante and the isosceles triangle, Miss Portinari, he fell in love with and ",
+    "suffix": " and san Tommaso Mastino. \n\n — It's in the blood, Mr Bloom acceded at once. All are washed in the blood of the sun. Coincidence, I just happened to be in the Kildare street Museum ",
+    "start": 60036,
+    "end": 60044,
+    "canonical_text": "Leonardo"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8869413,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

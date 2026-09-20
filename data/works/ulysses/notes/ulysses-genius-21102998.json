@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21102998",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Nuncle",
+  "html_source": "<p>A term used often by the Fool in King Lear.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21102998/James-joyce-ulysses-chap-9-scylla-and-charybdis/Nuncle",
+    "original_id": "21102998",
+    "referent_id": 21102998,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "nuncle",
+    "prefix": "he foil. \n\n — Come, he said. Let us hear what you have to say of Richard and Edmund. You kept them for the last, didn't you? \n\n — In asking you to remember those two noble kinsmen ",
+    "suffix": " Richie 1922#202and nuncle Edmund, Stephen answered, I feel I am asking too much perhaps. A brother is as easily forgotten as an umbrella. \n\n Lapwing. \n\n Where is your brother? Apo",
+    "start": 56177,
+    "end": 56183,
+    "canonical_text": "nuncle"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9617
+  },
+  "genius": {
+    "referent_id": 21102998,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23990960",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "But",
+  "html_source": "<p>Buck Mulligan unsurprisingly hadn’t turned up yet.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23990960/James-joyce-ulysses-chap-14-oxen-of-the-sun/But",
+    "original_id": "23990960",
+    "referent_id": 23990960,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "But",
+    "prefix": "o all long of a mastery of him erewhile gested (and of all them, reserved young Stephen, he was the most drunken that demanded still of more mead) and beside the meek sir Leopold. ",
+    "suffix": " on young Malachi they waited for that he promised to have come and such as intended to no goodness said how he had broke his avow. And sir Leopold sat with them for he bore fast f",
+    "start": 13703,
+    "end": 13706,
+    "canonical_text": "But"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 23990960,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

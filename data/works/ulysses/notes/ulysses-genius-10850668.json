@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10850668",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Kepler",
+  "html_source": "<p>German astronomer discovered laws of planetary motion</p><p><a href=\"https://www.britannica.com/biography/Johannes-Kepler\" rel=\"noopener nofollow\">https://www.britannica.com/biography/Johannes-Kepler</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10850668/James-joyce-ulysses-chap-17-ithaca/Kepler",
+    "original_id": "10850668",
+    "referent_id": 10850668,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Kepler",
+    "prefix": "pendent gyrations of double suns: the independent synchronous discoveries of Galileo, Simon Marius, Piazzi, Le Verrier, Herschel, Galle: the systematisations attempted by Bode and ",
+    "suffix": " of cubes of distances and squares of times of revolution: the almost infinite compressibility of hirsute comets and their vast elliptical egressive and reentrant orbits from perih",
+    "start": 70535,
+    "end": 70541,
+    "canonical_text": "Kepler"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10850668,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

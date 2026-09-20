@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9666628",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Society of friends",
+  "html_source": "<p>also known as Quakers<br /><a href=\"http://www.quaker.org/\" rel=\"noopener nofollow\">http://www.quaker.org</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9666628/James-joyce-ulysses-chap-15-circe/Society-of-friends",
+    "original_id": "9666628",
+    "referent_id": 9666628,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "society of friends",
+    "prefix": "Armagh, primate of all Ireland, the chief rabbi, the presbyterian moderator, the heads of the baptist, anabaptist, methodist and Moravian chapels and the honorary secretary of the ",
+    "suffix": ". After them march the guilds and trades and trainbands with flying colours: coopers, bird fanciers, millwrights, newspaper canvassers, law scriveners, masseurs, vintners, trussmak",
+    "start": 71603,
+    "end": 71621,
+    "canonical_text": "society of friends"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9666628,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

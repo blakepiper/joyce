@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5073113",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Martha!",
+  "html_source": "<p>Bloom has decided to write a letter to Martha Clifford.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5073113/James-joyce-ulysses-chap-11-sirens/Martha",
+    "original_id": "5073113",
+    "referent_id": 5073113,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Martha!",
+    "prefix": " A veil awave upon the waves. \n\n Lost. Throstle fluted. All is lost now. \n\n Horn. Hawhorn. \n\n When first he saw. Alas! \n\n Full tup. Full throb. \n\n Warbling. Ah, lure! Alluring. \n\n ",
+    "suffix": " Come! \n\n Clapclop. Clipclap. Clappyclap. \n\n1922#245\n\n Goodgod henev erheard inall. \n\n Deaf bald Pat brought pad knife took up. \n\n A moonlit nightcall: far, far. \n\n I feel so sad. ",
+    "start": 1076,
+    "end": 1083,
+    "canonical_text": "Martha!"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9252
+  },
+  "genius": {
+    "referent_id": 5073113,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1605411,
+        "login": "RoshniShree",
+        "name": "RoshniShree",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

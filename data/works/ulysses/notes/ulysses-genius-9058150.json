@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9058150",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Grace Darling",
+  "html_source": "<p><a href=\"http://rnli.org/shorething/discover/gracedarling/Pages/Key-facts-about-Grace-Darling.aspx\" rel=\"noopener nofollow\">http://rnli.org/shorething/discover/gracedarling/Pages/Key-facts-about-Grace-Darling.aspx</a></p><p><img src=\"https://images.genius.com/60554df97d1f5a5d5f4b1161601a3ae8.300x228x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9058150/James-joyce-ulysses-chap-13-nausicaa/Grace-darling",
+    "original_id": "9058150",
+    "referent_id": 9058150,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Grace Darling",
+    "prefix": "rain it is. The royal reader. And distant hills seem coming nigh. \n\n Howth. Bailey light. Two, four, six, eight, nine. See. Has to change or they might think it a house. Wreckers. ",
+    "suffix": ". People afraid of the dark. Also glowworms, cyclists: lightingup time. Jewels diamonds flash better. Light is a kind of reassuring. Not going to hurt you. Better now of course tha",
+    "start": 75561,
+    "end": 75574,
+    "canonical_text": "Grace Darling"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9058150,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13011384",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Bonham",
+  "html_source": "<p>Hiberno-English: “piglet” from the Irish “banbh.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13011384/James-joyce-ulysses-chap-15-circe/Bonham",
+    "original_id": "13011384",
+    "referent_id": 13011384,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "bonham",
+    "prefix": "433longlost lugubru Booloohoom. Grave Gladstone sees him level, Bloom for Bloom. He passes, struck by the stare of truculent Wellington, but in the convex mirror grin unstruck the ",
+    "suffix": " eyes and fatchuck cheekchops of Jollypoldy the rixdix doldy.\nAt Antonio Rabaiotti's door Bloom halts, sweated under the bright arclamp. He disappears. In a moment he reappears and",
+    "start": 7035,
+    "end": 7041,
+    "canonical_text": "bonham"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13011384,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5436824,
+        "login": "cohomology",
+        "name": "cohomology",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

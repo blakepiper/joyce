@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15106299",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Mavourneen",
+  "html_source": "<p>Irish term of endearment meaning “my love”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15106299/James-joyce-ulysses-chap-12-cyclops/Mavourneen",
+    "original_id": "15106299",
+    "referent_id": 15106299,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "mavourneen",
+    "prefix": " man. \n\n — Drinking his own stuff? says Joe. \n\n — Ay, says I. Whisky and water on the brain. \n\n — Come around to Barney Kiernan's, says Joe. I want to see the citizen. \n\n — Barney ",
+    "suffix": "'s be it, says I. Anything strange or wonderful, Joe? \n\n — Not a word, says Joe. I was up at that meeting in the City Arms. \n\n — What was that, Joe? says I. \n\n — Cattle traders, sa",
+    "start": 3687,
+    "end": 3697,
+    "canonical_text": "mavourneen"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15106299,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

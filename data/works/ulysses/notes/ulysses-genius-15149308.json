@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15149308",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Wight",
+  "html_source": "<p>A <a href=\"https://en.wiktionary.org/wiki/wight#Noun\" rel=\"noopener nofollow\">wight</a> is a living creature, usually a human being.</p><p>You may have learned the term from Tolkien’s LOTR (cf. barrow-wights)</p><p>Etymology:<br />From Middle English wight, wiȝt, from Old English wiht (“wight, person, creature, being, whit, thing, something, anything”), from Proto-Germanic <em>wihtiz (“essence, object”), from Proto-Indo-European </em>wekti- (“cause, sake, thing”), from Proto-Indo-European *wekʷ- (“to say, tell”). Cognate with Scots wicht (“creature, being, human”), Dutch wicht (“child, baby”), German Low German Wicht (“girl; wight”), German Wicht (“wretch, wight, little creature, scoundrel”), Norwegian Bokmål vette (“underground creature, gnome”), Swedish vätte (“underground creature, gnome”), Icelandic vættur (“imp, elf”). See also whit.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15149308/James-joyce-ulysses-chap-14-oxen-of-the-sun/Wight",
+    "original_id": "15149308",
+    "referent_id": 15149308,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "wight",
+    "prefix": " of Mahound out of seasand and the 1922#369air by a warlock with 1939#279his breath that he blares into them like to bubbles. And full fair cheer and rich was on the board that no ",
+    "suffix": " could devise a fuller ne richer. And there was a vat of silver that was moved by craft to open in the which lay strange fishes withouten heads though misbelieving men nie that thi",
+    "start": 10295,
+    "end": 10300,
+    "canonical_text": "wight"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15149308,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

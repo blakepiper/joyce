@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21406947",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "THE DAUGHTERS OF ERIN",
+  "html_source": "<p>The Daughters of Erin are renaming Ulysses chapters in a litany:<br />Kidney of Bloom = Calypso<br />Flower of the Bath = Lotus Eaters<br />Mentor of Menton = Hades<br />Canvasser for the Freeman = Aeolus<br />Charitable Mason = Lestrygonians<br />Wandering Soap = Scylla and Charybdis<br />Sweets of Sin = Wandering Rocks<br />Music without Words = Sirens<br />Reprover of the Citizen = Cyclops<br />Friend of all Frillies = Nausicaa<br />Midwife Most Merciful = Oxen of the Sun<br />Potato Preservative against Plague and Pestilence = Circe</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21406947/James-joyce-ulysses-chap-15-circe/The-daughters-of-erin",
+    "original_id": "21406947",
+    "referent_id": 21406947,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "THE DAUGHTERS OF ERIN",
+    "prefix": "to Dublin reporters traces of burning. The daughters of Erin, in black garments, with large prayerbooks and long lighted candles in their hands, kneel down and pray.) \n\n1986#406\n\n ",
+    "suffix": " \n\n \n\n Kidney of Bloom, pray for us.\nFlower of the Bath, pray for us.\n1932#439 Mentor of Menton, pray for us.\nCanvasser for the Freeman, pray for us.\nCharitable Mason, pray for us.",
+    "start": 96663,
+    "end": 96684,
+    "canonical_text": "THE DAUGHTERS OF ERIN"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21406947,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5294695,
+        "login": "fkapedro",
+        "name": "fkapedro",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

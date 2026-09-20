@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4143299",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Glorious, pious and immortal memory",
+  "html_source": "<p>Its the beginning line of the <a href=\"http://www.finnegansweb.com/wiki/index.php/Orange_Toast\" rel=\"noopener nofollow\">Orange Toast</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4143299/James-joyce-ulysses-chap-2-nestor/Glorious-pious-and-immortal-memory",
+    "original_id": "4143299",
+    "referent_id": 4143299,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "Glorious, pious and immortal memory",
+    "prefix": "lodges agitated for repeal of the union twenty years before O'Connell did or before the prelates of your communion denounced him as a demagogue? You fenians forget some things. \n\n ",
+    "suffix": ". The lodge of Diamond in Armagh the splendid behung with corpses of papishes. Hoarse, masked and armed, the planters' covenant. The black north and true blue bible. Croppies lie d",
+    "start": 15329,
+    "end": 15364,
+    "canonical_text": "Glorious, pious and immortal memory"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4143299,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1209714,
+        "login": "AlexBeston",
+        "name": "AlexBeston",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

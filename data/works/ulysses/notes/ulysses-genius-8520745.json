@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8520745",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Wait while you wait",
+  "html_source": "<p>Based on lyrics from <em>Croppy Boy</em>. “But you must wait till I go and see.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8520745/James-joyce-ulysses-chap-11-sirens/Wait-while-you-wait",
+    "original_id": "8520745",
+    "referent_id": 8520745,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Wait while you wait",
+    "prefix": "ls: when she. Liszt's rhapsodies. Hissss. \n\n You don't? \n\n1939#187\n\n Did not: no, no: believe: Lidlyd. With a cock with a carra. \n\n Black.\n\n Deepsounding. Do, Ben, do.\n\n1961#256\n\n ",
+    "suffix": ". Hee hee. Wait while you hee. \n\n But wait! \n\n Low in dark middle earth. Embedded ore. \n\n Naminedamine. All gone. All fallen.\n\n Tiny, her tremulous fernfoils of maidenhair. \n\n Amen",
+    "start": 1595,
+    "end": 1614,
+    "canonical_text": "Wait while you wait"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.8621
+  },
+  "genius": {
+    "referent_id": 8520745,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

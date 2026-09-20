@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8640118",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Ba",
+  "html_source": "<p>Egyptian symbol for the soul, usually depicted as a human-headed bird.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8640118/James-joyce-ulysses-chap-13-nausicaa/Ba",
+    "original_id": "8640118",
+    "referent_id": 8640118,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Ba",
+    "prefix": "le coming back. She leaned on the sideboard watching. Moorish eyes. Twenty years asleep in Sleepy Hollow. All changed. Forgotten. The young are old. His gun rusty from the dew. \n\n ",
+    "suffix": ". What is that flying about? Swallow? Bat probably. Thinks I'm a tree, so blind. Have birds no smell? Metempsychosis. They believed you could be changed into a tree from grief. Wee",
+    "start": 78898,
+    "end": 78900,
+    "canonical_text": "Ba"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 8640118,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

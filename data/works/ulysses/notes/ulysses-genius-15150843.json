@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15150843",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Tilbury",
+  "html_source": "<p>A light, open, two-wheeled carriage named after its inventor.</p><p><img src=\"https://images.genius.com/930b42b3eb43f4080030c57cdddbe1f8.664x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15150843/James-joyce-ulysses-chap-14-oxen-of-the-sun/Tilbury",
+    "original_id": "15150843",
+    "referent_id": 15150843,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "tilbury",
+    "prefix": "iginal garb, in other circumstances a breach of the proprieties, is the fittest, nay, the only garment. The first, said she (and here my pretty philosopher, as I handed her to her ",
+    "suffix": ", to fix my attention, gently tipped with her tongue the outer chamber of my ear), the first is a bath... But at this point a bell tinkling in the hall cut short a discourse which ",
+    "start": 57335,
+    "end": 57342,
+    "canonical_text": "tilbury"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15150843,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

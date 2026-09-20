@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3164421",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Belluomo",
+  "html_source": "<p><a href=\"https://translate.google.com/#it/en/bell&#x27;uomo\" rel=\"noopener nofollow\">Handsome man</a>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3164421/James-joyce-ulysses-chap-3-proteus/Belluomo",
+    "original_id": "3164421",
+    "referent_id": 3164421,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Belluomo",
+    "prefix": "lender trees, the lemon houses. \n\n Paris rawly waking, crude sunlight on her lemon streets. Moist pith of farls of bread, the froggreen wormwood, her matin incense, court the air. ",
+    "suffix": " rises from the bed of his wife's lover's wife, the kerchiefed housewife is astir, a saucer of acetic acid in her hands. In Rodot's Yvonne 1986#35and Madeleine newmake their tumble",
+    "start": 12947,
+    "end": 12955,
+    "canonical_text": "Belluomo"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3164421,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

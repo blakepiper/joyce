@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8872569",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "General Slocum",
+  "html_source": "<p>The General Slocum Disaster<br />The PS Slocum, built in 1891, was a paddle boat or sidewheel passenger ship. On June 15, 1904, the ship carried 1,358 passengers, plus crew from New York. Most of the passengers were women and children. As the ship made its way up the East River, good times turned bad very quickly. There have been varying accounts of how the fire started, but it spread rapidly within a half hour of leaving dock around 9 a.m. The panic was horrific among the passengers as they faced death by drowning or being burned alive on the ship. For days afterward, bodies would wash ashore. Only 321 passengers survived from a total of 1,358 passengers.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8872569/James-joyce-ulysses-chap-10-wandering-rocks/General-slocum",
+    "original_id": "8872569",
+    "referent_id": 8872569,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "General Slocum",
+    "prefix": " Yes, indeed. Good for the country. Those farmers are always grumbling. I'll just take a thimbleful of your best gin, Mr Crimmins. A small gin, sir. Yes, sir. Terrible affair that ",
+    "suffix": " explosion. Terrible, 1922#229terrible! A thousand casualties. And heartrending scenes. Men trampling down women and children. Most brutal thing. What 1986#196do they say was the c",
+    "start": 41451,
+    "end": 41465,
+    "canonical_text": "General Slocum"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8872569,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

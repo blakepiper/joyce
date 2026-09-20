@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23111225",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Senescence",
+  "html_source": "<p>Advanced age.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23111225/James-joyce-ulysses-chap-17-ithaca/Senescence",
+    "original_id": "23111225",
+    "referent_id": 23111225,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "senescence",
+    "prefix": "l from an inclined plate. Occasionally he removed from his lips the traces of food by means of a lacerated envelope or other accessible fragment of paper. \n\n What two phenomena of ",
+    "suffix": " were more frequent? \n\n The myopic digital calculation of coins, eructation consequent upon repletion. \n\n1932#628\n\n What object offered partial consolation for these reminiscences?",
+    "start": 122466,
+    "end": 122476,
+    "canonical_text": "senescence"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23111225,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

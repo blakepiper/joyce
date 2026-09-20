@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8769491",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "God is good",
+  "html_source": "<p>O give thanks unto the LORD; for he is good: for his mercy endures forever.<br />Psalm 136:1</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8769491/James-joyce-ulysses-chap-4-calypso/God-is-good",
+    "original_id": "8769491",
+    "referent_id": 8769491,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "God is good",
+    "prefix": "knock up Mrs Thornton in Denzille street.1932#58 Jolly old woman. Lots of babies she must have helped into the world. She knew from the first poor little Rudy wouldn't live. Well, ",
+    "suffix": ", sir. She knew at once. He would be eleven now if he had lived. \n\n His vacant face stared pitying at the postscript. Excuse bad writing. Hurry. Piano downstairs. Coming out of her",
+    "start": 25778,
+    "end": 25789,
+    "canonical_text": "God is good"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8769491,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

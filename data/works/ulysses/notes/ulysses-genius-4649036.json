@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4649036",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Bier",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/3ac054ed068c29821903dfdd5894b8d4.1000x667x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4649036/James-joyce-ulysses-chap-6-hades/Bier",
+    "original_id": "4649036",
+    "referent_id": 4649036,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "bier",
+    "prefix": "he understand? The mutes bore the coffin into the chapel. Which end is his head? \n\n After a moment he followed the others in, blinking in the screened light. The coffin lay on its ",
+    "suffix": " before the chancel, four tall yellow candles at its corners. Always in front of us. Corny Kelleher, laying a wreath at each fore corner, beckoned to the boy to kneel. The mourners",
+    "start": 34478,
+    "end": 34482,
+    "canonical_text": "bier"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 4649036,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

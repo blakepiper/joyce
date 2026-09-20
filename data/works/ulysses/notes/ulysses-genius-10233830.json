@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10233830",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Poniard",
+  "html_source": "<p><img src=\"https://images.genius.com/99f7123466595339189218027cf10bf0.220x165x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10233830/James-joyce-ulysses-chap-15-circe/Poniard",
+    "original_id": "10233830",
+    "referent_id": 10233830,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "poniard",
+    "prefix": "ly my innocence! You are not fit to touch the garment of a pure woman. (She clutches in her robe.) Wait. Satan, you'll sing no more lovesongs. Amen. Amen. Amen. Amen. (She draws a ",
+    "suffix": " and, clad in the sheathmail of an elected knight of nine, strikes at his loins.) Nekum! \n\n BLOOM \n\n(Starts up, seizes her hand.) Hoy! Nebrakada! Cat o' nine lives! Fair play, mada",
+    "start": 173006,
+    "end": 173013,
+    "canonical_text": "poniard"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10233830,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

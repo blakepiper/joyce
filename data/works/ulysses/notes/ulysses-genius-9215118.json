@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9215118",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Supernumerary digits",
+  "html_source": "<p>Having an extra finger or toe is called polydactyly. The extra digit may range from a small, raised bump to a complete, working finger or toe. Most of the time, it’s smaller than the other digits and not well formed.<br />SeattleChildrens.org</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9215118/James-joyce-ulysses-chap-14-oxen-of-the-sun/Supernumerary-digits",
+    "original_id": "9215118",
+    "referent_id": 9215118,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "supernumerary digits",
+    "prefix": "ineffectually entertained, to place her hand against that part of her person which long usage has consecrated as the seat of castigation. The abnormalities of harelip, breastmole, ",
+    "suffix": ", negro's inkle, strawberry mark and portwine stain were alleged by one as a primafacie and natural hypothetical explanation of swineheaded (the case of Madame Grissel Steevens was",
+    "start": 71323,
+    "end": 71343,
+    "canonical_text": "supernumerary digits"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9215118,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

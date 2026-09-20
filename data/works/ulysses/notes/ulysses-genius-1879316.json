@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1879316",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Bloo... Me? No.",
+  "html_source": "<p>Bloom mistakenly believes that a pamphlet might be about him, ‘Bloom’, but it instead turns out to be about ‘Blood of the Lamb’. It’s reflective of the way in which Bloom is viewed as wounded victim, compassionate, sympathetic and cuckolded.</p><p>It’s derived, of course, from the Bible, specifically the Book of Revelations: <a href=\"http://biblehub.com/revelation/12-11.htm\" rel=\"noopener nofollow\">http://biblehub.com/revelation/12-11.htm</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1879316/James-joyce-ulysses-chap-8-lestrygonians/Bloo-me-no",
+    "original_id": "1879316",
+    "referent_id": 1879316,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Bloo... Me? No.",
+    "prefix": "king red jujubes white.\n\n A sombre Y.M.C.A. young man, watchful among the warm sweet fumes of Graham Lemon's, placed a throwaway in a hand of Mr Bloom. \n\n Heart to heart talks. \n\n ",
+    "suffix": " \n\n Blood of the Lamb. \n\n His slow feet walked him riverward, reading. Are you saved? All are washed in the blood of the lamb. God wants blood victim. Birth, hymen, martyr, war, fo",
+    "start": 448,
+    "end": 463,
+    "canonical_text": "Bloo... Me? No."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1879316,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 211351,
+        "login": "prepski",
+        "name": "prepski",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

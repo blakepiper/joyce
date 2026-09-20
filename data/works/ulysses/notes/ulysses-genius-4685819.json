@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4685819",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Writing letters, copybooks, envelopes, blottingpaper.",
+  "html_source": "<p>Hely’s products – paper, ink, etc.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4685819/James-joyce-ulysses-chap-8-lestrygonians/Writing-letters-copybooks-envelopes-blottingpaper",
+    "original_id": "4685819",
+    "referent_id": 4685819,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "writing letters, copybooks, envelopes, blottingpaper.",
+    "prefix": ", bread and skilly. They are not Boyl: no, M'Glade's men. Doesn't bring in any business either. I suggested to him about a transparent showcart with two smart girls sitting inside ",
+    "suffix": " I bet that would have caught on. Smart girls writing something catch the eye at once. Everyone dying to know what she's writing. Get twenty of them round you if you stare at nothi",
+    "start": 8112,
+    "end": 8165,
+    "canonical_text": "writing letters, copybooks, envelopes, blottingpaper."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4685819,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

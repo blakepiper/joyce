@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10859001",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Stark-Munro Letters",
+  "html_source": "<p><a href=\"http://www.online-literature.com/doyle/stark-munro-letters/\" rel=\"noopener nofollow\">http://www.online-literature.com/doyle/stark-munro-letters/</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10859001/James-joyce-ulysses-chap-17-ithaca/Stark-munro-letters",
+    "original_id": "10859001",
+    "referent_id": 10859001,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Stark-Munro Letters",
+    "prefix": "217). \nThoughts from Spinoza (maroon leather). \nThe Story of the Heavens by Sir Robert Ball (blue cloth). \nEllis's Three Trips to Madagascar (brown cloth, title obliterated). \nThe ",
+    "suffix": " by A. Conan Doyle, property of the City of Dublin Public Library, 106 Capel street, lent 21 May (Whitsun Eve) 1904, due 4 June 1904, 13 days overdue (black cloth binding, bearing ",
+    "start": 86960,
+    "end": 86979,
+    "canonical_text": "Stark-Munro Letters"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10859001,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

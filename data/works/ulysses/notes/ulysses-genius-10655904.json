@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10655904",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Oakum and treadmill",
+  "html_source": "<p><a href=\"http://www.historyhouse.co.uk/articles/junk_and_oakum.html\" rel=\"noopener nofollow\">http://www.historyhouse.co.uk/articles/junk_and_oakum.html</a><br />Picking oakum was used as a punishment in prison, and in workhouses as a way of able-bodied inmates earning their board and lodging…<br />In 1824 at one prison there was a complaint by the authorities that picking oakum was too easy. Punishment by the treadmill should be preferred to oakum picking</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10655904/James-joyce-ulysses-chap-16-eumaeus/Oakum-and-treadmill",
+    "original_id": "10655904",
+    "referent_id": 10655904,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "oakum and treadmill",
+    "prefix": "re was something spurious in the cut of his jib that suggested a jail delivery and it required no violent stretch of imagination to associate such a weirdlooking specimen with the ",
+    "suffix": " fraternity. 1922#590He might even have done for his man, supposing it was his own case he told, as people often did about others, namely, that he killed him himself 1932#544and ha",
+    "start": 56288,
+    "end": 56307,
+    "canonical_text": "oakum and treadmill"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10655904,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15233471",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Did you see anything of your artist brother Stephen lately?",
+  "html_source": "<p>Stephen mocks his dad’s voice! the new bloomsday book, A Guide Through Ulysses; Harry Blamire, p15).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15233471/James-joyce-ulysses-chap-3-proteus/Did-you-see-anything-of-your-artist-brother-stephen-lately",
+    "original_id": "15233471",
+    "referent_id": 15233471,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Did you see anything of your artist brother Stephen lately?",
+    "prefix": "welve. By the way go easy with that money like a good young imbecile. Yes, I must. \n\n His pace slackened. Here. Am I going to aunt Sara's or not? My consubstantial father's voice. ",
+    "suffix": " No? Sure he's not down in Strasburg terrace with his aunt Sally? Couldn't he fly a bit higher than that, eh? And and and and tell us, Stephen, how is uncle Si? O weeping God, the ",
+    "start": 3943,
+    "end": 4009,
+    "canonical_text": "Did you see anything of your artist brother 1922#38Stephen lately?"
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.944
+  },
+  "genius": {
+    "referent_id": 15233471,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-38789948",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Ben Howth",
+  "html_source": "<p>Also known as <a href=\"https://en.wikipedia.org/wiki/Ben_of_Howth\" rel=\"noopener nofollow\">Ben of Howth</a>, a hill just outside of Dublin.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/38789948/James-joyce-ulysses-chap-15-circe/Ben-howth",
+    "original_id": "38789948",
+    "referent_id": 38789948,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Ben Howth",
+    "prefix": ") \n\n STAGGERING BOB \n\n Me. Me see. \n\n1961#549\n\n BLOOM \n\n Simply satisfying a need I... (With pathos.) No girl would when I went girling. Too ugly. They wouldn't play... \n\n(High on ",
+    "suffix": " through rhododendrons a nannygoat passes, plumpuddered, buttytailed, dropping currants.) \n\n THE NANNYGOAT \n\n(Bleats.) Megeggaggegg! Nannannanny! \n\n BLOOM \n\n(Hatless, flushed, cove",
+    "start": 168904,
+    "end": 168913,
+    "canonical_text": "Ben Howth"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 38789948,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5807887,
+        "login": "ahare63",
+        "name": "ahare63",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

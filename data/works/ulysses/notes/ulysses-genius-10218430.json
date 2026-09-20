@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10218430",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Sidney’s Arcadia",
+  "html_source": "<p>The Countess of Pembroke’s Arcadia, also known simply as the Arcadia, is a long prose work by Sir Philip Sidney written towards the end of the 16th century.  The source of the subplot in Shakespeare’s King Lear involving Gloucester, Edgar, and Edmund is a tale in the Arcadia with a blind Paphlagonian king and his two sons, Leonatus and Plexitrus.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10218430/James-joyce-ulysses-chap-9-scylla-and-charybdis/Sidneys-arcadia",
+    "original_id": "10218430",
+    "referent_id": 10218430,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Sidney's Arcadia",
+    "prefix": "t. Of all his kings Richard is the only king unshielded by Shakespeare's reverence, the angel of the world. Why is the underplot of King Lear in which Edmund figures lifted out of ",
+    "suffix": " and spatchcocked on to a Celtic legend older than history? \n\n — That was Will's way, John Eglinton defended. We should not now combine a Norse saga with an excerpt from a novel by",
+    "start": 57201,
+    "end": 57217,
+    "canonical_text": "Sidney's Arcadia"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10218430,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3585111,
+        "login": "JohnManley",
+        "name": "JohnManley",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

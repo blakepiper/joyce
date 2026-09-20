@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5157876",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Tripudium",
+  "html_source": "<p>Latin: ·a measured stamping, a leaping, jumping, dancing in religious solemnities; a solemn religious dance.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5157876/James-joyce-ulysses-chap-3-proteus/Tripudium",
+    "original_id": "5157876",
+    "referent_id": 5157876,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "tripudium",
+    "prefix": "brooded on his broadtoed boots, a buck's castoffs, nebeneinander. He counted the creases of rucked leather wherein another's foot had nested warm. The foot that beat the ground in ",
+    "suffix": ", foot I dislove. But you were delighted when Esther Osvalt's shoe went on you: girl I knew in Paris. Tiens, quel petit pied! Staunch friend, a brother soul: Wilde's love that dare",
+    "start": 29165,
+    "end": 29174,
+    "canonical_text": "tripudium"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5157876,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1618748,
+        "login": "Kataryna",
+        "name": "Kataryna",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

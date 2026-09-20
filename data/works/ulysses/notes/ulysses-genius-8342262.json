@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8342262",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Marie Kendall",
+  "html_source": "<p>An English music hall star of the time.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8342262/James-joyce-ulysses-chap-10-wandering-rocks/Marie-kendall",
+    "original_id": "8342262",
+    "referent_id": 8342262,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Marie Kendall",
+    "prefix": "orner and the slab where Wolfe Tone's statue was not, eeled themselves turning H. E. L. Y.'S and plodded back as they had come. \n\n1986#188\n\n Then she stared at the large poster of ",
+    "suffix": ", charming soubrette, and, listlessly lolling, scribbled on the jotter sixteens and capital esses. Mustard hair and dauby cheeks. She's not nicelooking, is she? The way she's holdi",
+    "start": 21547,
+    "end": 21560,
+    "canonical_text": "Marie Kendall"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9615
+  },
+  "genius": {
+    "referent_id": 8342262,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2568065,
+        "login": "GeoffBobker",
+        "name": "GeoffBobker",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

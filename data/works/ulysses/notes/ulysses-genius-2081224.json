@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2081224",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "_Per deam Partulam et Pertundam nunc est bibendum_!",
+  "html_source": "<p>This is Latin for “By the goddesses Partula (goddess of childbirth) and Pertunda (goddess presiding over loss of virginity) now it is time to drink!”  This also ends the section in the style of Carlyle, which began above with “Burke’s!”</p><p><img src=\"https://images.genius.com/127df8a3d75a43d6a218e4631a5c58ff.254x385x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2081224/James-joyce-ulysses-chap-14-oxen-of-the-sun/Per-deam-partulam-et-pertundam-nunc-est-bibendum",
+    "original_id": "2081224",
+    "referent_id": 2081224,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "_Per deam Partulam et Pertundam nunc est bibendum_!",
+    "prefix": "lk of Canaan's land. Thy cow's dug was tough, 1932#383what? Ay, but her milk is hot and sweet and fattening. No dollop this but thick rich bonnyclaber. To her, old patriarch! Pap! ",
+    "suffix": "! \n\n All off for a buster, armstrong, hollering down the street. Bonafides. Where you slep las nigh? Timothy of the battered naggin. Like ole Billyo. Any brollies or gumboots in th",
+    "start": 104535,
+    "end": 104583,
+    "canonical_text": "Per deam Partulam et Pertundam nunc est bibendum"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2081224,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

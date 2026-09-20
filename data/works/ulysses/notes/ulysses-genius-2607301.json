@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2607301",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Soft day, your honour!",
+  "html_source": "<p><a href=\"http://www.irishcentral.com/roots/Top-Irish-slang-you-cannot-live-without-125111154.html\" rel=\"noopener nofollow\">Soft day</a> is Irish slang, meaning ‘wet’ or ‘dreary’ day.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2607301/James-joyce-ulysses-chap-2-nestor/Soft-day-your-honour",
+    "original_id": "2607301",
+    "referent_id": 2607301,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "Soft day, your honour!",
+    "prefix": "to Dublin from the Ards of Down to do so. \n\n1939#25\n\nLal the ral the ra \nThe rocky road to Dublin. \n\n1922#31\n\n A gruff squire on horseback with shiny topboots. Soft day, sir John! ",
+    "suffix": "... Day!... Day!... Two topboots jog dangling on to Dublin. Lal the ral the ra. Lal the ral the raddy. \n\n1932#29\n\n — That reminds me, Mr Deasy said. You can do me a favour, 1961#31",
+    "start": 16072,
+    "end": 16094,
+    "canonical_text": "Soft day, your honour!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2607301,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 293151,
+        "login": "jeeho",
+        "name": "Jeeho",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8765445",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Moses Montefiore",
+  "html_source": "<p>Sir Moses Haim Montefiore, 1st Baronet, FRS (24 October 1784 – 28 July 1885) was a British financier and banker, activist, philanthropist and Sheriff of London. Born to an Italian Jewish family, he donated large sums of money to promote industry, business, economic development, education and health among the Jewish community in the Levant</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8765445/James-joyce-ulysses-chap-4-calypso/Moses-montefiore",
+    "original_id": "8765445",
+    "referent_id": 8765445,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Moses Montefiore",
+    "prefix": "meat there: like a stallfed heifer. \n\n He took a page up from the pile of cut sheets: the model farm at Kinnereth on the lakeshore of Tiberias. Can become ideal winter sanatorium. ",
+    "suffix": ". I thought he was. Farmhouse, wall round it, blurred cattle cropping. He held the page from him: interesting: read it nearer, the title, the blurred cropping cattle, the page rust",
+    "start": 10100,
+    "end": 10116,
+    "canonical_text": "Moses Montefiore"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8765445,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

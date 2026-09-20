@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21102137",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "What’s in a name?",
+  "html_source": "<p>Juliet asks this question in Romeo and Juliet, Act II, Scene 2.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21102137/James-joyce-ulysses-chap-9-scylla-and-charybdis/Whats-in-a-name",
+    "original_id": "21102137",
+    "referent_id": 21102137,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "What's in a name?",
+    "prefix": "m, as dear as the coat of arms he toadied for, on a bend sable a spear or steeled argent, honorificabilitudinitatibus, dearer than his glory of greatest shakescene in the country. ",
+    "suffix": " That is what we ask ourselves in childhood when we write the name that we are told is ours. A star, a daystar, a firedrake, rose at his birth. It shone by day in the heavens alone",
+    "start": 53467,
+    "end": 53484,
+    "canonical_text": "What's in a name?"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 21102137,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

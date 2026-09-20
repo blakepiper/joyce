@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-9685174",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Court of Conscience",
+  "html_source": "<p>Court Of Conscience is a concept developed by 17th-century European theology. The concept held that one’s conscience would testify for or against one’s actions in life after death.<br />Wikipedia</p><p>The court of <a href=\"https://www.gov.uk/courts-tribunals/chancery-division-of-the-high-court\" rel=\"noopener nofollow\">chancery</a> according to Gifford &amp; Seidmann, p479.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9685174/James-joyce-ulysses-chap-15-circe/Court-of-conscience",
+    "original_id": "9685174",
+    "referent_id": 9685174,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Court of Conscience",
+    "prefix": "pur Hanukah Roschaschana Beni Brith Bar Mitzvah Mazzoth Askenazim Meshuggah Talith. \n\n(An official translation is read by Jimmy Henry, assistant town clerk.) \n\n JIMMY HENRY \n\n The ",
+    "suffix": " is now open. His Most Catholic Majesty will now administer open air justice. Free medical and legal advice, solution of doubles and other problems. All cordially invited. Given at",
+    "start": 82019,
+    "end": 82038,
+    "canonical_text": "Court of Conscience"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9685174,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.763157894736842
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.2368421052631579
+      }
+    ]
+  },
+  "color": "F59627"
+}

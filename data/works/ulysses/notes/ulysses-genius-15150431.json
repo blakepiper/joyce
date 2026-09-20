@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15150431",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Behold the mansion reared by dedal Jack See the malt stored in many a refluent sack, In the proud cirque of Jackjohn’s bivouac.",
+  "html_source": "<p>These are the opening lines of “The Domicile that Jack Erected” (1857), a parody of “The House that Jack Built by George Shepard Burleigh (Gifford’s note)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15150431/James-joyce-ulysses-chap-14-oxen-of-the-sun/Behold-the-mansion-reared-by-dedal-jack-see-the-malt-stored-in-many-a-refluent-sack-in-the-proud-cirque-of-jackjohns-bivouac",
+    "original_id": "15150431",
+    "referent_id": 15150431,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Behold the mansion reared by dedal Jack See the malt stored in many a refluent sack, In the proud cirque of Jackjohn's bivouac.",
+    "prefix": "hem, lo, wisdom hath built herself a house, this vast majestic longstablished vault, the crystal palace of the Creator, all in applepie order, a penny for him who finds the pea. \n\n",
+    "suffix": " \n\n1939#284\n\n A black crack of noise in the street here, alack, bawled back. Loud on left Thor thundered: in anger awful the hammerhurler. Came now the storm that hist his heart. A",
+    "start": 28829,
+    "end": 28958,
+    "canonical_text": "Behold the mansion reared by dedal Jack \nSee the malt stored in many a refluent sack, \nIn the proud cirque of Jackjohn's bivouac."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 15150431,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

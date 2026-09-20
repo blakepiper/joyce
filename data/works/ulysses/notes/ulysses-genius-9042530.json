@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9042530",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Dodder",
+  "html_source": "<p>The River Dodder is one of the three main rivers in Dublin, Ireland, the others being the Liffey, of which the Dodder is the largest tributary, and the Tolka.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9042530/James-joyce-ulysses-chap-13-nausicaa/Dodder",
+    "original_id": "9042530",
+    "referent_id": 9042530,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Dodder",
+    "prefix": "From everything in the least indelicate her 1986#298finebred nature instinctively recoiled. She loathed that sort of person, the fallen women off the accommodation walk beside the ",
+    "suffix": " that went with the soldiers and coarse men with no respect for a girl's honour, degrading the sex and being taken up to the police station. No, 1939#263no: not that. They would be",
+    "start": 46644,
+    "end": 46650,
+    "canonical_text": "Dodder"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9042530,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

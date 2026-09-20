@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4663893",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "I should have said",
+  "html_source": "<p>The “he” is John Henry Menton. Bloom recalls meeting him at the cemetery and telling him he had <a href=\"https://genius.com/4663914\" rel=\"noopener nofollow\">a “dinge” in his hat.</a> Bloom can’t understand why Menton doesn’t like him and tries to think of what he “should have said” to smooth things out.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4663893/James-joyce-ulysses-chap-7-aeolus/I-should-have-said",
+    "original_id": "4663893",
+    "referent_id": 4663893,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "I should have said",
+    "prefix": "ouble ess ment of a harassed pedlar while gauging au the symmetry of a peeled pear under a cemetery wall. Silly, isn't it? Cemetery put in of course on account of the symmetry. \n\n ",
+    "suffix": " when he clapped on his topper. Thank you. I ought to have said something about an old hat or something. No. I could have said. Looks as good as new now. See his phiz then. \n\n Sllt",
+    "start": 9546,
+    "end": 9563,
+    "canonical_text": "I could have said"
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9143
+  },
+  "genius": {
+    "referent_id": 4663893,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

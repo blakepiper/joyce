@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21111426",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Que voulez-vous?",
+  "html_source": "<p>French: “What would you expect?”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21111426/James-joyce-ulysses-chap-9-scylla-and-charybdis/Que-voulez-vous",
+    "original_id": "21111426",
+    "referent_id": 21111426,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Que voulez-vous?",
+    "prefix": "on to a Celtic legend older than history? \n\n — That was Will's way, John Eglinton defended. We should not now combine a Norse saga with an excerpt from a novel by George Meredith. ",
+    "suffix": " Moore would say. He 1961#211puts Bohemia on the seacoast and makes Ulysses quote Aristotle. \n\n — Why? Stephen answered himself. Because the theme of the false or the usurping or t",
+    "start": 57415,
+    "end": 57431,
+    "canonical_text": "Que voulez-vous?"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21111426,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

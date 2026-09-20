@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4635077",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Old Tweedy",
+  "html_source": "<p>Molly (Bloom’s wife) was born in Gibraltar in 1870 to Major Tweedy and Lunita Laredo. Major Tweedy was an Irish military officer stationed on Gibraltar with the British army – he may or may not have been married to Lunita.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4635077/James-joyce-ulysses-chap-4-calypso/Old-tweedy",
+    "original_id": "4635077",
+    "referent_id": 4635077,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "old Tweedy",
+    "prefix": " any little Spanish she knew. Wonder what her father gave for it. Old style. Ah yes! of course. Bought it at the governor's auction. Got a short knock. Hard as nails at a bargain, ",
+    "suffix": ". Yes, sir. At Plevna that was. I rose from the ranks, sir, and I'm proud of it. Still he had brains enough to make that corner in stamps. Now that was farseeing. \n\n1922#54\n\n His h",
+    "start": 3827,
+    "end": 3837,
+    "canonical_text": "old Tweedy"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 4635077,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

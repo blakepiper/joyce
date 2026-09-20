@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-9101862",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Yes, I must.",
+  "html_source": "<p>Two Gentlemen of Verona ?</p><p>“Yes you must”</p><p>(comments hugely appreciated – flummoxed by this !)</p><p>PROPOSED SUGGESTION: Why is it flummoxing? Because it’s set apart in its own paragraph and suggests itself as important? If so, this might be an error: without being able to find examples from <em>every</em> textual edition of <em>Ulysses</em>, all the ones I can see have this phrase just appear at the end of the paragraph, following directly from ‘like a good young imbecile’. Does it have to be anything more than Stephen’s internal monologue trying to cement these things he’s trying to order of himself in his head? With perhaps the point that his inner voice moves from imperative 2nd person (‘go easy with that money …’) to 1st person? As though the internal monologue comprises more than one voice? (Hardly a revelatory idea, I suppose.)</p><p>What’s the suggested connection to <em>The Two Gentlemen of Verona</em>? The phrase ‘Yes you must’ seems to appear nowhere in the play (unless indeed you have a varied text; I don;t really know anything the textual history/variants to that play).</p><p>I would like to try to help! But I’m not really sure this phrase needs an annotation from what I’ve been able to gather about it.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9101862/James-joyce-ulysses-chap-3-proteus/Yes-i-must",
+    "original_id": "9101862",
+    "referent_id": 9101862,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Yes, I must.",
+    "prefix": "windbridled, the steeds of Mananaan. \n\n I mustn't forget his letter for the press. And after? The Ship, half twelve. By the way go easy with that money like a good young imbecile. ",
+    "suffix": " \n\n His pace slackened. Here. Am I going to aunt Sara's or not? My consubstantial father's voice. Did you see anything of your artist brother 1922#38Stephen lately? No? Sure he's n",
+    "start": 3833,
+    "end": 3845,
+    "canonical_text": "Yes, I must."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9101862,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.929245283018868
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.07075471698113207
+      }
+    ]
+  },
+  "color": "F59627"
+}

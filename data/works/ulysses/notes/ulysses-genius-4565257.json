@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4565257",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "It",
+  "html_source": "<p>The housekeeper in Gibraltar brings Molly a letter from Lieutenant Mulvey.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4565257/James-joyce-ulysses-chap-18-penelope/It",
+    "original_id": "4565257",
+    "referent_id": 4565257,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "it",
+    "prefix": "s for being a woman as soon as youre old they might as well throw you out in the bottom of the ash pit.\n\nMulveys was the first when I was in bed that morning and Mrs Rubio brought ",
+    "suffix": " in with the coffee she stood there standing when I asked her to hand me and I pointing at them I couldnt think of the word a hairpin to open it with ah horquilla disobliging old t",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "ambiguous",
+    "confidence": 0.36395511921458623
+  },
+  "genius": {
+    "referent_id": 4565257,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

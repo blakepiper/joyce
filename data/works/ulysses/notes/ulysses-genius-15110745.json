@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15110745",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Bézique",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Bezique\" rel=\"noopener nofollow\">A French two-player, trick-taking card game from the 1800s</a>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15110745/James-joyce-ulysses-chap-12-cyclops/Bezique",
+    "original_id": "15110745",
+    "referent_id": 15110745,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "bézique",
+    "prefix": " pisser Burke told me there was an old one there with a cracked loodheramaun 1939#222of a nephew and Bloom trying to get the soft side 1961#305of her doing the mollycoddle playing ",
+    "suffix": " to come in for a bit of the wampum in her will and not eating meat of a Friday because the old one was always thumping her craw and taking the lout out for a walk. And one time he",
+    "start": 31690,
+    "end": 31697,
+    "canonical_text": "bézique"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15110745,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

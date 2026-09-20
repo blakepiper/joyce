@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8763867",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Koch’s preparation",
+  "html_source": "<p>In 1896 Koch went to South Africa to study the origin of rinderpest and although he did not identify the cause of this disease, he succeeded in limiting the outbreak of it by injection into healthy farm-stock of bile taken from the gall bladders of infected animals.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8763867/James-joyce-ulysses-chap-2-nestor/Kochs-preparation",
+    "original_id": "8763867",
+    "referent_id": 8763867,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "Koch's preparation",
+    "prefix": "ho was no better than she should be. To come to the point at issue. \n\n — I don't mince words, do I? Mr Deasy asked as Stephen read on. \n\n1939#26\n\n Foot and mouth disease. Known as ",
+    "suffix": ". Serum and virus. Percentage of salted horses. Rinderpest. Emperor's horses at Murzsteg, lower Austria. Veterinary surgeons. Mr Henry Blackwood Price. Courteous offer a fair trial",
+    "start": 19073,
+    "end": 19091,
+    "canonical_text": "Koch's preparation"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8763867,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

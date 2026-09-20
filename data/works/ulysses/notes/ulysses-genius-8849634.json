@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8849634",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "George Meredith",
+  "html_source": "<p>George Meredith, (born Feb. 12, 1828, Portsmouth, Hampshire, Eng.—died May 18, 1909, Box Hill, Surrey), English Victorian poet and novelist, whose novels are noted for their wit, brilliant dialogue, and aphoristic quality of language.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8849634/James-joyce-ulysses-chap-9-scylla-and-charybdis/George-meredith",
+    "original_id": "8849634",
+    "referent_id": 8849634,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "George Meredith",
+    "prefix": "and spatchcocked on to a Celtic legend older than history? \n\n — That was Will's way, John Eglinton defended. We should not now combine a Norse saga with an excerpt from a novel by ",
+    "suffix": ". Que voulez-vous? Moore would say. He 1961#211puts Bohemia on the seacoast and makes Ulysses quote Aristotle. \n\n — Why? Stephen answered himself. Because the theme of the false or",
+    "start": 57398,
+    "end": 57413,
+    "canonical_text": "George Meredith"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8849634,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

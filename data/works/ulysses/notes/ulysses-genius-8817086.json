@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8817086",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Philip Crampton’s fountain",
+  "html_source": "<p>Crampton was Surgeon-General to the British Army. He was always interested in zoological science and played an active part in founding the Royal Zoological Society of Ireland and was many times its president. Situated at the junction of College St. with Pearse St. and D’Olier Streets. This bizarre memorial, which was made up of a stone base with three drinking fountains and what looks like the top of a pineapple, slowly rusted and fell apart. Removed in 1959.</p><p><img src=\"https://images.rapgenius.com/8ce4e18f0e3969fd578c4848df9a7a0c.370x363x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8817086/James-joyce-ulysses-chap-8-lestrygonians/Philip-cramptons-fountain",
+    "original_id": "8817086",
+    "referent_id": 8817086,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Philip Crampton's fountain",
+    "prefix": "ad, artisans' dwellings, north Dublin union, lord mayor in his gingerbread coach, old queen in a bathchair. My plate's empty. After you with our incorporated drinkingcup. Like sir ",
+    "suffix": ". Rub off the microbes with your handkerchief. Next chap rubs on a new batch with his. Father O'Flynn would make hares of them all. Have rows all the same. All for number one. Chil",
+    "start": 44560,
+    "end": 44586,
+    "canonical_text": "Philip Crampton's fountain"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8817086,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

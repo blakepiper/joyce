@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10566042",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Già",
+  "html_source": "<p>Impatient expression, Let’s Go!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10566042/James-joyce-ulysses-chap-3-proteus/Gia",
+    "original_id": "10566042",
+    "referent_id": 10566042,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Già",
+    "prefix": "me. All days make their end. By the way next when is it Tuesday will be the longest day. Of all the glad new year, mother, the rum tum tiddledy tum. Lawn Tennyson, gentleman poet. ",
+    "suffix": ". For the old hag with the yellow teeth. And Monsieur Drumont, gentleman journalist. Già. My teeth are very bad. Why, I wonder. Feel. That one is going too. Shells. Ought I go to 1",
+    "start": 32303,
+    "end": 32306,
+    "canonical_text": "Già"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 10566042,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

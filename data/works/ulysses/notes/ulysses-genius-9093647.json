@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9093647",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Scott of Dawson street",
+  "html_source": "<p>Fashionable and expensive tailor.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9093647/James-joyce-ulysses-chap-10-wandering-rocks/Scott-of-dawson-street",
+    "original_id": "9093647",
+    "referent_id": 9093647,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Scott of Dawson street",
+    "prefix": " Hello, Bob, old man, Mr Dedalus answered, stopping. \n\n Mr Kernan halted and preened himself before the sloping mirror of Peter Kennedy, hairdresser. Stylish coat, beyond a doubt. ",
+    "suffix": ". Well 1939#175worth the half sovereign I gave Neary for it. Never built under three guineas. Fits me down to the ground. Some Kildare street club toff had it probably. John Mullig",
+    "start": 42652,
+    "end": 42674,
+    "canonical_text": "Scott of Dawson street"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9093647,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083736,
+        "login": "JessicaVestuto",
+        "name": "JessicaVestuto",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

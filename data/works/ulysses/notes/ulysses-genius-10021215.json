@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10021215",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Hippogriff",
+  "html_source": "<p><img src=\"https://images.genius.com/8aafe1a43d7b82d2f85306622848e2de.640x428x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10021215/James-joyce-ulysses-chap-15-circe/Hippogriff",
+    "original_id": "10021215",
+    "referent_id": 10021215,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Hippogriff",
+    "prefix": "say. Correct me but I always understood that the act so performed by skittish humans with glimpses of lingerie appealed to you in virtue of its exhibitionististicicity. In a word. ",
+    "suffix": ". Am I right? \n\n BLOOM \n\n She is rather lean. \n\n1986#4171922#481\n\n VIRAG \n\n(Not unpleasantly.) Absolutely! Well observed and those pannier pockets of the skirt and slightly pegtop ",
+    "start": 116521,
+    "end": 116531,
+    "canonical_text": "Hippogriff"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10021215,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

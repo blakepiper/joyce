@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8687948",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Young student:",
+  "html_source": "<p>Alec Bannon, a young student who knows Milly.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8687948/James-joyce-ulysses-chap-4-calypso/Young-student",
+    "original_id": "8687948",
+    "referent_id": 8687948,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "young student:",
+    "prefix": "prinkled it through his fingers ringwise from the chipped eggcup. \n\n Then he slit open his letter, glancing down the page and over. Thanks: new tam: Mr Coghlan: lough Owel picnic: ",
+    "suffix": " Blazes Boylan's seaside girls. \n\n The tea was drawn. He filled his own moustachecup, sham crown Derby, smiling. Silly Milly's birthday gift. Only five she was then. No, wait: four",
+    "start": 17677,
+    "end": 17691,
+    "canonical_text": "young student:"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8687948,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

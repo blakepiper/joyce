@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23892451",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "And",
+  "html_source": "<p>Bloom spotted Lenehan and struck up a conversation as they were older than the others.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23892451/James-joyce-ulysses-chap-14-oxen-of-the-sun/And",
+    "original_id": "23892451",
+    "referent_id": 23892451,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "And",
+    "prefix": "pold heard on the upfloor cry on high and he wondered what cry that it was whether of child or woman and I marvel, said he, that it be not come or now. Meseems it dureth overlong. ",
+    "suffix": " he was ware and saw a franklin that hight Lenehan on that side the table 1961#387that was older than any of the tother and for that they both were knights virtuous in the one empr",
+    "start": 11999,
+    "end": 12002,
+    "canonical_text": "And"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9729
+  },
+  "genius": {
+    "referent_id": 23892451,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

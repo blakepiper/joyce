@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15174466",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Hed be so clean",
+  "html_source": "<p>The irony here is that, as stated in the previous chapter, Stephen hasn’t bathed since last October.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15174466/James-joyce-ulysses-chap-18-penelope/Hed-be-so-clean",
+    "original_id": "15174466",
+    "referent_id": 15174466,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "hed be so clean",
+    "prefix": "ou to suck it so clean and white he looks with his boyish face I would too in ½ a minute even if some of it went down what its only like gruel or the dew there's no danger besides ",
+    "suffix": " compared with those pigs of men I suppose never dream of washing it from 1 years end to the other the most of them only thats what gives the women the moustaches Im sure itll be g",
+    "start": 100813,
+    "end": 100828,
+    "canonical_text": "hed be so clean"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15174466,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

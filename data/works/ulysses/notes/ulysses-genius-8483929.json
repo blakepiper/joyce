@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8483929",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Tom Rochford",
+  "html_source": "<p>This is the beginning of Episode 9.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8483929/James-joyce-ulysses-chap-10-wandering-rocks/Tom-rochford",
+    "original_id": "8483929",
+    "referent_id": 8483929,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Tom Rochford",
+    "prefix": "31\n\n He held his handkerchief ready for the coming... \n\n — I was... Glasnevin this morning... poor little... what do you call him... Chow!... Mother of Moses! \n\n*\n*  *\n\n1986#190\n\n ",
+    "suffix": " took the top disk from the pile he clasped against his claret waistcoat. \n\n — See? he said. Say it's turn six. In here, see. Turn Now On. \n\n1922#222\n\n He slid it into the left slo",
+    "start": 26514,
+    "end": 26526,
+    "canonical_text": "Tom Rochford"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9224
+  },
+  "genius": {
+    "referent_id": 8483929,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

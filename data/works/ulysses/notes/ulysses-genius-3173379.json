@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-3173379",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Kevin Egan",
+  "html_source": "<p>Fenian friend of Stephen. Exiled in Paris.</p><p>PROPOSED SUGGESTION: Father of Patrice</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3173379/James-joyce-ulysses-chap-3-proteus/Kevin-egan",
+    "original_id": "3173379",
+    "referent_id": 3173379,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Kevin Egan",
+    "prefix": "eth chaussons of pastry, their mouths yellowed with the pus of flan breton. Faces of Paris men go by, their wellpleased pleasers, curled conquistadores. \n\n1922#42\n\n Noon slumbers. ",
+    "suffix": " rolls gunpowder cigarettes through fingers smeared with printer's ink, sipping his green fairy as Patrice his white. About us gobblers fork spiced beans down their gullets. Un dem",
+    "start": 13350,
+    "end": 13360,
+    "canonical_text": "Kevin Egan"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9652
+  },
+  "genius": {
+    "referent_id": 3173379,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.5294117647058824
+      },
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 0.4705882352941177
+      }
+    ]
+  },
+  "color": "F59627"
+}

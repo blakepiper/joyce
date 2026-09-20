@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-32658593",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Is",
+  "html_source": "<p>That person isn’t thought to be so hot on how a nation manages the tribute to nature’s incorruptible benefaction!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/32658593/James-joyce-ulysses-chap-14-oxen-of-the-sun/Is",
+    "original_id": "32658593",
+    "referent_id": 32658593,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "is",
+    "prefix": "ruit. Send us bright one, light one, Horhorn, quickening and wombfruit. \n\n Hoopsa boyaboy hoopsa! Hoopsa boyaboy hoopsa! Hoopsa boyaboy hoopsa! \n\n Universally that person's acumen ",
+    "suffix": " esteemed very little perceptive concerning whatsoever matters are being held as most profitably by mortals with sapience endowed to be studied who is ignorant of that which the mo",
+    "start": 382,
+    "end": 384,
+    "canonical_text": "is"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 32658593,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

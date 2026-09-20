@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4002919",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Father hawked those things about",
+  "html_source": "<p>Religious objects.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4002919/James-joyce-ulysses-chap-11-sirens/Father-hawked-those-things-about",
+    "original_id": "4002919",
+    "referent_id": 4002919,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "father hawked those things about",
+    "prefix": "You horrid thing! \n\n And flushed yet more (you horrid!), more goldenly. \n\n1939#190\n\n By Cantwell's offices roved Greaseabloom, by Ceppi's virgins, bright of their oils. Nannetti's ",
+    "suffix": ", wheedling at doors as I. Religion pays. Must see him about Keyes's par. Eat first. I want. Not yet. At four, she said. Time ever passing. Clockhands turning. On. Where eat? The C",
+    "start": 9061,
+    "end": 9093,
+    "canonical_text": "father hawked those things about"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4002919,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

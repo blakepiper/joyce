@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10892135",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Maud Branscombe",
+  "html_source": "<p><a href=\"http://www.19thcenturyphotos.com/Maud-Branscombe-125753.htm\" rel=\"noopener nofollow\">http://www.19thcenturyphotos.com/Maud-Branscombe-125753.htm</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10892135/James-joyce-ulysses-chap-17-ithaca/Maud-branscombe",
+    "original_id": "10892135",
+    "referent_id": 10892135,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Maud Branscombe",
+    "prefix": " large globular head with 5 hairs erect, 2 eyes in profile, the trunk full front with 3 large buttons, 1 triangular foot: 2 fading photographs of queen Alexandra of England and of ",
+    "suffix": ", actress and professional beauty: a Yuletide card, bearing on it a pictorial representation of a parasitic plant, the legend Mizpah, the date Xmas 1892, the name of the senders: f",
+    "start": 112801,
+    "end": 112816,
+    "canonical_text": "Maud Branscombe"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10892135,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

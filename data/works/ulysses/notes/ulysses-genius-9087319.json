@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9087319",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "The onelegged sailor growled at the area of 14 Nelson street:",
+  "html_source": "<p>This “onelegged sailor” appears in Section 3: “A onelegged sailor crutched himself round MacConnell’s corner, skirting Rabaiotti’s icecream car, and jerked himself up Eccles street,” (228-29).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9087319/James-joyce-ulysses-chap-10-wandering-rocks/The-onelegged-sailor-growled-at-the-area-of-14-nelson-street",
+    "original_id": "9087319",
+    "referent_id": 9087319,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "The onelegged sailor growled at the area of 14 Nelson street:",
+    "prefix": "sed Dedalus on Hamlet. \n\n Haines opened his newbought book. \n\n1922#238\n\n — I'm sorry, he said. Shakespeare is the happy huntingground of all minds that have lost their balance. \n\n ",
+    "suffix": " \n\n — England expects... \n\n1932#223\n\n Buck Mulligan's primrose waistcoat shook gaily to his laughter. \n\n1961#248\n\n — You should see him, he said, when his body loses its balance. W",
+    "start": 60908,
+    "end": 60969,
+    "canonical_text": "The onelegged sailor growled at the area of 14 Nelson street:"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9087319,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083730,
+        "login": "mburkert",
+        "name": "mburkert",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

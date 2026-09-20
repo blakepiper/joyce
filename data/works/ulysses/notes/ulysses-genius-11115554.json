@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11115554",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Gentlewoman",
+  "html_source": "<p><img src=\"https://images.genius.com/3c760200f94b5549915d5e6af92fca67.215x300x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11115554/James-joyce-ulysses-chap-18-penelope/Gentlewoman",
+    "original_id": "11115554",
+    "referent_id": 11115554,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Gentlewoman",
+    "prefix": " that one change them only not to upset myself and run the risk of walking into him and ruining the whole thing and one of those kidfitting corsets Id want advertised cheap in the ",
+    "suffix": " with elastic gores on the hips he saved the one I have but thats no good what did they say they give a delightful figure line 11/6 obviating that unsightly broad appearance across",
+    "start": 33329,
+    "end": 33340,
+    "canonical_text": "Gentlewoman"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11115554,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

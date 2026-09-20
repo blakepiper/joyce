@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9087193",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Father Conmee, having read his little hours, walked through the hamlet of Donnycarney, murmuring vespers",
+  "html_source": "<p>Father Conmee appears three times in previous sections. First at the start of Section 1, “The superior, the very reverend John Conmee S. J. reset his smooth watch in his interior pocket as he came down the presbytery steps,”(1-2). From Section 2:“Father John Conmee stepped into the Dollymount tram on Newcomen bridge,” (213-14). And Section 4: “Father Conmee walked through Clongowes fields, his thinsocked ankles tickled by stubble,” (264-65).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9087193/James-joyce-ulysses-chap-10-wandering-rocks/Father-conmee-having-read-his-little-hours-walked-through-the-hamlet-of-donnycarney-murmuring-vespers",
+    "original_id": "9087193",
+    "referent_id": 9087193,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Father Conmee, having read his little hours, walked through the hamlet of Donnycarney, murmuring vespers",
+    "prefix": ". Life and Miracles of the Curé of Ars. Pocket Guide to Killarney. \n\n I might find here one of my pawned schoolprizes. Stephano Dedalo, alumno optimo, palmam ferenti. \n\n1922#232\n\n ",
+    "suffix": ". \n\n Binding too good probably. What is this? Eighth and ninth book of Moses. Secret of all secrets. Seal of King David. Thumbed pages: read and read. Who has passed here before me",
+    "start": 48644,
+    "end": 48748,
+    "canonical_text": "Father Conmee, having read his little hours, walked through the hamlet of Donnycarney, murmuring vespers"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9087193,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083730,
+        "login": "mburkert",
+        "name": "mburkert",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

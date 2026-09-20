@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795154",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Stole",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/99f9266a6bd35a785c3197fe12ad450c.664x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795154/James-joyce-ulysses-chap-6-hades/Stole",
+    "original_id": "8795154",
+    "referent_id": 8795154,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "stole",
+    "prefix": "knee and, holding its brim, bent over piously. \n\n A server bearing a brass bucket with something in it came out through a door. The whitesmocked priest came after him, tidying his ",
+    "suffix": " with one hand, balancing with the other a little book against his toad's belly. Who'll read the book? I, said the rook. \n\n They halted by the bier and the priest began to read out",
+    "start": 35076,
+    "end": 35081,
+    "canonical_text": "stole"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8795154,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

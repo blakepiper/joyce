@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13786631",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Bedesman",
+  "html_source": "<p>archaic: one who prays for another</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13786631/James-joyce-ulysses-chap-14-oxen-of-the-sun/Bedesman",
+    "original_id": "13786631",
+    "referent_id": 13786631,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "bedesman",
+    "prefix": "at at the least way mirth might not lack. Then young Madden showed all the whole affair and when he said how that she was dead and how for holy religion sake by rede of palmer and ",
+    "suffix": " and for a vow he had made to Saint Ultan of Arbraccan her goodman husband would not let her death whereby they were all wondrous grieved. To whom young Stephen 1922#371had these w",
+    "start": 15545,
+    "end": 15553,
+    "canonical_text": "bedesman"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13786631,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

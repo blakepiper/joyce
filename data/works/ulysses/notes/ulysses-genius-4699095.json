@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4699095",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Tower",
+  "html_source": "<p>Referring to the now-famous Martello tower in Sandycove, a seaside resort in Dublin, where Joyce himself lived for a time as a young man. Indeed, his stay at the tower inspired the beginning chapters of <em>Ulysses</em>.</p><p>The actual tower is now home to a museum dedicated to the history of James Joyce, and houses a number of artifacts and pieces of memorabilia relating to the author’s work.</p><p><img src=\"https://images.rapgenius.com/665dff962d204fdabaa5a0fcb08f07f9.353x236x1.jpg\" alt=\"\" /></p><p><em>The tower overlooking Sandycove</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4699095/James-joyce-ulysses-chap-1-telemachus/Tower",
+    "original_id": "4699095",
+    "referent_id": 4699095,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "tower",
+    "prefix": " and called up coarsely: \n\n — Come up, Kinch! Come up, you fearful jesuit. \n\n Solemnly he came forward and mounted the round gunrest. He faced about and blessed gravely thrice the ",
+    "suffix": ", the surrounding country and the awaking mountains. Then, catching sight of Stephen Dedalus, he bent towards him and made rapid crosses in the air, gurgling in his throat and shak",
+    "start": 521,
+    "end": 526,
+    "canonical_text": "tower"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9712
+  },
+  "genius": {
+    "referent_id": 4699095,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1434474,
+        "login": "BartholomewJamesHeeren",
+        "name": "BartholomewJamesHeeren",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

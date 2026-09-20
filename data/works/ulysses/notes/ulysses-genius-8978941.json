@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8978941",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Varlet",
+  "html_source": "<p>noun<br />historical<br />a man or boy acting as an attendant or servant</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8978941/James-joyce-ulysses-chap-12-cyclops/Varlet",
+    "original_id": "8978941",
+    "referent_id": 8978941,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "varlet",
+    "prefix": " and he drawing his pay or Crawford gallivanting around the country at the king's expense. \n\n Our travellers reached the rustic hostelry and alighted from their palfreys. \n\n — Ho, ",
+    "suffix": "! cried he, who by his mien seemed the leader of the party. Saucy knave! To us! \n\n So saying he knocked loudly with his swordhilt upon the open lattice. \n\n1986#275\n\n Mine host came",
+    "start": 102151,
+    "end": 102157,
+    "canonical_text": "varlet"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8978941,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

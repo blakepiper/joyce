@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9171487",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Scorbutic",
+  "html_source": "<p>relating to or affected with scurvy</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9171487/James-joyce-ulysses-chap-14-oxen-of-the-sun/Scorbutic",
+    "original_id": "9171487",
+    "referent_id": 9171487,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "scorbutic",
+    "prefix": " alleges, and the revolting spectacles offered by our streets, hideous publicity posters, 1986#341religious ministers of all denominations, mutilated soldiers and sailors, exposed ",
+    "suffix": " cardrivers, the suspended carcases of dead animals, paranoic bachelors and unfructified duennas— these, he said, were accountable for any and every fallingoff in the calibre of th",
+    "start": 90489,
+    "end": 90498,
+    "canonical_text": "scorbutic"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9171487,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

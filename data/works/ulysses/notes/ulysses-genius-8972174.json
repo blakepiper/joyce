@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8972174",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Maynooth",
+  "html_source": "<p>The National University of Ireland, Maynooth, commonly known as Maynooth University, is a constituent university of the National University of Ireland.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8972174/James-joyce-ulysses-chap-12-cyclops/Maynooth",
+    "original_id": "8972174",
+    "referent_id": 8972174,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Maynooth",
+    "prefix": "oody sight more pox than pax about that boyo. Edward Guelph-Wettin! \n\n — And what do you think, says Joe, of the holy boys, the priests and bishops of Ireland doing up his room in ",
+    "suffix": " in His Satanic Majesty's racing colours and sticking up 1961#330pictures of all the horses his jockeys rode. The earl of Dublin, no less. \n\n — They ought to have stuck up all the ",
+    "start": 90103,
+    "end": 90111,
+    "canonical_text": "Maynooth"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9652
+  },
+  "genius": {
+    "referent_id": 8972174,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

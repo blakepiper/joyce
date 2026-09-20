@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-14135951",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Dessous troublants.",
+  "html_source": "<p>dessous troublanr – French:<br />“disordered underclothes.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/14135951/James-joyce-ulysses-chap-15-circe/Dessous-troublants",
+    "original_id": "14135951",
+    "referent_id": 14135951,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "dessous troublants.",
+    "prefix": "f religion's things mockery seen in universal world. All chic womans which arrive full of modesty then disrobe and squeal loud to see vampire man debauch nun very fresh young with ",
+    "suffix": " (He clacks his tongue loudly.)Ho, la la! Ce pif qu'il a! \n\n LYNCH \n\nVive le vampire! \n\n1922#530\n\n THE WHORES \n\n Bravo! Parleyvoo! \n\n1932#492\n\n STEPHEN \n\n(Grimacing with head back,",
+    "start": 191318,
+    "end": 191337,
+    "canonical_text": "dessous troublants."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 14135951,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

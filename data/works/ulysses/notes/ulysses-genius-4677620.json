@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4677620",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "L.s.d",
+  "html_source": "<p>Money.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4677620/James-joyce-ulysses-chap-8-lestrygonians/Lsd",
+    "original_id": "4677620",
+    "referent_id": 4677620,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "l.s.d",
+    "prefix": "One meal and a collation for fear he'd collapse on the altar. A housekeeper of one of those fellows if you could pick it out of her. 1939#111Never pick it out of her. Like getting ",
+    "suffix": ". out of him. Does himself well. No guests. All for number one. Watching his water. Bring your own bread and butter. His reverence mum's the word. \n\n Good Lord, that poor child's d",
+    "start": 2392,
+    "end": 2397,
+    "canonical_text": "L.s.d"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4677620,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

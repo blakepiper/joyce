@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8421418",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Parceque M. Léo Taxil nous a dit que qui l’avait mise dans cette fichue position c’était le sacre pigeon, ventre de Dieu!",
+  "html_source": "<p>parce que M. Leo Taxil nous a dit que qui l'avait mise dans cette fichue position c'était le sacré pigeon, ventre de Dieu!<br />(French) Because Monsieur Léo Taxil has told us that it was the sacred pigeon who had placed her in this wretched position, by Christ! The final three words, which literally translate as belly of God!, are a coarse French oath.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8421418/James-joyce-ulysses-chap-14-oxen-of-the-sun/Parceque-m-leo-taxil-nous-a-dit-que-qui-lavait-mise-dans-cette-fichue-position-cetait-le-sacre-pigeon-ventre-de-dieu",
+    "original_id": "8421418",
+    "referent_id": 8421418,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "parceque M. Léo Taxil nous a dit que qui l'avait mise dans cette fichue position c'était le sacre pigeon, ventre de Dieu!",
+    "prefix": "e in the one denial or ignorancy with Peter Piscator who lives in the house 1986#320that Jack built and with Joseph the joiner patron of the happy demise of all unhappy marriages, ",
+    "suffix": " Entweder transubstantiality oder consubstantiality but in no case subsubstantiality. And all cried out upon it for a very scurvy word. A pregnancy without joy, 1961#391he said, a ",
+    "start": 21855,
+    "end": 21976,
+    "canonical_text": "parceque M. Léo Taxil nous a dit que qui l'avait mise dans cette fichue position c'était le sacré pigeon, ventre de Dieu!"
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9917
+  },
+  "genius": {
+    "referent_id": 8421418,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

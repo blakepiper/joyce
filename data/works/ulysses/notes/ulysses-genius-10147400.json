@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10147400",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Seymour Bushe",
+  "html_source": "<p>Seymour Bushe (1853-1922), a leading barrister whose career in Ireland was effectively destroyed by his role as co-respondent in a much publicised adultery case<br /><a href=\"https://en.wikipedia.org/wiki/Charles_Kendal_Bushe\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Charles_Kendal_Bushe</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10147400/James-joyce-ulysses-chap-15-circe/Seymour-bushe",
+    "original_id": "10147400",
+    "referent_id": 10147400,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Seymour Bushe",
+    "prefix": ") Excuse me. I am suffering from a severe chill, have recently come from a sickbed. A few wellchosen words. (He assumes the avine head, foxy moustache and proboscidal eloquence of ",
+    "suffix": ".) When the angel's book comes to be opened if aught that the pensive bosom has inaugurated of soultransfigured and of soultransfiguring deserves to live I say accord the prisoner ",
+    "start": 50247,
+    "end": 50260,
+    "canonical_text": "Seymour Bushe"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10147400,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

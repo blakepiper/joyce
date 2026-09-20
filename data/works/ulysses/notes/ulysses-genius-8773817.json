@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8773817",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Mozart’s twelfth mass",
+  "html_source": "<p>Mozart’s Twelfth Mass, once a top seller among the liturgical compositions published by Vincent Novello in the 19th century, is a work no longer attributed to Wolfgang Amadeus Mozart. Köchel rejected the attribution to Mozart in the Anhang (appendix) of the first edition of his catalogue of Mozart’s works, there listed as K. Anh. 232,[2] and in later editions as K. Anh. C1.04.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8773817/James-joyce-ulysses-chap-5-lotus-eaters/Mozarts-twelfth-mass",
+    "original_id": "8773817",
+    "referent_id": 8773817,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Mozart's twelfth mass",
+    "prefix": "corner. I could feel the thrill in the air, the full, the people looking up: \n\n1932#72\n\n Quis est homo. \n\n Some of that old sacred music is splendid. Mercadante: seven last words. ",
+    "suffix": ": the Gloria in that. Those old popes were keen on music, on art and statues and pictures of all kinds. Palestrina for example too. They had a gay old time while it lasted. Healthy",
+    "start": 25594,
+    "end": 25615,
+    "canonical_text": "Mozart's twelfth mass"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8773817,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

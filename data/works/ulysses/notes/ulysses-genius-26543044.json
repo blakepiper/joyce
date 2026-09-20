@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-26543044",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Bless us, O Lord, and these thy gifts.",
+  "html_source": "<p>The beginning of the traditional <a href=\"https://en.wikipedia.org/wiki/Grace_%28prayer\" rel=\"noopener nofollow\">Catholic form of grace</a>, a prayer said before meals: “Bless us, O Lord, and these Thy gifts, which we are about to receive from Thy bounty, through Christ our Lord.<br />Amen.” Since the whole prayer is only about a sentence long, Mulligan cutting it off in the middle indicates he’s not taking it very seriously.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/26543044/James-joyce-ulysses-chap-1-telemachus/Bless-us-o-lord-and-these-thy-gifts",
+    "original_id": "26543044",
+    "referent_id": 26543044,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Bless us, O Lord, and these thy gifts.",
+    "prefix": "ef. \n\n — I'm melting, he said, as the candle remarked when... But, hush! Not a word more on that subject! Kinch, wake up! Bread, butter, honey. Haines, come in. The grub is ready. ",
+    "suffix": " Where's the sugar? O, jay, there's no milk. \n\n Stephen fetched the loaf and the pot of honey and the buttercooler 1932#11from the locker. Buck Mulligan sat down in a sudden pet. \n",
+    "start": 19253,
+    "end": 19291,
+    "canonical_text": "Bless us, O Lord, and these thy gifts."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 26543044,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 8067236,
+        "login": "AndyVineborg",
+        "name": "AndyVineborg",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

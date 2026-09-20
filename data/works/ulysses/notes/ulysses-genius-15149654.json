@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15149654",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Pardy",
+  "html_source": "<p>An old interjection meaning “by God!”</p><p>Etymology (wiktionary):<br />From Anglo-Norman pardi, pardeu, Old French pardeu, from par (“by”) + Deu (“God”)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15149654/James-joyce-ulysses-chap-14-oxen-of-the-sun/Pardy",
+    "original_id": "15149654",
+    "referent_id": 15149654,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "pardy",
+    "prefix": " of so seldom seen an accident it was good for that mother Church belike at one blow had birth and death pence and in such sort deliverly he scaped their questions. That is truth, ",
+    "suffix": ", said Dixon, and, or I err, a pregnant word. 1986#319Which hearing young Stephen was a marvellous glad man and he averred that he who stealeth from the poor lendeth 1922#372to the",
+    "start": 18425,
+    "end": 18430,
+    "canonical_text": "pardy"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15149654,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

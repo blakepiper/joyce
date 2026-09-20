@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21139783",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Laud we the gods\n And let our crooked smokes climb to their nostrils\n From our bless’d altars.",
+  "html_source": "<p>From the closing lines of Cymbeline, spoken by the title character.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21139783/James-joyce-ulysses-chap-9-scylla-and-charybdis/Laud-we-the-gods-and-let-our-crooked-smokes-climb-to-their-nostrils-from-our-blessd-altars",
+    "original_id": "21139783",
+    "referent_id": 21139783,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Laud we the gods\n And let our crooked smokes climb to their nostrils\n From our bless'd altars.",
+    "prefix": "in a flaw of softness softly were blown. \n\n Cease to strive. Peace of the druid priests of Cymbeline, hierophantic: from wide earth an altar. \n\n                                    ",
+    "suffix": " \n\n\n\n1922#2091932#1961939#1601961#2181986#179\n\n\n\n\n\n",
+    "start": 69627,
+    "end": 69721,
+    "canonical_text": "Laud we the gods \nAnd let our crooked smokes climb to their nostrils \nFrom our bless'd altars."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 21139783,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

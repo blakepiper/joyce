@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8772895",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Cunnythumb",
+  "html_source": "Definition of cunny–thumb  marbles   with the thumb bent in behind the second finger of the closed hand",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8772895/James-joyce-ulysses-chap-5-lotus-eaters/Cunnythumb",
+    "original_id": "8772895",
+    "referent_id": 8772895,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "cunnythumb",
+    "prefix": ". With careful tread he passed over a hopscotch court with its forgotten pickeystone. Not a sinner. Near the timberyard a squatted child at marbles, alone, shooting the taw with a ",
+    "suffix": ". A wise tabby, a blinking sphinx, watched from her warm sill. Pity to disturb them. Mohammed cut a piece out of his mantle not to wake her. Open it. And once I played marbles when",
+    "start": 14308,
+    "end": 14318,
+    "canonical_text": "cunnythumb"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8772895,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

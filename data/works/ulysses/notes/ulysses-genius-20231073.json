@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-20231073",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Old Woman of Prince’s street",
+  "html_source": "<p>A nickname of <em>The Freeman’s Journal.</em>  It’s also referenced by this same nickname in Chapter 12, Cyclops.</p><p><img src=\"https://images.genius.com/b47d74355bfa14efc559319a684da802.266x222x1.png\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20231073/James-joyce-ulysses-chap-7-aeolus/Old-woman-of-princes-street",
+    "original_id": "20231073",
+    "referent_id": 20231073,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Old Woman of Prince's street",
+    "prefix": "put the breath of life in, and myself. \n\n Lenehan bowed to a shape of air, announcing: \n\n — Madam, I'm Adam. And Able was I ere I saw Elba. \n\n — History! Myles Crawford cried. The ",
+    "suffix": " was there first. There was weeping and gnashing of teeth over that. Out of an advertisement. Gregor Grey made the design for it. That gave him the leg up. Then Paddy Hooper worked",
+    "start": 37400,
+    "end": 37428,
+    "canonical_text": "Old Woman of Prince's street"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20231073,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 0.8723404255319148
+      },
+      {
+        "id": 11041825,
+        "login": "raggedclaws",
+        "name": "raggedclaws",
+        "role": "contributor",
+        "attribution": 0.1276595744680851
+      }
+    ]
+  },
+  "color": "F59627"
+}

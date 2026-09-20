@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8759948",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "My twelfth rib is gone",
+  "html_source": "<p>The story of “Adam’s rib” is found in Genesis. Genesis 2:18–24 tells the well-known account of how God created the first woman, Eve, by removing a “rib” from Adam’s body and fashioning it into the woman. The creation account clearly indicates that God used Adam’s rib to create Eve instead of making her from the dust of the ground as He had done for Adam.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8759948/James-joyce-ulysses-chap-1-telemachus/My-twelfth-rib-is-gone",
+    "original_id": "8759948",
+    "referent_id": 8759948,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "My twelfth rib is gone",
+    "prefix": "o himself as he drew off his trousers and stood up, saying tritely: \n\n — Redheaded women buck like goats. \n\n He broke off in alarm, feeling his side under his flapping shirt. \n\n — ",
+    "suffix": ", he cried. I'm the Uebermensch. Toothless Kinch and I, the supermen. \n\n He struggled out of his shirt and flung it behind him to where his clothes lay. \n\n — Are you going in here,",
+    "start": 40140,
+    "end": 40162,
+    "canonical_text": "My twelfth rib is gone"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8759948,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

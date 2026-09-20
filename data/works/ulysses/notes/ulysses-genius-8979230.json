@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8979230",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Virag",
+  "html_source": "<p>In Hungarian the meaning of the name Virag is Flower.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8979230/James-joyce-ulysses-chap-12-cyclops/Virag",
+    "original_id": "8979230",
+    "referent_id": 8979230,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Virag",
+    "prefix": "he Hungarian system. We know that in the castle. \n\n1939#244\n\n — Isn't he a cousin of Bloom the dentist? says Jack Power. \n\n — Not at all, says Martin. Only namesakes. His name was ",
+    "suffix": ", the father's name that poisoned himself. He changed it by deedpoll, the father did. \n\n1986#276\n\n — That's the new Messiah for Ireland! says the citizen. Island of saints and sage",
+    "start": 104762,
+    "end": 104767,
+    "canonical_text": "Virag"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9099
+  },
+  "genius": {
+    "referent_id": 8979230,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9684992",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Clap clap hands",
+  "html_source": "<p><a href=\"https://www.youtube.com/watch?v=8sYHJdTe1PI\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=8sYHJdTe1PI</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9684992/James-joyce-ulysses-chap-15-circe/Clap-clap-hands",
+    "original_id": "9684992",
+    "referent_id": 9684992,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Clap clap hands",
+    "prefix": "939#345great acclamation. A magnesium flashlight photograph is taken. Babes and sucklings are held up.) \n\n THE WOMEN \n\n Little father! Little father! \n\n THE BABES AND SUCKLINGS \n\n ",
+    "suffix": " till Poldy comes home, \nCakes in his pocket for Leo alone. \n\n(Bloom, bending down, pokes Baby Boardman gently in the stomach.) \n\n BABY BOARDMAN \n\n(Hiccups, curdled milk flowing fr",
+    "start": 80129,
+    "end": 80144,
+    "canonical_text": "Clap clap hands"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9684992,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

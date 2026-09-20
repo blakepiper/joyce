@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8773232",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Bungholes",
+  "html_source": "<p>bung·hole  (bŭng′hōl′)<br />n.<br />1. The hole in a cask, keg, or barrel through which liquid is poured in or drained out.<br />2. Vulgar Slang The anus.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8773232/James-joyce-ulysses-chap-5-lotus-eaters/Bungholes",
+    "original_id": "8773232",
+    "referent_id": 8773232,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "bungholes",
+    "prefix": "out a million barrels all the same. \n\n An incoming train clanked heavily above his head, coach after coach. Barrels bumped in his head: dull porter slopped and churned inside. The ",
+    "suffix": " sprang open and a huge dull flood leaked out, flowing together, winding through mudflats all over the level land, a lazy pooling swirl of liquor bearing along wideleaved flowers o",
+    "start": 19364,
+    "end": 19373,
+    "canonical_text": "bungholes"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8773232,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9575449",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Leopardstown",
+  "html_source": "<p>another Irish racecourse<br /><a href=\"http://www.leopardstown.com/\" rel=\"noopener nofollow\">http://www.leopardstown.com</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9575449/James-joyce-ulysses-chap-15-circe/Leopardstown",
+    "original_id": "9575449",
+    "referent_id": 9575449,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Leopardstown",
+    "prefix": "er Milly, Marionette we called her, was weaned when we all went together to Fairyhouse races, was it? \n\n MRS BREEN \n\n(In smart Saxe tailormade, white velours hat and spider veil.) ",
+    "suffix": ". \n\n BLOOM \n\n I mean, Leopardstown. And Molly won seven shillings on a three year old named Nevertell and coming home along by Foxrock in that old fiveseater shanderadan of a waggo",
+    "start": 26025,
+    "end": 26037,
+    "canonical_text": "Leopardstown"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 9575449,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

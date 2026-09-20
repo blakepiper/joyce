@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8494467",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Cashel Boyle O’Connor Fitzmaurice Tisdall Farrell",
+  "html_source": "<p>An insertion from nearly an hour earlier in the library in <em>Lestrygonians</em>. Bloom and his momentary companion, Mrs Josie Breen, find a bit of humor at Ferrell’s way of walking outside the lampposts, even when the sidewalks are not crowded.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8494467/James-joyce-ulysses-chap-10-wandering-rocks/Cashel-boyle-oconnor-fitzmaurice-tisdall-farrell",
+    "original_id": "8494467",
+    "referent_id": 8494467,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Cashel Boyle O'Connor Fitzmaurice Tisdall Farrell",
+    "prefix": " \n\n1922#234\n\n — Bad luck to the jewman that made them, Ben Dollard said. Thanks be to God he's not paid yet. \n\n — And how is that basso profondo, Benjamin? Father Cowley asked. \n\n ",
+    "suffix": ", murmuring, glassyeyed, strode past the Kildare street club. \n\n1961#244\n\n Ben Dollard frowned and, making suddenly a chanter's mouth, gave forth a deep note. \n\n — Aw! he said. \n\n ",
+    "start": 52881,
+    "end": 52930,
+    "canonical_text": "Cashel Boyle O'Connor Fitzmaurice Tisdall Farrell"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9505
+  },
+  "genius": {
+    "referent_id": 8494467,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

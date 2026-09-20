@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15157384",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Sgenl inn ban bata",
+  "html_source": "<p>Roughly Gaelic for “a story with no basis” (should be sgeul imbarr bata)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15157384/James-joyce-ulysses-chap-15-circe/Sgenl-inn-ban-bata",
+    "original_id": "15157384",
+    "referent_id": 15157384,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "sgenl inn ban bata",
+    "prefix": " am guiltless as the unsunned snow! It was my brother Henry. He is my double. He lives in number 2 Dolphin's Barn. Slander, the viper, has wrongfully accused me. Fellowcountrymen, ",
+    "suffix": " coisde gan capall. 1961#492I call on my old friend, Dr Malachi Mulligan, sex specialist, to give medical testimony on my behalf. \n\n DR MULLIGAN \n\n(In motor jerkin, green motorgogg",
+    "start": 88161,
+    "end": 88179,
+    "canonical_text": "sgenl inn ban bata"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15157384,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

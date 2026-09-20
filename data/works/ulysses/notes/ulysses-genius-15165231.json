@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15165231",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Howknot",
+  "html_source": "<p>This should read “bowknot”: a double-looped knot in a ribbon, tie, or other fastening.</p><p><img src=\"https://images.genius.com/0692a78cc809a39ea317c2fc34a45dc7.1000x677x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15165231/James-joyce-ulysses-chap-15-circe/Howknot",
+    "original_id": "15165231",
+    "referent_id": 15165231,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "howknot",
+    "prefix": "yes and goes on reading, kissing, smiling. He has a delicate mauveface. On his suit he has diamond and ruby buttons. In his free left hand he holds a slim ivory cane with a violet ",
+    "suffix": ". A white lambkin peeps out of his waistcoat pocket.)\n\n",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.0
+  },
+  "genius": {
+    "referent_id": 15165231,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10551019",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Malachi wore the collar of gold",
+  "html_source": "<p>‘Let Erin Remember the Days of Old’ (1808), by the Irish Catholic songwiter Thomas Moore:</p><p>Let Erin remember the days of old<br />Ere her faithless sons betrayed her;<br />When Malachi wore the collar of gold<br />Which he won from the proud invader;<br />When her kings, with standard of green unfurled,<br />Led the Red Branch Knights to danger<br />Ere the emerald gem of the western world<br />Was set in the crown of a stranger.</p><p>Malachi was High King of Ireland at the end of the 10th century who fought for many years trying to expel the Norsemen from Dublin.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10551019/James-joyce-ulysses-chap-3-proteus/Malachi-wore-the-collar-of-gold",
+    "original_id": "10551019",
+    "referent_id": 10551019,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Malachi wore the collar of gold",
+    "prefix": "e Lochlanns ran here to beach, in quest of prey, their bloodbeaked prows riding low on a molten pewter surf. Dane vikings, torcs 1986#37of tomahawks aglitter on their breasts when ",
+    "suffix": ". A school of turlehide whales stranded in hot noon, spouting, hobbling in the shallows. Then from the starving cagework city a horde of jerkined dwarfs, my people, with flayers' k",
+    "start": 19278,
+    "end": 19309,
+    "canonical_text": "Malachi wore the collar of gold"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10551019,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

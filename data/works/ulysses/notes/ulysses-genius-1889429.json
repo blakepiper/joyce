@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1889429",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "—Sabellius, the African, subtlest heresiarch of all the beasts of the field, held that the Father was Himself His Own Son.",
+  "html_source": "<p>Sabellius was a third-century priest considered a heretic by the Catholic church.  He was excommunicated by Pope Callixtus I in 220 A.D. He is associated with the heresy called Patripassianism in which the Father is believed to have been incarnate and thus co-suffered with the Son Jesus on the cross.  This opposes the traditional view that the divine is incapable of suffering.</p><p><img src=\"https://images.genius.com/afb92688a276a391e4f0088f2291b751.463x286x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1889429/James-joyce-ulysses-chap-9-scylla-and-charybdis/Sabellius-the-african-subtlest-heresiarch-of-all-the-beasts-of-the-field-held-that-the-father-was-himself-his-own-son",
+    "original_id": "1889429",
+    "referent_id": 1889429,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "—Sabellius, the African, subtlest heresiarch of all the beasts of the field, held that the Father was Himself His Own Son.",
+    "prefix": "1986#170\n\n In rue Monsieur-le-Prince I thought it. \n\n — What links them in nature? An instant of blind rut. \n\n1932#186\n\n Am I a father? If I were? \n\n Shrunken uncertain hand. \n\n — ",
+    "suffix": " The bulldog of Aquin, with whom no word shall be impossible, refutes him. Well: if the father who has not a son be not a father can the son who has not a father be a son? When Rut",
+    "start": 49999,
+    "end": 50120,
+    "canonical_text": "Sabellius, the African, subtlest heresiarch of all the beasts of the field, held that the Father was Himself His Own Son."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 1889429,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

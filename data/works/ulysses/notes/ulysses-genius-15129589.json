@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15129589",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Ulysses Browne of Camus",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Patrick_Sarsfield,_1st_Earl_of_Lucan\" rel=\"noopener nofollow\">Maximilian Ulysses Brown</a> was an Austrian military leader whose father was from Limerick and among the Wild Geese who went to fight for Catholicism on the continent.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15129589/James-joyce-ulysses-chap-12-cyclops/Ulysses-browne-of-camus",
+    "original_id": "15129589",
+    "referent_id": 15129589,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Ulysses Browne of Camus",
+    "prefix": ". Remember Limerick and the broken treatystone. We gave our best blood to France and Spain, the wild geese. Fontenoy, eh? And Sarsfield and O'Donnell, duke of Tetuan in Spain, and ",
+    "suffix": " that was fieldmarshal to Maria Teresa. But what did we ever get for it? \n\n1939#239\n\n — The French! says the citizen. Set of dancing masters! Do you know what it is? They were neve",
+    "start": 88743,
+    "end": 88766,
+    "canonical_text": "Ulysses Browne of Camus"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15129589,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

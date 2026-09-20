@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4632997",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Better get this job over qui",
+  "html_source": "<p>Stephen begins urinating.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4632997/James-joyce-ulysses-chap-3-proteus/Better-get-this-job-over-qui",
+    "original_id": "4632997",
+    "referent_id": 4632997,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Better get this job over qui",
+    "prefix": "vering greengoldenly lagoons of sand, rising, flowing. My ashplant will float away. I shall wait. No, they will pass on, passing, chafing against the low rocks, swirling, passing. ",
+    "suffix": "ck. Listen: a fourworded wavespeech: seesoo, hrss, rsseeiss, ooos. Vehement breath of waters amid seasnakes, rearing horses, rocks. In cups of rocks it slops: flop, slop, slap: bou",
+    "start": 29715,
+    "end": 29743,
+    "canonical_text": "Better get this job over qui"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4632997,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

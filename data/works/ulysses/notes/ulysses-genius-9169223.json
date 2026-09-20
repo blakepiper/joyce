@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9169223",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Minotaur",
+  "html_source": "<p><img src=\"https://images.genius.com/0f45ce11cf03fdc33e2bd1cc1b48af91.666x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9169223/James-joyce-ulysses-chap-14-oxen-of-the-sun/Minotaur",
+    "original_id": "9169223",
+    "referent_id": 9169223,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Minotaur",
+    "prefix": " heat as almost carried conviction, the theory of copulation between women and the males of brutes, his authority being his own avouchment in support of fables such as that of the ",
+    "suffix": " which the genius of the elegant Latin poet has handed down to us in the pages of his Metamorphoses. The impression made by his words was immediate but shortlived. It was effaced a",
+    "start": 72062,
+    "end": 72070,
+    "canonical_text": "Minotaur"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9169223,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

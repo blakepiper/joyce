@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-12762976",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Messenger",
+  "html_source": "<p>Alludes to Mentes-Mentor in ‘The Odyssey’.<br />G&amp; S p21, 20th Anniversary edition.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/12762976/James-joyce-ulysses-chap-1-telemachus/Messenger",
+    "original_id": "12762976",
+    "referent_id": 12762976,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "messenger",
+    "prefix": "ce into the jug rich white 1922#13milk, not hers. Old shrunken paps. She poured again a measureful and a tilly. Old and 1939#12secret she had entered from a morning world, maybe a ",
+    "suffix": ". She praised the goodness of the milk, pouring it out. Crouching by a patient cow at daybreak in the lush field, a witch on her toadstool, her 1961#13wrinkled fingers quick at the",
+    "start": 22677,
+    "end": 22686,
+    "canonical_text": "messenger"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9765
+  },
+  "genius": {
+    "referent_id": 12762976,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

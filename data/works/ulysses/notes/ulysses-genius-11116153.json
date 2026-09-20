@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11116153",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Inchicore",
+  "html_source": "<p>Inchicore is a suburb of Dublin</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11116153/James-joyce-ulysses-chap-18-penelope/Inchicore",
+    "original_id": "11116153",
+    "referent_id": 11116153,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Inchicore",
+    "prefix": "llate sure theres nothing for a woman in that all invention made up about he drinking the champagne out of her slipper after the ball was over like the infant Jesus in the crib at ",
+    "suffix": " in the Blessed Virgins arms sure no woman could have a child that big taken out of her and I thought first it came out of her side because how could she go to the chamber when she",
+    "start": 37137,
+    "end": 37146,
+    "canonical_text": "Inchicore"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11116153,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

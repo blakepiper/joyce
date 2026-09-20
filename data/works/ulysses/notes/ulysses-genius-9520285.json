@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9520285",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Irving Bishop",
+  "html_source": "<p>Washington Irving Bishop had an interesting life and death<br /><a href=\"http://www.atlasobscura.com/articles/morbid-monday-the-magician-killed-by-an-autopsy\" rel=\"noopener nofollow\">http://www.atlasobscura.com/articles/morbid-monday-the-magician-killed-by-an-autopsy</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9520285/James-joyce-ulysses-chap-15-circe/Irving-bishop",
+    "original_id": "9520285",
+    "referent_id": 9520285,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Irving Bishop",
+    "prefix": "st deb in Dublin. How time flies by! Do you remember, harking back in a retrospective arrangement, Old Christmas night, Georgina Simpson's housewarming while they were playing the ",
+    "suffix": " game, finding the pin blindfold and thoughtreading? Subject, what is in this snuffbox? \n\n MRS BREEN \n\n You were the lion of the night with your seriocomic recitation and you looke",
+    "start": 21166,
+    "end": 21179,
+    "canonical_text": "Irving Bishop"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9520285,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

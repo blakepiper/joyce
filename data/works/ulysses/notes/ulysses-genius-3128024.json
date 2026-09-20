@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3128024",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Someone was to read them there after a few thousand years",
+  "html_source": "<p>Countered in the next paragraph when all goes to disorder and rots.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3128024/James-joyce-ulysses-chap-3-proteus/Someone-was-to-read-them-there-after-a-few-thousand-years",
+    "original_id": "3128024",
+    "referent_id": 3128024,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Someone was to read them there after a few thousand years",
+    "prefix": " W is wonderful. O yes, W. Remember your epiphanies on green oval leaves, deeply deep, copies to be sent if you died to all the great libraries of the world, including Alexandria? ",
+    "suffix": ", a mahamanvantara. Pico della Mirandola like. Ay, very like a whale. When 1939#32one reads these strange pages of one long gone one feels that one is at one with one who once... \n",
+    "start": 8841,
+    "end": 8898,
+    "canonical_text": "Someone was to read them there after a few thousand years"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3128024,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8489181",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "The lacquey",
+  "html_source": "<p>Begins Episode 11.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8489181/James-joyce-ulysses-chap-10-wandering-rocks/The-lacquey",
+    "original_id": "8489181",
+    "referent_id": 8489181,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "The lacquey",
+    "prefix": "ed breath, he said: \n\n — I'll take this one. \n\n The shopman lifted eyes bleared with old rheum. \n\n — Sweets of Sin, he said, tapping on it. That's a good one. \n\n*\n*  *\n\n1986#194\n\n ",
+    "suffix": " by the door of Dillon's auctionrooms shook his handbell twice again and viewed himself in the chalked mirror of the cabinet. \n\n Dilly Dedalus, loitering by the curbstone, heard th",
+    "start": 36751,
+    "end": 36762,
+    "canonical_text": "The lacquey"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9227
+  },
+  "genius": {
+    "referent_id": 8489181,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

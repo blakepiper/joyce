@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5985592",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Frailty, thy name is Sceptre",
+  "html_source": "<p>A riff on the famous quote from Hamlet Act 1 Scene 2 “Frailty, thy name is woman!”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5985592/James-joyce-ulysses-chap-12-cyclops/Frailty-thy-name-is-sceptre",
+    "original_id": "5985592",
+    "referent_id": 5985592,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Frailty, thy name is Sceptre",
+    "prefix": "el that Mr Flynn gave me. Lord Howard de Walden's. \n\n — Twenty to one, says Lenehan. Such is life in an outhouse. Throwaway, says he. Takes the biscuit, and talking about bunions. ",
+    "suffix": ". \n\n1939#236\n\n So he went over to the biscuit tin Bob Doran left to see if there was anything he could lift on the nod, the old cur after 1961#325him backing his luck with his mang",
+    "start": 78292,
+    "end": 78320,
+    "canonical_text": "Frailty, thy name is Sceptre"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5985592,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1689524,
+        "login": "LeopoldQ",
+        "name": "LeopoldQ",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

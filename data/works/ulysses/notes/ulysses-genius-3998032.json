@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3998032",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "His ex",
+  "html_source": "<p>His excellency, the Lord Lieutenant</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3998032/James-joyce-ulysses-chap-11-sirens/His-ex",
+    "original_id": "3998032",
+    "referent_id": 3998032,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "his ex",
+    "prefix": "dy's head, over the 1922#246crossblind of the Ormond bar heard the viceregal hoofs go by, ringing steel. \n\n — Is that her? asked Miss Kennedy. \n\n Miss Douce said yes, sitting with ",
+    "suffix": ", pearl grey and eau de Nil. \n\n — Exquisite contrast, Miss Kennedy said. \n\n When all agog Miss Douce said eagerly: \n\n — Look at the fellow in the tall silk. \n\n — Who? Where? gold a",
+    "start": 2708,
+    "end": 2714,
+    "canonical_text": "his ex"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3998032,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

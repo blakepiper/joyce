@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15140888",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Ruched",
+  "html_source": "<p>Gathered into pleats or ruffles, as fabric; usually in strips used for finishing/trim for sleeves and collars.</p><p><img src=\"https://images.genius.com/ff873a6f8c57e3b11d60d258dc9deea8.600x900x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15140888/James-joyce-ulysses-chap-13-nausicaa/Ruched",
+    "original_id": "15140888",
+    "referent_id": 15140888,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "ruched",
+    "prefix": "d Lady herself said to the archangel Gabriel be it done unto me according to Thy Word. He 1961#358was so kind and holy and often and often she thought and thought could she work a ",
+    "suffix": " teacosy with embroidered floral design for him as a present or a clock but they had a clock she noticed on the mantelpiece white and gold with a canarybird that came out of a litt",
+    "start": 32354,
+    "end": 32360,
+    "canonical_text": "ruched"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15140888,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

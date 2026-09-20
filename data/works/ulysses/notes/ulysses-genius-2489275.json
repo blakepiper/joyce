@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-2489275",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "A winedark sea.",
+  "html_source": "<p>An obvious reference to Ulysses' biggest influence, Homer’s <em>Odyssey</em>, in which “the wine-dark sea” is a stock <a href=\"http://ancienthistory.about.com/od/homer/qt/HomericEpithet.htm\" rel=\"noopener nofollow\">epithet</a> for the sea.</p><p><img src=\"https://images.rapgenius.com/1ce5cf924eaffc3cb0de59e029798484.1000x746x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2489275/James-joyce-ulysses-chap-3-proteus/A-winedark-sea",
+    "original_id": "2489275",
+    "referent_id": 2489275,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "a winedark sea.",
+    "prefix": "vening lands. She trudges, schlepps, trains, drags, trascines her load. A tide westering, moondrawn, in her wake. Tides, myriadislanded, within her, blood not mine, oinopa ponton, ",
+    "suffix": " Behold the handmaid of the1939#37 moon. In sleep the wet sign calls her hour, bids her rise. Bridebed, childbed, bed of 1961#47death, ghostcandled. Omnis caro ad te veniet. He com",
+    "start": 25455,
+    "end": 25470,
+    "canonical_text": "a winedark sea."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2489275,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 170881,
+        "login": "Abraxas01",
+        "name": "Abraxas01",
+        "role": "editor",
+        "attribution": 0.9019607843137255
+      },
+      {
+        "id": 149810,
+        "login": "perfectrhyme",
+        "name": "Perfectrhyme",
+        "role": "editor",
+        "attribution": 0.09803921568627452
+      }
+    ]
+  },
+  "color": "F59627"
+}

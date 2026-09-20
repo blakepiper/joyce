@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10655458",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Lifeboat",
+  "html_source": "<p>There are a number of independent lifeboat services located in Ireland. These services operate independently from the RNLI. Most operate with support from their local community and the Irish Coastguard.<br /><a href=\"http://www.irishlifeboats.com/apps/photos/album?albumid=7681538\" rel=\"noopener nofollow\">http://www.irishlifeboats.com/apps/photos/album?albumid=7681538</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10655458/James-joyce-ulysses-chap-16-eumaeus/Lifeboat",
+    "original_id": "10655458",
+    "referent_id": 10655458,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "lifeboat",
+    "prefix": " that sort of onus on to the other fellow like the hell idea and the lottery and insurance, which were run on identically the same lines so that for that very reason, if no other, ",
+    "suffix": " Sunday was a very laudable institution to which the public at large, no matter where living, inland or seaside, as the case might be, having it brought home to them like that, sho",
+    "start": 43344,
+    "end": 43352,
+    "canonical_text": "lifeboat"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10655458,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

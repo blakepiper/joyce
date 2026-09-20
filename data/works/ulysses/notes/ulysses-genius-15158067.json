@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15158067",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Busby",
+  "html_source": "<p>A hat, usually worn for military dress and usually made of fur; originally worn by Hungarian hussars.</p><p><img src=\"https://images.genius.com/65e3af51037c3bc77c47aebb660da599.400x396x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15158067/James-joyce-ulysses-chap-15-circe/Busby",
+    "original_id": "15158067",
+    "referent_id": 15158067,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "busby",
+    "prefix": "onsummation of all things and second coming of Elijah. Along an infinite invisible tightrope taut from zenith to nadir the End of the World, a twoheaded octopus in gillie's kilts, ",
+    "suffix": " and tartan filibegs, whirls through the murk, head over heels, in the form of the Three Legs of Man.) \n\n1986#413\n\n THE END OF THE WORLD \n\n(With a Scotch accent.) Wha'll dance the ",
+    "start": 108406,
+    "end": 108411,
+    "canonical_text": "busby"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15158067,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

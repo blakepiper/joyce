@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8494702",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Outside",
+  "html_source": "<p>Intrusion</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8494702/James-joyce-ulysses-chap-10-wandering-rocks/Outside",
+    "original_id": "8494702",
+    "referent_id": 8494702,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Outside",
+    "prefix": "he quoted, elegantly. \n\n They went down Parliament street. \n\n — There's Jimmy Henry, Mr Power said, just heading for Kavanagh's. \n\n — Righto, Martin Cunningham said. Here goes. \n\n ",
+    "suffix": " la Maison Claire Blazes Boylan waylaid Jack Mooney's brother-in-law, humpy, tight, making for the liberties. \n\n John Wyse Nolan fell back with Mr Power, while Martin Cunningham192",
+    "start": 56530,
+    "end": 56537,
+    "canonical_text": "Outside"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 8494702,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

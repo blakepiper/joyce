@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10584260",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Soft answer",
+  "html_source": "<p>Proverbs 15:1<br />English Standard Version<br />A soft answer turns away wrath, but a harsh word stirs up anger.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10584260/James-joyce-ulysses-chap-16-eumaeus/Soft-answer",
+    "original_id": "10584260",
+    "referent_id": 10584260,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "soft answer",
+    "prefix": "I, without deviating from plain facts in the least, told him his God, I mean Christ, was a jew too, and all his family, like me, though in reality I'm not. That was one for him. A ",
+    "suffix": " turns away wrath. He hadn't a word to say for himself as everyone saw. Am I not right? \n\n He turned a long you are wrong gaze on Stephen of timorous dark pride at the soft impeach",
+    "start": 73982,
+    "end": 73993,
+    "canonical_text": "soft answer"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10584260,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

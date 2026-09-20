@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15130673",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Mercadante",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Saverio_Mercadante\" rel=\"noopener nofollow\">Saverio Mercadante</a> was an Italian opera composer, c. 1795-1890. I can find no mention of him being Jewish.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15130673/James-joyce-ulysses-chap-12-cyclops/Mercadante",
+    "original_id": "15130673",
+    "referent_id": 15130673,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Mercadante",
+    "prefix": "ng If the man in the moon was a jew, jew, jew and a slut shouts out of her: \n\n — Eh, mister! Your fly is open, mister! \n\n And says he: \n\n — Mendelssohn was a jew and Karl Marx and ",
+    "suffix": " and Spinoza. And the Saviour was a jew and his father was a jew. Your God. \n\n — He had no father, says Martin. That'll do now. Drive ahead. \n\n — Whose God? says the citizen. \n\n — ",
+    "start": 115507,
+    "end": 115517,
+    "canonical_text": "Mercadante"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15130673,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

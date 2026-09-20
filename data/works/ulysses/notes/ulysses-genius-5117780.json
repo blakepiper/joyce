@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5117780",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Gossoon",
+  "html_source": "<p>Irish for ‘lad’.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5117780/James-joyce-ulysses-chap-3-proteus/Gossoon",
+    "original_id": "5117780",
+    "referent_id": 5117780,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "gossoon",
+    "prefix": "drove out the road to Malahide. Did, faith. Of lost leaders, the betrayed, wild escapes. Disguises, clutched at, gone, not here. \n\n1939#34\n\n Spurned lover. I was a strapping young ",
+    "suffix": " at that time, I tell you. I'll show you my likeness one day. I was, faith. Lover, for her love he prowled with colonel Richard Burke, tanist of his sept, under the walls of Clerke",
+    "start": 15420,
+    "end": 15427,
+    "canonical_text": "gossoon"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5117780,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1618748,
+        "login": "Kataryna",
+        "name": "Kataryna",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

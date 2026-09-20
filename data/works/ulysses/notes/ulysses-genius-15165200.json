@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15165200",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Htengier Tnetopinmo Dog Drol eht rot",
+  "html_source": "<p>The last letter of the annotated text should be an “f”, so that it reads, in reverse, “for the lord god omnipotent reigneth.” (This recalls the discussion of typesetters in Chapter 7.)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15165200/James-joyce-ulysses-chap-15-circe/Htengier-tnetopinmo-dog-drol-eht-rot",
+    "original_id": "15165200",
+    "referent_id": 15165200,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Htengier Tnetopinmo Dog Drol eht rot",
+    "prefix": "MR HAINES LOVE \n\n(Raises high behind the celebrant's petticoat, revealing his grey bare hairy buttocks between which a carrot is stuck.) My body. \n\n THE VOICE OF ALL THE DAMNED \n\n ",
+    "suffix": " Aiulella! \n\n(From on high the voice of Adonai calls.) \n\n1932#5141961#599\n\n ADONAI \n\n Dooooooooooog! \n\n1939#4211922#556\n\n THE VOICE OF ALL THE BLESSED \n\n Alleluia, for the Lord God",
+    "start": 228895,
+    "end": 228932,
+    "canonical_text": "Htengier Tnetopinmo Dog Drol eht rof,"
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9589
+  },
+  "genius": {
+    "referent_id": 15165200,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

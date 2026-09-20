@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8577686",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "A chara",
+  "html_source": "<p>“a friend.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8577686/James-joyce-ulysses-chap-12-cyclops/A-chara",
+    "original_id": "8577686",
+    "referent_id": 8577686,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "a chara",
+    "prefix": "s lights. \n\n So he told Terry to bring some water for the dog and, gob, you could hear him lapping it up a mile off. And Joe asked him would he have another. \n\n — I will, says he, ",
+    "suffix": ", to show there's no ill feeling. \n\n1986#256\n\n Gob, he's not as green as he's cabbagelooking. Arsing around from one pub to another, leaving it to your own honour, with old Giltrap",
+    "start": 48562,
+    "end": 48569,
+    "canonical_text": "a chara"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.958
+  },
+  "genius": {
+    "referent_id": 8577686,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

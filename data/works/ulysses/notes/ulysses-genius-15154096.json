@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15154096",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Rutilant",
+  "html_source": "<p>Glowing or glittering, usually with red (sometimes golden) light.</p><p>Late Middle English: from Latin rutilant- ‘glowing red,’ from the verb rutilare, from rutilus ‘reddish.’</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15154096/James-joyce-ulysses-chap-14-oxen-of-the-sun/Rutilant",
+    "original_id": "15154096",
+    "referent_id": 15154096,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "rutilant",
+    "prefix": "üsse Milch des Euters. See! it displodes for thee in abundance. Drink, man, an udderful! Mother's milk, Purefoy, the milk of human kin, milk too of those burgeoning stars overhead ",
+    "suffix": " in thin rainvapour, punch milk, such as those rioters will quaff in their guzzling den, milk of madness, the honeymilk of Canaan's land. Thy cow's dug was tough, 1932#383what? Ay,",
+    "start": 104230,
+    "end": 104238,
+    "canonical_text": "rutilant"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15154096,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

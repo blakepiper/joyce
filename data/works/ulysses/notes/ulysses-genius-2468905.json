@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2468905",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "He has that cabman’s shelter, they say, down there at Butt bridge. Holohan told me. You know Holohan?",
+  "html_source": "<p>Butt Bridge is a road bridge across the Liffey that joins George’s Quay to Beresford Place. The bridge was a structural steel swivel bridge, opened in 1879. It was named for the leader of the Home Rule Movement Isaac Butt who died that year. The swing section, made of wrought iron and weighing approximately 200 tons, ran on a series of cast spoke wheels and was powered by a steam engine, which was housed on a timber pier on the downstream side of the bridge. The swing action allowed boats to pass and berth in the river as far upstream as O'Connell Bridge.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2468905/James-joyce-ulysses-chap-7-aeolus/He-has-that-cabmans-shelter-they-say-down-there-at-butt-bridge-holohan-told-me-you-know-holohan",
+    "original_id": "2468905",
+    "referent_id": 2468905,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "He has that cabman's shelter, they say, down there at Butt bridge. Holohan told me. You know Holohan?",
+    "prefix": " place. Tim Kelly, or Kavanagh I mean. Joe Brady and the rest of them. Where Skin-the-goat drove the car. Whole route, see? \n\n — Skin-the-goat, Mr O'Madden Burke said. Fitzharris. ",
+    "suffix": " \n\n — Hop and carry one, is it? Myles Crawford said. \n\n — And poor Gumley is down there too, so he told me, minding stones for the corporation. A night watchman. \n\n Stephen turned ",
+    "start": 35223,
+    "end": 35324,
+    "canonical_text": "He has that cabman's shelter, they say, down there at Butt bridge. Holohan told me. You know Holohan?"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2468905,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

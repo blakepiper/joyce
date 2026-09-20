@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9131882",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Merryandrew",
+  "html_source": "<p>NOUN<br />archaic<br />A person who entertains others by means of comic antics; a clown.<br />OxfordDictionaries</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9131882/James-joyce-ulysses-chap-14-oxen-of-the-sun/Merryandrew",
+    "original_id": "9131882",
+    "referent_id": 9131882,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "merryandrew",
+    "prefix": "en at pains about it) but on Stephen's persuasion he gave over the search and was bidden to sit near by which he did mighty brisk. He was a kind of sport gentleman that went for a ",
+    "suffix": " 1922#379or honest pickle and what belonged of women, horseflesh or hot scandal he had it pat. To tell the truth he was mean in fortunes and for the most part hankered about the co",
+    "start": 38145,
+    "end": 38156,
+    "canonical_text": "merryandrew"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9131882,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

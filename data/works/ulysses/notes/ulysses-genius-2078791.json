@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2078791",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "And whiles they spake",
+  "html_source": "<p>This section (“And whiles they spake” through “Thanked be Almighty God”) is in the style of <a href=\"http://en.wikipedia.org/wiki/Travels_of_Sir_John_Mandeville\" rel=\"noopener nofollow\"><em>The Travels of Sir John Mandeville</em></a> which was written in Anglo-Norman French.</p><p><img src=\"https://images.genius.com/9199ba0ba37d9529767edd48fa749f83.250x369x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2078791/James-joyce-ulysses-chap-14-oxen-of-the-sun/And-whiles-they-spake",
+    "original_id": "2078791",
+    "referent_id": 2078791,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "And whiles they spake",
+    "prefix": "ood and he wondered to look on her face that was a young face for any man to see but yet was she left after long years a handmaid. Nine twelve bloodflows chiding her childless. \n\n ",
+    "suffix": " the door of the castle was opened and there nighed them a mickle noise as of many that sat there at meat. And there 1986#316came against the place as they stood a young learningkn",
+    "start": 8375,
+    "end": 8396,
+    "canonical_text": "And whiles they spake"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2078791,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

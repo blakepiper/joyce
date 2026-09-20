@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4591976",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Vartry water",
+  "html_source": "<p>According to Gifford:</p><blockquote><p>Dublin’s public water supply was created by diverting the River Vartry into a large reservoir, the Varty or Roundwood Reservoir, eighteen miles south of Dublin.</p></blockquote>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4591976/James-joyce-ulysses-chap-16-eumaeus/Vartry-water",
+    "original_id": "4591976",
+    "referent_id": 4591976,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Vartry water",
+    "prefix": " not exactly what you would call wandering but a bit unsteady and on his expressed desire for some beverage to drink Mr Bloom in view of the hour it was and there being no pump of ",
+    "suffix": " available for their ablutions let alone drinking purposes hit upon an expedient by suggesting, off the reel, the propriety of the cabman's shelter, as it was called, hardly a ston",
+    "start": 430,
+    "end": 442,
+    "canonical_text": "Vartry water"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4591976,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

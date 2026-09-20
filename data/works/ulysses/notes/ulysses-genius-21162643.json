@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21162643",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Afterwit.",
+  "html_source": "<p>Stephen regrets that he forgot to include the details about Lucy and about the timing of the birth of Shakespeare’s children as part of his theory, but realizes it is too late.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21162643/James-joyce-ulysses-chap-9-scylla-and-charybdis/Afterwit",
+    "original_id": "21162643",
+    "referent_id": 21162643,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Afterwit.",
+    "prefix": "e spat blank. \n\n Forgot: any more than he forgot the whipping lousy Lucy gave him. And left the femme de trente ans. And why no other children born? And his first child a girl? \n\n ",
+    "suffix": " Go back. \n\n The dour recluse still there (he has his cake) and the douce youngling, minion of pleasure, Phedo's toyable fair hair. \n\n1961#215\n\n Eh... I just eh... wanted... I forg",
+    "start": 65770,
+    "end": 65779,
+    "canonical_text": "Afterwit."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21162643,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

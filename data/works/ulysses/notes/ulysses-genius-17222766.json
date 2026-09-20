@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-17222766",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Culdees",
+  "html_source": "<p>culdees–members of ascetic Christian monastic and eremitical (hermit) communities of Ireland, Scotland, Wales and England in the Middle Ages.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/17222766/James-joyce-ulysses-chap-17-ithaca/Culdees",
+    "original_id": "17222766",
+    "referent_id": 17222766,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "culdees",
+    "prefix": "itors of Ireland: their archaeological, genealogical, hagiographical, exegetical, homilectic, toponomastic, historical and religious literatures comprising the works of rabbis and ",
+    "suffix": ", Torah, Talmud (Mischna and Ghemara), Massor, Pentateuch, Book of the Dun Cow, Book of Ballymote, Garland of Howth, Book of Kells: their dispersal, persecution, survival and reviv",
+    "start": 48638,
+    "end": 48645,
+    "canonical_text": "culdees"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 17222766,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 8460622,
+        "login": "LP-Reader1",
+        "name": "LP-Reader1",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

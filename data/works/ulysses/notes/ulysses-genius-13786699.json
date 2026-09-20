@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13786699",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Wist",
+  "html_source": "archaic  know",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13786699/James-joyce-ulysses-chap-14-oxen-of-the-sun/Wist",
+    "original_id": "13786699",
+    "referent_id": 13786699,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "wist",
+    "prefix": "d Giver of Life? For, sirs, he said, our lust is brief. We are means to those small creatures within us and nature has other ends than we. Then said Dixon junior to Punch Costello ",
+    "suffix": " he what ends. But he had overmuch drunken and the best word he could have of him was that he would ever dishonest a woman whoso she were or wife or maid or leman if it so fortuned",
+    "start": 16201,
+    "end": 16205,
+    "canonical_text": "wist"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13786699,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2075390",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Riddle me, riddle me, randy ro.\n My father gave me seeds to sow.",
+  "html_source": "<p>The full riddle:</p><blockquote><p>Riddle me, riddle me, randy ro.<br />My father gave me seeds to sow.<br />The seed was black and the ground was white.<br />Riddle me that and I’ll give you a pipe.</p></blockquote><p>The answer is “writing a letter”.</p><p><img src=\"https://images.genius.com/5dd022f82110c9cc156521b0abe393ef.600x428x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2075390/James-joyce-ulysses-chap-2-nestor/Riddle-me-riddle-me-randy-ro-my-father-gave-me-seeds-to-sow",
+    "original_id": "2075390",
+    "referent_id": 2075390,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "Riddle me, riddle me, randy ro.\n My father gave me seeds to sow.",
+    "prefix": " a coin of the tribute. To Caesar what is Caesar's, to 1939#21God what is God's. A long look from dark eyes, a riddling sentence to be woven and woven on the church's looms. Ay. \n\n",
+    "suffix": " \n\n Talbot slid his closed book into his satchel. \n\n — Have I heard all? Stephen asked. \n\n — Yes, sir. Hockey at ten, sir. \n\n — Half day, sir. Thursday. \n\n — Who can answer a riddl",
+    "start": 5015,
+    "end": 5079,
+    "canonical_text": "Riddle me, riddle me, randy ro. \nMy father gave me seeds to sow."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2075390,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

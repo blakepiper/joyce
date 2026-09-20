@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-32663814",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "And",
+  "html_source": "<p>Bloom sat down.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/32663814/James-joyce-ulysses-chap-14-oxen-of-the-sun/And",
+    "original_id": "32663814",
+    "referent_id": 32663814,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "And",
+    "prefix": "hat in amity for he never drank no manner of mead which he then put by and anon full privily he voided the more part in his neighbour glass and his neighbour nist not of his wile. ",
+    "suffix": " he sat down in that castle with them for to rest him there awhile. Thanked be Almighty God. \n\n1932#350\n\n This meanwhile this good sister stood by the door and begged them at the r",
+    "start": 11477,
+    "end": 11480,
+    "canonical_text": "And"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9561
+  },
+  "genius": {
+    "referent_id": 32663814,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

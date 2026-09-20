@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33270046",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "That",
+  "html_source": "<p>Darn tootin said Dixon!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33270046/James-joyce-ulysses-chap-14-oxen-of-the-sun/That",
+    "original_id": "33270046",
+    "referent_id": 33270046,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "That",
+    "prefix": " his experience of so seldom seen an accident it was good for that mother Church belike at one blow had birth and death pence and in such sort deliverly he scaped their questions. ",
+    "suffix": " is truth, pardy, said Dixon, and, or I err, a pregnant word. 1986#319Which hearing young Stephen was a marvellous glad man and he averred that he who stealeth from the poor lendet",
+    "start": 18410,
+    "end": 18414,
+    "canonical_text": "That"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9712
+  },
+  "genius": {
+    "referent_id": 33270046,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

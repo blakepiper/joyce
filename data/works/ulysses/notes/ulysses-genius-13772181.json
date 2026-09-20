@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13772181",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Grameful",
+  "html_source": "<p>grameful- Archaic (from Anglo-Saxon): “full of grief or sorrow.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13772181/James-joyce-ulysses-chap-14-oxen-of-the-sun/Grameful",
+    "original_id": "13772181",
+    "referent_id": 13772181,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "grameful",
+    "prefix": "\n As her eyes then ongot his weeds swart therefor sorrow she feared. Glad after she was that ere adread was. Her he asked if O'Hare Doctor tidings sent from far coast and she with ",
+    "suffix": " sigh him answered that O'Hare Doctor in heaven was. Sad was the man that word to hear that him so heavied in bowels ruthful. All she there told him, ruing death for friend so youn",
+    "start": 6552,
+    "end": 6560,
+    "canonical_text": "grameful"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13772181,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

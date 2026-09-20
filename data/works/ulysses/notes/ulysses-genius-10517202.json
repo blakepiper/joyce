@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10517202",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Bewley and Draper",
+  "html_source": "<p><img src=\"https://images.genius.com/97abb40f5f86ef1b203a6733f8eabe03.1000x706x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10517202/James-joyce-ulysses-chap-16-eumaeus/Bewley-and-draper",
+    "original_id": "10517202",
+    "referent_id": 10517202,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Bewley and Draper",
+    "prefix": "ing. Still, candour compelled him to admit he had washed his wife's undergarments when soiled in Holles street and women would and did too a man's similar garments initialled with ",
+    "suffix": "'s marking ink (hers were, that is) if they really loved him, that is to say. Love me, love my dirty shirt. Still, just then, being on tenterhooks, he desired the female's room mor",
+    "start": 48162,
+    "end": 48179,
+    "canonical_text": "Bewley and Draper"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10517202,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

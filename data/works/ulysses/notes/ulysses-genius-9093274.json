@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9093274",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Where Jesus left the jews",
+  "html_source": "<p>The Jews were left without hope of salvation because they demanded the Christ’s Crucifixion.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9093274/James-joyce-ulysses-chap-10-wandering-rocks/Where-jesus-left-the-jews",
+    "original_id": "9093274",
+    "referent_id": 9093274,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "where Jesus left the jews",
+    "prefix": "ctive. I wonder will he allow us to talk. \n\n1939#174\n\n — You got more than that, father, Dilly said. \n\n — I'm going to show you a little trick, Mr Dedalus said. I'll leave you all ",
+    "suffix": ". Look, there's all I have. I got two shillings from Jack Power and I spent twopence for a shave for the funeral. \n\n He drew forth a handful of copper coins, nervously. \n\n — Can't ",
+    "start": 39833,
+    "end": 39858,
+    "canonical_text": "where Jesus left the jews"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9093274,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083736,
+        "login": "JessicaVestuto",
+        "name": "JessicaVestuto",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

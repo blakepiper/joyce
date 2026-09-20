@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-38754490",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "—’Tis a custom more honoured in the breach than in the observance.",
+  "html_source": "<p>A reference to <em>Hamlet</em>, Act I, Scene 4 <a href=\"https://www.folger.edu/explore/shakespeares-works/hamlet/read/1/4/\" rel=\"noopener nofollow\">line 18 in the Folger edition</a>. Hamlet is telling Horatio about a Danish tradition where a musical flourish sounds when the king finishes a glass of wine. Hamlet says that this has led to the Danes having a regrettable reputation for drunkenness.</p><p>The sense here in both <em>Ulysses</em> and <em>Hamlet</em> is that, although “traditional”, it would be better if the act in question were no longer done.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/38754490/James-joyce-ulysses-chap-12-cyclops/Tis-a-custom-more-honoured-in-the-breach-than-in-the-observance",
+    "original_id": "38754490",
+    "referent_id": 38754490,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "—'Tis a custom more honoured in the breach than in the observance.",
+    "prefix": "rump and dozen, says the citizen, was what that old ruffian sir John Beresford called it but the modern God's Englishman calls it caning on the breech. \n\n And says John Wyse: \n\n — ",
+    "suffix": " \n\n Then he was telling us the master at arms comes along with a long cane and he draws out and he flogs the bloody backside off of the poor lad till he yells meila murder. \n\n — Th",
+    "start": 85964,
+    "end": 86029,
+    "canonical_text": "'Tis a custom more honoured in the breach than in the observance."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 38754490,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5807887,
+        "login": "ahare63",
+        "name": "ahare63",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

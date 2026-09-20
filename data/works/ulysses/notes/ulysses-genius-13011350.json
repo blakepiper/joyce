@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13011350",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "La belle dame sans merci",
+  "html_source": "<p>French: “the beautiful woman without pity.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13011350/James-joyce-ulysses-chap-15-circe/La-belle-dame-sans-merci",
+    "original_id": "13011350",
+    "referent_id": 13011350,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "la belle dame sans merci",
+    "prefix": "a jug? This movement illustrates the loaf and jug of bread or wine in Omar. Hold my stick. \n\n LYNCH \n\n Damn your yellow stick. Where are we going? \n\n STEPHEN \n\n Lecherous lynx, to ",
+    "suffix": ", Georgina Johnson, ad deam qui laetificat iuventutem meam. \n\n(Stephen thrusts the ashplant on him and slowly holds out his hands, his head going back till both hands are a span fr",
+    "start": 5431,
+    "end": 5455,
+    "canonical_text": "la belle dame sans merci"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13011350,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5436824,
+        "login": "cohomology",
+        "name": "cohomology",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

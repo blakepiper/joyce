@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33151988",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Both",
+  "html_source": "<p>Stephen then adds a comment about the case Madden mentioned.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33151988/James-joyce-ulysses-chap-14-oxen-of-the-sun/Both",
+    "original_id": "33151988",
+    "referent_id": 33151988,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Both",
+    "prefix": "r goodman husband would not let her death whereby they were all wondrous grieved. To whom young Stephen 1922#371had these words following: Murmur, sirs, is eke oft among lay folk. ",
+    "suffix": " babe and parent now glorify their Maker, the one in limbo gloom, the other in purgefire. But, gramercy, what of those Godpossibled souls that we nightly impossibilise, which is th",
+    "start": 15790,
+    "end": 15794,
+    "canonical_text": "Both"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 33151988,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13785694",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Gen",
+  "html_source": "<p>gen: (German) against (a poetic abbreviation of gegen)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13785694/James-joyce-ulysses-chap-14-oxen-of-the-sun/Gen",
+    "original_id": "13785694",
+    "referent_id": 13785694,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "gen",
+    "prefix": "him for that time in the honourablest manner. Ruth red him, love led on with will to wander, loth to leave. \n\n For they were right witty scholars. And he heard their aresouns each ",
+    "suffix": " other as touching birth and righteousness, young Madden maintaining that put such case it were hard the wife to die (for so it had fallen1932#351out a matter of some year agone wi",
+    "start": 14225,
+    "end": 14228,
+    "canonical_text": "gen"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 13785694,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

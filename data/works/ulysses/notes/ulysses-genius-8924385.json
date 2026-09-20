@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8924385",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Yashmak",
+  "html_source": "<p>the veil worn by Muslim women to cover the face in public.</p><p><img src=\"https://images.rapgenius.com/9bf3b4404f0c6609b7c05b388455103f.640x426x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8924385/James-joyce-ulysses-chap-11-sirens/Yashmak",
+    "original_id": "8924385",
+    "referent_id": 8924385,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "yashmak",
+    "prefix": " in the armchair. Rehearsing his band part. Pom. Pompedy. Jolly for the wife. Asses' skins. Welt them through life, then wallop after death. Pom. Wallop. Seems to be what you call ",
+    "suffix": " or I mean kismet. Fate. \n\n Tap. Tap. A stripling, blind, with a tapping cane came taptaptapping by Daly's window where a mermaid hair all streaming (but he couldn't see) blew whif",
+    "start": 69499,
+    "end": 69506,
+    "canonical_text": "yashmak"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 8924385,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

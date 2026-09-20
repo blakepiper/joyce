@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4002900",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Nannetti’s",
+  "html_source": "<p><a href=\"http://www.nationalarchives.ie/topics/JJoyce/cnannetti.htm\" rel=\"noopener nofollow\">A councillor and politician in Dublin.</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4002900/James-joyce-ulysses-chap-11-sirens/Nannettis",
+    "original_id": "4002900",
+    "referent_id": 4002900,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Nannetti's",
+    "prefix": "protested. You horrid thing! \n\n And flushed yet more (you horrid!), more goldenly. \n\n1939#190\n\n By Cantwell's offices roved Greaseabloom, by Ceppi's virgins, bright of their oils. ",
+    "suffix": " father hawked those things about, wheedling at doors as I. Religion pays. Must see him about Keyes's par. Eat first. I want. Not yet. At four, she said. Time ever passing. Clockha",
+    "start": 9050,
+    "end": 9060,
+    "canonical_text": "Nannetti's"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4002900,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10112932",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Pandy bat.",
+  "html_source": "<p>A stout leather strap reinforced internally with whalebone or even lead and used to inflict punishment – especially by using it to strike against the open uplifted hands on schoolboys.<br /><a href=\"https://en.wiktionary.org/wiki/pandybat\" rel=\"noopener nofollow\">https://en.wiktionary.org/wiki/pandybat</a></p><p><img src=\"https://images.genius.com/15bf91ec536d33644a2a3f5fc7a6e5c9.860x160x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10112932/James-joyce-ulysses-chap-15-circe/Pandy-bat",
+    "original_id": "10112932",
+    "referent_id": 10112932,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Pandy bat.",
+    "prefix": " that I haven't got. (To Stephen.) I see it in your face. The eye, like that. (She frowns with lowered head.) \n\n1986#457\n\n LYNCH \n\n(Laughing, slaps Kitty behind twice.) Like that. ",
+    "suffix": " \n\n(Twice loudly a pandybat cracks, the coffin of the pianola flies open, the bald little round jack-in-the-box head of Father Dolan springs up.) \n\n FATHER DOLAN \n\n Any boy want fl",
+    "start": 181774,
+    "end": 181783,
+    "canonical_text": "Pandybat."
+  },
+  "provenance": {
+    "match_method": "compact-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 10112932,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

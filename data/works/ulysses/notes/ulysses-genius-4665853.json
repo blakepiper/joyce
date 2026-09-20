@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4665853",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "She had no navel",
+  "html_source": "<p>Cabalistic tradition that she wasn’t of woman born so had no navel (Gifford p 47).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4665853/James-joyce-ulysses-chap-3-proteus/She-had-no-navel",
+    "original_id": "4665853",
+    "referent_id": 4665853,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "She had no navel",
+    "prefix": "you be as 1939#30gods? Gaze in your omphalos. Hello! Kinch here. Put me on to Edenville. Aleph, alpha: nought, nought, one. \n\n Spouse and helpmate of Adam Kadmon: Heva, naked Eve. ",
+    "suffix": ". Gaze. Belly without blemish, bulging big, a buckler of taut vellum, no, whiteheaped corn, orient and immortal, standing from everlasting to everlasting. Womb of sin. \n\n Wombed in",
+    "start": 2649,
+    "end": 2665,
+    "canonical_text": "She had no navel"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4665853,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

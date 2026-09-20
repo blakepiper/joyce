@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9170888",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Bullockbefriending bard",
+  "html_source": "<p>Stephen gave himself the nickname at the end of the first chapter.<br />“Mulligan will dub me a new name: the bullockbefriending bard.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9170888/James-joyce-ulysses-chap-14-oxen-of-the-sun/Bullockbefriending-bard",
+    "original_id": "9170888",
+    "referent_id": 9170888,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "bullockbefriending bard",
+    "prefix": " phantoms, Stephen said. Why think of them? If I call them into life across the waters of Lethe will not the poor ghosts troop to my call? Who supposes it? I, Bous Stephanoumenos, ",
+    "suffix": ", am lord and giver of their life. He encircled his gadding hair with a coronal of vineleaves, smiling at Vincent. That answer and those leaves, Vincent said to him, will adorn you",
+    "start": 80810,
+    "end": 80833,
+    "canonical_text": "bullockbefriending bard"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9170888,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

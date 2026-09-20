@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4729268",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Grey searching eyes",
+  "html_source": "<p>“grey eyed goddess” – homeric epithet for Athena</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4729268/James-joyce-ulysses-chap-1-telemachus/Grey-searching-eyes",
+    "original_id": "4729268",
+    "referent_id": 4729268,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "grey searching eyes",
+    "prefix": "arapet. Leaning on it he looked down on the water and on the mailboat clearing the harbourmouth of Kingstown. \n\n — Our mighty mother! Buck Mulligan said. \n\n He turned abruptly his ",
+    "suffix": " from the sea to Stephen's face. \n\n — The aunt thinks you killed your mother, he said. That's why she won't let me have anything to do with you. \n\n — Someone killed her, Stephen sa",
+    "start": 4936,
+    "end": 4956,
+    "canonical_text": "great searching eyes"
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9231
+  },
+  "genius": {
+    "referent_id": 4729268,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

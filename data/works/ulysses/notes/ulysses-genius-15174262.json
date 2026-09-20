@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15174262",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Leather medal",
+  "html_source": "<p>This refers to an award for laziness or failure; a booby prize (since the real awards are made of precious metals). From Cassell’s Dictionary of Slang.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15174262/James-joyce-ulysses-chap-18-penelope/Leather-medal",
+    "original_id": "15174262",
+    "referent_id": 15174262,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "leather medal",
+    "prefix": "ome paper of and mandolines and lanterns O how nice I said whatever I liked he was going to do immediately if not sooner will you be my man will you carry my can he ought to get a ",
+    "suffix": " with a putty rim for all the plans he invents then leaving us here all day youd never know what old beggar at the door for a crust with his long story might be a tramp and put his",
+    "start": 73344,
+    "end": 73357,
+    "canonical_text": "leather medal"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15174262,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1822863",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "It’s a beastly thing and nothing else",
+  "html_source": "<p>Mulligan tries to downplay Stephen’s mother’s death by saying that as a medical student he sees death every day.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1822863/James-joyce-ulysses-chap-1-telemachus/Its-a-beastly-thing-and-nothing-else",
+    "original_id": "1822863",
+    "referent_id": 1822863,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "It's a beastly thing and nothing else",
+    "prefix": "ath, he asked, your mother's or yours or my own? You saw only your mother die. I see them pop off every day in the Mater and Richmond and cut up into tripes in the dissectingroom. ",
+    "suffix": ". It simply doesn't matter. You wouldn't kneel down to pray for your mother on her deathbed when she asked you. Why? Because you have the cursed jesuit strain in you, only it's inj",
+    "start": 12077,
+    "end": 12114,
+    "canonical_text": "It's a beastly thing and nothing else"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1822863,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 176532,
+        "login": "biblicalmike",
+        "name": "Michael Bible",
+        "role": "verified_artist",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

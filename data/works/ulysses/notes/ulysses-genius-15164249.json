@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15164249",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Tweedy",
+  "html_source": "<p>Molly’s (i.e., Marion’s) maiden name is Tweedy (recall mentions of her father, Major Tweedy).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15164249/James-joyce-ulysses-chap-15-circe/Tweedy",
+    "original_id": "15164249",
+    "referent_id": 15164249,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Tweedy",
+    "prefix": " hangs his hat smartly on a peg of Bloom's antlered head.) Show me in. I have a little private business with your wife, you understand? \n\n BLOOM \n\n Thank you, sir. Yes, sir. Madam ",
+    "suffix": " is in her bath, sir. \n\n1922#526\n\n MARION \n\n He ought to feel himself highly honoured. (She plops splashing out of the water.) Raoul darling, come and dry me. I'm in my pelt. Only ",
+    "start": 185738,
+    "end": 185744,
+    "canonical_text": "Tweedy"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.939
+  },
+  "genius": {
+    "referent_id": 15164249,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

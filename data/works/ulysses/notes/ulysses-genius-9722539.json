@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9722539",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "In darkest Stepaside",
+  "html_source": "<p>An allusion to</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9722539/James-joyce-ulysses-chap-15-circe/In-darkest-stepaside",
+    "original_id": "9722539",
+    "referent_id": 9722539,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "In darkest Stepaside",
+    "prefix": " a signpost planted by the Touring Club at Stepaside who procured that public boon? I who lost my way and contributed to the columns of the Irish Cyclist the letter 1932#393headed ",
+    "suffix": ". Keep, keep, keep to the right. Rags and bones at midnight. A fence more likely. First place murderer makes for. Wash off his sins of the world. \n\n1961#436\n\n(Jacky Caffrey, hunted",
+    "start": 11077,
+    "end": 11097,
+    "canonical_text": "In darkest Stepaside"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9722539,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

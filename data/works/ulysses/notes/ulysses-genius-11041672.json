@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11041672",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Is he in love with that one",
+  "html_source": "<p>Mrs Bloom is having a similar confusion with her book!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11041672/James-joyce-ulysses-chap-10-wandering-rocks/Is-he-in-love-with-that-one",
+    "original_id": "11041672",
+    "referent_id": 11041672,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Is he in love with that one",
+    "prefix": "Dunne hid the Capel street library copy of The Woman in White far back in her drawer and rolled a sheet of gaudy notepaper into her typewriter. \n\n Too much mystery business in it. ",
+    "suffix": ", Marion? Change it and get another by Mary Cecil Haye. \n\n The disk shot down the groove, wobbled a while, ceased and ogled them: six. \n\n Miss Dunne clicked on the keyboard: \n\n — 1",
+    "start": 21091,
+    "end": 21118,
+    "canonical_text": "Is he in love with that one"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11041672,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 4017165,
+        "login": "KevinFoy",
+        "name": "KevinFoy",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

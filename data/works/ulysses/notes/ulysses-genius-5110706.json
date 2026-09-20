@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5110706",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Then getting it ready",
+  "html_source": "<p>The corpse of the Bloom’s eleven day old son, Rudy</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5110706/James-joyce-ulysses-chap-6-hades/Then-getting-it-ready",
+    "original_id": "5110706",
+    "referent_id": 5110706,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Then getting it ready",
+    "prefix": "erest they take in a corpse. Glad to see us go we give them such trouble coming. Job seems to suit them. Huggermugger in corners. Slop about in slipperslappers for fear he'd wake. ",
+    "suffix": ". Laying it out. Molly and Mrs Fleming making the bed. Pull it more to your side. Our windingsheet. Never know who will touch you dead. Wash and shampoo. I believe1932#77 they clip",
+    "start": 947,
+    "end": 968,
+    "canonical_text": "Then getting it ready"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5110706,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

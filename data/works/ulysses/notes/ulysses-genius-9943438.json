@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9943438",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "See you in tea",
+  "html_source": "<p>and another naughty word spelling</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9943438/James-joyce-ulysses-chap-15-circe/See-you-in-tea",
+    "original_id": "9943438",
+    "referent_id": 9943438,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "See you in tea",
+    "prefix": "osite direction.) \n\n1961#496\n\n THE ARTANE ORPHANS \n\n \n\nYou hig, you hog, you dirty dog! \nYou think the ladies love you! \n\n THE PRISON GATE GIRLS \n\nIf you see Kay \nTell him he may \n",
+    "suffix": " \nTell him from me. \n\n HORNBLOWER \n\n(In ephod and huntingcap, announces.) And he shall carry the sins of the people to Azazel, the spirit which is in the wilderness, and to Lilith,",
+    "start": 94781,
+    "end": 94795,
+    "canonical_text": "See you in tea"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9943438,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

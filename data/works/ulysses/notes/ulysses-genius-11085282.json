@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11085282",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Eaten oysters",
+  "html_source": "<p><a href=\"http://www.telegraph.co.uk/news/uknews/1486054/Raw-oysters-really-are-aphrodisiacs-say-scientists-and-now-is-the-time-to-eat-them.html\" rel=\"noopener nofollow\">http://www.telegraph.co.uk/news/uknews/1486054/Raw-oysters-really-are-aphrodisiacs-say-scientists-and-now-is-the-time-to-eat-them.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11085282/James-joyce-ulysses-chap-18-penelope/Eaten-oysters",
+    "original_id": "11085282",
+    "referent_id": 11085282,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "eaten oysters",
+    "prefix": "ter I took off all my things with the blinds down after my hours dressing and perfuming and combing it like iron or some kind of a thick crowbar standing all the time he must have ",
+    "suffix": " I think a few dozen he was in great singing voice no I never in all my life felt anyone had one the size of that to make you feel full up he must have eaten a whole sheep after wh",
+    "start": 11043,
+    "end": 11056,
+    "canonical_text": "eaten oysters"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11085282,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

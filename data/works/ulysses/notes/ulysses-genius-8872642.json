@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8872642",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Toper",
+  "html_source": "<p>a hard drinker or chronic drunkard</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8872642/James-joyce-ulysses-chap-10-wandering-rocks/Toper",
+    "original_id": "8872642",
+    "referent_id": 8872642,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "toper",
+    "prefix": "asy black rope. 1922#230Dogs licking the blood off the street when the lord lieutenant's wife drove by in her noddy. \n\n Bad times those were. Well, well. Over and done with. Great ",
+    "suffix": "s too. Fourbottle men. \n\n Let me see. Is he buried in saint Michan's? Or no, there was a midnight burial in Glasnevin. Corpse brought in through a secret door in the wall. Dignam i",
+    "start": 44148,
+    "end": 44153,
+    "canonical_text": "toper"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8872642,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

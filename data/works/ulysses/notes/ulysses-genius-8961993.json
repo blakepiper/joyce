@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8961993",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Seventeenth of the month",
+  "html_source": "<p>St Patrick’s day is celecrated on March 17 as tradition holds that he died on 17 March</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8961993/James-joyce-ulysses-chap-12-cyclops/Seventeenth-of-the-month",
+    "original_id": "8961993",
+    "referent_id": 8961993,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "seventeenth of the month",
+    "prefix": "ws were freely exchanged. The baby policeman, Constable MacFadden, summoned by special courier from Booterstown, quickly restored order and with lightning promptitude proposed the ",
+    "suffix": " as a solution equally honourable for both contending parties. The readywitted ninefooter's suggestion at once appealed to all and was unanimously accepted. Constable MacFadden was",
+    "start": 36803,
+    "end": 36827,
+    "canonical_text": "seventeenth of the month"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8961993,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

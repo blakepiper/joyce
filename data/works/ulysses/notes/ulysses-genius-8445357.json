@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8445357",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "_Mort aux vaches_",
+  "html_source": "<p>(French) Death to cows. This is French slang for, Down with the cops!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8445357/James-joyce-ulysses-chap-14-oxen-of-the-sun/Mort-aux-vaches",
+    "original_id": "8445357",
+    "referent_id": 8445357,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "_Mort aux vaches_",
+    "prefix": "o take of some salty sprats that stood by which he had eyed wishly in the meantime and found the place 1932#360which was indeed the chief design of his embassy as he was sharpset. ",
+    "suffix": ", says Frank then in the French language that had been indentured to a brandyshipper that has a winelodge in Bordeaux and he spoke French like a gentleman too. From a child this Fr",
+    "start": 39488,
+    "end": 39503,
+    "canonical_text": "Mort aux vaches"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 8445357,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

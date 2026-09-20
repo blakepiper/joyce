@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4628271",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "You have two copies there.",
+  "html_source": "<p>Mr. Deasy gives Stephen two copies of a letter to the editor that he wants published. Where he wants each to go is mentioned in two lines.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4628271/James-joyce-ulysses-chap-2-nestor/You-have-two-copies-there",
+    "original_id": "4628271",
+    "referent_id": 4628271,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "You have two copies there.",
+    "prefix": "\n\n — Who knows? he said. To learn one must be humble. But life is the great teacher. \n\n Stephen rustled the sheets again. \n\n — As regards these, he began. \n\n — Yes, Mr Deasy said. ",
+    "suffix": " If you can have them published at once. \n\nTelegraph. Irish Homestead.\n\n — I will try, Stephen said, and let you know tomorrow. I know two editors slightly. \n\n — That will do, Mr D",
+    "start": 23621,
+    "end": 23647,
+    "canonical_text": "You have two copies there."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4628271,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.5925925925925926
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.4074074074074074
+      }
+    ]
+  },
+  "color": "F59627"
+}

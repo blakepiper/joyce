@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3271103",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "J. J. O’Molloy",
+  "html_source": "<p>A solicitor down on his luck – <em>Gifford, Ulysses Annotated</em>.</p><p>Another of the <em>crew</em> assembles in the galleys of the paper – quite an assortment: Ned Lambert, JJ O'Molloy, Simon Dedalus and MacHugh.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3271103/James-joyce-ulysses-chap-7-aeolus/J-j-omolloy",
+    "original_id": "3271103",
+    "referent_id": 3271103,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "J. J. O'Molloy",
+    "prefix": "st night? Mr Bloom asked. \n\n Ned Lambert nodded. \n\n — But listen to this, he said. \n\n The doorknob hit Mr Bloom in the small of the back as the door was pushed in. \n\n — Excuse me, ",
+    "suffix": " said, entering. \n\n Mr Bloom moved nimbly aside. \n\n — I beg yours, he said. \n\n — Good day, Jack. \n\n — Come in. Come in. \n\n — Good day. \n\n — How are you, Dedalus? \n\n — Well. And you",
+    "start": 15803,
+    "end": 15817,
+    "canonical_text": "J. J. O'Molloy"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9467
+  },
+  "genius": {
+    "referent_id": 3271103,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

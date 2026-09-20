@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4546576",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Thats all he bought me out of the cheque he got on the first",
+  "html_source": "<p>She complains about the amount that Mr. Bloom spent on her out of his last check.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4546576/James-joyce-ulysses-chap-18-penelope/Thats-all-he-bought-me-out-of-the-cheque-he-got-on-the-first",
+    "original_id": "4546576",
+    "referent_id": 4546576,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "thats all he bought me out of the cheque he got on the first",
+    "prefix": " do a few breathing exercises I wonder is that antifat any good might overdo it the thin ones are not so much the fashion now garters that much I have the violet pair I wore today ",
+    "suffix": " O no there was the face lotion I finished the last of yesterday that made 1961#750my skin like new I told him over and over again get that made up in the same place and dont forge",
+    "start": 34143,
+    "end": 34203,
+    "canonical_text": "thats all he bought me out of the cheque he got on the first"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4546576,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

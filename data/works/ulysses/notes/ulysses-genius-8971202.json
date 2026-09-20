@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8971202",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Lost a bob and found a tanner",
+  "html_source": "<p>bob = shilling = 12 pence<br />tanner = 6 pence</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8971202/James-joyce-ulysses-chap-12-cyclops/Lost-a-bob-and-found-a-tanner",
+    "original_id": "8971202",
+    "referent_id": 8971202,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "lost a bob and found a tanner",
+    "prefix": "hty valorous heroes, rulers of the waves, who sit on thrones of alabaster silent as the deathless gods. \n\n — What's up with you, says I to Lenehan. You look like a fellow that had ",
+    "suffix": ". \n\n — Gold cup, says he. \n\n — Who won, Mr Lenehan? says Terry. \n\n — Throwaway, says he, at twenty to one. A rank outsider. And the rest nowhere. \n\n — And Bass's mare? says Terry. ",
+    "start": 77726,
+    "end": 77755,
+    "canonical_text": "lost a bob and found a tanner"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8971202,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

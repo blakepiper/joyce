@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15063603",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Gorbellied",
+  "html_source": "<p>i.e., <a href=\"https://en.wiktionary.org/wiki/gorbelly#English\" rel=\"noopener nofollow\">fat</a> (as in large-stomached)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15063603/James-joyce-ulysses-chap-9-scylla-and-charybdis/Gorbellied",
+    "original_id": "15063603",
+    "referent_id": 15063603,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "gorbellied",
+    "prefix": " mahone! Acushla machree! It's destroyed we are from this day! It's destroyed we are surely! \n\n All smiled their smiles. \n\n1939#150\n\n — Saint Thomas, Stephen, smiling, said, whose ",
+    "suffix": " works I enjoy reading in the original, writing of incest from a standpoint different from that of the new Viennese school Mr Magee spoke of, likens it in his wise and curious way ",
+    "start": 44487,
+    "end": 44497,
+    "canonical_text": "gorbellied"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15063603,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

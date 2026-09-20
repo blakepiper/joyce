@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11569820",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Pyrrhus, a pier.",
+  "html_source": "<p>This appears to be some sort of joke, relating how the name ‘Pyrrhus’ sounds – phonetically –  like the word pier.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11569820/James-joyce-ulysses-chap-2-nestor/Pyrrhus-a-pier",
+    "original_id": "11569820",
+    "referent_id": 11569820,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "Pyrrhus, a pier.",
+    "prefix": "them softly. Crumbs adhered to the tissue of his lips. A sweetened boy's breath. Welloff people, proud that their eldest son was in the navy. Vico road, Dalkey. \n\n — Pyrrhus, sir? ",
+    "suffix": " \n\n All laughed. Mirthless high malicious laughter. Armstrong looked round 1922#24at his classmates, silly glee in profile. In a moment they will laugh more loudly, aware of my lac",
+    "start": 1374,
+    "end": 1390,
+    "canonical_text": "Pyrrhus, a pier."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11569820,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 4393614,
+        "login": "rageofcaliban",
+        "name": "rageofcaliban",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

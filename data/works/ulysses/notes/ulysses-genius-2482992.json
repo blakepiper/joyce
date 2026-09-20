@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2482992",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Language of flowers.",
+  "html_source": "<p>Also known as <a href=\"http://en.wikipedia.org/wiki/Language_of_flowers\" rel=\"noopener nofollow\">floriography,</a> the “language of flowers” is a kind of traditional code ascribing symbolic meanings to various flowers. A typical breakdown can be found <a href=\"http://www.flora-links.org/flower-a-plant-information-and-photos/meanings-of-flowers.html\" rel=\"noopener nofollow\">here.</a> It was very popular during the Victorian era, in whose waning days <em>Ulysses</em> is set.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2482992/James-joyce-ulysses-chap-5-lotus-eaters/Language-of-flowers",
+    "original_id": "2482992",
+    "referent_id": 2482992,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Language of flowers.",
+    "prefix": " S. Do tell me what kind of perfume does your wife use. I want to know.\n\n\n He tore the flower gravely from its pinhold smelt its almost no smell and placed it in his heart pocket. ",
+    "suffix": " They like it because no-one can hear. Or a poison bouquet to strike him down. Then walking slowly forward he read the letter again, murmuring here and there a word. Angry tulips w",
+    "start": 16026,
+    "end": 16046,
+    "canonical_text": "Language of flowers."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2482992,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 149810,
+        "login": "perfectrhyme",
+        "name": "Perfectrhyme",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

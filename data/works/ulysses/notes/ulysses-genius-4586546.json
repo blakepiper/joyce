@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4586546",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "After the last time we took the port and potted meat",
+  "html_source": "<p>Molly thinks of having port and potted meat with Boylan after they finished making love. <a href=\"https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated/#\" rel=\"noopener nofollow\">Bloom finds crumbs and potted meat on the sheets when he comes to bed latter that night.</a>(Chapter 17 – Ithaca)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4586546/James-joyce-ulysses-chap-18-penelope/After-the-last-time-we-took-the-port-and-potted-meat",
+    "original_id": "4586546",
+    "referent_id": 4586546,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "after the last time we took the port and potted meat",
+    "prefix": "the opera hats I tasted once with my finger dipped out of that American that had the squirrel talking stamps with father he had all he could do to keep himself from falling asleep ",
+    "suffix": " it had a fine salty taste yes because I felt lovely and tired myself and fell asleep as sound as a top the moment I popped straight into bed till that thunder woke me up as if the",
+    "start": 9756,
+    "end": 9814,
+    "canonical_text": "after the last time after we took the port and potted meat"
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9455
+  },
+  "genius": {
+    "referent_id": 4586546,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-26541516",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "While all prayed on their knees.",
+  "html_source": "<p>Stephen here recalls the last moments of his mother’s life, when his father and siblings (who we will meet later) knelt at her deathbed and prayed while Stephen stayed aloof.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/26541516/James-joyce-ulysses-chap-1-telemachus/While-all-prayed-on-their-knees",
+    "original_id": "26541516",
+    "referent_id": 26541516,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "while all prayed on their knees.",
+    "prefix": "s, staring out of death, to shake and bend my soul. On me alone. The ghostcandle to light her agony. Ghostly light on the tortured face. Her hoarse loud breath rattling in horror, ",
+    "suffix": " Her eyes on me to strike me down. Liliata rutilantium te confessorum turma circumdet: iubilantium te virginum chorus excipiat. \n\n Ghoul! Chewer of corpses! \n\n No, mother. Let me b",
+    "start": 15963,
+    "end": 15995,
+    "canonical_text": "while all prayed on their knees."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 26541516,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 8067236,
+        "login": "AndyVineborg",
+        "name": "AndyVineborg",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

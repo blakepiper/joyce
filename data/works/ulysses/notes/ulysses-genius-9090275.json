@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9090275",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Mr Eugene Stratton",
+  "html_source": "<p>From Section 2: “From the hoardings Mr Eugene Stratton grimaced with thick niggerlips at Father Conmee.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9090275/James-joyce-ulysses-chap-10-wandering-rocks/Mr-eugene-stratton",
+    "original_id": "9090275",
+    "referent_id": 9090275,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Mr Eugene Stratton",
+    "prefix": "s. In Lower Mount street a pedestrian in a brown macintosh, eating dry bread, passed swiftly and unscathed across the viceroy's path. At the Royal Canal bridge, from his hoarding, ",
+    "suffix": ", his blub lips agrin, bade all comers welcome to Pembroke township. At Haddington road corner two sanded women halted themselves, an umbrella and a bag in which eleven cockles rol",
+    "start": 74540,
+    "end": 74558,
+    "canonical_text": "Mr Eugene Stratton"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 9090275,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083675,
+        "login": "brnmzsk",
+        "name": "brnmzsk",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

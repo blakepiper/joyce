@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8505033",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Lady Dudley",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/ade878e9fc044f468b23409b1a5fafe4.288x428x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8505033/James-joyce-ulysses-chap-10-wandering-rocks/Lady-dudley",
+    "original_id": "8505033",
+    "referent_id": 8505033,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "lady Dudley",
+    "prefix": "at was Mr Dignam, my father. I hope he is in 1961#251purgatory now because he went to confession to Father Conroy on Saturday night. \n\n*\n*  *\n\n William Humble, earl of Dudley, and ",
+    "suffix": ", accompanied by lieutenantcolonel Hesseltine, drove out after luncheon from the viceregal lodge. In the following carriage were the honourable Mrs Paget, Miss de Courcy and the ho",
+    "start": 67890,
+    "end": 67901,
+    "canonical_text": "lady Dudley"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9376
+  },
+  "genius": {
+    "referent_id": 8505033,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

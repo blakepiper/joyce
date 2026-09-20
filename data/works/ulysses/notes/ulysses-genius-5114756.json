@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-5114756",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "C’est tordant, vous savez. Moi, je suis socialiste. Je ne crois pas en l’existence de Dieu. Faut pas le dire a mon p-re.\n \n —Il croit?\n \n —Mon pere, oui.",
+  "html_source": "<p>It’s hilarious, you know. Me, I’m a socialist. I don’t believe in the existence of God. But don’t tell my father that.<br />Stephen asks, “your father’s a believer?” Patrice replies, “My father, yes.”</p><p>PROPOSED SUGGESTION: Again a mistake this should read ‘père’ not p-re. It means father in French.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5114756/James-joyce-ulysses-chap-3-proteus/Cest-tordant-vous-savez-moi-je-suis-socialiste-je-ne-crois-pas-en-lexistence-de-dieu-faut-pas-le-dire-a-mon-p-re-il-croit-mon-pere-oui",
+    "original_id": "5114756",
+    "referent_id": 5114756,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "C'est tordant, vous savez. Moi, je suis socialiste. Je ne crois pas en l'existence de Dieu. Faut pas le dire a mon p-re.\n \n —Il croit?\n \n —Mon pere, oui.",
+    "prefix": "p, lapin. He hopes to win in the gros lots. About the nature of women he read in Michelet. But he must send me La Vie de Jésus by M. Léo Taxil. Lent it to his friend. \n\n1986#34\n\n— ",
+    "suffix": " \n\n Schluss. He laps. \n\n My Latin quarter hat. God, we simply must dress the character. I want puce gloves. You were a student, weren't you? Of what in the other devil's name? Pays",
+    "start": 10413,
+    "end": 10565,
+    "canonical_text": "C'est tordant, vous savez. Moi, je suis socialiste. Je ne crois pas en l'existence de Dieu. Faut pas le dire à mon père. \n\n— Il croit? \n\n—Mon père, oui."
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9827
+  },
+  "genius": {
+    "referent_id": 5114756,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1618748,
+        "login": "Kataryna",
+        "name": "Kataryna",
+        "role": "contributor",
+        "attribution": 0.9629629629629629
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.037037037037037035
+      }
+    ]
+  },
+  "color": "F59627"
+}

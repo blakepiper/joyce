@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-32942082",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "And",
+  "html_source": "<p>Most agreed, including Young lynch <em>[that the world was ‘right evil governed’ as it’s always been so]</em> no matter what people thought, the law gives us no options.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/32942082/James-joyce-ulysses-chap-14-oxen-of-the-sun/And",
+    "original_id": "32942082",
+    "referent_id": 32942082,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "And",
+    "prefix": "ng, they said, the woman should bring forth in pain and wherefore they that were of this imagination affirmed how young Madden had said truth for he had conscience to let her die. ",
+    "suffix": " not few and of these was young Lynch were in doubt that the world was now right evil governed as it was never other howbeit the mean people believed it otherwise but the law nor h",
+    "start": 14837,
+    "end": 14840,
+    "canonical_text": "And"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 32942082,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

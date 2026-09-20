@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8489369",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "The man upstairs is dead.",
+  "html_source": "<p>As much as cynics want to insist this is James Joyce declaring God is dead, it is not. it alludes to Episode 18 below in which Patsy Dignam says, “Never see him again. Death, that is. Pa is dead. My father is dead.” It may also be Simon Dedalus fantasizing about how sorry they’ll all be when he’s dead.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8489369/James-joyce-ulysses-chap-10-wandering-rocks/The-man-upstairs-is-dead",
+    "original_id": "8489369",
+    "referent_id": 8489369,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "The man upstairs is dead.",
+    "prefix": "died. But wait awhile. You'll all get a short shrift and a long day from me. Low blackguardism! I'm going to get rid of you. Wouldn't care if I was stretched out stiff. He's dead. ",
+    "suffix": " \n\n1986#195\n\n He left her and walked on. Dilly followed quickly and pulled his coat. \n\n — Well, what is it? he said, stopping. \n\n The lacquey rang his bell behind their backs. \n\n —",
+    "start": 39197,
+    "end": 39222,
+    "canonical_text": "The man upstairs is dead."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8489369,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

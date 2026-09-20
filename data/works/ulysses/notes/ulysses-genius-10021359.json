@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10021359",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Muriatic",
+  "html_source": "<p>an old name for hydrochloric acid (HCl)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10021359/James-joyce-ulysses-chap-15-circe/Muriatic",
+    "original_id": "10021359",
+    "referent_id": 10021359,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "muriatic",
+    "prefix": "hnic. (He taps his parchmentroll energetically.) This book tells you how to act with all descriptive 1932#451particulars. Consult index for agitated fear of aconite, melancholy of ",
+    "suffix": ", priapic pulsatilla. Virag is going to talk about amputation. Our old friend caustic. 1922#483They must be starved. Snip off with horsehair under the denned neck. But, to change t",
+    "start": 120219,
+    "end": 120227,
+    "canonical_text": "muriatic"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10021359,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

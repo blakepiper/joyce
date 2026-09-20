@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8794306",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Dead March from Saul",
+  "html_source": "<p>Dead March in Saul. Popular name for the funeral march from Handel’s oratorio Saul (1739) which is used on state occasions such as the funeral of a sovereign.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8794306/James-joyce-ulysses-chap-6-hades/Dead-march-from-saul",
+    "original_id": "8794306",
+    "referent_id": 8794306,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Dead March from Saul",
+    "prefix": " they turned into Berkeley street a streetorgan near the Basin sent over and after them a rollicking rattling song of the halls. Has anybody here seen Kelly? Kay ee double ell wy. ",
+    "suffix": ". He's as bad as old Antonio. He left me on my ownio. Pirouette! The Mater Misericordiae. Eccles street. My house down there. Big place. Ward for incurables there. Very encouraging",
+    "start": 21812,
+    "end": 21832,
+    "canonical_text": "Dead March from Saul"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8794306,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8794274",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Streetorgan",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/cf72e4d2a574344e8d10b36e48716a0a.750x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8794274/James-joyce-ulysses-chap-6-hades/Streetorgan",
+    "original_id": "8794274",
+    "referent_id": 8794274,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "streetorgan",
+    "prefix": ". That will be a great race tomorrow in Germany. The Gordon Bennett. \n\n — Yes, by Jove, Mr Dedalus said. That will be worth seeing, faith. \n\n As they turned into Berkeley street a ",
+    "suffix": " near the Basin sent over and after them a rollicking rattling song of the halls. Has anybody here seen Kelly? Kay ee double ell wy. Dead March from Saul. He's as bad as old Antoni",
+    "start": 21668,
+    "end": 21679,
+    "canonical_text": "streetorgan"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8794274,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

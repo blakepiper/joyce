@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8769846",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Force of gravity of the earth is the weight",
+  "html_source": "<p>The weight of an object is defined as the force of gravity on the object and may be calculated as the mass times the acceleration of gravity,<br />weight = mass x gravitational acceleration. It’s known as the gravitational field strength.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8769846/James-joyce-ulysses-chap-5-lotus-eaters/Force-of-gravity-of-the-earth-is-the-weight",
+    "original_id": "8769846",
+    "referent_id": 8769846,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "force of gravity of the earth is the weight",
+    "prefix": "What is weight really when you say the weight? Thirtytwo feet per second per second. Law of falling bodies: per second per second. They all fall to the ground. The earth. It's the ",
+    "suffix": ". \n\n He turned away and sauntered across the road. How did she walk with her sausages? Like that something. As he walked he took the folded Freeman from his sidepocket, unfolded it",
+    "start": 3314,
+    "end": 3357,
+    "canonical_text": "force of gravity of the earth is the weight"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8769846,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.8205128205128206
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.1794871794871795
+      }
+    ]
+  },
+  "color": "F59627"
+}

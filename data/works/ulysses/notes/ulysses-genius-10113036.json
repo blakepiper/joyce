@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10113036",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Says the blind man",
+  "html_source": "<p>(idiomatic) Said to express confusion. Also used to express understanding after an initial period of confusion<br /><a href=\"http://www.yourdictionary.com/i-see-said-the-blind-man\" rel=\"noopener nofollow\">http://www.yourdictionary.com/i-see-said-the-blind-man</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10113036/James-joyce-ulysses-chap-15-circe/Says-the-blind-man",
+    "original_id": "10113036",
+    "referent_id": 10113036,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "says the blind man",
+    "prefix": "m her newlaid egg and waddles off.) \n\n1932#487\n\n BLOOM \n\n(Points to his hand.) That weal there is an accident. Fell and cut it twentytwo years ago. I was sixteen. \n\n ZOE \n\n I see, ",
+    "suffix": ". Tell us news. \n\n STEPHEN \n\n See? Moves to one great goal. I am twentytwo. Sixteen years ago he was twentytwo too. Sixteen years ago I twentytwo tumbled. Twentytwo years ago he si",
+    "start": 183558,
+    "end": 183576,
+    "canonical_text": "says the blind man"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10113036,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

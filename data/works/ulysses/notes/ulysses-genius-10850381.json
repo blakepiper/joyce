@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10850381",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "9th power of the 9th power of 9",
+  "html_source": "<p>a number with 369,693,100 digits<br /><a href=\"http://mathforum.org/library/drmath/view/59172.html\" rel=\"noopener nofollow\">http://mathforum.org/library/drmath/view/59172.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10850381/James-joyce-ulysses-chap-17-ithaca/9th-power-of-the-9th-power-of-9",
+    "original_id": "10850381",
+    "referent_id": 10850381,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "9th power of the 9th power of 9",
+    "prefix": "blem of the quadrature of the circle he had learned of the existence of a number computed to a relative degree of accuracy to be of such magnitude and of so many places, e.g., the ",
+    "suffix": ", that, the result having been obtained, 33 closely printed volumes of 1000 pages each of innumerable quires and reams of India paper would have to be requisitioned in order to con",
+    "start": 67992,
+    "end": 68023,
+    "canonical_text": "9th power of the 9th power of 9"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10850381,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

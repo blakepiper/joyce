@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4014498",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "By Bassi’s blessed virgins Bloom’s",
+  "html_source": "<p>Statue and picture framer, 14 Wellington Quay, (Gifford).</p><p><img src=\"https://images.rapgenius.com/81f78846eed80a2e5cbb893c05858ad9.640x427x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4014498/James-joyce-ulysses-chap-11-sirens/By-bassis-blessed-virgins-blooms",
+    "original_id": "4014498",
+    "referent_id": 4014498,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "By Bassi's blessed virgins Bloom's",
+    "prefix": "er, shouting: \n\n — And your other eye! \n\n Bloowhose dark eye read Aaron Figatner's name. Why do I always think Figather? Gathering figs, I think. And Prosper Lore's huguenot name. ",
+    "suffix": " dark eyes went by. Bluerobed, white under, come to me. God they believe she is: or goddess. Those today. I could not see. That 1961#259fellow spoke. A student. After with Dedalus'",
+    "start": 6957,
+    "end": 6991,
+    "canonical_text": "By Bassi's blessed virgins Bloom's"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4014498,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

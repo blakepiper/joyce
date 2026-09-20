@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15129918",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Glendalough",
+  "html_source": "<p>A glacial valley in County Wicklow known for its early medieval monastic settlement founded by St. Kevin in the 6th century.</p><p><img src=\"https://images.genius.com/2d5f1e846f7722c643e65f7689b1f39c.1000x750x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15129918/James-joyce-ulysses-chap-12-cyclops/Glendalough",
+    "original_id": "15129918",
+    "referent_id": 15129918,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Glendalough",
+    "prefix": "nes, are as wonderfully beautiful and the pigments as delicate as when the Sligo illuminators gave free rein to their artistic fantasy long long ago in the time of the Barmecides. ",
+    "suffix": ", the lovely lakes of Killarney, the ruins of Clonmacnois, Cong Abbey, Glen Inagh and the Twelve Pins, Ireland's Eye, the Green Hills of Tallaght, Croagh Patrick, the brewery of Me",
+    "start": 92803,
+    "end": 92814,
+    "canonical_text": "Glendalough"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15129918,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

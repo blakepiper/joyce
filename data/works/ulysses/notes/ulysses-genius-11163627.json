@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11163627",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Lloyds Weekly",
+  "html_source": "<p><a href=\"http://www.edwardlloyd.org/LW.htm\" rel=\"noopener nofollow\">http://www.edwardlloyd.org/LW.htm</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11163627/James-joyce-ulysses-chap-18-penelope/Lloyds-weekly",
+    "original_id": "11163627",
+    "referent_id": 11163627,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Lloyds Weekly",
+    "prefix": "gar at the door for a crust with his long story might be a tramp and put his foot in the way to prevent me shutting it like that picture of that hardened criminal he was called in ",
+    "suffix": " News 20 years in jail then he comes out and murders an old woman for her money imagine his poor wife or mother or whoever she is such a face youd run miles away from I couldnt res",
+    "start": 73641,
+    "end": 73654,
+    "canonical_text": "Lloyds Weekly"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11163627,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

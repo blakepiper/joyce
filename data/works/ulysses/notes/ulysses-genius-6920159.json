@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-6920159",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Solfa fable",
+  "html_source": "<p>A music score featuring Aesop’s fable ‘The fox and the stork’. The Sol-fa system is a sight-singing and notation schema first mooted by D. Sower in 1832, developed by Sarah Ann Glover (1785–1867) as Norwich Sol-fa, and pioneered by John Curwen (1816–80) in the 1840s. Based on movable-doh system of solmization. Notes of major scale are named (in ascending order) doh, ray, me, fah, soh, lah, te, where doh is the tonic, other notes being thus related to tonic of the moment, not fixed in pitch.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6920159/James-joyce-ulysses-chap-11-sirens/Solfa-fable",
+    "original_id": "6920159",
+    "referent_id": 6920159,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "solfa fable",
+    "prefix": "nly the black ones: round o and crooked ess. \n\n1932#235\n\n Jingle jaunty jingle. \n\n Girlgold she read and did not glance. Take no notice. She took no notice while he read by rote a ",
+    "suffix": " for her, plappering flatly: \n\n — Ah fox met ah stork. Said thee fox too thee stork: Will you put your bill down inn my troath and pull upp ah bone? \n\n He droned in vain. Miss Douc",
+    "start": 12156,
+    "end": 12167,
+    "canonical_text": "solfa fable"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6920159,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1618748,
+        "login": "Kataryna",
+        "name": "Kataryna",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

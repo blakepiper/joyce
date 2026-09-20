@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21203125",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Ci rifletterò",
+  "html_source": "<p>Italian: “I will think about it.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21203125/James-joyce-ulysses-chap-10-wandering-rocks/Ci-riflettero",
+    "original_id": "21203125",
+    "referent_id": 21203125,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Ci rifletterò",
+    "prefix": "ioed face said pleasantly. Ma, dia retta a me. Ci rifletta.\n\nBy the stern stone hand of Grattan, bidding halt, an Inchicore tram unloaded straggling Highland soldiers of a band.\n\n—",
+    "suffix": ", Stephen said, glancing down the solid trouserleg.\n\n—Ma, sul serio, eh? Almidano Artifoni said.\n\nHis heavy hand took Stephen's firmly. Human eyes. They gazed curiously an instant ",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.8889
+  },
+  "genius": {
+    "referent_id": 21203125,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

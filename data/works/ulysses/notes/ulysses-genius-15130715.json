@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15130715",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Visszontlátásra, kedves baráton! Visszontlátásra!",
+  "html_source": "<p>Hungarian: “Goodbye, my dear friend! Goodbye!”<br />The correct form is Viszontlátásra, kedves barátom! Viszontlátásra!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15130715/James-joyce-ulysses-chap-12-cyclops/Visszontlatasra-kedves-baraton-visszontlatasra",
+    "original_id": "15130715",
+    "referent_id": 15130715,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Visszontlátásra, kedves baráton! Visszontlátásra!",
+    "prefix": "illa of barges, the flags of the Ballast office and Custom House were dipped in salute as were also those of the electrical power station at the Pigeonhouse and the Poolbeg Light. ",
+    "suffix": " Gone but not forgotten. \n\n Gob, the devil wouldn't stop him till he got hold of the bloody tin anyhow and out with him and little Alf hanging on to his elbow and he shouting like ",
+    "start": 117995,
+    "end": 118044,
+    "canonical_text": "Visszontlátásra, kedvès baráton! Visszontlátásra!"
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9796
+  },
+  "genius": {
+    "referent_id": 15130715,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

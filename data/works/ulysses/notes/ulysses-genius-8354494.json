@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8354494",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "The bright stars fade...",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/dc360784cc00087a0e9caa92c05b657e.625x983x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8354494/James-joyce-ulysses-chap-11-sirens/The-bright-stars-fade",
+    "original_id": "8354494",
+    "referent_id": 8354494,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "The bright stars fade...",
+    "prefix": "ngs. Longer in dying call. \n\n Pat paid for diner's popcorked bottle: and over tumbler, tray and popcorked bottle ere he went he whispered, bald and bothered, with Miss Douce. \n\n — ",
+    "suffix": " \n\n A voiceless song sang from within, singing: \n\n — ... the morn is breaking. \n\n A duodene of birdnotes chirruped bright treble answer under sensitive 1932#237hands. Brightly the ",
+    "start": 16087,
+    "end": 16111,
+    "canonical_text": "The bright stars fade..."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8354494,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1520984,
+        "login": "RedSwanHotel",
+        "name": "RedSwanHotel",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

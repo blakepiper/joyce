@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-6716318",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Prepuces",
+  "html_source": "<p>the homologous structures of male and female genitals, i.e. the clitoral hood and foreskin [image withheld]</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6716318/James-joyce-ulysses-chap-1-telemachus/Prepuces",
+    "original_id": "6716318",
+    "referent_id": 6716318,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "prepuces",
+    "prefix": "ng at her. Ah, to be sure! \n\n Stephen reached back and took the milkjug from the locker. \n\n — The islanders, Mulligan said to Haines casually, speak frequently of the collector of ",
+    "suffix": ". \n\n — How much, sir? asked the old woman. \n\n — A quart, Stephen said. \n\n He watched her pour into the measure and thence into the jug rich white 1922#13milk, not hers. Old shrunke",
+    "start": 22370,
+    "end": 22378,
+    "canonical_text": "prepuces"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6716318,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1060900,
+        "login": "dvrath",
+        "name": "dvrath",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

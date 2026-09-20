@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-29720273",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Daily",
+  "html_source": "<p>The daily bread, reference to the <i>Pater noster<i></i></i></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/29720273/James-joyce-ulysses-chap-4-calypso/Daily",
+    "original_id": "29720273",
+    "referent_id": 29720273,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "daily",
+    "prefix": "he heat. But I couldn't go in that light suit. Make a1986#46 picnic of it. His eyelids sank quietly often as he walked in happy warmth. Boland's breadvan delivering with trays our ",
+    "suffix": " but she prefers yesterday's loaves turnovers crisp crowns hot. Makes you feel young. Somewhere in the east: early morning: set off at dawn. Travel round in front of the sun, steal",
+    "start": 5215,
+    "end": 5220,
+    "canonical_text": "daily"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 29720273,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 7478054,
+        "login": "Fachir04",
+        "name": "Fachir04",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

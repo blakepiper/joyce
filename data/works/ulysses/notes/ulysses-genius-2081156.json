@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2081156",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "The voices blend",
+  "html_source": "<p>This section (from “The voices blend” to “the forehead of Taurus”) is written in the style of English romantic writer <a href=\"http://en.wikipedia.org/wiki/Thomas_De_Quincey\" rel=\"noopener nofollow\">Thomas De Quincey</a>, best known for <a href=\"http://en.wikipedia.org/wiki/Confessions_of_an_English_Opium-Eater\" rel=\"noopener nofollow\"><em>Confessions of an English Opium-Eater</em></a>.</p><p><img src=\"https://images.genius.com/94eff847714279b7f4d9efa8d680e361.540x640x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2081156/James-joyce-ulysses-chap-14-oxen-of-the-sun/The-voices-blend",
+    "original_id": "2081156",
+    "referent_id": 2081156,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "The voices blend",
+    "prefix": "at youthful illusion of thy strength was taken from thee and in vain. No son of thy loins is by 1961#413thee. There is none now to be for Leopold, what Leopold was for Rudolph. \n\n ",
+    "suffix": " and fuse in clouded silence: silence that is the infinite of space: and swiftly, silently the soul is wafted over regions of cycles of generations that have lived. A region where ",
+    "start": 78068,
+    "end": 78084,
+    "canonical_text": "The voices blend"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2081156,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

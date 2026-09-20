@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8877040",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Of her. I seen",
+  "html_source": "<p>The text is missing a sentence between these two: “She loosened many a man’s thighs.” Gifford comments, thought, that, apart from her affair with Parnell, there was no reason to suspect her of promiscuity.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8877040/James-joyce-ulysses-chap-16-eumaeus/Of-her-i-seen",
+    "original_id": "8877040",
+    "referent_id": 8877040,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "of her. I seen",
+    "prefix": " him, the shebeen proprietor commented. She put the first nail in his coffin. \n\n — Fine lump of a woman, all the same, the soi-disant townclerk Henry Campbell remarked, and plenty ",
+    "suffix": " her picture in a barber's. The husband was a captain or an officer. \n\n — Ay, Skin-the-Goat amusingly added, he was, and a cottonball one. \n\n This gratuitous contribution of a humo",
+    "start": 93026,
+    "end": 93040,
+    "canonical_text": "of her. I seen"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8877040,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8763798",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Orange lodges",
+  "html_source": "<p>The Loyal Orange Institution, more commonly known as the Orange Order, is an international Protestant fraternal organisation based primarily in Northern Ireland, with a significant presence in the Scottish Lowlands and lodges throughout the Commonwealth.  It is headed by the Grand Orange Lodge of Ireland, which was established in 1798. Its name is a tribute to the Dutch-born Protestant king William of Orange, who defeated the army of Catholic king James II at the Battle of the Boyne (1690). Its members wear orange sashes and are referred to as Orangemen.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8763798/James-joyce-ulysses-chap-2-nestor/Orange-lodges",
+    "original_id": "8763798",
+    "referent_id": 8763798,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "orange lodges",
+    "prefix": "ales. \n\n — You think me an old fogey and an old tory, his thoughtful voice said. I saw three generations since O'Connell's time. I remember the famine in '46. Do you know that the ",
+    "suffix": " agitated for repeal of the union twenty years before O'Connell did or before the prelates of your communion denounced him as a demagogue? You fenians forget some things. \n\n Glorio",
+    "start": 15142,
+    "end": 15155,
+    "canonical_text": "orange lodges"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8763798,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-6885941",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Lifted",
+  "html_source": "<p>Perhaps to fart, literally and/or metaphorically? Echoing the earlier quotation from Dante “del cul trombetta”?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6885941/James-joyce-ulysses-chap-9-scylla-and-charybdis/Lifted",
+    "original_id": "6885941",
+    "referent_id": 6885941,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Lifted",
+    "prefix": "n Dublin. Who is the ghost from limbo patrum, returning to the world that has forgotten him? Who is King Hamlet? \n\n John Eglinton shifted his spare body, leaning back to judge. \n\n ",
+    "suffix": ". \n\n — It is this hour of a day in mid June, Stephen said, begging with a swift glance their hearing. The flag is up on the playhouse by the bankside. The bear Sackerson growls in ",
+    "start": 8564,
+    "end": 8570,
+    "canonical_text": "Lifted"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6885941,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1773543,
+        "login": "IanT",
+        "name": "IanT",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

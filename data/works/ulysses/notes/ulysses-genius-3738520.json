@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3738520",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "A slack dishonoured body that once was comely",
+  "html_source": "<p>The elderly Anne Hathaway, Shakespeare’s wife.</p><p>Not this Anne Hathaway:</p><p><img src=\"https://images.rapgenius.com/a225f11a4d818c9995ce9232de882dee.300x437x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3738520/James-joyce-ulysses-chap-9-scylla-and-charybdis/A-slack-dishonoured-body-that-once-was-comely",
+    "original_id": "3738520",
+    "referent_id": 3738520,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "a slack dishonoured body that once was comely",
+    "prefix": ". Knowing no vixen, walking lonely in the chase. Women he won to him, tender people, a whore of Babylon, ladies of justices, bully tapsters' wives. Fox and geese. And in New Place ",
+    "suffix": ", once as sweet, as fresh as cinnamon, now her leaves falling, all, bare, frighted of the narrow grave and unforgiven. \n\n — Yes. So you think... \n\n The door closed behind the outgo",
+    "start": 19199,
+    "end": 19244,
+    "canonical_text": "a slack dishonoured body that once was comely"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3738520,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

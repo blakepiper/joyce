@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8845178",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Mavrone,",
+  "html_source": "<p>mavrone<br />Interjection<br />An expression of sorrow; alas.<br />Origin<br />Anglo-Irish, from Irish mo bhrón, from mo (“my”) + brón (“grief”).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8845178/James-joyce-ulysses-chap-9-scylla-and-charybdis/Mavrone",
+    "original_id": "8845178",
+    "referent_id": 8845178,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "mavrone,",
+    "prefix": ", I'm thinking, and he limp with leching. And we one hour and two hours and three hours in Connery's sitting civil waiting for pints apiece. \n\n He wailed: \n\n — And we to be there, ",
+    "suffix": " and you to be unbeknownst sending us your conglomerations the way we to have our tongues out a yard long like the drouthy clerics do be fainting for a pussful. \n\n Stephen laughed.",
+    "start": 32341,
+    "end": 32349,
+    "canonical_text": "mavrone,"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8845178,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

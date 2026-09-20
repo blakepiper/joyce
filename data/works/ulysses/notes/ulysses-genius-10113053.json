@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10113053",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Ungulate",
+  "html_source": "<p>noun  ZOOLOGY<br />a hoofed mammal.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10113053/James-joyce-ulysses-chap-15-circe/Ungulate",
+    "original_id": "10113053",
+    "referent_id": 10113053,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "ungulate",
+    "prefix": "ere you brushing the cobwebs off a few quims? \n\n BOYLAN \n\n(Seated, smiles.) Plucking a turkey. \n\n LENEHAN \n\n A good night's work. \n\n1932#488\n\n BOYLAN \n\n(Holding up four thick blunt",
+    "suffix": "d fingers, winks.) Blazes Kate! Up to sample or your money back. (He holds out a forefinger.) Smell that. \n\n1961#564\n\n LENEHAN \n\n(Smells gleefully.) Ah! Lobster and mayonnaise. Ah!",
+    "start": 184983,
+    "end": 184991,
+    "canonical_text": "ungulate"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10113053,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

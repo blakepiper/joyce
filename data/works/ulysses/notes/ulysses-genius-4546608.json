@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4546608",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Ill be 33",
+  "html_source": "<p>Molly miscalculates – she will be thirty-four years old in September.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4546608/James-joyce-ulysses-chap-18-penelope/Ill-be-33",
+    "original_id": "4546608",
+    "referent_id": 4546608,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Ill be 33",
+    "prefix": "u and women try to walk on you because they know youve no man then with all the things getting dearer every day for the 4 years more I have of life up to 35 no Im what am I at all ",
+    "suffix": " in September will I what O well look at that Mrs Galbraith shes much older than me I saw her when I was out last week her beautys on the wane she was a lovely woman magnificent he",
+    "start": 35494,
+    "end": 35503,
+    "canonical_text": "Ill be 33"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4546608,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

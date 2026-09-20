@@ -1,0 +1,413 @@
+{
+  "work": "ulysses",
+  "chapters": 18,
+  "legacy_notes_copied": 1224,
+  "legacy_media_copied": 4039,
+  "genius_notes_discovered": 4880,
+  "genius_notes_matched": 4781,
+  "genius_notes_quarantined": 99,
+  "ambiguous_matches": 22,
+  "unmatched_notes": 77,
+  "legacy_chapters_untouched": true,
+  "legacy_notes_untouched": true,
+  "legacy_snapshot": [
+    {
+      "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+      "html_sha256": "1a5682477a276417b320abd769a998b5a6b5dfb22756024bc58c22198fac1f28",
+      "visible_text_sha256": "d9f102a01167b40e7bdd3fd735ca4037c66dd46886f00a2acf330abdbce82f2f",
+      "legacy_anchor_count": 279,
+      "legacy_reference_count": 279
+    },
+    {
+      "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+      "html_sha256": "562c26d53a6efa1d801ff991dac3d6f0f7890a5ad749511a6940e591735956de",
+      "visible_text_sha256": "de86dc3327baa2ea35c32facc3f41fb93d7ae72343a925f7249d7e0ddf595d81",
+      "legacy_anchor_count": 149,
+      "legacy_reference_count": 149
+    },
+    {
+      "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+      "html_sha256": "4db677e6bd866c36767e9d30ff319f1775e589aad02ea4b090c908a21f1a585c",
+      "visible_text_sha256": "bb016f99a5cb4e9b1008a0c0866d9d6c1839f92a4a7b25f70d988b8444e379a9",
+      "legacy_anchor_count": 338,
+      "legacy_reference_count": 338
+    },
+    {
+      "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+      "html_sha256": "8824e648f813f74d3c37e13bf8e48161a678d38283c7d46a418b794191cc30d3",
+      "visible_text_sha256": "ed05e70e0f85b7228028c3c31c7a6f524259e62edbc093c53c7ca597c0d728e2",
+      "legacy_anchor_count": 196,
+      "legacy_reference_count": 196
+    },
+    {
+      "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+      "html_sha256": "260f7c83f1fd7cd7d554646ad5cc0290ba09710983104321108b0f4f24f0c871",
+      "visible_text_sha256": "8c9169136155e88186eb80c0f1561942cd7e0d6fda8d3b161a2a81387d2904b1",
+      "legacy_anchor_count": 216,
+      "legacy_reference_count": 216
+    },
+    {
+      "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+      "html_sha256": "c13e74927cc9b2ef7016b69b52b29044fd7c4bcf5797f676e475cc9a1e72700e",
+      "visible_text_sha256": "3e20dea70334f7e0d60e426d2e1ee7d14df1cd030c68692c90fd7b7e3884ba2e",
+      "legacy_anchor_count": 209,
+      "legacy_reference_count": 209
+    },
+    {
+      "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+      "html_sha256": "618a8a29597d784e3377f7e2f754b99f284d75a3f60cbf9ea1b29f0969287b9c",
+      "visible_text_sha256": "e30c72a58e70bc35a116a08b6739374552f295639601389e5ade7b1f0f27e1a4",
+      "legacy_anchor_count": 227,
+      "legacy_reference_count": 227
+    },
+    {
+      "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+      "html_sha256": "86cfa427d3ef4cf62e4b393c3427b55dd34ef9704dcbef8bbf0bee9aeec967fd",
+      "visible_text_sha256": "3ef89313bea4cc1bf007161389dbdece82ac96a6e50ff65b692ac0be0d0e570f",
+      "legacy_anchor_count": 263,
+      "legacy_reference_count": 263
+    },
+    {
+      "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+      "html_sha256": "430ebaf00264239a9a566d4ae7a78469ecb4afacc909773236c440beaf9e6883",
+      "visible_text_sha256": "71ed042f01c413c07b4281d294a475b88444f87e622ad109a67830025977fd4b",
+      "legacy_anchor_count": 227,
+      "legacy_reference_count": 227
+    },
+    {
+      "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+      "html_sha256": "5d310b89756b35976af4b0f3546284fd8ce016d26bcf46a77e5fcef6542b4bd1",
+      "visible_text_sha256": "9c340ed2b3b0932f277bc851b41c95e55dc0e5ee3a9d93014f977acc61c54436",
+      "legacy_anchor_count": 307,
+      "legacy_reference_count": 307
+    },
+    {
+      "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+      "html_sha256": "d92ec6984514f66bba0f5ed0b3d08083f449684372a824c4739f254df723388a",
+      "visible_text_sha256": "f4bd837220d12925db9cb76bd64c685b1dea615bd006e0ee5494db9f81c91a67",
+      "legacy_anchor_count": 284,
+      "legacy_reference_count": 284
+    },
+    {
+      "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+      "html_sha256": "73cc448be06f2a95c0e12757387bdc3dcd8f0a6f88a978db5b76e65b18e1d121",
+      "visible_text_sha256": "4600dd1a4f64eab4b38b1d5a05648c38017e7b58f21cd457cff353493de6112e",
+      "legacy_anchor_count": 452,
+      "legacy_reference_count": 452
+    },
+    {
+      "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+      "html_sha256": "5c335aa06356ec4fab44912642bc2312b4fdec9149b4d38522f485b69c6f2beb",
+      "visible_text_sha256": "be0adf72e81d9fcf3a25ebbcbce9b71d3762e808e94a581b059670ee88f4c91a",
+      "legacy_anchor_count": 264,
+      "legacy_reference_count": 264
+    },
+    {
+      "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+      "html_sha256": "68835d2b678f2dc9f696024f58edc19962919ba8bd967c1e391c5482e8872224",
+      "visible_text_sha256": "5d6a4931832ac93487cbec3beee531e2f8d383b3890eeac98cbc7d9f2f7fdb60",
+      "legacy_anchor_count": 218,
+      "legacy_reference_count": 218
+    },
+    {
+      "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+      "html_sha256": "fdf57c950583928da4b09cc1eab1faf816950861fcb1a15ba08721ad580cb4ea",
+      "visible_text_sha256": "fd50f449145618b2e9ca2f99afe8f41cde7769ed716279d82445791619581c83",
+      "legacy_anchor_count": 501,
+      "legacy_reference_count": 501
+    },
+    {
+      "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+      "html_sha256": "910a0185204e368551711f2fbf5209cb19119c0be64686dff9d93bd96183d8e2",
+      "visible_text_sha256": "535b062745bfdd5707441bdac4b26df2aa8a92ad2576f97a28ca56a94affc78e",
+      "legacy_anchor_count": 187,
+      "legacy_reference_count": 187
+    },
+    {
+      "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+      "html_sha256": "c5a453e9a3e4ff78137dabc9878acf2688e2d45905d8b420f93d47ba0ae26a91",
+      "visible_text_sha256": "55f3dd0916a5e07faca591ad4d3b6982e546be1e56d630d06d4bf420e1e22a94",
+      "legacy_anchor_count": 263,
+      "legacy_reference_count": 263
+    },
+    {
+      "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+      "html_sha256": "a395788875bbc76c7b197ce068df09d62a2b3296302b6626da785cf3443ddf9c",
+      "visible_text_sha256": "ff6fd70f3f50a4b43ea02b996194782fe844aa4608ecc1bd9d64711d5b4c51f0",
+      "legacy_anchor_count": 165,
+      "legacy_reference_count": 165
+    }
+  ],
+  "chapters_report": [
+    {
+      "chapter": 1,
+      "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+      "title": "Telemachus",
+      "genius_discovered": 276,
+      "genius_matched": 271,
+      "legacy_anchors_preserved": 279,
+      "legacy_references_preserved": 279,
+      "source_entry": {
+        "chapter": 1,
+        "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+        "title": "Telemachus",
+        "url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+      }
+    },
+    {
+      "chapter": 2,
+      "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+      "title": "Nestor",
+      "genius_discovered": 106,
+      "genius_matched": 106,
+      "legacy_anchors_preserved": 149,
+      "legacy_references_preserved": 149,
+      "source_entry": {
+        "chapter": 2,
+        "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+        "title": "Nestor",
+        "url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+      }
+    },
+    {
+      "chapter": 3,
+      "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+      "title": "Proteus",
+      "genius_discovered": 341,
+      "genius_matched": 335,
+      "legacy_anchors_preserved": 338,
+      "legacy_references_preserved": 338,
+      "source_entry": {
+        "chapter": 3,
+        "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+        "title": "Proteus",
+        "url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+      }
+    },
+    {
+      "chapter": 4,
+      "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+      "title": "Calypso",
+      "genius_discovered": 161,
+      "genius_matched": 158,
+      "legacy_anchors_preserved": 196,
+      "legacy_references_preserved": 196,
+      "source_entry": {
+        "chapter": 4,
+        "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+        "title": "Calypso",
+        "url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+      }
+    },
+    {
+      "chapter": 5,
+      "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+      "title": "Lotus Eaters",
+      "genius_discovered": 188,
+      "genius_matched": 184,
+      "legacy_anchors_preserved": 216,
+      "legacy_references_preserved": 216,
+      "source_entry": {
+        "chapter": 5,
+        "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+        "title": "Lotus Eaters",
+        "url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+      }
+    },
+    {
+      "chapter": 6,
+      "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+      "title": "Hades",
+      "genius_discovered": 247,
+      "genius_matched": 246,
+      "legacy_anchors_preserved": 209,
+      "legacy_references_preserved": 209,
+      "source_entry": {
+        "chapter": 6,
+        "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+        "title": "Hades",
+        "url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+      }
+    },
+    {
+      "chapter": 7,
+      "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+      "title": "Aeolus",
+      "genius_discovered": 221,
+      "genius_matched": 217,
+      "legacy_anchors_preserved": 227,
+      "legacy_references_preserved": 227,
+      "source_entry": {
+        "chapter": 7,
+        "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+        "title": "Aeolus",
+        "url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+      }
+    },
+    {
+      "chapter": 8,
+      "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+      "title": "Lestrygonians",
+      "genius_discovered": 171,
+      "genius_matched": 169,
+      "legacy_anchors_preserved": 263,
+      "legacy_references_preserved": 263,
+      "source_entry": {
+        "chapter": 8,
+        "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+        "title": "Lestrygonians",
+        "url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+      }
+    },
+    {
+      "chapter": 9,
+      "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+      "title": "Scylla and Charybdis",
+      "genius_discovered": 530,
+      "genius_matched": 519,
+      "legacy_anchors_preserved": 227,
+      "legacy_references_preserved": 227,
+      "source_entry": {
+        "chapter": 9,
+        "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+        "title": "Scylla and Charybdis",
+        "url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+      }
+    },
+    {
+      "chapter": 10,
+      "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+      "title": "Wandering Rocks",
+      "genius_discovered": 260,
+      "genius_matched": 257,
+      "legacy_anchors_preserved": 307,
+      "legacy_references_preserved": 307,
+      "source_entry": {
+        "chapter": 10,
+        "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+        "title": "Wandering Rocks",
+        "url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+      }
+    },
+    {
+      "chapter": 11,
+      "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+      "title": "Sirens",
+      "genius_discovered": 200,
+      "genius_matched": 196,
+      "legacy_anchors_preserved": 284,
+      "legacy_references_preserved": 284,
+      "source_entry": {
+        "chapter": 11,
+        "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+        "title": "Sirens",
+        "url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+      }
+    },
+    {
+      "chapter": 12,
+      "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+      "title": "Cyclops",
+      "genius_discovered": 323,
+      "genius_matched": 321,
+      "legacy_anchors_preserved": 452,
+      "legacy_references_preserved": 452,
+      "source_entry": {
+        "chapter": 12,
+        "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+        "title": "Cyclops",
+        "url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+      }
+    },
+    {
+      "chapter": 13,
+      "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+      "title": "Nausicaa",
+      "genius_discovered": 137,
+      "genius_matched": 133,
+      "legacy_anchors_preserved": 264,
+      "legacy_references_preserved": 264,
+      "source_entry": {
+        "chapter": 13,
+        "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+        "title": "Nausicaa",
+        "url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+      }
+    },
+    {
+      "chapter": 14,
+      "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+      "title": "Oxen of the Sun",
+      "genius_discovered": 538,
+      "genius_matched": 533,
+      "legacy_anchors_preserved": 218,
+      "legacy_references_preserved": 218,
+      "source_entry": {
+        "chapter": 14,
+        "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+        "title": "Oxen of the Sun",
+        "url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+      }
+    },
+    {
+      "chapter": 15,
+      "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+      "title": "Circe",
+      "genius_discovered": 508,
+      "genius_matched": 487,
+      "legacy_anchors_preserved": 501,
+      "legacy_references_preserved": 501,
+      "source_entry": {
+        "chapter": 15,
+        "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+        "title": "Circe",
+        "url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+      }
+    },
+    {
+      "chapter": 16,
+      "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+      "title": "Eumaeus",
+      "genius_discovered": 199,
+      "genius_matched": 191,
+      "legacy_anchors_preserved": 187,
+      "legacy_references_preserved": 187,
+      "source_entry": {
+        "chapter": 16,
+        "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+        "title": "Eumaeus",
+        "url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+      }
+    },
+    {
+      "chapter": 17,
+      "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+      "title": "Ithaca",
+      "genius_discovered": 209,
+      "genius_matched": 201,
+      "legacy_anchors_preserved": 263,
+      "legacy_references_preserved": 263,
+      "source_entry": {
+        "chapter": 17,
+        "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+        "title": "Ithaca",
+        "url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+      }
+    },
+    {
+      "chapter": 18,
+      "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+      "title": "Penelope",
+      "genius_discovered": 265,
+      "genius_matched": 257,
+      "legacy_anchors_preserved": 165,
+      "legacy_references_preserved": 165,
+      "source_entry": {
+        "chapter": 18,
+        "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+        "title": "Penelope",
+        "url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+      }
+    }
+  ]
+}

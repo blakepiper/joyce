@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8495909",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Someone has laid a bunch of flowers there. Woman. Must be his deathday.",
+  "html_source": "<p>William Smith O'Brien died on 18 June, 1864. These memorial flowers are thus two days early, or have been laid in advance.</p><p><img src=\"https://images.rapgenius.com/fdeb0b5c56f2bb08bcd2d3a29698cdaa.848x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8495909/James-joyce-ulysses-chap-6-hades/Someone-has-laid-a-bunch-of-flowers-there-woman-must-be-his-deathday",
+    "original_id": "8495909",
+    "referent_id": 8495909,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Someone has laid a bunch of flowers there. Woman. Must be his deathday.",
+    "prefix": "nd. The best, in fact. \n\n — And Madame, Mr Power said smiling. Last but not least. \n\n Mr Bloom unclasped his hands in a gesture of soft politeness and clasped them. Smith O'Brien. ",
+    "suffix": " For many happy returns. The carriage wheeling by Farrell's statue united noiselessly their unresisting knees. \n\n Oot: a dullgarbed old man from the curbstone tendered his wares, h",
+    "start": 13089,
+    "end": 13160,
+    "canonical_text": "Someone has laid a bunch of flowers there. Woman. Must be his deathday."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8495909,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2680303,
+        "login": "Cortez67",
+        "name": "Cortez67",
+        "role": null,
+        "attribution": 0.826923076923077
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.17307692307692307
+      }
+    ]
+  },
+  "color": "F59627"
+}

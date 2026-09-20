@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8460075",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Belvedere",
+  "html_source": "<p>Belvedere College, where the sons of Mr David Sheehy, MP, also attended. Father Conmee had just greeted Mrs Sheehy shortly before. The school is about 330 yards in a mostly straight line southwest from the point on Mountjoy Square where the priest meets them.</p><p><img src=\"https://images.rapgenius.com/2cbd5a6423aa8eb9993e5e9359d72dd8.595x446x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8460075/James-joyce-ulysses-chap-10-wandering-rocks/Belvedere",
+    "original_id": "8460075",
+    "referent_id": 8460075,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Belvedere",
+    "prefix": " they not? \n\n O, lest he forget. That letter to father provincial. \n\n1939#161\n\n Father Conmee stopped three little schoolboys at the corner of Mountjoy square. Yes: they were from ",
+    "suffix": ". The little house. Aha. And were they good boys at school? O. That was very good now. And what was his name? Jack Sohan. And his name? Ger. Gallaher. And the other little man? His",
+    "start": 2666,
+    "end": 2675,
+    "canonical_text": "Belvedere"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9615
+  },
+  "genius": {
+    "referent_id": 8460075,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-6600925",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Did you see that bloody chimneysweep",
+  "html_source": "<p>“Bloody” is a term used in the same way as “freaking,” and a chimneysweep is a person that would clean chimneys of soot and ash.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6600925/James-joyce-ulysses-chap-12-cyclops/Did-you-see-that-bloody-chimneysweep",
+    "original_id": "6600925",
+    "referent_id": 6600925,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Did you see that bloody chimneysweep",
+    "prefix": "ar into my eye. I turned around to let him have the weight of my tongue when who should I see dodging along Stony Batter only Joe Hynes. \n\n — Lo, Joe, says I. How are you blowing? ",
+    "suffix": " near shove my eye out with his brush? \n\n — Soot's luck, says Joe. Who's the old ballocks you were talking to? \n\n — Old Troy, says I, was in the force. I'm on two minds not to give",
+    "start": 358,
+    "end": 394,
+    "canonical_text": "Did you see that bloody chimneysweep"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6600925,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1760090,
+        "login": "Wintry_Winds",
+        "name": "Wintry_Winds",
+        "role": "contributor",
+        "attribution": 0.5428571428571428
+      },
+      {
+        "id": 293151,
+        "login": "jeeho",
+        "name": "Jeeho",
+        "role": "contributor",
+        "attribution": 0.3142857142857143
+      },
+      {
+        "id": 2370588,
+        "login": "Pequod42",
+        "name": "Pequod42",
+        "role": "contributor",
+        "attribution": 0.14285714285714288
+      }
+    ]
+  },
+  "color": "F59627"
+}

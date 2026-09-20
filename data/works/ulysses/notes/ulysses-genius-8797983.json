@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8797983",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Tantalus",
+  "html_source": "<p>Tantalus n. A stand in which to lock up drink decanters while keeping them visible.</p><p><img src=\"https://images.rapgenius.com/e3fb0177b44026513291284c8345d56c.1000x667x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8797983/James-joyce-ulysses-chap-6-hades/Tantalus",
+    "original_id": "8797983",
+    "referent_id": 8797983,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Tantalus",
+    "prefix": "Menton, John Henry, solicitor, commissioner for oaths and affidavits. Dignam used to be in his office. Mat Dillon's long ago. Jolly Mat. Convivial evenings. Cold fowl, cigars, the ",
+    "suffix": " glasses. Heart of gold really. Yes, Menton. Got his rag out that evening on 1922#110the bowling green because I sailed inside him. Pure fluke of mine: the bias. Why he took such a",
+    "start": 61880,
+    "end": 61888,
+    "canonical_text": "Tantalus"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8797983,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

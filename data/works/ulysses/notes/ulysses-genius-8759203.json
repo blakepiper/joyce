@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8759203",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Year of the big wind.",
+  "html_source": "<p>The Night of the Big Wind (Irish: Oíche na Gaoithe Móire) was a powerful European windstorm that swept across Ireland beginning in the afternoon of 6 January 1839, causing severe damage to property and several hundred deaths; 20% to 25% of houses in north Dublin were damaged or destroyed, and 42 ships were wrecked.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8759203/James-joyce-ulysses-chap-1-telemachus/Year-of-the-big-wind",
+    "original_id": "8759203",
+    "referent_id": 8759203,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "year of the big wind.",
+    "prefix": "lk, he said very earnestly, for your book, Haines. Five lines of text and ten pages of notes about the folk and1961#12 the fishgods of Dundrum. Printed by the weird sisters in the ",
+    "suffix": " \n\n He turned to Stephen and asked in a fine puzzled voice, lifting his brows: \n\n — Can you recall, brother, is mother Grogan's tea and water pot spoken of in the Mabinogion or is ",
+    "start": 20957,
+    "end": 20978,
+    "canonical_text": "year of the big wind."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8759203,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

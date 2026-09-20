@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10092554",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Lamb of London",
+  "html_source": "<p>Lamb of God is a title for Jesus that appears in the Gospel of John. It appears at John 1:29, where John the Baptist sees Jesus and exclaims, “Behold the Lamb of God who takes away the sin of the world.”<br /><a href=\"https://en.wikipedia.org/wiki/Lamb_of_God\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Lamb_of_God</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10092554/James-joyce-ulysses-chap-15-circe/Lamb-of-london",
+    "original_id": "10092554",
+    "referent_id": 10092554,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Lamb of London",
+    "prefix": "s two backs at midnight. Married. \n\n1986#456\n\n ZOE \n\n It was a commercial traveller married her and took her away with him. \n\n FLORRY \n\n(Nods.) Mr Lambe from London. \n\n STEPHEN \n\n ",
+    "suffix": ", who takest away the sins of our world. \n\n LYNCH \n\n(Embracing Kitty on the sofa, chants deeply.) Dona nobis pacem. \n\n(The cigarette slips from Stephen's fingers. Bloom picks it up",
+    "start": 180647,
+    "end": 180661,
+    "canonical_text": "Lamb of London"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10092554,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

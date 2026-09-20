@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8231070",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Saint Mary’s abbey",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/d8ee9a8ee551128ab3df228f805cf9f9.122x80x1.jpg\" alt=\"\" /></p><p>(<a href=\"http://www.heritageireland.ie/en/dublin/stmarysabbeydublin/\" rel=\"noopener nofollow\">http://www.heritageireland.ie/en/dublin/stmarysabbeydublin/</a>)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8231070/James-joyce-ulysses-chap-10-wandering-rocks/Saint-marys-abbey",
+    "original_id": "8231070",
+    "referent_id": 8231070,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "saint Mary's abbey",
+    "prefix": "ouldy air closed round them. \n\n — How interesting! a refined accent said in the gloom. \n\n — Yes, sir, Ned Lambert said heartily. We are standing in the historic council chamber of ",
+    "suffix": " where silken Thomas proclaimed himself a rebel in 1534. This is the most historic spot in all Dublin. O'Madden Burke is going to write something about it one of these days. The ol",
+    "start": 23253,
+    "end": 23271,
+    "canonical_text": "saint Mary's abbey"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 8231070,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1520984,
+        "login": "RedSwanHotel",
+        "name": "RedSwanHotel",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

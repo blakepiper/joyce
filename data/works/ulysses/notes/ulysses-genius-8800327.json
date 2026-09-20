@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8800327",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "CORTEGE",
+  "html_source": "<p>cor·tège<br />noun<br />a solemn procession, especially for a funeral.<br />synonyms:   procession, parade, cavalcade, motorcade, convoy, caravan, train, column, file, line<br />“the funeral cortège”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8800327/James-joyce-ulysses-chap-7-aeolus/Cortege",
+    "original_id": "8800327",
+    "referent_id": 8800327,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "CORTEGE",
+    "prefix": " professor said, staring through his blackrimmed spectacles over the crossblind. Look at the young scamps after him.\n\n—Show. Where? Lenehan cried, running to the window.\n\nA STREET ",
+    "suffix": "\n\nBoth smiled over the crossblind at the file of capering newsboys in Mr Bloom's wake, the last zigzagging white on the breeze a mocking kite, a tail of white bowknots.\n\n—Look at t",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.8571
+  },
+  "genius": {
+    "referent_id": 8800327,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

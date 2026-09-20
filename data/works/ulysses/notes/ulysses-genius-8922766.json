@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8922766",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Douce now",
+  "html_source": "<p>(obsolete) Sweet, nice, pleasant.<br />(dialect) Serious and quiet; steady, not flighty or casual; sober.</p><p>Bloom is calming down after fretting about Molly and Boylan meeting.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8922766/James-joyce-ulysses-chap-11-sirens/Douce-now",
+    "original_id": "8922766",
+    "referent_id": 8922766,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Douce now",
+    "prefix": " Hee hee. A waiter is he. Hee hee hee hee. He waits while you wait. While you wait if you wait he will wait while you wait. Hee hee hee hee. Hoh. Wait while you wait. \n\n1961#280\n\n ",
+    "suffix": ". Douce Lydia. Bronze and rose. \n\n She had a gorgeous, simply gorgeous, time. And look at the lovely shell she brought. \n\n To the end of the bar to him she bore lightly the spiked ",
+    "start": 51270,
+    "end": 51279,
+    "canonical_text": "Douce now"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8922766,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

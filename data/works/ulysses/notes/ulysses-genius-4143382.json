@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4143382",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Ards of Down",
+  "html_source": "<p>That is, the Ards Peninsula of County Down</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4143382/James-joyce-ulysses-chap-2-nestor/Ards-of-down",
+    "original_id": "4143382",
+    "referent_id": 4143382,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "Ards of Down",
+    "prefix": " all Irish, all kings' sons. \n\n — Alas, Stephen said. \n\n — Per vias rectas, Mr Deasy said firmly, was his motto. He voted for it and put on his topboots to ride to Dublin from the ",
+    "suffix": " to do so. \n\n1939#25\n\nLal the ral the ra \nThe rocky road to Dublin. \n\n1922#31\n\n A gruff squire on horseback with shiny topboots. Soft day, sir John! Soft day, your honour!... Day!.",
+    "start": 15911,
+    "end": 15923,
+    "canonical_text": "Ards of Down"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4143382,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1209714,
+        "login": "AlexBeston",
+        "name": "AlexBeston",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10850598",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Galle",
+  "html_source": "<p>German astronomer first observed Neptune</p><p><a href=\"https://www.britannica.com/biography/Johann-Gottfried-Galle\" rel=\"noopener nofollow\">https://www.britannica.com/biography/Johann-Gottfried-Galle</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10850598/James-joyce-ulysses-chap-17-ithaca/Galle",
+    "original_id": "10850598",
+    "referent_id": 10850598,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Galle",
+    "prefix": "densation of spiral nebulae into suns: the interdependent gyrations of double suns: the independent synchronous discoveries of Galileo, Simon Marius, Piazzi, Le Verrier, Herschel, ",
+    "suffix": ": the systematisations attempted by Bode and Kepler of cubes of distances and squares of times of revolution: the almost infinite compressibility of hirsute comets and their vast e",
+    "start": 70485,
+    "end": 70490,
+    "canonical_text": "Galle"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10850598,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

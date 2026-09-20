@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8774014",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Widow in her weeds",
+  "html_source": "<p>widow’s weeds:<br />Black clothes worn by a widow in mourning.</p><p><img src=\"https://images.rapgenius.com/515439298fd5741f44fa96ea177e4035.393x640x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8774014/James-joyce-ulysses-chap-5-lotus-eaters/Widow-in-her-weeds",
+    "original_id": "8774014",
+    "referent_id": 8774014,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "widow in her weeds",
+    "prefix": "oment unseeing by the cold black marble bowl while before him and behind two worshippers dipped furtive hands in the low tide of holy water. Trams: a car of Prescott's dyeworks: a ",
+    "suffix": ". 1961#83Notice because I'm in mourning myself. He covered himself. How goes the time? Quarter past. Time enough yet. Better get that lotion made up. Where is this? Ah yes, the las",
+    "start": 29453,
+    "end": 29471,
+    "canonical_text": "widow in her weeds"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8774014,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

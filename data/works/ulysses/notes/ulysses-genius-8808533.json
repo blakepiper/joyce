@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8808533",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "M’Coy",
+  "html_source": "<p>In <em>Grace</em> in <em>Dubliners</em> (Gilbert,S. James Joyce’s  Ulysses, p 135).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8808533/James-joyce-ulysses-chap-5-lotus-eaters/Mcoy",
+    "original_id": "8808533",
+    "referent_id": 8808533,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "M'Coy",
+    "prefix": "ks. Women will pay a lot of heed, I don't think. His fingers drew forth the letter 1986#59and crumpled the envelope in his pocket. Something pinned on: photo perhaps. Hair? No. \n\n ",
+    "suffix": ". Get rid of him quickly. Take me out of my way. Hate company when you. \n\n — Hello, Bloom. Where are you off to? \n\n — Hello, M'Coy. Nowhere in particular. \n\n — How's the body? \n\n —",
+    "start": 5544,
+    "end": 5549,
+    "canonical_text": "M'Coy"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9485
+  },
+  "genius": {
+    "referent_id": 8808533,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

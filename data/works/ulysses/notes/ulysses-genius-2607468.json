@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2607468",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Boul’ Mich’",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/9ba14d031379ed18393458e7920e0035.1000x930x1.png\" alt=\"\" /></p><p>Parisian slang for <a href=\"http://en.wikipedia.org/wiki/Boulevard_Saint-Michel\" rel=\"noopener nofollow\">Boulevard Saint-Michel</a>, a major street in the Latin Quarter.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2607468/James-joyce-ulysses-chap-3-proteus/Boul-mich",
+    "original_id": "2607468",
+    "referent_id": 2607468,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "boul' Mich'",
+    "prefix": "ues, chimiques et naturelles. Aha. Eating your groatsworth of mou en civet, fleshpots of Egypt, elbowed by belching cabmen. Just say in the most natural tone: when I was in Paris, ",
+    "suffix": ", I used to. Yes, used to carry punched tickets to prove an alibi if they arrested 1922#41you for murder somewhere. Justice. On the night of the seventeenth of February 1904 the pr",
+    "start": 10958,
+    "end": 10969,
+    "canonical_text": "boul' Mich'"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2607468,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 293151,
+        "login": "jeeho",
+        "name": "Jeeho",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

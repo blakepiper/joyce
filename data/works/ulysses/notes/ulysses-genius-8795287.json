@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795287",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "I am the resurrection and the life",
+  "html_source": "<p>Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live<br />John 11:25</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795287/James-joyce-ulysses-chap-6-hades/I-am-the-resurrection-and-the-life",
+    "original_id": "8795287",
+    "referent_id": 8795287,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "I am the resurrection and the life",
+    "prefix": "in Mount Jerome is simpler, more impressive I must say. \n\n Mr Bloom gave prudent assent. The language of course was another thing. \n\n Mr Kernan said with solemnity: \n\n1922#101\n\n — ",
+    "suffix": ". That touches a man's inmost heart. \n\n — It does, Mr Bloom said. \n\n Your heart perhaps but what price the fellow in the six feet by two with his toes to the daisies? No touching t",
+    "start": 39974,
+    "end": 40008,
+    "canonical_text": "I am the resurrection and the life"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8795287,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

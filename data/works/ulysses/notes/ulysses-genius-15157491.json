@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15157491",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "A cenar teco",
+  "html_source": "<p>(Ital.) To have dinner with you; from Don Giovanni II.1</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15157491/James-joyce-ulysses-chap-15-circe/A-cenar-teco",
+    "original_id": "15157491",
+    "referent_id": 15157491,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "a cenar teco",
+    "prefix": "ebreeches, with Donnybrook fair shillelaghs.) Sjambok him! \n\n(Bloom with asses' ears seats himself in the pillory with crossed arms, his feet protruding. He whistles Don Giovanni, ",
+    "suffix": ".Artane orphans, joining hands, caper round him. Girls of the Prison Gate Mission, joining hands, caper round in the opposite direction.) \n\n1961#496\n\n THE ARTANE ORPHANS \n\n \n\nYou h",
+    "start": 94469,
+    "end": 94481,
+    "canonical_text": "a cenar teco"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15157491,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

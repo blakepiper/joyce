@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9097085",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Champing, brightwindbridled, the steeds of",
+  "html_source": "<p>Internal narrative.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9097085/James-joyce-ulysses-chap-3-proteus/Champing-brightwindbridled-the-steeds-of",
+    "original_id": "9097085",
+    "referent_id": 9097085,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "champing, brightwindbridled, the steeds of",
+    "prefix": " widower of a widowed see, with upstiffed omophorion, with clotted hinderparts. \n\n Airs romped round him, nipping and eager airs. They are coming, waves. The whitemaned seahorses, ",
+    "suffix": " Mananaan. \n\n I mustn't forget his letter for the press. And after? The Ship, half twelve. By the way go easy with that money like a good young imbecile. Yes, I must. \n\n His pace s",
+    "start": 3637,
+    "end": 3679,
+    "canonical_text": "champing, brightwindbridled, the steeds of"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9097085,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

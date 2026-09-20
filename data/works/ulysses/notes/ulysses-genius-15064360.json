@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15064360",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Mincius",
+  "html_source": "<p>The <a href=\"https://en.wikipedia.org/wiki/Mincio\" rel=\"noopener nofollow\">Mincius (or Mincio)</a> is a river in Lombardy near where Virgil is thought to have been born.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15064360/James-joyce-ulysses-chap-9-scylla-and-charybdis/Mincius",
+    "original_id": "15064360",
+    "referent_id": 15064360,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Mincius",
+    "prefix": "mself, selfnodding: \n\n — A pleased bottom. \n\n1939#157\n\n The turnstile. \n\n Is that?... Blueribboned hat... Idly writing... What? Looked?... \n\n The curving balustrade: smoothsliding ",
+    "suffix": ". \n\n1922#206\n\n Puck Mulligan, panamahelmeted, went step by step, iambing, trolling: \n\n1932#193\n\nJohn Eglinton, my jo, John, \nWhy won't you wed a wife? \n\n He spluttered to the air: ",
+    "start": 65151,
+    "end": 65158,
+    "canonical_text": "Mincius"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15064360,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-17300697",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Bandy",
+  "html_source": "<p>From the Scots “bandy”, meaning bowlegged or bending out at the knees.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/17300697/James-joyce-ulysses-chap-15-circe/Bandy",
+    "original_id": "17300697",
+    "referent_id": 17300697,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "bandy",
+    "prefix": " oillamp rams her last bottle in the maw of his sack. He heaves his booty, tugs askew his peaked cap and hobbles off mutely. The crone makes back for her lair, swaying her lamp. A ",
+    "suffix": " child, asquat 1939#308on the doorstep with a paper shuttlecock, crawls sidling after her in spurts, clutches her skirt, scrambles up. A drunken navvy grips with both hands the rai",
+    "start": 1561,
+    "end": 1566,
+    "canonical_text": "bandy"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 17300697,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 8618059,
+        "login": "solsolis",
+        "name": "solsolis",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

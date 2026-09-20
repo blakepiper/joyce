@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9067959",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Almidano Artifoni",
+  "html_source": "<p>Almidano Artifoni appears twice in previous sections: (1) throughout section 6, and (2) briefly at the beginning of section 17: “Almidano Artifoni walked past Holles street, past Sewell’s yard.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9067959/James-joyce-ulysses-chap-10-wandering-rocks/Almidano-artifoni",
+    "original_id": "9067959",
+    "referent_id": 9067959,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Almidano Artifoni",
+    "prefix": "oolboys at the garden gate of the house said to have been admired by the late queen when visiting the Irish capital with her husband, the prince consort, in 1849 and the salute of ",
+    "suffix": "'s sturdy trousers swallowed by a closing door.\n\n\n\n1922#2441932#2291939#1861961#2551986#209\n\n",
+    "start": 75146,
+    "end": 75163,
+    "canonical_text": "Almidano Artifoni"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.8481
+  },
+  "genius": {
+    "referent_id": 9067959,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083675,
+        "login": "brnmzsk",
+        "name": "brnmzsk",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11085634",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Family physician",
+  "html_source": "<p>Probably referring to ‘Virtue’s Household Physician, a Twentieth Century Medica’. Volumes 1-5, which was a popular book in the early 20th century UK. It included many anatomical drawings.</p><p>“A practical description in plain language of all the diseases of men, women and children, with the latest discoveries in medicine and most approved methods of treatment. Illustrated with manikins (separated colour overlays) coloured and half-tone plates.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11085634/James-joyce-ulysses-chap-18-penelope/Family-physician",
+    "original_id": "11085634",
+    "referent_id": 11085634,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "family physician",
+    "prefix": "couldnt put him into a temper still he knows a lot of mixedup things especially about the body and the inside I often wanted to study up that myself what we have inside us in that ",
+    "suffix": " I could always hear his voice talking when the room was crowded and watch him after that I pretended I had on a coolness on with her over him 1922#694because he used to be a bit o",
+    "start": 13502,
+    "end": 13518,
+    "canonical_text": "family physician"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11085634,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

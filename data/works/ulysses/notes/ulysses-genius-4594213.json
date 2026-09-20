@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4594213",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "What’s in a name?",
+  "html_source": "<p>Juliet:</p><p>O, be some other name!<br />What’s in a name? That which we call a rose<br />By any other name would smell as sweet</p><p><a href=\"https://genius.com/2748442\" rel=\"noopener nofollow\">Romeo and Juliet, Act 2, Scene 2</a></p><p><img src=\"https://images.rapgenius.com/decf940bb26027b604ec388b9e6e50be.540x565x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4594213/James-joyce-ulysses-chap-16-eumaeus/Whats-in-a-name",
+    "original_id": "4594213",
+    "referent_id": 4594213,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "What's in a name?",
+    "prefix": "ounds are impostures, Stephen said after a pause of some little time, like names. Cicero, Podmore, Napoleon, Mr Goodbody, Jesus, Mr Doyle. Shakespeares were as common as Murphies. ",
+    "suffix": " \n\n1961#622\n\n — Yes, to be sure, Mr Bloom unaffectedly concurred. Of course. Our name was changed too, he added, pushing the socalled roll across. \n\n The redbearded sailor who had ",
+    "start": 25019,
+    "end": 25036,
+    "canonical_text": "What's in a name?"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4594213,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10147298",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Pensum",
+  "html_source": "<p>a task assigned in school often as a punishment</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10147298/James-joyce-ulysses-chap-15-circe/Pensum",
+    "original_id": "10147298",
+    "referent_id": 10147298,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "pensum",
+    "prefix": "of the better land with Dockrell's wallpaper at one and ninepence a dozen, innocent Britishborn bairns lisping prayers to the Sacred Infant, youthful scholars grappling with their ",
+    "suffix": "s or model young ladies playing on the pianoforte or anon all with fervour reciting the family rosary round the crackling Yulelog while in the boreens and green lanes the colleens ",
+    "start": 45050,
+    "end": 45056,
+    "canonical_text": "pensum"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10147298,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

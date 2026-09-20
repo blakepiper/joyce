@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-22953763",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Bothered",
+  "html_source": "<p>Not ‘bothered’ in the familiar sense, but deaf.</p><p><img src=\"https://images.genius.com/2d88cd0c3b071d94da64fb20d69160b4.712x432x1.png\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/22953763/James-joyce-ulysses-chap-11-sirens/Bothered",
+    "original_id": "22953763",
+    "referent_id": 22953763,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "bothered",
+    "prefix": " to look at his face, Miss Douce condoled. \n\n1939#192\n\n God's curse on bitch's bastard. \n\n Tink to her pity cried a diner's bell. To the door of the diningroom came bald Pat, came ",
+    "suffix": " Pat, came Pat, waiter of Ormond. Lager for diner. Lager without alacrity she served. \n\n With patience Lenehan waited for Boylan with impatience, for jinglejaunty blazes boy. \n\n Up",
+    "start": 14156,
+    "end": 14164,
+    "canonical_text": "bothered"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9536
+  },
+  "genius": {
+    "referent_id": 22953763,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

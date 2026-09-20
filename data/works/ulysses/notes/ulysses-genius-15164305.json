@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15164305",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Weda seca whokilla farst",
+  "html_source": "<p>Hamlet 3.ii: “[None] wed the second [but] who killed the first.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15164305/James-joyce-ulysses-chap-15-circe/Weda-seca-whokilla-farst",
+    "original_id": "15164305",
+    "referent_id": 15164305,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Weda seca whokilla farst",
+    "prefix": "on, her streamers flaunting aloft.) \n\n FREDDY \n\n Ah, ma, you're dragging me along! \n\n1986#463\n\n SUSY \n\n Mamma, the beeftea is fizzing over! \n\n SHAKESPEARE \n\n(With paralytic rage.) ",
+    "suffix": ". \n\n(The face of Martin Cunningham, bearded, refeatures Shakespeare's beardless face. The marquee umbrella sways drunkenly, the children run aside. Under the umbrella appears Mrs C",
+    "start": 189287,
+    "end": 189311,
+    "canonical_text": "Weda seca whokilla farst"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15164305,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

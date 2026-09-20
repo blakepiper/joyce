@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-1838581",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Ireland expects that every man this day will do his duty.",
+  "html_source": "<p>Ironic variation on the famous signal sent by Admiral Horatio Nelson just before the Battle of Trafalgar (1805): <a href=\"http://en.wikipedia.org/wiki/England_expects_that_every_man_will_do_his_duty\" rel=\"noopener nofollow\">“England expects that every man will do his duty.”</a></p><p><img src=\"https://images.genius.com/ff6df0f2df675f5397b5fbae6dccec4c.1000x705x1.jpg\" alt=\"\" /></p><p>PROPOSED SUGGESTION: Would be worth mentioning that Nelson’s Pillar, a monument to him, stood literally at the centre of Dublin, where O'Connell Street meets Henry Street, where the modern-day Millennium Spire stands.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1838581/James-joyce-ulysses-chap-1-telemachus/Ireland-expects-that-every-man-this-day-will-do-his-duty",
+    "original_id": "1838581",
+    "referent_id": 1838581,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Ireland expects that every man this day will do his duty.",
+    "prefix": " your feet. \n\n He turned to Stephen and said: \n\n — Seriously, Dedalus. I'm stony. Hurry out to your school kip and bring us back some money. Today the bards must drink and junket. ",
+    "suffix": " \n\n — That reminds me, Haines said, rising, that I have to visit your national library today. \n\n — Our swim first, Buck Mulligan said. \n\n He turned to Stephen and asked blandly: \n\n",
+    "start": 26400,
+    "end": 26457,
+    "canonical_text": "Ireland expects that every man this day will do his duty."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1838581,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 149810,
+        "login": "perfectrhyme",
+        "name": "Perfectrhyme",
+        "role": "editor",
+        "attribution": 0.6404494382022472
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.35955056179775285
+      }
+    ]
+  },
+  "color": "F59627"
+}

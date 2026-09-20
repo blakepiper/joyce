@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4686108",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Philip Gilligan (phthisis, Jervis Street hospital),",
+  "html_source": "<p><a href=\"https://genius.com/4686077\" rel=\"noopener nofollow\">Phil Gilligan’s death is mentioned <em>Letrygonians</em>.</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4686108/James-joyce-ulysses-chap-17-ithaca/Philip-gilligan-phthisis-jervis-street-hospital",
+    "original_id": "4686108",
+    "referent_id": 4686108,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Philip Gilligan (phthisis, Jervis Street hospital),",
+    "prefix": " bellchime and handtouch and footstep and lonechill remind him? \n\n Of companions now in various manners in different places defunct: Percy Apjohn (killed in action, Modder River), ",
+    "suffix": " Matthew F. 1961#704Kane (accidental drowning, Dublin Bay), Philip Moisel (pyemia, Heytesbury street), Michael Hart (phthisis, Mater Misericordiae hospital), Patrick Dignam (apople",
+    "start": 79396,
+    "end": 79455,
+    "canonical_text": "Philip Gilligan (phthisis, Jervis 1986#578Street hospital),"
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9273
+  },
+  "genius": {
+    "referent_id": 4686108,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

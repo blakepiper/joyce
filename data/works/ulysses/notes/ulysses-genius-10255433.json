@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10255433",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "I bear no hate to a living thing",
+  "html_source": "<p><a href=\"http://worldmusic.about.com/od/irishsonglyrics/p/The-Croppy-Boy.htm\" rel=\"noopener nofollow\">http://worldmusic.about.com/od/irishsonglyrics/p/The-Croppy-Boy.htm</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10255433/James-joyce-ulysses-chap-15-circe/I-bear-no-hate-to-a-living-thing",
+    "original_id": "10255433",
+    "referent_id": 10255433,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "I bear no hate to a living thing",
+    "prefix": "zors \nTo slit the throats \nOf the English dogs \nThat hanged our Irish leaders. \n\n THE CROPPY BOY \n\n(The ropenoose round his neck, gripes in his issuing bowels with both hands.) \n\n ",
+    "suffix": ", \nBut I love my country beyond the king. \n\n RUMBOLD, DEMON BARBER \n\n(Accompanied by two blackmasked assistants, advances with gladstone bag which he opens.) Ladies and gents, clea",
+    "start": 220709,
+    "end": 220741,
+    "canonical_text": "I bear no hate to a living thing"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10255433,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

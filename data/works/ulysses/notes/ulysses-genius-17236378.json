@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-17236378",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Lagan",
+  "html_source": "<p>noun ARCHAIC<br />(in legal contexts) goods or wreckage lying on the bed of the sea.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/17236378/James-joyce-ulysses-chap-17-ithaca/Lagan",
+    "original_id": "17236378",
+    "referent_id": 17236378,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "lagan",
+    "prefix": "ories or by unusual means: from the air (dropped by an eagle in 1986#589flight), by fire (amid the carbonised remains of an incendiated edifice), in the sea (amid flotsam, jetsam, ",
+    "suffix": " and derelict), on 1961#717earth (in the gizzard of a comestible fowl). A Spanish prisoner's donation of a distant treasure of valuables or specie or bullion lodged with a solvent ",
+    "start": 106403,
+    "end": 106408,
+    "canonical_text": "lagan"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 17236378,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 8460622,
+        "login": "LP-Reader1",
+        "name": "LP-Reader1",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8736706",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "He crossed to the bright side, avoiding the loose cellarflap of number seventyfive",
+  "html_source": "<p>An uncharacteristic error of Joyce; number seventy five wasn’t quite opposite number 7 Eccles Street, apparently Joyce based it on <a href=\"http://search.ancestry.co.uk/search/db.aspx?dbid=2194\" rel=\"noopener nofollow\">Thom’s 1904</a> (Gifford).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8736706/James-joyce-ulysses-chap-4-calypso/He-crossed-to-the-bright-side-avoiding-the-loose-cellarflap-of-number-seventyfive",
+    "original_id": "8736706",
+    "referent_id": 8736706,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "He crossed to the bright side, avoiding the loose cellarflap of number seventyfive",
+    "prefix": "t time. He pulled the halldoor to after him very quietly, more, till the footleaf dropped gently over the threshold, a limp lid. Looked shut. All right till I come back anyhow. \n\n ",
+    "suffix": ". The sun was nearing the steeple of George's church. Be a warm day I fancy. Specially in these black clothes feel it more. Black conducts, reflects, (refracts is it?), the heat. B",
+    "start": 4783,
+    "end": 4865,
+    "canonical_text": "He crossed to the bright side, avoiding the loose cellarflap of number seventyfive"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8736706,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

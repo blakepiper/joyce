@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2081152",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "What is the age",
+  "html_source": "<p>This section (from “What is the age” to “Leopold was for Rudolph”) is in the style of English writer <a href=\"http://en.wikipedia.org/wiki/Charles_Lamb\" rel=\"noopener nofollow\">Charles Lamb</a>.</p><p><img src=\"https://images.genius.com/9be5e8d7674fc21255d11114f314e21c.828x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2081152/James-joyce-ulysses-chap-14-oxen-of-the-sun/What-is-the-age",
+    "original_id": "2081152",
+    "referent_id": 2081152,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "What is the age",
+    "prefix": " is uninhabited. No soul will live there. The spider pitches her web in the solitude. The nocturnal rat peers from his hole. A curse is on it. It is haunted. Murderer's ground. \n\n ",
+    "suffix": " of the soul of man? As she hath the virtue of the chameleon to change her hue at every new approach, to be gay with the merry and mournful with the downcast, so 1961#412too is her",
+    "start": 75176,
+    "end": 75191,
+    "canonical_text": "What is the age"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2081152,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

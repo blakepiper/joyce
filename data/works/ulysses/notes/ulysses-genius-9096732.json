@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-9096732",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Saint Peter Claver S.J.",
+  "html_source": "<p><img src=\"https://images.genius.com/04179362d72f75f60f06d50ae84368c0.450x327x1.jpg\" alt=\"\" /></p><p><a href=\"https://en.wikipedia.org/wiki/Peter_Claver\" rel=\"noopener nofollow\">St. Peter Claver S. J.</a> was a native from Spain who devoted himself to the service of the Slaves for 40 years. In total, he instructed and baptized about 300,000 slaves on his way to becoming the patron saint of slaves.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9096732/James-joyce-ulysses-chap-10-wandering-rocks/Saint-peter-claver-sj",
+    "original_id": "9096732",
+    "referent_id": 9096732,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "saint Peter Claver S.J.",
+    "prefix": "oardings Mr Eugene Stratton grimaced with thick niggerlips at Father Conmee. \n\n1961#222\n\n Father Conmee thought of the souls of black and brown and yellow men and of his sermon on ",
+    "suffix": " and the African mission and of 1922#213the propagation 1939#163of the faith and of the millions of black and brown and yellow souls that had not received the baptism of water when",
+    "start": 9071,
+    "end": 9094,
+    "canonical_text": "saint Peter Claver S.J."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9096732,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3083734,
+        "login": "Meybel12",
+        "name": "Meybel12",
+        "role": null,
+        "attribution": 0.7638888888888888
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.2361111111111111
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21117003",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Like Jose he kills the real Carmen",
+  "html_source": "<p>A reference to the opera Carmen by Bizet, where the character Jose falls for the gypsy Carmen. When she leaves him for another man, Jose kills Carmen as the finale of the piece.<br /><a href=\"https://en.wikipedia.org/wiki/Carmen\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Carmen</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21117003/James-joyce-ulysses-chap-9-scylla-and-charybdis/Like-jose-he-kills-the-real-carmen",
+    "original_id": "21117003",
+    "referent_id": 21117003,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "like Jose he kills the real Carmen",
+    "prefix": "en said. The boy of act one is the mature man of act five. All in all. In Cymbeline, in Othello he is bawd and cuckold. He acts and is acted on. Lover of an ideal or a perversion, ",
+    "suffix": " His unremitting intellect is the hornmad Iago ceaselessly willing that the moor in him shall suffer. \n\n1986#174\n\n — Cuckoo! Cuckoo! Cuck Mulligan clucked lewdly. O word of fear! \n",
+    "start": 59279,
+    "end": 59314,
+    "canonical_text": "like José he kills the real Carmen."
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9565
+  },
+  "genius": {
+    "referent_id": 21117003,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9090119",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "He passed a blind stripling opposite Broadbent’s",
+  "html_source": "<p>From section 16: “Distantly behind him a blind stripling tapped his way by the wall of College park.”</p><p>From section 17: “The blind stripling turned his sickly face after the striding form.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9090119/James-joyce-ulysses-chap-10-wandering-rocks/He-passed-a-blind-stripling-opposite-broadbents",
+    "original_id": "9090119",
+    "referent_id": 9090119,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "He passed a blind stripling opposite Broadbent's",
+    "prefix": "paper. His collar too sprang up. The viceroy, on his way to inaugurate the Mirus bazaar in aid of funds for Mercer's hospital, drove with his following towards Lower Mount street. ",
+    "suffix": ". In Lower Mount street a pedestrian in a brown macintosh, eating dry bread, passed swiftly and unscathed across the viceroy's path. At the Royal Canal bridge, from his hoarding, M",
+    "start": 74313,
+    "end": 74361,
+    "canonical_text": "He passed a blind stripling opposite Broadbent's"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9090119,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083675,
+        "login": "brnmzsk",
+        "name": "brnmzsk",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

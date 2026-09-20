@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-9042349",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Child of Mary badge",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/e725f1be3b3d297eaa92dd7804097638.285x400x1.jpg\" alt=\"\" /></p><p>The image on the badge is associated with <a href=\"http://www.sistersofcharity.com/\" rel=\"noopener nofollow\">The Sisters of Charity</a>who had a convent in Sandymount.</p><p><img src=\"https://images.genius.com/5f5c179244e5bf331ee3ce457fdf76b8.500x235x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9042349/James-joyce-ulysses-chap-13-nausicaa/Child-of-mary-badge",
+    "original_id": "9042349",
+    "referent_id": 9042349,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "child of Mary badge",
+    "prefix": "her toilettable which, though it did not err on the side of luxury, was scrupulously neat and clean. It was there she kept her girlish treasure trove, the tortoiseshell combs, her ",
+    "suffix": ", the whiterose scent, the eyebrowleine, her alabaster pouncetbox and the ribbons to change when her things came home from the wash and there were some beautiful thoughts written i",
+    "start": 44918,
+    "end": 44937,
+    "canonical_text": "child of Mary badge"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9042349,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.6103896103896104
+      },
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.3896103896103896
+      }
+    ]
+  },
+  "color": "F59627"
+}

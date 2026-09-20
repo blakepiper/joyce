@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3119537",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "I was young",
+  "html_source": "<p>Similar structure to the ‘Cousin Stephen, you will never….’ paragraph. There is a triangulation between the introductory negative thought phrase in both paragraphs, the pause (‘Isle of saints’ and ‘I was young’) and some lighter phrases later on (‘o si, cierto!’ and ‘Ay, very like a whale’).</p><p>The triangulation is an effective delivery mechanism to sustain Joyce’s challenge in the stream of consciousness : maintain the apparently random flow of thoughts, break-up the self criticism so Stephen doesn’t appear a maudlin git and develop enough interest in the reader whilst Joyce skims the surface of Stephen’s experiences.</p><p>The next sentence skims his narcissistic episode in front of a mirror in Portrait of the Artist.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3119537/James-joyce-ulysses-chap-3-proteus/I-was-young",
+    "original_id": "3119537",
+    "referent_id": 3119537,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "I was young",
+    "prefix": " tram alone crying to the rain: naked women! What about that, eh? \n\n What about what? What else were they invented for? \n\n Reading two pages apiece of seven books every night, eh? ",
+    "suffix": ". You bowed to yourself in the mirror, stepping forward to applause earnestly, striking face. Hurray for the Goddamned idiot! Hray! No-one saw: tell no-one. Books you were going to",
+    "start": 8379,
+    "end": 8390,
+    "canonical_text": "I was young"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3119537,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

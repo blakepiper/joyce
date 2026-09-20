@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15129812",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Duns",
+  "html_source": "<p>Word meaning “fort” (Irish and Scots Gaelic: dún) that typically refers to ancient hillforts in the British Isles.</p><p><img src=\"https://images.genius.com/a85338e91ede64453a46a3f26fcc45dd.720x465x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15129812/James-joyce-ulysses-chap-12-cyclops/Duns",
+    "original_id": "15129812",
+    "referent_id": 15129812,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "duns",
+    "prefix": "ing of beasts than the British article, be it said in passing), a Kerry calf and a golden eagle from Carrantuohill. The scenes depicted on the emunctory field, showing our ancient ",
+    "suffix": " and raths and cromlechs and grianauns and seats of learning and maledictive stones, are as wonderfully beautiful and the pigments as delicate as when the Sligo illuminators gave f",
+    "start": 92539,
+    "end": 92543,
+    "canonical_text": "duns"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15129812,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

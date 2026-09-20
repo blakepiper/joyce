@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8774188",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Alabaster",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/05c8dabe8ea50635f50fe17a661301d2.650x432x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8774188/James-joyce-ulysses-chap-5-lotus-eaters/Alabaster",
+    "original_id": "8774188",
+    "referent_id": 8774188,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "alabaster",
+    "prefix": " mental excitement. Lethargy then. Why? Reaction. A lifetime in a night. Gradually changes your character. Living all the day among herbs, ointments, disinfectants. All 1932#74his ",
+    "suffix": " lilypots. Mortar and pestle. Aq. Dist. Fol. Laur. Te Virid. Smell almost cure you like the dentist's doorbell. Doctor Whack. He ought to physic himself a bit. Electuary or emulsio",
+    "start": 30592,
+    "end": 30601,
+    "canonical_text": "alabaster"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8774188,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

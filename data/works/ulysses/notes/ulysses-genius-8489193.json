@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8489193",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Dilly Dedalus",
+  "html_source": "<p>Bloom had seen Dilly here about two hours earlier. “From Butler’s monument house corner he glanced along Bachelor’s walk.  Dedalus' daughter there still outside Dillon’s auctionrooms.” (From the Lestrygonians chapter.) Also, earlier in this chapter Katey Dedalus had asked, “Where’s Dilly?” –“Gone to meet father,” Maggy answered.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8489193/James-joyce-ulysses-chap-10-wandering-rocks/Dilly-dedalus",
+    "original_id": "8489193",
+    "referent_id": 8489193,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Dilly Dedalus",
+    "prefix": "That's a good one. \n\n*\n*  *\n\n1986#194\n\n The lacquey by the door of Dillon's auctionrooms shook his handbell twice again and viewed himself in the chalked mirror of the cabinet. \n\n ",
+    "suffix": ", loitering by the curbstone, heard the beats of the bell, the cries of the auctioneer within. Four and nine. Those lovely curtains. Five shillings. 1939#173Cosy curtains. Selling ",
+    "start": 36891,
+    "end": 36904,
+    "canonical_text": "Dilly Dedalus"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 8489193,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

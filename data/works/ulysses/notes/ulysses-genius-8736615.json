@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8736615",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Then licking the saucer clean",
+  "html_source": "<p>Jack Sprat could eat no fat<br />His wife could eat no lean<br />And so betwixt the two of them<br />They licked the platter clean</p><p>Jack ate all the lean,<br />Joan ate all the fat.<br />The bone they picked it clean,<br />Then gave it to the cat</p><p>Jack Sprat was wheeling,<br />His wife by the ditch.<br />The barrow turned over,<br />And in she did pitch.</p><p>Says Jack, “She’ll be drowned!”<br />But Joan did reply,<br />“I don’t think I shall,<br />For the ditch is quite dry.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8736615/James-joyce-ulysses-chap-4-calypso/Then-licking-the-saucer-clean",
+    "original_id": "8736615",
+    "referent_id": 8736615,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "then licking the saucer clean",
+    "prefix": "y: not a good day either for a mutton kidney at Buckley's. Fried with butter, a shake of pepper. Better a pork kidney at Dlugacz's. While the kettle is boiling. She lapped slower, ",
+    "suffix": ". Why are their tongues so rough? To lap better, all porous holes. Nothing she can eat? He glanced round him. No. \n\n On quietly creaky boots he went up the staircase to the hall, p",
+    "start": 2853,
+    "end": 2882,
+    "canonical_text": "then licking the saucer clean"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8736615,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

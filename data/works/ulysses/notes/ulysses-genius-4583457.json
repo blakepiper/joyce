@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4583457",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Aristotle’s Masterpiece",
+  "html_source": "<p><a href=\"https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated/#\" rel=\"noopener nofollow\">See note on Aristotle’s Masterpiece in Chapter 18</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4583457/James-joyce-ulysses-chap-10-wandering-rocks/Aristotles-masterpiece",
+    "original_id": "4583457",
+    "referent_id": 4583457,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Aristotle's Masterpiece",
+    "prefix": "common or garden... you know... There's a touch of the artist about old Bloom. \n\n1922#225\n\n*\n*  *\n\n Mr Bloom turned over idly pages of The Awful Disclosures of Maria Monk, then of ",
+    "suffix": ". Crooked botched print. Plates: infants cuddled in a ball in bloodred wombs like livers of slaughtered cows. Lots of them like that at this moment all over the world. All butting ",
+    "start": 33495,
+    "end": 33518,
+    "canonical_text": "Aristotle's Masterpiece"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4583457,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

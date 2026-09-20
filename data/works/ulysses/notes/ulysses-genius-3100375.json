@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-3100375",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Dan Occam",
+  "html_source": "<p>As in Occam’s Razor : suggested logical arguments be reduced to their simplest components.</p><p>PROPOSED SUGGESTION: I would add that “Dan” is an old title that means “Sir” or Mr\".</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3100375/James-joyce-ulysses-chap-3-proteus/Dan-occam",
+    "original_id": "3100375",
+    "referent_id": 3100375,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Dan Occam",
+    "prefix": "t. Dringdring! And two streets off another locking it into a pyx. Dringadring! And in a ladychapel another taking housel all to his own cheek. Dringdring! Down, up, forward, back. ",
+    "suffix": " thought of that, invincible doctor. A misty English morning the imp hypostasis tickled his 1986#33brain. Bringing his host down and kneeling he heard twine with his second bell th",
+    "start": 7449,
+    "end": 7458,
+    "canonical_text": "Dan Occam"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3100375,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 0.5588235294117647
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.4411764705882353
+      }
+    ]
+  },
+  "color": "F59627"
+}

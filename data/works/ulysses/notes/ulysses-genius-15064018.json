@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15064018",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "His boots",
+  "html_source": "<p>Mulligan’s boots that Stephen has borrowed. These are also mentioned in Proteus as Stephen walks along the beach.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15064018/James-joyce-ulysses-chap-9-scylla-and-charybdis/His-boots",
+    "original_id": "15064018",
+    "referent_id": 15064018,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "His boots",
+    "prefix": "on? \n\n — A star by night, Stephen said. A pillar of the cloud by day. \n\n What more's to speak? \n\n Stephen looked on his hat, his stick, his boots. \n\nStephanos, my crown. My sword. ",
+    "suffix": " are spoiling the shape of my feet. Buy a pair. Holes in my socks. Handkerchief too. \n\n — You make good use of the name, John Eglinton allowed. Your own name is strange enough. I s",
+    "start": 54653,
+    "end": 54662,
+    "canonical_text": "His boots"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15064018,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

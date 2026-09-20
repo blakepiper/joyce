@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-3929453",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "There he is airing his quiff.",
+  "html_source": "<p>A quiff is a prominent forelock.</p><p><img src=\"https://images.rapgenius.com/add3eeec718a3e8590a9bc969ff27d28.236x322x1.jpg\" alt=\"\" /></p><p>That is, with his hat off. “Quiff” can mean an oiled lock of hair plastered on the forehead; but it can also mean smartly dressed, in which case Boylan is showing off.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3929453/James-joyce-ulysses-chap-6-hades/There-he-is-airing-his-quiff",
+    "original_id": "3929453",
+    "referent_id": 3929453,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "There he is airing his quiff.",
+    "prefix": "raising his palm to his brow in salute. \n\n — He doesn't see us, Mr Power said. Yes, he does. How do you do? \n\n1939#70\n\n — Who? Mr Dedalus asked. \n\n — Blazes Boylan, Mr Power said. ",
+    "suffix": " \n\n Just that moment I was thinking. \n\n Mr Dedalus bent across to salute. From the door of the Red Bank the white disc of a straw hat flashed reply: passed. \n\n Mr Bloom reviewed th",
+    "start": 11332,
+    "end": 11361,
+    "canonical_text": "There he is airing his quiff."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3929453,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 0.4705882352941177
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.4411764705882353
+      },
+      {
+        "id": 1116653,
+        "login": "slothcommander",
+        "name": "slothcommander",
+        "role": null,
+        "attribution": 0.08823529411764706
+      }
+    ]
+  },
+  "color": "F59627"
+}

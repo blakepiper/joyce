@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3982535",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "O rose! Castile. The morn is breaking.",
+  "html_source": "<p>A combination of two songs are alluded to here – ‘Goodbye, sweetheart, Goodbye’ and</p><p>Balfe’s ‘The Rose of Castille’.<br /><a href=\"https://www.youtube.com/watch?v=hswFzeqY8PY\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=hswFzeqY8PY</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3982535/James-joyce-ulysses-chap-11-sirens/O-rose-castile-the-morn-is-breaking",
+    "original_id": "3982535",
+    "referent_id": 3982535,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "O rose! Castile. The morn is breaking.",
+    "prefix": ". peepofgold?\n\nTink cried to bronze in pity.\n\nAnd a call, pure, long and throbbing. Longindying call.\n\nDecoy. Soft word. But look: the bright stars fade. Notes chirruping answer.\n\n",
+    "suffix": "\nJingle jingle jaunted jingling.\nCoin rang. Clock clacked.\n\nAvowal. Sonnez. I could. Rebound of garter. Not leave thee. Smack. La cloche! Thigh smack. Avowal. Warm. Sweetheart, goo",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.8235
+  },
+  "genius": {
+    "referent_id": 3982535,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

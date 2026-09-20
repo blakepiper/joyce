@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8822391",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Flower",
+  "html_source": "<p>Finished June 5th 1917 (Ellmann, p416).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8822391/James-joyce-ulysses-chap-5-lotus-eaters/Flower",
+    "original_id": "8822391",
+    "referent_id": 8822391,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "flower",
+    "prefix": "ard, lemonyellow: his navel, bud of flesh: and saw the dark tangled curls of his bush floating, floating hair of the stream around the limp father of thousands, a languid floating ",
+    "suffix": ".\n\n",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "ambiguous",
+    "confidence": 0.5263157894736842
+  },
+  "genius": {
+    "referent_id": 8822391,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

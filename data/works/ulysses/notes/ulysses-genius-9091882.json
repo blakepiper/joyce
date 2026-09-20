@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9091882",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Mazer",
+  "html_source": "<p>a wooden drinking bowl</p><p><img src=\"https://images.genius.com/63673133bdf29db150e2e3ee2f4bff85.220x184x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9091882/James-joyce-ulysses-chap-14-oxen-of-the-sun/Mazer",
+    "original_id": "9091882",
+    "referent_id": 9091882,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "mazer",
+    "prefix": "o, praying for the intentions of the sovereign pontiff, he gave them for a1932#353pledge the vicar of Christ which also as he said is vicar of Bray. Now drink we, quod he, of this ",
+    "suffix": " and quaff ye this mead which is not indeed parcel of my body but my soul's bodiment. Leave ye fraction of bread to them that live by bread alone. Be not afeard neither for any wan",
+    "start": 20059,
+    "end": 20064,
+    "canonical_text": "mazer"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9091882,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-5117836",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Barbacans",
+  "html_source": "<ol><li><p>an outwork of a fortified place, as a castle.</p></li><li><p>a defensive outpost of any sort.</p></li></ol><p>Appears in ‘Telemachus’ and ‘Circe’ though not in Stephen’s mind despite ‘shafts of light’ being present in all three mentions of the barbacans.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5117836/James-joyce-ulysses-chap-3-proteus/Barbacans",
+    "original_id": "5117836",
+    "referent_id": 5117836,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "barbacans",
+    "prefix": "nk slowly in the quaking soil. Turn back. \n\n Turning, he scanned the shore south, his feet sinking again slowly in new sockets. The cold domed room of the tower waits. Through the ",
+    "suffix": " the shafts of light are moving ever, slowly ever as my feet are sinking, creeping duskward over the dial floor. Blue dusk, nightfall, deep blue night. In the darkness of the dome ",
+    "start": 17129,
+    "end": 17138,
+    "canonical_text": "barbacans"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5117836,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.5526315789473685
+      },
+      {
+        "id": 1618748,
+        "login": "Kataryna",
+        "name": "Kataryna",
+        "role": "contributor",
+        "attribution": 0.39473684210526316
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.052631578947368425
+      }
+    ]
+  },
+  "color": "F59627"
+}

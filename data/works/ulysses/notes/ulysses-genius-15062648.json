@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15062648",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Though all my body has been woven of new stuff time after time",
+  "html_source": "<p>Though the conceit is a good one, we now know that different body parts regenerate at different rates. Bones, for example, are only fully replaced after several decades, and there are several parts that remain the same (i.e., consist of the selfsame cells) throughout one’s lifespan.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15062648/James-joyce-ulysses-chap-9-scylla-and-charybdis/Though-all-my-body-has-been-woven-of-new-stuff-time-after-time",
+    "original_id": "15062648",
+    "referent_id": 15062648,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "though all my body has been woven of new stuff time after time",
+    "prefix": ", from day to day, their molecules shuttled to and fro, so does the artist weave and unweave his image. And as the mole on my right breast is where 1986#159it was when I was born, ",
+    "suffix": ", so through the ghost of the unquiet father the image of the unliving son looks forth. In the intense instant of imagination, when the mind, Shelley says, is a fading coal, that w",
+    "start": 21452,
+    "end": 21514,
+    "canonical_text": "though all my body has been woven of new stuff time after time"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15062648,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

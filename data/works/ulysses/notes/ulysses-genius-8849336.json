@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8849336",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Amor matris",
+  "html_source": "<p>“Amor matris: subjective and objective genitive.” The phrase means “love of mother” in Latin, but in two possible senses: the mother’s love of her child, or the child’s love of its mother.<br />Univ of Montana, Joyce Project</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8849336/James-joyce-ulysses-chap-9-scylla-and-charybdis/Amor-matris",
+    "original_id": "8849336",
+    "referent_id": 8849336,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Amor matris",
+    "prefix": " flung to the mob of Europe the church is founded and founded irremovably because founded, like the world, macro and microcosm, upon the void. Upon incertitude, upon unlikelihood. ",
+    "suffix": ", subjective and objective genitive, may be the only true thing in life. Paternity may be a legal fiction. Who is the father of any son that any son should love him or he any son? ",
+    "start": 48933,
+    "end": 48944,
+    "canonical_text": "Amor matris"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8849336,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

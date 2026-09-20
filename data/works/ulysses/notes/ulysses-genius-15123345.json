@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15123345",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Staylewit (Buncombe. Ind.)",
+  "html_source": "<p>Staylewit is transparent enough, but Buncombe comes from “bunkum” meaning rubbish, whence came “bunk”.</p><p>Interestingly, the term meaning “nonsense” is American in origin and the order of etymological derivation is actually Buncombe -&gt; Bunkum -&gt; Bunk (so in this case, Joyce’s use comes full circle). It is named for Buncombe County in North Carolina, mentioned in an inconsequential speech made by its congressman solely to please his constituents (c. 1820).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15123345/James-joyce-ulysses-chap-12-cyclops/Staylewit-buncombe-ind",
+    "original_id": "15123345",
+    "referent_id": 15123345,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Staylewit (Buncombe. Ind.)",
+    "prefix": "ight honourable gentleman's famous Mitchelstown telegram inspired the policy of gentlemen on the Treasury bench? (O! O!) \n\n Mr Allfours: I must have notice of that question. \n\n Mr ",
+    "suffix": ": Don't hesitate to shoot. \n\n (Ironical opposition cheers.) \n\n The speaker: Order! Order! \n\n (The house rises. Cheers.) \n\n — There's the man, says Joe, that made the Gaelic sports ",
+    "start": 56725,
+    "end": 56751,
+    "canonical_text": "Staylewit (Buncombe. Ind.)"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15123345,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

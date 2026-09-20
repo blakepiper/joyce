@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9058215",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Homerule sun setting",
+  "html_source": "<p>Reversing “homerule sun rising up in the northwest”<br /><a href=\"http://cas.umt.edu/english/joyce/notes/040006homerulesun.htm\" rel=\"noopener nofollow\">http://cas.umt.edu/english/joyce/notes/040006homerulesun.htm</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9058215/James-joyce-ulysses-chap-13-nausicaa/Homerule-sun-setting",
+    "original_id": "9058215",
+    "referent_id": 9058215,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Homerule sun setting",
+    "prefix": "hree it's night. Were those nightclouds there all the time? Looks like 1939#271a phantom ship. No. Wait. Trees are they? An optical illusion. Mirage. Land of the setting sun this. ",
+    "suffix": " in the southeast. My native land, goodnight. \n\n Dew falling. Bad for you, dear, to sit on that stone. Brings on white fluxions. Never have little baby then less he was big strong ",
+    "start": 76305,
+    "end": 76325,
+    "canonical_text": "Homerule sun setting"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9058215,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

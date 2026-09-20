@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3152964",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Father Conmee, reading his office, watched a flock of muttoning clouds over Rathcoffey. His thinsocked ankles were tickled by the stubble of Clongowes field.",
+  "html_source": "<p>This phrase appears later in this episode, situating this event temporally with the actions of other characters.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3152964/James-joyce-ulysses-chap-10-wandering-rocks/Father-conmee-reading-his-office-watched-a-flock-of-muttoning-clouds-over-rathcoffey-his-thinsocked-ankles-were-tickled-by-the-stubble-of-clongowes-field",
+    "original_id": "3152964",
+    "referent_id": 3152964,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Father Conmee, reading his office, watched a flock of muttoning clouds over Rathcoffey. His thinsocked ankles were tickled by the stubble of Clongowes field.",
+    "prefix": "seying to him with ample underleaves. The sky showed him a flock of small white clouds going slowly down the wind. Moutonner, the French said. A just and homely word. \n\n1922#214\n\n ",
+    "suffix": " He walked there, reading in the evening, and heard the cries of the boys' lines at their play, young cries in the quiet evening. He was their rector: his reign was mild. \n\n Father",
+    "start": 11618,
+    "end": 11775,
+    "canonical_text": "Father Conmee, reading his office, watched a flock of muttoning clouds over Rathcoffey. His thinsocked ankles were tickled by the stubble of Clongowes field."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3152964,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 591961,
+        "login": "dbrannen",
+        "name": "dbrannen",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

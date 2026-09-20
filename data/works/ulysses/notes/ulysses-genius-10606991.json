@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10606991",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Mr Philip Beaufoy",
+  "html_source": "<p>Bloom read Mr Beaufoy’s story while in the outhouse in Chapter 4 and considered submitting a story.<br />“Our prize titbit: MATCHAM’S MASTERSTROKE. Written by Mr Philip Beaufoy, Playgoers' Club, London. Payment at the rate of one guinea a  column has been made to the writer.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10606991/James-joyce-ulysses-chap-16-eumaeus/Mr-philip-beaufoy",
+    "original_id": "10606991",
+    "referent_id": 10606991,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Mr Philip Beaufoy",
+    "prefix": "ers, 1961#646scavengers, etc., were very much under the microscope lately. To improve the shining hour he wondered whether he might meet with anything approaching the same luck as ",
+    "suffix": " if taken down in writing. Suppose he were to pen something out of the common groove (as he fully intended doing) at the rate of one guinea per column, My Experiences, let us say, ",
+    "start": 84023,
+    "end": 84040,
+    "canonical_text": "Mr Philip Beaufoy"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10606991,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

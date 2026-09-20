@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-25779388",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Perhaps hanging clothes out to dry. The maid was in the garden",
+  "html_source": "<p>From ‘Sing a Song of Sixpence’:</p><p><a href=\"https://genius.com/Children-songs-sing-a-song-of-sixpence-lyrics\" rel=\"noopener nofollow\">The maid was in the garden<br />Hanging out the clothes<br />When down came a blackbird<br />And pecked off her nose.</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/25779388/James-joyce-ulysses-chap-4-calypso/Perhaps-hanging-clothes-out-to-dry-the-maid-was-in-the-garden",
+    "original_id": "25779388",
+    "referent_id": 25779388,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Perhaps hanging clothes out to dry. The maid was in the garden",
+    "prefix": "on the bed. \n\n Listening, he heard her voice: \n\n — Come, come, pussy. Come. \n\n He went out through the backdoor into the garden: stood to listen towards the next garden. No sound. ",
+    "suffix": ". Fine morning. \n\n He bent down to regard a lean file of spearmint growing by the wall. Make a summerhouse here. Scarlet runners. Virginia creepers. Want to manure the whole place ",
+    "start": 28940,
+    "end": 29002,
+    "canonical_text": "Perhaps hanging clothes out to dry. The maid was in the garden"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 25779388,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 4328905,
+        "login": "panickyintheuk",
+        "name": "panickyintheuk",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

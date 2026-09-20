@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9171733",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Well done",
+  "html_source": "<p>King James Bible<br />Matthew 25:23<br />His lord said unto him, Well done, good and faithful servant; thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9171733/James-joyce-ulysses-chap-14-oxen-of-the-sun/Well-done",
+    "original_id": "9171733",
+    "referent_id": 9171733,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Well done",
+    "prefix": " so with a tranquil heart to bed, to rest. He knows and will call in His own good time. You too have fought the good fight and played loyally your man's part. Sir, to you my hand. ",
+    "suffix": ", thou good and faithful servant! \n\n1939#302\n\n There are sins or (let us call them as the world calls them) evil memories which are hidden away by man in the darkest places of the ",
+    "start": 97572,
+    "end": 97581,
+    "canonical_text": "Well done"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9171733,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8113367",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "On the top of the Howth tram alone crying to the rain: Naked women! naked women! What about that, eh?",
+  "html_source": "<p>The life instinct makes few interjections at this point in the text.  Stephen’s libido is referred to in jest through Uncle Richie, “On the Howth tram alone shouting to the rain: naked women!  What about that eh?”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8113367/James-joyce-ulysses-chap-3-proteus/On-the-top-of-the-howth-tram-alone-crying-to-the-rain-naked-women-naked-women-what-about-that-eh",
+    "original_id": "8113367",
+    "referent_id": 8113367,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "On the top of the Howth tram alone crying to the rain: Naked women! naked women! What about that, eh?",
+    "prefix": "he fubsy widow in front might lift her clothes still more from the wet street. O si, certo! Sell your soul for that, do, dyed rags pinned round a squaw. More tell me, more still!! ",
+    "suffix": " about what? What else were they invented for? \n\n Reading two pages apiece of seven books every night, eh? I was young. You bowed to yourself in the mirror, stepping forward to app",
+    "start": 8176,
+    "end": 8272,
+    "canonical_text": "On the top of the Howth tram alone crying to the rain: naked women! What about that, eh? \n\n What"
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9072
+  },
+  "genius": {
+    "referent_id": 8113367,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2436433,
+        "login": "essss",
+        "name": "essss",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

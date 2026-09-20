@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8774215",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Physic",
+  "html_source": "<p>PHYSIC<br />noun<br />a medicine that purges; cathartic; laxative.</p><p>verb (used with object), treat with or act upon as a physic or medicine.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8774215/James-joyce-ulysses-chap-5-lotus-eaters/Physic",
+    "original_id": "8774215",
+    "referent_id": 8774215,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "physic",
+    "prefix": "s, disinfectants. All 1932#74his alabaster lilypots. Mortar and pestle. Aq. Dist. Fol. Laur. Te Virid. Smell almost cure you like the dentist's doorbell. Doctor Whack. He ought to ",
+    "suffix": " himself a bit. Electuary or emulsion. The first fellow that picked an herb to cure himself had a bit of pluck. Simples. Want to be careful. Enough stuff here to chloroform you. Te",
+    "start": 30739,
+    "end": 30745,
+    "canonical_text": "physic"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8774215,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

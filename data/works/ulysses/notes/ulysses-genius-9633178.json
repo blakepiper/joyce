@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9633178",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Lily",
+  "html_source": "<p>The opening word, and character in Joyce’s “The Dead”.  The lily is a metaphor for multiple associations in Ireland: The Feast of the Annunciation, Easter, death and re-birth, Irish republicanism, the angel Gabriel, and the funeral flower.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9633178/James-joyce-ulysses-chap-2-nestor/Lily",
+    "original_id": "9633178",
+    "referent_id": 9633178,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "Lily",
+    "prefix": " with meaning. Two in the back bench whispered. Yes. They knew: had never learned 1961#24nor ever been 1986#20innocent. All. With envy he watched their faces: Edith, Ethel, Gerty, ",
+    "suffix": ". Their likes: their breaths, too, sweetened with tea and jam, their bracelets tittering in the struggle. \n\n1939#20\n\n — Kingstown pier, Stephen said. Yes, a disappointed bridge. \n\n",
+    "start": 2019,
+    "end": 2023,
+    "canonical_text": "Lily"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9633178,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3406480,
+        "login": "GavanKennedy",
+        "name": "GavanKennedy",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

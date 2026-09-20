@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8774346",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Hammam. Turkish",
+  "html_source": "<p>A Turkish bath or hammam (Turkish: hamam, Arabic: الحمام, ḥammām‎) is the Turkish variant of the Roman bath, steambath, sauna, or Russian banya, distinguished by a focus on water, as distinct from ambient steam.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8774346/James-joyce-ulysses-chap-5-lotus-eaters/Hammam-turkish",
+    "original_id": "8774346",
+    "referent_id": 8774346,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Hammam. Turkish",
+    "prefix": " want a perfume too. What perfume does your? Peau d'Espagne. That orangeflower water is so fresh. Nice smell these soaps have. Pure curd soap. Time to get a bath round the corner. ",
+    "suffix": ". Massage. Dirt gets rolled up in your navel. Nicer if a nice girl did it. Also I think I. Yes I. Do it in the bath. Curious longing I. Water to water. Combine business with pleasu",
+    "start": 32211,
+    "end": 32226,
+    "canonical_text": "Hammam. Turkish"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8774346,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

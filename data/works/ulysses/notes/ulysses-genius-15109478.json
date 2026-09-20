@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15109478",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Rhino",
+  "html_source": "<p>Slang for money, metonymously via trade in the creatures' ivory tusks</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15109478/James-joyce-ulysses-chap-12-cyclops/Rhino",
+    "original_id": "15109478",
+    "referent_id": 15109478,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "rhino",
+    "prefix": "922#287\n\n — What's that bloody freemason doing, says the citizen, prowling up and down outside? \n\n — What's that? says Joe. \n\n1939#218\n\n — Here you are, says Alf, chucking out the ",
+    "suffix": ". Talking about hanging, I'll show you something you never saw. Hangmen's letters. Look at here. \n\n1986#246\n\n So he took a bundle of wisps of letters and envelopes out of his pocke",
+    "start": 19424,
+    "end": 19429,
+    "canonical_text": "rhino"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15109478,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

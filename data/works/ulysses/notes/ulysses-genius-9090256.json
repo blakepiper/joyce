@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9090256",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Blazes Boylan",
+  "html_source": "<p>From Section 5: “Blazes Boylan handed her the bottle swathed in pink tissue paper and a small jar.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9090256/James-joyce-ulysses-chap-10-wandering-rocks/Blazes-boylan",
+    "original_id": "9090256",
+    "referent_id": 9090256,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Blazes Boylan",
+    "prefix": "roy and unobserved. By the provost's wall came jauntily Blazes Boylan, stepping in tan 1961#253shoes and socks with skyblue clocks to the refrain of My girl's a Yorkshire girl. \n\n ",
+    "suffix": " presented to the leaders' skyblue frontlets and high action a skyblue tie, a widebrimmed straw hat at a rakish angle and a suit of indigo serge. His hands in his jacket pockets fo",
+    "start": 72675,
+    "end": 72688,
+    "canonical_text": "Blazes Boylan"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9672
+  },
+  "genius": {
+    "referent_id": 9090256,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083675,
+        "login": "brnmzsk",
+        "name": "brnmzsk",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10092304",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Eleven stone nine",
+  "html_source": "<p>163 pounds (1 stone = 14 pounds)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10092304/James-joyce-ulysses-chap-15-circe/Eleven-stone-nine",
+    "original_id": "10092304",
+    "referent_id": 10092304,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "eleven stone nine",
+    "prefix": " Gibraltar by long sea long ago. \n\n THE NYMPH \n\n(Bends her head.) Worse, worse! \n\n BLOOM \n\n(Reflects precautiously.) That antiquated commode. It wasn't her weight. She scaled just ",
+    "suffix": ". She put on nine pounds after weaning. It was a crack and want of glue. Eh? And that absurd orangekeyed utensil which has only one handle. \n\n(The sound of a waterfall is heard in ",
+    "start": 165409,
+    "end": 165426,
+    "canonical_text": "eleven stone nine"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10092304,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

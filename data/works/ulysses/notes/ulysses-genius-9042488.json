@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-9042488",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Art thou real, my ideal?",
+  "html_source": "<p>from Allusions in Ulysses: An Annotated List<br />By Weldon Thornton,(p. 87).</p><p>Joyce quoted this stanza more fully in “Stephen Hero”:<br /><em>Art thou real my ideal<br />Wilt thou ever come to me<br />In the soft and gentel twilight<br />With your baby on your knee</em>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9042488/James-joyce-ulysses-chap-13-nausicaa/Art-thou-real-my-ideal",
+    "original_id": "9042488",
+    "referent_id": 9042488,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Art thou real, my ideal?",
+    "prefix": "uld write poetry if she could only express herself like that poem that appealed to her so deeply that she had copied out of the newspaper she found one evening round the potherbs. ",
+    "suffix": " it was called by Louis J. Walsh, Magherafelt, and after there was something about twilight, wilt thou ever? and ofttimes the beauty of poetry, so sad in its transient loveliness, ",
+    "start": 45393,
+    "end": 45417,
+    "canonical_text": "Art thou real, my ideal?"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9042488,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.9545454545454546
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.045454545454545456
+      }
+    ]
+  },
+  "color": "F59627"
+}

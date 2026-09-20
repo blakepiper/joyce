@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21101922",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "A fair name, William",
+  "html_source": "<p>As You Like it, Act V, Scene 1:</p><p>TOUCHSTONE<br />A ripe age. Is thy name William?</p><p>WILLIAM<br />William, sir.</p><p>TOUCHSTONE<br />A fair name.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21101922/James-joyce-ulysses-chap-9-scylla-and-charybdis/A-fair-name-william",
+    "original_id": "21101922",
+    "referent_id": 21101922,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "a fair name, William",
+    "prefix": "t want Richard, my name... \n\n(Laughter.) \n\n1939#153\n\n Quakerlyster \n\n (A tempo.) But he that filches from me my good name... \n\n Stephen \n\n(Stringendo.) He has hidden his own name, ",
+    "suffix": ", in the plays, a super here, a clown there, as a painter of old Italy set his face in a dark corner of his canvas. He has 1961#209revealed it in the sonnets where there is Will in",
+    "start": 53036,
+    "end": 53056,
+    "canonical_text": "a fair name, William"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21101922,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

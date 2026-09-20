@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5110720",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Brunswick street.",
+  "html_source": "<p>The procession takes a route parallel to the shore of Dublin Bay; it continues north from Tritonville Road into Irishtown Road and then into Thomas Street in Irishtown. There it turns west into Bridge Street, just south of the Liffey, and continues west over the River Dodder, along Ringsend Road over the Grand Canal, and into Great Brunswick (now Pearse) Street toward the center of Dublin, where it will again turn north and cross the city to Glasnevin.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5110720/James-joyce-ulysses-chap-6-hades/Brunswick-street",
+    "original_id": "5110720",
+    "referent_id": 5110720,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Brunswick street.",
+    "prefix": "seway and the crazy glasses shook rattling in the doorframes. \n\n — What way is he taking us? Mr Power asked through both windows. \n\n — Irishtown, Martin Cunningham said. Ringsend. ",
+    "suffix": " \n\n Mr Dedalus nodded, looking out. \n\n1961#871986#72\n\n — That's a fine old custom, he said. I am glad to see it has not died out. \n\n All watched awhile through their windows caps a",
+    "start": 2091,
+    "end": 2108,
+    "canonical_text": "Brunswick street."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5110720,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

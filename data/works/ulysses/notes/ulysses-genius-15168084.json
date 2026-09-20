@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15168084",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Miss Portinari",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Beatrice_Portinari\" rel=\"noopener nofollow\">Beatrice Portinari</a> (Dante’s love interest) was married to Simon de Bardi, forming equal sides in a love triangle.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15168084/James-joyce-ulysses-chap-16-eumaeus/Miss-portinari",
+    "original_id": "15168084",
+    "referent_id": 15168084,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Miss Portinari",
+    "prefix": " so, Mr Bloom dittoed. \n\n — Then, Stephen said, staring and rambling on to himself or some unknown listener somewhere, we have the impetuosity of Dante and the isosceles triangle, ",
+    "suffix": ", he fell in love with and Leonardo and san Tommaso Mastino. \n\n — It's in the blood, Mr Bloom acceded at once. All are washed in the blood of the sun. Coincidence, I just happened ",
+    "start": 59995,
+    "end": 60009,
+    "canonical_text": "Miss Portinari"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15168084,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

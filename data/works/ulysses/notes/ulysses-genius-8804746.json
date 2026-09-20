@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8804746",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "I have a vision too",
+  "html_source": "<p>An essay on Stephen’s Parable of the Plums<br />Colby Quarterly, Volume 28, no.1, March 1992, p. 5-18<br />Ulysses: Stephen’s Parable of the Plums<br />Robert Frumkin<br /><a href=\"http://digitalcommons.colby.edu/cgi/viewcontent.cgi?article=2902&amp;context=cq\" rel=\"noopener nofollow\">http://digitalcommons.colby.edu/cgi/viewcontent.cgi?article=2902&amp;context=cq</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8804746/James-joyce-ulysses-chap-7-aeolus/I-have-a-vision-too",
+    "original_id": "8804746",
+    "referent_id": 8804746,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "I have a vision too",
+    "prefix": " heels and rushed out into the street, yelling: \n\n — Racing special! \n\n1922#138\n\n Dublin. I have much, much to learn. \n\n They turned to the left along Abbey street. \n\n1932#128\n\n — ",
+    "suffix": ", Stephen said. \n\n — Yes? the professor said, skipping to get into step. Crawford will follow. \n\n Another newsboy shot past them, yelling as he ran: \n\n — Racing special! \n\n1961#144",
+    "start": 51096,
+    "end": 51115,
+    "canonical_text": "I have a vision too"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8804746,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

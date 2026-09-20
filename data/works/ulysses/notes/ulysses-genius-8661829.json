@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8661829",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Return, return, Clan Milly",
+  "html_source": "<p>Reference to “Clan Milly” is to the Milesians (See adjacent annotation). the entreaty to “Return, return,” is both for the Irish to “forget me not,” the “me” being, potentially, both Joyce (to whom the directive to return applies), or the “Me,” the God of Saint Patrick. Or the “me” could also be the prototypical, if only in the ideal, Irishman.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8661829/James-joyce-ulysses-chap-14-oxen-of-the-sun/Return-return-clan-milly",
+    "original_id": "8661829",
+    "referent_id": 8661829,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Return, return, Clan Milly",
+    "prefix": "ates to commit fornication in my sight and to wax fat and kick like Jeshurum. Therefore hast thou sinned against the light and hast made me, thy lord, to be the slave of servants. ",
+    "suffix": ": forget me not, O Milesian. Why hast thou done this abomination before me that thou didst spurn me for a merchant of jalaps and didst deny me to the Roman and the Indian of dark s",
+    "start": 26451,
+    "end": 26477,
+    "canonical_text": "Return, return, Clan Milly"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8661829,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

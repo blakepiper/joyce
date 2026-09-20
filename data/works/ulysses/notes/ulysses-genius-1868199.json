@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-1868199",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Woman’s unclean loins",
+  "html_source": "<p>The Old Testament descrbes women as being: “unclean for seven days” after childbirth. <a href=\"https://genius.com/4442260\" rel=\"noopener nofollow\">(Lev. 12:2)</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1868199/James-joyce-ulysses-chap-1-telemachus/Womans-unclean-loins",
+    "original_id": "1868199",
+    "referent_id": 1868199,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "woman's unclean loins",
+    "prefix": "her old head to a voice that speaks to her loudly, her bonesetter, her medicineman: me she slights. To the voice that will shrive and oil for the grave all there is of her but her ",
+    "suffix": ", of man's flesh made not in God's likeness, the serpent's prey. And to the loud voice that now bids her be silent with wondering unsteady eyes. \n\n — Do you understand what he says",
+    "start": 23967,
+    "end": 23988,
+    "canonical_text": "woman's unclean loins"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1868199,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 176532,
+        "login": "biblicalmike",
+        "name": "Michael Bible",
+        "role": "verified_artist",
+        "attribution": 0.5625
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.4375
+      }
+    ]
+  },
+  "color": "F59627"
+}

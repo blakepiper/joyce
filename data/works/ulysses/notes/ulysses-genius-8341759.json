@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8341759",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "—Ma! Almidano Artifoni said.",
+  "html_source": "<p>Almidano Artifoni, apparently an Italian music teacher, is a fictional character, named after the owner of the language schools in Pola &amp; Trieste, where Joyce taught in 1904/5. He says “Ma!” [“But!”] &amp; his statement is continued after the reference to the two carfuls of tourists.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8341759/James-joyce-ulysses-chap-10-wandering-rocks/Ma-almidano-artifoni-said",
+    "original_id": "8341759",
+    "referent_id": 8341759,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "—Ma! Almidano Artifoni said.",
+    "prefix": "d in her blouse with more favour, the stalk of the red flower between his smiling teeth. \n\n — May I say a word to your telephone, missy? he asked roguishly. \n\n*\n*  *\n\n1986#187\n\n — ",
+    "suffix": " \n\n He gazed over Stephen's shoulder at Goldsmith's knobby poll. \n\n Two carfuls of tourists passed slowly, their women sitting fore, gripping the handrests. Palefaces. Men's arms f",
+    "start": 19206,
+    "end": 19233,
+    "canonical_text": "Ma! Almidano Artifoni said."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 8341759,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2568065,
+        "login": "GeoffBobker",
+        "name": "GeoffBobker",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

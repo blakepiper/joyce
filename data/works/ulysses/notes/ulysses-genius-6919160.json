@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-6919160",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Gabriel Conroy",
+  "html_source": "<p>The central character of “The Dead,” the final story in Joyce’s <em>Dubliners.</em> In the story we learn that Gabriel writes a literary column in <em>The Daily Express</em> every Wednesday for fifteen shillings.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6919160/James-joyce-ulysses-chap-7-aeolus/Gabriel-conroy",
+    "original_id": "6919160",
+    "referent_id": 6919160,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Gabriel Conroy",
+    "prefix": "iners from D. and T. Fitzgerald. Their wigs to show their grey matter. Brains on their sleeve like the statue in Glasnevin. Believe he does some literary work for the Express with ",
+    "suffix": ". Wellread fellow. Myles Crawford began on the Independent. Funny the way those newspaper men veer about when they get wind of a new opening. Weathercocks. Hot and cold in the same",
+    "start": 16926,
+    "end": 16940,
+    "canonical_text": "Gabriel Conroy"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6919160,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1835164,
+        "login": "AdamKadmon",
+        "name": "AdamKadmon",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

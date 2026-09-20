@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-38339960",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "And Lambert Simnel, with a tail of nans and sutlers, a scullion crowned",
+  "html_source": "<p>Lambert Simnel (1477-1534) first pretender to the throne of Henry VII.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/38339960/James-joyce-ulysses-chap-3-proteus/And-lambert-simnel-with-a-tail-of-nans-and-sutlers-a-scullion-crowned",
+    "original_id": "38339960",
+    "referent_id": 38339960,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "and Lambert Simnel, with a tail of nans and sutlers, a scullion crowned",
+    "prefix": "? Pretenders: live their lives. The Bruce's brother, Thomas Fitzgerald, silken knight, Perkin Warbeck, York's false scion, in breeches of silk of whiterose ivory, wonder of a day, ",
+    "suffix": ". All kings' sons. Paradise of pretenders then and now. He saved men from drowning and you shake at a cur's yelping. But the courtiers who mocked Guido in Or san Michele were in th",
+    "start": 20188,
+    "end": 20259,
+    "canonical_text": "and Lambert Simnel, with a tail of nans and sutlers, a scullion crowned"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 38339960,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 23750768,
+        "login": "MardouFox",
+        "name": "MardouFox",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

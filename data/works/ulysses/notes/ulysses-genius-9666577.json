@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9666577",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Ulster King of Arms",
+  "html_source": "<p>Norroy and Ulster King of Arms is the King of Arms at the College of Heralds with jurisdiction over England north of the Trent and the six counties of Northern Ireland.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9666577/James-joyce-ulysses-chap-15-circe/Ulster-king-of-arms",
+    "original_id": "9666577",
+    "referent_id": 9666577,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Ulster King of Arms",
+    "prefix": "s high, surrounded by pennons of the civic flag. The van of the procession appears headed by John Howard Parnell, city marshal, in a chessboard tabard, the Athlone Poursuivant and ",
+    "suffix": ". They are followed by the Right Honourable Joseph Hutchinson, lord mayor of Dublin, his lordship the lord mayor of Cork, their worships the mayors of Limerick, Galway, 1922#453Sli",
+    "start": 70800,
+    "end": 70819,
+    "canonical_text": "Ulster King of Arms"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9666577,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

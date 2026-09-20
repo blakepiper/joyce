@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11283711",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Concone",
+  "html_source": "<p><a href=\"https://archive.org/details/thirtyexercisesf00conc\" rel=\"noopener nofollow\">https://archive.org/details/thirtyexercisesf00conc</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11283711/James-joyce-ulysses-chap-18-penelope/Concone",
+    "original_id": "11283711",
+    "referent_id": 11283711,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Concone",
+    "prefix": "have just had a jolly warm bath and feel a very clean dog now enjoyed it wogger she called him wogger wd give anything to be back in Gib and hear you sing in old Madrid or Waiting ",
+    "suffix": " is the name of those exercises he bought me one of those new some word I couldnt make out shawls amusing things but tear for the least thing still there lovely I think dont you wi",
+    "start": 46087,
+    "end": 46094,
+    "canonical_text": "Concone"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11283711,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

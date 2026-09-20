@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795613",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Botanic Gardens",
+  "html_source": "<p>The National Botanic Gardens (Irish: Garraithe Náisiúnta na Lus) are located in Glasnevin, 5 km north-west of Dublin city centre, Ireland. The 19.5 hectares are situated between Prospect Cemetery and the River Tolka where it forms part of that river’s floodplain.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795613/James-joyce-ulysses-chap-6-hades/Botanic-gardens",
+    "original_id": "8795613",
+    "referent_id": 8795613,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Botanic Gardens",
+    "prefix": " garden Major Gamble calls Mount Jerome. Well, so it is. Ought to be flowers of sleep. Chinese cemeteries with giant poppies growing produce the best opium Mastiansky told me. The ",
+    "suffix": " are just over there. It's the blood sinking in the earth gives new life. Same idea those jews they said killed the christian boy. Every man his price. Well preserved fat corpse, g",
+    "start": 46315,
+    "end": 46330,
+    "canonical_text": "Botanic Gardens"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8795613,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

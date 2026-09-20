@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4531377",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "I suppose I oughtnt to have buried him in that little woolly jacket",
+  "html_source": "<p>“Him” being her infant son Rudy.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4531377/James-joyce-ulysses-chap-18-penelope/I-suppose-i-oughtnt-to-have-buried-him-in-that-little-woolly-jacket",
+    "original_id": "4531377",
+    "referent_id": 4531377,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "I suppose I oughtnt to have buried him in that little woolly jacket",
+    "prefix": " was he not able to make one it wasnt my fault we came together when I was watching the two dogs up in her behind in the middle of the naked street that disheartened me altogether ",
+    "suffix": " I knitted crying as I was but give it to some poor child but I knew well Id never have another our 1st death too it was we were never the same since O Im not going to think myself",
+    "start": 107593,
+    "end": 107660,
+    "canonical_text": "I suppose I oughtnt to have buried him in that little woolly jacket"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4531377,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.6666666666666667
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.33333333333333337
+      }
+    ]
+  },
+  "color": "F59627"
+}

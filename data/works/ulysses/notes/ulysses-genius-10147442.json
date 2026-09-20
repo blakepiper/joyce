@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10147442",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Jack Latten",
+  "html_source": "<p><a href=\"http://folktunefinder.com/tunes/167014\" rel=\"noopener nofollow\">http://folktunefinder.com/tunes/167014</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10147442/James-joyce-ulysses-chap-15-circe/Jack-latten",
+    "original_id": "10147442",
+    "referent_id": 10147442,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Jack Latten",
+    "prefix": ".) Here? (He squirms.) Again! (He pants cringing.) I love the danger. \n\n1961#467\n\n THE HONOURABLE MRS MERVYN TALBOYS \n\n Very much so! I'll make it hot for you. I'll make you dance ",
+    "suffix": " for that. \n\n MRS BELLINGHAM \n\n Tan his breech well, the upstart! Write the stars and stripes on it! \n\n1986#381\n\n MRS YELVERTON BARRY \n\n Disgraceful! There's no excuse for him! A m",
+    "start": 55399,
+    "end": 55410,
+    "canonical_text": "Jack Latten"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10147442,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

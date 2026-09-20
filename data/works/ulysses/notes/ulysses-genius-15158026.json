@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15158026",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Il vient! C’est moi! L’homme qui rit! L’homme primigene!",
+  "html_source": "<p>(Fr.) He comes! It’s me! The man who laughs! The Primal man!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15158026/James-joyce-ulysses-chap-15-circe/Il-vient-cest-moi-lhomme-qui-rit-lhomme-primigene",
+    "original_id": "15158026",
+    "referent_id": 15158026,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Il vient! C'est moi! L'homme qui rit! L'homme primigene!",
+    "prefix": "ring, capers to and fro, goggling his eyes, squeaking, kangaroohopping with outstretched clutching arms, then all at once thrusts his lipless face through the fork of his thighs.) ",
+    "suffix": " (He whirls round and round with dervish howls.) Sieurs et dames, faites vos jeux! (He crouches juggling. Tiny roulette planets fly from his hands.) Les jeux sont faits! (The plane",
+    "start": 107388,
+    "end": 107452,
+    "canonical_text": "Il vient! C'est moi! L'homme qui rit! 1922#476L'homme primigène!"
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9167
+  },
+  "genius": {
+    "referent_id": 15158026,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

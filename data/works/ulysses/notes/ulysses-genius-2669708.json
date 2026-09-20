@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-2669708",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Gounods Ave Maria what",
+  "html_source": "<p>The words to the hymn are as follows:</p><blockquote><p>Hail Maria<br />Full of grace<br />The Lord is with thee<br />Blessed art thou among women<br />And blessed is the fruit<br />Of thy womb, Jesus<br />Holy Maria, Holy Maria<br />Maria, pray for us<br />Us sinners<br />Nou and in the hour<br />Of our death<br />Amen.</p></blockquote>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2669708/James-joyce-ulysses-chap-18-penelope/Gounods-ave-maria-what",
+    "original_id": "2669708",
+    "referent_id": 2669708,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Gounods Ave Maria what",
+    "prefix": "somewhere I noticed him when I was tasting the butter so I took my time Bartell dArcy too that he used to make fun of when he commenced kissing me on the choir stairs after I sang ",
+    "suffix": " are we waiting for O my heart kiss me straight on the brow and part which is my brown part he was pretty hot for all his tinny voice too my low notes he was always raving about if",
+    "start": 20392,
+    "end": 20414,
+    "canonical_text": "Gounods Ave Maria what"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2669708,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 406252,
+        "login": "gimblewart",
+        "name": "gimblewart",
+        "role": null,
+        "attribution": 0.8431372549019608
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.1568627450980392
+      }
+    ]
+  },
+  "color": "F59627"
+}

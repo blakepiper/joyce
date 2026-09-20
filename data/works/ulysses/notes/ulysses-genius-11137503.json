@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11137503",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "My dearest Doggerina",
+  "html_source": "<p>From here to xxxxx is Molly’s reflection on the postcard (PC) Mrs Stanhope sent her about the gift. See more about this card by R. B. Kershner:<br /><a href=\"https://books.google.com/books?id=b3gA77V1yOwC&amp;pg=PA71&amp;lpg=PA71&amp;dq=doggerina&amp;source=bl&amp;ots=ZbL_CZZO-m&amp;sig=4xnY3_MhtqGTzot1pD0fzqd3bfU&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwifsvDE0rHRAhVI72MKHXhIAawQ6AEIITAB#v=onepage&amp;q=doggerina&amp;f=false\" rel=\"noopener nofollow\">https://books.google.com/books?id=b3gA77V1yOwC&amp;pg=PA71&amp;lpg=PA71&amp;dq=doggerina&amp;source=bl&amp;ots=ZbL_CZZO-m&amp;sig=4xnY3_MhtqGTzot1pD0fzqd3bfU&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwifsvDE0rHRAhVI72MKHXhIAawQ6AEIITAB#v=onepage&amp;q=doggerina&amp;f=false</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11137503/James-joyce-ulysses-chap-18-penelope/My-dearest-doggerina",
+    "original_id": "11137503",
+    "referent_id": 11137503,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "my dearest Doggerina",
+    "prefix": "e rainwater in those tanks watching the sun all the time weltering down on you faded all that lovely frock fathers friend Mrs Stanhope sent me from the B Marche paris what a shame ",
+    "suffix": " she wrote on it she was very nice whats this her other name was just a P C to tell you I sent the little present have just had a jolly warm bath and feel a very clean dog now enjo",
+    "start": 45773,
+    "end": 45793,
+    "canonical_text": "my dearest Doggerina"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11137503,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

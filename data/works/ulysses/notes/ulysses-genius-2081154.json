@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2081154",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Leopold was for Rudolph.",
+  "html_source": "<p>This ends the section in the style of Charles Lamb which began with “What is the age.”</p><p><img src=\"https://images.genius.com/9d239f6f8f2f08139bbce70f0dce9148.287x460x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2081154/James-joyce-ulysses-chap-14-oxen-of-the-sun/Leopold-was-for-rudolph",
+    "original_id": "2081154",
+    "referent_id": 2081154,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Leopold was for Rudolph.",
+    "prefix": "d memory solace thee not. That youthful illusion of thy strength was taken from thee and in vain. No son of thy loins is by 1961#413thee. There is none now to be for Leopold, what ",
+    "suffix": " \n\n The voices blend and fuse in clouded silence: silence that is the infinite of space: and swiftly, silently the soul is wafted over regions of cycles of generations that have li",
+    "start": 78040,
+    "end": 78064,
+    "canonical_text": "Leopold was for Rudolph."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2081154,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

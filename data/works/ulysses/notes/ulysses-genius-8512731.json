@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8512731",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Mrs Sinico",
+  "html_source": "<p>Mrs. Sinico of A Painful Case in Dubliners</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8512731/James-joyce-ulysses-chap-6-hades/Mrs-sinico",
+    "original_id": "8512731",
+    "referent_id": 8512731,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Mrs Sinico",
+    "prefix": "te like raw white turnips. \n\n The gates glimmered in front: still open. Back to the world again. Enough of this place. Brings you a bit nearer every time. Last time I was here was ",
+    "suffix": "'s funeral. Poor papa too. The love that kills. And even scraping up the earth at1961#114 night with a lantern like that case I read of to get at fresh buried females or even putre",
+    "start": 60942,
+    "end": 60952,
+    "canonical_text": "Mrs Sinico"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8512731,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2706744,
+        "login": "kikolou",
+        "name": "kikolou",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

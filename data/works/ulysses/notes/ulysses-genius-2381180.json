@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2381180",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "In ward wary the watcher",
+  "html_source": "<p>The wording in this passage, and the alliteration, are akin to Anglo-Saxon poetry like <a href=\"http://www.anglo-saxons.net/hwaet/?do=get&amp;type=text&amp;id=Sfr\" rel=\"noopener nofollow\">The Seafarer</a>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2381180/James-joyce-ulysses-chap-14-oxen-of-the-sun/In-ward-wary-the-watcher",
+    "original_id": "2381180",
+    "referent_id": 2381180,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "In ward wary the watcher",
+    "prefix": "e sisters in ward sleepless. Smarts they still, sickness soothing: in twelve moons thrice an hundred. Truest bedthanes they twain are, for Horne holding wariest ward. \n\n1986#315\n\n ",
+    "suffix": " hearing come that man mildhearted eft rising with swire ywimpled to him her gate wide undid. Lo, levin leaping lightens in eyeblink Ireland's westward welkin. Full she dread that ",
+    "start": 5481,
+    "end": 5505,
+    "canonical_text": "In ward wary the watcher"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2381180,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 141494,
+        "login": "Soma_Cruz",
+        "name": "Soma_Cruz",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

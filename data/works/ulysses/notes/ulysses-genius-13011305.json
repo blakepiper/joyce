@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13011305",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Mecklenburg street",
+  "html_source": "<p>Named after Charlotte of Mecklenburg-Strelitz, wife of George III, King of the United Kingdom of Great Britain and Ireland.</p><p>Known as Tyrone Street from 1887 to 1905 and Railway Street thereafter.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13011305/James-joyce-ulysses-chap-15-circe/Mecklenburg-street",
+    "original_id": "13011305",
+    "referent_id": 13011305,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Mecklenburg street",
+    "prefix": "be a universal language, the gift of tongues rendering visible not the lay sense but the first entelechy, the structural rhythm.\n\nLYNCH Pornosophical philotheology. Metaphysics in ",
+    "suffix": "!\nSTEPHEN We have shrewridden Shakespeare and henpecked Socrates. Even the allwisest stagyrite was bitted, bridled and mounted by a light of love.\n\nLYNCH Ba!\n\nSTEPHEN Anyway, who w",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.3415
+  },
+  "genius": {
+    "referent_id": 13011305,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5436824,
+        "login": "cohomology",
+        "name": "cohomology",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

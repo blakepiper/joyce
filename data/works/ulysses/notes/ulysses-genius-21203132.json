@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21203132",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Ma, sul serio, eh",
+  "html_source": "<p>Italian: “But, seriously, eh?”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21203132/James-joyce-ulysses-chap-10-wandering-rocks/Ma-sul-serio-eh",
+    "original_id": "21203132",
+    "referent_id": 21203132,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Ma, sul serio, eh",
+    "prefix": " stone hand of Grattan, bidding halt, an Inchicore tram unloaded straggling Highland soldiers of a band. \n\n — Ci rifletteró, Stephen said, glancing down the solid trouserleg. \n\n — ",
+    "suffix": "? Almidano Artifoni said. \n\n His heavy hand took Stephen's firmly. Human eyes. They gazed curiously an instant and turned quickly towards a Dalkey tram. \n\n— Eccolo, Almidano Artifo",
+    "start": 20197,
+    "end": 20214,
+    "canonical_text": "Ma, sul serio, eh"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21203132,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

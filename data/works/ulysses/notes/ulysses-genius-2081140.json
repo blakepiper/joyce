@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2081140",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "But with what fitness,",
+  "html_source": "<p>This section (from “But with what fitness” to “acid and inoperative”) is in the style of <a href=\"http://en.wikipedia.org/wiki/Junius\" rel=\"noopener nofollow\">Junius</a>, a mysterious anonymous writer who wrote a series of letters to the London Newspaper <a href=\"http://en.wikipedia.org/wiki/Public_Advertiser\" rel=\"noopener nofollow\"><em>The Public Advertiser</em></a>.</p><p><img src=\"https://images.genius.com/9ba27cb0b61ac5b4519fe036028d4dcf.178x320x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2081140/James-joyce-ulysses-chap-14-oxen-of-the-sun/But-with-what-fitness",
+    "original_id": "2081140",
+    "referent_id": 2081140,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "But with what fitness,",
+    "prefix": "ut, he further added, it 1961#408is mayhap to relieve the pentup feelings that in common oppress them for I have more than once observed that birds of a feather laugh together. \n\n ",
+    "suffix": " let it be asked of the noble lord, his patron, has this alien, whom the concession of a gracious prince has admitted to civic rights, constituted himself the lord paramount of our",
+    "start": 65418,
+    "end": 65440,
+    "canonical_text": "But with what fitness,"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2081140,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

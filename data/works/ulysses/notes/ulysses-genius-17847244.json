@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-17847244",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Monkshood",
+  "html_source": "<p>Noun: aconite; plural noun: aconites<br />a poisonous plant of the buttercup family, which bears hooded pink or purple flowers. It is native to temperate regions of the northern hemisphere.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/17847244/James-joyce-ulysses-chap-17-ithaca/Monkshood",
+    "original_id": "17847244",
+    "referent_id": 17847244,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "monkshood",
+    "prefix": "oom? \n\n The Queen's Hotel, Ennis, County Clare, where Rudolph Bloom (Rudolf Virag) died on the evening of the 27 June 1886, at some hour unstated, in consequence of an overdose of ",
+    "suffix": " (aconite) selfadministered in the form of a neuralgic liniment composed of 2 parts of aconite liniment to 1 of chloroform liniment (purchased by him at 10.20 a.m. on the 1961#684m",
+    "start": 40202,
+    "end": 40211,
+    "canonical_text": "monkshood"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 17847244,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9169082,
+        "login": "davidgrunwald",
+        "name": "davidgrunwald",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

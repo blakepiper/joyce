@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4545247",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "I hope hell come on Monday",
+  "html_source": "<p>Boylan has promised to come again at 4 pm on Monday.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4545247/James-joyce-ulysses-chap-18-penelope/I-hope-hell-come-on-monday",
+    "original_id": "4545247",
+    "referent_id": 4545247,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "I hope hell come on Monday",
+    "prefix": " then I wrote the night he kissed my heart at Dolphins barn I couldnt describe it simply it makes you feel like nothing on earth but he never knew how to embrace well like Gardner ",
+    "suffix": " as he said at the same time four I hate people who come at all hours answer the door you think its the vegetables then its somebody and you all undressed or the door of the filthy",
+    "start": 24716,
+    "end": 24742,
+    "canonical_text": "I hope hell come on Monday"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4545247,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

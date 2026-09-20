@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8339281",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Generous white arm",
+  "html_source": "<p>An arm presumably belonging to Molly Bloom at No 7.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8339281/James-joyce-ulysses-chap-10-wandering-rocks/Generous-white-arm",
+    "original_id": "8339281",
+    "referent_id": 8339281,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "generous white arm",
+    "prefix": " day, Mr Kelleher. \n\n — Ay, Corny Kelleher said. \n\n — It's very close, the constable said. \n\n1922#215\n\n Corny Kelleher sped a silent jet of hayjuice arching from his mouth while a ",
+    "suffix": " from a window in Eccles street flung forth a coin. \n\n — What's the best news? he asked. \n\n — I seen that particular party last evening, the constable said with bated breath. \n\n*\n*",
+    "start": 13706,
+    "end": 13724,
+    "canonical_text": "generous white arm"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8339281,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2568065,
+        "login": "GeoffBobker",
+        "name": "GeoffBobker",
+        "role": "contributor",
+        "attribution": 0.7
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.3
+      }
+    ]
+  },
+  "color": "F59627"
+}

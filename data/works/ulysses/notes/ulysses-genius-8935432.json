@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8935432",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Emptying spittle",
+  "html_source": "<p>When you play a brass instrument, your warm, moist breath will condense inside the instrument  as it travels through the cooler metal tubes of the instrument. When this happens, it turns from a gas to a liquid and sits in the metal tubes of the instrument. As this water vapor (some of it will consist of saliva or “spit\") collects in the instrument, it can affect its sound.</p><p>To remove the accumulated water (or what players call “spit\"), players open the spit valve — also called the “water key.” The water key or spit valve is a small hole that’s usually closed.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8935432/James-joyce-ulysses-chap-11-sirens/Emptying-spittle",
+    "original_id": "8935432",
+    "referent_id": 8935432,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "emptying spittle",
+    "prefix": "nd, sawing the cello, remind you of toothache. Her high long snore. Night we were in the box. Trombone under blowing like a grampus, between the acts, other brass chap unscrewing, ",
+    "suffix": ". Conductor's legs too, bagstrousers, jiggedy jiggedy. Do right to hide them. \n\n Jiggedy jingle jaunty jaunty. \n\n Only the harp. Lovely. Gold glowering light. Girl touched it. Poop",
+    "start": 30313,
+    "end": 30329,
+    "canonical_text": "emptying spittle"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8935432,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

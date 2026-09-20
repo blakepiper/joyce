@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4632941",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "The good bishop of Cloyne",
+  "html_source": "<p><a href=\"http://en.wikipedia.org/wiki/George_Berkeley\" rel=\"noopener nofollow\">George Berkeley</a></p><p><img src=\"https://images.rapgenius.com/80e7c18cb77a37003b8b36dc0bf68e32.640x860x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4632941/James-joyce-ulysses-chap-3-proteus/The-good-bishop-of-cloyne",
+    "original_id": "4632941",
+    "referent_id": 4632941,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "The good bishop of Cloyne",
+    "prefix": "less, would it be mine, form of my form? Who watches me here? Who ever anywhere will read these written words? Signs on a white field. Somewhere to someone in your flutiest voice. ",
+    "suffix": " took the veil of the temple out of his shovel hat: veil of space with coloured emblems hatched on its field. Hold hard. Coloured on a flat: yes, that's right. Flat I see, then thi",
+    "start": 27003,
+    "end": 27028,
+    "canonical_text": "The good bishop of Cloyne"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4632941,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

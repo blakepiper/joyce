@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2463443",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Good puzzle would be cross Dublin without passing a pub",
+  "html_source": "<p>Joyce’s famous challenge to try and cross Dublin without passing a pub was solved by a software developer, proving that it is possible.</p><p><img src=\"https://images.rapgenius.com/8uir5s0ibi7uehxz6s71qjlso.630x484x1.png\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2463443/James-joyce-ulysses-chap-4-calypso/Good-puzzle-would-be-cross-dublin-without-passing-a-pub",
+    "original_id": "2463443",
+    "referent_id": 2463443,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Good puzzle would be cross Dublin without passing a pub",
+    "prefix": " county Leitrim, rinsing empties and old man in the cellar. Then, lo and behold, they blossom out as Adam Findlaters or Dan Tallons. Then think of the competition. General thirst. ",
+    "suffix": ". Save it they can't. Off the drunks perhaps. Put down three and carry five. What is that, a bob here and there, dribs and drabs. On the wholesale orders perhaps. Doing a double sh",
+    "start": 8229,
+    "end": 8284,
+    "canonical_text": "Good puzzle would be cross Dublin without passing a pub"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2463443,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 211351,
+        "login": "prepski",
+        "name": "prepski",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

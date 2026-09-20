@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15155490",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Mobcap",
+  "html_source": "<p>An old-fashioned pleated cloth bonnet with a ribbon band.</p><p><img src=\"https://images.genius.com/97f6cbc672679e731c00ea3e588879f2.808x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15155490/James-joyce-ulysses-chap-15-circe/Mobcap",
+    "original_id": "15155490",
+    "referent_id": 15155490,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "mobcap",
+    "prefix": "sprint. It was muddy. I slipped. \n\n RUDOLPH \n\n(With contempt.) Goim nachez! Nice spectacles for your poor mother! \n\n BLOOM \n\n Mamma! \n\n ELLEN BLOOM \n\n(In pantomime dame's stringed ",
+    "suffix": ", widow Twankey's crinoline and bustle, blouse with muttonleg sleeves buttoned behind, grey mittens and cameo brooch, her plaited hair in a crispine net, appears over the staircase",
+    "start": 13357,
+    "end": 13363,
+    "canonical_text": "mobcap"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15155490,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

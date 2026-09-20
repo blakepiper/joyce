@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11023921",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Ulster Bank, College Green",
+  "html_source": "<p><a href=\"http://archiseek.com/2010/1891-ulster-bank-college-green-dublin/\" rel=\"noopener nofollow\">http://archiseek.com/2010/1891-ulster-bank-college-green-dublin/</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11023921/James-joyce-ulysses-chap-17-ithaca/Ulster-bank-college-green",
+    "original_id": "11023921",
+    "referent_id": 11023921,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Ulster Bank, College Green",
+    "prefix": "h, 65 years or death and death, respectively, or with 1939#509profit policy (paidup) of £299-10-0 together with cash payment of £133-10-0, at option: a bank passbook issued by the ",
+    "suffix": " branch showing statement of a/c for halfyear ending 31 December 1903, balance in depositor's favour: £18-14-6 (eighteen pounds, fourteen 1932#626shillings and sixpence, sterling),",
+    "start": 118269,
+    "end": 118295,
+    "canonical_text": "Ulster Bank, College Green"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11023921,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

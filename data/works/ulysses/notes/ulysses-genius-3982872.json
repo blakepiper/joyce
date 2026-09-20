@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-3982872",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Coin rang. Clock clacked",
+  "html_source": "<p>Blazes Boylan pays for a sloe gin.</p><p>ACCEPTED SUGGESTION: And the clock struck four.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3982872/James-joyce-ulysses-chap-11-sirens/Coin-rang-clock-clacked",
+    "original_id": "3982872",
+    "referent_id": 3982872,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Coin rang. Clock clacked",
+    "prefix": "bing. Longindying call. \n\n Decoy. Soft word. But look! The bright stars fade. O rose! Notes chirruping answer. Castile. The morn is breaking. \n\n Jingle jingle jaunted jingling. \n\n ",
+    "suffix": ". \n\n Avowal. Sonnez. I could. Rebound of garter. Not leave thee. Smack. La cloche! Thigh smack. Avowal. Warm. Sweetheart, goodbye! \n\n Jingle. Bloo. \n\n Boomed crashing chords. When ",
+    "start": 644,
+    "end": 668,
+    "canonical_text": "Coin rang. Clock clacked"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3982872,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1605411,
+        "login": "RoshniShree",
+        "name": "RoshniShree",
+        "role": null,
+        "attribution": 0.5263157894736842
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.4736842105263158
+      }
+    ]
+  },
+  "color": "F59627"
+}

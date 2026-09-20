@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2078831",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Order of a natural phenomenon.",
+  "html_source": "<p>This ends the Milton-era Latinate prose section that began above with “To be short.”</p><p><img src=\"https://images.genius.com/211f055803ccd653968ae1870c3fdf6f.220x293x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2078831/James-joyce-ulysses-chap-14-oxen-of-the-sun/Order-of-a-natural-phenomenon",
+    "original_id": "2078831",
+    "referent_id": 2078831,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "order of a natural phenomenon.",
+    "prefix": "r his great fear, advertising how it was no other thing but a hubbub noise that he heard, the discharge of fluid from the thunderhead, look you, having taken place, and all of the ",
+    "suffix": " \n\n But was young Boasthard's fear vanquished by Calmer's words? No, for he had in his bosom a spike named Bitterness which could not by words be done away. And was he then neither",
+    "start": 30430,
+    "end": 30460,
+    "canonical_text": "order of a natural phenomenon."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2078831,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

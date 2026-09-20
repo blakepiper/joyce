@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8561664",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Wolfe Tone",
+  "html_source": "<p>Character from <em>Rory of the Hill</em> mentioned above.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8561664/James-joyce-ulysses-chap-12-cyclops/Wolfe-tone",
+    "original_id": "8561664",
+    "referent_id": 8561664,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Wolfe Tone",
+    "prefix": "hanging out of him a yard long for more. Near ate the tin and all, hungry bloody mongrel. \n\n And the citizen and Bloom having an argument about the point, the brothers Sheares and ",
+    "suffix": " beyond on Arbour Hill and Robert Emmet and die for your country, the Tommy Moore touch about Sara Curran and she's far from the land. And Bloom, of course, with his knockmedown ci",
+    "start": 31137,
+    "end": 31147,
+    "canonical_text": "Wolfe Tone"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 8561664,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

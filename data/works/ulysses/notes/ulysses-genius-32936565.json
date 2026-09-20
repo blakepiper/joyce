@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-32936565",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Confidente sotto voce",
+  "html_source": "<p>“whispered Confidante” or “confidante in a low voice”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/32936565/James-joyce-ulysses-chap-16-eumaeus/Confidente-sotto-voce",
+    "original_id": "32936565",
+    "referent_id": 32936565,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "confidente sotto voce",
+    "prefix": " to the lay eye, observing that the point was the least conspicuous point about it. \n\n — Our mutual friend's stories are like himself, Mr Bloom, apropos of knives, remarked to his ",
+    "suffix": " Do you think they are genuine? He could spin those yarns for hours on end all night long and lie like old boots. Look at him. \n\n Yet still, though his eyes were thick with sleep a",
+    "start": 55375,
+    "end": 55397,
+    "canonical_text": "confidante sotto voce."
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9302
+  },
+  "genius": {
+    "referent_id": 32936565,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 22269618,
+        "login": "Rudrakshmanshani",
+        "name": "Rudrakshmanshani",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3451506",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Myrto",
+  "html_source": "<p>Possible first wife of Socrates.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3451506/James-joyce-ulysses-chap-9-scylla-and-charybdis/Myrto",
+    "original_id": "3451506",
+    "referent_id": 3451506,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Myrto",
+    "prefix": "scovery did Socrates learn from Xanthippe? \n\n1922#182\n\n — Dialectic, Stephen answered: and from his mother how to bring thoughts into the world. What he learnt from his other wife ",
+    "suffix": " (absit nomen!), Socratididion's Epipsychidion, no man, not a woman, will ever know. But neither the midwife's lore nor the caudlelectures saved him from the archons of Sinn Fein a",
+    "start": 13110,
+    "end": 13115,
+    "canonical_text": "Myrto"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3451506,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

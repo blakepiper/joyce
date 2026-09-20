@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8339332",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Crumpled throwaway",
+  "html_source": "<p>The religious “flyer”, discarded by Bloom at the start of the Lestrygonians episode.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8339332/James-joyce-ulysses-chap-10-wandering-rocks/Crumpled-throwaway",
+    "original_id": "8339332",
+    "referent_id": 8339332,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "crumpled throwaway",
+    "prefix": " bread into the yellow soup, added: \n\n — Our father who art not in heaven. \n\n Maggy, pouring yellow soup in Katey's bowl, exclaimed: \n\n1922#217\n\n — Boody! For shame! \n\n A skiff, a ",
+    "suffix": ", Elijah is coming, rode lightly down the Liffey, under Loopline bridge, shooting the rapids where water chafed 1986#186around the bridgepiers, sailing eastward past hulls and anch",
+    "start": 16970,
+    "end": 16988,
+    "canonical_text": "crumpled throwaway"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9232
+  },
+  "genius": {
+    "referent_id": 8339332,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2568065,
+        "login": "GeoffBobker",
+        "name": "GeoffBobker",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

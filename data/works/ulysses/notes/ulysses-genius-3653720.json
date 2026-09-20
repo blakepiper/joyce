@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3653720",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Illuminating",
+  "html_source": "<p>An allusion to the ‘Inward Light’ of the quaker faith.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3653720/James-joyce-ulysses-chap-9-scylla-and-charybdis/Illuminating",
+    "original_id": "3653720",
+    "referent_id": 3653720,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "illuminating",
+    "prefix": "e you will come round tonight. Bring Starkey. \n\n Stephen sat down. \n\n The quaker librarian came from the leavetakers. Blushing, his mask said: \n\n — Mr Dedalus, your views are most ",
+    "suffix": ". \n\n He creaked to and fro, tiptoing up nearer heaven by the altitude of a chopine, and, covered by the noise of outgoing, said low: \n\n — Is it your view, then, that she was not fa",
+    "start": 18536,
+    "end": 18548,
+    "canonical_text": "illuminating"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3653720,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

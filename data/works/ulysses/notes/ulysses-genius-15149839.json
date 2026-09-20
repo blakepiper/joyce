@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15149839",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Dykedropt",
+  "html_source": "<p>Another compound word, probably meaning born rudely in a dike or ditch (i.e., dyke+dropt).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15149839/James-joyce-ulysses-chap-14-oxen-of-the-sun/Dykedropt",
+    "original_id": "15149839",
+    "referent_id": 15149839,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "dykedropt",
+    "prefix": "chode with him, a murrain seize the dolt, what a devil he would be at, thou chuff, thou puny, thou got in the peasestraw, thou losel, thou chitterling, thou spawn of a rebel, thou ",
+    "suffix": ", thou abortion thou, to shut up his drunken drool out of that like a curse of God ape, the good sir Leopold that had for his cognisance the flower of quiet, margerain gentle, advi",
+    "start": 23360,
+    "end": 23369,
+    "canonical_text": "dykedropt"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15149839,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

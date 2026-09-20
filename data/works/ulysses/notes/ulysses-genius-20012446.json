@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20012446",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Jellibees",
+  "html_source": "<p>Molly probably means djellabas, worn by Arabs, not Jews.</p><p><a href=\"https://en.wikipedia.org/wiki/Djellaba\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Djellaba</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20012446/James-joyce-ulysses-chap-18-penelope/Jellibees",
+    "original_id": "20012446",
+    "referent_id": 20012446,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "jellibees",
+    "prefix": "or reveille in the morning and drums rolling and the unfortunate poor devils of soldiers walking about with messtins smelling the place more than the old longbearded jews in their ",
+    "suffix": " and levites assembly and sound clear and gunfire for the men to cross the lines and the warden marching with his keys to lock the gates and the bagpipes and only Captain Groves an",
+    "start": 51109,
+    "end": 51118,
+    "canonical_text": "jellibees"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20012446,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11041825,
+        "login": "raggedclaws",
+        "name": "raggedclaws",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

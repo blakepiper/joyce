@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8924304",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Hand that rocks",
+  "html_source": "<p>“The Hand That Rocks the Cradle Is the Hand That Rules the World” is a poem by William Ross Wallace that praises motherhood as the preeminent force for change in the world. The poem was first published in 1865.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8924304/James-joyce-ulysses-chap-11-sirens/Hand-that-rocks",
+    "original_id": "8924304",
+    "referent_id": 8924304,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "hand that rocks",
+    "prefix": "ear Reuben J's 1932#259one and eightpence too. Get shut of it. Dodge round by Greek street. Wish I hadn't promised to meet. Freer in air. Music. Gets on your nerves. Beerpull. Her ",
+    "suffix": " the cradle rules the. Ben Howth. That rules the world. \n\n Far. Far. Far. Far. \n\n Tap. Tap. Tap. Tap. \n\n Up the quay went Lionelleopold, naughty Henry with letter for Mady, with sw",
+    "start": 66711,
+    "end": 66726,
+    "canonical_text": "hand that rocks"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8924304,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

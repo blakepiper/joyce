@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3173391",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "You’re your father’s son",
+  "html_source": "<p>Kevin speaking, he knew Simon Dedalus, Stephen’s da.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3173391/James-joyce-ulysses-chap-3-proteus/Youre-your-fathers-son",
+    "original_id": "3173391",
+    "referent_id": 3173391,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "You're your father's son",
+    "prefix": "y's fang thrusting between his lips. Of Ireland, the Dalcassians, of hopes, conspiracies, of Arthur Griffith now. To yoke me1932#39 as his yokefellow, our crimes our common cause. ",
+    "suffix": ". I know the voice. His fustian shirt, sanguineflowered, trembles its Spanish tassels at his secrets. M. Drumont, famous journalist, Drumont, know what he called queen Victoria? Ol",
+    "start": 14254,
+    "end": 14278,
+    "canonical_text": "You're your father's son"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3173391,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8494508",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "The reverend Hugh C. Love",
+  "html_source": "<p>insertion catching us up on the reverend’s trek after meeting Ned Lambert and J. J. O'Molloy at Saint Mary’s Abbey.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8494508/James-joyce-ulysses-chap-10-wandering-rocks/The-reverend-hugh-c-love",
+    "original_id": "8494508",
+    "referent_id": 8494508,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "The reverend Hugh C. Love",
+    "prefix": "le, Mr Dedalus said, nodding to its drone. \n\n — What about that? Ben Dollard said. Not too dusty? What? \n\n He turned to both. \n\n — That'll do, Father Cowley said, nodding also. \n\n ",
+    "suffix": " walked from the old chapterhouse of saint Mary's abbey past James and Charles Kennedy's, rectifiers, attended by Geraldines tall and personable, towards the Tholsel beyond the for",
+    "start": 53306,
+    "end": 53331,
+    "canonical_text": "The reverend Hugh C. Love"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 8494508,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33270404",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "But",
+  "html_source": "<p>Leopold reflects on pains of labour and Molly Bloom’s labour with their son Rudy who passed away at the age of 11 days.  It is possible that this is interior monologue.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33270404/James-joyce-ulysses-chap-14-oxen-of-the-sun/But",
+    "original_id": "33270404",
+    "referent_id": 33270404,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "But",
+    "prefix": " averred that he who stealeth from the poor lendeth 1922#372to the Lord for he was of a wild manner when he was drunken and that he was now in that taking it appeared eftsoons. \n\n ",
+    "suffix": " sir Leopold was passing grave maugre his word by cause he still had pity of the terrorcausing shrieking of shrill women in their labour and as he was minded of his good lady Mario",
+    "start": 18724,
+    "end": 18727,
+    "canonical_text": "But"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9672
+  },
+  "genius": {
+    "referent_id": 33270404,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

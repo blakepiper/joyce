@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5110811",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Dodder bridge.",
+  "html_source": "<p>The River Dodder flows north and enters the Liffey just west of Ringsend and Irishtown.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5110811/James-joyce-ulysses-chap-6-hades/Dodder-bridge",
+    "original_id": "5110811",
+    "referent_id": 5110811,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Dodder bridge.",
+    "prefix": "n little costdrawer and Crissie, papa's little lump of dung, the wise child that knows her own father. \n\n Mr Bloom smiled joylessly on Ringsend road. Wallace Bros the bottleworks. ",
+    "suffix": " \n\n Richie Goulding and the legal bag. Goulding, Collis and Ward he calls the firm. His jokes are getting a bit damp. Great card he was.1932#78 Waltzing in Stamer street with Ignat",
+    "start": 3240,
+    "end": 3254,
+    "canonical_text": "Dodder bridge."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5110811,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

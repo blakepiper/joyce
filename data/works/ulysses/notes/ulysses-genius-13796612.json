@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13796612",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Eftsoons",
+  "html_source": "<p>once again; anew.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13796612/James-joyce-ulysses-chap-14-oxen-of-the-sun/Eftsoons",
+    "original_id": "13796612",
+    "referent_id": 13796612,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "eftsoons",
+    "prefix": "ad man and he averred that he who stealeth from the poor lendeth 1922#372to the Lord for he was of a wild manner when he was drunken and that he was now in that taking it appeared ",
+    "suffix": ". \n\n But sir Leopold was passing grave maugre his word by cause he still had pity of the terrorcausing shrieking of shrill women in their labour and as he was minded of his good la",
+    "start": 18711,
+    "end": 18719,
+    "canonical_text": "eftsoons"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13796612,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8774364",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Balmy",
+  "html_source": "<p>Chiefly British Slang: Eccentric in behavior.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8774364/James-joyce-ulysses-chap-5-lotus-eaters/Balmy",
+    "original_id": "8774364",
+    "referent_id": 8774364,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "balmy",
+    "prefix": "nd said: \n\n — Hello, Bloom. What's the best news? Is that today's? Show us a minute. \n\n Shaved off his moustache again, by Jove! Long cold upper lip. To look younger. He does look ",
+    "suffix": ". Younger than I am. \n\n Bantam Lyons's yellow blacknailed fingers unrolled the baton. Wants a wash too. Take off the rough dirt. Good morning, have you used Pears' soap? Dandruff o",
+    "start": 33309,
+    "end": 33314,
+    "canonical_text": "balmy"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8774364,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

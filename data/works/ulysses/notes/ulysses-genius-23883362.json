@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23883362",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "To",
+  "html_source": "<p>It’s important in some cases to get to the maternity hospital?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23883362/James-joyce-ulysses-chap-14-oxen-of-the-sun/To",
+    "original_id": "23883362",
+    "referent_id": 23883362,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "To",
+    "prefix": "ent but also for her who not being sufficiently moneyed scarcely and often not even scarcely could subsist valiantly and for an inconsiderable emolument was provided. \n\n1932#347\n\n ",
+    "suffix": " her nothing already then and thenceforward was anyway able to be molestful for this chiefly felt all citizens except with proliferent mothers prosperity at all not to can be and a",
+    "start": 3464,
+    "end": 3466,
+    "canonical_text": "To"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9632
+  },
+  "genius": {
+    "referent_id": 23883362,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

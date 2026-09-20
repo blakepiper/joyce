@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8489504",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Mr Kernan",
+  "html_source": "<p>From Shmoop.com: “Kernan was a real tea merchant in Dublin. In Joyce’s work, he is a fictional agent for Pulbrook Robertson &amp; Co… Tom Kernan’s major role in Ulysses is as a proponent of Ben Dollard’s rendition of \"The Croppy Boy.” In “Hades,” the other men laugh at the superlatives that he uses to describe it. In “The Wandering Rocks,” Kernan wanders the place where Robert Emmet was executed and thinks of the song. In “Sirens” he encourages Dollard to sing it in the bar of the Ormond Hotel and everyone becomes very sentimental.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8489504/James-joyce-ulysses-chap-10-wandering-rocks/Mr-kernan",
+    "original_id": "8489504",
+    "referent_id": 8489504,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Mr Kernan",
+    "prefix": "ttle nuns! Nice little things! O, sure they wouldn't do anything! O, sure they wouldn't really! Is it little sister Monica! \n\n*\n*  *\n\n From the sundial towards James's gate walked ",
+    "suffix": ", pleased with the order he had booked for Pulbrook Robertson, boldly along James's street, past Shackleton's offices. Got round him all right. How do you do, Mr Crimmins? First ra",
+    "start": 40934,
+    "end": 40943,
+    "canonical_text": "Mr Kernan"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9723
+  },
+  "genius": {
+    "referent_id": 8489504,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11031807",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Rite of Onan",
+  "html_source": "<p><a href=\"http://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/onanism-0\" rel=\"noopener nofollow\">http://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/onanism-0</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11031807/James-joyce-ulysses-chap-17-ithaca/Rite-of-onan",
+    "original_id": "11031807",
+    "referent_id": 11031807,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "rite of Onan",
+    "prefix": "'s premises (holocaust): a blank period of time including a cardrive, a visit to a house of mourning, a leavetaking (wilderness): the eroticism produced by feminine exhibitionism (",
+    "suffix": "): the prolonged delivery of Mrs Mina Purefoy (heave offering): the visit to the disorderly house of Mrs Bella Cohen, 82 Tyrone street, lower and subsequent brawl and chance medley",
+    "start": 130585,
+    "end": 130597,
+    "canonical_text": "rite of Onan"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11031807,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

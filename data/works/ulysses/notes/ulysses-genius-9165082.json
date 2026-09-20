@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9165082",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Aprosopia",
+  "html_source": "<p>Congenital absence of most or all of the face, usually associated with other malformations.<br />MediLexicon.com</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9165082/James-joyce-ulysses-chap-14-oxen-of-the-sun/Aprosopia",
+    "original_id": "9165082",
+    "referent_id": 9165082,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "aprosopia",
+    "prefix": "wrongfully accused, the rights of primogeniture and king's bounty touching twins and triplets, miscarriages and infanticides, simulated and dissimulated, acardiac foetus in foetu, ",
+    "suffix": " due to a congestion, the agnathia of certain chinless Chinamen (cited by Mr Candidate Mulligan) in consequence of 1922#390defective reunion of the maxillary knobs along the medial",
+    "start": 69682,
+    "end": 69691,
+    "canonical_text": "aprosopia"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9165082,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8489613",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Stumpy body forward on spatted feet",
+  "html_source": "<p>The onelegged sailor.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8489613/James-joyce-ulysses-chap-10-wandering-rocks/Stumpy-body-forward-on-spatted-feet",
+    "original_id": "8489613",
+    "referent_id": 8489613,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "stumpy body forward on spatted feet",
+    "prefix": " rocked on the ferrywash, Elijah is coming. \n\n Mr Kernan glanced in farewell at his image. High colour, of course. Grizzled moustache. Returned Indian officer. Bravely he bore his ",
+    "suffix": ", squaring his shoulders. Is that Ned Lambert's brother over the way, Sam? What? Yes. He's as like it as damn it. No. The windscreen of that motorcar in the sun there. Just a flash",
+    "start": 43512,
+    "end": 43547,
+    "canonical_text": "stumpy body forward on spatted feet"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8489613,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

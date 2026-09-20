@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2081221",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Burke’s!",
+  "html_source": "<p>This section (from “Burke’s!” to “nunc est bibendum”) is in the style of Scottish writer <a href=\"http://en.wikipedia.org/wiki/Thomas_Carlyle\" rel=\"noopener nofollow\">Thomas Carlyle</a>.</p><p><img src=\"https://images.genius.com/b2e5748b0b42b5bb4ae7db86f98387bf.220x276x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2081221/James-joyce-ulysses-chap-14-oxen-of-the-sun/Burkes",
+    "original_id": "2081221",
+    "referent_id": 2081221,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Burke's!",
+    "prefix": "reverberation of the thunder the cloudburst pours its torrent, so and not otherwise was the transformation, violent and instantaneous, upon the utterance of the Word. \n\n1961#422\n\n ",
+    "suffix": " outflings my lord Stephen, giving the cry, and a tag and bobtail 1922#401of all them after, cockerel, jackanapes, welsher, pilldoctor, punctual Bloom at heels with a universal gra",
+    "start": 101026,
+    "end": 101034,
+    "canonical_text": "Burke's!"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9345
+  },
+  "genius": {
+    "referent_id": 2081221,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

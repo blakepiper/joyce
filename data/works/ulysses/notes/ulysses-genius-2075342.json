@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-2075342",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "These cliffs here remind me somehow of Elsinore. That beetles o’er his base into the sea, isn’t it?",
+  "html_source": "<p>Elsinore is the setting for Shakespeare’s <em>Hamlet</em>.  He’s partially quoting Horatio in 1.4:</p><blockquote><p><a href=\"https://genius.com/2521926\" rel=\"noopener nofollow\">HORATIO<br />What if it tempt you toward the flood, my lord,<br />Or to the dreadful summit of the cliff<br />That beetles o'er his base into the sea,<br />And there assume some other horrible form,<br />Which might deprive your sovereignty of reason<br />And draw you into madness? Think of it.<br />The very place puts toys of desperation,<br />Without more motive, into every brain<br />That looks so many fathoms to the sea<br />And hears it roar beneath.</a></p></blockquote><p><img src=\"https://images.rapgenius.com/33d417b9810f5e5ba05b1e6bc54867d5.1000x642x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2075342/James-joyce-ulysses-chap-1-telemachus/These-cliffs-here-remind-me-somehow-of-elsinore-that-beetles-oer-his-base-into-the-sea-isnt-it",
+    "original_id": "2075342",
+    "referent_id": 2075342,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "these cliffs here remind me somehow of Elsinore. That beetles o'er his base into the sea, isn't it?",
+    "prefix": "ard again, raised his hands. \n\n — The sacred pint alone can unbind the tongue of Dedalus, he said. \n\n — I mean to say, Haines explained to Stephen as they followed, this tower and ",
+    "suffix": " \n\n1986#15\n\n Buck Mulligan turned suddenly for an instant towards Stephen but did not speak. In the bright silent instant Stephen saw his own image in cheap dusty mourning between ",
+    "start": 31800,
+    "end": 31899,
+    "canonical_text": "these cliffs here remind me somehow of Elsinore. That beetles o'er his base into the sea, isn't it?"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2075342,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 0.9747899159663865
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.025210084033613446
+      }
+    ]
+  },
+  "color": "F59627"
+}

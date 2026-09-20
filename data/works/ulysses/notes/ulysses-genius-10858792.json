@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-10858792",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Thorn’s Dublin Post Office Directory",
+  "html_source": "<p>This should be Thom’s Directory which is still published today.<br /><a href=\"http://www.nationalarchives.ie/digital-resources/online-exhibitions/james-joyce-and-ulysses/commentary-no-7-thoms-directory-1904/\" rel=\"noopener nofollow\">http://www.nationalarchives.ie/digital-resources/online-exhibitions/james-joyce-and-ulysses/commentary-no-7-thoms-directory-1904/</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10858792/James-joyce-ulysses-chap-17-ithaca/Thorns-dublin-post-office-directory",
+    "original_id": "10858792",
+    "referent_id": 10858792,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Thorn's Dublin Post Office Directory",
+    "prefix": " inverted volumes improperly arranged and not in the order of their common letters with scintillating titles on the two bookshelves opposite. \n\n1986#581\n\n Catalogue these books. \n\n",
+    "suffix": " 1886.922#660\nDenis Florence M'Carthy's Poetical Works (copper beechleaf bookmark at p. 5).\nShakespeare's Works (dark crimson morocco, goldtooled). \nThe Useful Ready Reckoner (brow",
+    "start": 86348,
+    "end": 86384,
+    "canonical_text": "Thom's Dublin Post Office Directory,"
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9444
+  },
+  "genius": {
+    "referent_id": 10858792,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.975
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.025
+      }
+    ]
+  },
+  "color": "F59627"
+}

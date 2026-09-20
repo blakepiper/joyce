@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9217008",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Nos omnes biberimus viridum toxicum diabolus capiat posterioria nostria",
+  "html_source": "<p>We will all drink green poison [and] the devil take the hindmost.<br />Ulysses Annotated: Notes for James Joyce’s Ulysses<br />by Don Gifford<br />(1988) 446.</p><p>Absinthe is a green liquid.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9217008/James-joyce-ulysses-chap-14-oxen-of-the-sun/Nos-omnes-biberimus-viridum-toxicum-diabolus-capiat-posterioria-nostria",
+    "original_id": "9217008",
+    "referent_id": 9217008,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Nos omnes biberimus viridum toxicum diabolus capiat posterioria nostria",
+    "prefix": "ugurated libation? Give's a breather. Landlord, landlord, have you good 1961#426wine, staboo? Hoots, mon, a wee drap to pree. Cut and come again. Right Boniface! Absinthe the lot. ",
+    "suffix": ". Closingtime, gents. Eh? Rome boose for the Bloom toff. I hear you say onions? Bloo? Cadges ads. Photo's papli, by all that's gorgeous. Play low, pardner. Slide. Bonsoir la compag",
+    "start": 111184,
+    "end": 111255,
+    "canonical_text": "Nos omnes biberimus viridum toxicum diabolus capiat posterioria nostria"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9217008,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

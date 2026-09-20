@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-24417277",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Stoops his back",
+  "html_source": "<p>submissive position</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/24417277/James-joyce-ulysses-chap-15-circe/Stoops-his-back",
+    "original_id": "24417277",
+    "referent_id": 24417277,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "stoops his back",
+    "prefix": "g, plucks from a tree a large mango fruit, offers it to his mistress, blinking, in his cloven hoof, then droops his head and, grunting, with uplifted neck, fumbles to kneel. Bloom ",
+    "suffix": " for leapfrog.) \n\n BLOOM \n\n I can give you... I mean as your business menagerer... Mrs Marion... if you... \n\n MARION \n\n So you notice some change? (Her hands passing slowly over he",
+    "start": 15515,
+    "end": 15530,
+    "canonical_text": "stoops his back"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 24417277,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 10526289,
+        "login": "satchlj",
+        "name": "satchlj",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

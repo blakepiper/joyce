@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20356538",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Drawn to a man as you",
+  "html_source": "<p>Mistake No. 2</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20356538/James-joyce-ulysses-chap-5-lotus-eaters/Drawn-to-a-man-as-you",
+    "original_id": "20356538",
+    "referent_id": 20356538,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "drawn to a man as you",
+    "prefix": "ou think of poor me. I often think 1961#77of the beautiful name you have. Dear Henry, when will we meet? I think of you so often you have no idea. I have never felt myself so much ",
+    "suffix": ". I feel so bad about. Please write me a long letter and tell me more. Remember if you do not I 1986#63will punish you. So now you know what I will do to you, you naughty boy, if y",
+    "start": 15392,
+    "end": 15413,
+    "canonical_text": "drawn to a man as you"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20356538,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

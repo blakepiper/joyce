@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23111508",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "North Star Hotel",
+  "html_source": "<p><img src=\"https://images.genius.com/5e9d99f535b87e1d89afb566537cfc41.451x301x1.png\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23111508/James-joyce-ulysses-chap-16-eumaeus/North-star-hotel",
+    "original_id": "23111508",
+    "referent_id": 23111508,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "North Star Hotel",
+    "prefix": " confidently anticipated there was not a sign of a Jehu plying for hire anywhere to be seen except a fourwheeler, probably engaged by some fellows inside on the spree, outside the ",
+    "suffix": " and there was no symptom of its budging a quarter of an inch when Mr Bloom, who was anything but a professional whistler, endeavoured to hail it by emitting a kind of a whistle, h",
+    "start": 1946,
+    "end": 1962,
+    "canonical_text": "North Star hotel"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 23111508,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

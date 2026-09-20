@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10471552",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Everyone according to his needs and everyone according to his deeds",
+  "html_source": "<p><a href=\"https://simple.wikipedia.org/wiki/From_each_according_to_his_ability,_to_each_according_to_his_need\" rel=\"noopener nofollow\">https://simple.wikipedia.org/wiki/From_each_according_to_his_ability,_to_each_according_to_his_need</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10471552/James-joyce-ulysses-chap-16-eumaeus/Everyone-according-to-his-needs-and-everyone-according-to-his-deeds",
+    "original_id": "10471552",
+    "referent_id": 10471552,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Everyone according to his needs and everyone according to his deeds",
+    "prefix": "it to sleep somewhere. \n\n — Needs, Mr Bloom ejaculated, professing not the least surprise at the intelligence, I can quite credit the assertion and I guarantee he invariably does. ",
+    "suffix": " But, talking about things in general, where, added he with a smile, will you sleep yourself? Walking to Sandycove is out of the question. And even supposing you did you won't get ",
+    "start": 17163,
+    "end": 17230,
+    "canonical_text": "Everyone according to his needs or everyone according to his deeds."
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9552
+  },
+  "genius": {
+    "referent_id": 10471552,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

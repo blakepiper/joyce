@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13796812",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Wastrels",
+  "html_source": "<p>a wasteful person; spendthrift.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13796812/James-joyce-ulysses-chap-14-oxen-of-the-sun/Wastrels",
+    "original_id": "13796812",
+    "referent_id": 13796812,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "wastrels",
+    "prefix": "im failed a son of such gentle courage (for all accounted him of real parts) so grieved he also in no less measure for 1961#390young Stephen for that he lived riotously with those ",
+    "suffix": " and murdered his goods with whores. \n\n About that present time young Stephen filled all cups that stood empty so as there remained but little mo if the prudenter had not shadowed ",
+    "start": 19633,
+    "end": 19641,
+    "canonical_text": "wastrels"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13796812,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

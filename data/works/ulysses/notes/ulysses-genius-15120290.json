@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15120290",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Hoch, banzai, eljen",
+  "html_source": "<p>(Ger.) “high/supreme”, (Jap.) “flourish”, (Hung.) “live long”, respectively</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15120290/James-joyce-ulysses-chap-12-cyclops/Hoch-banzai-eljen",
+    "original_id": "15120290",
+    "referent_id": 15120290,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "hoch, banzai, eljen",
+    "prefix": " the huge concourse, the viceregal ladies waving their handkerchiefs in their excitement while the even more excitable foreign delegates cheered vociferously in a medley of cries, ",
+    "suffix": ", zivio, chinchin, polla kronia, hiphip, vive, Allah, amid which the ringing evviva of the delegate of the land of song (a high double F recalling those piercingly lovely notes wit",
+    "start": 38208,
+    "end": 38227,
+    "canonical_text": "hoch, banzai, eljen"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15120290,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

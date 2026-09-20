@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8963288",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Twelve tribes",
+  "html_source": "<p>a reference to the biblical 12 tribes of Israel<br /><a href=\"http://www.britannica.com/topic/Twelve-Tribes-of-Israel\" rel=\"noopener nofollow\">http://www.britannica.com/topic/Twelve-Tribes-of-Israel</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8963288/James-joyce-ulysses-chap-12-cyclops/Twelve-tribes",
+    "original_id": "8963288",
+    "referent_id": 8963288,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "twelve tribes",
+    "prefix": "er the law of the brehons at the commission for all that and those parts to be holden in and for the county of the city of Dublin. And there sat with him the high sinhedrim of the ",
+    "suffix": " of Iar, for every tribe one man, of the tribe of Patrick and of 1939#234the tribe of 1932#291Hugh and of the tribe of Owen and of the tribe of Conn and of the tribe of Oscar and o",
+    "start": 72116,
+    "end": 72129,
+    "canonical_text": "twelve tribes"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8963288,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

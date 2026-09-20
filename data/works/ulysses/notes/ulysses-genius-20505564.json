@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20505564",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Say Robinson Crusoe was true to life. Well then Friday buried him. Every Friday buries a Thursday if you come to look at it.",
+  "html_source": "<p>In Daniel Defoe’s “The Life and Adventures of Robinson Crusoe” (1719), Crusoe, a European sailor, is marooned on island near Venezuela. Crusoe names his only companion, an indigenous man, “Friday.”</p><p><a href=\"https://www.gutenberg.org/files/521/521-h/521-h.htm\" rel=\"noopener nofollow\">https://www.gutenberg.org/files/521/521-h/521-h.htm</a></p><p>So the joke here is that if there were only two people on the island and Crusoe died first, then Friday would bury Crusoe. Just like, haha, every Friday buries a Thursday.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20505564/James-joyce-ulysses-chap-6-hades/Say-robinson-crusoe-was-true-to-life-well-then-friday-buried-him-every-friday-buries-a-thursday-if-you-come-to-look-at-it",
+    "original_id": "20505564",
+    "referent_id": 20505564,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Say Robinson Crusoe was true to life. Well then Friday buried him. Every Friday buries a Thursday if you come to look at it.",
+    "prefix": "d. Still he'd have to get someone to sod him after he died though he could dig his own grave. We all do. Only man buries. No, ants too. First thing strikes anybody. Bury the dead. ",
+    "suffix": " \n\nO, poor Robinson Crusoe! \nHow could you possibly do so? \n\n Poor Dignam! His last lie on the earth in his box. When you think of them all it does seem a waste of wood. All gnawed",
+    "start": 49104,
+    "end": 49228,
+    "canonical_text": "Say Robinson Crusoe was true to life. Well then Friday buried him. Every Friday buries a Thursday if you come to look at it."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20505564,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15153909",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Linseywoolsey",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Linsey-woolsey\" rel=\"noopener nofollow\">Linsey-woolsey</a> is a plainwoven fabric with linen/cotton warp and wool weft, a textile known since ancient times and forbidden to be warn under Jewish law.</p><p><img src=\"https://images.genius.com/d9ae75145bd6587da748033afd298f98.703x728x1.jpg\" alt=\"\" /></p><p>Either from linen + wool, or from linsey, originally denoting a coarse linen fabric (probably from Lindsey, a village in Suffolk, England, where the material was first made) + wool</p><p><img src=\"https://images.genius.com/9d01e879b56197b52a59fcba900ca7ef.998x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15153909/James-joyce-ulysses-chap-14-oxen-of-the-sun/Linseywoolsey",
+    "original_id": "15153909",
+    "referent_id": 15153909,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "linseywoolsey",
+    "prefix": "r Lady of the Cherries, a comely brace of them pendent from an ear, bringing out the foreign warmth of the skin so daintily against the cool ardent fruit. A lad of four or five in ",
+    "suffix": " (blossomtime but there will be cheer in the kindly hearth when ere long the bowls are gathered and hutched) is standing on the urn secured by that circle of girlish fond hands. He",
+    "start": 99666,
+    "end": 99679,
+    "canonical_text": "linseywoolsey"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15153909,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

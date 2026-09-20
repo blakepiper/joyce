@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-3099023",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Joachim Abbas",
+  "html_source": "<p>A reference to Joachim of Fiore.</p><p><img src=\"https://images.rapgenius.com/4bcebbae8da5722f8195a8f82c4644f8.189x287x1.jpg\" alt=\"\" /></p><p>12th century wanderer and Cistercian who set up his own monastery and prophesised a time based an ‘eternal gospel’. Was later condemned by the papacy.</p><p>Books detailing the ideas of Joacchim of Fiore were in Marsh’s Library.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3099023/James-joyce-ulysses-chap-3-proteus/Joachim-abbas",
+    "original_id": "3099023",
+    "referent_id": 3099023,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Joachim Abbas",
+    "prefix": "ncle a judge and an uncle a general in the army. Come out of them, Stephen. Beauty is not there. Nor in the stagnant bay of Marsh's library where you read the fading prophecies of ",
+    "suffix": ". For whom? The hundredheaded rabble of the cathedral close. A hater 1932#36of his kind ran from them to the wood of madness, his mane foaming in the moon, his eyeballs stars. Houy",
+    "start": 6418,
+    "end": 6431,
+    "canonical_text": "Joachim Abbas"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3099023,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.547945205479452
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.452054794520548
+      }
+    ]
+  },
+  "color": "F59627"
+}

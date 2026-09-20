@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3152864",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Lord Iveagh",
+  "html_source": "<p>Lord Iveagh was chief executive of the Guinness company until 1889, subsequently becoming the chairman of the board, running the largest brewery in the world.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3152864/James-joyce-ulysses-chap-5-lotus-eaters/Lord-iveagh",
+    "original_id": "3152864",
+    "referent_id": 3152864,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Lord Iveagh",
+    "prefix": "shreds fluttered away, sank in the dank air: a white flutter, then all sank. \n\n Henry Flower. You could tear up a cheque for a hundred pounds in the same way. Simple bit of paper. ",
+    "suffix": " once cashed a sevenfigure cheque for a million in the bank of Ireland. Shows you the money to be made out of porter. Still the other brother lord Ardilaun has to change his shirt ",
+    "start": 18661,
+    "end": 18672,
+    "canonical_text": "Lord Iveagh"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3152864,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 591961,
+        "login": "dbrannen",
+        "name": "dbrannen",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

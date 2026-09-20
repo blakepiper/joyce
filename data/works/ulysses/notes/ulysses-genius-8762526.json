@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8762526",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Sovereigns",
+  "html_source": "<p>sovereign has two meanings:<br />1. a supreme ruler, especially a monarch.<br />2. a former British gold coin worth one pound sterling, now only minted for commemorative purposes.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8762526/James-joyce-ulysses-chap-1-telemachus/Sovereigns",
+    "original_id": "8762526",
+    "referent_id": 8762526,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "sovereigns",
+    "prefix": " one. \n\n — If you want it, Stephen said. \n\n — Four shining sovereigns, Buck Mulligan cried with delight. We'll have a glorious drunk to astonish the druidy druids. Four omnipotent ",
+    "suffix": ". \n\n He flung up his hands and tramped down the stone stairs, singing out of tune with a Cockney accent: \n\n1939#101932#101986#9\n\nO, won't we have a merry time, \nDrinking whisky, be",
+    "start": 17144,
+    "end": 17154,
+    "canonical_text": "sovereigns"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.908
+  },
+  "genius": {
+    "referent_id": 8762526,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

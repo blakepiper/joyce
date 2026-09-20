@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8972968",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Barmecides",
+  "html_source": "<p>Barmecide  noun<br />a member of a noble Persian family of Baghdad who, according to a tale in The Arabian Nights' Entertainments, gave a beggar a pretended feast with empty dishes.<br />Dictionary.com</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8972968/James-joyce-ulysses-chap-12-cyclops/Barmecides",
+    "original_id": "8972968",
+    "referent_id": 8972968,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Barmecides",
+    "prefix": "edictive stones, are as wonderfully beautiful and the pigments as delicate as when the Sligo illuminators gave free rein to their artistic fantasy long long ago in the time of the ",
+    "suffix": ". Glendalough, the lovely lakes of Killarney, the ruins of Clonmacnois, Cong Abbey, Glen Inagh and the Twelve Pins, Ireland's Eye, the Green Hills of Tallaght, Croagh Patrick, the ",
+    "start": 92791,
+    "end": 92801,
+    "canonical_text": "Barmecides"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8972968,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8772767",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Rachel",
+  "html_source": "<p>Elisabeth “Eliza/Élisa” Rachel Félix (also Elizabeth-Rachel Félix), better known only as Mademoiselle Rachel (February 21, 1821 – January 3, 1858), was a French actress. She became a prominent figure in French society, and was the mistress of, among others, Napoleon III and Napoléon Joseph Charles Paul Bonaparte.</p><p><img src=\"https://images.rapgenius.com/2f6d82b2bf5ee3e6d76a7b03f12a5018.227x305x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8772767/James-joyce-ulysses-chap-5-lotus-eaters/Rachel",
+    "original_id": "8772767",
+    "referent_id": 8772767,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Rachel",
+    "prefix": "de the Adelphi in London waited all the afternoon to get in. Year before I was born that was: sixtyfive. And Ristori in Vienna. What is this the right name is? By Mosenthal it is. ",
+    "suffix": ", is it? No. The scene he was always talking about where the old blind Abraham recognises the voice and puts his fingers on his face. \n\n — Nathan's voice! His son's voice! I hear t",
+    "start": 12290,
+    "end": 12296,
+    "canonical_text": "Rachel"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8772767,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

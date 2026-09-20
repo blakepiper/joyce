@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10618374",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Lutenist Dowland",
+  "html_source": "<p>John Dowland (1563 – 1626) English Renaissance composer, lutenist, and singer<br /><a href=\"https://www.youtube.com/watch?v=jkRrzAo9Wl4\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=jkRrzAo9Wl4</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10618374/James-joyce-ulysses-chap-16-eumaeus/Lutenist-dowland",
+    "original_id": "10618374",
+    "referent_id": 10618374,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "lutenist Dowland",
+    "prefix": "e others take a back seat. Stephen, in reply to a politely put query, said he didn't but launched out into praises of Shakespeare's songs, at least of in or about that period, the ",
+    "suffix": " who lived in Fetter Lane near Gerard the herbalist, who anno ludendo hausi, Doulandus, an instrument he was contemplating purchasing from Mr Arnold Dolmetsch, whom Bloom did not q",
+    "start": 121925,
+    "end": 121941,
+    "canonical_text": "lutenist Dowland"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10618374,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

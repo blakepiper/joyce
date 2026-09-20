@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33143415",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "For",
+  "html_source": "<p>The sentence reads ok in a modern sense.</p><p>However ‘lust’ has had many meanings over the last few centuries.   ‘Gramercy’, from the previous sentence is hundreds of years old ; presumably Joyce’s intention was not to use ‘lust’ in a 1900s sense.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33143415/James-joyce-ulysses-chap-14-oxen-of-the-sun/For",
+    "original_id": "33143415",
+    "referent_id": 33143415,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "For",
+    "prefix": ", the other in purgefire. But, gramercy, what of those Godpossibled souls that we nightly impossibilise, which is the sin against the Holy Ghost, Very God, Lord and Giver of Life? ",
+    "suffix": ", sirs, he said, our lust is brief. We are means to those small creatures within us and nature has other ends than we. Then said Dixon junior to Punch Costello wist he what ends. B",
+    "start": 16038,
+    "end": 16041,
+    "canonical_text": "For"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 33143415,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-17227447",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Phthisis",
+  "html_source": "<p>Tuberculosis or similar pulmonary disease.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/17227447/James-joyce-ulysses-chap-17-ithaca/Phthisis",
+    "original_id": "17227447",
+    "referent_id": 17227447,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "phthisis",
+    "prefix": "r), Philip Gilligan (phthisis, Jervis 1986#578Street hospital), Matthew F. 1961#704Kane (accidental drowning, Dublin Bay), Philip Moisel (pyemia, Heytesbury street), Michael Hart (",
+    "suffix": ", Mater Misericordiae hospital), Patrick Dignam (apoplexy, Sandymount). \n\n1932#609\n\n What prospect of what phenomena inclined him to remain? \n\n The disparition of three final stars",
+    "start": 79572,
+    "end": 79580,
+    "canonical_text": "phthisis"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9062
+  },
+  "genius": {
+    "referent_id": 17227447,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 8460622,
+        "login": "LP-Reader1",
+        "name": "LP-Reader1",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

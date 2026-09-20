@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-14116973",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Play a slick ace",
+  "html_source": "<p>”Slick ace” cards: The aces in these decks have been treated with a substance which makes it possible to cut to an ace every time regardless of the shuffle.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/14116973/James-joyce-ulysses-chap-15-circe/Play-a-slick-ace",
+    "original_id": "14116973",
+    "referent_id": 14116973,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "play a slick ace",
+    "prefix": "schner, do your coughing with your mouths shut. Say, I am operating all this trunk line. Boys, do it now. God's time is 12.25. Tell mother you'll be there. Rush your order and you ",
+    "suffix": ". Join on right here! 1922#477Book through to eternity junction, the nonstop run. Just one word more. Are you a god or a doggone clod? If the second advent came to Coney Island are",
+    "start": 109184,
+    "end": 109200,
+    "canonical_text": "play a slick ace"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 14116973,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8759128",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "When I makes water I makes water",
+  "html_source": "<p>making water is slang for urinating</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8759128/James-joyce-ulysses-chap-1-telemachus/When-i-makes-water-i-makes-water",
+    "original_id": "8759128",
+    "referent_id": 8759128,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "when I makes water I makes water",
+    "prefix": "rong tea, don't you? \n\n Buck Mulligan, hewing thick slices from the loaf, said in an old woman's wheedling voice: \n\n — When I makes tea I makes tea, as old mother Grogan said. And ",
+    "suffix": ". \n\n — By Jove, it is tea, Haines said. \n\n Buck Mulligan went on hewing and wheedling: \n\n — So I do, Mrs Cahill, says she. Begob, ma'am, says Mrs Cahill, God send you don't make th",
+    "start": 20434,
+    "end": 20466,
+    "canonical_text": "when I makes water I makes water"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8759128,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

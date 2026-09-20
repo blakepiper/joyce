@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8804632",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "HORATIO",
+  "html_source": "<p>Horatio is a character in William Shakespeare’s tragedy Hamlet. Horatio is present through most of the major scenes of the play, but Hamlet is usually the only person to acknowledge that he is present; when other characters address him (except in I.i), they are almost always telling him to leave.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8804632/James-joyce-ulysses-chap-7-aeolus/Horatio",
+    "original_id": "8804632",
+    "referent_id": 8804632,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "HORATIO",
+    "prefix": "sor said. \n\n1986#122\n\n He laughed richly. \n\n — I see, he said again with new pleasure. Moses and the promised land. We gave him that idea, he added to J. J. O'Molloy. \n\n1961#149\n\n ",
+    "suffix": " IS CYNOSURE THIS FAIR JUNE DAY \n\n J. J. O'Molloy sent a weary sidelong glance towards the statue and held his peace. \n\n — I see, the professor said. \n\n He halted on sir John Gray'",
+    "start": 59305,
+    "end": 59312,
+    "canonical_text": "HORATIO"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8804632,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

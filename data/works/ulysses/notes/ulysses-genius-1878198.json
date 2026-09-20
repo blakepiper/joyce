@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1878198",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Clery’s",
+  "html_source": "<p>Clerys is a famous department store in Dublin, still open now, and renowned for its wide range of designers and boutiques, as well as its summer sales, with shoppers often queueing for hours beforehand to pick up cheap offers and occasional gimmicky give-aways.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1878198/James-joyce-ulysses-chap-13-nausicaa/Clerys",
+    "original_id": "1878198",
+    "referent_id": 1878198,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Clery's",
+    "prefix": "n underbrim of eggblue chenille and at the side a butterfly bow to tone. All Tuesday week afternoon she was hunting to match that chenille but at last she found what she wanted at ",
+    "suffix": " summer sales, the very it, slightly shopsoiled but you would never notice, seven fingers two and a penny. She did it up all by herself and what joy was hers when she tried it on t",
+    "start": 10888,
+    "end": 10895,
+    "canonical_text": "Clery's"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9712
+  },
+  "genius": {
+    "referent_id": 1878198,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 211351,
+        "login": "prepski",
+        "name": "prepski",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

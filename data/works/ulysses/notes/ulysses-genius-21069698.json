@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21069698",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Brains on their sleeve like the statue in Glasnevin.",
+  "html_source": "<p>Anyone know the significance?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21069698/James-joyce-ulysses-chap-7-aeolus/Brains-on-their-sleeve-like-the-statue-in-glasnevin",
+    "original_id": "21069698",
+    "referent_id": 21069698,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Brains on their sleeve like the statue in Glasnevin.",
+    "prefix": "dling. A mighthavebeen. Losing heart. Gambling. Debts of honour. Reaping the whirlwind. Used to get good retainers from D. and T. Fitzgerald. Their wigs to show their grey matter. ",
+    "suffix": " Believe he does some literary work for the Express with Gabriel Conroy. Wellread fellow. Myles Crawford began on the Independent. Funny the way those newspaper men veer about when",
+    "start": 16817,
+    "end": 16869,
+    "canonical_text": "Brains on their sleeve like the statue in Glasnevin."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21069698,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 4177912,
+        "login": "ShaneGreen",
+        "name": "ShaneGreen",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

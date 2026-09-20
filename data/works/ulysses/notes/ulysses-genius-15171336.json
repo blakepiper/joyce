@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15171336",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Grigged",
+  "html_source": "<p>When used as a noun, <a href=\"https://en.wiktionary.org/wiki/grig#English\" rel=\"noopener nofollow\">grig</a> means a grasshopper, cricket, or little creature in general; when used as a verb, it means to irritate or annoy.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15171336/James-joyce-ulysses-chap-18-penelope/Grigged",
+    "original_id": "15171336",
+    "referent_id": 15171336,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "grigged",
+    "prefix": "ughing with the giggles I couldnt stop 1961#743about all my hairpins falling out one after another with the mass of hair I had youre always in great humour she said yes because it ",
+    "suffix": " her because she knew what it meant because I used to tell her a good bit of what went on between us not all but just enough to 1986#612make her mouth water but that wasnt my fault",
+    "start": 15936,
+    "end": 15943,
+    "canonical_text": "grigged"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15171336,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

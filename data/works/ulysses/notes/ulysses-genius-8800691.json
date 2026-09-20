@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8800691",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Communards",
+  "html_source": "<p>The Communards were members and supporters of the short-lived 1871 Paris Commune formed in the wake of the Franco-Prussian War and France’s defeat.</p><p>Following the war’s conclusion, according to historian Benedict Anderson, thousands fled abroad, roughly 20,000 Communards were executed during the Semaine Sanglante (“Bloody Week”), and 7,500 were jailed or deported under arrangements which continued until a general amnesty during the 1880s</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8800691/James-joyce-ulysses-chap-7-aeolus/Communards",
+    "original_id": "8800691",
+    "referent_id": 8800691,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "communards",
+    "prefix": " tissues. \n\n The professor, returning by way of the files, swept his hand across Stephen's and Mr O'Madden Burke's loose ties. \n\n — Paris, past and present, he said. You look like ",
+    "suffix": ". \n\n — Like fellows who had blown up the Bastille, J. J. O'Molloy said in quiet mockery. Or was it you shot the lord lieutenant of Finland between you? You look as though you had d",
+    "start": 32728,
+    "end": 32738,
+    "canonical_text": "communards"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8800691,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

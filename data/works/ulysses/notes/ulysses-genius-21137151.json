@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21137151",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Gravediggers bury",
+  "html_source": "<p>Hamlet Act V, Scene 1 begins with two “clowns” digging a grave for Ophelia. Horatio and Hamlet (the prince/pere) arrive. One clown debates with Hamlet about whose grave it is, as follows:</p><p>HAMLET: Who is to be buried in’t?<br />First Clown: One that was a woman, sir; but, rest her soul, she’s dead.</p><p>The scene, like this section of Stephen’s discourse, examines the nature of being, and the nature of the personhood of the deceased.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21137151/James-joyce-ulysses-chap-9-scylla-and-charybdis/Gravediggers-bury",
+    "original_id": "21137151",
+    "referent_id": 21137151,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Gravediggers bury",
+    "prefix": "he was born, where he has always been, man and boy, a silent witness and there, his journey of life ended, he plants his mulberrytree in the earth. Then dies. The motion is ended. ",
+    "suffix": " Hamlet père? and Hamlet fils. A king and a prince at last in death, with incidental music. And, what though murdered and betrayed, bewept by all frail tender hearts for, Dane or D",
+    "start": 60007,
+    "end": 60024,
+    "canonical_text": "Gravediggers bury"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21137151,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

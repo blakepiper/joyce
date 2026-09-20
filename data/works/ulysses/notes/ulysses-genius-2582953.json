@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-2582953",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "The Stabat Mater of Rossini",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/74253bfbd5c22dec24b3ed09c1cfaa7e.727x1000x1.jpg\" alt=\"\" /></p><p>Gioacchino Rossini (1792-1868) was an Italian composer known mainly for his operas; the <em>Stabat Mater</em> (1832, revised 1841) one of his more famous non-operatic works.</p><p><a href=\"https://www.youtube.com/watch?v=_g70u9e-gv4\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=_g70u9e-gv4</a></p><p>Molly did sing this at church. The reader does not know if this indicates she is a practising Catholic or not. We only see her through the lens of Bloom’s internal monologue.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2582953/James-joyce-ulysses-chap-5-lotus-eaters/The-stabat-mater-of-rossini",
+    "original_id": "2582953",
+    "referent_id": 2582953,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "the Stabat Mater of Rossini",
+    "prefix": "the organ here I wonder? Old Glynn he knew how to make that instrument talk, the vibrato: fifty pounds a year they say he had in Gardiner street. Molly was in fine voice that day, ",
+    "suffix": ". Father Bernard Vaughan's sermon first. Christ or Pilate? Christ, but don't keep us all night over it. Music they wanted. Footdrill stopped. Could hear a pin drop. I told her to p",
+    "start": 25179,
+    "end": 25206,
+    "canonical_text": "the Stabat Mater of Rossini"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2582953,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.5299145299145299
+      },
+      {
+        "id": 132730,
+        "login": "AlanPalgut",
+        "name": "AlanPalgut",
+        "role": null,
+        "attribution": 0.47008547008547014
+      }
+    ]
+  },
+  "color": "F59627"
+}

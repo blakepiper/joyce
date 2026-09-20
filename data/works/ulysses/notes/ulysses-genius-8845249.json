@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8845249",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Galliard",
+  "html_source": "<p>gal·liard<br />noun historical<br />a lively dance in triple time for two people, including complicated turns and steps.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8845249/James-joyce-ulysses-chap-9-scylla-and-charybdis/Galliard",
+    "original_id": "8845249",
+    "referent_id": 8845249,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "galliard",
+    "prefix": ", certainly. Is the gentleman?... \n\n1932#179\n\n He took the eager card, glanced, not saw, laid down unglanced, looked, asked, creaked, asked: \n\n — Is he?... O, there! \n\n Brisk in a ",
+    "suffix": " he was off and out. In the daylit corridor he talked with voluble pains of zeal, in duty bound, most fair, most kind, most honest broadbrim. \n\n1986#164\n\n — This gentleman? Freeman",
+    "start": 33860,
+    "end": 33868,
+    "canonical_text": "galliard"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8845249,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

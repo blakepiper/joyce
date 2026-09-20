@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13806883",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Put in pod",
+  "html_source": "<p>put in pod – Elizabethan<br />slang: “made pregnant.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13806883/James-joyce-ulysses-chap-14-oxen-of-the-sun/Put-in-pod",
+    "original_id": "13806883",
+    "referent_id": 13806883,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "put in pod",
+    "prefix": "r worship. With will will we withstand, withsay. \n\n Hereupon Punch Costello dinged with his fist upon the board and would sing a bawdy catch Staboo Stabella about a wench that was ",
+    "suffix": " of a jolly swashbuckler in Almany which he did now attack: The first three months she was not well, Staboo, when here nurse Quigley from the door angerly bid them hist ye should s",
+    "start": 22440,
+    "end": 22450,
+    "canonical_text": "put in pod"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13806883,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

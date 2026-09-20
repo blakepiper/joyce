@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10518677",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Laissez faire",
+  "html_source": "<p>Free from interference</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10518677/James-joyce-ulysses-chap-2-nestor/Laissez-faire",
+    "original_id": "10518677",
+    "referent_id": 10518677,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "laissez faire",
+    "prefix": "It's about the foot and mouth disease. Just look through it. There can be no two opinions on the matter. \n\n1922#321961#32\n\n May I trespass on your valuable space. That doctrine of ",
+    "suffix": " which so often in our history. Our cattle trade. The way of all our old industries. Liverpool ring which jockeyed the Galway harbour scheme. European conflagration. Grain supplies",
+    "start": 18527,
+    "end": 18540,
+    "canonical_text": "laissez faire"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10518677,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

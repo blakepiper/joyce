@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9063494",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Man what’s his name with the burning glass",
+  "html_source": "<p>Archimedes, the renowned mathematician, was said to have used a burning glass (or more likely a large number of angled hexagonal mirrors) as a weapon in 212 BC, when Syracuse was besieged by Marcus Claudius Marcellus. The Roman fleet was supposedly incinerated, though eventually the city was taken and Archimedes was slain.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9063494/James-joyce-ulysses-chap-13-nausicaa/Man-whats-his-name-with-the-burning-glass",
+    "original_id": "9063494",
+    "referent_id": 9063494,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "man what's his name with the burning glass",
+    "prefix": "t half tabbywhite tortoiseshell in the City Arms with the letter em on her forehead. Body fifty different colours. Howth a while ago amethyst. Glass flashing. That's how that wise ",
+    "suffix": ". Then the heather goes on fire. It can't be tourists' matches. What? Perhaps the sticks dry rub together in the 1922#360wind and light. Or broken bottles in the furze act as a bur",
+    "start": 80524,
+    "end": 80566,
+    "canonical_text": "man what's his name with the burning glass"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9063494,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

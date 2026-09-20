@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1873095",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Slainte",
+  "html_source": "<p>Gaelic: a common Irish toast meaning “health!”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1873095/James-joyce-ulysses-chap-3-proteus/Slainte",
+    "original_id": "1873095",
+    "referent_id": 1873095,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "slainte",
+    "prefix": "ted a cheese hollandais. Your postprandial, do you know that word? Postprandial. There was a fellow I knew once in Barcelona, queer fellow, used to call it his postprandial. Well: ",
+    "suffix": "! Around the slabbed tables the tangle of wined breaths and grumbling gorges. His breath hangs over our saucestained plates, the green fairy's fang thrusting between his lips. Of I",
+    "start": 13928,
+    "end": 13935,
+    "canonical_text": "slainte"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1873095,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 176532,
+        "login": "biblicalmike",
+        "name": "Michael Bible",
+        "role": "verified_artist",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

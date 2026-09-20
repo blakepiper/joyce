@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9063525",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Faugh a Ballagh",
+  "html_source": "<p>Faugh a Ballagh (/ˌfɔːɡ ə ˈbæləx/ fawkh ə bal-əkh; also written Faugh an Beallach) is a battle cry of Irish origin, meaning “clear the way”.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9063525/James-joyce-ulysses-chap-13-nausicaa/Faugh-a-ballagh",
+    "original_id": "9063525",
+    "referent_id": 9063525,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Faugh a Ballagh",
+    "prefix": "and back. Lots must be killed in storms, telegraph wires. Dreadful life sailors have too. Big brutes of oceangoing steamers floundering along in the dark, lowing out like seacows. ",
+    "suffix": "! Out of that, bloody curse to you! Others in vessels, bit of a handkerchief 1986#309sail, pitched about like snuff at a wake when the stormy winds do blow. Married too. Sometimes ",
+    "start": 81299,
+    "end": 81314,
+    "canonical_text": "Faugh a Ballagh"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9063525,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

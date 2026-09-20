@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8333005",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "My telegram",
+  "html_source": "<p>Stephen’s inner narrative</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8333005/James-joyce-ulysses-chap-9-scylla-and-charybdis/My-telegram",
+    "original_id": "8333005",
+    "referent_id": 8333005,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "My telegram",
+    "prefix": "144\n\n Hast thou found me, O mine enemy? \n\nEntr'acte. \n\n A ribald face, sullen as a dean's, Buck Mulligan came forward, then blithe in motley, towards the greeting of their smiles. ",
+    "suffix": ". \n\n — You were speaking of the gaseous vertebrate, if I mistake not? he asked of Stephen. \n\n Primrosevested he greeted gaily with his doffed Panama as with a bauble. \n\n They make ",
+    "start": 27818,
+    "end": 27829,
+    "canonical_text": "My telegram"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8333005,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2568065,
+        "login": "GeoffBobker",
+        "name": "GeoffBobker",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

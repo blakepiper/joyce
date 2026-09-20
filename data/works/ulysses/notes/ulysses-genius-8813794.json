@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8813794",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Bass",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/6975a5594449c459c75f940454a47ace.800x600x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8813794/James-joyce-ulysses-chap-8-lestrygonians/Bass",
+    "original_id": "8813794",
+    "referent_id": 8813794,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Bass",
+    "prefix": "d to call him big Ben. Not half as witty as calling him base barreltone. Appetite like an albatross. Get outside of a baron of beef. Powerful man he was at stowing away number one ",
+    "suffix": ". Barrel of Bass. See? It all works out. \n\n1986#126\n\n A procession of whitesmocked men marched slowly towards him along the gutter, scarlet sashes across their boards. Bargains. Li",
+    "start": 7348,
+    "end": 7352,
+    "canonical_text": "Bass"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9599
+  },
+  "genius": {
+    "referent_id": 8813794,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-10850340",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Divisible component bodies",
+  "html_source": "<p>Joyce was writing in the early days of subatomic physics<br /><a href=\"https://en.wikipedia.org/wiki/Timeline_of_particle_discoveries.\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Timeline_of_particle_discoveries.</a></p><p>Also echoes the Platonic versus Aristotelian debate in Stephen’s head during his walk on Sandymount Strand (<em>Proteus</em>).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10850340/James-joyce-ulysses-chap-17-ithaca/Divisible-component-bodies",
+    "original_id": "10850340",
+    "referent_id": 10850340,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "divisible component bodies",
+    "prefix": "ead: of the universe of human serum constellated with red and white bodies, themselves universes of void space constellated with other bodies, each, in continuity, its universe of ",
+    "suffix": " of which each was again 1939#492divisible in divisions of redivisible 1986#573component bodies, dividends and divisors ever diminishing without actual division till, if the progre",
+    "start": 67404,
+    "end": 67430,
+    "canonical_text": "divisible component bodies"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10850340,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.8245614035087719
+      },
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.1754385964912281
+      }
+    ]
+  },
+  "color": "F59627"
+}

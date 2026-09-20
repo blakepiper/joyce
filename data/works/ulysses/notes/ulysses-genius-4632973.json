@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4632973",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "But you were delighted when Esther Osvalt’s shoe went on you:",
+  "html_source": "<p>Stephen appears to be thinking that he put on women’s shoes in Paris, and liked it.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4632973/James-joyce-ulysses-chap-3-proteus/But-you-were-delighted-when-esther-osvalts-shoe-went-on-you",
+    "original_id": "4632973",
+    "referent_id": 4632973,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "But you were delighted when Esther Osvalt's shoe went on you:",
+    "prefix": "ots, a buck's castoffs, nebeneinander. He counted the creases of rucked leather wherein another's foot had nested warm. The foot that beat the ground in tripudium, foot I dislove. ",
+    "suffix": " girl I knew in Paris. Tiens, quel petit pied! Staunch friend, a brother soul: Wilde's love that dare not speak its name. His arm: Cranly's arm. He now will leave me. And the blame",
+    "start": 29192,
+    "end": 29253,
+    "canonical_text": "But you were delighted when Esther Osvalt's shoe went on you:"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4632973,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

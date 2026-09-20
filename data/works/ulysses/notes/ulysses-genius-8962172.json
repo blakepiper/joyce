@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8962172",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Wife’s admirers",
+  "html_source": "<p>In the Odyssey, Ulysses’s wife Penelope has many admirers who want her to agree to marriage during his 20 year absence. As Molly has Boylan as an admirer during Bloom’s absence from home.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8962172/James-joyce-ulysses-chap-12-cyclops/Wifes-admirers",
+    "original_id": "8962172",
+    "referent_id": 8962172,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "wife's admirers",
+    "prefix": "licy. \n\n1939#227\n\n — Holy Wars, says Joe, laughing, that's a good one if old Shylock is landed. So the wife comes out top dog, what? \n\n — Well, that's a point, says Bloom, for the ",
+    "suffix": ". \n\n — Whose admirers? says Joe. \n\n — The wife's advisers, I mean, says Bloom. \n\n Then he starts all confused mucking it up about mortgagor under the act like the lord chancellor g",
+    "start": 49591,
+    "end": 49606,
+    "canonical_text": "wife's admirers"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8962172,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

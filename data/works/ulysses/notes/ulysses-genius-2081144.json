@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2081144",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "The news was imparted",
+  "html_source": "<p>This section (from “The news was imparted” to “what God has joined”) is in the style of English historian <a href=\"http://en.wikipedia.org/wiki/Edward_Gibbon\" rel=\"noopener nofollow\">Edward Gibbon</a>, best known for writing <a href=\"http://en.wikipedia.org/wiki/The_History_of_the_Decline_and_Fall_of_the_Roman_Empire\" rel=\"noopener nofollow\"><em>The History of the Decline and Fall of the Roman Empire</em></a>.</p><p><img src=\"https://images.genius.com/6427f2bcc03615fae6dfec6ad59ef420.258x322x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2081144/James-joyce-ulysses-chap-14-oxen-of-the-sun/The-news-was-imparted",
+    "original_id": "2081144",
+    "referent_id": 2081144,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "The news was imparted",
+    "prefix": "bundant in balm but, transplanted to a clime more temperate, its roots have lost their quondam vigour while the stuff that comes away from it is stagnant, acid and inoperative. \n\n ",
+    "suffix": " with a circumspection recalling the ceremonial usages of the Sublime Porte by the second female infirmarian to the junior medical officer in residence, who in his turn announced t",
+    "start": 68153,
+    "end": 68174,
+    "canonical_text": "The news was imparted"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2081144,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

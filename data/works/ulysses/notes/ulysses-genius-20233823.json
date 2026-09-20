@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20233823",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Vials of his wrath",
+  "html_source": "<p>A Biblical reference. In Revelation 16:1, angels are instructed to “pour out the vials of the wrath of God upon the earth.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20233823/James-joyce-ulysses-chap-7-aeolus/Vials-of-his-wrath",
+    "original_id": "20233823",
+    "referent_id": 20233823,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "vials of his wrath",
+    "prefix": "ll? \n\n1932#125\n\n — It was the speech, mark you, the professor said, of a finished orator, full of courteous haughtiness and pouring in chastened diction I will not say 1922#135the ",
+    "suffix": " but pouring the proud man's contumely upon the new movement. It was then a new movement. We were weak, therefore worthless. \n\n He closed his long thin lips an instant but, eager t",
+    "start": 44520,
+    "end": 44538,
+    "canonical_text": "vials of his wrath"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20233823,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11041825,
+        "login": "raggedclaws",
+        "name": "raggedclaws",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

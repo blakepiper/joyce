@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9171148",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Empedocles of Trinacria",
+  "html_source": "<p>In antiquity, Empedocles (ca. 495–435 BCE) was characterized as active on the democratic side in the politics of his native city of Acragas in Sicily, and as a physician, as well as a philosopher and poet. His philosophical and scientific theories are mentioned and discussed in several dialogues of Plato, and they figure prominently in Aristotle’s writings on physics and biology<br />Stanford Encyclopedia of Philosophy</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9171148/James-joyce-ulysses-chap-14-oxen-of-the-sun/Empedocles-of-trinacria",
+    "original_id": "9171148",
+    "referent_id": 9171148,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Empedocles of Trinacria",
+    "prefix": "s which science cannot answer — at present — such as the first problem submitted by Mr L. Bloom (Pubb. Canv.) regarding the future determination of sex. Must we accept the view of ",
+    "suffix": " that the right ovary (the postmenstrual period, assert others) is responsible for the birth of males or are the too long neglected spermatozoa or nemasperms the differentiating fa",
+    "start": 89288,
+    "end": 89311,
+    "canonical_text": "Empedocles of Trinacria"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9171148,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8872673",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Jonah Barrington",
+  "html_source": "<p>An Irish lawyer, judge and politician, (1760-1834) he is most notable for his amusing and popular memoirs of life in late 18th-century Ireland; for his opposition to the Act of Union in 1800; and for his removal from the judiciary by both Houses of the Parliament in 1830.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8872673/James-joyce-ulysses-chap-10-wandering-rocks/Jonah-barrington",
+    "original_id": "8872673",
+    "referent_id": 8872673,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Jonah Barrington",
+    "prefix": "und for the office of Messrs Collis and Ward. \n\n1961#240\n\n Mr Kernan approached Island street. \n\n Times of the troubles. Must ask Ned Lambert to lend me those reminiscences of sir ",
+    "suffix": ". When you look back on it all now in a kind of retrospective arrangement. Gaming at Daly's. No cardsharping then. One of those fellows got his hand nailed to the table by a dagger",
+    "start": 45076,
+    "end": 45092,
+    "canonical_text": "Jonah Barrington"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8872673,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

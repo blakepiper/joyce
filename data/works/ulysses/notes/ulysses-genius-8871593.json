@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8871593",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Le Nombre des Élus",
+  "html_source": "<p>Translates to “The Number of the Elect” in reference to Predestination. In theology, the doctrine that all events have been willed by God, usually with reference to the eventual fate of the individual soul.While it is held that those whom God has elected to eternal life will infallibly attain it, and are therefore said to be predestined to salvation by God, those who perish are not predestined to damnation.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8871593/James-joyce-ulysses-chap-10-wandering-rocks/Le-nombre-des-elus",
+    "original_id": "8871593",
+    "referent_id": 8871593,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Le Nombre des Élus",
+    "prefix": "f the millions of black and brown and yellow souls that had not received the baptism of water when their last hour came like a thief in the night. That book by the Belgian jesuit, ",
+    "suffix": ", seemed to Father Conmee a reasonable plea. Those were millions of human souls created by God in His Own likeness to whom the faith had not (D.V.) been brought. But they were God'",
+    "start": 9356,
+    "end": 9374,
+    "canonical_text": "Le Nombre des Élus"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8871593,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

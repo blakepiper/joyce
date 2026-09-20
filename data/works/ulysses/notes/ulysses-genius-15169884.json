@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15169884",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Dado",
+  "html_source": "<p>Dado refers to the lower part of the wall of a room, below about waist height, if it is a different color or has a different covering than the upper part (sort of like faux wainscoting?).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15169884/James-joyce-ulysses-chap-17-ithaca/Dado",
+    "original_id": "15169884",
+    "referent_id": 15169884,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "dado",
+    "prefix": "crown frieze, staircase, three continuous flights at successive right angles, of varnished cleargrained oak, treads and risers, newel, balusters and handrail, with steppedup panel ",
+    "suffix": ", dressed with camphorated wax, bathroom, hot and cold supply, reclining and shower: water closet on mezzanine provided with opaque singlepane oblong window, tipup seat, bracket 19",
+    "start": 96322,
+    "end": 96326,
+    "canonical_text": "dado"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15169884,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

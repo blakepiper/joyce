@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10504246",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Alice Ben Bolt",
+  "html_source": "<p><a href=\"https://www.youtube.com/watch?v=r82PphUU3NE\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=r82PphUU3NE</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10504246/James-joyce-ulysses-chap-16-eumaeus/Alice-ben-bolt",
+    "original_id": "10504246",
+    "referent_id": 10504246,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Alice Ben Bolt",
+    "prefix": " mariner's roadside shieling after having diddled Davy Jones, a rainy night with a blind moon. Across the world for a wife. Quite a number of stories there were on that particular ",
+    "suffix": " topic, Enoch Arden and Rip van Winkle and does anybody hereabouts remember Caoc O'Leary, a favourite and most trying declamation piece by the way of poor John Casey and a bit of p",
+    "start": 28412,
+    "end": 28426,
+    "canonical_text": "Alice Ben Bolt"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10504246,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

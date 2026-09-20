@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15123250",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Grazier",
+  "html_source": "<p>British term for a person who grazes/fattens cattle or sheep to prepare them for market</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15123250/James-joyce-ulysses-chap-12-cyclops/Grazier",
+    "original_id": "15123250",
+    "referent_id": 15123250,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "grazier",
+    "prefix": "as up one time in a knacker's yard. Walking about with his book and pencil here's my head and my heels are coming till Joe Cuffe gave him the order of the boot for giving lip to a ",
+    "suffix": ". Mister Knowall. Teach your grandmother how to milk ducks. Pisser Burke was telling me in the hotel the wife used to be in rivers of tears some times with Mrs O'Dowd crying her ey",
+    "start": 54224,
+    "end": 54231,
+    "canonical_text": "grazier"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15123250,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

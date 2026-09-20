@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3247559",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Jesusmario",
+  "html_source": "<p>High irreverence, Bloom’s internal narrative .</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3247559/James-joyce-ulysses-chap-7-aeolus/Jesusmario",
+    "original_id": "3247559",
+    "referent_id": 3247559,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Jesusmario",
+    "prefix": "ed by an umbrella sword to the footlights: Mario the tenor. \n\n — Or like Mario, Mr Bloom said. \n\n — Yes, Red Murray agreed. But Mario was said to be the picture of Our Saviour. \n\n ",
+    "suffix": " with rougy cheeks, doublet and spindle legs. Hand on his heart. In Martha. \n\nCo-ome thou lost one, \nCo-ome thou dear one \n\n1922#1131961#117\n\n THE CROZIER AND THE PEN \n\n — His grac",
+    "start": 3087,
+    "end": 3098,
+    "canonical_text": "Jesus Mario"
+  },
+  "provenance": {
+    "match_method": "compact-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 3247559,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

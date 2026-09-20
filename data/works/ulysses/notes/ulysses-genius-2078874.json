@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2078874",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "And he sent the ale purling about,",
+  "html_source": "<p>This ends the section in the style of Daniel Defoe, which began above with “With this came up.”</p><p><img src=\"https://images.genius.com/c6408732d05cd5183182a460e37be5f5.480x640x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2078874/James-joyce-ulysses-chap-14-oxen-of-the-sun/And-he-sent-the-ale-purling-about",
+    "original_id": "2078874",
+    "referent_id": 2078874,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "and he sent the ale purling about,",
+    "prefix": ", says Mr Vincent, plain dealing. He'll find himself on the horns of a dilemma if he meddles with a bull that's Irish, says he. Irish by name and irish by nature, says Mr Stephen, ",
+    "suffix": " an Irish bull in an English chinashop. I conceive you, says Mr Dixon. It is that same bull that was sent to our island by farmer Nicholas, the bravest cattlebreeder of them all, w",
+    "start": 41641,
+    "end": 41675,
+    "canonical_text": "and he sent the ale purling about,"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2078874,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

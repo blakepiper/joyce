@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11163481",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Findon haddy",
+  "html_source": "<p><a href=\"http://www.rampantscotland.com/recipes/blrecipe_finnan.htm\" rel=\"noopener nofollow\">http://www.rampantscotland.com/recipes/blrecipe_finnan.htm</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11163481/James-joyce-ulysses-chap-18-penelope/Findon-haddy",
+    "original_id": "11163481",
+    "referent_id": 11163481,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Findon haddy",
+    "prefix": " me what do they find to gabber about all night squandering money and getting drunker and drunker couldnt they drink water then he starts giving us his orders for eggs and tea and ",
+    "suffix": " 1932#664and hot buttered toast I suppose well have him sitting up like the king of the country pumping the wrong end of the spoon up and down in his egg wherever he learned that f",
+    "start": 69011,
+    "end": 69023,
+    "canonical_text": "Findon haddy"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11163481,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

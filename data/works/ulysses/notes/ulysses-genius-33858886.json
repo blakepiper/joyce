@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33858886",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Runaway",
+  "html_source": "<p>There are versions of the story  in which she runs away, and versions in which she is kidnapped, but Deasy has an opinion on which one is correct.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33858886/James-joyce-ulysses-chap-2-nestor/Runaway",
+    "original_id": "33858886",
+    "referent_id": 33858886,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "runaway",
+    "prefix": "— I am happier than you are, he said. We have committed many errors and many sins. A woman brought sin into the world. For a woman who was no better than she should be, Helen, the ",
+    "suffix": " wife of Menelaus, ten years the Greeks made war on Troy. A faithless wife first brought the strangers 1961#34to our shore here, MacMurrough's wife and her leman, O'Rourke, prince ",
+    "start": 22683,
+    "end": 22690,
+    "canonical_text": "runaway"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 33858886,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

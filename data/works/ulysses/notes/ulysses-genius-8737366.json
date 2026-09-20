@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8737366",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "With feeble vulture talons he feels the silent face of Bloom",
+  "html_source": "<p>Harry Blamires (<em>The New Bloomsday Book: A Guide Through Ulysses</em>) suggests this is a reenactment of the recognition scene between Isaac and Jacob in <em>The Old Testament</em>. “Old Rudolph has to feel his son’s face to assure himself of his identity.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8737366/James-joyce-ulysses-chap-15-circe/With-feeble-vulture-talons-he-feels-the-silent-face-of-bloom",
+    "original_id": "8737366",
+    "referent_id": 8737366,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "With feeble vulture talons he feels the silent face of Bloom",
+    "prefix": " the crubeen and trotter behind his back and, crestfallen, feels warm and cold feetmeat.) Ja, ich weiss, papachi. \n\n RUDOLPH \n\n What you making down this place? Have you no soul? (",
+    "suffix": ".) Are you not my son Leopold, the grandson of Leopold? Are you not my dear son Leopold who left the house of his father and left the god of his fathers Abraham and Jacob? \n\n1986#3",
+    "start": 12236,
+    "end": 12296,
+    "canonical_text": "with feeble vulture talons he feels the silent face of Bloom"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 8737366,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

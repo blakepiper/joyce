@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15151042",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Allocution",
+  "html_source": "<p>An <a href=\"https://en.wikipedia.org/wiki/Allocution\" rel=\"noopener nofollow\">allocution</a> is formal speech giving advice or warning. In law, it is a formal statement made by the defendant (after being found guilty but before being sentenced) to the court, to explain why the sentence should be lenient.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15151042/James-joyce-ulysses-chap-14-oxen-of-the-sun/Allocution",
+    "original_id": "15151042",
+    "referent_id": 15151042,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "allocution",
+    "prefix": "n poet has handed down to us in the pages of his Metamorphoses. The impression made by his words was immediate but shortlived. It was effaced as easily as it had been evoked by an ",
+    "suffix": " from Mr Candidate Mulligan in that vein of pleasantry which none better than he knew how to affect, postulating as the supremest object of desire a nice clean old man. Contemporan",
+    "start": 72287,
+    "end": 72297,
+    "canonical_text": "allocution"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15151042,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

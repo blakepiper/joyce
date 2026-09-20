@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33269986",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Then",
+  "html_source": "<p>Then Stephen spoke , disdainfully about the church, canon law, fertility, vampires,…..</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33269986/James-joyce-ulysses-chap-14-oxen-of-the-sun/Then",
+    "original_id": "33269986",
+    "referent_id": 33269986,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Then",
+    "prefix": "sir Leopold which never durst laugh too open by reason of a strange humour which he would not bewray and also for that he rued for her that bare whoso she might be or wheresoever. ",
+    "suffix": " spoke young Stephen orgulous of mother Church that 1961#389would cast him out of her bosom, of law of canons, of Lilith, patron of abortions, 1932#352of bigness wrought by wind of",
+    "start": 17026,
+    "end": 17030,
+    "canonical_text": "Then"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9676
+  },
+  "genius": {
+    "referent_id": 33269986,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

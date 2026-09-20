@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9575524",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Birdseye cigarettes.",
+  "html_source": "<p><img src=\"https://images.genius.com/d25dfd870e1d1e168ba850c927178a7a.420x536x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9575524/James-joyce-ulysses-chap-15-circe/Birdseye-cigarettes",
+    "original_id": "9575524",
+    "referent_id": 9575524,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "birdseye cigarettes.",
+    "prefix": "d a phallic design.) \n\n Odd! Molly drawing on the frosted carriagepane at Kingstown. What's that like? (Gaudy dollwomen loll in the lighted doorways, in window embrasures, smoking ",
+    "suffix": " The odour of the sicksweet weed floats towards him in slow round ovalling wreaths.) \n\n THE WREATHS \n\n Sweet are the sweets. Sweets of sin. \n\n BLOOM \n\n My spine's a bit limp. Go or",
+    "start": 31297,
+    "end": 31317,
+    "canonical_text": "birdseye cigarettes."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9575524,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

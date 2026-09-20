@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4555191",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "As he and others see me",
+  "html_source": "<p>Buck mulligan holds a mirror up to Stephen, literally as well as reporting what others think of him.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4555191/James-joyce-ulysses-chap-1-telemachus/As-he-and-others-see-me",
+    "original_id": "4555191",
+    "referent_id": 4555191,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "As he and others see me",
+    "prefix": " strong wellknit trunk. \n\n — Look at yourself, he said, you dreadful bard! \n\n Stephen bent forward and peered at the mirror held out to him, cleft by a crooked crack, hair on end. ",
+    "suffix": ". Who chose this face for me? This dogsbody to rid of vermin. It asks me too. \n\n — I pinched it out of the skivvy's room, Buck Mulligan said. It does her all right. The aunt always",
+    "start": 7964,
+    "end": 7987,
+    "canonical_text": "As he and others see me"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4555191,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

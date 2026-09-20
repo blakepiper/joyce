@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4953416",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "We feel in England that we have treated you rather unfairly.",
+  "html_source": "<p>Stephen recalls these words with bitter amusement in <a href=\"https://genius.com/4876756/James-joyce-ulysses-chap-9-scylla-and-charybdis/We-feel-in-england\" rel=\"noopener nofollow\">Chapter 9:</a></p><blockquote><p>We feel in England. Penitent thief. Gone. I smoked his baccy.</p></blockquote>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4953416/James-joyce-ulysses-chap-1-telemachus/We-feel-in-england-that-we-have-treated-you-rather-unfairly",
+    "original_id": "4953416",
+    "referent_id": 4953416,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "We feel in England that we have treated you rather unfairly.",
+    "prefix": "\n1939#17\n\n Haines detached from his underlip some fibres of tobacco before he spoke. \n\n — I can quite understand that, he said calmly. An Irishman must think like that, I daresay. ",
+    "suffix": " It seems history is to blame. \n\n The proud potent titles clanged over Stephen's memory the triumph1932#19 of their brazen bells: et unam sanctam catholicam1961#20 et apostolicam e",
+    "start": 36564,
+    "end": 36624,
+    "canonical_text": "We feel in England that we have treated you rather unfairly."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4953416,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 149810,
+        "login": "perfectrhyme",
+        "name": "Perfectrhyme",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

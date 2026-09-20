@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10242660",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Vaccination",
+  "html_source": "<p>Smallpox vaccination became common in Ireland after 1880. I leaves a scar on the upper arm where it is administered.<br /><a href=\"https://www.researchgate.net/publication/253229388_Smallpox_in_Ireland-an_historical_note_with_possible_and_unwelcome_relevance_for_the_future\" rel=\"noopener nofollow\">https://www.researchgate.net/publication/253229388_Smallpox_in_Ireland-an_historical_note_with_possible_and_unwelcome_relevance_for_the_future</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10242660/James-joyce-ulysses-chap-15-circe/Vaccination",
+    "original_id": "10242660",
+    "referent_id": 10242660,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "vaccination",
+    "prefix": "ireplace. Stephen, arming Zoe with exaggerated grace, begins to waltz her round the room. Bloom stands aside. Her sleeve, falling from gracing arms, reveals a white fleshflower of ",
+    "suffix": ". Between the curtains Professor Maginni inserts a leg on the toepoint of which spins a silk hat. With a deft kick he sends it spinning to his crown and jauntyhatted skates in. He ",
+    "start": 197870,
+    "end": 197881,
+    "canonical_text": "vaccination"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10242660,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11219694",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Criada",
+  "html_source": "<p>housemaid or servant in Spanish</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11219694/James-joyce-ulysses-chap-18-penelope/Criada",
+    "original_id": "11219694",
+    "referent_id": 11219694,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "criada",
+    "prefix": "going her rounds with the watercress and something nice and tasty there are a few olives in the kitchen he might like I never could bear the look of them in Abrines I could do the ",
+    "suffix": " the room looks all right since I changed it the other way you see something was telling me all the time Id have to introduce myself not knowing me from Adam very funny wouldnt it ",
+    "start": 110229,
+    "end": 110235,
+    "canonical_text": "criada"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11219694,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

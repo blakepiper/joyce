@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795884",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Immortelles",
+  "html_source": "<p>An immortelle is an long-lasting flower arrangement placed on graves in cemeteries.</p><p>They were originally made from natural dried flowers (which lasted longer than fresh flowers) or could be made from artificial materials such as china and painted plaster of paris or beads strung on wire arrangements</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795884/James-joyce-ulysses-chap-6-hades/Immortelles",
+    "original_id": "8795884",
+    "referent_id": 8795884,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Immortelles",
+    "prefix": "1 hung on knobs, garlands of bronzefoil. Better value that for the money. Still, the flowers are more poetical. The other gets rather tiresome, never withering. Expresses nothing. ",
+    "suffix": ". \n\n A bird sat tamely perched on a poplar branch. Like stuffed. Like the wedding present alderman Hooper gave us. Hu! Not a budge out of him. Knows there are no catapults to let f",
+    "start": 57795,
+    "end": 57806,
+    "canonical_text": "Immortelles"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8795884,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

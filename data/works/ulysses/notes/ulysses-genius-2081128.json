@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2081128",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Amid the general vacant",
+  "html_source": "<p>This section (from “Amid the general vacant” to “on with a loving heart”) is in the style of <a href=\"http://en.wikipedia.org/wiki/Oliver_Goldsmith\" rel=\"noopener nofollow\">Oliver Goldsmith</a>, an Anglo-Irish novelist who was the author of <a href=\"http://en.wikipedia.org/wiki/Oliver_Goldsmith\" rel=\"noopener nofollow\"><em>The Vicar of Wakefield</em></a>.</p><p><img src=\"https://images.genius.com/d69940f71ff942a8a376376cdb2508a8.220x269x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2081128/James-joyce-ulysses-chap-14-oxen-of-the-sun/Amid-the-general-vacant",
+    "original_id": "2081128",
+    "referent_id": 2081128,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Amid the general vacant",
+    "prefix": "first is a bath... But at this point a bell tinkling in the hall cut short a discourse which promised so bravely for the enrichment of our store of knowledge. \n\n1986#3311961#405\n\n ",
+    "suffix": " hilarity of the assembly a bell rang and, while all were conjecturing what might be the cause, Miss Callan entered and, having spoken a few words in a low tone to young Mr Dixon, ",
+    "start": 57609,
+    "end": 57632,
+    "canonical_text": "Amid the general vacant"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2081128,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

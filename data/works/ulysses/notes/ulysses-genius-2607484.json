@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2607484",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Comment?",
+  "html_source": "<p>French for <em>What?</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2607484/James-joyce-ulysses-chap-3-proteus/Comment",
+    "original_id": "2607484",
+    "referent_id": 2607484,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Comment?",
+    "prefix": "aven spilt from their pintpots, loudlatinlaughing: Euge! Euge! Pretending to speak broken English as you dragged your valise, porter threepence, across the slimy pier at Newhaven. ",
+    "suffix": " Rich booty you brought back; Le Tutu, five 1939#33tattered numbers of Pantalon Blanc et Culotte Rouge; a blue French telegram, curiosity to show: \n\n — Nother dying come home fathe",
+    "start": 12150,
+    "end": 12158,
+    "canonical_text": "Comment?"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2607484,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 293151,
+        "login": "jeeho",
+        "name": "Jeeho",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

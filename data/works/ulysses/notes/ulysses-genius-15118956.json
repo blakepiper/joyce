@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15118956",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Steuer",
+  "html_source": "<p>Steuer means “tax” in German</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15118956/James-joyce-ulysses-chap-12-cyclops/Steuer",
+    "original_id": "15118956",
+    "referent_id": 15118956,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Steuer",
+    "prefix": "af Kobberkeddelsen, Mynheer Trik van Trumps, Pan Poleaxe Paddyrisky, Goosepond Přhklštř Kratchinabritchisitch, 1922#294Boris Hupinkoff, Herr Hurhausdirektorpresident Hans Chuechli-",
+    "suffix": "li, Nationalgymnasiummuseumsanatoriumandsuspensoriumsordinaryprivatdocentgeneralhistoryspecialprofessordoctor Kriegfried Ueberallgemein. All the delegates without exception express",
+    "start": 35898,
+    "end": 35904,
+    "canonical_text": "Steuer"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15118956,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

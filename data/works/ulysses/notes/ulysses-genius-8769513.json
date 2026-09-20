@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8769513",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Kish",
+  "html_source": "<p>The Kish Bank (Irish: Banc na Cise) is a shallow sand bank about seven miles (11 km) off the coast of Dublin, in Ireland. It is marked by the Kish Lighthouse, a landmark well known to sailors and ferry passengers passing through Dublin Bay and Dún Laoghaire harbour.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8769513/James-joyce-ulysses-chap-4-calypso/Kish",
+    "original_id": "8769513",
+    "referent_id": 8769513,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Kish",
+    "prefix": "e kitchen window.1961#66 Day I caught her in the street pinching her cheeks to make them red. Anemic a little. Was given milk too long. On the Erin's King that day round round the ",
+    "suffix": ". Damned old tub pitching about. Not a bit funky. Her pale blue scarf loose in the wind with her hair. \n\n1986#54\n\nAll dimpled cheeks and curls, \nYour head it simply swirls. \n\n1939#",
+    "start": 26798,
+    "end": 26802,
+    "canonical_text": "Kish"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8769513,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

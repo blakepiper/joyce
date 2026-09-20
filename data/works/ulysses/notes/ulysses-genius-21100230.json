@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21100230",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Rutlandbaconsouthamptonshakespeare",
+  "html_source": "<p>A portmanteau of several candidates for the “true” writer of Shakespeare’s works. Roger Manners, the 5th Earl of Rutland; Francis Bacon; Henry Wriothesley, 3rd Earl of Southhampton (also thought by some to be Shakespeare’s “fair youth”).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21100230/James-joyce-ulysses-chap-9-scylla-and-charybdis/Rutlandbaconsouthamptonshakespeare",
+    "original_id": "21100230",
+    "referent_id": 21100230,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Rutlandbaconsouthamptonshakespeare",
+    "prefix": "on. The bulldog of Aquin, with whom no word shall be impossible, refutes him. Well: if the father who has not a son be not a father can the son who has not a father be a son? When ",
+    "suffix": " or another poet of the same name in the comedy of errors wrote Hamlet he was not the father of his own son merely but, being no more a son, he was and felt himself the father of a",
+    "start": 50297,
+    "end": 50331,
+    "canonical_text": "Rutlandbaconsouthamptonshakespeare"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21100230,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

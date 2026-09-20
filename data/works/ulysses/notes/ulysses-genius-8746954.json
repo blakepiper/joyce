@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8746954",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "O’Brien",
+  "html_source": "<p>1 of 2 O' Briens associated with Stephens (Gifford).<br />WILLIAM SMITH O'BRIEN</p><p><img src=\"https://images.rapgenius.com/91fb2582f7d02358875cfaffbde610f7.300x392x1.jpg\" alt=\"\" /></p><p>JAMES FRANCIS XAVIER O'BRIEN</p><p><img src=\"https://images.rapgenius.com/58cb7f0252e32a9b1f6d8c88f629417c.257x325x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8746954/James-joyce-ulysses-chap-4-calypso/Obrien",
+    "original_id": "8746954",
+    "referent_id": 8746954,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "O'Brien",
+    "prefix": "ined hair over his collar. Just had a wash and brushup. Wonder have I time for a bath this 1939#52morning. Tara street. Chap in the paybox there got away James Stephens, they say. ",
+    "suffix": ". \n\n Deep voice that fellow Dlugacz has. Agenda what is it? Now, my miss. Enthusiast. \n\n He kicked open the crazy door of the jakes. Better be careful not to get these trousers dir",
+    "start": 30195,
+    "end": 30202,
+    "canonical_text": "O'Brien"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8746954,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15119022",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Harakiri",
+  "html_source": "<p>Seppuku, or ritual suicide by disembowelment in Japanese Samurai tradition.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15119022/James-joyce-ulysses-chap-12-cyclops/Harakiri",
+    "original_id": "15119022",
+    "referent_id": 15119022,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Harakiri",
+    "prefix": "mboost, Count Athanatos Karamelopulos, Ali Baba Backsheesh Rahat Lokum Effendi, Señor Hidalgo Caballero Don Pecadillo y Palabras y Paternoster de la Malora de la Malaria, Hokopoko ",
+    "suffix": ", Hi Hung Chang, Olaf Kobberkeddelsen, Mynheer Trik van Trumps, Pan Poleaxe Paddyrisky, Goosepond Přhklštř Kratchinabritchisitch, 1922#294Boris Hupinkoff, Herr Hurhausdirektorpresi",
+    "start": 35691,
+    "end": 35699,
+    "canonical_text": "Harakiri"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15119022,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

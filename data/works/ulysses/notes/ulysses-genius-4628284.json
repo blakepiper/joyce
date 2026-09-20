@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4628284",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "The Ship",
+  "html_source": "<p><a href=\"https://genius.com/1868422\" rel=\"noopener nofollow\">Stephen agreed to meet Mulligan for a drink at The Ship (a large pub in downtown Dublin that was popular with writers) at 12:30.</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4628284/James-joyce-ulysses-chap-3-proteus/The-ship",
+    "original_id": "4628284",
+    "referent_id": 4628284,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "The Ship",
+    "prefix": "ing and eager airs. They are coming, waves. The whitemaned seahorses, champing, brightwindbridled, the steeds of Mananaan. \n\n I mustn't forget his letter for the press. And after? ",
+    "suffix": ", half twelve. By the way go easy with that money like a good young imbecile. Yes, I must. \n\n His pace slackened. Here. Am I going to aunt Sara's or not? My consubstantial father's",
+    "start": 3747,
+    "end": 3755,
+    "canonical_text": "The Ship"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4628284,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.96
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.04
+      }
+    ]
+  },
+  "color": "F59627"
+}

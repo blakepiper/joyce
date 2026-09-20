@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3100268",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Furious dean",
+  "html_source": "<p><a href=\"https://genius.com/artists/Jonathan-swift\" rel=\"noopener nofollow\">Jonathan Swift</a>, Dean of St. Patrick’s cathedral</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3100268/James-joyce-ulysses-chap-3-proteus/Furious-dean",
+    "original_id": "3100268",
+    "referent_id": 3100268,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "furious dean",
+    "prefix": "d of madness, his mane foaming in the moon, his eyeballs stars. Houyhnhnm, horsenostrilled. The oval equine faces, Temple, Buck Mulligan, Foxy Campbell, Lanternjaws. Abbas father, ",
+    "suffix": ", what offence laid 1961#39fire to their brains? Paff! Descende, calve, ut ne nimium decalveris. A garland of grey hair on his comminated head see him me clambering down to the foo",
+    "start": 6723,
+    "end": 6735,
+    "canonical_text": "furious dean"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3100268,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

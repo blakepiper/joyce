@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-11204993",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Sweet tart goodbye",
+  "html_source": "<p>a comical mispronunciation of “goodbye sweetheart goodbye”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11204993/James-joyce-ulysses-chap-18-penelope/Sweet-tart-goodbye",
+    "original_id": "11204993",
+    "referent_id": 11204993,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "sweet tart goodbye",
+    "prefix": "ng Maritana with him at Freddy Mayers private opera he had a delicious glorious voice Phoebe dearest goodbye sweetheart sweetheart he always sang it not like Bartell Darcy 1986#636",
+    "suffix": " of course he had the gift of the voice so there was no art in it all over you like a warm showerbath O Maritana wildwood flower we sang splendidly though it was a bit too high for",
+    "start": 96352,
+    "end": 96370,
+    "canonical_text": "sweet tart goodbye"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11204993,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.8571428571428571
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.14285714285714288
+      }
+    ]
+  },
+  "color": "F59627"
+}

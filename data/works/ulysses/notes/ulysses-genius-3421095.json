@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3421095",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Georgina Johnson’s",
+  "html_source": "<p>Stephen spent the money on a prostitute.</p><p><img src=\"https://images.rapgenius.com/7c2b0f6d5b09941005ad1f895625f6f0.588x448x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3421095/James-joyce-ulysses-chap-9-scylla-and-charybdis/Georgina-johnsons",
+    "original_id": "3421095",
+    "referent_id": 3421095,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Georgina Johnson's",
+    "prefix": "rs, Mananaan,\nMananaan MacLir... \n\n How now, sirrah, that pound he lent you when you were hungry? \n\n Marry, I wanted it. \n\n Take thou this noble. \n\n Go to! You spent most of it in ",
+    "suffix": " bed, clergyman's daughter. Agenbite of inwit. \n\n1922#181\n\n Do you intend to pay it back? \n\n O, yes. \n\n When? Now? \n\n Well... No. \n\n When, then? \n\n1932#1691986#155\n\n I paid my way.",
+    "start": 11173,
+    "end": 11191,
+    "canonical_text": "Georgina Johnson's"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3421095,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

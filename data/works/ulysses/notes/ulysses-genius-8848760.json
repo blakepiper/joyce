@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8848760",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Dick Burbage",
+  "html_source": "<p>Richard Burbage, (born c. 1567, London—died March 9/13, 1619, London, Eng.), English actor, first player of Shakespeare’s Richard III, Romeo, Henry V, Hamlet, Macbeth, Othello, and Lear. Shakespeare was closely associated with him during his career in London and in his will left Burbage a token remembrance.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8848760/James-joyce-ulysses-chap-9-scylla-and-charybdis/Dick-burbage",
+    "original_id": "8848760",
+    "referent_id": 8848760,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Dick Burbage",
+    "prefix": "Twenty years he dallied there between conjugial love and its chaste delights and scortatory love and its foul pleasures. You know Manningham's story of the burgher's wife who bade ",
+    "suffix": " to her bed after she had seen him in Richard III and how Shakespeare, overhearing, without more ado about nothing, took the cow by the horns and, when Burbage came knocking at the",
+    "start": 36351,
+    "end": 36363,
+    "canonical_text": "Dick Burbage"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8848760,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

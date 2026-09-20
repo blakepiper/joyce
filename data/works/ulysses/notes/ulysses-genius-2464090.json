@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-2464090",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Untonsured",
+  "html_source": "<p>To tonsure is the act of cutting the hair or shaving the head. The ‘Tonsure’ was the first step on the ladder to being ordained a priest.</p><p>This is tonsured hair:</p><p><img src=\"https://images.rapgenius.com/b20d04f9d54cc46485da230816c3cb50.175x162x1.jpg\" alt=\"\" /></p><p>But Buck’s hair is <em>untonsured</em>, separating him from the monks on a visual level.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2464090/James-joyce-ulysses-chap-1-telemachus/Untonsured",
+    "original_id": "2464090",
+    "referent_id": 2464090,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "untonsured",
+    "prefix": "Dedalus, displeased and sleepy, leaned his arms on the top of the staircase and looked coldly at the shaking gurgling face that blessed him, equine in its length, and at the light ",
+    "suffix": " hair, grained and hued like pale oak. \n\n Buck Mulligan peeped an instant under the mirror and then covered the bowl smartly. \n\n — Back to barracks! he said sternly. \n\n He added in",
+    "start": 908,
+    "end": 918,
+    "canonical_text": "untonsured"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2464090,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 293151,
+        "login": "jeeho",
+        "name": "Jeeho",
+        "role": "contributor",
+        "attribution": 0.7733333333333333
+      },
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 0.16
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.06666666666666667
+      }
+    ]
+  },
+  "color": "F59627"
+}

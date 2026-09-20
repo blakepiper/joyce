@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-3100095",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "A hater of his kind ran from them to the wood of madness",
+  "html_source": "<p>Reference to <a href=\"https://genius.com/artists/Jonathan-swift\" rel=\"noopener nofollow\">Jonathan Swift</a>.</p><p>Swift (1667-1745) was a misanthropic writer.</p><p>The “them” refers to the rabble.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3100095/James-joyce-ulysses-chap-3-proteus/A-hater-of-his-kind-ran-from-them-to-the-wood-of-madness",
+    "original_id": "3100095",
+    "referent_id": 3100095,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "A hater of his kind ran from them to the wood of madness",
+    "prefix": ". Beauty is not there. Nor in the stagnant bay of Marsh's library where you read the fading prophecies of Joachim Abbas. For whom? The hundredheaded rabble of the cathedral close. ",
+    "suffix": ", his mane foaming in the moon, his eyeballs stars. Houyhnhnm, horsenostrilled. The oval equine faces, Temple, Buck Mulligan, Foxy Campbell, Lanternjaws. Abbas father,—furious dean",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.459
+  },
+  "genius": {
+    "referent_id": 3100095,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1209714,
+        "login": "AlexBeston",
+        "name": "AlexBeston",
+        "role": "contributor",
+        "attribution": 0.75
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.25
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

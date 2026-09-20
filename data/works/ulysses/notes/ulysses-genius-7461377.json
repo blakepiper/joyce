@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-7461377",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "W.B.",
+  "html_source": "<p>Yeats, double-yoo bee. Willyam Butlah.</p><p><img src=\"https://images.rapgenius.com/da637fcf8fc94e00a2863c464d8ba66d.286x289x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7461377/James-joyce-ulysses-chap-9-scylla-and-charybdis/Wb",
+    "original_id": "7461377",
+    "referent_id": 7461377,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "W.B.",
+    "prefix": " passed the female catheter. \nFor he was a medical \nJolly old medi... \n\n1922#176\n\n — I feel you would need one more for Hamlet. Seven is dear to the mystic mind. The shining seven ",
+    "suffix": " calls them. \n\n Glittereyed, his rufous skull close to his greencapped desklamp sought the face bearded amid darkgreener shadow, an ollav, holyeyed. He laughed low: a sizar's laugh",
+    "start": 1391,
+    "end": 1395,
+    "canonical_text": "W.B."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 7461377,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1060900,
+        "login": "dvrath",
+        "name": "dvrath",
+        "role": "contributor",
+        "attribution": 0.8857142857142857
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.11428571428571428
+      }
+    ]
+  },
+  "color": "F59627"
+}

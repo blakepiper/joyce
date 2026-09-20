@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21162502",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Plumbers’ hall",
+  "html_source": "<p>Mechanic’s Theatre. Re-named the Abbey Theatre in 1904.<br /><a href=\"https://en.wikipedia.org/wiki/Mechanics%27_Theatre\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Mechanics%27_Theatre</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21162502/James-joyce-ulysses-chap-9-scylla-and-charybdis/Plumbers-hall",
+    "original_id": "21162502",
+    "referent_id": 21162502,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "plumbers' hall",
+    "prefix": "glinton, my jo, John, \nWhy won't you wed a wife? \n\n He spluttered to the air: \n\n — O, the chinless Chinaman! Chin Chon Eg Lin Ton. We went over to their playbox, Haines and I, the ",
+    "suffix": ". Our players are creating a new art for Europe like the Greeks or M. Maeterlinck. Abbey Theatre! I smell the pubic sweat of monks. \n\n He spat blank. \n\n Forgot: any more than he fo",
+    "start": 65440,
+    "end": 65454,
+    "canonical_text": "plumbers' hall"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21162502,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

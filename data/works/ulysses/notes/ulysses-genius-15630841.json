@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15630841",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Wrecks",
+  "html_source": "<p>In the original this reads “wreckers”. And rightly so, because what the keeper means is that there are ships which sink and people who sink them for unspeakable reasons.<br />See the following paragraph.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15630841/James-joyce-ulysses-chap-16-eumaeus/Wrecks",
+    "original_id": "15630841",
+    "referent_id": 15630841,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "wrecks",
+    "prefix": ". A Palgrave Murphy boat was put off the ways at Alexandra Basin, the only launch that year. Right enough the harbours were there only no ships ever called.\n\nThere were wrecks and ",
+    "suffix": ", the keeper said, who was evidently au fait.\n\nWhat he wanted to ascertain was why that ship ran bang against the only rock in Galway Bay when the Galway Harbour scheme was mooted ",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "ambiguous",
+    "confidence": 0.9927139527139528
+  },
+  "genius": {
+    "referent_id": 15630841,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 6755983,
+        "login": "Mario_Biondi",
+        "name": "Mario_Biondi",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

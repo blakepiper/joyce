@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15063011",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Mr W. H.",
+  "html_source": "<p>Mysterious dedicatee of Shakespeare’s sonnets. One school maintains that it refers to William Herbert (Earl of Pembroke), as he was the dedicatee of Billy’s First Folio; however, Wilde’s camp speculate that W.H. is one Willie Hughes, a “faire youth” with whom Shakespeare had a kind of relationship. <a href=\"https://en.wikipedia.org/wiki/Shakespeare%27s_sonnets#Mr._W._H.,_the_dedicatee\" rel=\"noopener nofollow\">Many other possibilities have been suggested</a>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15063011/James-joyce-ulysses-chap-9-scylla-and-charybdis/Mr-w-h",
+    "original_id": "15063011",
+    "referent_id": 15063011,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Mr W. H.",
+    "prefix": "He swears (His Highness not His Lordship) by saint Patrick. \n\n — The most brilliant of all is that story of Wilde's, Mr Best said, lifting his brilliant notebook. That Portrait of ",
+    "suffix": " where he proves that the sonnets were written by a Willie Hughes, a man all hues. \n\n — For Willie Hughes, is it not? the quaker librarian asked. \n\n1939#145\n\n Or Hughie Wills? Mr W",
+    "start": 29921,
+    "end": 29929,
+    "canonical_text": "Mr W. H."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15063011,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

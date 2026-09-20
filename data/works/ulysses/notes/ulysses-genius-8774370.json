@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8774370",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Barber’s itch",
+  "html_source": "<p>bar·ber’s itch<br />noun<br />ringworm of the face or neck communicated by unsterilized shaving apparatus.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8774370/James-joyce-ulysses-chap-5-lotus-eaters/Barbers-itch",
+    "original_id": "8774370",
+    "referent_id": 8774370,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Barber's itch",
+    "prefix": ". \n\n — I want to see about that French horse that's running today, Bantam Lyons said. Where the bugger is it? \n\n He rustled the pleated pages, jerking his chin on his high collar. ",
+    "suffix": ". Tight collar he'll lose his hair. Better leave him the paper and get shut of him. \n\n — You can keep it, Mr Bloom said. \n\n — Ascot. Gold cup. Wait, Bantam Lyons muttered. Half a m",
+    "start": 33709,
+    "end": 33722,
+    "canonical_text": "Barber's itch"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8774370,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15174543",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Playing all birds fly and I say stoop and washing up dishes",
+  "html_source": "<p>Various games. For example, “I say stoop” is a game like Simon says, where you are out if you stoop when someone says “stoop” rather than “I say stoop”. Apparently “all birds fly” is a game in which you imitate birds? (Source: Penguin 20th c. Classics Annotated Students' Edition)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15174543/James-joyce-ulysses-chap-18-penelope/Playing-all-birds-fly-and-i-say-stoop-and-washing-up-dishes",
+    "original_id": "15174543",
+    "referent_id": 15174543,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "playing all birds fly and I say stoop and washing up dishes",
+    "prefix": "irst only looked out over the sea and the sky I was thinking of so many things he didnt know of Mulvey and Mr Stanhope and Hester and father and old Captain Groves and the sailors ",
+    "suffix": " they called it on the pier and the sentry in front of the governors house with the thing round his white helmet poor devil half roasted and the Spanish 1922#731girls laughing in t",
+    "start": 117838,
+    "end": 117897,
+    "canonical_text": "playing all birds fly and I say stoop and washing up dishes"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15174543,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2075393",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Averroes",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Averroes\" rel=\"noopener nofollow\">Averroes</a> was a Spanish muslim philosopher known for his commentaries on Aristotle.</p><p><img src=\"https://images.genius.com/53c7a234873bbe8a31167cb0567275ef.272x336x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2075393/James-joyce-ulysses-chap-2-nestor/Averroes",
+    "original_id": "2075393",
+    "referent_id": 2075393,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "Averroes",
+    "prefix": " morrice, in the mummery of their letters, wearing quaint caps of squares and cubes. Give hands, traverse, bow to partner: so: imps of fancy of the Moors. Gone too from the world, ",
+    "suffix": " and Moses Maimonides, dark men in mien and movement, flashing in their mocking mirrors the obscure soul of the world, a darkness shining in brightness which brightness could not c",
+    "start": 8557,
+    "end": 8565,
+    "canonical_text": "Averroes"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2075393,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

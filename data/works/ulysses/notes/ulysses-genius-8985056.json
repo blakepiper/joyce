@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8985056",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Rakoczsy’s March",
+  "html_source": "<p>The “Rákóczi March” (Hungarian: Rákóczi-induló), sometimes known as the “Hungarian March” was the unofficial state anthem of Hungary<br /><a href=\"https://www.youtube.com/watch?v=GehjNVO2p5Q\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=GehjNVO2p5Q</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8985056/James-joyce-ulysses-chap-12-cyclops/Rakoczsys-march",
+    "original_id": "8985056",
+    "referent_id": 8985056,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Rakoczsy's March",
+    "prefix": " ovation, many of those who were present being visibly moved when the select orchestra of Irish pipes struck up the wellknown strains of Come back to Erin, followed immediately by ",
+    "suffix": ". Tarbarrels and bonfires were lighted along the coastline of the four seas on the summits of the Hill of Howth, Three Rock Mountain, Sugarloaf, Bray Head, the mountains of Mourne,",
+    "start": 117086,
+    "end": 117102,
+    "canonical_text": "Rakoczsy's March"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8985056,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

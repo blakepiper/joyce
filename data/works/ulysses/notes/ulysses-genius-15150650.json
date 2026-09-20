@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15150650",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Popinjay",
+  "html_source": "<p>A vain or conceited person, from an archaic term for a parrot.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15150650/James-joyce-ulysses-chap-14-oxen-of-the-sun/Popinjay",
+    "original_id": "15150650",
+    "referent_id": 15150650,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Popinjay",
+    "prefix": "an. Fertiliser and Incubator. Lambay Island. His project, as he went on to expound, was to withdraw from the round of idle pleasures such as form the chief business of sir Fopling ",
+    "suffix": " and sir Milksop Quidnunc in town and to devote himself to the noblest task for 1986#328which our bodily organism has been framed. Well, let us hear of it, good my friend, said Mr ",
+    "start": 47631,
+    "end": 47639,
+    "canonical_text": "Popinjay"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15150650,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

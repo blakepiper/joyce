@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21164568",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "John Eglinton, my jo, John",
+  "html_source": "<p>Mulligan plays with the Burns poem ‘John Anderson my jo, John\"<br /><a href=\"https://www.poetryfoundation.org/poems/50357/john-anderson-my-jo-john\" rel=\"noopener nofollow\">https://www.poetryfoundation.org/poems/50357/john-anderson-my-jo-john</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21164568/James-joyce-ulysses-chap-9-scylla-and-charybdis/John-eglinton-my-jo-john",
+    "original_id": "21164568",
+    "referent_id": 21164568,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "John Eglinton, my jo, John",
+    "prefix": ".. Idly writing... What? Looked?... \n\n The curving balustrade: smoothsliding Mincius. \n\n1922#206\n\n Puck Mulligan, panamahelmeted, went step by step, iambing, trolling: \n\n1932#193\n\n",
+    "suffix": ", \nWhy won't you wed a wife? \n\n He spluttered to the air: \n\n — O, the chinless Chinaman! Chin Chon Eg Lin Ton. We went over to their playbox, Haines and I, the plumbers' hall. Our ",
+    "start": 65254,
+    "end": 65280,
+    "canonical_text": "John Eglinton, my jo, John"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21164568,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

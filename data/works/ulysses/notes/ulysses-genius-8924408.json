@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8924408",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Da capo",
+  "html_source": "<p>Da capo, pronounced [da (k)ˈkaːpo], is a musical term in Italian, meaning from the beginning (literally from the head). It is often abbreviated D.C. It is a composer or publisher’s directive to repeat the previous part of music, often used to save space.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8924408/James-joyce-ulysses-chap-11-sirens/Da-capo",
+    "original_id": "8924408",
+    "referent_id": 8924408,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "da capo",
+    "prefix": ". Towncrier, bumbailiff. Long John. Waken the dead. Pom. Dignam. Poor little nominedomine. Pom. 1922#277It is music. I mean of course it's all pom pom pom very much what they call ",
+    "suffix": ". Still you can hear. As we march, we march along, march along. Pom. \n\n1961#289\n\n I must really. Fff. Now if I did that at a banquet. Just a question of custom shah of Persia. Brea",
+    "start": 70369,
+    "end": 70376,
+    "canonical_text": "da capo"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8924408,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

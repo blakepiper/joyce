@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-24331487",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Miss Kate Morkan in the house of her dying sister Miss Julia Morkan",
+  "html_source": "<p>The Misses Morkan were the hostesses of the musical soirée and dinner that is the main event and setting for the final story in DUBLINERS, “The Dead”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/24331487/James-joyce-ulysses-chap-17-ithaca/Miss-kate-morkan-in-the-house-of-her-dying-sister-miss-julia-morkan",
+    "original_id": "24331487",
+    "referent_id": 24331487,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Miss Kate Morkan in the house of her dying sister Miss Julia Morkan",
+    "prefix": "Wood, Sallins, in the county of Kildare: of his father, Simon Dedalus, in an unfurnished room of his first residence in Dublin, number thirteen Fitzgibbon street: of his godmother ",
+    "suffix": " at 15 Usher's Island: of his mother Mary, wife of Simon Dedalus, in the kitchen of number twelve North Richmond street 1986#547on the morning of the feast of Saint Francis Xavier ",
+    "start": 9129,
+    "end": 9196,
+    "canonical_text": "Miss Kate Morkan in the house of her dying sister Miss Julia Morkan"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 24331487,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9699081,
+        "login": "AntoineBoisvert",
+        "name": "AntoineBoisvert",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

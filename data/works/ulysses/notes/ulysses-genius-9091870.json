@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9091870",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Vicar of Christ",
+  "html_source": "<p>a term for the pope</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9091870/James-joyce-ulysses-chap-14-oxen-of-the-sun/Vicar-of-christ",
+    "original_id": "9091870",
+    "referent_id": 9091870,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "vicar of Christ",
+    "prefix": "e prudenter had not shadowed their approach from him that still plied it very busily who, praying for the intentions of the sovereign pontiff, he gave them for a1932#353pledge the ",
+    "suffix": " which also as he said is vicar of Bray. Now drink we, quod he, of this mazer and quaff ye this mead which is not indeed parcel of my body but my soul's bodiment. Leave ye fraction",
+    "start": 19972,
+    "end": 19987,
+    "canonical_text": "vicar of Christ"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9091870,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

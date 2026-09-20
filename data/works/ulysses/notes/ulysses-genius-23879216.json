@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23879216",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Nine",
+  "html_source": "<p>Nine years without a kid.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23879216/James-joyce-ulysses-chap-14-oxen-of-the-sun/Nine",
+    "original_id": "23879216",
+    "referent_id": 23879216,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Nine",
+    "prefix": "en's woe in the travail that they have of motherhood and he wondered to look on her face that was a young face for any man to see but yet was she left after long years a handmaid. ",
+    "suffix": " twelve bloodflows chiding her childless. \n\n And whiles they spake the door of the castle was opened and there nighed them a mickle noise as of many that sat there at meat. And the",
+    "start": 8326,
+    "end": 8330,
+    "canonical_text": "Nine"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23879216,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10471429",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Lords Talbot de Malahide",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Baron_Talbot_of_Malahide\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Baron_Talbot_of_Malahide</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10471429/James-joyce-ulysses-chap-16-eumaeus/Lords-talbot-de-malahide",
+    "original_id": "10471429",
+    "referent_id": 10471429,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Lords Talbot de Malahide",
+    "prefix": "f New Ross had married the widow of a publican there whose maiden name had been Katherine (also) Talbot. Rumour had it (though not proved) that she descended from the house of the ",
+    "suffix": " in whose mansion, really an unquestionably fine residence of its kind and well worth seeing, her mother or aunt or some relative, a woman, as the tale went, of extreme beauty, had",
+    "start": 9710,
+    "end": 9734,
+    "canonical_text": "lords Talbot de Malahide"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 10471429,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

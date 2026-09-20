@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13784345",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Alther liege Lord",
+  "html_source": "<p>A ‘liege lord’ is a lord entitled to the service and allegiance of his vassals. ‘Alter’ meaning ‘of us all.’</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13784345/James-joyce-ulysses-chap-14-oxen-of-the-sun/Alther-liege-lord",
+    "original_id": "13784345",
+    "referent_id": 13784345,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "alther liege Lord",
+    "prefix": "castle with them for to rest him there awhile. Thanked be Almighty God. \n\n1932#350\n\n This meanwhile this good sister stood by the door and begged them at the reverence of Jesu our ",
+    "suffix": " to leave their wassailing for there was above one quick with child, a gentle dame, whose time hied fast. Sir 1986#317Leopold heard on the upfloor cry on high and he wondered what ",
+    "start": 11681,
+    "end": 11698,
+    "canonical_text": "alther liege Lord"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13784345,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

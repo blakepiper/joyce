@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8774310",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Leopold",
+  "html_source": "<p>Prince Leopold, Duke of Albany, (Leopold George Duncan Albert; 7 April 1853 – 28 March 1884) was the eighth child and youngest son of Queen Victoria and Prince Albert. Leopold was later created Duke of Albany, Earl of Clarence, and Baron Arklow. He had haemophilia, which led to his death at the age of 30 after he slipped and fell, injuring his knee and hitting his head. He died in the early hours of the next morning, apparently from a cerebral haemorrhage.</p><p><img src=\"https://images.rapgenius.com/0aecd0bba4a3dce46c7fb6a80346e017.150x230x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8774310/James-joyce-ulysses-chap-5-lotus-eaters/Leopold",
+    "original_id": "8774310",
+    "referent_id": 8774310,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Leopold",
+    "prefix": " strawberries for the teeth: nettles and rainwater: oatmeal they 1961#84say steeped in buttermilk. Skinfood. One of the old queen's sons, duke of Albany was it? had only one skin. ",
+    "suffix": ", yes. Three we have. Warts, bunions and pimples to make it worse. But you want a perfume too. What perfume does your? Peau d'Espagne. That orangeflower water is so fresh. Nice sme",
+    "start": 31950,
+    "end": 31957,
+    "canonical_text": "Leopold"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9729
+  },
+  "genius": {
+    "referent_id": 8774310,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

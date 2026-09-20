@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3324644",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "He puts Bohemia on the seacoast",
+  "html_source": "<p><em>The Winter’s Tale</em> is set in Bohemia, to which it gives a seacoast despite the fact that the region is actually landlocked.</p><p><img src=\"https://images.rapgenius.com/1c9787268e82294a65786c59e6fef9b6.783x820x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3324644/James-joyce-ulysses-chap-9-scylla-and-charybdis/He-puts-bohemia-on-the-seacoast",
+    "original_id": "3324644",
+    "referent_id": 3324644,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "He puts Bohemia on the seacoast",
+    "prefix": "n history?\n\n—That was Will's way, John Eglinton defended. We should not now combine a Norse saga with an excerpt from a novel by George Meredith. Que voulez-vous? Moore would say. ",
+    "suffix": " and makes Ulysses quote Aristotle.\n\n—Why? Stephen answered himself. Because the theme of the false or the usurping or the adulterous brother or all three in one is to Shakespeare,",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.8857
+  },
+  "genius": {
+    "referent_id": 3324644,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-6924655",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Amplius. In societate humana hoc est maxime necessarium ut sit amicitia inter multos.",
+  "html_source": "<p>Latin, attributed to St. Thomas Aquinas:</p><p>“Moreover, in human society it is of the utmost necessity that there be friendship among many people.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6924655/James-joyce-ulysses-chap-9-scylla-and-charybdis/Amplius-in-societate-humana-hoc-est-maxime-necessarium-ut-sit-amicitia-inter-multos",
+    "original_id": "6924655",
+    "referent_id": 6924655,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Amplius. In societate humana hoc est maxime necessarium ut sit amicitia inter multos.",
+    "prefix": "as made in Germany, Stephen replied, as the champion French polisher of Italian scandals. \n\n — A myriadminded man, Mr Best reminded. Coleridge called him myriadminded. \n\n1986#168\n\n",
+    "suffix": " \n\n — Saint Thomas, Stephen began... \n\n — Ora pro nobis, Monk Mulligan groaned, sinking to a chair. \n\n There he keened a wailing rune. \n\n — Pogue mahone! Acushla machree! It's dest",
+    "start": 44077,
+    "end": 44162,
+    "canonical_text": "Amplius. In societate humana hoc est maxime necessarium ut sit amicitia inter multos."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6924655,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1835164,
+        "login": "AdamKadmon",
+        "name": "AdamKadmon",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

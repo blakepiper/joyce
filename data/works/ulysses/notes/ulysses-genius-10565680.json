@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10565680",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Schooner Hesperus",
+  "html_source": "<p><a href=\"https://www.poetryfoundation.org/poems-and-poets/poems/detail/44654\" rel=\"noopener nofollow\">https://www.poetryfoundation.org/poems-and-poets/poems/detail/44654</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10565680/James-joyce-ulysses-chap-16-eumaeus/Schooner-hesperus",
+    "original_id": "10565680",
+    "referent_id": 10565680,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "schooner Hesperus",
+    "prefix": " meeting unmistakable mugs, Dublin residents, like those jarvies waiting news from abroad, would tempt any ancient mariner who sailed the ocean seas to draw the long bow about the ",
+    "suffix": " and etcetera. And when all was said and done, the lies a fellow told about himself couldn't probably hold a proverbial candle to the wholesale whoppers other fellows coined about ",
+    "start": 57021,
+    "end": 57038,
+    "canonical_text": "schooner Hesperus"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10565680,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

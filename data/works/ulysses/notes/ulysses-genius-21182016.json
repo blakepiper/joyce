@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21182016",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Arrivederla, maestro, Stephen said, raising his hat when his hand was freed. E grazie",
+  "html_source": "<p>Italian: “Goodbye maestro. And thanks.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21182016/James-joyce-ulysses-chap-10-wandering-rocks/Arrivederla-maestro-stephen-said-raising-his-hat-when-his-hand-was-freed-e-grazie",
+    "original_id": "21182016",
+    "referent_id": 21182016,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Arrivederla, maestro, Stephen said, raising his hat when his hand was freed. E grazie",
+    "prefix": "gazed curiously an instant and turned quickly towards a Dalkey tram. \n\n— Eccolo, Almidano Artifoni said in friendly haste. Venga a trovarmi e ci pensi. Addio, caro. \n\n1961#228\n\n — ",
+    "suffix": ". \n\n1922#219\n\n — Di che? Almidano Artifoni said. Scusi, eh? Tante belle cose! \n\n Almidano Artifoni, holding up a baton of rolled music as a signal, trotted on stout trousers after ",
+    "start": 20478,
+    "end": 20563,
+    "canonical_text": "Arrivederla, maestro, Stephen said, raising his hat when his hand was freed. E grazie"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21182016,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

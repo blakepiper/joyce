@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4701812",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "A. E. has been telling some yankee interviewer.",
+  "html_source": "<p><a href=\"https://genius.com/4701796\" rel=\"noopener nofollow\">Stephen recalls O'Molloy’s statement from earlier that day.</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4701812/James-joyce-ulysses-chap-9-scylla-and-charybdis/A-e-has-been-telling-some-yankee-interviewer",
+    "original_id": "4701812",
+    "referent_id": 4701812,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "A. E. has been telling some yankee interviewer.",
+    "prefix": "Shelley, the words of Hamlet bring our minds into contact with the eternal 1932#165wisdom, Plato's world of ideas. All the rest is the speculation of schoolboys for schoolboys. \n\n ",
+    "suffix": " Wall, tarnation strike me! \n\n — The schoolmen were schoolboys first, Stephen said superpolitely. Aristotle was once Plato's schoolboy. \n\n — And has remained so, one should hope, J",
+    "start": 2920,
+    "end": 2967,
+    "canonical_text": "A. E. has been telling some yankee interviewer."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4701812,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

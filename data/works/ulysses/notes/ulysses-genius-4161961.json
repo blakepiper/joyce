@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4161961",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "The whitemaned seahorses",
+  "html_source": "<p>The forms-turning-into-creatures theme of <em>Proteus</em>.</p><p><img src=\"https://images.rapgenius.com/5af3162e3bfd7aaa7cded354a14ecf0d.396x310x1.jpg\" alt=\"\" /></p><p>Source for picture: [<a href=\"http://www.joyceproject.com/\" rel=\"noopener nofollow\">http://www.joyceproject.com</a>]</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4161961/James-joyce-ulysses-chap-3-proteus/The-whitemaned-seahorses",
+    "original_id": "4161961",
+    "referent_id": 4161961,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "The whitemaned seahorses",
+    "prefix": ", stalled upon his throne, widower of a widowed see, with upstiffed omophorion, with clotted hinderparts. \n\n Airs romped round him, nipping and eager airs. They are coming, waves. ",
+    "suffix": ", champing, brightwindbridled, the steeds of Mananaan. \n\n I mustn't forget his letter for the press. And after? The Ship, half twelve. By the way go easy with that money like a goo",
+    "start": 3611,
+    "end": 3635,
+    "canonical_text": "The whitemaned seahorses"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4161961,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.5138888888888888
+      },
+      {
+        "id": 1209714,
+        "login": "AlexBeston",
+        "name": "AlexBeston",
+        "role": "contributor",
+        "attribution": 0.48611111111111116
+      }
+    ]
+  },
+  "color": "F59627"
+}

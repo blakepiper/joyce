@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8813780",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Understood",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/1eb19d75e541240890b731e9607e1125.1000x720x1.png\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8813780/James-joyce-ulysses-chap-8-lestrygonians/Understood",
+    "original_id": "8813780",
+    "referent_id": 8813780,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "understood",
+    "prefix": "led eyes. Think no more about that. After one. Timeball on the ballastoffice is down. Dunsink time. Fascinating little book that is of sir Robert Ball's. Parallax. I never exactly ",
+    "suffix": ". There's a priest. Could ask him. Par it's Greek: parallel, parallax. Met him pike hoses she called it till I told her about the transmigration. O rocks! \n\n Mr Bloom smiled O rock",
+    "start": 6604,
+    "end": 6614,
+    "canonical_text": "understood"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8813780,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

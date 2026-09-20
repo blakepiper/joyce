@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4162152",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Monstrance",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/c8aea196819275ae6a14d49e28598cd5.374x500x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4162152/James-joyce-ulysses-chap-3-proteus/Monstrance",
+    "original_id": "4162152",
+    "referent_id": 4162152,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "monstrance",
+    "prefix": " to their brains? Paff! Descende, calve, ut ne nimium decalveris. A garland of grey hair on his comminated head see him me clambering down to the footpace (descende!), clutching a ",
+    "suffix": ", basiliskeyed. Get down, bald poll! A choir gives back menace and echo, assisting about the altar's horns, the snorted Latin of jackpriests moving burly in their albs, tonsured an",
+    "start": 6946,
+    "end": 6956,
+    "canonical_text": "monstrance"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4162152,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1209714,
+        "login": "AlexBeston",
+        "name": "AlexBeston",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

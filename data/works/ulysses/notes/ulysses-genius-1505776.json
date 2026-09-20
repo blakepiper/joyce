@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1505776",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Goldpinnacled hair.",
+  "html_source": "<p>2nd reference to gold – read blond – haired barmaid <a href=\"https://genius.com/1368942/James-joyce-episode-11-sirens/Bronze-by-gold\" rel=\"noopener nofollow\">Mina Kennedy</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1505776/James-joyce-ulysses-chap-11-sirens/Goldpinnacled-hair",
+    "original_id": "1505776",
+    "referent_id": 1505776,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Goldpinnacled hair.",
+    "prefix": "inging. \n\n Imperthnthn thnthnthn. \n\n Chips, picking chips off rocky thumbnail, chips. \n\n Horrid! And gold flushed more. \n\n A husky fifenote blew. \n\n Blew. Blue bloom is on the. \n\n ",
+    "suffix": " \n\n A jumping rose on satiny breasts of satin, rose of Castile. \n\n Trilling, trilling: Idolores. \n\n Peep! Who's in the... peepofgold? \n\n Tink cried to bronze in pity. \n\n1932#229\n\n ",
+    "start": 233,
+    "end": 252,
+    "canonical_text": "Goldpinnacled hair."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1505776,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 68632,
+        "login": "SvenTheVegabond",
+        "name": "SvenTheVegabond",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

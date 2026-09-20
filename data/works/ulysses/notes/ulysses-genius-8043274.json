@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8043274",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Brutus is an honourable man.",
+  "html_source": "<p>Repeated line in Mark Antony’s speech from III.ii of Shakespeare’s Julius Caesar. In the play Antony’s speech parodies Brutus’s preceding speech to demonstrate the dishonorable nature of Brutus and co.’s murder of Julius Caesar; the repeated use of the phrase “Brutus is an honourable man” is highly sarcastic. The purpose of the reference here is similarly sarcastic, mocking the pliability of “reserved” women’s innocence.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8043274/James-joyce-ulysses-chap-5-lotus-eaters/Brutus-is-an-honourable-man",
+    "original_id": "8043274",
+    "referent_id": 8043274,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Brutus is an honourable man.",
+    "prefix": "0pockets. Like that haughty creature at the polo match. Women all for caste till you touch the spot. Handsome is and handsome does. Reserved about to yield. The honourable Mrs and ",
+    "suffix": " Possess her once take the starch out of her. \n\n1961#73\n\n — I was with Bob Doran, he's on one of his periodical bends, and what do you call him Bantam Lyons. Just down there in Con",
+    "start": 6845,
+    "end": 6873,
+    "canonical_text": "Brutus is an honourable man."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8043274,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2399140,
+        "login": "jsontaber",
+        "name": "jsontaber",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

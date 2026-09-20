@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8577128",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Sheila, my own",
+  "html_source": "<p>Emmet’s fiance’s name was actually Sara Curran. “Sheila, my own,” or “Sheila-ni-Gara, is a figurative name for Ireland. Seumas MacManus, under the pseudonym Ethna Carberyr, wrote a poem so entitled. The last lines: \"Long is our hunger for your voice – the hour is drawing near – / O Dark Rose of Our Passion! call and our hearts shall here.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8577128/James-joyce-ulysses-chap-12-cyclops/Sheila-my-own",
+    "original_id": "8577128",
+    "referent_id": 8577128,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Sheila, my own",
+    "prefix": "ers and flung herself upon the muscular bosom of him who was about to be launched into eternity for her sake. The hero folded her willowy form in a loving embrace murmuring fondly ",
+    "suffix": ". Encouraged by this use of her christian name she kissed passionately all the various suitable areas of his person which the decencies of prison garb permitted her ardour to reach",
+    "start": 41163,
+    "end": 41177,
+    "canonical_text": "Sheila, my own"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8577128,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

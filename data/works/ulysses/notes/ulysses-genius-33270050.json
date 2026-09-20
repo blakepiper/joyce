@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33270050",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Which",
+  "html_source": "<p>Drunk Stephen continued to spout shite!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33270050/James-joyce-ulysses-chap-14-oxen-of-the-sun/Which",
+    "original_id": "33270050",
+    "referent_id": 33270050,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Which",
+    "prefix": "Church belike at one blow had birth and death pence and in such sort deliverly he scaped their questions. That is truth, pardy, said Dixon, and, or I err, a pregnant word. 1986#319",
+    "suffix": " hearing young Stephen was a marvellous glad man and he averred that he who stealeth from the poor lendeth 1922#372to the Lord for he was of a wild manner when he was drunken and t",
+    "start": 18484,
+    "end": 18489,
+    "canonical_text": "Which"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9425
+  },
+  "genius": {
+    "referent_id": 33270050,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

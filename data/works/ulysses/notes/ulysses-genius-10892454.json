@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10892454",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "N. IGS./WI.UU. OX/W. OKS. MH/Y. IM",
+  "html_source": "<p>reversed alphabetic where A=Z, B=Y, C=X, etc.<br />all vowels are represented by dots<br />boustrophedontic where the first line reads left to right, second line reads right to left, etc.</p><p>N.IGS. translates to M.RTH.<br />WI.UU.OX translates to DR.FF.LC<br />W.OKS.MH translates to D.LPH.NS<br />Y.IM translates to B.RN although it seems that it should be reversed (MI.Y) like the second line</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10892454/James-joyce-ulysses-chap-17-ithaca/N-igs-wiuu-ox-w-oks-mh-y-im",
+    "original_id": "10892454",
+    "referent_id": 10892454,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "N. IGS./WI.UU. OX/W. OKS. MH/Y. IM",
+    "prefix": " Dolphin's Barn: the transliterated name and address of the addresser of the 3 letters in reversed alphabetic boustrophedonic punctated quadrilinear cryptogram (vowels suppressed) ",
+    "suffix": ": a press cutting from an English weekly periodical Modern Society, subject corporal chastisement in girls' schools: a pink ribbon which had festooned an Easter egg in the year 189",
+    "start": 114277,
+    "end": 114313,
+    "canonical_text": "N. IGS. /WI. UU. OX/W. OKS. MH/Y. IM"
+  },
+  "provenance": {
+    "match_method": "compact-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 10892454,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

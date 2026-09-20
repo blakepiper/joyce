@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3340483",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Meister",
+  "html_source": "<p>Goethe’s Novel <em>William Meister’s Apprentice</em>, which is a reflection on Shakespeare.</p><p><img src=\"https://images.rapgenius.com/56a0d9380e4e6a271e033734d9c90b3e.500x597x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3340483/James-joyce-ulysses-chap-9-scylla-and-charybdis/Meister",
+    "original_id": "3340483",
+    "referent_id": 3340483,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Meister",
+    "prefix": "\n\n[9]\n\n\n\nUrbane, to comfort them, the quaker librarian purred: \n\n — And we have, have we not, those priceless pages of Wilhelm ",
+    "suffix": "? A great poet on a great brother poet. A hesitating soul taking arms against a sea of troubles, torn by conflicting doubts, as one sees in real life. \n\n He came a step a sinkapace",
+    "start": 127,
+    "end": 134,
+    "canonical_text": "Meister"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3340483,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

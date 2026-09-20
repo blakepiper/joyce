@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4876756",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "We feel in England.",
+  "html_source": "<p>Stephen is remembering something Haines said to him earlier in <a href=\"https://genius.com/4953410/James-joyce-ulysses-chap-1-telemachus/We-feel-in-england-that-we-have-treated-you-rather-unfairly#\" rel=\"noopener nofollow\">Chapter 1:</a></p><blockquote><p>We feel in England that we have treated you rather unfairly. It seems history is to blame.</p></blockquote>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4876756/James-joyce-ulysses-chap-9-scylla-and-charybdis/We-feel-in-england",
+    "original_id": "4876756",
+    "referent_id": 4876756,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "We feel in England.",
+    "prefix": "orth, my booklet, quick \nTo greet the callous public. \nWrit, I ween, 'twas not my wish \nIn lean unlovely English. \n\n — The peatsmoke is going to his head, John Eglinton opined. \n\n ",
+    "suffix": " Penitent thief. Gone. I smoked his baccy. Green twinkling stone. An emerald set in the ring of the sea. \n\n — People do not know how dangerous lovesongs can be, the auric egg of Ru",
+    "start": 5701,
+    "end": 5720,
+    "canonical_text": "We feel in England."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4876756,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1482232,
+        "login": "JayEn",
+        "name": "JayEn",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

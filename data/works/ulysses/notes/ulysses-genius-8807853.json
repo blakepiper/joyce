@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8807853",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Liliata rutilantium te confessorum...\n Iubilantium te virginum...",
+  "html_source": "<p>“May the glittering throng of confessors, bright as lilies, gather about you. May the glorious choir of virgins receive you.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8807853/James-joyce-ulysses-chap-15-circe/Liliata-rutilantium-te-confessorum-iubilantium-te-virginum",
+    "original_id": "8807853",
+    "referent_id": 8807853,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Liliata rutilantium te confessorum...\n Iubilantium te virginum...",
+    "prefix": "es her bluecircled hollow eyesockets on Stephen and opens her toothless mouth uttering a silent word. A choir of virgins and confessors sing voicelessly.) \n\n1961#579\n\n THE CHOIR \n\n",
+    "suffix": " \n\n(From the top of a tower Buck Mulligan, in particoloured jester's dress of puce and yellow and clown's cap with curling bell, stands gaping at her, a smoking buttered split scon",
+    "start": 203995,
+    "end": 204060,
+    "canonical_text": "Liliata rutilantium te confessorum... \nIubilantium te virginum..."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 8807853,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

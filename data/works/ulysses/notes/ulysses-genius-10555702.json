@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10555702",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "White thy fambles, red thy gan\n And thy quarrons dainty is.\n Couch a hogshead with me then.\n In the darkmans clip and kiss.",
+  "html_source": "<p>From ‘The Rogue’s Delight in Praise of his Strolling Mort.’ by Richard Head</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10555702/James-joyce-ulysses-chap-3-proteus/White-thy-fambles-red-thy-gan-and-thy-quarrons-dainty-is-couch-a-hogshead-with-me-then-in-the-darkmans-clip-and-kiss",
+    "original_id": "10555702",
+    "referent_id": 10555702,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "White thy fambles, red thy gan\n And thy quarrons dainty is.\n Couch a hogshead with me then.\n In the darkmans clip and kiss.",
+    "prefix": " of Blackpitts. Buss her, wap in rogues' rum lingo, for, O, my dimber wapping dell! A shefiend's whiteness under her rancid rags. Fumbally's lane that night: the tanyard smells. \n\n",
+    "suffix": " \n\n1932#43\n\n Morose delectation Aquinas tunbelly calls this, frate porcospino. Unfallen Adam rode and not rutted. Call away let him: thy quarrons dainty is. Language no whit worse ",
+    "start": 24660,
+    "end": 24783,
+    "canonical_text": "White thy fambles, red thy gan \nAnd thy quarrons dainty is. \nCouch a hogshead with me then. \nIn the darkmans clip and kiss."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 10555702,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

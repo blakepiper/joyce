@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-8793232",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "That fellow would lose his job then?",
+  "html_source": "<p>Switchmen still have jobs in railyards.</p><p>If you worked as a Switchman in the 1850s, you would throw these switches by hand, and they could be quite heavy. Now, you use computers and hydraulic engines to move the switches from one position to another.</p><p>PROPOSED SUGGESTION: @DonFordham If you’re going to quote another source—in this case, <a href=\"http://www.insidejobs.com/careers/switchman\" rel=\"noopener nofollow\">from here</a>—can you please provide links, or at least an acknowledgement? I don’t want to reject your annotations in which you’ve done this, because a lot of them are very interesting and valuable, but I also don’t want to have to check every one to see whether the phrasing is borrowed from another source. <a href=\"https://genius.com/4478979\" rel=\"noopener nofollow\">See here</a>—and the rest of the page on which it appears—for a basic guide to linking sources in annotations, and also for some guidelines on making annotations.</p><p>Fundamental rules: use quotation marks around material taken from other sources, and provide a specific link or identification so that other users will always be able to find the original source. Otherwise it’s straightforward plagiarism.</p><p>(It also points out to other users some interesting things to read and explore themselves.) Do send me a message if you have any questions, etc. :)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8793232/James-joyce-ulysses-chap-6-hades/That-fellow-would-lose-his-job-then",
+    "original_id": "8793232",
+    "referent_id": 8793232,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "that fellow would lose his job then?",
+    "prefix": "raightened itself upright suddenly against a tramway standard by Mr Bloom's window. Couldn't they invent something automatic 1922#88so that the wheel itself much handier? Well but ",
+    "suffix": " Well but then another fellow would get a job making the new invention? \n\n Antient concert rooms. Nothing on there. A man in a buff1961#91 suit with a crape armlet. Not much grief ",
+    "start": 10279,
+    "end": 10315,
+    "canonical_text": "that fellow would lose his job then?"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8793232,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.7777777777777777
+      },
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.21256038647342992
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.00966183574879227
+      }
+    ]
+  },
+  "color": "F59627"
+}

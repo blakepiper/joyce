@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4890164",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "—Heart of my heart, were it more,\n More would be laid at your feet.",
+  "html_source": "<p>Mulligan is quoting from Swinburne, again. This time from the poem “The Oblation”</p><p><a href=\"https://genius.com/4890164\" rel=\"noopener nofollow\">Ask nothing more of me, sweet;<br />All I can give you I give.<br />Heart of my heart, were it more,<br />More would be laid at your feet—<br />Love that should help you to live,<br />Song that should spur you to soar.</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4890164/James-joyce-ulysses-chap-1-telemachus/Heart-of-my-heart-were-it-more-more-would-be-laid-at-your-feet",
+    "original_id": "4890164",
+    "referent_id": 4890164,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "—Heart of my heart, were it more,\n More would be laid at your feet.",
+    "prefix": "e twopence, he said. \n\n — Time enough, sir, she said, taking the coin. Time enough. Good morning, sir. \n\n She curtseyed and went out, followed by Buck Mulligan's tender chant: \n\n— ",
+    "suffix": " \n\n He turned to Stephen and said: \n\n — Seriously, Dedalus. I'm stony. Hurry out to your school kip and bring us back some money. Today the bards must drink and junket. Ireland exp",
+    "start": 26165,
+    "end": 26231,
+    "canonical_text": "Heart of my heart, were it more, \nMore would be laid at your feet."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4890164,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1520984,
+        "login": "RedSwanHotel",
+        "name": "RedSwanHotel",
+        "role": "contributor",
+        "attribution": 0.8888888888888888
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.1111111111111111
+      }
+    ]
+  },
+  "color": "F59627"
+}

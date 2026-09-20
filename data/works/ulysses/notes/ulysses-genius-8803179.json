@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8803179",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Gage",
+  "html_source": "Definition of gage   a token of defiance; specifically :  a glove or cap cast on the ground to be taken up by an opponent as a pledge of combat",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8803179/James-joyce-ulysses-chap-7-aeolus/Gage",
+    "original_id": "8803179",
+    "referent_id": 8803179,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "gage",
+    "prefix": ", underdarkneath the night: mouth south: tomb womb. \n\n — Speak up for yourself, Mr O'Madden Burke said. \n\n SUFFICIENT FOR THE DAY... \n\n J. J. O'Molloy, smiling palely, took up the ",
+    "suffix": ". \n\n — My dear Myles, he said, flinging his cigarette aside, you put a false construction on my words. I hold no brief, as at1961#138 present advised, for the third profession qua ",
+    "start": 39822,
+    "end": 39826,
+    "canonical_text": "gage"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9535
+  },
+  "genius": {
+    "referent_id": 8803179,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

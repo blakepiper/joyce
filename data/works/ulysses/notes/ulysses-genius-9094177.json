@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9094177",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "City hall",
+  "html_source": "<p>On Cork Hill, the seat of Dublin’s municipal government is adjacent to the Castle. Cunningham and company are passing the front of the building when Nannetti appears.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9094177/James-joyce-ulysses-chap-10-wandering-rocks/City-hall",
+    "original_id": "9094177",
+    "referent_id": 9094177,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "City hall",
+    "prefix": "ward. \n\n — Boyd? Martin Cunningham said shortly. Touch me not. \n\n John Wyse Nolan, lagging behind, reading the list, came after them quickly down Cork hill. \n\n On the steps of the ",
+    "suffix": " Councillor Nannetti, descending, hailed Alderman Cowley and Councillor Abraham Lyon ascending. \n\n The castle car wheeled empty into upper Exchange street. \n\n — Look here, Martin, ",
+    "start": 55773,
+    "end": 55782,
+    "canonical_text": "City hall"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9094177,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083730,
+        "login": "mburkert",
+        "name": "mburkert",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

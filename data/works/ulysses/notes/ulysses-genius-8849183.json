@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8849183",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Separatio a mensa et a thalamo",
+  "html_source": "<p>Separate meals and bedrooms</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8849183/James-joyce-ulysses-chap-9-scylla-and-charybdis/Separatio-a-mensa-et-a-thalamo",
+    "original_id": "8849183",
+    "referent_id": 8849183,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Separatio a mensa et a thalamo",
+    "prefix": " if he wished her to snore away the rest of her nights in peace? \n\n — It is clear that there were two beds, a best and a secondbest, Mr Secondbest Best said finely. \n\n1961#203\n\n — ",
+    "suffix": ", bettered Buck Mulligan and was smiled on. \n\n — Antiquity mentions famous beds, Second Eglinton puckered, bedsmiling. Let me think. \n\n — Antiquity mentions that Stagyrite schoolur",
+    "start": 40782,
+    "end": 40812,
+    "canonical_text": "Separatio a mensa et a thalamo"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8849183,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

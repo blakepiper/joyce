@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15149603",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Orgulous",
+  "html_source": "<p><a href=\"https://en.wiktionary.org/wiki/orgulous\" rel=\"noopener nofollow\">Orgulous</a> means proud or haughty (or disdainful); here it seems to be used as an adverb.</p><p>I remember from my high school Spanish class that orguloso means proud! But the etymology does not mention this:<br />From Middle English orgulous, orgeilous, from Old French orgueilleus, orgoillus (“proud”), from orgoill, orgueil (“pride”), from Old Low Frankish *urgol (“pride”). Cognate with Old High German urguol (“excellent”), Old English orgel (“pride”). More at orgul.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15149603/James-joyce-ulysses-chap-14-oxen-of-the-sun/Orgulous",
+    "original_id": "15149603",
+    "referent_id": 15149603,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "orgulous",
+    "prefix": "urst laugh too open by reason of a strange humour which he would not bewray and also for that he rued for her that bare whoso she might be or wheresoever. Then spoke young Stephen ",
+    "suffix": " of mother Church that 1961#389would cast him out of her bosom, of law of canons, of Lilith, patron of abortions, 1932#352of bigness wrought by wind of seeds of brightness or by po",
+    "start": 17051,
+    "end": 17059,
+    "canonical_text": "orgulous"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15149603,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

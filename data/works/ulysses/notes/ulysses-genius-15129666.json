@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15129666",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Each of the four masters",
+  "html_source": "<p>In the 1630s, four individuals working at a Franciscan friary compiled a chronicle of Irish history from the deluge up to 1616 in what came to be known as the <a href=\"https://en.wikipedia.org/wiki/Annals_of_the_Four_Masters\" rel=\"noopener nofollow\">Annals of the Four Masters</a>. Joyce gave each of the masters a symbol akin to that of each of the Four Evangelists. These symbols feature more prominently in Finnegan’s Wake.</p><p>From the Wikipedia article:<br />The chief compiler of the annals was (1) Brother Mícheál Ó Cléirigh from Ballyshannon, who was assisted by, among others, (2) Cú Choigcríche Ó Cléirigh, (3) Fearfeasa Ó Maol Chonaire and<br />(4) Peregrine Ó Duibhgeannain. Although only one of the authors, Mícheál Ó Cléirigh, was a Franciscan friar, they became known as ‘The Four Friars’ or in the original Irish, Na Ceithre Máistrí.</p><p>*The note on page 1077 (431.1) in the Penguin Classics Annotated Students Edition is completely incorrect.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15129666/James-joyce-ulysses-chap-12-cyclops/Each-of-the-four-masters",
+    "original_id": "15129666",
+    "referent_id": 15129666,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "each of the four masters",
+    "prefix": "331admiration. No need to dwell on the legendary beauty of the cornerpieces, the acme of art, wherein one can distinctly discern each of the four evangelists in turn presenting to ",
+    "suffix": " his evangelical symbol, a bogoak sceptre, a North American puma (a far nobler king of beasts than the British article, be it said in passing), a Kerry calf and a golden eagle from",
+    "start": 92255,
+    "end": 92279,
+    "canonical_text": "each of the four masters"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15129666,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

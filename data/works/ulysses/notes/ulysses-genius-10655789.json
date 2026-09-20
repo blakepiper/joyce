@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10655789",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Lock Hospital",
+  "html_source": "<p><a href=\"http://oldmooresalmanac.com/the-history-of-us/the-lock-hospital-keeping-dublins-dirty-secrets/\" rel=\"noopener nofollow\">http://oldmooresalmanac.com/the-history-of-us/the-lock-hospital-keeping-dublins-dirty-secrets/</a><br /> The Lock was founded in 1792 and was one of the few establishments catering for venereal disease.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10655789/James-joyce-ulysses-chap-16-eumaeus/Lock-hospital",
+    "original_id": "10655789",
+    "referent_id": 10655789,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Lock Hospital",
+    "prefix": "as no more of her. \n\n — The gunboat, the keeper said. \n\n1961#632\n\n — It beats me, Mr Bloom confided to Stephen, medically I am speaking, how a wretched creature like that from the ",
+    "suffix": ", reeking with disease, can be barefaced enough to solicit or how any man in his sober senses, if he values his health in the least. Unfortunate creature! Of course, I suppose some",
+    "start": 48961,
+    "end": 48974,
+    "canonical_text": "Lock hospital"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 10655789,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

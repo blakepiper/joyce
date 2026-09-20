@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5029068",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "No grace for the carver.",
+  "html_source": "<p>No grace for the carver</p><p>Gifford:</p><p>8.471 (164:11). No grace for the carver – A pun on “grace,” the blessing that precedes a meal and the time allowed a debtor to pay his debts. In effect, the person who carves will have little or no time to eat before he has to carve again for those who want second helpings.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5029068/James-joyce-ulysses-chap-8-lestrygonians/No-grace-for-the-carver",
+    "original_id": "5029068",
+    "referent_id": 5029068,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "No grace for the carver.",
+    "prefix": "Here's a good lump of thyme seasoning under the apron for you. Have another quart of goosegrease before it gets too cold. Halffed enthusiasts. Penny roll and a walk with the band. ",
+    "suffix": " The thought that the other chap pays best sauce in the world. Make themselves thoroughly at 1932#145home. Show us over those apricots, meaning peaches. The not far distant day. Ho",
+    "start": 29566,
+    "end": 29590,
+    "canonical_text": "No grace for the carver."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5029068,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1492497,
+        "login": "NilsARaknerud",
+        "name": "NilsARaknerud",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

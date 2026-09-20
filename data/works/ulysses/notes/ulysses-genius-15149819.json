@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15149819",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Got in peasestraw",
+  "html_source": "<p>That is, conceived in a pile of hay (peasestraw refers to straw/hay from pea plants)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15149819/James-joyce-ulysses-chap-14-oxen-of-the-sun/Got-in-peasestraw",
+    "original_id": "15149819",
+    "referent_id": 15149819,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "got in peasestraw",
+    "prefix": "rudeness some and shaked him with menace of blandishments others whiles they all chode with him, a murrain seize the dolt, what a devil he would be at, thou chuff, thou puny, thou ",
+    "suffix": ", thou losel, thou chitterling, thou spawn of a rebel, thou dykedropt, thou abortion thou, to shut up his drunken drool out of that like a curse of God ape, the good sir Leopold th",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.8718
+  },
+  "genius": {
+    "referent_id": 15149819,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

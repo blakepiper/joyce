@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-9091681",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Moses Maimonides",
+  "html_source": "<p>Moses Maimonides, original name Moses Ben Maimon, also called Rambam, Arabic name Abū ʿImran Mūsā ibn Maymūn ibn ʿUbayd Allāh (born March 30, 1135, Córdoba [Spain]—died Dec. 13, 1204, Egypt) Jewish philosopher, jurist, and physician, the foremost intellectual figure of medieval Judaism.<br />Encyclopedia Britannica.</p><p>See   <a href=\"https://www.bbc.co.uk/programmes/b00yjqz3\" rel=\"noopener nofollow\">https://www.bbc.co.uk/programmes/b00yjqz3</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9091681/James-joyce-ulysses-chap-14-oxen-of-the-sun/Moses-maimonides",
+    "original_id": "9091681",
+    "referent_id": 9091681,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Moses Maimonides",
+    "prefix": "dent or by the reek of moonflower or an she lie with a woman which her man has but lain with, effectu secuto, or peradventure in her bath according to the opinions of Averroes and ",
+    "suffix": ". He said also how at the end of the second month a human soul was infused and how in all our holy mother foldeth ever souls for God's greater glory whereas that earthly mother whi",
+    "start": 17504,
+    "end": 17520,
+    "canonical_text": "Moses Maimonides"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9091681,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.5921052631578947
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.40789473684210525
+      }
+    ]
+  },
+  "color": "F59627"
+}

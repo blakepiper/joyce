@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-7141405",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Tripping and sunny like the buck himself.",
+  "html_source": "<p>While his name Malachi Mulligan reflects the dactylic hexameter of Homer, Buck describes his name and himself in the iambic pentameter of Shakespeare.</p><p>PROPOSED SUGGESTION: “Tripping and sunny like the buck himself”, if you mean to suggest this self-description is an iambic pantameter—well it’s not: it’s a pentameter, sure, but it’s actually a fairly equal balance of trochaic (“<strong>Tripp</strong>ing”, “<strong>sunn</strong>y”) and iambic (“the <strong>buck</strong>”, “him<strong>self</strong>”). Still, very good attention to detail for noting that this sentence does have 10 syllables; I didn’t realise.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7141405/James-joyce-ulysses-chap-1-telemachus/Tripping-and-sunny-like-the-buck-himself",
+    "original_id": "7141405",
+    "referent_id": 7141405,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Tripping and sunny like the buck himself.",
+    "prefix": " bowl and lathered cheeks and neck. \n\n Buck Mulligan's gay voice went on. \n\n1939#5\n\n — My name is absurd too: Malachi Mulligan, two dactyls. But it has a Hellenic ring, hasn't it? ",
+    "suffix": " We must go to Athens. Will you come if I can get the aunt to fork out twenty quid? \n\n He laid the brush aside and, laughing with delight, cried: \n\n — Will he come? The jejune jesu",
+    "start": 2477,
+    "end": 2518,
+    "canonical_text": "Tripping and sunny like the buck himself."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 7141405,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.7191011235955057
+      },
+      {
+        "id": 1773543,
+        "login": "IanT",
+        "name": "IanT",
+        "role": null,
+        "attribution": 0.2584269662921348
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.022471910112359553
+      }
+    ]
+  },
+  "color": "F59627"
+}

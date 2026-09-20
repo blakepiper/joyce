@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8433896",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Tenebrosity",
+  "html_source": "<p>Tenebrosity – the quality of being dark or shadowy.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8433896/James-joyce-ulysses-chap-14-oxen-of-the-sun/Tenebrosity",
+    "original_id": "8433896",
+    "referent_id": 8433896,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "tenebrosity",
+    "prefix": "on and my sun thou hast quenched for ever. And thou hast left me alone for ever in the dark ways of my bitterness: and with a kiss of ashes 1922#375hast thou kissed my mouth. This ",
+    "suffix": " of the interior, he proceeded to say, hath not been illumined by 1961#393the wit of the septuagint nor so much as mentioned for the Orient from on high which brake hell's gates vi",
+    "start": 27106,
+    "end": 27117,
+    "canonical_text": "tenebrosity"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8433896,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-1872209",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Moses Herzog",
+  "html_source": "<p>Though not explicitly stated, the main character in Saul Bellow’s novel <a href=\"http://en.wikipedia.org/wiki/Herzog_%28novel%29\" rel=\"noopener nofollow\">Herzog</a> is named Moses E. Herzog and is likely a reference to this character. Thom’s does not mention a Moses Herzog as a merchant but does list a residence named Herzog and identifies him as a “an authentic one-eyed Dublin Jew.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1872209/James-joyce-ulysses-chap-12-cyclops/Moses-herzog",
+    "original_id": "1872209",
+    "referent_id": 1872209,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Moses Herzog",
+    "prefix": "as just giving me a wrinkle about him—lifted any God's quantity of tea and sugar to pay three bob a week said he had a farm in the county Down off a hop-of-my-thumb by the name of ",
+    "suffix": " over there near Heytesbury street. \n\n — Circumcised? says Joe. \n\n — Ay, says I. A bit off the top. An old plumber named Geraghty. I'm hanging on to his taw now for the past fortni",
+    "start": 1021,
+    "end": 1033,
+    "canonical_text": "Moses Herzog"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 1872209,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 176532,
+        "login": "biblicalmike",
+        "name": "Michael Bible",
+        "role": "verified_artist",
+        "attribution": 0.8461538461538461
+      },
+      {
+        "id": 211351,
+        "login": "prepski",
+        "name": "prepski",
+        "role": "contributor",
+        "attribution": 0.15384615384615385
+      }
+    ]
+  },
+  "color": "F59627"
+}

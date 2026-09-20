@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2486822",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Very like a whale.",
+  "html_source": "<p>A reference to <a href=\"http://en.wikipedia.org/wiki/Hamlet\" rel=\"noopener nofollow\">Hamlet</a>, act 3 scene 2, where Prince Hamlet and Polonius are considering the shape of a cloud. Initially, Prince Hamlet notes it to resemble a camel, then a weasel, then a whale, all of which Polonius fervently affirmed. These, of course, look nothing alike in any manner, all of which to mock Polonius.</p><p><img src=\"https://images.rapgenius.com/e4c2adc8e8be26c9eb98b633ccf3c503.1000x750x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2486822/James-joyce-ulysses-chap-3-proteus/Very-like-a-whale",
+    "original_id": "2486822",
+    "referent_id": 2486822,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "very like a whale.",
+    "prefix": "you died to all the great libraries of the world, including Alexandria? Someone was to read them there after a few thousand years, a mahamanvantara. Pico della Mirandola like. Ay, ",
+    "suffix": " When 1939#32one reads these strange pages of one long gone one feels that one is at one with one who once... \n\n The grainy sand had gone from under his feet. His boots trod again ",
+    "start": 8949,
+    "end": 8967,
+    "canonical_text": "very like a whale."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2486822,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

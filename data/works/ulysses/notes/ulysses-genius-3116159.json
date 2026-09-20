@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-3116159",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Fubsy",
+  "html_source": "<p><a href=\"http://ianchadwick.com/blog/saving-fubsy-from-lexicographical-caliginosity/\" rel=\"noopener nofollow\">This word has its own fan club</a>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3116159/James-joyce-ulysses-chap-3-proteus/Fubsy",
+    "original_id": "3116159",
+    "referent_id": 3116159,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "fubsy",
+    "prefix": "int. Isle of saints. You were awfully holy, weren't you? You prayed to the Blessed Virgin that you might not have a red nose. You prayed to the devil in Serpentine avenue that the ",
+    "suffix": " widow in front might lift her clothes still more from the wet street. O si, certo! Sell your soul for that, do, dyed rags pinned round a squaw. More tell me, more still!! On the t",
+    "start": 7999,
+    "end": 8004,
+    "canonical_text": "fubsy"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3116159,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.8571428571428571
+      },
+      {
+        "id": 38163,
+        "login": "HailTheKing",
+        "name": "HailTheKing",
+        "role": "contributor",
+        "attribution": 0.14285714285714288
+      }
+    ]
+  },
+  "color": "F59627"
+}

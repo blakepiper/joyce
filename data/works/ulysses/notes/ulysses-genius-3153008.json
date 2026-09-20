@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3153008",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Hoopsa boyaboy hoopsa! Hoopsa boyaboy hoopsa! Hoopsa boyaboy hoopsa!",
+  "html_source": "<p>A midwife’s prayer after the birth of a male child.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3153008/James-joyce-ulysses-chap-14-oxen-of-the-sun/Hoopsa-boyaboy-hoopsa-hoopsa-boyaboy-hoopsa-hoopsa-boyaboy-hoopsa",
+    "original_id": "3153008",
+    "referent_id": 3153008,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Hoopsa boyaboy hoopsa! Hoopsa boyaboy hoopsa! Hoopsa boyaboy hoopsa!",
+    "prefix": "ight one, Horhorn, quickening and wombfruit. Send us bright one, light one, Horhorn, quickening and wombfruit. Send us bright one, light one, Horhorn, quickening and wombfruit. \n\n ",
+    "suffix": " \n\n Universally that person's acumen is esteemed very little perceptive concerning whatsoever matters are being held as most profitably by mortals with sapience endowed to be studi",
+    "start": 277,
+    "end": 345,
+    "canonical_text": "Hoopsa boyaboy hoopsa! Hoopsa boyaboy hoopsa! Hoopsa boyaboy hoopsa!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3153008,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 591961,
+        "login": "dbrannen",
+        "name": "dbrannen",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20208722",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Not a sinner",
+  "html_source": "<p>If you step on a line in hopscotch, you’re out, and all the other kids cry “you’re a sinner, you’re a sinner.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20208722/James-joyce-ulysses-chap-5-lotus-eaters/Not-a-sinner",
+    "original_id": "20208722",
+    "referent_id": 20208722,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Not a sinner",
+    "prefix": "d in the lee of the station wall. No-one. Meade's timberyard. Piled balks. Ruins and tenements. With careful tread he passed over a hopscotch court with its forgotten pickeystone. ",
+    "suffix": ". Near the timberyard a squatted child at marbles, alone, shooting the taw with a cunnythumb. A wise tabby, a blinking sphinx, watched from her warm sill. Pity to disturb them. Moh",
+    "start": 14214,
+    "end": 14226,
+    "canonical_text": "Not a sinner"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20208722,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11041825,
+        "login": "raggedclaws",
+        "name": "raggedclaws",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2607276",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "I remember the famine in ’46.",
+  "html_source": "<p>The <a href=\"http://en.wikipedia.org/wiki/Great_Famine_%28Ireland%29\" rel=\"noopener nofollow\">Great Famine</a>, also known as the Irish Potato Famine, caused horrible starvation in Ireland between 1845 and 1852.</p><p><img src=\"https://images.rapgenius.com/eacdbfcd77c18cbf1ce11a8c82ed764f.338x467x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2607276/James-joyce-ulysses-chap-2-nestor/I-remember-the-famine-in-46",
+    "original_id": "2607276",
+    "referent_id": 2607276,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "I remember the famine in '46.",
+    "prefix": " man in tartan filibegs: Albert Edward, prince of Wales. \n\n — You think me an old fogey and an old tory, his thoughtful voice said. I saw three generations since O'Connell's time. ",
+    "suffix": " Do you know that the orange lodges agitated for repeal of the union twenty years before O'Connell did or before the prelates of your communion denounced him as a demagogue? You fe",
+    "start": 15091,
+    "end": 15120,
+    "canonical_text": "I remember the famine in '46."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2607276,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 293151,
+        "login": "jeeho",
+        "name": "Jeeho",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

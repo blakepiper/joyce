@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2468667",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Upper Rathmines",
+  "html_source": "<p>143 Upper Rathmines</p><p><img src=\"https://images.rapgenius.com/2b1wilgg9zf7xlq7rd3k78a19.372x279x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2468667/James-joyce-ulysses-chap-7-aeolus/Upper-rathmines",
+    "original_id": "2468667",
+    "referent_id": 2468667,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "upper Rathmines",
+    "prefix": "ERNIAN METROPOLIS \n\nBefore Nelson's pillar trams slowed, shunted, changed trolley, started for Blackrock, Kingstown and Dalkey, Clonskea, Rathgar and Terenure, Palmerston Park and ",
+    "suffix": ", Sandymount Green, Rathmines, Ringsend and Sandymount Tower, Harold's Cross. The hoarse Dublin United Tramway Company's timekeeper bawled them off: \n\n — Rathgar and Terenure! \n\n —",
+    "start": 212,
+    "end": 227,
+    "canonical_text": "upper Rathmines"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2468667,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

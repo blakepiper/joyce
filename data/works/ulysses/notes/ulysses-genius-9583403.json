@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9583403",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Cuckoo",
+  "html_source": "<p>The word cuckold derives from the cuckoo bird, alluding to its habit of laying its eggs in other birds' nests. The association is common in medieval folklore, literature, and iconography.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9583403/James-joyce-ulysses-chap-15-circe/Cuckoo",
+    "original_id": "9583403",
+    "referent_id": 9583403,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Cuckoo",
+    "prefix": "Canon O'Hanlon in cloth of gold cope elevates and exposes a marble timepiece. Before him Father Conroy and the reverend John Hughes S.J. bend low.)\n\nTHE TIMEPIECE (Unportalling.)\n\n",
+    "suffix": "\nCuckoo\nCuckoo\n\n\n(The brass quoits of a bed are heard to jingle.)\n\nTHE QUOITS Jigjag, Jigajiga. Jigjag.\n\n(A panel of fog rolls back rapidly, revealing rapidly in the jurybox the fa",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "ambiguous",
+    "confidence": 0.9421695502697263
+  },
+  "genius": {
+    "referent_id": 9583403,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21162932",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Tommy",
+  "html_source": "<p>Slang for a British solider.</p><p><a href=\"https://en.wikipedia.org/wiki/Tommy_Atkins\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Tommy_Atkins</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21162932/James-joyce-ulysses-chap-9-scylla-and-charybdis/Tommy",
+    "original_id": "21162932",
+    "referent_id": 21162932,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "tommy",
+    "prefix": "\n\n Eh... I just eh... wanted... I forgot... he... \n\n — Longworth and M'Curdy Atkinson were there... \n\n Puck Mulligan footed featly, trilling: \n\nI hardly hear the purlieu cry \nOr a ",
+    "suffix": " talk as I pass one by\nBefore my thoughts begin to run\nOn F. M'Curdy Atkinson,\nThe same that had the wooden leg\nAnd that filibustering filibeg\nThat never dared to slake his drouth,",
+    "start": 66101,
+    "end": 66106,
+    "canonical_text": "tommy"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21162932,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

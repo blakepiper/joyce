@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10566005",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Seadeath, mildest of all deaths known to man. Old Father Ocean.",
+  "html_source": "<p>‘The Odyssey’ by Homer (Book 11).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10566005/James-joyce-ulysses-chap-3-proteus/Seadeath-mildest-of-all-deaths-known-to-man-old-father-ocean",
+    "original_id": "10566005",
+    "referent_id": 10566005,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Seadeath, mildest of all deaths known to man. Old Father Ocean.",
+    "prefix": "l from all dead. Hauled stark over the gunwale he breathes upward the stench of his green grave, his leprous nosehole snoring to the sun. \n\n A seachange this, brown eyes saltblue. ",
+    "suffix": " Prix de Paris: beware of imitations. Just you give it a fair trial. We enjoyed ourselves immensely. \n\n Come. I thirst. Clouding over. No black clouds anywhere, are there? Thunders",
+    "start": 31553,
+    "end": 31623,
+    "canonical_text": "Seadeath, mildest of all deaths1922#49 known to man. Old Father Ocean."
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9474
+  },
+  "genius": {
+    "referent_id": 10566005,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

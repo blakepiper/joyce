@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23229009",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Quarter tense or, if not, ember days",
+  "html_source": "<p>“Ember days” – known as “quarter tense” in Ireland – are quarterly periods of fasting in the Western liturgical calendar.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23229009/James-joyce-ulysses-chap-16-eumaeus/Quarter-tense-or-if-not-ember-days",
+    "original_id": "23229009",
+    "referent_id": 23229009,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "quarter tense or, if not, ember days",
+    "prefix": "ss of eggshells and charred fish heads and bones on a square of brown paper, in accordance with the third precept of the church to fast and abstain on the days commanded, it being ",
+    "suffix": " or something like that. \n\n — No, Mr Bloom repeated again, I wouldn't personally repose much trust in that boon companion of yours who contributes the humorous element, Dr Mulligan",
+    "start": 19313,
+    "end": 19348,
+    "canonical_text": "quarter tense or if not, ember days"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 23229009,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

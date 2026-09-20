@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11032416",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "The ticket",
+  "html_source": "<p>The Catholic Wafer tastes like a piece of paper. Here and in the following paragraphs a combination of a external stimuli,e.g passing a church, the opening of the mouth (as if  to receive communion) culminates.. coagulates  in stirring  some memory of F Conmee “Father Conmee at the altarrails placed the host with difficulty in the mouth of the awkward old man who had the shaky head.”  but its told in 3rd person narrative!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11032416/James-joyce-ulysses-chap-10-wandering-rocks/The-ticket",
+    "original_id": "11032416",
+    "referent_id": 11032416,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "the ticket",
+    "prefix": "nies chuted from his other plump glovepalm into his purse. Passing the ivy church he reflected that the ticket inspector usually made his visit when one had carelessly thrown away ",
+    "suffix": ". The solemnity of the occupants of the car seemed to Father Conmee excessive for a journey so short and cheap. Father Conmee liked cheerful decorum. \n\n It was a peaceful day. The ",
+    "start": 7471,
+    "end": 7481,
+    "canonical_text": "the ticket"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 11032416,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 4017165,
+        "login": "KevinFoy",
+        "name": "KevinFoy",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

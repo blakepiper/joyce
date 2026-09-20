@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9093662",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "The cup that cheers but not inebriates,",
+  "html_source": "<p>Found in philosopher George Berkeley’s Siris (1744) to describe tar-water, a foul tasting, medieval medicine.<br /> “…of a nature so mild and benign and proportioned to the human constitution as to warm without heating, to cheer but not inebriate.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9093662/James-joyce-ulysses-chap-10-wandering-rocks/The-cup-that-cheers-but-not-inebriates",
+    "original_id": "9093662",
+    "referent_id": 9093662,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "The cup that cheers but not inebriates,",
+    "prefix": " remembered me. \n\n Aham! Must dress the character for those fellows. Knight of the road. Gentleman. And now, Mr Crimmins, may we have the honour of your 1932#215custom again, sir. ",
+    "suffix": " as the old saying has it. \n\n North wall and sir John Rogerson's quay, with hulls and anchorchains, sailing westward, sailed by a skiff, a crumpled throwaway, rocked on the ferrywa",
+    "start": 43135,
+    "end": 43174,
+    "canonical_text": "The cup that cheers but not inebriates,"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9093662,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083736,
+        "login": "JessicaVestuto",
+        "name": "JessicaVestuto",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

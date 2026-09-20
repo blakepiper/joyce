@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11146220",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Pisto madrileno",
+  "html_source": "<p>Spanish version of ratatouille</p><p><a href=\"https://la-cocina-de-mar.blogspot.com/2011/06/pisto-la-madrilena.html\" rel=\"noopener nofollow\">https://la-cocina-de-mar.blogspot.com/2011/06/pisto-la-madrilena.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11146220/James-joyce-ulysses-chap-18-penelope/Pisto-madrileno",
+    "original_id": "11146220",
+    "referent_id": 11146220,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "pisto madrileno",
+    "prefix": "s morning see she wrote a letter to him who did I get the last letter from O Mrs Dwenn now what possessed her to write from Canada after so many years to know the recipe I had for ",
+    "suffix": " Floey Dillon since she wrote to say she was married to a very rich architect if Im to believe all I hear with a villa and eight rooms her father was an awfully nice man he was nea",
+    "start": 53528,
+    "end": 53543,
+    "canonical_text": "pisto madrileno"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11146220,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15063922",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Greatest shakescene in the country",
+  "html_source": "<p>In 1592, critic Robert Greene accused William Shakespeare of plagiarism, among other things (see esp. the last line):<br />“..there is an upstart Crow, beautified with our feathers, that with his Tiger’s heart wrapped in a Player’s hide, supposes he is as well able to bombast out a blank verse as the best of you: and being an absolute Johannes factotum, is in his own conceit the only Shake-scene in a country.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15063922/James-joyce-ulysses-chap-9-scylla-and-charybdis/Greatest-shakescene-in-the-country",
+    "original_id": "15063922",
+    "referent_id": 15063922,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "greatest shakescene in the country",
+    "prefix": " John o'Gaunt his name is dear to him, as dear as the coat of arms he toadied for, on a bend sable a spear or steeled argent, honorificabilitudinitatibus, dearer than his glory of ",
+    "suffix": ". What's in a name? That is what we ask ourselves in childhood when we write the name that we are told is ours. A star, a daystar, a firedrake, rose at his birth. It shone by day i",
+    "start": 53431,
+    "end": 53465,
+    "canonical_text": "greatest shakescene in the country"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15063922,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

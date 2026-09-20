@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8773878",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "O God, our refuge and our strength",
+  "html_source": "<p>Prayers After Low Mass</p><p>O God!<br />our refuge and our strength,<br />look down with favour on Thy people who cry to Thee;<br />and through the intercession of the glorious<br />and Immaculate Virgin Mary,<br />Mother of God,<br />of Saint Joseph her Spouse,<br />of Thy blessed Apostles Peter and Paul,<br />and of all the Saints,<br />in mercy and goodness<br />hear our prayers for the conversion of sinners,<br />and for the liberty and exaltation<br />of our holy Mother the Church.<br />Through the same Christ our Lord.<br />Amen.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8773878/James-joyce-ulysses-chap-5-lotus-eaters/O-god-our-refuge-and-our-strength",
+    "original_id": "8773878",
+    "referent_id": 8773878,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "O God, our refuge and our strength",
+    "prefix": "priest came down from the altar, holding the thing out from him, and he and the massboy answered each other in Latin. Then the priest knelt down and began to read off a card: \n\n — ",
+    "suffix": "... \n\n Mr Bloom put his face forward to catch the words. English. Throw them the bone. I remember slightly. How long since your last mass? Glorious and immaculate virgin. Joseph, h",
+    "start": 26713,
+    "end": 26747,
+    "canonical_text": "O God, our refuge and our strength"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8773878,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

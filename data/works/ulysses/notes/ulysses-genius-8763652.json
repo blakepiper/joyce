@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-8763652",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Quaint caps of squares and cubes",
+  "html_source": "<p>numbers squared or cubed are noted with a exponent 2 or 3 set the to right and above the base number so they look like caps</p><p><img src=\"https://images.rapgenius.com/6e79518eb98529daa9b983b5741c8465.407x209x1.jpg\" alt=\"\" /></p><p>PROPOSED SUGGESTION: Possibly a reference to the Arabic origin of our mathmatics system, squares and cubes would be difficult in Roman numerals.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8763652/James-joyce-ulysses-chap-2-nestor/Quaint-caps-of-squares-and-cubes",
+    "original_id": "8763652",
+    "referent_id": 8763652,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "quaint caps of squares and cubes",
+    "prefix": "cks rattled in the lumberroom: the hollow knock of a ball and calls from the field. \n\n Across the page the symbols moved in grave morrice, in the mummery of their letters, wearing ",
+    "suffix": ". Give hands, traverse, bow to partner: so: imps of fancy of the Moors. Gone too from the world, Averroes and Moses Maimonides, dark men in mien and movement, flashing in their moc",
+    "start": 8428,
+    "end": 8460,
+    "canonical_text": "quaint caps of squares and cubes"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8763652,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.6746987951807228
+      },
+      {
+        "id": 8604914,
+        "login": "seanrorydempsey",
+        "name": "seanrorydempsey",
+        "role": null,
+        "attribution": 0.30120481927710846
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.024096385542168676
+      }
+    ]
+  },
+  "color": "F59627"
+}

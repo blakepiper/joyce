@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-14116955",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Fob",
+  "html_source": "<p>this should be “form”, not fob</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/14116955/James-joyce-ulysses-chap-15-circe/Fob",
+    "original_id": "14116955",
+    "referent_id": 14116955,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "fob",
+    "prefix": "mmy Caffrey, runs full tilt against Bloom.) \n\n1922#415\n\n BLOOM \n\n O. \n\n(Shocked, on weak hams, he halts. Tommy and Jacky vanish there, there. Bloom pats with parcelled hands watch ",
+    "suffix": "pocket, bookpocket, pursepocket, sweets of sin, potato soap.) \n\n BLOOM \n\n Beware of pickpockets. Old thieves' dodge. Collide. Then snatch your purse. \n\n(The retriever approaches sn",
+    "start": 11463,
+    "end": 11466,
+    "canonical_text": "fob"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 14116955,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

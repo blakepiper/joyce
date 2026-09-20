@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10144566",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Spion Kop",
+  "html_source": "<p>A battle in January 1900 during the Boer War in South Africa.<br /><a href=\"http://www.britishbattles.com/battle-of-spion-kop/\" rel=\"noopener nofollow\">http://www.britishbattles.com/battle-of-spion-kop/</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10144566/James-joyce-ulysses-chap-15-circe/Spion-kop",
+    "original_id": "10144566",
+    "referent_id": 10144566,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Spion Kop",
+    "prefix": ". P. I'm as staunch a Britisher as you are, sir. I fought with the colours for king and country in the absentminded war under general Gough in the park and was disabled at 1961#457",
+    "suffix": " and Bloemfontein, was mentioned in dispatches. I did all a white man could. (With quiet feeling.) Jim Bludso. Hold her nozzle again the bank. \n\n FIRST WATCH \n\n Profession or trade",
+    "start": 38730,
+    "end": 38739,
+    "canonical_text": "Spion Kop"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10144566,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

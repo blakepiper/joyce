@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15165167",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Erin go bragh!",
+  "html_source": "<p>Popular English form of the Irish phrase <a href=\"https://en.wikipedia.org/wiki/Erin_go_bragh\" rel=\"noopener nofollow\">Éirinn go Brách</a>, meaning “Ireland forever”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15165167/James-joyce-ulysses-chap-15-circe/Erin-go-bragh",
+    "original_id": "15165167",
+    "referent_id": 15165167,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Erin go bragh!",
+    "prefix": "t.) I'll wring the neck of any bugger says a word against my fucking king. \n\n1961#595\n\n BLOOM \n\n(Terrified.) He said nothing. Not a word. A pure misunderstanding. \n\n THE CITIZEN \n\n",
+    "suffix": " \n\n(Major Tweedy and the Citizen exhibit to each other medals, decorations, trophies of war, wounds. Both salute with fierce hostility.) \n\n PRIVATE COMPTON \n\n Go it, Harry. Do him ",
+    "start": 223805,
+    "end": 223819,
+    "canonical_text": "Erin go bragh!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15165167,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

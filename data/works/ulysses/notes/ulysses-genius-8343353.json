@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8343353",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Bronze by gold, Miss Kennedy’s head by Miss Douce’s head, appeared above the crossblind of the Ormond hotel.",
+  "html_source": "<p>“Bronze by gold” &amp; “gold by bronze” referring to the hair colours of the two Ormond Hotel barmaids are from now on recurring motifs.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8343353/James-joyce-ulysses-chap-10-wandering-rocks/Bronze-by-gold-miss-kennedys-head-by-miss-douces-head-appeared-above-the-crossblind-of-the-ormond-hotel",
+    "original_id": "8343353",
+    "referent_id": 8343353,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Bronze by gold, Miss Kennedy's head by Miss Douce's head, appeared above the crossblind of the Ormond hotel.",
+    "prefix": "n touched his forehead. \n\n — God bless you, Martin Cunningham said, cheerily. \n\n He signed to the waiting jarvey who chucked at the reins and set on towards Lord Edward street. \n\n ",
+    "suffix": " \n\n — Yes, Martin Cunningham said, fingering his beard. I wrote to Father Conmee and laid the whole case before him. \n\n — You could try our friend, Mr Power suggested backward. \n\n ",
+    "start": 55314,
+    "end": 55422,
+    "canonical_text": "Bronze by gold, Miss Kennedy's head by Miss Douce's head, appeared above the crossblind of the Ormond hotel."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8343353,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2568065,
+        "login": "GeoffBobker",
+        "name": "GeoffBobker",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

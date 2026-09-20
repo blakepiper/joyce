@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8774293",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Benzoin",
+  "html_source": "<p>Benzoin is used on minor skin sores and wounds to protect the area from irritation and infection,  also used on canker sores in and around the mouth to protect them so they can heal.<br />Benzoin is also used to help relieve and soothe minor irritation of the nose, throat, and airways (e.g., laryngitis, croup) when it is mixed with hot water and the steam is inhaled.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8774293/James-joyce-ulysses-chap-5-lotus-eaters/Benzoin",
+    "original_id": "8774293",
+    "referent_id": 8774293,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "benzoin",
+    "prefix": " the counter, inhaling the keen reek of drugs, the dusty dry smell of sponges and loofahs. Lot of time taken up telling your aches and pains. \n\n — Sweet almond oil and tincture of ",
+    "suffix": ", Mr Bloom said, and then orangeflower water... \n\n It certainly did make her skin so delicate white like wax. \n\n — And white wax also, he said. \n\n1939#64\n\n Brings out the darkness ",
+    "start": 31421,
+    "end": 31428,
+    "canonical_text": "benzoin"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8774293,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

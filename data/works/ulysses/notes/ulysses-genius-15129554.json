@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15129554",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "The wild geese",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Flight_of_the_Wild_Geese\" rel=\"noopener nofollow\">Scions of noble Gaelic families</a> who fought for Catholicism in continental Europe after their expulsion following the Battle of the Boyne</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15129554/James-joyce-ulysses-chap-12-cyclops/The-wild-geese",
+    "original_id": "15129554",
+    "referent_id": 15129554,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "the wild geese",
+    "prefix": "ought for the royal Stuarts that reneged us against the Williamites and they betrayed us. Remember Limerick and the broken treatystone. We gave our best blood to France and Spain, ",
+    "suffix": ". Fontenoy, eh? And Sarsfield and O'Donnell, duke of Tetuan in Spain, and Ulysses Browne of Camus that was fieldmarshal to Maria Teresa. But what did we ever get for it? \n\n1939#239",
+    "start": 88655,
+    "end": 88669,
+    "canonical_text": "the wild geese"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15129554,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

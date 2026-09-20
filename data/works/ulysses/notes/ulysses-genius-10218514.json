@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10218514",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Proverb",
+  "html_source": "<p><img src=\"https://images.genius.com/2815355fbf050c629cc6eccaf9b66245.639x513x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10218514/James-joyce-ulysses-chap-15-circe/Proverb",
+    "original_id": "10218514",
+    "referent_id": 10218514,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "proverb",
+    "prefix": "ured by the smell of the inferiorly pulchritudinous female possessing extendified pudendal nerve in dorsal region. Pretty Poll! (His yellow parrotbeak gabbles nasally.) They had a ",
+    "suffix": " in the Carpathians in or about the year five thousand five hundred and fifty of our era. One tablespoonful of honey will attract friend Bruin more than half a dozen barrels of fir",
+    "start": 121555,
+    "end": 121562,
+    "canonical_text": "proverb"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10218514,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

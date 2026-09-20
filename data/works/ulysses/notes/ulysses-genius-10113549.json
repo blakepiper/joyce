@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10113549",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Demirep",
+  "html_source": "<p>noun  archaic</p><p>a woman whose chastity is considered doubtful.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10113549/James-joyce-ulysses-chap-15-circe/Demirep",
+    "original_id": "10113549",
+    "referent_id": 10113549,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "demirep",
+    "prefix": "sily.) \n\n1961#568\n\n MRS CUNNINGHAM \n\n(Sings.) \n\n And they call me the jewel of Asia! \n\n1939#4001932#491\n\n MARTIN CUNNINGHAM \n\n(Gazes on her, impassive.) Immense! Most bloody awful ",
+    "suffix": "! \n\n1922#529\n\n STEPHEN \n\nEt exaltabuntur cornua iusti. Queens lay with prize bulls. Remember Pasiphae for whose lust my grandoldgrossfather made the first confessionbox. Forget not",
+    "start": 189763,
+    "end": 189770,
+    "canonical_text": "demirep"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10113549,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

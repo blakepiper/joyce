@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-29515138",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "—Are we all here now? Martin Cunningham asked. Come along, Bloom.",
+  "html_source": "<p>J'suis pas un blanc bec, j'ai grandi dans la rue</p><p>Comme un requin, je nage dans l'rap, j'suis dans le viseur,</p><p>j'rappe avec feu et désir,j'suis le prédateur, le Shark du soir.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/29515138/James-joyce-ulysses-chap-6-hades/Are-we-all-here-now-martin-cunningham-asked-come-along-bloom",
+    "original_id": "29515138",
+    "referent_id": 29515138,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "—Are we all here now? Martin Cunningham asked. Come along, Bloom.",
+    "prefix": "stepped in after him, curving his height with care. \n\n — Come on, Simon. \n\n — After you, Mr Bloom said. \n\n Mr Dedalus covered himself quickly and got in, saying: \n\n Yes, yes. \n\n — ",
+    "suffix": " \n\n Mr Bloom entered and sat in the vacant place. He pulled the door to after him and slammed it tight till it shut tight. He passed an arm through the armstrap and looked seriousl",
+    "start": 315,
+    "end": 379,
+    "canonical_text": "Are we all here now? Martin Cunningham asked. Come along, Bloom."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 29515138,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 21126571,
+        "login": "leroidugumgum92",
+        "name": "leroidugumgum92",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

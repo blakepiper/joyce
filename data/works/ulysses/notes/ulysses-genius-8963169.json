@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8963169",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Na bacleis",
+  "html_source": "<p>Ná bac leis     (Irish) Never mind that<br />Gifford (1988) p 342</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8963169/James-joyce-ulysses-chap-12-cyclops/Na-bacleis",
+    "original_id": "8963169",
+    "referent_id": 8963169,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Na bacleis",
+    "prefix": "ts revival. There he is sitting there. The man that got away James Stephens. The champion of all Ireland at putting the sixteen pound shot. What was your best throw, citizen? \n\n — ",
+    "suffix": ", says the citizen, letting on to be modest. There was a time I was as good as the next fellow anyhow. \n\n — Put it there, citizen, says Joe. You were and a bloody sight better. \n\n1",
+    "start": 57108,
+    "end": 57118,
+    "canonical_text": "Na bacleis"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8963169,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

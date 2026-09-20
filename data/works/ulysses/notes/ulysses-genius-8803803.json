@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8803803",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Brawn",
+  "html_source": "<p>brawn<br />noun<br />BRITISH<br />meat from a pig’s or calf’s head that is cooked and pressed in a pot with jelly.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8803803/James-joyce-ulysses-chap-7-aeolus/Brawn",
+    "original_id": "8803803",
+    "referent_id": 8803803,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "brawn",
+    "prefix": "ts and best clothes and take their umbrellas for fear it may come on to rain. \n\n — Wise virgins, professor MacHugh said. \n\n LIFE ON THE RAW \n\n — They buy one and fourpenceworth of ",
+    "suffix": " and four slices of panloaf at the north city diningrooms in Marlborough street from Miss Kate Collins, proprietress... They purchase four and twenty ripe plums from a girl at the ",
+    "start": 52201,
+    "end": 52206,
+    "canonical_text": "brawn"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 8803803,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

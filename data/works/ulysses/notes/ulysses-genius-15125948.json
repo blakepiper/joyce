@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15125948",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Medher",
+  "html_source": "<p>A word meaning “wooden drinking cup” from the Gaelic term meithir.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15125948/James-joyce-ulysses-chap-12-cyclops/Medher",
+    "original_id": "15125948",
+    "referent_id": 15125948,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "medher",
+    "prefix": " \n\n And says Lenehan that knows a bit of the lingo: \n\n — Conspuez les Anglais! Perfide Albion! \n\n1922#311\n\n He said and then lifted he in his rude great brawny strengthy hands the ",
+    "suffix": " of dark strong foamy ale and, uttering his tribal slogan Lamh Dearg Abu, he drank to the undoing of his foes, a race of mighty valorous heroes, rulers of the waves, who sit on thr",
+    "start": 77416,
+    "end": 77422,
+    "canonical_text": "medher"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15125948,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

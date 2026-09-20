@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8768459",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "A",
+  "html_source": "<p>Continued suspense from the previous episode , the indefinitie article increases the implication of the narrative.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8768459/James-joyce-ulysses-chap-5-lotus-eaters/A",
+    "original_id": "8768459",
+    "referent_id": 8768459,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "a",
+    "prefix": "dropped lids his eyes found the tiny bow of the leather headband inside his high grade ha. Just there. His right hand came down into the bowl of his hat. His fingers found quickly ",
+    "suffix": " card behind the headband and transferred it to his waistcoat pocket.\n\nSo warm. His right hand once more more slowly went over his brow and hair. Then he put on his hat again, reli",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "ambiguous",
+    "confidence": 0.2631353401033686
+  },
+  "genius": {
+    "referent_id": 8768459,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9097375",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Beau Mount and Lecher",
+  "html_source": "<p>A bawdy joke on the authors Beaumont and Fletcher mentioned above.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9097375/James-joyce-ulysses-chap-14-oxen-of-the-sun/Beau-mount-and-lecher",
+    "original_id": "9097375",
+    "referent_id": 9097375,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Beau Mount and Lecher",
+    "prefix": " of the paranymphs have escorted to the quadrupedal proscenium of connubial communion. Well met they were, said Master Dixon, joyed, but, harkee, young sir, better were they named ",
+    "suffix": " for, by my troth, of such a mingling much might come. Young Stephen said indeed to his best remembrance they had but the one doxy between them and she of the stews to make shift w",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.84
+  },
+  "genius": {
+    "referent_id": 9097375,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

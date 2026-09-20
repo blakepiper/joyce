@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8971174",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Lamh Dearg Abu",
+  "html_source": "<p>Lámh Dhearg Abú, an old war cry meaning ‘Red Hand to Victory’<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8971174/James-joyce-ulysses-chap-12-cyclops/Lamh-dearg-abu",
+    "original_id": "8971174",
+    "referent_id": 8971174,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Lamh Dearg Abu",
+    "prefix": "z les Anglais! Perfide Albion! \n\n1922#311\n\n He said and then lifted he in his rude great brawny strengthy hands the medher of dark strong foamy ale and, uttering his tribal slogan ",
+    "suffix": ", he drank to the undoing of his foes, a race of mighty valorous heroes, rulers of the waves, who sit on thrones of alabaster silent as the deathless gods. \n\n — What's up with you,",
+    "start": 77480,
+    "end": 77494,
+    "canonical_text": "Lamh Dearg Abu"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8971174,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

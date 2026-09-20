@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5110806",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Ringsend road",
+  "html_source": "<p>West from Ringsend toward central Dublin.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5110806/James-joyce-ulysses-chap-6-hades/Ringsend-road",
+    "original_id": "5110806",
+    "referent_id": 5110806,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Ringsend road",
+    "prefix": "edalus said, the Goulding faction, the drunken little costdrawer and Crissie, papa's little lump of dung, the wise child that knows her own father. \n\n Mr Bloom smiled joylessly on ",
+    "suffix": ". Wallace Bros the bottleworks. Dodder bridge. \n\n Richie Goulding and the legal bag. Goulding, Collis and Ward he calls the firm. His jokes are getting a bit damp. Great card he wa",
+    "start": 3195,
+    "end": 3208,
+    "canonical_text": "Ringsend road"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5110806,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

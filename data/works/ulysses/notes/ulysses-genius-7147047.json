@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-7147047",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Sassenachs",
+  "html_source": "<p>derogatory term for Englishmen<br />(Scottish-Irish word, derived from “Saxons”)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7147047/James-joyce-ulysses-chap-12-cyclops/Sassenachs",
+    "original_id": "7147047",
+    "referent_id": 7147047,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Sassenachs",
+    "prefix": " so be it might be, bring once more into honour among mortal men the winged speech of the seadivided Gael. \n\n — It's on the march, says the citizen. To hell with the bloody brutal ",
+    "suffix": " and their patois. \n\n1961#324\n\n So J. J. puts in a word, doing the toff about one story was good till you heard another and blinking facts and the Nelson policy, putting your blind",
+    "start": 76239,
+    "end": 76249,
+    "canonical_text": "Sassenachs"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 7147047,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1835164,
+        "login": "AdamKadmon",
+        "name": "AdamKadmon",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

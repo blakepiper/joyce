@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8803791",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Akasic records",
+  "html_source": "<p>In theosophy and anthroposophy, the Akashic records (a term coined in the late 19th century from akasha or ākāśa, the Sanskrit word for “sky”, “space”, “luminous”, or “aether”) are a compendium of thoughts, events, and emotions believed by theosophists to be encoded in a non-physical plane of existence known as the astral plane.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8803791/James-joyce-ulysses-chap-7-aeolus/Akasic-records",
+    "original_id": "8803791",
+    "referent_id": 8803791,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Akasic records",
+    "prefix": "— Where is that? the professor asked. \n\n — Off Blackpitts. \n\n Damp night reeking of hungry dough. Against the wall. Face glistening tallow under her fustian shawl. Frantic hearts. ",
+    "suffix": ". Quicker, darlint! \n\n On now. Dare it. Let there be life. \n\n — They want to see the views of Dublin from the top of Nelson's pillar. They save up three and tenpence in a red tin l",
+    "start": 51629,
+    "end": 51643,
+    "canonical_text": "Akasic records"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9446
+  },
+  "genius": {
+    "referent_id": 8803791,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

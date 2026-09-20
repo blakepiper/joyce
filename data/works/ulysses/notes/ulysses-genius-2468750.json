@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2468750",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Strange",
+  "html_source": "<p>He reflects on Ireland’s rich creative &amp; interesting newsprints and talks about the content of it throughout this length paragraph. He also comments on the “official gazette” as boring, especially compared to it.</p><p>M.A.P. stands for Mainly About People, and published “pleasant gossip, personal portraits and social news.” It also had several pages of ads, and a few tips for investors.</p><p>Cuprani</p><p><img src=\"https://images.rapgenius.com/f4jfjb51zj0yuda5vmb07czgg.200x272x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2468750/James-joyce-ulysses-chap-7-aeolus/Strange",
+    "original_id": "2468750",
+    "referent_id": 2468750,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Strange",
+    "prefix": "ay, tearing away. And that old grey rat tearing to get in. \n\n HOW A GREAT DAILY ORGAN IS TURNED OUT \n\n Mr Bloom halted behind the foreman's spare body, admiring a glossy crown. \n\n ",
+    "suffix": " he never saw his real country. Ireland my country. Member for College green. He boomed that workaday worker tack for all it was worth. It's the ads and side features sell a weekly",
+    "start": 4573,
+    "end": 4580,
+    "canonical_text": "Strange"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2468750,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

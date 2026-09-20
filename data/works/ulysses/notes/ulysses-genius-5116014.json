@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-5116014",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "As broad as it’s long.",
+  "html_source": "<p>Proverb; in this context: it would cost Bloom as much to stand the drinks as it would to buy the tickets.</p><p>PROPOSED SUGGESTION: Also: the definition of a choad.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5116014/James-joyce-ulysses-chap-6-hades/As-broad-as-its-long",
+    "original_id": "5116014",
+    "referent_id": 5116014,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "As broad as it's long.",
+    "prefix": "er Grimes Opera Company. Big powerful change. Wet bright bills for next week. Fun on the Bristol. Martin Cunningham could work a pass for the Gaiety. Have to stand a drink or two. ",
+    "suffix": " \n\n He's coming in the afternoon. Her songs. \n\n Plasto's. Sir Philip Crampton's memorial fountain bust. Who was he? \n\n — How do you do? Martin Cunningham said, raising his palm to ",
+    "start": 10970,
+    "end": 10992,
+    "canonical_text": "As broad as it's long."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5116014,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 0.6176470588235294
+      },
+      {
+        "id": 1060900,
+        "login": "dvrath",
+        "name": "dvrath",
+        "role": "contributor",
+        "attribution": 0.32352941176470584
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.05882352941176471
+      }
+    ]
+  },
+  "color": "F59627"
+}

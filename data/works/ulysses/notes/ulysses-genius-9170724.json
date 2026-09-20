@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9170724",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Zodiacal host",
+  "html_source": "<p>A list of various constellations follows.</p><p><img src=\"https://images.genius.com/e86bcf702c66781daf83f5e55ed0be87.493x500x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9170724/James-joyce-ulysses-chap-14-oxen-of-the-sun/Zodiacal-host",
+    "original_id": "9170724",
+    "referent_id": 9170724,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "zodiacal host",
+    "prefix": " of whose brow 1932#374are scorpions. Elk and yak, the bulls of Bashan and of Babylon, mammoth and mastodon, they come trooping to the sunken sea, Lacus Mortis. Ominous revengeful ",
+    "suffix": "! They moan, passing upon the clouds, horned and capricorned, the trumpeted with the tusked, the lionmaned, the giantantlered, snouter and crawler, rodent, ruminant and pachyderm, ",
+    "start": 79138,
+    "end": 79151,
+    "canonical_text": "zodiacal host"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9170724,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

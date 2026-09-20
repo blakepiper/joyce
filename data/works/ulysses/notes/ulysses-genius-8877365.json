@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8877365",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Purgatory",
+  "html_source": "<p>Master Dignam hopes his father is not somewhere worse than purgatory.</p><p>The Catechism of the Catholic Church defines purgatory as a “purification, so as to achieve the holiness necessary to enter the joy of heaven,” which is experienced by those “who die in God’s grace and friendship, but still imperfectly purified” (CCC 1030). It notes that “this final purification of the elect … is entirely different from the punishment of the damned” (CCC 1031).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8877365/James-joyce-ulysses-chap-10-wandering-rocks/Purgatory",
+    "original_id": "8877365",
+    "referent_id": 8877365,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "purgatory",
+    "prefix": "to ma. I couldn't hear the other things he said but I saw his tongue and his teeth 1922#241trying to say it better. Poor pa. That was Mr Dignam, my father. I hope he is in 1961#251",
+    "suffix": " now because he went to confession to Father Conroy on Saturday night. \n\n*\n*  *\n\n William Humble, earl of Dudley, and lady Dudley, accompanied by lieutenantcolonel Hesseltine, drov",
+    "start": 67763,
+    "end": 67772,
+    "canonical_text": "purgatory"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8877365,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

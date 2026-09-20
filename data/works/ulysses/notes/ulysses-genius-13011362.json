@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13011362",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Navvy",
+  "html_source": "<p>A manual laborer employed in the excavation of railways, roads, and canals.</p><p><a href=\"https://en.wikipedia.org/wiki/Navvy\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Navvy</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13011362/James-joyce-ulysses-chap-15-circe/Navvy",
+    "original_id": "13011362",
+    "referent_id": 13011362,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "navvy",
+    "prefix": "her lair, swaying her lamp. A bandy child, asquat 1939#308on the doorstep with a paper shuttlecock, crawls sidling after her in spurts, clutches her skirt, scrambles up. A drunken ",
+    "suffix": " grips with both hands the railings of an area, lurching heavily. At a corner two night watch in shouldercapes, their hands upon their staffholsters, loom tall. A plate crashes: a ",
+    "start": 1711,
+    "end": 1716,
+    "canonical_text": "navvy"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9568
+  },
+  "genius": {
+    "referent_id": 13011362,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5436824,
+        "login": "cohomology",
+        "name": "cohomology",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

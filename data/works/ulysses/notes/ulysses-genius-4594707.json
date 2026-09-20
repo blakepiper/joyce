@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4594707",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Rosevean",
+  "html_source": "<p>This is the “threemasted” ship <a href=\"https://genius.com/4594656\" rel=\"noopener nofollow\">that Stephen sees from the beach this morning</a> and <a href=\"https://genius.com/4594583\" rel=\"noopener nofollow\">Murphy’s ship in Chapter 16 “Eumaeus.”</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4594707/James-joyce-ulysses-chap-10-wandering-rocks/Rosevean",
+    "original_id": "4594707",
+    "referent_id": 4594707,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Rosevean",
+    "prefix": "away, sailed eastward by flanks of ships and trawlers, amid an archipelago of corks, beyond new Wapping street past1939#1821922#239 Benson's ferry, and by the threemasted schooner ",
+    "suffix": " from Bridgwater with bricks. \n\n*\n*  *\n\n Almidano Artifoni walked past Holles street, past Sewell's yard. Behind him Cashel Boyle O'Connor Fitzmaurice Tisdall Farrell, with stickum",
+    "start": 63025,
+    "end": 63033,
+    "canonical_text": "Rosevean"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4594707,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8794281",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Has anybody here seen Kelly",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/cc153783acad21e4ef7ca285a08b05ae.1000x563x1.jpg\" alt=\"\" /></p><p>(C.W. Murphy &amp; Will Letters)</p><p>Kelly and his sweetheart wore a very pleasant smile,<br />And sent upon a holiday they went from Mona’s Isle,<br />They landed safe in London but alas it’s sad to say,<br />For Kelly lost his little girl up Piccadilly way.<br />She searched for him in vain and then of course began to fret,<br />And this is the appeal she made to everyone she met:</p><p>Has anybody here seen Kelly?<br />K-E-double-L-Y.<br />Has anybody here seen Kelly?<br />Find him if you can!<br />He’s as bad as old Antonio,<br />Left me on my own-ee-o,<br />Has anybody here seen Kelly?<br />Kelly from the Isle of Man!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8794281/James-joyce-ulysses-chap-6-hades/Has-anybody-here-seen-kelly",
+    "original_id": "8794281",
+    "referent_id": 8794281,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Has anybody here seen Kelly",
+    "prefix": "dalus said. That will be worth seeing, faith. \n\n As they turned into Berkeley street a streetorgan near the Basin sent over and after them a rollicking rattling song of the halls. ",
+    "suffix": "? Kay ee double ell wy. Dead March from Saul. He's as bad as old Antonio. He left me on my ownio. Pirouette! The Mater Misericordiae. Eccles street. My house down there. Big place.",
+    "start": 21761,
+    "end": 21788,
+    "canonical_text": "Has anybody here seen Kelly"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8794281,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15473752",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Poached eyes on ghost",
+  "html_source": "<p>Poached eggs on toast.  (Obvious, I know.)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15473752/James-joyce-ulysses-chap-8-lestrygonians/Poached-eyes-on-ghost",
+    "original_id": "15473752",
+    "referent_id": 15473752,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Poached eyes on ghost",
+    "prefix": "al's uniform since he got the job. Charley Boulger used to come out on his high horse, cocked hat, puffed, powdered and shaved. Look at the woebegone walk of him. Eaten a bad egg. ",
+    "suffix": ". I have a pain. Great man's brother: his brother's brother. He'd look nice on the city charger. Drop into the D. B. C. probably for his coffee, play chess there. His brother used ",
+    "start": 32061,
+    "end": 32082,
+    "canonical_text": "Poached eyes on ghost"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15473752,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 7060080,
+        "login": "keithalt",
+        "name": "keithalt",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

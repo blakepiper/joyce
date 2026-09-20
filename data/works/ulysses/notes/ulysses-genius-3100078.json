@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-3100078",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Fiacre and Scotus",
+  "html_source": "<p>Both are the names of Irish saints who were missionaries to Europe. Fiacre became the name of a French hackney cab.</p><p><img src=\"https://images.rapgenius.com/874c778d2605e8fc6905ca055031df0a.428x300x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3100078/James-joyce-ulysses-chap-3-proteus/Fiacre-and-scotus",
+    "original_id": "3100078",
+    "referent_id": 3100078,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Fiacre and Scotus",
+    "prefix": " hands. See what I meant, see? O, that's all right. Shake a shake. O, that's all only all right. \n\nYou were going to do wonders, what? Missionary to Europe after fiery Columbanus. ",
+    "suffix": " on their creepystools in heaven spilt from their pintpots, loudlatinlaughing: Euge! Euge! Pretending to speak broken English as you dragged your valise, porter threepence, across ",
+    "start": 11925,
+    "end": 11942,
+    "canonical_text": "Fiacre and Scotus"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3100078,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.7450980392156863
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.2549019607843137
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3437572",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Sixtyseven years after she was born",
+  "html_source": "<p>Shakespeare’s wife, Anne Hathaway lived for 67 years.</p><p><img src=\"https://images.rapgenius.com/0958169bdc649f76c2bd9de7ee00c9d7.180x246x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3437572/James-joyce-ulysses-chap-9-scylla-and-charybdis/Sixtyseven-years-after-she-was-born",
+    "original_id": "3437572",
+    "referent_id": 3437572,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "sixtyseven years after she was born",
+    "prefix": "centuries? John Eglinton's carping voice asked. Her ghost at least has been laid for ever. She died, for literature at least, before she was born. \n\n — She died, Stephen retorted, ",
+    "suffix": ". She saw him into and out of the world. She took his first embraces. She bore his children and she laid pennies on his eyes to keep his eyelids closed when he lay on his deathbed.",
+    "start": 12008,
+    "end": 12043,
+    "canonical_text": "sixtyseven years after she was born"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3437572,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

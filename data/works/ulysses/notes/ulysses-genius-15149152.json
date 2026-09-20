@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15149152",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Chrism",
+  "html_source": "<p><a href=\"https://en.wiktionary.org/wiki/chrism\" rel=\"noopener nofollow\">Chrism</a> is a mixture of oils and balm used for ceremonial annointing in Christian rites such as confirmation.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15149152/James-joyce-ulysses-chap-14-oxen-of-the-sun/Chrism",
+    "original_id": "15149152",
+    "referent_id": 15149152,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "chrism",
+    "prefix": "o be 1932#349healed for he was sore wounded in his breast by a spear wherewith a horrible and dreadful dragon was smitten him for which he did do make a salve of volatile salt and ",
+    "suffix": " as much as he might suffice. And he said now that he should go into that castle for to make merry with them that were there. And the traveller Leopold said that he should go other",
+    "start": 8977,
+    "end": 8983,
+    "canonical_text": "chrism"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15149152,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

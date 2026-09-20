@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9165107",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Acardiac",
+  "html_source": "<p>What is Twin Reversed Arterial Perfusion (TRAP) Sequence?<br />TRAP sequence is a very rare condition that only occurs in twin pregnancies that share a common placenta (monochorionic twins). In TRAP sequence, one twin is usually developmentally normal and the other twin has a serious condition, either missing a heart (acardiac) or a head (acephalic) or both, that prevents it from surviving on its own.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9165107/James-joyce-ulysses-chap-14-oxen-of-the-sun/Acardiac",
+    "original_id": "9165107",
+    "referent_id": 9165107,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "acardiac",
+    "prefix": "ured the acquittal of the wrongfully accused, the rights of primogeniture and king's bounty touching twins and triplets, miscarriages and infanticides, simulated and dissimulated, ",
+    "suffix": " foetus in foetu, aprosopia due to a congestion, the agnathia of certain chinless Chinamen (cited by Mr Candidate Mulligan) in consequence of 1922#390defective reunion of the maxil",
+    "start": 69656,
+    "end": 69664,
+    "canonical_text": "acardiac"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9165107,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

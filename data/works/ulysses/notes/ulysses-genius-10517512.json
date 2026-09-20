@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10517512",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Dr Tibble’s Vi-Cocoa",
+  "html_source": "<p>It seems that Dr Tibble marketed his cocoa as a health tonic for dyspepsia, insomnia and other common ailments.</p><p><img src=\"https://images.genius.com/162e6fabb733d6dfc26aae023abc391e.321x500x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10517512/James-joyce-ulysses-chap-16-eumaeus/Dr-tibbles-vi-cocoa",
+    "original_id": "10517512",
+    "referent_id": 10517512,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Dr Tibble's Vi-Cocoa",
+    "prefix": "he couldn't remember when it was or where. Anyhow inspection, medical inspection, of all eatables, seemed to him more than ever necessary which possibly accounted for the vogue of ",
+    "suffix": " on account of the medical analysis involved. \n\n — Have a shot at it now, he ventured to say of the coffee after being stirred. \n\n Thus prevailed on to at any rate taste it, Stephe",
+    "start": 54253,
+    "end": 54273,
+    "canonical_text": "Dr Tibble's Vi-Cocoa"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10517512,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

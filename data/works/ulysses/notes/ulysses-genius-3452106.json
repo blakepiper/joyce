@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3452106",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "The patriot’s banquet. Eating orangepeels in the park",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/0dacbb4d2b384fcec5dbb6a4118382ea.978x688x1.jpg\" alt=\"\" /></p><p>In the Phoenix Park, nationalists would eat oranges as a gesture that Ireland would swallow up pro-British Orangeism.</p><p><img src=\"https://images.rapgenius.com/d8e17bf45a7695a86e611b281bec20d0.460x334x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3452106/James-joyce-ulysses-chap-8-lestrygonians/The-patriots-banquet-eating-orangepeels-in-the-park",
+    "original_id": "3452106",
+    "referent_id": 3452106,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "The patriot's banquet. Eating orangepeels in the park",
+    "prefix": "on driving about with scarlet harness. Bolt upright like surgeon M'Ardle. Still David Sheehy beat him for south Meath. Apply for the Chiltern Hundreds and retire into public life. ",
+    "suffix": ". Simon Dedalus said when they put him in parliament that Parnell would come back from the grave and lead him out of the House of Commons by the arm. \n\n — Of the twoheaded octopus,",
+    "start": 32652,
+    "end": 32705,
+    "canonical_text": "The patriot's banquet. Eating orangepeels in the park"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3452106,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

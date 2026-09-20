@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8625173",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "But waiting, always waiting",
+  "html_source": "<p>A reprise of the accentuated “waiting” theme from the <em>Sirens</em> chapter.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8625173/James-joyce-ulysses-chap-13-nausicaa/But-waiting-always-waiting",
+    "original_id": "8625173",
+    "referent_id": 8625173,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "But waiting, always waiting",
+    "prefix": "about refreshments. Impetuous fellow! Strength 1932#317of character had never been Reggy Wylie's strong point and he who would woo and win Gerty MacDowell must be a man among men. ",
+    "suffix": " to be asked and it was leap year too and would soon be over. No prince charming is her beau ideal to lay a rare and wondrous love at her feet but rather a manly man with a strong ",
+    "start": 14370,
+    "end": 14397,
+    "canonical_text": "But waiting, always waiting"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8625173,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4787906",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "English and an Italian.",
+  "html_source": "<p>Stephen calls himself “the servant of two masters,” indicting “The imperial British state” in England and “the holy Roman catholic and apostolic church” in Italy. He is determined to free his thoughts from the mind-control of both institutions.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4787906/James-joyce-ulysses-chap-1-telemachus/English-and-an-italian",
+    "original_id": "4787906",
+    "referent_id": 4787906,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "English and an Italian.",
+    "prefix": "m was not all unkind. \n\n — After all, I should think you are able to free yourself. You are your own master, it seems to me. \n\n — I am the servant of two masters, Stephen said, an ",
+    "suffix": " \n\n — Italian? Haines said. \n\n A crazy queen, old and jealous. Kneel down before me. \n\n — And a third, Stephen said, there is who wants me for odd jobs. \n\n — Italian? Haines said a",
+    "start": 36036,
+    "end": 36059,
+    "canonical_text": "English and an Italian."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4787906,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

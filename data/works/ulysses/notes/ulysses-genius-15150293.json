@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15150293",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Kick like Jeshurum",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Jeshurun\" rel=\"noopener nofollow\">Jeshurum</a> is a poetic name for Israel used in the Hebrew Bible (albeit only four times). One of those times is the following:<br />‘But Jeshurun grew fat and kicked; you grew fat, you grew thick’. (Deuteronomy 32:15)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15150293/James-joyce-ulysses-chap-14-oxen-of-the-sun/Kick-like-jeshurum",
+    "original_id": "15150293",
+    "referent_id": 15150293,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "kick like Jeshurum",
+    "prefix": "n, thy generations and thy days of old, how thou settedst little by me and by my word and broughtest in a stranger to my gates to commit fornication in my sight and to wax fat and ",
+    "suffix": ". Therefore hast thou sinned against the light and hast made me, thy lord, to be the slave of servants. Return, return, Clan Milly: forget me not, O Milesian. Why hast thou done th",
+    "start": 26329,
+    "end": 26347,
+    "canonical_text": "kick like Jeshurum"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15150293,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

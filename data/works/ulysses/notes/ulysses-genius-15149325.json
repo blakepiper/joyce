@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15149325",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Natheless",
+  "html_source": "<p>A contraction of the (already concatenated) nevertheless.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15149325/James-joyce-ulysses-chap-14-oxen-of-the-sun/Natheless",
+    "original_id": "15149325",
+    "referent_id": 15149325,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "natheless",
+    "prefix": "ere was a vat of silver that was moved by craft to open in the which lay strange fishes withouten heads though misbelieving men nie that this be possible thing without they see it ",
+    "suffix": " they are so. And these fishes lie in an oily water brought there from Portugal land because of the fatness that therein is like to the juices of the olivepress. And also it was a ",
+    "start": 10520,
+    "end": 10529,
+    "canonical_text": "natheless"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15149325,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15174250",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Omissions",
+  "html_source": "<p>This may be clear from context, but the doctor almost certainly said “frequent emissions”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15174250/James-joyce-ulysses-chap-18-penelope/Omissions",
+    "original_id": "15174250",
+    "referent_id": 15174250,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "omissions",
+    "prefix": "w by Millys when she was a child whether she had worms or not still all the same paying him for that how much 1922#720is that doctor one guinea please and asking me had I frequent ",
+    "suffix": " where do those old fellows get all the words they have omissions with his shortsighted eyes on me cocked sideways I wouldnt trust him too far to give me chloroform or God knows wh",
+    "start": 86951,
+    "end": 86960,
+    "canonical_text": "omissions"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.971
+  },
+  "genius": {
+    "referent_id": 15174250,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

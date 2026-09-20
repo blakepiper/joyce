@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15118930",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Mynheer Trik van Trumps",
+  "html_source": "<p>Mynheer is Dutch for Mr (cf. Mein Herr). Trik van Trumps (“trick of trumps”) appears to be a play on card games (trick-taking, trump card, etc).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15118930/James-joyce-ulysses-chap-12-cyclops/Mynheer-trik-van-trumps",
+    "original_id": "15118930",
+    "referent_id": 15118930,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Mynheer Trik van Trumps",
+    "prefix": " Backsheesh Rahat Lokum Effendi, Señor Hidalgo Caballero Don Pecadillo y Palabras y Paternoster de la Malora de la Malaria, Hokopoko Harakiri, Hi Hung Chang, Olaf Kobberkeddelsen, ",
+    "suffix": ", Pan Poleaxe Paddyrisky, Goosepond Přhklštř Kratchinabritchisitch, 1922#294Boris Hupinkoff, Herr Hurhausdirektorpresident Hans Chuechli-Steuerli, Nationalgymnasiummuseumsanatorium",
+    "start": 35738,
+    "end": 35761,
+    "canonical_text": "Mynheer Trik van Trumps"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15118930,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

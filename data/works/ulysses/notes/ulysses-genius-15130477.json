@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15130477",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "En ventre sa mère",
+  "html_source": "<p>Italian for “In the stomach/womb of his mother”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15130477/James-joyce-ulysses-chap-12-cyclops/En-ventre-sa-mere",
+    "original_id": "15130477",
+    "referent_id": 15130477,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "En ventre sa mère",
+    "prefix": "d have seen Bloom before that son of his that died was born. I met him one day in the south city markets buying a tin of Neave's food six weeks before the wife was delivered. \n\n — ",
+    "suffix": ", says J. J. \n\n — Do you call that a man? says the citizen. \n\n — I wonder did he ever put it out of sight, says Joe. \n\n — Well, there were two children born anyhow, says Jack Power",
+    "start": 105516,
+    "end": 105533,
+    "canonical_text": "En ventre sa mère"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15130477,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

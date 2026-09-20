@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11215172",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "I am looking for that. Yes, that. Try all pockets. Handker. Freeman. Where did I? Ah, yes. Trousers. Potato. Purse. Where?",
+  "html_source": "<p>A phony distraction. The modern equivalent is taking out your mobile phone and hiding in it to avoid some social awkwardness, hence the name I’ve given it.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11215172/James-joyce-ulysses-chap-8-lestrygonians/I-am-looking-for-that-yes-that-try-all-pockets-handker-freeman-where-did-i-ah-yes-trousers-potato-purse-where",
+    "original_id": "11215172",
+    "referent_id": 11215172,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "I am looking for that. Yes, that. Try all pockets. Handker. Freeman. Where did I? Ah, yes. Trousers. Potato. Purse. Where?",
+    "prefix": "\n His hasty hand went quick into a pocket, took out, read unfolded Agendath Netaim. Where did I? \n\n Busy looking for. \n\n He thrust back quickly Agendath. \n\n Afternoon she said. \n\n ",
+    "suffix": " did I? \n\n Hurry. Walk quietly. Moment more. My heart. \n\n His hand looking for the where did I put found in his hip pocket soap lotion have to call tepid paper stuck. Ah, soap ther",
+    "start": 72803,
+    "end": 72924,
+    "canonical_text": "I am looking for that. Yes, that. Try all pockets. Handker. Freeman. Where did I? Ah, yes. Trousers. Purse. Potato. Where"
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9383
+  },
+  "genius": {
+    "referent_id": 11215172,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 4017165,
+        "login": "KevinFoy",
+        "name": "KevinFoy",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

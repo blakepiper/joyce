@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8736629",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Brass quoits",
+  "html_source": "<p>Decorative brass discs on the bed (Gifford, p71).</p><p><img src=\"https://images.rapgenius.com/06193259254f7d0326432fcc86466a1d.370x500x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8736629/James-joyce-ulysses-chap-4-calypso/Brass-quoits",
+    "original_id": "8736629",
+    "referent_id": 8736629,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "brass quoits",
+    "prefix": " want anything for breakfast? \n\n A sleepy soft grunt answered: \n\n — Mn. \n\n No. She did not want anything. He heard then a warm heavy sigh, softer, as she turned over and the loose ",
+    "suffix": " of the bedstead jingled. Must get those settled really. Pity. All the way from Gibraltar. Forgotten any little Spanish she knew. Wonder what her father gave for it. Old style. Ah ",
+    "start": 3535,
+    "end": 3547,
+    "canonical_text": "brass quoits"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8736629,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

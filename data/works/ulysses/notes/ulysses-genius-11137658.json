@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11137658",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Lord Lytton",
+  "html_source": "<p><a href=\"https://www.britannica.com/biography/Edward-George-Earle-Bulwer-Lytton-1st-Baron-Lytton\" rel=\"noopener nofollow\">https://www.britannica.com/biography/Edward-George-Earle-Bulwer-Lytton-1st-Baron-Lytton</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11137658/James-joyce-ulysses-chap-18-penelope/Lord-lytton",
+    "original_id": "11137658",
+    "referent_id": 11137658,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Lord Lytton",
+    "prefix": "llins East Lynne I read and the shadow of Ashlydyat Mrs Henry Wood Henry Dunbar by that other woman I lent him afterwards with Mulveys photo in it so as he see I wasnt without and ",
+    "suffix": " Eugene Aram Molly bawn she gave me by Mrs Hungerford on account of the name I dont like books with a Molly in them like that one he brought me about the one from Flanders a whore ",
+    "start": 48798,
+    "end": 48809,
+    "canonical_text": "Lord Lytton"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11137658,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

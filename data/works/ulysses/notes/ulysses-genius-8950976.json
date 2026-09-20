@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8950976",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Irish Independent",
+  "html_source": "<p>The Daily Irish Independent was an Irish newspaper launched in the 1890s to promote the pro-Parnellite cause following the split in the Irish Parliamentary Party over Parnell’s continuing leadership. The party had split following the revelation that Parnell had been involved in a long-running relationship with Katherine O'Shea, the wife of a fellow MP, and was the father of most of her children. The leading Irish nationalist newspaper, the Freeman’s Journal, sides with the majority anti-Parnellite side. The Daily Irish Independent was launched to promote the cause of the deposed IPP leader.<br />Wikipedia</p><p>It seems the names in the birth and death notices are very English-sounding rather than Irish.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8950976/James-joyce-ulysses-chap-12-cyclops/Irish-independent",
+    "original_id": "8950976",
+    "referent_id": 8950976,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Irish Independent",
+    "prefix": "Prince's street, says the citizen, the 1961#297subsidised organ. The pledgebound party on the floor of the house. And look at this blasted rag, says he. Look at this, says he. The ",
+    "suffix": ", if you please, founded by Parnell to be the workingman's friend. Listen to the births and deaths in the Irish all for Ireland Independent, and I'll thank you and the marriages. \n",
+    "start": 14298,
+    "end": 14315,
+    "canonical_text": "Irish Independent"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8950976,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

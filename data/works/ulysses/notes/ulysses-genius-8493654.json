@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8493654",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Dilly’s high shoulders",
+  "html_source": "<p>She is not slouching as she was in encountering her father.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8493654/James-joyce-ulysses-chap-10-wandering-rocks/Dillys-high-shoulders",
+    "original_id": "8493654",
+    "referent_id": 8493654,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Dilly's high shoulders",
+    "prefix": "a to all true believers divulged. As good as any other abbot's charms, as mumbling Joachim's. Down, baldynoddle, or we'll wool your wool. \n\n — What are you doing here, Stephen? \n\n ",
+    "suffix": " and shabby dress. \n\n Shut the book quick. Don't let see. \n\n — What are you doing? Stephen said. \n\n1986#199\n\n A Stuart face of nonesuch Charles, lank locks falling at its sides. It",
+    "start": 49432,
+    "end": 49454,
+    "canonical_text": "Dilly's high shoulders"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8493654,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

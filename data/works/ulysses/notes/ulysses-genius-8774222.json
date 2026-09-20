@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8774222",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Electuary or emulsion",
+  "html_source": "<p>e·lec·tu·ar·y<br />noun archaic<br />a medicinal substance mixed with honey or another sweet substance.</p><p>e·mul·sion<br />noun<br />a fine dispersion of minute droplets of one liquid in another in which it is not soluble or miscible.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8774222/James-joyce-ulysses-chap-5-lotus-eaters/Electuary-or-emulsion",
+    "original_id": "8774222",
+    "referent_id": 8774222,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Electuary or emulsion",
+    "prefix": "1932#74his alabaster lilypots. Mortar and pestle. Aq. Dist. Fol. Laur. Te Virid. Smell almost cure you like the dentist's doorbell. Doctor Whack. He ought to physic himself a bit. ",
+    "suffix": ". The first fellow that picked an herb to cure himself had a bit of pluck. Simples. Want to be careful. Enough stuff here to chloroform you. Test: turns blue litmus paper red. Chlo",
+    "start": 30761,
+    "end": 30782,
+    "canonical_text": "Electuary or emulsion"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8774222,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

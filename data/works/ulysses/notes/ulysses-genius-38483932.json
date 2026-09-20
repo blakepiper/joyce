@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-38483932",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Must get that Capel street library book renewed or they’ll write to Kearney, my guarantor.",
+  "html_source": "<p><img src=\"https://images.genius.com/3d554a492a40581fa4af8fab90b706a5.370x616x1.jpg\" alt=\"Image description\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/38483932/James-joyce-ulysses-chap-4-calypso/Must-get-that-capel-street-library-book-renewed-or-theyll-write-to-kearney-my-guarantor",
+    "original_id": "38483932",
+    "referent_id": 38483932,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Must get that Capel street library book renewed or they'll write to Kearney, my guarantor.",
+    "prefix": "ll the time? \n\n — Never read it. Do you want another? \n\n — Yes. Get another of Paul de Kock's. Nice name he has. \n\n She poured more tea into her cup, watching it flow sideways. \n\n ",
+    "suffix": " Reincarnation: that's the word. \n\n — Some people believe, he said, that we go on living in another body after death, that we lived before. They call it reincarnation. That we all ",
+    "start": 22041,
+    "end": 22138,
+    "canonical_text": "Must get that Capel street library book renewed or they'll1961#64 write to Kearney, my guarantor."
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9626
+  },
+  "genius": {
+    "referent_id": 38483932,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 23750768,
+        "login": "MardouFox",
+        "name": "MardouFox",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

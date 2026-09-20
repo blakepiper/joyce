@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8872749",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "1860 print",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/902cd244dd3bef8788463a31248482d8.460x276x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8872749/James-joyce-ulysses-chap-10-wandering-rocks/1860-print",
+    "original_id": "8872749",
+    "referent_id": 8872749,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "1860 print",
+    "prefix": "right, sir. A Monday morning, 'twas so, indeed. \n\n1932#217\n\n Stephen went down Bedford row, the handle of the ash clacking against his shoulderblade. In Clohissey's window a faded ",
+    "suffix": " of Heenan boxing Sayers held his eye. Staring backers with square hats stood round the roped prizering. The heavyweights in tight loincloths proposed gently each to other his bulb",
+    "start": 48078,
+    "end": 48088,
+    "canonical_text": "1860 print"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8872749,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

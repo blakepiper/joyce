@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-3098984",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Marsh’s library",
+  "html_source": "<p><a href=\"http://www.marshlibrary.ie/\" rel=\"noopener nofollow\">Dublin Library</a> is also known as “Marsh’s library” for the inscription above its front door. Stephen (and probably Joyce) are unimpressed by the academic blathering they find there.</p><p><img src=\"https://images.rapgenius.com/853c7babb3366b95be1220a16cd8adf9.550x412x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3098984/James-joyce-ulysses-chap-3-proteus/Marshs-library",
+    "original_id": "3098984",
+    "referent_id": 3098984,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Marsh's library",
+    "prefix": " his and all. You told the Clongowes gentry you had an uncle a judge and an uncle a general in the army. Come out of them, Stephen. Beauty is not there. Nor in the stagnant bay of ",
+    "suffix": " where you read the fading prophecies of Joachim Abbas. For whom? The hundredheaded rabble of the cathedral close. A hater 1932#36of his kind ran from them to the wood of madness, ",
+    "start": 6362,
+    "end": 6377,
+    "canonical_text": "Marsh's library"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3098984,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.5517241379310345
+      },
+      {
+        "id": 170881,
+        "login": "Abraxas01",
+        "name": "Abraxas01",
+        "role": "editor",
+        "attribution": 0.4482758620689655
+      }
+    ]
+  },
+  "color": "F59627"
+}

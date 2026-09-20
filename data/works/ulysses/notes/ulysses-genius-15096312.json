@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15096312",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Filberts",
+  "html_source": "<p>i.e., hazelnuts</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15096312/James-joyce-ulysses-chap-10-wandering-rocks/Filberts",
+    "original_id": "15096312",
+    "referent_id": 15096312,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Filberts",
+    "prefix": "\n — You can tell Barabbas from me, Ben Dollard said, that he can put that writ where Jacko put the nuts. \n\n He led Father Cowley boldly forward, linked to his bulk. \n\n1922#235\n\n — ",
+    "suffix": " I believe they were, Mr Dedalus said, as he dropped his glasses on his coatfront, following them. \n\n*\n*  *\n\n1961#245\n\n — The youngster will be all right, Martin Cunningham said, a",
+    "start": 54889,
+    "end": 54897,
+    "canonical_text": "Filberts"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15096312,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

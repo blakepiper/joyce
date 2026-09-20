@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8580794",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Allfours",
+  "html_source": "<p>Ha!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8580794/James-joyce-ulysses-chap-12-cyclops/Allfours",
+    "original_id": "8580794",
+    "referent_id": 8580794,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Allfours",
+    "prefix": "hether the government has issued orders that these animals shall be 1939#2291961#315slaughtered though no medical evidence is forthcoming as to their pathological condition? \n\n Mr ",
+    "suffix": " (Tamoshant. Con.): Honourable members are already in possession of the evidence produced before a committee of the whole house. I feel I cannot usefully add anything to that. The ",
+    "start": 56048,
+    "end": 56056,
+    "canonical_text": "Allfours"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.938
+  },
+  "genius": {
+    "referent_id": 8580794,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

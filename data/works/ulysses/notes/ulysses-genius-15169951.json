@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15169951",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Messuage",
+  "html_source": "<p>Legal term for a plot of land as the site for a house; also, a residential building taken together with its outbuildings and assigned land.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15169951/James-joyce-ulysses-chap-17-ithaca/Messuage",
+    "original_id": "15169951",
+    "referent_id": 15169951,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "messuage",
+    "prefix": "der or lenders with a saving clause envisaging forced sale, foreclosure and mutual compensation in the 1939#505event of protracted failure to pay the terms assigned, otherwise the ",
+    "suffix": " to become 1922#669the absolute property of the tenant occupier upon expiry of the period of years stipulated. \n\n What rapid but insecure means to opulence might facilitate immedia",
+    "start": 105294,
+    "end": 105302,
+    "canonical_text": "messuage"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9384
+  },
+  "genius": {
+    "referent_id": 15169951,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

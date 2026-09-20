@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11157120",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Burial place",
+  "html_source": "<p>This reflects Bloom’s limited knowledge of Hebrew and ambivalence toward his Judaism.<br /><a href=\"http://www.jewishgibraltar.com/cemeteries.php\" rel=\"noopener nofollow\">http://www.jewishgibraltar.com/cemeteries.php</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11157120/James-joyce-ulysses-chap-18-penelope/Burial-place",
+    "original_id": "11157120",
+    "referent_id": 11157120,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "burial place",
+    "prefix": "enady Bros and exploded it Lord what a bang all the woodcocks and pigeons screaming coming back the same way that we went over middle hill round by the old guardhouse and the jews ",
+    "suffix": " pretending to read out the Hebrew on them I wanted to fire his pistol he said he hadnt one he didnt know what to make of me with his peak cap on that he always wore crooked as oft",
+    "start": 62014,
+    "end": 62025,
+    "canonical_text": "burialplace"
+  },
+  "provenance": {
+    "match_method": "compact-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 11157120,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

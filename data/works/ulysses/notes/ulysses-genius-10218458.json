@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10218458",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Celtic legend older than history",
+  "html_source": "<p>Shakespeare’s play is based on various accounts of the semi-legendary Brythonic figure Leir of Britain.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10218458/James-joyce-ulysses-chap-9-scylla-and-charybdis/Celtic-legend-older-than-history",
+    "original_id": "10218458",
+    "referent_id": 10218458,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Celtic legend older than history",
+    "prefix": "ng unshielded by Shakespeare's reverence, the angel of the world. Why is the underplot of King Lear in which Edmund figures lifted out of Sidney's Arcadia and spatchcocked on to a ",
+    "suffix": "? \n\n — That was Will's way, John Eglinton defended. We should not now combine a Norse saga with an excerpt from a novel by George Meredith. Que voulez-vous? Moore would say. He 196",
+    "start": 57243,
+    "end": 57275,
+    "canonical_text": "Celtic legend older than history"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10218458,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3585111,
+        "login": "JohnManley",
+        "name": "JohnManley",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

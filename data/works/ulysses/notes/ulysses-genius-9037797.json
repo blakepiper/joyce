@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-9037797",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "The moon hath raised",
+  "html_source": "<p><a href=\"https://www.youtube.com/watch?v=Fd7uCiGQF4I\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=Fd7uCiGQF4I</a><br />Joyce had a fine tenor voice and is thought to have shared a stage with McCormack at The Antient Concert rooms in 1903.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9037797/James-joyce-ulysses-chap-13-nausicaa/The-moon-hath-raised",
+    "original_id": "9037797",
+    "referent_id": 9037797,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "The moon hath raised",
+    "prefix": " when he sang Tell me, Mary, how to woo thee or My love and cottage near Rochelle and they had stewed cockles and lettuce with Lazenby's salad dressing for supper and when he sang ",
+    "suffix": " with Mr Dignam that died suddenly and was buried, God have mercy on him, from a stroke. Her mother's birthday that was and Charley was home 1961#354on his holidays and Tom and Mr ",
+    "start": 22001,
+    "end": 22021,
+    "canonical_text": "The moon hath raised"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9037797,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.5660377358490566
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.4339622641509434
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15130171",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Palfreys",
+  "html_source": "<p>A <a href=\"https://en.wikipedia.org/wiki/Palfrey\" rel=\"noopener nofollow\">palfrey</a> is a smaller, smooth-riding, docile horse, used for long-distance riding and typical of women’s mounts.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15130171/James-joyce-ulysses-chap-12-cyclops/Palfreys",
+    "original_id": "15130171",
+    "referent_id": 15130171,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "palfreys",
+    "prefix": "on the registration and he drawing his pay or Crawford gallivanting around the country at the king's expense. \n\n Our travellers reached the rustic hostelry and alighted from their ",
+    "suffix": ". \n\n — Ho, varlet! cried he, who by his mien seemed the leader of the party. Saucy knave! To us! \n\n So saying he knocked loudly with his swordhilt upon the open lattice. \n\n1986#275",
+    "start": 102132,
+    "end": 102140,
+    "canonical_text": "palfreys"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15130171,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

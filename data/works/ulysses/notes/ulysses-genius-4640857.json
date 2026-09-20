@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4640857",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Tout",
+  "html_source": "<p>A “tout” is a spy for the police or an informer.</p><p><img src=\"https://images.rapgenius.com/e3c3eef9ace4e276c9f73b6d5c8f9504.1000x600x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4640857/James-joyce-ulysses-chap-5-lotus-eaters/Tout",
+    "original_id": "4640857",
+    "referent_id": 4640857,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "tout",
+    "prefix": "r. At eleven it is. Time enough. Daresay Corny Kelleher bagged the job for O'Neill's. Singing with his eyes shut. Corny. Met her once in the park. In the dark. What a lark. Police ",
+    "suffix": ". Her name and address she then told with my tooraloom tooraloom tay. O, surely he bagged it. Bury him cheap in a whatyoumaycall. With my tooraloom, tooraloom, tooraloom, tooraloom",
+    "start": 989,
+    "end": 993,
+    "canonical_text": "tout"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4640857,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.7317073170731707
+      },
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.2682926829268293
+      }
+    ]
+  },
+  "color": "F59627"
+}

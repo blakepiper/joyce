@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8774335",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Curd soap",
+  "html_source": "<p>an·i·mal soap<br />soap made with sodium hydroxide and a purified animal fat consisting chiefly of stearin; used in pharmacy in the preparation of certain liniments.<br />Synonym(s): curd soap, domestic soap, tallow soap</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8774335/James-joyce-ulysses-chap-5-lotus-eaters/Curd-soap",
+    "original_id": "8774335",
+    "referent_id": 8774335,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "curd soap",
+    "prefix": "s, bunions and pimples to make it worse. But you want a perfume too. What perfume does your? Peau d'Espagne. That orangeflower water is so fresh. Nice smell these soaps have. Pure ",
+    "suffix": ". Time to get a bath round the corner. Hammam. Turkish. Massage. Dirt gets rolled up in your navel. Nicer if a nice girl did it. Also I think I. Yes I. Do it in the bath. Curious l",
+    "start": 32163,
+    "end": 32172,
+    "canonical_text": "curd soap"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8774335,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

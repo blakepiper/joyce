@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8536657",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "De mortuis nil nisi prius",
+  "html_source": "<p>Latin: Bloom misquotes De mortuis nil nisi bonum — “Of the dead speak nothing but good.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8536657/James-joyce-ulysses-chap-6-hades/De-mortuis-nil-nisi-prius",
+    "original_id": "8536657",
+    "referent_id": 8536657,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "De mortuis nil nisi prius",
+    "prefix": "mp. You must laugh sometimes so better do it that way. Gravediggers in Hamlet. Shows the profound knowledge of the human heart. Daren't joke about the dead for two years at least. ",
+    "suffix": ". Go out of mourning first. Hard to imagine his funeral. Seems a sort of a joke. Read your own obituary notice they say you live longer. Gives you second wind. New lease of life. \n",
+    "start": 47988,
+    "end": 48013,
+    "canonical_text": "De mortuis nil nisi prius"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8536657,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2741778,
+        "login": "davenporterhouse",
+        "name": "davenporterhouse",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

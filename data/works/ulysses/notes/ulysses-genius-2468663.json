@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-2468663",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Terenure",
+  "html_source": "<p>Terenure College</p><p><img src=\"https://images.rapgenius.com/44sau9ei6j8hdfrmpl15jwlkm.1000x667x1.jpg\" alt=\"\" /></p><p>Mat Dillon’s home is in Terenure.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2468663/James-joyce-ulysses-chap-7-aeolus/Terenure",
+    "original_id": "2468663",
+    "referent_id": 2468663,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Terenure",
+    "prefix": "[7]\n\n\n IN THE HEART OF THE HIBERNIAN METROPOLIS \n\nBefore Nelson's pillar trams slowed, shunted, changed trolley, started for Blackrock, Kingstown and Dalkey, Clonskea, Rathgar and ",
+    "suffix": ", Palmerston Park and upper Rathmines, Sandymount Green, Rathmines, Ringsend and Sandymount Tower, Harold's Cross. The hoarse Dublin United Tramway Company's timekeeper bawled them",
+    "start": 182,
+    "end": 190,
+    "canonical_text": "Terenure"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 2468663,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 0.8421052631578948
+      },
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.15789473684210525
+      }
+    ]
+  },
+  "color": "F59627"
+}

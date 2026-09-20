@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-29962264",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "A thick slice of bread, impaled on his knife.",
+  "html_source": "<p>Alludes to the crucifixion of  Jesus Christ , the bread of Eternal Life.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/29962264/James-joyce-ulysses-chap-1-telemachus/A-thick-slice-of-bread-impaled-on-his-knife",
+    "original_id": "29962264",
+    "referent_id": 29962264,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "a thick slice of bread, impaled on his knife.",
+    "prefix": " and wheedling: \n\n — So I do, Mrs Cahill, says she. Begob, ma'am, says Mrs Cahill, God send you don't make them in the one pot. \n\n1922#12\n\n He lunged towards his messmates in turn ",
+    "suffix": " \n\n — That's folk, he said very earnestly, for your book, Haines. Five lines of text and ten pages of notes about the folk and1961#12 the fishgods of Dundrum. Printed by the weird ",
+    "start": 20717,
+    "end": 20762,
+    "canonical_text": "a thick slice of bread, impaled on his knife."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 29962264,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 21260484,
+        "login": "MuthukrishnanSubburayalu",
+        "name": "MuthukrishnanSubburayalu",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

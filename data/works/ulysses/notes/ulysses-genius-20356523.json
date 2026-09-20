@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20356523",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "World",
+  "html_source": "<p>Mistake No. 1 in her letter. The Joycean running joke here is that Martha, his respondent to an ad for a typist, has poor grammar and spelling, with several mistakes in even such a short letter, and so probably isn’t much of a typist. Bloom jokes to himself about this a couple of paragraphs later “Wonder did she wrote it herself.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20356523/James-joyce-ulysses-chap-5-lotus-eaters/World",
+    "original_id": "20356523",
+    "referent_id": 20356523,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "world",
+    "prefix": " like my last letter. Why did you enclose the stamps? I am awfully angry with you. I do wish I could punish you for that. I called you naughty boy because I do not like that other ",
+    "suffix": ". Please tell me what is the real 1922#74meaning of that word? Are you not happy in your home you poor little naughty boy? I do wish I could do something for you. 1932#68Please tel",
+    "start": 15016,
+    "end": 15021,
+    "canonical_text": "world"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.975
+  },
+  "genius": {
+    "referent_id": 20356523,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

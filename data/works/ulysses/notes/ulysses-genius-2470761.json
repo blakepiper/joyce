@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2470761",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Zut! Nom de Dieu!",
+  "html_source": "<p>From the French,</p><blockquote><p>Damn! In the name of God!</p></blockquote><p>(<a href=\"http://cas.umt.edu/english/joyce/notes/010121zut.htm\" rel=\"noopener nofollow\">source</a>)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2470761/James-joyce-ulysses-chap-1-telemachus/Zut-nom-de-dieu",
+    "original_id": "2470761",
+    "referent_id": 2470761,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Zut! Nom de Dieu!",
+    "prefix": "ting from those embattled angels of the church, Michael's host, who defend her ever in the hour of conflict with their lances and their shields. \n\n Hear, hear! Prolonged applause. ",
+    "suffix": " \n\n — Of course I'm a Britisher, Haines' voice said, and I feel as one. I don't want to see my country fall into the hands of German jews either. That's our national problem, I'm a",
+    "start": 37818,
+    "end": 37835,
+    "canonical_text": "Zut! Nom de Dieu!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2470761,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 294663,
+        "login": "CleverPseudonym",
+        "name": "CleverPseudonym",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

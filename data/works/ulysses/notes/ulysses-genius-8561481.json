@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8561481",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Bewept the extinction of that beam of heaven",
+  "html_source": "<p>Another example of overly sentimental speech, condemned by Joyce, often expressed concerning the recent dead, this, however, fueled by alcohol.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8561481/James-joyce-ulysses-chap-12-cyclops/Bewept-the-extinction-of-that-beam-of-heaven",
+    "original_id": "8561481",
+    "referent_id": 8561481,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "bewept the extinction of that beam of heaven",
+    "prefix": " all comers, fair field and no favour. \n\n — The noblest, the truest, says he. And he's gone, poor little Willy, poor little Paddy Dignam. \n\n And mournful and with a heavy heart he ",
+    "suffix": ". \n\n1939#220\n\n Old Garryowen started growling again at Bloom that was skeezing round the door. \n\n — Come in, come on, he won't eat you, says the citizen. \n\n So Bloom slopes in with",
+    "start": 25539,
+    "end": 25583,
+    "canonical_text": "bewept the extinction of that beam of heaven"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8561481,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

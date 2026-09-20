@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-14117868",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "A dry rush",
+  "html_source": "<p>Slang: sex without ejaculation.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/14117868/James-joyce-ulysses-chap-15-circe/A-dry-rush",
+    "original_id": "14117868",
+    "referent_id": 14117868,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "A dry rush",
+    "prefix": "u gave the good father a penance. Nine glorias for shooting a bishop. \n\n ZOE \n\n(Spouts walrus smoke through her nostrils.) He couldn't get a connection. Only, you know, sensation. ",
+    "suffix": ". \n\n BLOOM \n\n Poor man! \n\n1922#488\n\n ZOE \n\n(Lightly.) Only for what happened him. \n\n BLOOM \n\n How? \n\n VIRAG \n\n(A diabolic rictus of black luminosity contracting his visage, cranes ",
+    "start": 129334,
+    "end": 129344,
+    "canonical_text": "A dry rush"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 14117868,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

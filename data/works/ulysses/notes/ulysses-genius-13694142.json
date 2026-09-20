@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13694142",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Unneth",
+  "html_source": "<p>Obsolete spelling of <a href=\"https://en.wiktionary.org/wiki/uneath\" rel=\"noopener nofollow\">uneath</a>: Hard, difficult, not easy</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13694142/James-joyce-ulysses-chap-14-oxen-of-the-sun/Unneth",
+    "original_id": "13694142",
+    "referent_id": 13694142,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "unneth",
+    "prefix": " how it fared with the woman that lay there in childbed. The nursingwoman answered him and said that that woman was in throes now full three days and that it would be a hard birth ",
+    "suffix": " to bear but that now in a little it would be. She said thereto that she had seen many births of women but never was none so hard as was that woman's birth. Then she set it forth a",
+    "start": 7851,
+    "end": 7857,
+    "canonical_text": "unneth"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13694142,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

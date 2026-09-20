@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-7610983",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Glo—o—ri—a in ex—cel—sis De—o",
+  "html_source": "<p>Latin: “Glory be to God in the highest.” A 2nd or 3rd century hymn whose first lines mirror what the angels said upon witnessing the birth of Christ.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7610983/James-joyce-ulysses-chap-9-scylla-and-charybdis/Glooria-in-excelsis-deo",
+    "original_id": "7610983",
+    "referent_id": 7610983,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Glo—o—ri—a in ex—cel—sis De—o",
+    "prefix": "e these nineteen hundred years sitteth on the right hand of His Own Self but yet shall come in the latter day to doom the quick and dead when all the quick shall be dead already.\n\n",
+    "suffix": ".\n\nHe lifts his hands. Veils fall. O, flowers! Bells with bells with bells aquiring.\n\n—Yes, indeed, the quaker librarian said. A most instructive discussion. Mr Mulligan, I'll be b",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.4444
+  },
+  "genius": {
+    "referent_id": 7610983,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2082826,
+        "login": "Jmpetro",
+        "name": "Jmpetro",
+        "role": null,
+        "attribution": 0.9285714285714286
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.07142857142857144
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

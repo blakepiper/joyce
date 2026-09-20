@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8794511",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Brian Boroimhe house",
+  "html_source": "<p>Just north of the Crossguns bridge, at 1 Prospect Terrace, the funeral carriages pass a pub called the “Brian Boroimhe house,” named after the great Irish leader Brian Boru (Boroimhe), who reigned as High King from 1002 and whose army defeated the Danes at Clontarf in 1014</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8794511/James-joyce-ulysses-chap-6-hades/Brian-boroimhe-house",
+    "original_id": "8794511",
+    "referent_id": 8794511,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Brian Boroimhe house",
+    "prefix": "ise, Leixlip, Clonsilla. Dropping down lock by lock to Dublin. With turf from the midland bogs. Salute. He lifted his brown straw hat, saluting Paddy Dignam. \n\n They drove on past ",
+    "suffix": ". Near it now. \n\n — I wonder how is our friend Fogarty getting on, Mr Power said. \n\n — Better ask Tom Kernan, Mr Dedalus said. \n\n — How is that? Martin Cunningham said. Left him we",
+    "start": 26619,
+    "end": 26639,
+    "canonical_text": "Brian Boroimhe house"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8794511,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

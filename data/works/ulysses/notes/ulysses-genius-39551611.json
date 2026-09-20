@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-39551611",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "A card Unfurnished Apartments slipped from the sash and fell.",
+  "html_source": "<p>The Blooms want to sublet the top two floors.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/39551611/James-joyce-ulysses-chap-10-wandering-rocks/A-card-unfurnished-apartments-slipped-from-the-sash-and-fell",
+    "original_id": "39551611",
+    "referent_id": 39551611,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "A card Unfurnished Apartments slipped from the sash and fell.",
+    "prefix": "owards a window and bayed deeply: \n\n1932#202\n\n — home and beauty. \n\n The gay sweet chirping whistling within went on a bar or two, ceased. The blind of the window was drawn aside. ",
+    "suffix": " 1961#225A plump bare generous arm shone, was seen, held forth from a white 1939#165petticoatbodice and taut shiftstraps. A woman's hand flung forth a coin over the area railings. ",
+    "start": 15015,
+    "end": 15076,
+    "canonical_text": "A card Unfurnished Apartments slipped from the sash and fell."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 39551611,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 23750768,
+        "login": "MardouFox",
+        "name": "MardouFox",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21299712",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Ah, that soap",
+  "html_source": "<p>The soap Bloom had purchased in Sweny’s chemist shop in Chapter 5.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21299712/James-joyce-ulysses-chap-6-hades/Ah-that-soap",
+    "original_id": "21299712",
+    "referent_id": 21299712,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Ah, that soap",
+    "prefix": "ls and the hair. Keep a bit in an envelope. Grow all the same after. Unclean job. \n\n All waited. Nothing was said. Stowing in the wreaths probably. I am sitting on something hard. ",
+    "suffix": ": in my hip pocket. Better shift it out of that. Wait for an opportunity. \n\n All waited. Then wheels were heard from in front, turning: then nearer: then horses' hoofs. A jolt. The",
+    "start": 1336,
+    "end": 1349,
+    "canonical_text": "Ah, that soap"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21299712,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

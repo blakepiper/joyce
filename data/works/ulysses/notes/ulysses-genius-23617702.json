@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23617702",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Christian Brothers.",
+  "html_source": "<p>The Christian Brothers School on Dublin’s Synge Street was founded in 1864. It is a post primary Catholic school for boys.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23617702/James-joyce-ulysses-chap-16-eumaeus/Christian-brothers",
+    "original_id": "23617702",
+    "referent_id": 23617702,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Christian Brothers.",
+    "prefix": "name. \n\n — Ah, God, Corley replied, sure I couldn't teach in a school, man. I was never one of your bright ones, he added with a half laugh. I got stuck twice in the junior at the ",
+    "suffix": " \n\n — I have no place to sleep myself, Stephen informed him. \n\n Corley at the first go-off was inclined to suspect it was something to do with Stephen being fired out of his digs f",
+    "start": 11363,
+    "end": 11382,
+    "canonical_text": "Christian Brothers."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23617702,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795874",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "God’s acre",
+  "html_source": "<p>God’s Acre (German Gottesacker, lit. Field of God) is an ancient Germanic designation for a burial ground.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795874/James-joyce-ulysses-chap-6-hades/Gods-acre",
+    "original_id": "8795874",
+    "referent_id": 8795874,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "God's acre",
+    "prefix": "rd it ought to be that poem of whose is it Wordsworth or Thomas Campbell. Entered into rest the protestants put it. Old Dr Murren's. The great physician called him home. Well it's ",
+    "suffix": " for them. Nice country residence. Newly plastered and painted. Ideal spot to have a quiet smoke and read the Church Times. Marriage ads they never try to beautify. Rusty wreaths19",
+    "start": 57420,
+    "end": 57430,
+    "canonical_text": "God's acre"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8795874,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

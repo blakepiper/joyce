@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9014962",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Kip",
+  "html_source": "<p>chiefly british slang:<br />1. kip (n): a rooming house; a room or bed in a rooming house.</p><p>UrbanDictionary.com</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9014962/James-joyce-ulysses-chap-12-cyclops/Kip",
+    "original_id": "9014962",
+    "referent_id": 9014962,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "kip",
+    "prefix": " tear is bloody near your eye. Talking through his bloody hat. Fitter for him go home to the little sleepwalking bitch he married, Mooney, the bumbailiff's daughter, mother kept a ",
+    "suffix": " in Hardwicke street, that used to be stravaging about the landings Bantam Lyons told me that was stopping there at two in the morning without a stitch on her, exposing her person,",
+    "start": 25168,
+    "end": 25171,
+    "canonical_text": "kip"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 9014962,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

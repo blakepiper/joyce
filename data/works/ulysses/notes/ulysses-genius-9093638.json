@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9093638",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Frockcoat",
+  "html_source": "<p>Kernan is overdressed</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9093638/James-joyce-ulysses-chap-10-wandering-rocks/Frockcoat",
+    "original_id": "9093638",
+    "referent_id": 9093638,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "frockcoat",
+    "prefix": "including our own. Isn't that true? That's a fact. \n\n Graft, my dear sir. Well, of course, where there's money going there's always someone to pick it up. \n\n Saw him looking at my ",
+    "suffix": ". Dress does it. Nothing like a dressy appearance. Bowls them over. \n\n — Hello, Simon, Father Cowley said. How are things? \n\n1961#239\n\n — Hello, Bob, old man, Mr Dedalus answered, ",
+    "start": 42326,
+    "end": 42335,
+    "canonical_text": "frockcoat"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9454
+  },
+  "genius": {
+    "referent_id": 9093638,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083736,
+        "login": "JessicaVestuto",
+        "name": "JessicaVestuto",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

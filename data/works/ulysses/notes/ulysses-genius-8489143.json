@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8489143",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "An elderly female, no more young, left the building of the courts of chancery",
+  "html_source": "<p>Intrusion that references an actual court case reported in the Freeman’s Journal on June 16, 1904, that of one “Potterton, of unsound mind” and of another case, “The Owners of the Lady Cairns v. the Owners of the barque Mona.” It also reported that concerning, “Arbitration between Havery and the Ocean Accident and Guarantee Corporation Limited – The Court reserved judgment.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8489143/James-joyce-ulysses-chap-10-wandering-rocks/An-elderly-female-no-more-young-left-the-building-of-the-courts-of-chancery",
+    "original_id": "8489143",
+    "referent_id": 8489143,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "An elderly female, no more young, left the building of the courts of chancery",
+    "prefix": " Melting breast ointments (for him! For Raoul!). Armpits' oniony sweat. Fishgluey slime (her heaving embonpoint!). Feel! Press! Crushed! Sulphur dung of lions! \n\n Young! Young! \n\n ",
+    "suffix": ", king's bench, exchequer and common pleas, having heard in the lord chancellor's court the case in lunacy of Potterton, in the admiralty division the summons, exparte motion, of t",
+    "start": 35724,
+    "end": 35801,
+    "canonical_text": "An elderly female, no more young, left the building of the courts of chancery"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8489143,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

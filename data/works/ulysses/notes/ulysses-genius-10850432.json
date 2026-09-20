@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10850432",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Vanities of vanities",
+  "html_source": "<p>Ecclesiastes 1:2<br />King James Bible<br />Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10850432/James-joyce-ulysses-chap-17-ithaca/Vanities-of-vanities",
+    "original_id": "10850432",
+    "referent_id": 10850432,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "vanities of vanities",
+    "prefix": "in varying forms with finite differences resulting similar to the whole and to one another would probably there as here remain inalterably and inalienably attached to vanities, to ",
+    "suffix": " and to all that is vanity. \n\n1922#652\n\n And the problem of possible redemption? \n\n The minor was proved by the major. \n\n Which various features of the constellations were in turn ",
+    "start": 69772,
+    "end": 69792,
+    "canonical_text": "vanities of vanities"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10850432,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

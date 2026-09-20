@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2607467",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Physiques, chimiques et naturelles",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/d6d33dfe7e41c90432047d1bfda5949a.400x360x1.png\" alt=\"\" /></p><p>French for <em>physics, chemistry and biology</em>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2607467/James-joyce-ulysses-chap-3-proteus/Physiques-chimiques-et-naturelles",
+    "original_id": "2607467",
+    "referent_id": 2607467,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "physiques, chimiques et naturelles",
+    "prefix": " Latin quarter hat. God, we simply must dress the character. I want puce gloves. You were a student, weren't you? Of what in the other devil's name? Paysayenn. P. C. N., you know: ",
+    "suffix": ". Aha. Eating your groatsworth of mou en civet, fleshpots of Egypt, elbowed by belching cabmen. Just say in the most natural tone: when I was in Paris, boul' Mich', I used to. Yes,",
+    "start": 10772,
+    "end": 10806,
+    "canonical_text": "physiques, chimiques et naturelles"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2607467,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 293151,
+        "login": "jeeho",
+        "name": "Jeeho",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8800317",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "We are the boys of Wexford\n Who fought with heart and hand.",
+  "html_source": "<p>Boys Of Wexford (the)<br />Author: R.D. Joyce<br />In comes the Captain’s daughter, the Captain of the Yeos<br />saying brave united Irishmen we’ll ne’re again be foes<br />A thousand punds I’ll give you and fly from home with thee<br />I’ll dress myself in man’s attire and fight for liberty<br />CHORUS<br />We are the Boys from Wexford<br />Who fought with heart and hand<br />To burst in twain the galling chain<br />and free our native land</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8800317/James-joyce-ulysses-chap-7-aeolus/We-are-the-boys-of-wexford-who-fought-with-heart-and-hand",
+    "original_id": "8800317",
+    "referent_id": 8800317,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "We are the boys of Wexford\n Who fought with heart and hand.",
+    "prefix": " ajar, paused. J. J. O'Molloy slapped the heavy pages over. The noise of two shrill voices, a mouthorgan, echoed in the bare hallway from the newsboys squatted on the doorsteps: \n\n",
+    "suffix": " \n\n EXIT BLOOM \n\n — I'm just running round to Bachelor's walk, Mr Bloom said, about this ad of Keyes's. Want to fix it up. They tell me he's round there in Dillon's. \n\n1932#1151986",
+    "start": 23405,
+    "end": 23464,
+    "canonical_text": "We are the boys of Wexford \nWho fought with heart and hand."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 8800317,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

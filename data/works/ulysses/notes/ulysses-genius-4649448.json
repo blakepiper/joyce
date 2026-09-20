@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4649448",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "That last day idea.",
+  "html_source": "<p><a href=\"https://genius.com/4649449\" rel=\"noopener nofollow\">John 6:40</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4649448/James-joyce-ulysses-chap-6-hades/That-last-day-idea",
+    "original_id": "4649448",
+    "referent_id": 4649448,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "That last day idea.",
+    "prefix": "d there you are. Lots of them lying around here: lungs, hearts, livers. Old rusty pumps: damn the thing else.1932#94 The resurrection and the life. Once you are dead you are dead. ",
+    "suffix": " Knocking them all up out of their graves. Come forth, Lazarus! And he came fifth and lost the job. Get1961#105 up! Last day! Then every fellow mousing around for his liver and his",
+    "start": 40512,
+    "end": 40531,
+    "canonical_text": "That last day idea."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4649448,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

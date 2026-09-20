@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-2669673",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "O Sweetheart May",
+  "html_source": "<p>“Sweetheart May” is a song based on young children making heroes of people a few years older than them. When the narrator returns after several years of travelling, his “Sweetheart May” has grown out of her childhood crush, has forgotten all about him and is engaged to be married.</p><p>“Sweetheart May! when you grow up one day,<br />You may marry another and my love betray, but<br />I’ll wait for you and then we shall see,<br />What you will do when I ask you to marry me.”</p><p>Probable period of publication: 1880-1900</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2669673/James-joyce-ulysses-chap-18-penelope/O-sweetheart-may",
+    "original_id": "2669673",
+    "referent_id": 2669673,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "O Sweetheart May",
+    "prefix": "s blacks his own boots too and he always takes off his hat when he comes up in the street like then and now hes going about in his slippers to look for £10000 for a postcard up up ",
+    "suffix": " wouldnt a thing like that simply bore you stiff to extinction actually too stupid even to take his boots off now what could you make of a man like that Id rather die 20 times over",
+    "start": 17050,
+    "end": 17066,
+    "canonical_text": "O Sweetheart May"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2669673,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 406252,
+        "login": "gimblewart",
+        "name": "gimblewart",
+        "role": null,
+        "attribution": 0.989010989010989
+      },
+      {
+        "id": 149810,
+        "login": "perfectrhyme",
+        "name": "Perfectrhyme",
+        "role": "editor",
+        "attribution": 0.01098901098901099
+      }
+    ]
+  },
+  "color": "F59627"
+}

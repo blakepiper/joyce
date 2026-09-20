@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-24331633",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Her green and maroon brushes for Charles Stewart Parnell and for Michael Davitt,",
+  "html_source": "<p>These brushes and their meanings are presented as among Stephen’s earliest memories in <em>Portrait of the Artist as a Young Man</em>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/24331633/James-joyce-ulysses-chap-17-ithaca/Her-green-and-maroon-brushes-for-charles-stewart-parnell-and-for-michael-davitt",
+    "original_id": "24331633",
+    "referent_id": 24331633,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "her green and maroon brushes for Charles Stewart Parnell and for Michael Davitt,",
+    "prefix": " her suppositious wealth, her lapses of responsiveness and incipient catarrhal deafness: the younger, her lamp of colza oil before the statue of the Immaculate Conception, 1922#633",
+    "suffix": " her tissue papers. \n\n Were there no means still remaining to him to achieve the rejuvenation which these reminiscences divulged to a younger companion rendered the more desirable?",
+    "start": 33192,
+    "end": 33272,
+    "canonical_text": "her green and maroon brushes for Charles Stewart Parnell and for Michael Davitt,"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 24331633,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9699081,
+        "login": "AntoineBoisvert",
+        "name": "AntoineBoisvert",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

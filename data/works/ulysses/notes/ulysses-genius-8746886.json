@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8746886",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Drago’s",
+  "html_source": "<p>Hairdresser’s Dawson Street (Gifford &amp; Seidman).</p><p><img src=\"https://images.rapgenius.com/9e37c108376425ea69bff22be36bb952.600x381x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8746886/James-joyce-ulysses-chap-4-calypso/Dragos",
+    "original_id": "8746886",
+    "referent_id": 8746886,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Drago's",
+    "prefix": " by the way? Must have put it back on the peg. Or hanging up on the floor. Funny, I don't remember that. Hallstand too full. Four umbrellas, her raincloak. Picking up the letters. ",
+    "suffix": " shopbell ringing. Queer I was just thinking that moment. Brown brillantined hair over his collar. Just had a wash and brushup. Wonder have I time for a bath this 1939#52morning. T",
+    "start": 29936,
+    "end": 29943,
+    "canonical_text": "Drago's"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8746886,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

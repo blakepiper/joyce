@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4630148",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Wild goose",
+  "html_source": "<p>This bird connection is the only thing that appears to connect Stephen’s thoughts. His thoughts go something like: I see The Pigeohouse to pigeon to His father was a bird to Patrice, son of a wild goose (an Irishmen that has fled his homeland).</p><p>He met Patrice while he was in Paris and so his thoughts will stay on Paris for a while.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4630148/James-joyce-ulysses-chap-3-proteus/Wild-goose",
+    "original_id": "4630148",
+    "referent_id": 4630148,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "wild goose",
+    "prefix": "the Pigeonhouse. \n\n— Qui vous a mis dans cette fichue position? \n\n— C'est le pigeon, Joseph. \n\n Patrice, home on furlough, lapped warm milk with me in the bar MacMahon. Son of the ",
+    "suffix": ", Kevin Egan of Paris. My father's a bird, he lapped the sweet lait chaud with pink young tongue, plump bunny's face. Lap, lapin. He hopes to win in the gros lots. About the nature",
+    "start": 10103,
+    "end": 10113,
+    "canonical_text": "wild goose"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4630148,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

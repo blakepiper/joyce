@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4641424",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Peau d’Espagne",
+  "html_source": "<p>French: Spanish skin.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4641424/James-joyce-ulysses-chap-5-lotus-eaters/Peau-despagne",
+    "original_id": "4641424",
+    "referent_id": 4641424,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Peau d'Espagne",
+    "prefix": "een's sons, duke of Albany was it? had only one skin. Leopold, yes. Three we have. Warts, bunions and pimples to make it worse. But you want a perfume too. What perfume does your? ",
+    "suffix": ". That orangeflower water is so fresh. Nice smell these soaps have. Pure curd soap. Time to get a bath round the corner. Hammam. Turkish. Massage. Dirt gets rolled up in your navel",
+    "start": 32076,
+    "end": 32090,
+    "canonical_text": "Peau d'Espagne"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4641424,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

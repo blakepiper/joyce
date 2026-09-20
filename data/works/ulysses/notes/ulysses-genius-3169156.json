@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-3169156",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Pimander",
+  "html_source": "<p><a href=\"http://encyclopedia.thefreedictionary.com/Poimandres\" rel=\"noopener nofollow\">Classical reference</a> meaning a shepherd of men and/or practitioner of hermeticism. <a href=\"http://blog.frankdelaney.com/2012/10/re-joyce-123-matadors-shepherds.html\" rel=\"noopener nofollow\">Very well worth a listen</a>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3169156/James-joyce-ulysses-chap-3-proteus/Pimander",
+    "original_id": "3169156",
+    "referent_id": 3169156,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "pimander",
+    "prefix": "is breath hangs over our saucestained plates, the green fairy's fang thrusting between his lips. Of Ireland, the Dalcassians, of hopes, conspiracies, of Arthur Griffith, now, A E, ",
+    "suffix": ", good shepherd of men. To yoke me as his yokefellow, our crimes our common cause. You're your father's son. I know the voice. His fustian shirt, sanguineflowered, trembles its Spa",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.5263
+  },
+  "genius": {
+    "referent_id": 3169156,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.9411764705882354
+      },
+      {
+        "id": 149810,
+        "login": "perfectrhyme",
+        "name": "Perfectrhyme",
+        "role": "editor",
+        "attribution": 0.05882352941176471
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

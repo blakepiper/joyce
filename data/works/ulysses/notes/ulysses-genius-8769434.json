@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8769434",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Beef to the heels",
+  "html_source": "<p>“Beef To The Heel Like A Mullingar Heifer” is Irish slang for a lady with slightly over weight legs.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8769434/James-joyce-ulysses-chap-4-calypso/Beef-to-the-heels",
+    "original_id": "8769434",
+    "referent_id": 8769434,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "beef to the heels",
+    "prefix": ". They are lovely. I am getting on swimming in the photo business now. Mr Coghlan took one of me and Mrs will send when developed. We did great biz yesterday. Fair day and all the ",
+    "suffix": " were in. We are going to lough Owel on Monday with a few friends to make a scrap picnic. Give my love to mummy and to yourself a big kiss and thanks. I hear them at the piano down",
+    "start": 24800,
+    "end": 24817,
+    "canonical_text": "beef to the heels"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8769434,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

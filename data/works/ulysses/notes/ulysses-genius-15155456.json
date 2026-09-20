@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15155456",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Ooim nachez",
+  "html_source": "<p>My edition has it “Goim nachez” which is yiddish (now “Goyim nachez”) for “Gentile’s pleasure”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15155456/James-joyce-ulysses-chap-15-circe/Ooim-nachez",
+    "original_id": "15155456",
+    "referent_id": 15155456,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Ooim nachez",
+    "prefix": "our hand open. Lockjaw. They make you kaput, Leopoldleben. You watch them chaps.\n\nBLOOM (Weakly.) They challenged me to a sprint. It was muddy. I slipped.\n\nRUDOLPH (With contempt) ",
+    "suffix": ". Nice spectacles for your poor mother!\n\nBLOOM Mamma!\n\nELLEN BLOOM (In pantomime dame's stringed mobcap, crinoline and bustle, widow Twankey's blouse with muttonleg sleeves buttone",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.4211
+  },
+  "genius": {
+    "referent_id": 15155456,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

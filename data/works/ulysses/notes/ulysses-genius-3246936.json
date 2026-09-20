@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3246936",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Martha",
+  "html_source": "<p>Italicised in print ie the opera.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3246936/James-joyce-ulysses-chap-7-aeolus/Martha",
+    "original_id": "3246936",
+    "referent_id": 3246936,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Martha",
+    "prefix": " Mr Bloom said. \n\n — Yes, Red Murray agreed. But Mario was said to be the picture of Our Saviour. \n\n Jesus Mario with rougy cheeks, doublet and spindle legs. Hand on his heart. In ",
+    "suffix": ". \n\nCo-ome thou lost one, \nCo-ome thou dear one \n\n1922#1131961#117\n\n THE CROZIER AND THE PEN \n\n — His grace phoned down twice this morning, Red Murray said gravely. \n\n1932#105\n\n Th",
+    "start": 3166,
+    "end": 3172,
+    "canonical_text": "Martha"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9097
+  },
+  "genius": {
+    "referent_id": 3246936,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

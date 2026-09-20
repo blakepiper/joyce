@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-6890165",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Vico road, Dalkey",
+  "html_source": "<p>A coastal town of Ireland, known for its spectacular views.</p><p><img src=\"https://images.genius.com/b0e0e45a3600a25c9b4e952e3abe2897.1000x619x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6890165/James-joyce-ulysses-chap-2-nestor/Vico-road-dalkey",
+    "original_id": "6890165",
+    "referent_id": 6890165,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "Vico road, Dalkey",
+    "prefix": "een his palms at whiles and swallowed them softly. Crumbs adhered to the tissue of his lips. A sweetened boy's breath. Welloff people, proud that their eldest son was in the navy. ",
+    "suffix": ". \n\n — Pyrrhus, sir? Pyrrhus, a pier. \n\n All laughed. Mirthless high malicious laughter. Armstrong looked round 1922#24at his classmates, silly glee in profile. In a moment they wi",
+    "start": 1336,
+    "end": 1353,
+    "canonical_text": "Vico road, Dalkey"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6890165,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.75
+      },
+      {
+        "id": 1060900,
+        "login": "dvrath",
+        "name": "dvrath",
+        "role": "contributor",
+        "attribution": 0.25
+      }
+    ]
+  },
+  "color": "F59627"
+}

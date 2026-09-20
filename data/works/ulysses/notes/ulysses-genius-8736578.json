@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8736578",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Hanlon’s",
+  "html_source": "<p>S. Hanlon, dairyman, 26 Lower Dorset Street (Gifford, p70).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8736578/James-joyce-ulysses-chap-4-calypso/Hanlons",
+    "original_id": "8736578",
+    "referent_id": 8736578,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Hanlon's",
+    "prefix": "d long, showing him her milkwhite teeth. He watched the dark eyeslits narrowing with greed till her eyes were green stones. Then he went to the1986#45 dresser, took the jug1961#55 ",
+    "suffix": " milkman had just filled for him, poured warmbubbled milk on a saucer and set it slowly on the floor. \n\n — Gurrhr! she cried, running to lap. \n\n He watched the bristles shining wir",
+    "start": 2148,
+    "end": 2156,
+    "canonical_text": "Hanlon's"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8736578,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

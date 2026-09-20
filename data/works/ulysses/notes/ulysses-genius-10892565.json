@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10892565",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Aconite",
+  "html_source": "<p>aconite is a poisonous plant used in some herbal medicines<br /><a href=\"http://www.webmd.com/vitamins-supplements/ingredientmono-609-aconite.aspx?activeingredientid=609\" rel=\"noopener nofollow\">http://www.webmd.com/vitamins-supplements/ingredientmono-609-aconite.aspx?activeingredientid=609</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10892565/James-joyce-ulysses-chap-17-ithaca/Aconite",
+    "original_id": "10892565",
+    "referent_id": 10892565,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "aconite",
+    "prefix": "subject suffering from progressive melancholia did these objects evoke in Bloom? \n\n An old man, widower, unkempt of hair, in bed, with head covered, sighing: an infirm dog, Athos: ",
+    "suffix": ", resorted to by increasing doses of grains and scruples as a palliative of recrudescent neuralgia: the face in death of a septuagenarian suicide by poison. \n\n Why did Bloom experi",
+    "start": 120193,
+    "end": 120200,
+    "canonical_text": "aconite"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 10892565,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-22953658",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "York and Savoy",
+  "html_source": "<p>Varieties of cabbage.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/22953658/James-joyce-ulysses-chap-12-cyclops/York-and-savoy",
+    "original_id": "22953658",
+    "referent_id": 22953658,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "York and Savoy",
+    "prefix": " cauliflowers, floats of spinach, pineapple chunks, Rangoon beans, strikes of tomatoes, drums of figs, drills 1939#214of Swedes, spherical potatoes and tallies of iridescent kale, ",
+    "suffix": ", and trays of onions, pearls of the earth, and punnets of mushrooms and custard marrows and fat vetches and bere and rape and red green yellow brown russet sweet big bitter ripe p",
+    "start": 6258,
+    "end": 6272,
+    "canonical_text": "York and Savoy"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 22953658,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

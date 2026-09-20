@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15153757",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Bacc. Arith.",
+  "html_source": "<p>Baccalaureatus (Bachelor) of Arithmetic? No good source could be found, but it agrees with “both natality and mortality…everything…is subject to a law of numeration as yet unascertained.”</p><p>Interesting etymology:<br />From French baccalauréat or medieval Latin baccalaureatus, from baccalaureus ‘bachelor.’ The earlier form baccalarius was altered by wordplay to conform with bacca lauri ‘laurel berry,’ because of the laurels awarded to scholars.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15153757/James-joyce-ulysses-chap-14-oxen-of-the-sun/Bacc-arith",
+    "original_id": "15153757",
+    "referent_id": 15153757,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Bacc. Arith.",
+    "prefix": "ell as they do, all things considered and in spite of our human shortcomings which often baulk nature in her intentions. An ingenious suggestion is that thrown out by Mr V. Lynch (",
+    "suffix": ") that both natality and mortality, as well as all other phenomena of evolution, tidal movements, lunar phases, blood temperatures, diseases in general, everything, in fine, in nat",
+    "start": 91985,
+    "end": 91997,
+    "canonical_text": "Bacc. Arith."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15153757,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

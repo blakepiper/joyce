@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8483925",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Two pink faces",
+  "html_source": "<p>This marks the beginning of the eighth section. The two pink faces belong to Ned Lambert and J. J. O'Molloy.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8483925/James-joyce-ulysses-chap-10-wandering-rocks/Two-pink-faces",
+    "original_id": "8483925",
+    "referent_id": 8483925,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Two pink faces",
+    "prefix": "from Sport was in 1961#229looking for you. Mr Lenehan, yes. He said he'll be in the Ormond at four. No, sir. Yes, sir. I'll ring them up after five. \n\n1922#220\n\n*\n*  *\n\n1939#168\n\n ",
+    "suffix": " turned in the flare of the tiny torch. \n\n — Who's that? Ned Lambert asked. Is that Crotty? \n\n — Ringabella and Crosshaven, a voice replied groping for foothold. \n\n — Hello, Jack, ",
+    "start": 22598,
+    "end": 22612,
+    "canonical_text": "Two pink faces"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8483925,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 0.85
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.15
+      }
+    ]
+  },
+  "color": "F59627"
+}

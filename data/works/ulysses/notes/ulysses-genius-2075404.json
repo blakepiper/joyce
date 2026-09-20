@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-2075404",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Croppies lie down.",
+  "html_source": "<p>This is a traditional Protestant loyalist song.  Croppies is a general term for Irish rebels which comes from the close-cropped hairstyles the rebels wore during the <a href=\"http://en.wikipedia.org/wiki/Wexford_Rebellion\" rel=\"noopener nofollow\">Wexford Rebellion</a>.</p><p><a href=\"http://www.youtube.com/watch?v=orLeh3GsY6s\" rel=\"noopener nofollow\">http://www.youtube.com/watch?v=orLeh3GsY6s</a></p><p>PROPOSED SUGGESTION: Used by Stephen to silently resist his oppressor.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2075404/James-joyce-ulysses-chap-2-nestor/Croppies-lie-down",
+    "original_id": "2075404",
+    "referent_id": 2075404,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "Croppies lie down.",
+    "prefix": "mmortal memory. The lodge of Diamond in Armagh the splendid behung with corpses of papishes. Hoarse, masked and armed, the planters' covenant. The black north and true blue bible. ",
+    "suffix": " \n\n Stephen sketched a brief gesture. \n\n — I have rebel blood in me too, Mr Deasy said. On the spindle side. But I am descended from sir John Blackwood who voted for the union. We ",
+    "start": 15530,
+    "end": 15548,
+    "canonical_text": "Croppies lie down."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2075404,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 0.7945205479452055
+      },
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 0.1780821917808219
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.0273972602739726
+      }
+    ]
+  },
+  "color": "F59627"
+}

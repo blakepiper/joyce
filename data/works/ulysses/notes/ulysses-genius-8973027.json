@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8973027",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Beggar",
+  "html_source": "<p>reduce (someone) to poverty.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8973027/James-joyce-ulysses-chap-12-cyclops/Beggar",
+    "original_id": "8973027",
+    "referent_id": 8973027,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Beggar",
+    "prefix": "\n\n — A new apostle to the gentiles, says the citizen. Universal love. \n\n — Well, says John Wyse. Isn't that what we're told. Love your neighbour. \n\n — That chap? says the citizen. ",
+    "suffix": " my neighbour is his motto. Love, moya! He's a nice pattern of a Romeo and Juliet. \n\n Love loves to love love. Nurse loves the new chemist. Constable 14A loves Mary Kelly. Gerty Ma",
+    "start": 95456,
+    "end": 95462,
+    "canonical_text": "Beggar"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8973027,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

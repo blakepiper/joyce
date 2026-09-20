@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9472361",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Que calle es esta",
+  "html_source": "<p>what street is this?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9472361/James-joyce-ulysses-chap-15-circe/Que-calle-es-esta",
+    "original_id": "9472361",
+    "referent_id": 9472361,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "que calle es esta",
+    "prefix": "t O'Beirne's wall, a visage unknown, injected with dark mercury. From under a wideleaved sombrero the figure regards him with evil eye.) \n\n BLOOM \n\nBueñas noches, señorita Blanca, ",
+    "suffix": "? \n\n THE FIGURE \n\n (Impassive, raises a signal arm.) Password. Sraid Mabbot. \n\n BLOOM \n\n Haha. Merci. Esperanto. Slan leath. (He mutters.) Gaelic league spy, sent by that fireeater",
+    "start": 10465,
+    "end": 10482,
+    "canonical_text": "que calle es esta"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9472361,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

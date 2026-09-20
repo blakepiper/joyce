@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-2685325",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Shouts from the open window",
+  "html_source": "<p>Stephen has never been to Oxford, so these are false memories constructed by his creative subconscious, like little Stephen setting the moocow story on a familiar road in <a href=\"http://poetry.genius.com/2683421\" rel=\"noopener nofollow\"><em>The Portrait</em>.</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2685325/James-joyce-ulysses-chap-1-telemachus/Shouts-from-the-open-window",
+    "original_id": "2685325",
+    "referent_id": 2685325,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Shouts from the open window",
+    "prefix": " heels, chased by Ades of Magdalen with the tailor's1986#6 shears. A scared calf's face gilded with marmalade. I don't want to be debagged! Don't you play the giddy ox with me! \n\n ",
+    "suffix": " startling evening in the quadrangle. A deaf gardener, aproned, masked with Matthew Arnold's face, pushes his mower on the sombre lawn watching narrowly the dancing motes of grassh",
+    "start": 10149,
+    "end": 10176,
+    "canonical_text": "Shouts from the open window"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2685325,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 404290,
+        "login": "TimFinnegan",
+        "name": "TimFinnegan",
+        "role": "contributor",
+        "attribution": 0.9666666666666667
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.03333333333333333
+      }
+    ]
+  },
+  "color": "F59627"
+}

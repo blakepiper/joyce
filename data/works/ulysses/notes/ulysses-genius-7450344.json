@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-7450344",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Crossguns bridge: the royal canal.",
+  "html_source": "<p>For the best annotation of this line, see <a href=\"http://cas.umt.edu/english/joyce/notes/060016crossgunsbridge.htm\" rel=\"noopener nofollow\">here from the University of Montana</a>.</p><p>The Crossguns Bridge today:</p><p><img src=\"https://images.rapgenius.com/4e1beb1dc06993b8c2cc219b57d2a5ec.960x639x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7450344/James-joyce-ulysses-chap-6-hades/Crossguns-bridge-the-royal-canal",
+    "original_id": "7450344",
+    "referent_id": 7450344,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Crossguns bridge: the royal canal.",
+    "prefix": "ery. It would be better to bury them in red: a dark red. \n\n In silence they drove along Phibsborough road. An empty hearse trotted by, coming from the cemetery: looks relieved. \n\n ",
+    "suffix": " \n\n Water rushed roaring through the sluices. A man stood on his dropping barge, between clamps of turf. On the towpath by the lock a1932#88 slacktethered horse. Aboard of the Buga",
+    "start": 25620,
+    "end": 25654,
+    "canonical_text": "Crossguns bridge: the royal canal."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 7450344,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1060900,
+        "login": "dvrath",
+        "name": "dvrath",
+        "role": "contributor",
+        "attribution": 0.9166666666666667
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.08333333333333334
+      }
+    ]
+  },
+  "color": "F59627"
+}

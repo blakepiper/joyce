@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-25253399",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Malony",
+  "html_source": "<p>Daniel Malony, barrister and Magistrate at the Central Metropolitan Police Court. [Gifford and Seidman]</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/25253399/James-joyce-ulysses-chap-16-eumaeus/Malony",
+    "original_id": "25253399",
+    "referent_id": 25253399,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Malony",
+    "prefix": "e for the accident ward, or, failing that, the Bridewell and an appearance in the court next day before Mr Tobias, or, he being the solicitor, rather old Wall, he meant to say, or ",
+    "suffix": " which simply spelt ruin for a chap when it got bruited about. The reason he mentioned the fact was that a lot of those policemen, whom he cordially disliked, were admittedly unscr",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.7273
+  },
+  "genius": {
+    "referent_id": 25253399,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

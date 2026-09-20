@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10504722",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Fishguard-Rosslare",
+  "html_source": "<p><a href=\"http://www.ferries.co.uk/fishguard_rosslare.html\" rel=\"noopener nofollow\">http://www.ferries.co.uk/fishguard_rosslare.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10504722/James-joyce-ulysses-chap-16-eumaeus/Fishguard-rosslare",
+    "original_id": "10504722",
+    "referent_id": 10504722,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Fishguard-Rosslare",
+    "prefix": "82\n\n Also, without being actually positive, it struck him a great field was to 1932#536be opened up in the line of opening up new routes to keep pace with the times apropos of the ",
+    "suffix": " route which, it was mooted, was once more on the tapis in the circumlocution departments with the usual quantity of red tape and dillydallying of effete fogeydom and dunderheads g",
+    "start": 35733,
+    "end": 35751,
+    "canonical_text": "Fishguard-Rosslare"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10504722,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

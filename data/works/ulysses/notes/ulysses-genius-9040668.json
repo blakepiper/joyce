@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-9040668",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Dignam",
+  "html_source": "<p><a href=\"https://modernism.research.yale.edu/wiki/index.php/%22The_Wandering_Rocks%22\" rel=\"noopener nofollow\">Episode 10 features most characters of Ulysses.</a></p><p>PROPOSED SUGGESTION: Conmee is on his way to try to get the late Paddy Dignam’s son admitted free to a school.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9040668/James-joyce-ulysses-chap-10-wandering-rocks/Dignam",
+    "original_id": "9040668",
+    "referent_id": 9040668,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Dignam",
+    "prefix": "hn Conmee S.J. reset his smooth watch in his interior pocket as he came down the presbytery steps. Five to three. Just nice time to walk to Artane. What was that boy's name again? ",
+    "suffix": ". Yes. Vere dignum et iustum est. Brother Swan was the person to see. Mr Cunningham's letter. Yes. Oblige him, if possible. Good practical catholic: useful at mission time. \n\n A on",
+    "start": 224,
+    "end": 230,
+    "canonical_text": "Dignam"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 9040668,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 0.7272727272727273
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.2727272727272727
+      }
+    ]
+  },
+  "color": "F59627"
+}

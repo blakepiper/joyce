@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2075398",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "And Moses Maimonides,",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Moses_Maimonides\" rel=\"noopener nofollow\">Moses Maimonides</a> was a Spanish Jewish rabbi and philosopher also known as a scholar of Aristotle.</p><p><img src=\"https://images.genius.com/b698c09888b4ad2c278888b9c4917eac.185x250x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2075398/James-joyce-ulysses-chap-2-nestor/And-moses-maimonides",
+    "original_id": "2075398",
+    "referent_id": 2075398,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "and Moses Maimonides,",
+    "prefix": " in the mummery of their letters, wearing quaint caps of squares and cubes. Give hands, traverse, bow to partner: so: imps of fancy of the Moors. Gone too from the world, Averroes ",
+    "suffix": " dark men in mien and movement, flashing in their mocking mirrors the obscure soul of the world, a darkness shining in brightness which brightness could not comprehend.\n\n — Do you ",
+    "start": 8566,
+    "end": 8587,
+    "canonical_text": "and Moses Maimonides,"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2075398,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

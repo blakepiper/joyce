@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8769408",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "We did great biz yesterday",
+  "html_source": "<p>Young Milly writes in short abrupt sentences and shortens words…sort of like texting in 1904.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8769408/James-joyce-ulysses-chap-4-calypso/We-did-great-biz-yesterday",
+    "original_id": "8769408",
+    "referent_id": 8769408,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "We did great biz yesterday",
+    "prefix": "I got mummy's lovely box of creams and am writing. They are lovely. I am getting on swimming in the photo business now. Mr Coghlan took one of me and Mrs will send when developed. ",
+    "suffix": ". Fair day and all the beef to the heels were in. We are going to lough Owel on Monday with a few friends to make a scrap picnic. Give my love to mummy and to yourself a big kiss a",
+    "start": 24751,
+    "end": 24777,
+    "canonical_text": "We did great biz yesterday"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8769408,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

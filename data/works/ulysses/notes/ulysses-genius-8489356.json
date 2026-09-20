@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-8489356",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Mr Kernan",
+  "html_source": "<p>Intrusion taking us, for this sentence, to Episode 12 of this chapter.</p><p>PROPOSED SUGGESTION: Intrusion: 10.715-17<br />“From the sundial towards James’s gate walked Mr Kernan, pleased with the order he had booked for Pulbrook Robertson, boldly along James’s street, past Shackleton’s offices.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8489356/James-joyce-ulysses-chap-10-wandering-rocks/Mr-kernan",
+    "original_id": "8489356",
+    "referent_id": 8489356,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Mr Kernan",
+    "prefix": "is no-one in Dublin would lend me fourpence. \n\n — You got some, Dilly said, looking in his eyes. \n\n1961#237\n\n — How do you know that? Mr Dedalus asked, his tongue in his cheek. \n\n ",
+    "suffix": ", pleased with the order he had booked, walked boldly along James's street. \n\n1932#213\n\n — I know you did, Dilly answered. Were you in the Scotch house now? \n\n — I was not, then, M",
+    "start": 38455,
+    "end": 38464,
+    "canonical_text": "Mr Kernan"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9074
+  },
+  "genius": {
+    "referent_id": 8489356,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3083736,
+        "login": "JessicaVestuto",
+        "name": "JessicaVestuto",
+        "role": "contributor",
+        "attribution": 0.7083333333333333
+      },
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 0.25
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.04166666666666667
+      }
+    ]
+  },
+  "color": "F59627"
+}

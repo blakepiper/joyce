@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4544944",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "I saw his eyes on my feet",
+  "html_source": "<p>Molly noticed Boylan watching her feet as she left. She looked back to catch his eye. She went back to the Dublin Bakery Company two days later to try and run into him again but he wasn’t there.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4544944/James-joyce-ulysses-chap-18-penelope/I-saw-his-eyes-on-my-feet",
+    "original_id": "4544944",
+    "referent_id": 4544944,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "I saw his eyes on my feet",
+    "prefix": " I never got after some robber of a woman and he wanted me to put it in the Irish times lost in the ladies lavatory D B C Dame street 1922#696finder return to Mrs Marion Bloom and ",
+    "suffix": " going out through the turning door he was looking when I looked back and I went there for tea 2 days after in the hope but he wasnt now how did that excite him because I was cross",
+    "start": 19048,
+    "end": 19073,
+    "canonical_text": "I saw his eyes on my feet"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4544944,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.9736842105263157
+      },
+      {
+        "id": 149810,
+        "login": "perfectrhyme",
+        "name": "Perfectrhyme",
+        "role": "editor",
+        "attribution": 0.026315789473684213
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8759146",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "You don’t make them in the one pot",
+  "html_source": "<p>Mulligan makes a rude joke that you shouldn’t make tea and make water (urinate) in the same pot – which could be read as a tea pot or toilet (chamber pot).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8759146/James-joyce-ulysses-chap-1-telemachus/You-dont-make-them-in-the-one-pot",
+    "original_id": "8759146",
+    "referent_id": 8759146,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "you don't make them in the one pot",
+    "prefix": "ter I makes water. \n\n — By Jove, it is tea, Haines said. \n\n Buck Mulligan went on hewing and wheedling: \n\n — So I do, Mrs Cahill, says she. Begob, ma'am, says Mrs Cahill, God send ",
+    "suffix": ". \n\n1922#12\n\n He lunged towards his messmates in turn a thick slice of bread, impaled on his knife. \n\n — That's folk, he said very earnestly, for your book, Haines. Five lines of t",
+    "start": 20629,
+    "end": 20663,
+    "canonical_text": "you don't make them in the one pot"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8759146,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

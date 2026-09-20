@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10147243",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Matcham’s Masterstrokes",
+  "html_source": "<p>A reference to chapter 4 where Bloom is reading a newspaper in the outhouse and finds:<br />“ Our prize titbit: MATCHAM’S MASTERSTROKE. Written by Mr Philip Beaufoy, Playgoers' Club, London. Payment at the rate of one guinea a column has been made to the writer.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10147243/James-joyce-ulysses-chap-15-circe/Matchams-masterstrokes",
+    "original_id": "10147243",
+    "referent_id": 10147243,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Matcham's Masterstrokes",
+    "prefix": "itnessbox, in accurate morning dress, outbreast pocket with peak of handkerchief showing, creased lavender 1939#327trousers and patent boots. He carries a large portfolio labelled ",
+    "suffix": ".) \n\n1922#434\n\n BEAUFOY \n\n(Drawls.) No, you aren't. Not by a long shot if I know it. I don't see it that's all. No born gentleman, no-one with the most rudimentary promptings of a ",
+    "start": 39882,
+    "end": 39905,
+    "canonical_text": "Matcham's Masterstrokes"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10147243,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

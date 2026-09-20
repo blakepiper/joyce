@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10550957",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Un coche ensablé Louis Veuillot called Gautier’s prose",
+  "html_source": "<p>“A coach stuck in sand.”</p><p>A metaphor used by Louis Veuillot to suggest that prose should be light, agile and adaptable.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10550957/James-joyce-ulysses-chap-3-proteus/Un-coche-ensable-louis-veuillot-called-gautiers-prose",
+    "original_id": "10550957",
+    "referent_id": 10550957,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Un coche ensablé Louis Veuillot called Gautier's prose",
+    "prefix": "ely oarweeds and sat on a stool of rock, resting his ashplant in a grike. \n\n A bloated carcass of a dog lay lolled on bladderwrack. Before him the gunwale of a boat, sunk in sand. ",
+    "suffix": ". These heavy sands are language tide and wind have silted here. And these, the stoneheaps of dead builders, a warren of weasel rats. Hide gold there. Try it. You have some. Sands ",
+    "start": 18184,
+    "end": 18239,
+    "canonical_text": "Un coche ensablé, Louis Veuillot called Gautier's prose"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 10550957,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

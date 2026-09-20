@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-11146149",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Wonderworker",
+  "html_source": "<p>An advertisement in Bloom’s desk drawer inventoried in the last chapter.</p><p>“1 prospectus of The Wonderworker, the world’s greatest remedy for rectal complaints, direct from Wonderworker, Coventry House, South Place, London E C, addressed (erroneously) to Mrs L. Bloom with brief accompanying note commencing (erroneously): Dear Madam.”</p><p>It’s not known if this is a real product (Gifford &amp; Seidmann).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11146149/James-joyce-ulysses-chap-18-penelope/Wonderworker",
+    "original_id": "11146149",
+    "referent_id": 11146149,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "wonderworker",
+    "prefix": "t what a pair of paws and pots and pans and kettles to mend any broken bottles for a poor man today and no visitors or post ever except his cheques or some advertisement like that ",
+    "suffix": " they sent him addressed dear Madam only his letter and the card from Milly this morning see she wrote a letter to him who did I get the last letter from O Mrs Dwenn now what posse",
+    "start": 53257,
+    "end": 53269,
+    "canonical_text": "wonderworker"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11146149,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.8103448275862069
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.1896551724137931
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8736447",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Kidneys",
+  "html_source": "<p><a href=\"http://loki.stockton.edu/~kinsellt/projects/ulysses/storyReader%244.html\" rel=\"noopener nofollow\">The <em>Calypso</em> organ.</a></p><p>PROPOSED SUGGESTION: Stephen barely resides in the body, and hence the lack of assigning an organ to the first three chapters.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8736447/James-joyce-ulysses-chap-4-calypso/Kidneys",
+    "original_id": "8736447",
+    "referent_id": 8736447,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Kidneys",
+    "prefix": "roast heart, liverslices fried with crustcrumbs, fried hencods' roes. Most of all he liked grilled mutton kidneys which gave to his palate a fine tang of faintly scented urine. \n\n ",
+    "suffix": " were in his mind as he moved about the kitchen softly, righting her breakfast things on the humpy tray. Gelid light and air were in the kitchen but out of doors gentle summer morn",
+    "start": 320,
+    "end": 327,
+    "canonical_text": "Kidneys"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8736447,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 0.8275862068965517
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.1724137931034483
+      }
+    ]
+  },
+  "color": "F59627"
+}

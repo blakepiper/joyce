@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15123972",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Pishogue",
+  "html_source": "<p>A dandy, effeminate, or homosexual man; from Gaelic piseog (a spell or enchantment), and so by extension, a fairy.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15123972/James-joyce-ulysses-chap-12-cyclops/Pishogue",
+    "original_id": "15123972",
+    "referent_id": 15123972,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "pishogue",
+    "prefix": "u mean he... \n\n — Half and half I mean, says the citizen. A fellow that's neither fish nor flesh. \n\n — Nor good red herring, says Joe. \n\n — That what's I mean, says the citizen. A ",
+    "suffix": ", if you know what that is. \n\n Begob I saw there was trouble coming. And Bloom explaining he meant 1922#307on account of it being cruel for the wife having to go round after the ol",
+    "start": 67918,
+    "end": 67926,
+    "canonical_text": "pishogue"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15123972,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

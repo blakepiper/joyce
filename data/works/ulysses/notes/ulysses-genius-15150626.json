@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15150626",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Sprang their luff",
+  "html_source": "<p>Nautical term meaning to ease the helm and sail nearer to the wind than before. Taken from Sir Walter Raleigh per <a href=\"http://www.geneticjoycestudies.org/GJS9/GJS9_SarahDavisonOxen.htm\" rel=\"noopener nofollow\">http://www.geneticjoycestudies.org/GJS9/GJS9_SarahDavisonOxen.htm</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15150626/James-joyce-ulysses-chap-14-oxen-of-the-sun/Sprang-their-luff",
+    "original_id": "15150626",
+    "referent_id": 15150626,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "sprang their luff",
+    "prefix": "elp was toward, as the ungrate women were all of one mind, made a wherry raft, loaded themselves and their bundles of chattels on shipboard, set all masts erect, manned the yards, ",
+    "suffix": ", heaved to, spread three sheets in the wind, put her head between wind and water, weighed anchor, ported her helm, ran up the jolly Roger, gave three times three, let the bullgine",
+    "start": 46312,
+    "end": 46329,
+    "canonical_text": "sprang their luff"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15150626,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

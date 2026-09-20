@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15149275",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Swinking",
+  "html_source": "<p>To <a href=\"https://en.wiktionary.org/wiki/swink#English\" rel=\"noopener nofollow\">swink</a> is a term meaning to work or labor at (can be used as a noun to mean toil, work, drudgery, etc.). Here it seems to be used to mean something like “forge” which is a bit of a stretch.</p><p>It also has interesting etymology (wiktionary):<br />From Middle English swinken, from Old English swincan (“to labour, work at, strive, struggle; be in trouble; languish”), from Proto-Germanic <em>swinkaną (“to swing, bend”), from Proto-Indo-European </em>sweng-, *swenk- (“to bend, swing, swivel”). Cognate with Old Norse svinka (“to work”). Related to swing.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15149275/James-joyce-ulysses-chap-14-oxen-of-the-sun/Swinking",
+    "original_id": "15149275",
+    "referent_id": 15149275,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "swinking",
+    "prefix": " it was upheld by four dwarfmen of that country but they durst not move more for enchantment. And on this board were frightful swords and knives that are made in a great cavern by ",
+    "suffix": " demons out of white flames that they fix in the horns of buffalos and stags that there abound marvellously. And there were vessels that are wrought by magic of Mahound out of seas",
+    "start": 9950,
+    "end": 9958,
+    "canonical_text": "swinking"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15149275,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5110793",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "The wise child that knows her own father.",
+  "html_source": "<p>Proverbial. One version occurs in ‘The Odyssey’ when Telemachus says: “My mother says I am his son; I know not / surely. Who has known his own engendering?”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5110793/James-joyce-ulysses-chap-6-hades/The-wise-child-that-knows-her-own-father",
+    "original_id": "5110793",
+    "referent_id": 5110793,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "the wise child that knows her own father.",
+    "prefix": "r Bloom said. He was alone. \n\n — Down with his aunt Sally, I suppose, Mr Dedalus said, the Goulding faction, the drunken little costdrawer and Crissie, papa's little lump of dung, ",
+    "suffix": " \n\n Mr Bloom smiled joylessly on Ringsend road. Wallace Bros the bottleworks. Dodder bridge. \n\n Richie Goulding and the legal bag. Goulding, Collis and Ward he calls the firm. His ",
+    "start": 3121,
+    "end": 3162,
+    "canonical_text": "the wise child that knows her own father."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5110793,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

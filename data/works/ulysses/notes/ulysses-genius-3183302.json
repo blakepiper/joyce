@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-3183302",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Martin",
+  "html_source": "<p>Based on <a href=\"http://www.jjon.org/jioyce-s-people/kane\" rel=\"noopener nofollow\">Matthew Kane</a>, a friend of the Joyces' and well-known Dublin figure.</p><p><img src=\"https://images.rapgenius.com/06c208c93d91b7b14c432056d9d31c5d.328x480x1.jpg\" alt=\"\" /></p><p>PROPOSED SUGGESTION: Martin Cunningham and Jack Power are friends of Tom Kernan in “Graces” the second-to-last story in Joyce’s Dubliners.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3183302/James-joyce-ulysses-chap-6-hades/Martin",
+    "original_id": "3183302",
+    "referent_id": 3183302,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Martin",
+    "prefix": "\n\n[6]\n\n\n\n",
+    "suffix": " Cunningham, first, poked his silkhatted head into the creaking carriage and, entering deftly, seated himself. Mr Power stepped in after him, curving his height with care. \n\n — Com",
+    "start": 9,
+    "end": 15,
+    "canonical_text": "Martin"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 3183302,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.5
+      },
+      {
+        "id": 2680303,
+        "login": "Cortez67",
+        "name": "Cortez67",
+        "role": null,
+        "attribution": 0.46
+      },
+      {
+        "id": 149810,
+        "login": "perfectrhyme",
+        "name": "Perfectrhyme",
+        "role": "editor",
+        "attribution": 0.04
+      }
+    ]
+  },
+  "color": "F59627"
+}

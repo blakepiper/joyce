@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3274571",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Mr Bloom",
+  "html_source": "<p>Leopold comes back to Crawford as Odysseus came back to Aeolus. Aeolus had had enough of him after the crew opened the bag of wind and blew Odysseus off. Crawford, in turn, wants Mr Bloom to tell Keys to….</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3274571/James-joyce-ulysses-chap-7-aeolus/Mr-bloom",
+    "original_id": "3274571",
+    "referent_id": 3274571,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Mr Bloom",
+    "prefix": "king with J. J. O'Molloy. \n\n — Come along, the professor cried, waving his arm. \n\n He set off again to walk by Stephen's side. \n\n RETURN OF BLOOM \n\n — Yes, he said. I see them. \n\n ",
+    "suffix": ", breathless, caught in a whirl of wild newsboys near the offices of the Irish Catholic and Dublin Penny Journal, called: \n\n — Mr Crawford! A moment! \n\n — Telegraph! Racing special",
+    "start": 53642,
+    "end": 53650,
+    "canonical_text": "Mr Bloom"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9753
+  },
+  "genius": {
+    "referent_id": 3274571,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

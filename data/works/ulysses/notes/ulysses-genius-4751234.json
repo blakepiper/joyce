@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4751234",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "My two feet in",
+  "html_source": "<p>Stephen’s feet are his but soon merge with Mulligan’s legs.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4751234/James-joyce-ulysses-chap-3-proteus/My-two-feet-in",
+    "original_id": "4751234",
+    "referent_id": 4751234,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "My two feet in",
+    "prefix": " fell over a cliff that beetles o'er his base, fell through the nebeneinander ineluctably! I am getting on nicely in the dark. My ash sword hangs at my side. Tap with it: they do. ",
+    "suffix": " his boots are at the ends of his legs, nebeneinander. Sounds solid: made by the mallet of Los Demiurgos. Am I walking into eternity along Sandymount strand? Crush, crack, crick, c",
+    "start": 1127,
+    "end": 1141,
+    "canonical_text": "My two feet in"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4751234,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-1822344",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Hellenic",
+  "html_source": "<p>Here Mulligan tries to atone for making fun of Stephen’s name by saying that, like Stephen’s last name, Mulligan’s first name has a somewhat Greek sound to it as well, due to its meter.</p><p>This will be repeated in the final episode when Molly Bloom has a go at their landlady and Leopold, then makes it up for it.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1822344/James-joyce-ulysses-chap-1-telemachus/Hellenic",
+    "original_id": "1822344",
+    "referent_id": 1822344,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Hellenic",
+    "prefix": "t, dipped the brush in the bowl and lathered cheeks and neck. \n\n Buck Mulligan's gay voice went on. \n\n1939#5\n\n — My name is absurd too: Malachi Mulligan, two dactyls. But it has a ",
+    "suffix": " ring, hasn't it? Tripping and sunny like the buck himself. We must go to Athens. Will you come if I can get the aunt to fork out twenty quid? \n\n He laid the brush aside and, laugh",
+    "start": 2451,
+    "end": 2459,
+    "canonical_text": "Hellenic"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1822344,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 141494,
+        "login": "Soma_Cruz",
+        "name": "Soma_Cruz",
+        "role": "contributor",
+        "attribution": 0.559322033898305
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.423728813559322
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.01694915254237288
+      }
+    ]
+  },
+  "color": "F59627"
+}

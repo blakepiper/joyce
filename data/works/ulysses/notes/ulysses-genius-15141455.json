@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15141455",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Hyacinth",
+  "html_source": "<p>Flowering plants in the genus <a href=\"https://en.wikipedia.org/wiki/Hyacinth\" rel=\"noopener nofollow\">Hyacinthus</a>.</p><p><img src=\"https://images.genius.com/c72444beabc258220c6f6c07980a621b.1000x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15141455/James-joyce-ulysses-chap-13-nausicaa/Hyacinth",
+    "original_id": "15141455",
+    "referent_id": 15141455,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Hyacinth",
+    "prefix": "d half down my back. \n\n Wait. Hm. Hm. Yes. That's her perfume. Why she waved her hand. I leave you this to think of me when I'm far away on the pillow. What is it? Heliotrope? No. ",
+    "suffix": "? Hm. Roses, I think. She'd like scent of that kind. Sweet and cheap: soon sour. Why Molly likes opoponax. Suits her, with a little jessamine mixed. Her high notes and her low note",
+    "start": 71243,
+    "end": 71251,
+    "canonical_text": "Hyacinth"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 15141455,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

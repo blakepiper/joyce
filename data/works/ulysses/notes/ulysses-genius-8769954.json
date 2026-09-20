@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8769954",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Per second per second.",
+  "html_source": "<p>Bloom’s mind returns to physics of gravity on falling objects when he thinks “drop in”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8769954/James-joyce-ulysses-chap-5-lotus-eaters/Per-second-per-second",
+    "original_id": "8769954",
+    "referent_id": 8769954,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Per second per second.",
+    "prefix": "e folded Freeman from his sidepocket, unfolded it, rolled it lengthwise in a baton and tapped it at each sauntering step against his trouserleg. Careless air: just drop in to see. ",
+    "suffix": " Per second for every second it means. From the curbstone he darted a keen glance through the door of the postoffice. Too late box. Post here. No-one. In. \n\n He handed the card thr",
+    "start": 3668,
+    "end": 3690,
+    "canonical_text": "Per second per second."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8769954,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

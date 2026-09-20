@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2468000",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "I am quite the belle in my new tam.",
+  "html_source": "<p>A “tam” is a type of tartan hat popular in the British Isles and Ireland.</p><p><img src=\"https://images.rapgenius.com/6wcv52t3nurohpmb1u5uhaj82.695x476x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2468000/James-joyce-ulysses-chap-4-calypso/I-am-quite-the-belle-in-my-new-tam",
+    "original_id": "2468000",
+    "referent_id": 2468000,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "I am quite the belle in my new tam.",
+    "prefix": "ed, sopping another die of bread in the gravy and raising it to his mouth.\n\nDearest Papli\n\nThanks ever so much for the lovely birthday present. It suits me splendid. Everyone says ",
+    "suffix": " I got mummy's Iovely box of creams and am writing. They are lovely. I am getting on swimming in the photo business now. Mr Coghlan took one of me and Mrs. Will send when developed",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.8919
+  },
+  "genius": {
+    "referent_id": 2468000,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 170881,
+        "login": "Abraxas01",
+        "name": "Abraxas01",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

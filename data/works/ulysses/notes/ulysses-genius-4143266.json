@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4143266",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Black north and true blue",
+  "html_source": "<p>Black north / sunny south. the Protestant north. True blue are the Scottish settlers.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4143266/James-joyce-ulysses-chap-2-nestor/Black-north-and-true-blue",
+    "original_id": "4143266",
+    "referent_id": 4143266,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "black north and true blue",
+    "prefix": " things. \n\n Glorious, pious and immortal memory. The lodge of Diamond in Armagh the splendid behung with corpses of papishes. Hoarse, masked and armed, the planters' covenant. The ",
+    "suffix": " bible. Croppies lie down. \n\n Stephen sketched a brief gesture. \n\n — I have rebel blood in me too, Mr Deasy said. On the spindle side. But I am descended from sir John Blackwood wh",
+    "start": 15497,
+    "end": 15522,
+    "canonical_text": "black north and true blue"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4143266,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1209714,
+        "login": "AlexBeston",
+        "name": "AlexBeston",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2295876",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Chuck Loyola",
+  "html_source": "<p>As in: ‘be rid of St. Ignatius of Loyola’. St. Ignatius was the founder of the Jesuit order.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2295876/James-joyce-ulysses-chap-1-telemachus/Chuck-loyola",
+    "original_id": "2295876",
+    "referent_id": 2295876,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Chuck Loyola",
+    "prefix": "ed loudly: \n\n — Are you up there, Mulligan? \n\n — I'm coming, Buck Mulligan answered. \n\n He turned towards Stephen and said: \n\n — Look at the sea. What does it care about offences? ",
+    "suffix": ", Kinch, and come on down. The Sassenach wants his morning rashers. \n\n His head halted again for a moment at the top of the staircase, level with the roof: \n\n — Don't mope over it ",
+    "start": 13536,
+    "end": 13548,
+    "canonical_text": "Chuck Loyola"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2295876,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 299511,
+        "login": "KillianMcLoughlin",
+        "name": "KillianMcLoughlin",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

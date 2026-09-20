@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15156441",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Ikey",
+  "html_source": "<p>An unkind slur meaning a Jew, from an abbreviation of Isaac. Seen in previous chapters to refer to Bloom.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15156441/James-joyce-ulysses-chap-15-circe/Ikey",
+    "original_id": "15156441",
+    "referent_id": 15156441,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Ikey",
+    "prefix": "ERTON BARRY \n\n Shame on him! \n\n(A crowd of sluts and ragamuffins surges forward.) \n\n THE SLUTS AND RAGAMUFFINS \n\n(Screaming.) Stop thief! Hurrah there, Bluebeard! Three cheers for ",
+    "suffix": " Mo! \n\n SECOND WATCH \n\n(Produces handcuffs.) Here are the darbies. \n\n MRS BELLINGHAM \n\n He addressed me in several handwritings with fulsome compliments as a 1922#441Venus in furs ",
+    "start": 52709,
+    "end": 52713,
+    "canonical_text": "Ikey"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15156441,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

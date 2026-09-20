@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8845195",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Gallus",
+  "html_source": "<p>gallus (ˈɡæləs)<br />adj<br />Scot<br />bold; daring; reckless</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8845195/James-joyce-ulysses-chap-9-scylla-and-charybdis/Gallus",
+    "original_id": "8845195",
+    "referent_id": 8845195,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "gallus",
+    "prefix": "ened in a querulous brogue: \n\n — It's what I'm telling you, mister honey, it's queer and sick we were, Haines and myself, the time himself brought it in. 'Twas murmur we did for a ",
+    "suffix": " potion would rouse a friar, I'm thinking, and he limp with leching. And we one hour and two hours and three hours in Connery's sitting civil waiting for pints apiece. \n\n He wailed",
+    "start": 32128,
+    "end": 32134,
+    "canonical_text": "gallus"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8845195,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

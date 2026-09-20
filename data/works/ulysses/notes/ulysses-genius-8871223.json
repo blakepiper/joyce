@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8871223",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Buxton",
+  "html_source": "<p>“England’s leading spa town”<br />Buxton’s world-renowned mineral water is at the heart of the town’s heritage<br /><a href=\"http://www.visitbuxton.co.uk/\" rel=\"noopener nofollow\">http://www.visitbuxton.co.uk</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8871223/James-joyce-ulysses-chap-10-wandering-rocks/Buxton",
+    "original_id": "8871223",
+    "referent_id": 8871223,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Buxton",
+    "prefix": "winking leaves: and towards him came the wife of Mr David Sheehy M.P. \n\n — Very well, indeed, father. And you, father? \n\n Father Conmee was wonderfully well indeed. He would go to ",
+    "suffix": " probably for the waters. And her boys, were they getting on well at Belvedere? Was that so? Father Conmee was very glad indeed to hear that. And Mr Sheehy himself? Still in London",
+    "start": 1259,
+    "end": 1265,
+    "canonical_text": "Buxton"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8871223,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

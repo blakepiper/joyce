@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8913120",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Duodene",
+  "html_source": "<p>see <a href=\"http://www.jjon.org/joyce-s-words/duodene\" rel=\"noopener nofollow\">http://www.jjon.org/joyce-s-words/duodene</a><br />by John Simpson<br />Conclusions<br />It seems that Joyce made use of the word duodene, from Ellis’s theory of ‘just intonation’, but that he employed it in a different context, that of the repeated sextuplets of a popular modern song. Whether he also wove in the allusion to the Chinese harmonic myth remains a moot point.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8913120/James-joyce-ulysses-chap-11-sirens/Duodene",
+    "original_id": "8913120",
+    "referent_id": 8913120,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "duodene",
+    "prefix": "ttle ere he went he whispered, bald and bothered, with Miss Douce. \n\n — The bright stars fade... \n\n A voiceless song sang from within, singing: \n\n — ... the morn is breaking. \n\n A ",
+    "suffix": " of birdnotes chirruped bright treble answer under sensitive 1932#237hands. Brightly the keys, all twinkling, linked, all harpsichording, called to a voice to sing the strain of de",
+    "start": 16195,
+    "end": 16202,
+    "canonical_text": "duodene"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8913120,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15170110",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Cretonne",
+  "html_source": "<p>A strong, heavy fabric of cotton, linen or rayon, used to make curtains and upholstery.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15170110/James-joyce-ulysses-chap-17-ithaca/Cretonne",
+    "original_id": "15170110",
+    "referent_id": 15170110,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "cretonne",
+    "prefix": "nitialled on its fore side in white lettering B. C. T. (Brian Cooper Tweedy). \n\n What impersonal objects were perceived? \n\n A commode, one leg fractured, totally covered by square ",
+    "suffix": " 1932#633cutting, apple design, on which rested a lady's black straw hat. Orangekeyed ware, bought of Henry Price, basket, fancy goods, chinaware and ironmongery manufacturer, 21, ",
+    "start": 133669,
+    "end": 133677,
+    "canonical_text": "cretonne"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15170110,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

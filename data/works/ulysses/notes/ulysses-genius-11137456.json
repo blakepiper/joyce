@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11137456",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Photo bits",
+  "html_source": "<p><img src=\"https://images.genius.com/f842bb354c34a9a05ab0c9c4577c57c0.660x894x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11137456/James-joyce-ulysses-chap-18-penelope/Photo-bits",
+    "original_id": "11137456",
+    "referent_id": 11137456,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Photo bits",
+    "prefix": "oor men that have to be out all the night from their wives and families in those roasting engines stifling it was today Im glad I burned the half of those old Freemans 1961#754and ",
+    "suffix": " leaving things like that lying about hes getting very careless and threw the rest of them up in the W C Ill get him to cut them tomorrow for me instead of having them there for th",
+    "start": 44835,
+    "end": 44845,
+    "canonical_text": "Photo Bits"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 11137456,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

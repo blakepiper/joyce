@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21117332",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Dark dome received, reverbed",
+  "html_source": "<p>The echo of Mulligan’s lewd clucking caused by the dome of the National Library.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21117332/James-joyce-ulysses-chap-9-scylla-and-charybdis/Dark-dome-received-reverbed",
+    "original_id": "21117332",
+    "referent_id": 21117332,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Dark dome received, reverbed",
+    "prefix": "is unremitting intellect is the hornmad Iago ceaselessly willing that the moor in him shall suffer. \n\n1986#174\n\n — Cuckoo! Cuckoo! Cuck Mulligan clucked lewdly. O word of fear! \n\n ",
+    "suffix": ". \n\n — And what a character is Iago! undaunted John Eglinton exclaimed. When all is said Dumas fils (or is it Dumas père?) is right. After God Shakespeare has created most. \n\n — Ma",
+    "start": 59496,
+    "end": 59524,
+    "canonical_text": "Dark dome received, reverbed"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21117332,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

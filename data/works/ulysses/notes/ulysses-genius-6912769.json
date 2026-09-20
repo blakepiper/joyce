@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-6912769",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Ponchielli’s dance of the hours.",
+  "html_source": "<p>Music from a famous ballet, made even more famous in Disney’s <em>Fantasia</em> by dancing hippos and crocodiles.</p><p><a href=\"https://vimeo.com/45556130\" rel=\"noopener nofollow\">https://vimeo.com/45556130</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6912769/James-joyce-ulysses-chap-4-calypso/Ponchiellis-dance-of-the-hours",
+    "original_id": "6912769",
+    "referent_id": 6912769,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Ponchielli's dance of the hours.",
+    "prefix": ". A speck of dust on the patent leather of her boot. \n\n Rubbing smartly in turn1986#56 each welt against her stockinged calf. Morning after the bazaar dance when May's band played ",
+    "suffix": " Explain that: morning hours, noon, then evening coming on, then night hours. Washing her teeth. That was the first night. Her head dancing. Her fansticks clicking. Is that Boylan ",
+    "start": 32568,
+    "end": 32600,
+    "canonical_text": "Ponchielli's dance of the hours."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6912769,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1835164,
+        "login": "AdamKadmon",
+        "name": "AdamKadmon",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

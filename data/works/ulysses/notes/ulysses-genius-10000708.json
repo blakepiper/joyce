@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10000708",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Tommy Tittlemouse",
+  "html_source": "<p><a href=\"https://www.youtube.com/watch?v=v1TyesxWa4E\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=v1TyesxWa4E</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10000708/James-joyce-ulysses-chap-15-circe/Tommy-tittlemouse",
+    "original_id": "10000708",
+    "referent_id": 10000708,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Tommy Tittlemouse",
+    "prefix": "e are you from? London? \n\n1932#440\n\n ZOE \n\n(Glibly.) Hog's Norton where the pigs plays the organs. I'm Yorkshire born. (She holds his hand which is feeling for her nipple.) I say, ",
+    "suffix": ". Stop that and begin worse. Have you cash for a short time? Ten shillings? \n\n BLOOM \n\n(Smiles, nods slowly.) More, houri, more. \n\n ZOE \n\n And more's mother? (She pats him offhande",
+    "start": 98758,
+    "end": 98775,
+    "canonical_text": "Tommy Tittlemouse"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10000708,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

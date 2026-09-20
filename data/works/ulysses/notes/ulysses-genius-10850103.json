@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10850103",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "10 lightyears",
+  "html_source": "<p>Sirius is actually 8.6 lightyears distant and 10 lightyears is 59,000,000,000,000 miles</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10850103/James-joyce-ulysses-chap-17-ithaca/10-lightyears",
+    "original_id": "10850103",
+    "referent_id": 10850103,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "10 lightyears",
+    "prefix": "aylight by an observer placed at the lower end of a cylindrical vertical shaft 5000 ft deep sunk from the surface towards the centre of the earth: of Sirius (alpha in Canis Maior) ",
+    "suffix": " (57,000,000,000,000 miles) distant and in volume 900 times the dimension of our planet: of Arcturus: of the precession of equinoxes: of Orion with belt and sextuple sun theta and ",
+    "start": 66067,
+    "end": 66080,
+    "canonical_text": "10 lightyears"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10850103,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

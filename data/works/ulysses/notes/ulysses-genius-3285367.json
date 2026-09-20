@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3285367",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Or",
+  "html_source": "<p>Italicised in print.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3285367/James-joyce-ulysses-chap-7-aeolus/Or",
+    "original_id": "3285367",
+    "referent_id": 3285367,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Or",
+    "prefix": "eplace at Ned Lambert's quizzing face, asked of it sourly: \n\n — Agonising Christ, wouldn't it give you a heartburn on your arse? \n\n Ned Lambert, seated on the table, read on: \n\n — ",
+    "suffix": " again, note the meanderings of some purling rill as it babbles on its way, tho' quarrelling with the stony obstacles, to the tumbling waters of Neptune's blue domain, 'mid mossy b",
+    "start": 13628,
+    "end": 13630,
+    "canonical_text": "Or"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 3285367,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

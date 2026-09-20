@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9685110",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Aleph",
+  "html_source": "<p>The first four letters of the Hebrew alphabet followed by random words for Jewish holidays (Yom Kippur, Hanukah, Ros chachana, Mazzoth), religious items (Hagadah, Talith) and other unrelated terms suggesting that Bloom has a very limited background in Judaism.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9685110/James-joyce-ulysses-chap-15-circe/Aleph",
+    "original_id": "9685110",
+    "referent_id": 9685110,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Aleph",
+    "prefix": "d God bless him! \n\n(The rams' horns sound for silence. The standard of Zion is hoisted.) \n\n BLOOM \n\n(Uncloaks impressively, revealing obesity, unrolls a paper and reads solemnly.) ",
+    "suffix": " Beth Ghimel Daleth Hagadah Tephilim Kosher Yom Kippur Hanukah Roschaschana Beni Brith Bar Mitzvah Mazzoth Askenazim Meshuggah Talith. \n\n(An official translation is read by Jimmy H",
+    "start": 81783,
+    "end": 81788,
+    "canonical_text": "Aleph"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9685110,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

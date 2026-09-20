@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9067884",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Buck Mulligan",
+  "html_source": "<p>Buck Mulligan is one of the many characters who reappear in the last section of the chapter: “From the window of the D. B. C. Buck Mulligan gaily, and Haines gravely, gazed down on the viceregal equipage over the shoulders of eager guests, whose mass of forms darkened the chessboard whereon John Howard Parnell looked intently.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9067884/James-joyce-ulysses-chap-10-wandering-rocks/Buck-mulligan",
+    "original_id": "9067884",
+    "referent_id": 9067884,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Buck Mulligan",
+    "prefix": " on up the staircase. \n\n — The lord lieutenantgeneral and general governor of Ireland, John Wyse Nolan answered from the stairfoot. \n\n*\n*  *\n\n As they trod across the thick carpet ",
+    "suffix": " whispered behind his Panama to Haines: \n\n — Parnell's brother. There in the corner. \n\n They chose a small table near the window, opposite a longfaced man whose beard and gaze hung",
+    "start": 59837,
+    "end": 59850,
+    "canonical_text": "Buck Mulligan"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.963
+  },
+  "genius": {
+    "referent_id": 9067884,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083675,
+        "login": "brnmzsk",
+        "name": "brnmzsk",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

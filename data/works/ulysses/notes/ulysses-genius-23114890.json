@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23114890",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Shieling",
+  "html_source": "<p>A rough hut.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23114890/James-joyce-ulysses-chap-16-eumaeus/Shieling",
+    "original_id": "23114890",
+    "referent_id": 23114890,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "shieling",
+    "prefix": "auty. She's my own true wife I haven't seen for seven years now, sailing about. \n\n Mr Bloom could easily picture his advent on this scene, the homecoming to the mariner's roadside ",
+    "suffix": " after having diddled Davy Jones, a rainy night with a blind moon. Across the world for a wife. Quite a number of stories there were on that particular Alice Ben Bolt topic, Enoch ",
+    "start": 28252,
+    "end": 28260,
+    "canonical_text": "shieling"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23114890,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

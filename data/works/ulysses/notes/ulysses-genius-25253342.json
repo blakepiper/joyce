@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-25253342",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Juijitsu",
+  "html_source": "<p>A martial art particularly useful for smaller persons with larger opponents.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/25253342/James-joyce-ulysses-chap-16-eumaeus/Juijitsu",
+    "original_id": "25253342",
+    "referent_id": 25253342,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "juijitsu",
+    "prefix": "ice, was of the nature of a regular deathtrap for young fellows of his age particularly if they had acquired drinking habits under the influence of liquor unless you knew a little ",
+    "suffix": " for every contingency as even a fellow on the broad of his back could administer a nasty kick if you didn't look out. Highly providential was the appearance on the scene of Corny ",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.0
+  },
+  "genius": {
+    "referent_id": 25253342,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

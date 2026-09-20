@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8559926",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Willy Murray",
+  "html_source": "<p>Joyce’s real-life uncle William Murray, Richie Goulding’s doppelganger.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8559926/James-joyce-ulysses-chap-12-cyclops/Willy-murray",
+    "original_id": "8559926",
+    "referent_id": 8559926,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Willy Murray",
+    "prefix": "— Who are you laughing at? says Bob Doran. \n\n So I saw there was going to be a bit of a dust Bob's a queer chap when the porter's up in him so says I just to make talk: \n\n — How's ",
+    "suffix": " those times, Alf? \n\n1932#270\n\n — I don't know, says Alf I saw him just now in Capel street with Paddy Dignam. Only I was running after that... \n\n — You what? says Joe, throwing do",
+    "start": 19896,
+    "end": 19908,
+    "canonical_text": "Willy Murray"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9552
+  },
+  "genius": {
+    "referent_id": 8559926,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

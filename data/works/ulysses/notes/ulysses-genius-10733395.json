@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10733395",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Spillikins",
+  "html_source": "<p>another term for jackstraws or pick-up-sticks</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10733395/James-joyce-ulysses-chap-17-ithaca/Spillikins",
+    "original_id": "10733395",
+    "referent_id": 10733395,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "spillikins",
+    "prefix": "ot more than, any other frequently engaged his mind?\n\nWhat to do with our wives.\n\nWhat had been his hypothetical singular solutions?\n\nParlour games (dominos, halma, tiddledywinks, ",
+    "suffix": ", cup and ball, nap, spoil five, bezique, twentyfive, beggar my neighbour, draughts, chess or backgammon): embroidery, darning or knitting for the policeaided clothing society: mus",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.0
+  },
+  "genius": {
+    "referent_id": 10733395,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

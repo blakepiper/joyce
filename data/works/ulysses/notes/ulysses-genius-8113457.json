@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8113457",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "The aunt thinks",
+  "html_source": "<p>Mulligan suggests that Stephen caused his mother’s death by not kneeling at her bedside.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8113457/James-joyce-ulysses-chap-3-proteus/The-aunt-thinks",
+    "original_id": "8113457",
+    "referent_id": 8113457,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "The aunt thinks",
+    "prefix": "booty you brought back; Le Tutu, five 1939#33tattered numbers of Pantalon Blanc et Culotte Rouge; a blue French telegram, curiosity to show: \n\n — Nother dying come home father. \n\n ",
+    "suffix": " you killed your mother. That's why she won't. \n\nThen here's a health to Mulligan's aunt \nAnd I'll tell you the reason why. \nShe always kept things decent in \nThe Hannigan famileye",
+    "start": 12344,
+    "end": 12359,
+    "canonical_text": "The aunt thinks"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8113457,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2436433,
+        "login": "essss",
+        "name": "essss",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-32663805",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "And",
+  "html_source": "<p>There was bread too!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/32663805/James-joyce-ulysses-chap-14-oxen-of-the-sun/And",
+    "original_id": "32663805",
+    "referent_id": 32663805,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "And",
+    "prefix": "y see it natheless they are so. And these fishes lie in an oily water brought there from Portugal land because of the fatness that therein is like to the juices of the olivepress. ",
+    "suffix": " also it was a marvel to see in that castle how by magic they make a compost out of fecund wheatkidneys out of Chaldee that by aid of certain angry spirits that they do into it swe",
+    "start": 10691,
+    "end": 10694,
+    "canonical_text": "And"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 32663805,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1382019",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "A husky fifenote blew.\n \n Blew. Blue bloom is on the.",
+  "html_source": "<p>This is a fife</p><p><img src=\"https://images.genius.com/540d89bf5cbd5076c681e6a21e40fe52.1000x603x1.jpg\" alt=\"\" /></p><p>This is also another musical motif, it relates to Bloom’s adulterous behaviour. That’s explained <strong><a href=\"https://genius.com/1382135/James-joyce-episode-11-sirens/Blue-bloom-is-on-the-rye\" rel=\"noopener nofollow\">here.</a></strong></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1382019/James-joyce-ulysses-chap-11-sirens/A-husky-fifenote-blew-blew-blue-bloom-is-on-the",
+    "original_id": "1382019",
+    "referent_id": 1382019,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "A husky fifenote blew.\n \n Blew. Blue bloom is on the.",
+    "prefix": "\n\n[11]\n\n\n\nBronze by gold heard the hoofirons, steelyringing. \n\n Imperthnthn thnthnthn. \n\n Chips, picking chips off rocky thumbnail, chips. \n\n Horrid! And gold flushed more. \n\n ",
+    "suffix": " \n\n Goldpinnacled hair. \n\n A jumping rose on satiny breasts of satin, rose of Castile. \n\n Trilling, trilling: Idolores. \n\n Peep! Who's in the... peepofgold? \n\n Tink cried to bronze",
+    "start": 176,
+    "end": 229,
+    "canonical_text": "A husky fifenote blew. \n\n Blew. Blue bloom is on the."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 1382019,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 68632,
+        "login": "SvenTheVegabond",
+        "name": "SvenTheVegabond",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

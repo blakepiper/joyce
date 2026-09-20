@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15169283",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Catarrhal",
+  "html_source": "<p>Of or relating to inflammation of the mucous membranes of the nose and throat.</p><p>Borrowed from Ancient Greek κατάρροος (katárrhoos), which is derived from καταρρέω (katarrhéō, “I flow down”), which is composed of κατά (katá, “down”) and ῥέω (rhéō, “I flow”).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15169283/James-joyce-ulysses-chap-17-ithaca/Catarrhal",
+    "original_id": "15169283",
+    "referent_id": 15169283,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "catarrhal",
+    "prefix": "ories had each of her now eight years deceased? \n\n The older, her bezique cards and counters, her Skye terrier, her suppositious wealth, her lapses of responsiveness and incipient ",
+    "suffix": " deafness: the younger, her lamp of colza oil before the statue of the Immaculate Conception, 1922#633her green and maroon brushes for Charles Stewart Parnell and for Michael Davit",
+    "start": 33081,
+    "end": 33090,
+    "canonical_text": "catarrhal"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15169283,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

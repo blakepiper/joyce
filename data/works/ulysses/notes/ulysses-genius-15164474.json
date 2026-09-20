@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15164474",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Los tiroirs! Chaîne de dames! La corbeille! Dos à dos!",
+  "html_source": "<p>More French dance instructions. “The drawers (perhaps the men?)! Chain of women! The Basket! Back to back!”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15164474/James-joyce-ulysses-chap-15-circe/Los-tiroirs-chaine-de-dames-la-corbeille-dos-a-dos",
+    "original_id": "15164474",
+    "referent_id": 15164474,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Los tiroirs! Chaîne de dames! La corbeille! Dos à dos!",
+    "prefix": "ets of dull bells. Weary they curchycurchy under veils.) \n\n1932#497\n\n THE BRACELETS \n\n Heigho! Heigho! \n\n1986#4701922#536\n\n ZOE \n\n(Twirling, her hand to her brow.) O! \n\n MAGINNI \n\n",
+    "suffix": " \n\n(Arabesquing wearily they weave a pattern on the floor, weaving, unweaving, curtseying, twirling, simply swirling.) \n\n ZOE \n\n I'm giddy! \n\n(She frees herself, droops on a chair.",
+    "start": 200706,
+    "end": 200760,
+    "canonical_text": "Les tiroirs! Chaîne de dames! La corbeille! Dos à dos!"
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9815
+  },
+  "genius": {
+    "referent_id": 15164474,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

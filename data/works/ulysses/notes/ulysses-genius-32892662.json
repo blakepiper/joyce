@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-32892662",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "I marvel, said he",
+  "html_source": "<p>There is clear narration in  ‘and I marvel, said he, that it be not come or now’ which indicates external dialog is taking place.</p><p>It’s reasonable to assume that  ‘he wondered what cry that it was whether of child or woman’ is internal narrative just visible through the Oxen of the Sun screen.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/32892662/James-joyce-ulysses-chap-14-oxen-of-the-sun/I-marvel-said-he",
+    "original_id": "32892662",
+    "referent_id": 32892662,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "I marvel, said he",
+    "prefix": " one quick with child, a gentle dame, whose time hied fast. Sir 1986#317Leopold heard on the upfloor cry on high and he wondered what cry that it was whether of child or woman and ",
+    "suffix": ", that it be not come or now. Meseems it dureth overlong. And he was ware and saw a franklin that hight Lenehan on that side the table 1961#387that was older than any of the tother",
+    "start": 11924,
+    "end": 11941,
+    "canonical_text": "I marvel, said he"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 32892662,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

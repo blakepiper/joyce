@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20231397",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "In the vatican",
+  "html_source": "<p>A slight inaccuracy. It was originally intended for the Vatican but never went there. It’s in the church of San Pietro in Vincoli.</p><p><img src=\"https://en.wikipedia.org/wiki/Tomb_of_Pope_Julius_II#/media/File:&#x27;Moses&#x27;_by_Michelangelo_JBU160.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20231397/James-joyce-ulysses-chap-7-aeolus/In-the-vatican",
+    "original_id": "20231397",
+    "referent_id": 20231397,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "in the vatican",
+    "prefix": "UM \n\n — He spoke on the law of evidence, J. J. O'Molloy said, of Roman justice as contrasted with the earlier Mosaic code, the lex talionis. And he cited the Moses of Michelangelo ",
+    "suffix": ". \n\n — Ha. \n\n1961#139\n\n — A few wellchosen words, Lenehan prefaced. Silence! \n\n Pause. J. J. O'Molloy took out his cigarettecase. \n\n False lull. Something quite ordinary. \n\n Messen",
+    "start": 41676,
+    "end": 41690,
+    "canonical_text": "in the Vatican"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 20231397,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11041825,
+        "login": "raggedclaws",
+        "name": "raggedclaws",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4547006",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Hes not a marrying man",
+  "html_source": "<p>Molly doesn’t think that Boylan is the type to get married. This could be one of the reasons Mr. Bloom doesn’t appear to be jealous of him.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4547006/James-joyce-ulysses-chap-18-penelope/Hes-not-a-marrying-man",
+    "original_id": "4547006",
+    "referent_id": 4547006,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "hes not a marrying man",
+    "prefix": " it round the town in their papers or tell the police on me but theyd think were married O let them all go and smother themselves for the fat lot I care he has plenty of money and ",
+    "suffix": " so somebody better get it out of him if I could find out whether he likes me I looked a bit washy of course when I looked close in the handglass powdering a mirror never gives you",
+    "start": 30692,
+    "end": 30714,
+    "canonical_text": "hes not a marrying man"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4547006,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

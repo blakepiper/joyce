@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8653154",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Levin",
+  "html_source": "<p>lightening</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8653154/James-joyce-ulysses-chap-14-oxen-of-the-sun/Levin",
+    "original_id": "8653154",
+    "referent_id": 8653154,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "levin",
+    "prefix": "y twain are, for Horne holding wariest ward. \n\n1986#315\n\n In ward wary the watcher hearing come that man mildhearted eft rising with swire ywimpled to him her gate wide undid. Lo, ",
+    "suffix": " leaping lightens in eyeblink Ireland's westward welkin. Full she dread that God the Wreaker all mankind would fordo with water for his evil sins. Christ's rood made she on breastb",
+    "start": 5603,
+    "end": 5608,
+    "canonical_text": "levin"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8653154,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

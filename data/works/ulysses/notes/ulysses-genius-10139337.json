@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10139337",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Menagerer",
+  "html_source": "<p>Bloom is Molly’s (Marion’s) business manager but here is the made-up word menagerer. Does it refer to Molly’s affair with Boylan as part of the Bloom household (menage)?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10139337/James-joyce-ulysses-chap-15-circe/Menagerer",
+    "original_id": "10139337",
+    "referent_id": 10139337,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "menagerer",
+    "prefix": "s cloven hoof, then droops his head and, grunting, with uplifted neck, fumbles to kneel. Bloom stoops his back for leapfrog.) \n\n BLOOM \n\n I can give you... I mean as your business ",
+    "suffix": "... Mrs Marion... if you... \n\n MARION \n\n So you notice some change? (Her hands passing slowly over her trinketed stomacher. A slow friendly mockery in her eyes.) O Poldy, Poldy, yo",
+    "start": 15600,
+    "end": 15609,
+    "canonical_text": "menagerer"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10139337,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

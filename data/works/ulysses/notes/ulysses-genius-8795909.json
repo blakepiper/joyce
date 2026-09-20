@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795909",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Gramophone",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/bd0d1b5d68247ab254047cb23abddad4.1000x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795909/James-joyce-ulysses-chap-6-hades/Gramophone",
+    "original_id": "8795909",
+    "referent_id": 8795909,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "gramophone",
+    "prefix": "e here once walked round Dublin. Faithful departed. As you are now so once were we. \n\n1961#113\n\n Besides how could you remember everybody? Eyes, walk, voice. Well, the voice, yes: ",
+    "suffix": ". Have a gramophone in every grave or keep it in the house. After dinner on a Sunday. Put on poor old greatgrandfather. Kraahraark! Hellohellohello amawfullyglad kraark awfullyglad",
+    "start": 58731,
+    "end": 58741,
+    "canonical_text": "gramophone"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9615
+  },
+  "genius": {
+    "referent_id": 8795909,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

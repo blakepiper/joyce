@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13965689",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Gawds teruth",
+  "html_source": "<p>God’s Truth</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13965689/James-joyce-ulysses-chap-14-oxen-of-the-sun/Gawds-teruth",
+    "original_id": "13965689",
+    "referent_id": 13965689,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Gawds teruth",
+    "prefix": "with the oof. Two bar and a wing. You larn that go off of they there Frenchy bilks? Won't wash here for nuts nohow. Lil chile velly solly. Ise de cutest colour coon down our side. ",
+    "suffix": ", Chawley. We are nae fou. We're nae the fou. Au reservoir, mossoo. Tanks you. \n\n1922#404\n\n 'Tis, sure. What say? In the speakeasy. Tight. I shee you, shir. Bantam, two days teetee",
+    "start": 109201,
+    "end": 109213,
+    "canonical_text": "Gawds teruth"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13965689,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

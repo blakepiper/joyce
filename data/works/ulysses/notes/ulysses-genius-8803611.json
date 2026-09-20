@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8803611",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Spoken with the Eterna",
+  "html_source": "<p>And the LORD spake unto Moses face to face, as a man speaketh unto his friend.<br />Exodus 33:11</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8803611/James-joyce-ulysses-chap-7-aeolus/Spoken-with-the-eterna",
+    "original_id": "8803611",
+    "referent_id": 8803611,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "spoken with the Eterna",
+    "prefix": "pirit before that arrogant admonition he would never have brought the chosen people out of their house of bondage, nor followed the pillar of the cloud by day. He would never have ",
+    "suffix": "l amid lightnings on Sinai's mountaintop nor ever have come down with the light of inspiration shining in his countenance and bearing in his arms the tables of the law, graven in t",
+    "start": 48242,
+    "end": 48264,
+    "canonical_text": "spoken with the Eterna"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8803611,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4707658",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Castoff mail",
+  "html_source": "<p>The ghost enters in “castoff mail” just as ghost Stephen wears castoff clothes.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4707658/James-joyce-ulysses-chap-9-scylla-and-charybdis/Castoff-mail",
+    "original_id": "4707658",
+    "referent_id": 4707658,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "castoff mail",
+    "prefix": "von has other thoughts. \n\n Composition of place. Ignatius Loyola, make haste to help me! \n\n1922#180\n\n — The play begins. A player comes on under the shadow, made up in 1932#168the ",
+    "suffix": " of a court buck, a wellset man with a bass voice. It is the ghost, the king, a king and no king, and the player is Shakespeare who has studied Hamlet all the years of his life whi",
+    "start": 9321,
+    "end": 9333,
+    "canonical_text": "castoff mail"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4707658,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.7222222222222223
+      },
+      {
+        "id": 1773543,
+        "login": "IanT",
+        "name": "IanT",
+        "role": null,
+        "attribution": 0.2777777777777778
+      }
+    ]
+  },
+  "color": "F59627"
+}

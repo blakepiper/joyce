@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8774259",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Poisons the only cures",
+  "html_source": "<p>The alternative medical system of homeopathy was developed in Germany at the end of the 18th century. Supporters of homeopathy believe “like cures like”—the notion that a disease can be cured by a substance that produces similar symptoms in healthy people. Homeopathic remedies are derived from substances that come from plants, minerals, or animals, such as red onion, arnica (mountain herb), crushed whole bees, white arsenic, poison ivy, belladonna (deadly nightshade), and stinging nettle.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8774259/James-joyce-ulysses-chap-5-lotus-eaters/Poisons-the-only-cures",
+    "original_id": "8774259",
+    "referent_id": 8774259,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Poisons the only cures",
+    "prefix": "oform you. Test: turns blue litmus paper red. Chloroform. Overdose of laudanum. Sleeping draughts. Lovephiltres. Paragoric poppysyrup bad for cough. Clogs the pores or the phlegm. ",
+    "suffix": ". Remedy where you least expect it. Clever of nature. \n\n — About a fortnight ago, sir? \n\n — Yes, Mr Bloom said. \n\n He waited by the counter, inhaling the keen reek of drugs, the du",
+    "start": 31092,
+    "end": 31114,
+    "canonical_text": "Poisons the only cures"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8774259,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

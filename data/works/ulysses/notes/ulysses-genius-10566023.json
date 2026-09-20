@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10566023",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Lucifer, dico, qui nescit occasum.",
+  "html_source": "<p>“Lucifer, I say, who knows no setting.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10566023/James-joyce-ulysses-chap-3-proteus/Lucifer-dico-qui-nescit-occasum",
+    "original_id": "10566023",
+    "referent_id": 10566023,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Lucifer, dico, qui nescit occasum.",
+    "prefix": "r trial. We enjoyed ourselves immensely. \n\n Come. I thirst. Clouding over. No black clouds anywhere, are there? Thunderstorm. Allbright he falls, proud lightning of the intellect, ",
+    "suffix": " No. My cockle hat and staff and hismy sandal shoon. Where? To evening lands. Evening will find itself. \n\n He took the hilt of his ashplant, lunging with it softly, dallying still.",
+    "start": 31863,
+    "end": 31897,
+    "canonical_text": "Lucifer, dico, qui nescit occasum."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10566023,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

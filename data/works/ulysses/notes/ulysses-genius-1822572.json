@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1822572",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Connolly Norman",
+  "html_source": "<p><a href=\"http://en.wikipedia.org/wiki/Conolly_Norman\" rel=\"noopener nofollow\">Conolly Norman</a> (12 March 1853- February 1908) was an Irish alienist, or psychiatrist, of the late nineteenth and early twentieth centuries. He was the Resident Medical Superintendent of a number of district asylums, most notably Ireland’s largest asylum, the Richmond District Lunatic Asylum, now known as St. Brendan’s Hospital.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1822572/James-joyce-ulysses-chap-1-telemachus/Connolly-norman",
+    "original_id": "1822572",
+    "referent_id": 1822572,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Connolly Norman",
+    "prefix": " the sea and to the plump face with its smokeblue mobile eyes.\n\n—That fellow I was with in the Ship last night, said Buck Mulligan, says you have g.p.i. He's up in Dottyville with ",
+    "suffix": ". General paralysis of the insane!\n\nHe swept the mirror a half circle in the air to flash the tidings abroad in sunlight now radiant on the sea. His curling shaven lips laughed and",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.0
+  },
+  "genius": {
+    "referent_id": 1822572,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 176532,
+        "login": "biblicalmike",
+        "name": "Michael Bible",
+        "role": "verified_artist",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

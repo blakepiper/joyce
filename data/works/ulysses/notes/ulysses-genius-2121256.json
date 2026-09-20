@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-2121256",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "In nomine Patris et Filii et Spiritus Sancti",
+  "html_source": "<p>Buck Mulligan continues to quote Latin lines from Catholic Mass. This phrase translates to “In the name of the Father, the Son, and the Holy Spirit”: It is usually said at a Catholic baptism.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2121256/James-joyce-ulysses-chap-1-telemachus/In-nomine-patris-et-filii-et-spiritus-sancti",
+    "original_id": "2121256",
+    "referent_id": 2121256,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "In nomine Patris et Filii et Spiritus Sancti",
+    "prefix": "ur out the tea there. The sugar is in the bag. Here, I can't go fumbling at the damned eggs. He hacked through the fry on the dish and slapped it out on three plates, saying: \n\n — ",
+    "suffix": ". \n\n1939#11\n\n Haines sat down to pour out the tea. \n\n — I'm giving you two lumps each, he said. But, I say, Mulligan, you do make strong tea, don't you? \n\n Buck Mulligan, hewing th",
+    "start": 20078,
+    "end": 20122,
+    "canonical_text": "In nomine Patris et Filii et Spiritus Sancti"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2121256,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 17874,
+        "login": "Benn",
+        "name": "Benn",
+        "role": "contributor",
+        "attribution": 0.8717948717948718
+      },
+      {
+        "id": 1623796,
+        "login": "StefanMichaelGramenz",
+        "name": "StefanMichaelGramenz",
+        "role": "contributor",
+        "attribution": 0.12820512820512822
+      }
+    ]
+  },
+  "color": "F59627"
+}

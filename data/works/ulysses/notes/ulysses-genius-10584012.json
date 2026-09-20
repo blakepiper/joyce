@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10584012",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Loop Line",
+  "html_source": "<p>Loopline Bridge, completed in 1891, connects the rail services of the north and south city, the River Liffey being the natural frontier between the two<br /><a href=\"http://www.bridgesofdublin.ie/bridges/loopline-bridge\" rel=\"noopener nofollow\">http://www.bridgesofdublin.ie/bridges/loopline-bridge</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10584012/James-joyce-ulysses-chap-16-eumaeus/Loop-line",
+    "original_id": "10584012",
+    "referent_id": 10584012,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Loop Line",
+    "prefix": "en said, who up to then had said nothing whatsoever of any kind. \n\n Discussing these and kindred topics they made a beeline across the back of the Customhouse and passed under the ",
+    "suffix": " bridge where a brazier of coke burning in front of a sentrybox or something like one attracted their rather lagging footsteps. Stephen of his own accord stopped for no special rea",
+    "start": 7370,
+    "end": 7379,
+    "canonical_text": "Loop Line"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10584012,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

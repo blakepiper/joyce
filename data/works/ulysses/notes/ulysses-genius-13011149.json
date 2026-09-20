@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13011149",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "(Altius aliqantulum) Et omnes ad quos pervenit acqua ista.",
+  "html_source": "<p>Latin: “(with considerable profundity) And all among them came to that water.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13011149/James-joyce-ulysses-chap-15-circe/Altius-aliqantulum-et-omnes-ad-quos-pervenit-acqua-ista",
+    "original_id": "13011149",
+    "referent_id": 13011149,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "(Altius aliqantulum) Et omnes ad quos pervenit acqua ista.",
+    "prefix": "ggletusks of an elderly bawd protrude from a doorway.) \n\n1932#389\n\n THE BAWD \n\n(Her voice whispering huskily.) Sst! Come here till I tell you. Maidenhead inside. Sst! \n\n STEPHEN \n\n",
+    "suffix": " \n\n1922#410\n\n THE BAWD \n\n(Spits in their trail her jet of venom.) Trinity medicals. Fallopian tube. All prick and no pence. \n\n(Edy Boardman, sniffling, crouched with Bertha Supple,",
+    "start": 3722,
+    "end": 3781,
+    "canonical_text": "(Altius aliquantulum.) Et omnes ad quos pervenit aqua ista."
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9744
+  },
+  "genius": {
+    "referent_id": 13011149,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5436824,
+        "login": "cohomology",
+        "name": "cohomology",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

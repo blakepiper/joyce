@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15123472",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Tapped some lively claret",
+  "html_source": "<p>I.e., spilled some serious blood</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15123472/James-joyce-ulysses-chap-12-cyclops/Tapped-some-lively-claret",
+    "original_id": "15123472",
+    "referent_id": 15123472,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "tapped some lively claret",
+    "prefix": "of poundage, Dublin's pet lamb made up for it by superlative skill in ringcraft. The final bout of fireworks was a gruelling for both champions. The welterweight sergeantmajor had ",
+    "suffix": " in the previous mixup during which Keogh had been receivergeneral of rights and lefts, the artilleryman putting in some neat work on the pet's nose, and Myler came on looking grog",
+    "start": 62370,
+    "end": 62395,
+    "canonical_text": "tapped some lively claret"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15123472,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9666776",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Vizier",
+  "html_source": "<p>a high official in some Muslim countries, especially in Turkey under Ottoman rule.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9666776/James-joyce-ulysses-chap-15-circe/Vizier",
+    "original_id": "9666776",
+    "referent_id": 9666776,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Vizier",
+    "prefix": " intercontinental and interplanetary transmitters are set for reception of message.) \n\n BLOOM \n\n My subjects! We hereby nominate our faithful charger Copula Felix hereditary Grand ",
+    "suffix": " and announce that we have this day repudiated our former spouse and have bestowed our royal hand upon the princess Selene, the splendour of night. \n\n(The former morganatic spouse ",
+    "start": 75505,
+    "end": 75511,
+    "canonical_text": "Vizier"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9666776,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

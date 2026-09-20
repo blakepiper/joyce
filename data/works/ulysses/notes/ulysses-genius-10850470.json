@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10850470",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Various colours",
+  "html_source": "<p>Star color is determined by its heat<br /><a href=\"http://www.atnf.csiro.au/outreach/education/senior/astrophysics/photometry_colour.html#photmcolstelcol\" rel=\"noopener nofollow\">http://www.atnf.csiro.au/outreach/education/senior/astrophysics/photometry_colour.html#photmcolstelcol</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10850470/James-joyce-ulysses-chap-17-ithaca/Various-colours",
+    "original_id": "10850470",
+    "referent_id": 10850470,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "various colours",
+    "prefix": " vanity. \n\n1922#652\n\n And the problem of possible redemption? \n\n The minor was proved by the major. \n\n Which various features of the constellations were in turn considered? \n\n The ",
+    "suffix": " significant of various degrees of vitality (white, yellow, crimson, vermilion, cinnabar): their degrees of brilliancy: their magnitudes 1986#574revealed up to and including the 7t",
+    "start": 69991,
+    "end": 70006,
+    "canonical_text": "various colours"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10850470,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

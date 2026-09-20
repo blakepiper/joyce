@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4537308",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Meadero",
+  "html_source": "<p>“Meadero” is Spanish for urinal. [Gifford]</p><p><img src=\"https://images.rapgenius.com/108b903c8750f696e11ea66c5b126834.840x998x1.jpg\" alt=\"\" /></p><p><em>Another artistically significant urinal</em></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4537308/James-joyce-ulysses-chap-18-penelope/Meadero",
+    "original_id": "4537308",
+    "referent_id": 4537308,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "meadero",
+    "prefix": "iting cold I couldnt keep it when was that 93 the canal was frozen yes it was a few months after a pity a couple of the Camerons werent there to see me squatting in the mens place ",
+    "suffix": " I tried to draw a picture of it before I tore it up like a sausage or something I wonder theyre not afraid going about of getting a kick or a bang of something there and that word",
+    "start": 42017,
+    "end": 42024,
+    "canonical_text": "meadero"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4537308,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.85
+      },
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.15
+      }
+    ]
+  },
+  "color": "F59627"
+}

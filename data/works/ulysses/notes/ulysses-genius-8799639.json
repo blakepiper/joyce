@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8799639",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Your epitaph is written",
+  "html_source": "<p>Suggests Robert Emmet’s last words: “Let no man write my epitaph; for as no man who knows my motives dares now vindicate them, let not prejudice or ignorance asperse them.” Neither Bloom’s nor Joyce’s motives are known. One who does know would not dare defend them, likely, out of fear that the interpretation would garner ridicule, therefore nor he who knows not, nor he who dares not say should condemn them.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8799639/James-joyce-ulysses-chap-15-circe/Your-epitaph-is-written",
+    "original_id": "8799639",
+    "referent_id": 8799639,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Your epitaph is written",
+    "prefix": " his fists and crawls forward, a bowieknife between his teeth.) \n\n BELLO \n\n As a paying guest or a kept man? Too late. You have made your secondbest bed and others must lie in it. ",
+    "suffix": ". You are down and out and don't you forget it, old bean. \n\n BLOOM \n\n Justice! All Ireland versus one! Has nobody...? (He bites his thumb.) \n\n1932#473\n\n BELLO \n\n Die and be damned ",
+    "start": 160652,
+    "end": 160675,
+    "canonical_text": "Your epitaph is written"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8799639,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4591675",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Cabman’s shelter",
+  "html_source": "<p>Numerous critics have pointed out that the cabman’s shelter corresponds nicely with Eumaeus' hut in Homer’s <a href=\"https://genius.com/albums/Homer/The-odyssey\" rel=\"noopener nofollow\"><em>Odyssey</em>.</a> In the Odyssey, the Father (Odysseus) finally returns to Ithaca and is reunited with his son (Telemachus) at Eumaeus' hut.</p><p><img src=\"https://images.rapgenius.com/03f7a13ff5cbd8e51adf5e98e3c7ecca.398x600x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4591675/James-joyce-ulysses-chap-16-eumaeus/Cabmans-shelter",
+    "original_id": "4591675",
+    "referent_id": 4591675,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "cabman's shelter",
+    "prefix": "ur it was and there being no pump of Vartry water available for their ablutions let alone drinking purposes hit upon an expedient by suggesting, off the reel, the propriety of the ",
+    "suffix": ", as it was called, hardly a stonesthrow away near Butt bridge where they might hit upon some drinkables in the shape of a milk and soda or a mineral. But how to get there was the ",
+    "start": 573,
+    "end": 589,
+    "canonical_text": "cabman's shelter"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 4591675,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

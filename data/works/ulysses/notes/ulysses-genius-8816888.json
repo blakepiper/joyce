@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8816888",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Chawbacon",
+  "html_source": "<p>noun<br />(pejorative) an unsophisticated person of low intellect</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8816888/James-joyce-ulysses-chap-8-lestrygonians/Chawbacon",
+    "original_id": "8816888",
+    "referent_id": 8816888,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "chawbacon",
+    "prefix": "owagers jingle of harnesses, hoofthuds lowringing 1986#137in the baking causeway. Thick feet that woman has in the white stockings. Hope the rain mucks them up on her. Countrybred ",
+    "suffix": ". All the beef to the heels were in. Always gives a woman clumsy feet. Molly looks out of plumb. \n\n He passed, dallying, the windows of Brown Thomas, silk mercers. Cascades of ribb",
+    "start": 39201,
+    "end": 39210,
+    "canonical_text": "chawbacon"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8816888,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

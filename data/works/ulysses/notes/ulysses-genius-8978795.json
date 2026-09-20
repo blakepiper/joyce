@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8978795",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Hundred shillings to five on",
+  "html_source": "<p>Previously we learned the horse had 20 to 1 odds, so it would pay 100 shillings for a 5 shilling bet.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8978795/James-joyce-ulysses-chap-12-cyclops/Hundred-shillings-to-five-on",
+    "original_id": "8978795",
+    "referent_id": 8978795,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "hundred shillings to five on",
+    "prefix": "4\n\n — That's where he's gone, says Lenehan. I met Bantam Lyons going to back that horse only I put him off it and he told me Bloom gave him the tip. Bet you what you like he has a ",
+    "suffix": ". He's the only man in Dublin has it. A dark horse. \n\n — He's a bloody dark horse himself, says Joe. \n\n — Mind, Joe, says I. Show us the entrance out. \n\n — There you are, says Terr",
+    "start": 99636,
+    "end": 99664,
+    "canonical_text": "hundred shillings to five on"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8978795,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

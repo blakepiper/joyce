@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-12763603",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Mailboat",
+  "html_source": "<p><a href=\"http://m.joyceproject.com/notes/010036mailboat.html\" rel=\"noopener nofollow\">http://m.joyceproject.com/notes/010036mailboat.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/12763603/James-joyce-ulysses-chap-1-telemachus/Mailboat",
+    "original_id": "12763603",
+    "referent_id": 12763603,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "mailboat",
+    "prefix": "hem to halt again. \n\n Eyes, pale as the sea the wind had freshened, paler, firm and prudent. The seas' ruler, he gazed southward over the bay, empty save for the smokeplume of the ",
+    "suffix": " vague on the bright skyline and a sail tacking by the Muglins. \n\n1932#17\n\n — I read a theological interpretation of it somewhere, he said bemused. The Father and the Son idea. The",
+    "start": 32329,
+    "end": 32337,
+    "canonical_text": "mailboat"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9647
+  },
+  "genius": {
+    "referent_id": 12763603,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

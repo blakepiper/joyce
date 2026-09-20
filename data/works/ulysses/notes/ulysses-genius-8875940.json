@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8875940",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Six sixteen",
+  "html_source": "<p>six sixteen = 6-16 = June 16 =  Bloomsday. Sixteen is also the number tattooed on the sailor’s chest.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8875940/James-joyce-ulysses-chap-16-eumaeus/Six-sixteen",
+    "original_id": "8875940",
+    "referent_id": 8875940,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "six sixteen",
+    "prefix": "dment Act, certain names of those subpoenaed being handed in but not divulged, for reasons which will occur to anyone with a pick of brains. Briefly, putting two and two together, ",
+    "suffix": ", which he pointedly turned a deaf ear to, 1986#527Antonio and so forth, jockeys and esthetes and the tattoo which was all the go in the seventies or thereabouts, even in the House",
+    "start": 81567,
+    "end": 81578,
+    "canonical_text": "six sixteen"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8875940,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8113379",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Wood sieved by the shipworm",
+  "html_source": "<p>The marrooned ship seems to function doubly as an allusion to the myth of Odysseus’ bondage on Calypso’s island and as a remnant of imperial conquest.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8113379/James-joyce-ulysses-chap-3-proteus/Wood-sieved-by-the-shipworm",
+    "original_id": "8113379",
+    "referent_id": 8113379,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "wood sieved by the shipworm",
+    "prefix": ".. \n\n The grainy sand had gone from under his feet. His boots trod again a damp crackling mast, razorshells, squeaking pebbles, 1961#40that on the 1932#37unnumbered pebbles beats, ",
+    "suffix": ", lost Armada. Unwholesome sandflats waited to suck his treading soles, breathing upward sewage breath. He coasted them, walking warily. A porterbottle stood up, stogged to its wai",
+    "start": 9254,
+    "end": 9281,
+    "canonical_text": "wood sieved by the shipworm"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8113379,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2436433,
+        "login": "essss",
+        "name": "essss",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

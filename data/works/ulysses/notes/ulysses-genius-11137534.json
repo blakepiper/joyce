@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11137534",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Mrs Stanhope",
+  "html_source": "<p>Lady Hester Stanhope lived an incredible life that included time in Gibralter.</p><p><a href=\"http://greatbritishnutters.blogspot.com/2008/07/lady-hester-stanhope-kooky-desert-queen.html\" rel=\"noopener nofollow\">http://greatbritishnutters.blogspot.com/2008/07/lady-hester-stanhope-kooky-desert-queen.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11137534/James-joyce-ulysses-chap-18-penelope/Mrs-stanhope",
+    "original_id": "11137534",
+    "referent_id": 11137534,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Mrs Stanhope",
+    "prefix": "here the poplars and they all whitehot and the smell of the rainwater in those tanks watching the sun all the time weltering down on you faded all that lovely frock fathers friend ",
+    "suffix": " sent me from the B Marche paris what a shame my dearest Doggerina she wrote on it she was very nice whats this her other name was just a P C to tell you I sent the little present ",
+    "start": 45715,
+    "end": 45727,
+    "canonical_text": "Mrs Stanhope"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11137534,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

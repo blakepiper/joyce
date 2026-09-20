@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15165151",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "ça se voit aussi à Paris",
+  "html_source": "<p>(Fr.) “It is also seen in Paris” (i.e., these necessary evils)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15165151/James-joyce-ulysses-chap-15-circe/Ca-se-voit-aussi-a-paris",
+    "original_id": "15165151",
+    "referent_id": 15165151,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "ça se voit aussi à Paris",
+    "prefix": " someone. \n\n1961#594\n\n PRIVATE CARR \n\n Who wants your bleeding money? \n\n STEPHEN \n\n(Tries to move off.) Will someone tell me where I am least likely to meet these necessary evils? ",
+    "suffix": ". Not that I... But, by Saint Patrick...! \n\n(The women's heads coalesce. Old Gummy Granny in sugarloaf hat appears seated on a toadstool, the deathflower of the potato blight on he",
+    "start": 222738,
+    "end": 222762,
+    "canonical_text": "Ça se voit aussi à Paris"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 15165151,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

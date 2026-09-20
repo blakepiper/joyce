@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15174225",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "In the intermediate",
+  "html_source": "<p>These were Irish state examinations taken by 15-16 year olds in secondary school. The Intermediate Certificate has since been replaced by the <a href=\"https://en.wikipedia.org/wiki/Junior_Certificate#Intermediate_Certificate\" rel=\"noopener nofollow\">Junior Certificate</a>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15174225/James-joyce-ulysses-chap-18-penelope/In-the-intermediate",
+    "original_id": "15174225",
+    "referent_id": 15174225,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "in the intermediate",
+    "prefix": "es up with his tall hat on him at the cricket match and a great big hole in his sock one thing laughing at the other and his son that got all those prizes for whatever he won them ",
+    "suffix": " imagine climbing over the railings if 1922#718anybody saw him that knew us I wonder he didnt tear a big hole in his grand funeral trousers as if the one nature gave wasnt enough f",
+    "start": 81098,
+    "end": 81117,
+    "canonical_text": "in the intermediate"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15174225,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

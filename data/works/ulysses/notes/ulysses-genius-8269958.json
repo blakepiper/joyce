@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8269958",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Janey Mack",
+  "html_source": "<p>Janey Mack (Mac) is widely used in Ireland as a euphemism for Jesus Christ, to avoid taking his name in vain.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8269958/James-joyce-ulysses-chap-1-telemachus/Janey-mack",
+    "original_id": "8269958",
+    "referent_id": 8269958,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Janey Mack",
+    "prefix": "ose from the hammock where it had been sitting, went to the doorway and pulled open the inner doors. \n\n — Have you the key? a voice asked. \n\n — Dedalus has it, Buck Mulligan said. ",
+    "suffix": ", I'm choked! \n\n1922#11\n\n He howled, without looking up from the fire: \n\n — Kinch! \n\n — It's in the lock, Stephen said, coming forward. \n\n The key scraped round harshly twice and, ",
+    "start": 18529,
+    "end": 18539,
+    "canonical_text": "Janey Mack"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8269958,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2532443,
+        "login": "HuzaifahAwan",
+        "name": "HuzaifahAwan",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

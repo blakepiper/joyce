@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11041516",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Invalid",
+  "html_source": "<p>Mr Boylan is clearly what the Irish would call  ‘ a chancer’</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11041516/James-joyce-ulysses-chap-10-wandering-rocks/Invalid",
+    "original_id": "11041516",
+    "referent_id": 11041516,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "invalid",
+    "prefix": "a docket and pencil. \n\n — Will you write the address, sir? \n\n Blazes Boylan at the counter wrote and pushed the docket to her. \n\n — Send it at once, will you? he said. It's for an ",
+    "suffix": ". \n\n — Yes, sir. I will, sir. \n\n Blazes Boylan rattled merry money in his trousers' pocket. \n\n1932#204\n\n — What's the damage? he asked. \n\n The blond girl's slim fingers reckoned th",
+    "start": 18440,
+    "end": 18447,
+    "canonical_text": "invalid"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11041516,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 4017165,
+        "login": "KevinFoy",
+        "name": "KevinFoy",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

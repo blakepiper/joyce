@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9063716",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Limpet",
+  "html_source": "<p><img src=\"https://images.genius.com/c167fdb9bc2f289d1fbd4770f2e6b554.1000x750x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9063716/James-joyce-ulysses-chap-13-nausicaa/Limpet",
+    "original_id": "9063716",
+    "referent_id": 9063716,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "limpet",
+    "prefix": "ng with a private yacht. Buenas noches, señorita. El hombre ama la muchacha hermosa. Why me? Because you were so foreign from the others. \n\n Better not stick here all night like a ",
+    "suffix": ". This weather makes you dull. Must be getting on for nine by the light. Go home. Too late for Leah,Lily of Killarney. No. Might be still up. Call to the hospital to see. Hope she'",
+    "start": 85813,
+    "end": 85819,
+    "canonical_text": "limpet"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9063716,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

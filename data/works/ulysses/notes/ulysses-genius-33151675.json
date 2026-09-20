@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33151675",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "But",
+  "html_source": "<p>The best that dunk Punch Costello could come up with was he’d have his way with anyone?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33151675/James-joyce-ulysses-chap-14-oxen-of-the-sun/But",
+    "original_id": "33151675",
+    "referent_id": 33151675,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "But",
+    "prefix": "r, sirs, he said, our lust is brief. We are means to those small creatures within us and nature has other ends than we. Then said Dixon junior to Punch Costello wist he what ends. ",
+    "suffix": " he had overmuch drunken and the best word he could have of him was that he would ever dishonest a woman whoso she were or wife or maid or leman if it so fortuned him to be deliver",
+    "start": 16220,
+    "end": 16223,
+    "canonical_text": "But"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 33151675,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

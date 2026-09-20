@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-6418713",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Stout shield of oxengut",
+  "html_source": "<p>A condom</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6418713/James-joyce-ulysses-chap-14-oxen-of-the-sun/Stout-shield-of-oxengut",
+    "original_id": "6418713",
+    "referent_id": 6418713,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "stout shield of oxengut",
+    "prefix": " them, Pickaback and Topsyturvy and Shameface and Cheek by Jowl and, second, for that foul plague Allpox and the monsters they cared not for them for Preservative had given them a ",
+    "suffix": " and, third, that they might take no hurt neither from Offspring that was that wicked devil by virtue of this same shield which was named Killchild. So were they all in their blind",
+    "start": 33063,
+    "end": 33086,
+    "canonical_text": "stout shield of oxengut"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6418713,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1689524,
+        "login": "LeopoldQ",
+        "name": "LeopoldQ",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

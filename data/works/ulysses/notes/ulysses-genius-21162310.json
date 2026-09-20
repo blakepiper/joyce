@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21162310",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Puck Mulligan",
+  "html_source": "<p>Associating Mulligan with Robin Goodfellow/Puck, an ornery sprite in A Midsummer Night’s Dream.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21162310/James-joyce-ulysses-chap-9-scylla-and-charybdis/Puck-mulligan",
+    "original_id": "21162310",
+    "referent_id": 21162310,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Puck Mulligan",
+    "prefix": " — A pleased bottom. \n\n1939#157\n\n The turnstile. \n\n Is that?... Blueribboned hat... Idly writing... What? Looked?... \n\n The curving balustrade: smoothsliding Mincius. \n\n1922#206\n\n ",
+    "suffix": ", panamahelmeted, went step by step, iambing, trolling: \n\n1932#193\n\nJohn Eglinton, my jo, John, \nWhy won't you wed a wife? \n\n He spluttered to the air: \n\n — O, the chinless Chinama",
+    "start": 65173,
+    "end": 65186,
+    "canonical_text": "Puck Mulligan"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9169
+  },
+  "genius": {
+    "referent_id": 21162310,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

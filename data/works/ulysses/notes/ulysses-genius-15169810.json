@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15169810",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Majolica",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Majolica\" rel=\"noopener nofollow\">Majolica</a> refers to various kinds and colors of painted pottery pieces.</p><p><img src=\"https://images.genius.com/bb86859b54532b77655383f3d3f247b5.999x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15169810/James-joyce-ulysses-chap-17-ithaca/Majolica",
+    "original_id": "15169810",
+    "referent_id": 15169810,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "majolica",
+    "prefix": "located from opposite the door to the ingleside near the compactly furled Union Jack (an alteration which he had frequently intended to execute): the blue and white checker inlaid ",
+    "suffix": "topped table had been placed opposite the door in the place vacated by the prune plush sofa: the walnut sideboard (a projecting angle of which had momentarily arrested his ingress)",
+    "start": 81344,
+    "end": 81352,
+    "canonical_text": "majolica"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 15169810,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8747102",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Prize titbit",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/adbbaf3e8d0c7c997dcf27446f3eae77.200x269x1.jpg\" alt=\"\" /></p><p>A competition in the <em>Titbits</em> magazine for which a young Joyce wrote an article but didn’t enter. The article was referred to by Joyce as ‘Matcham’s Masterstroke’ in Ulysses as a joke. In it a Russian diplomat is murdered by a nihilist after a masked ball (Ellmann, p51).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8747102/James-joyce-ulysses-chap-4-calypso/Prize-titbit",
+    "original_id": "8747102",
+    "referent_id": 8747102,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "prize titbit",
+    "prefix": "is countinghouse. Nobody. \n\n Asquat on the cuckstool he folded out his paper, turning its pages over on his bared knees. Something new and easy. No great hurry. Keep it a bit. Our ",
+    "suffix": ": Matcham's Masterstroke. Written by Mr Philip Beaufoy, Playgoers' Club, London. Payment at the rate of one guinea a column has been1961#68 made to the writer. Three and a half. Th",
+    "start": 30826,
+    "end": 30838,
+    "canonical_text": "prize titbit"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8747102,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

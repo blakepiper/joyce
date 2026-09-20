@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8736701",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "George’s church",
+  "html_source": "<p><a href=\"http://www.irishhistorylinks.net/pages/Old_Dublin_Black_White.html#hardwick\" rel=\"noopener nofollow\">http://www.irishhistorylinks.net/pages/Old_Dublin_Black_White.html#hardwick</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8736701/James-joyce-ulysses-chap-4-calypso/Georges-church",
+    "original_id": "8736701",
+    "referent_id": 8736701,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "George's church",
+    "prefix": "limp lid. Looked shut. All right till I come back anyhow. \n\n He crossed to the bright side, avoiding the loose cellarflap of number seventyfive. The sun was nearing the steeple of ",
+    "suffix": ". Be a warm day I fancy. Specially in these black clothes feel it more. Black conducts, reflects, (refracts is it?), the heat. But I couldn't go in that light suit. Make a1986#46 p",
+    "start": 4902,
+    "end": 4917,
+    "canonical_text": "George's church"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 8736701,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

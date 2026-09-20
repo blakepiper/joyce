@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2561188",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Agendath Netaim",
+  "html_source": "<p>A Zionist colony established in Palestine in 1905.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2561188/James-joyce-ulysses-chap-4-calypso/Agendath-netaim",
+    "original_id": "2561188",
+    "referent_id": 2561188,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Agendath Netaim",
+    "prefix": "not: another time. \n\n — Good morning, he said, moving away. \n\n — Good morning, sir. \n\n No sign. Gone. What matter? \n\n1939#46\n\n He walked back along Dorset street, reading gravely. ",
+    "suffix": ": planters' company. To purchase waste sandy tracts from Turkish government and plant with eucalyptus trees. Excellent for shade, fuel and construction. Orangegroves and immense me",
+    "start": 12273,
+    "end": 12288,
+    "canonical_text": "Agendath Netaim"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2561188,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 353918,
+        "login": "tekla",
+        "name": "tekla",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

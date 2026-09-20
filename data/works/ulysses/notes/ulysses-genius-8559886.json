@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8559886",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Testoon",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/30683adcf968f06c3bb4946e55ab1403.400x226x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8559886/James-joyce-ulysses-chap-12-cyclops/Testoon",
+    "original_id": "8559886",
+    "referent_id": 8559886,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "testoon",
+    "prefix": ", in beauty akin to the immortals. \n\n1961#299\n\n But he, the young chief of the O'Bergans, could ill brook to be outdone in generous deeds but gave therefor with gracious gesture a ",
+    "suffix": " of costliest bronze. Thereon embossed in excellent smithwork was seen the image of a queen of regal port, scion of the house of Brunswick, Victoria her name, Her Most Excellent Ma",
+    "start": 18687,
+    "end": 18694,
+    "canonical_text": "testoon"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8559886,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

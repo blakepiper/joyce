@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11153331",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Icicles",
+  "html_source": "<p>cave stalactites look like icicles</p><p><img src=\"https://images.genius.com/54686fefc5c7d115fcf29af0ba12b4e9.640x480x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11153331/James-joyce-ulysses-chap-18-penelope/Icicles",
+    "original_id": "11153331",
+    "referent_id": 11153331,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "icicles",
+    "prefix": "we lay over the firtree cove a wild place I suppose it must be the highest rock in existence the galleries and casemates and those frightful rocks and Saint Michaels cave with the ",
+    "suffix": " or whatever they call them hanging down and ladders all the mud plotching my boots Im sure thats the way down the monkeys go under the sea to Africa when they die the ships out fa",
+    "start": 58898,
+    "end": 58905,
+    "canonical_text": "icicles"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11153331,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

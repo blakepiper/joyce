@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4014467",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "And your other eye!",
+  "html_source": "<p>A music hall catch phrase laden with double meaning (Gifford &amp; Seidman).<br /><a href=\"https://www.youtube.com/watch?v=0dICXEywsdQ&amp;list=PLiPMYeyVbAzZTLXtytjeXyYpmtVoQpTdA\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=0dICXEywsdQ&amp;list=PLiPMYeyVbAzZTLXtytjeXyYpmtVoQpTdA</a></p><p><a href=\"https://www.youtube.com/watch?v=SEXMSpuYePU\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=SEXMSpuYePU</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4014467/James-joyce-ulysses-chap-11-sirens/And-your-other-eye",
+    "original_id": "4014467",
+    "referent_id": 4014467,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "And your other eye!",
+    "prefix": "ered imperthnthn like a snout in quest. \n\n — O! shrieking, Miss Kennedy cried. Will you ever forget his goggle eye? \n\n Miss Douce chimed in in deep bronze laughter, shouting: \n\n — ",
+    "suffix": " \n\n Bloowhose dark eye read Aaron Figatner's name. Why do I always think Figather? Gathering figs, I think. And Prosper Lore's huguenot name. By Bassi's blessed virgins Bloom's dar",
+    "start": 6796,
+    "end": 6815,
+    "canonical_text": "And your other eye!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4014467,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

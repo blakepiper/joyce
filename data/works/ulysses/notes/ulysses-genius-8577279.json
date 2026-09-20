@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8577279",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Antitreating",
+  "html_source": "<p>A movement by the league by that name to combat drinking by discouraging the practice within a drinking party for each member to “treat” the others to a round.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8577279/James-joyce-ulysses-chap-12-cyclops/Antitreating",
+    "original_id": "8577279",
+    "referent_id": 8577279,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Antitreating",
+    "prefix": "g in his 1961#310old goo with his twopenny stump that he cadged off of Joe and 1922#297talking about the Gaelic league and the antitreating league and drink, the curse of Ireland. ",
+    "suffix": " is about the size of it. Gob, he'd let you pour all manner of drink down his throat till the Lord would call him before you'd ever see the froth of his pint. And one night I went ",
+    "start": 44402,
+    "end": 44414,
+    "canonical_text": "Antitreating"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8577279,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

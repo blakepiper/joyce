@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8362425",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "And in the porches of mine ear did pour.",
+  "html_source": "<p>References Act 1, Scene 5 of Hamlet in which the ghost of Hamlet’s father tells of how he was poisoned by his brother Claudius, while he lay “sleeping within my orchard, my custom always of the afternoon.” Joyce as a student had attended parts of the trial of Samuel Childs, accused of murdering his older brother Thomas at his home near Prospect cemetery, Glasnevin, setting for the Hades chapter of Ulysses. Childs was defended by Seymour Bushe, and ultimately acquitted.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8362425/James-joyce-ulysses-chap-7-aeolus/And-in-the-porches-of-mine-ear-did-pour",
+    "original_id": "8362425",
+    "referent_id": 8362425,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "And in the porches of mine ear did pour.",
+    "prefix": "e most polished periods I think I ever listened to in my life fell from the lips of Seymour Bushe. It was in that case of fratricide, the Childs murder case. Bushe defended him. \n\n",
+    "suffix": " \n\n1939#1031986#114\n\n By the way how did he find that out? He died in his sleep. Or the other story, beast with two backs? \n\n — What was that? the professor asked. \n\n ITALIA, MAGIS",
+    "start": 41268,
+    "end": 41308,
+    "canonical_text": "And in the porches of mine ear did pour."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8362425,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

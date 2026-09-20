@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11163819",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "His father",
+  "html_source": "<p>thoughts of Bloom’s father’s suicide pop into Molly’s reminiscences of Milly’s teenage suitors</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11163819/James-joyce-ulysses-chap-18-penelope/His-father",
+    "original_id": "11163819",
+    "referent_id": 11163819,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "his father",
+    "prefix": "not a particle of love in their natures to find two people like that nowadays full up of each other that would feel the same way as you do theyre usually a bit foolish in the head ",
+    "suffix": " must have been a bit queer to go and poison himself after her still poor old man I suppose he felt lost  always making love to my things too the few old rags I have wanting to put",
+    "start": 78845,
+    "end": 78855,
+    "canonical_text": "his father"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 11163819,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

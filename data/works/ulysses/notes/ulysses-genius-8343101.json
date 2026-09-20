@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8343101",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "—With a broken back, is it? Mr Dedalus asked.\n \n —The same, Simon, Father Cowley answered. Reuben of that ilk. I’m just waiting for Ben Dollard. He’s going to say a word to long John to get him to take those two men off. All I want is a little time.",
+  "html_source": "<p>They are referring to Reuben J. Dodd, a money lender, earlier encountered in the Hades episode. (See fuller note there.)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8343101/James-joyce-ulysses-chap-10-wandering-rocks/With-a-broken-back-is-it-mr-dedalus-asked-the-same-simon-father-cowley-answered-reuben-of-that-ilk-im-just-waiting-for-ben-dollard-hes-going-to-say-a-word-to-long-john-to-get-him-to-take-those-two-men-off-all-i-want-is-a-little-time",
+    "original_id": "8343101",
+    "referent_id": 8343101,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "—With a broken back, is it? Mr Dedalus asked.\n \n —The same, Simon, Father Cowley answered. Reuben of that ilk. I'm just waiting for Ben Dollard. He's going to say a word to long John to get him to take those two men off. All I want is a little time.",
+    "prefix": "two men prowling around the house trying to effect an entrance. \n\n — Jolly, Mr Dedalus said. Who is it? \n\n — O, Father Cowley said. A certain gombeen man of our acquaintance. \n\n — ",
+    "suffix": " \n\n He looked with vague hope up and down the quay, a big apple bulging in his neck. \n\n — I know, Mr Dedalus said, nodding. Poor old bockedy Ben! He's always doing a good turn for ",
+    "start": 51255,
+    "end": 51504,
+    "canonical_text": "With a broken back, is it? Mr Dedalus asked. \n\n — The same, Simon, Father Cowley answered. Reuben of that ilk. I'm just waiting for Ben Dollard. He's going to say a word to Long John to get him to take those two men off. All I want is a little time."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 8343101,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2568065,
+        "login": "GeoffBobker",
+        "name": "GeoffBobker",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

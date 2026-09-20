@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15150417",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Ossifrage",
+  "html_source": "<p>Ossifrage (“bone-breaker” in Latin) is an older name for the bearded vulture</p><p><img src=\"https://images.genius.com/503228baaacf562c9613786bb851fd99.240x180x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15150417/James-joyce-ulysses-chap-14-oxen-of-the-sun/Ossifrage",
+    "original_id": "15150417",
+    "referent_id": 15150417,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "ossifrage",
+    "prefix": "d from water of old Nile, among bulrushes, a bed of fasciated 1986#322wattles: at last the cavity of a mountain, an occulted sepulchre amid the conclamation of the hillcat and the ",
+    "suffix": ". And as no man 1932#356knows the ubicity of his tumulus nor to what processes we shall thereby be ushered nor whether to Tophet or to Edenville in the like way is all hidden when ",
+    "start": 28271,
+    "end": 28280,
+    "canonical_text": "ossifrage"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15150417,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

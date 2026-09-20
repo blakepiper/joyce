@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8875523",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Bockedy",
+  "html_source": "<p>ADJECTIVE<br />Irish<br />Unsteady; wobbly:</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8875523/James-joyce-ulysses-chap-10-wandering-rocks/Bockedy",
+    "original_id": "8875523",
+    "referent_id": 8875523,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "bockedy",
+    "prefix": "those two men off. All I want is a little time. \n\n He looked with vague hope up and down the quay, a big apple bulging in his neck. \n\n — I know, Mr Dedalus said, nodding. Poor old ",
+    "suffix": " Ben! He's always doing a good turn for someone. Hold hard! \n\n1939#178\n\n He put on his glasses and gazed towards the metal bridge an instant. \n\n — There he is, by God, he said, ars",
+    "start": 51637,
+    "end": 51644,
+    "canonical_text": "bockedy"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8875523,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

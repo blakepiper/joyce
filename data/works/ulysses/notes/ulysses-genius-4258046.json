@@ -1,0 +1,63 @@
+{
+  "id": "ulysses-genius-4258046",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Buck Mulligan",
+  "html_source": "<p>Joyce based this character on his acquaintance, Oliver St. John Gogarty. Joyce’s <a href=\"http://www.istrianet.org/istria/illustri/non-istrian/joyce/works/notebook-trieste.htm\" rel=\"noopener nofollow\">Trieste Notebook</a> from 1909 contains an entry on Gogarty, complete with phrases which would go on to appear in <em>Ulysses</em>. For instance, the sentence</p><blockquote><p>The Omphalos was to be the temple of a neo-paganism.</p></blockquote><p>Would turn up in</p><blockquote><p><a href=\"https://genius.com/1822380\" rel=\"noopener nofollow\">To ourselves… new paganism… omphalos.</a></p></blockquote><p>a bit later in this chapter.</p><p>Both men had suffered a falling out, hence Joyce’s critical depiction. Gogarty was a poet, an author, a politician, but above all else a conversationalist. Joyce’s opinion on whether or not he was successful at any of those occupations is fairly clear from the text.</p><p>PROPOSED SUGGESTION: Gogarty was also importantly <a href=\"https://www.rcpe.ac.uk/sites/default/files/omahony.pdf\" rel=\"noopener nofollow\">a doctor</a> (and Joyce himself spent some time as a medical student in Paris); at the time of the setting of Ulysses, Buck Mulligan is a medical student.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4258046/James-joyce-ulysses-chap-1-telemachus/Buck-mulligan",
+    "original_id": "4258046",
+    "referent_id": 4258046,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Buck Mulligan",
+    "prefix": "he top of the staircase and looked coldly at the shaking gurgling face that blessed him, equine in its length, and at the light untonsured hair, grained and hued like pale oak. \n\n ",
+    "suffix": " peeped an instant under the mirror and then covered the bowl smartly. \n\n — Back to barracks! he said sternly. \n\n He added in a preacher's tone: \n\n — For this, O dearly beloved, is",
+    "start": 960,
+    "end": 973,
+    "canonical_text": "Buck Mulligan"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 4258046,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.38620689655172413
+      },
+      {
+        "id": 1252754,
+        "login": "PolicemanFox",
+        "name": "PolicemanFox",
+        "role": null,
+        "attribution": 0.3448275862068966
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.25517241379310346
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.013793103448275864
+      }
+    ]
+  },
+  "color": "F59627"
+}

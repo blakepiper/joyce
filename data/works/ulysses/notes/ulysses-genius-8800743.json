@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8800743",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Shaughraun",
+  "html_source": "<p>shaughraun<br />Noun (plural shaughrauns)<br />(Anglo-Irish, Canadian) a wanderer, a vagabond<br />(Anglo-Irish, Canadian) a state of travelling or wandering</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8800743/James-joyce-ulysses-chap-7-aeolus/Shaughraun",
+    "original_id": "8800743",
+    "referent_id": 8800743,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "shaughraun",
+    "prefix": "LAHER \n\n — You can do it, Myles Crawford repeated, clenching his hand in emphasis. Wait a minute. We'll paralyse Europe as Ignatius Gallaher used to say when1986#111 he was on the ",
+    "suffix": ", doing billiardmarking in the Clarence. Gallaher, that was a1961#135 pressman for you. That was a pen. You know how he made his mark? I'll tell you. That was the smartest piece of",
+    "start": 34429,
+    "end": 34439,
+    "canonical_text": "shaughraun"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8800743,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

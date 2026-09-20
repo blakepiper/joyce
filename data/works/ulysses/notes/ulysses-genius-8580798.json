@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8580798",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Orelli O’Reilly",
+  "html_source": "<p>A takeoff on the expression of skepticism, “Oh really, O'Reilly?”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8580798/James-joyce-ulysses-chap-12-cyclops/Orelli-oreilly",
+    "original_id": "8580798",
+    "referent_id": 8580798,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Orelli O'Reilly",
+    "prefix": "evidence produced before a committee of the whole house. I feel I cannot usefully add anything to that. The answer to the honourable member's question is in the affirmative. \n\n Mr ",
+    "suffix": " (Montenotte. Nat.): Have similar orders been issued 1922#302for the slaughter of human animals who dare to play Irish games in the Phoenix park? \n\n Mr Allfours: The answer is in t",
+    "start": 56308,
+    "end": 56323,
+    "canonical_text": "Orelli O'Reilly"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8580798,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

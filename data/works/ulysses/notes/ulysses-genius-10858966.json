@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10858966",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "The Story of the Heavens",
+  "html_source": "<p><a href=\"https://archive.org/details/storyofheavens00balliala\" rel=\"noopener nofollow\">https://archive.org/details/storyofheavens00balliala</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10858966/James-joyce-ulysses-chap-17-ithaca/The-story-of-the-heavens",
+    "original_id": "10858966",
+    "referent_id": 10858966,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "The Story of the Heavens",
+    "prefix": " \nThe Child's Guide (blue cloth). \nWhen We Were Boys by William O'Brien M. P. (green cloth, slightly faded, envelope bookmark at p. 217). \nThoughts from Spinoza (maroon leather). \n",
+    "suffix": " by Sir Robert Ball (blue cloth). \nEllis's Three Trips to Madagascar (brown cloth, title obliterated). \nThe Stark-Munro Letters by A. Conan Doyle, property of the City of Dublin Pu",
+    "start": 86828,
+    "end": 86852,
+    "canonical_text": "The Story of the Heavens"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10858966,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

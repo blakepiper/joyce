@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15063153",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "C’est vendredi saint",
+  "html_source": "<p>i.e., Good Friday</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15063153/James-joyce-ulysses-chap-9-scylla-and-charybdis/Cest-vendredi-saint",
+    "original_id": "15063153",
+    "referent_id": 15063153,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "C'est vendredi saint",
+    "prefix": "r mess of hash of 1922#191lights in rue Saint-André-des-Arts. In words of words for words, palabras. Oisin with Patrick. Faunman he met in Clamart woods, brandishing a winebottle. ",
+    "suffix": "! Murthering Irish. His image, wandering, he met. I mine. I met a fool i'the forest. \n\n — Mr Lyster, an attendant said from the door ajar. \n\n — ... in which everyone can find his o",
+    "start": 33169,
+    "end": 33189,
+    "canonical_text": "C'est vendredi saint"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15063153,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

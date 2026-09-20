@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15130531",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Thurifers",
+  "html_source": "<p>An acolyte carrying a censer, somewhat redundant with the previous</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15130531/James-joyce-ulysses-chap-12-cyclops/Thurifers",
+    "original_id": "15130531",
+    "referent_id": 15130531,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "thurifers",
+    "prefix": "ss. God bless all here is my prayer. \n\n — Amen, says the citizen. \n\n — And I'm sure He will, says Joe. \n\n And at the sound of the sacring bell, headed by a crucifer with acolytes, ",
+    "suffix": ", boatbearers, readers, ostiarii, deacons and subdeacons, the blessed company drew nigh of mitred abbots and priors and guardians and monks and friars: the 1961#338monks of Benedic",
+    "start": 107026,
+    "end": 107035,
+    "canonical_text": "thurifers"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15130531,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

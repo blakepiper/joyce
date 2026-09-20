@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21162044",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "For a guinea, Stephen said, you can publish this interview",
+  "html_source": "<p>Joyce peeking through here to remind us that this interview was published, we are reading it, and a guinea for the publishing rights would have been a fantastic bargain.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21162044/James-joyce-ulysses-chap-9-scylla-and-charybdis/For-a-guinea-stephen-said-you-can-publish-this-interview",
+    "original_id": "21162044",
+    "referent_id": 21162044,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "For a guinea, Stephen said, you can publish this interview",
+    "prefix": "f silver. Then I don't know about the next number. Fred Ryan wants space for an article on economics. \n\n Fraidrine. Two pieces of silver he lent me. Tide you over. Economics. \n\n — ",
+    "suffix": ". \n\n1932#192\n\n Buck Mulligan stood up from his laughing scribbling, laughing: and then gravely said, honeying malice: \n\n1922#205\n\n — I called upon the bard Kinch at his summer resi",
+    "start": 63277,
+    "end": 63335,
+    "canonical_text": "For a guinea, Stephen said, you can publish this interview"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21162044,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

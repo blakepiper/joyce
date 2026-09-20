@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4628526",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "This wind is sweeter.",
+  "html_source": "<p>After careful though and imagining the scene at Aunt Sara’s house, “I’m glad I didn’t go to Aunt Sara’s!”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4628526/James-joyce-ulysses-chap-3-proteus/This-wind-is-sweeter",
+    "original_id": "4628526",
+    "referent_id": 4628526,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "This wind is sweeter.",
+    "prefix": "est number, Stephen, in the whole opera. Listen. \n\n1922#39\n\n His tuneful whistle sounds again, finely shaded, with rushes of the air, his fists bigdrumming on his padded knees. \n\n ",
+    "suffix": " \n\n Houses of decay, mine, his and all. You told the Clongowes gentry you had an uncle a judge and an uncle a general in the army. Come out of them, Stephen. Beauty is not there. N",
+    "start": 6135,
+    "end": 6156,
+    "canonical_text": "This wind is sweeter."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4628526,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

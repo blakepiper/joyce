@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3183290",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Mr Dedalus",
+  "html_source": "<p>Stephen’s da Simon.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3183290/James-joyce-ulysses-chap-6-hades/Mr-dedalus",
+    "original_id": "3183290",
+    "referent_id": 3183290,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Mr Dedalus",
+    "prefix": "nto the creaking carriage and, entering deftly, seated himself. Mr Power stepped in after him, curving his height with care. \n\n — Come on, Simon. \n\n — After you, Mr Bloom said. \n\n ",
+    "suffix": " covered himself quickly and got in, saying: \n\n Yes, yes. \n\n — Are we all here now? Martin Cunningham asked. Come along, Bloom. \n\n Mr Bloom entered and sat in the vacant place. He ",
+    "start": 242,
+    "end": 252,
+    "canonical_text": "Mr Dedalus"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9693
+  },
+  "genius": {
+    "referent_id": 3183290,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

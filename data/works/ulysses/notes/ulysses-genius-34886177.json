@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-34886177",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Brollies or gumboots",
+  "html_source": "<p>Umbrellas or galoshes.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/34886177/James-joyce-ulysses-chap-14-oxen-of-the-sun/Brollies-or-gumboots",
+    "original_id": "34886177",
+    "referent_id": 34886177,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "brollies or gumboots",
+    "prefix": "ertundam nunc est bibendum! \n\n All off for a buster, armstrong, hollering down the street. Bonafides. Where you slep las nigh? Timothy of the battered naggin. Like ole Billyo. Any ",
+    "suffix": " in the fambly? Where the Henry Nevil's sawbones and ole clo? Sorra one o' me knows. Hurrah there, Dix! Forward the ribbon counter. Where's Punch? All serene. Jay, look at the drun",
+    "start": 104737,
+    "end": 104757,
+    "canonical_text": "brollies or gumboots"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 34886177,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

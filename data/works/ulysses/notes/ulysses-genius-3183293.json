@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3183293",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Mr Bloom entered and sat in the vacant place",
+  "html_source": "<p><a href=\"http://www.jjon.org/joyce-s-environs/funeral\" rel=\"noopener nofollow\">Gorgeous conundrum left for us by Joyce</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3183293/James-joyce-ulysses-chap-6-hades/Mr-bloom-entered-and-sat-in-the-vacant-place",
+    "original_id": "3183293",
+    "referent_id": 3183293,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Mr Bloom entered and sat in the vacant place",
+    "prefix": "mon. \n\n — After you, Mr Bloom said. \n\n Mr Dedalus covered himself quickly and got in, saying: \n\n Yes, yes. \n\n — Are we all here now? Martin Cunningham asked. Come along, Bloom. \n\n ",
+    "suffix": ". He pulled the door to after him and slammed it tight till it shut tight. He passed an arm through the armstrap and looked seriously from the open carriagewindow at the lowered bl",
+    "start": 383,
+    "end": 427,
+    "canonical_text": "Mr Bloom entered and sat in the vacant place"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3183293,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

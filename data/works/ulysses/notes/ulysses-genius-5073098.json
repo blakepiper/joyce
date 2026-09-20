@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5073098",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Jingle. Bloo.",
+  "html_source": "<p>“Jingle” refers to Boylan. This line is a juxtaposition of Boylan and Bloom. The jingle is of Boylan’s carriage as he leaves the Ormond Hotel for 7 Eccles Street.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5073098/James-joyce-ulysses-chap-11-sirens/Jingle-bloo",
+    "original_id": "5073098",
+    "referent_id": 5073098,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Jingle. Bloo.",
+    "prefix": " jaunted jingling. \n\n Coin rang. Clock clacked. \n\n Avowal. Sonnez. I could. Rebound of garter. Not leave thee. Smack. La cloche! Thigh smack. Avowal. Warm. Sweetheart, goodbye! \n\n ",
+    "suffix": " \n\n Boomed crashing chords. When love absorbs. War! War! The tympanum. \n\n A sail! A veil awave upon the waves. \n\n Lost. Throstle fluted. All is lost now. \n\n Horn. Hawhorn. \n\n When ",
+    "start": 802,
+    "end": 815,
+    "canonical_text": "Jingle. Bloo."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5073098,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1605411,
+        "login": "RoshniShree",
+        "name": "RoshniShree",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8769651",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Hope no ape comes knocking just as I’m.",
+  "html_source": "<p>The Blooms share the outhouse with others families?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8769651/James-joyce-ulysses-chap-4-calypso/Hope-no-ape-comes-knocking-just-as-im",
+    "original_id": "8769651",
+    "referent_id": 8769651,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Hope no ape comes knocking just as I'm.",
+    "prefix": "him. \n\n — Miaow! he said in answer. Wait till I'm ready. \n\n Heaviness: hot day coming. Too much trouble to fag up the stairs to the landing. \n\n A paper. He liked to read at stool. ",
+    "suffix": " \n\n In the tabledrawer he found an old number of Titbits. He folded it under his armpit, went to the door and opened1961#67 it. The cat went up in soft bounds. Ah, wanted to go ups",
+    "start": 28516,
+    "end": 28555,
+    "canonical_text": "Hope no ape comes knocking just as I'm."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8769651,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

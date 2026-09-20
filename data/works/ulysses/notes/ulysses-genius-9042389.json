@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9042389",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Louis J Walsh",
+  "html_source": "<p>Louis Joseph Walsh (1880 – 1942):<br />Lawyer and writer<br />Louis Walsh was born in Maghera, County Londonderry. He was a solicitor in Ballycastle, County Antrim, and in County Londonderry and later a District Justice in County Donegal.<br />Dictionary of Ulster Biography</p><p>His books are considered minor works.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9042389/James-joyce-ulysses-chap-13-nausicaa/Louis-j-walsh",
+    "original_id": "9042389",
+    "referent_id": 9042389,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Louis J Walsh",
+    "prefix": " herself like that poem that appealed to her so deeply that she had copied out of the newspaper she found one evening round the potherbs. Art thou real, my ideal? it was called by ",
+    "suffix": ", Magherafelt, and after there was something about twilight, wilt thou ever? and ofttimes the beauty of poetry, so sad in its transient loveliness, had misted her eyes with silent ",
+    "start": 45435,
+    "end": 45449,
+    "canonical_text": "Louis J. Walsh"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 9042389,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

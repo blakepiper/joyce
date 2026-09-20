@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10471455",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Dosshouse",
+  "html_source": "<p><a href=\"http://www.urbandictionary.com/define.php?term=dosshouse\" rel=\"noopener nofollow\">http://www.urbandictionary.com/define.php?term=dosshouse</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10471455/James-joyce-ulysses-chap-16-eumaeus/Dosshouse",
+    "original_id": "10471455",
+    "referent_id": 10471455,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "dosshouse",
+    "prefix": "im. \n\n Corley at the first go-off was inclined to suspect it was something to do with Stephen being fired out of his digs for bringing in a bloody tart off the street. There was a ",
+    "suffix": " in Marlborough street, Mrs Maloney's, but it was only a tanner touch and full of undesirables but M'Conachie told him you got a decent enough do in the Brazen Head over in Winetav",
+    "start": 11619,
+    "end": 11628,
+    "canonical_text": "dosshouse"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10471455,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

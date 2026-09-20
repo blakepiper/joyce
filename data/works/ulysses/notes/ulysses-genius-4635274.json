@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4635274",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "He prolonged his pleased smile.",
+  "html_source": "<p>Bloom thinks it is funny that the conservative newspaper’s headpiece looks like the radical “ home rule sun.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4635274/James-joyce-ulysses-chap-4-calypso/He-prolonged-his-pleased-smile",
+    "original_id": "4635274",
+    "referent_id": 4635274,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "He prolonged his pleased smile.",
+    "prefix": "ed, pleasing himself. What Arthur Griffith said about the headpiece over the Freeman leader: a homerule sun rising up in the northwest from the laneway behind the bank of Ireland. ",
+    "suffix": " Ikey touch that: homerule sun rising up in the northwest. \n\n1922#55\n\n He approached Larry O'Rourke's. From the cellar grating floated up1932#50 the flabby gush of porter. Through ",
+    "start": 6691,
+    "end": 6722,
+    "canonical_text": "He prolonged his pleased smile."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4635274,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8752026",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "He’s a man like Ireland wants.",
+  "html_source": "<p>A subject much contemplated within the serious side of <em>Ulysses</em> is “What is the kind of man Ireland wants (lacks?)”. At this point in the novel, to suggest it is Bloom would not be satisfying.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8752026/James-joyce-ulysses-chap-15-circe/Hes-a-man-like-ireland-wants",
+    "original_id": "8752026",
+    "referent_id": 8752026,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "He's a man like Ireland wants.",
+    "prefix": " man that got away James Stephens. \n\n A BLUECOAT SCHOOLBOY \n\n Bravo! \n\n AN OLD RESIDENT \n\n You're a credit to your country, sir, that's what you are. \n\n1939#344\n\n AN APPLEWOMAN \n\n ",
+    "suffix": " \n\n BLOOM \n\n My beloved subjects, a new era is about to dawn. I, Bloom, tell you verily it is even now at hand. Yea, on the word of a Bloom, ye shall ere long enter into the golden",
+    "start": 77117,
+    "end": 77147,
+    "canonical_text": "He's a man like Ireland wants."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8752026,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

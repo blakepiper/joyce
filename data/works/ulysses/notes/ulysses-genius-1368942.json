@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-1368942",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Bronze by gold",
+  "html_source": "<p>Bronze and gold refer to the barmaids Lydia Douce of bronze hair and Mina Kennedy of gold hair respectively. Lydia, Mina and another character, a prostitute, are parallels to the three <strong><a href=\"http://en.wikipedia.org/wiki/Siren\" rel=\"noopener nofollow\">sirens</a></strong> in <strong><em><a href=\"http://en.wikipedia.org/wiki/Odyssey\" rel=\"noopener nofollow\">The Odyssey.</a></em></strong></p><p><img src=\"https://images.rapgenius.com/d66c6ffdc96d67788d2ad21acda3ee4a.470x400x1.jpg\" alt=\"\" /></p><p>Throughout the chapter, Miss Douce is referred to as bronze and Miss Kennedy as gold.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1368942/James-joyce-ulysses-chap-11-sirens/Bronze-by-gold",
+    "original_id": "1368942",
+    "referent_id": 1368942,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Bronze by gold",
+    "prefix": "\n\n[11]\n\n\n\n",
+    "suffix": " heard the hoofirons, steelyringing. \n\n Imperthnthn thnthnthn. \n\n Chips, picking chips off rocky thumbnail, chips. \n\n Horrid! And gold flushed more. \n\n A husky fifenote blew. \n\n Bl",
+    "start": 10,
+    "end": 24,
+    "canonical_text": "Bronze by gold"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9663
+  },
+  "genius": {
+    "referent_id": 1368942,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 68632,
+        "login": "SvenTheVegabond",
+        "name": "SvenTheVegabond",
+        "role": "contributor",
+        "attribution": 0.8125
+      },
+      {
+        "id": 1605411,
+        "login": "RoshniShree",
+        "name": "RoshniShree",
+        "role": null,
+        "attribution": 0.175
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.0125
+      }
+    ]
+  },
+  "color": "F59627"
+}

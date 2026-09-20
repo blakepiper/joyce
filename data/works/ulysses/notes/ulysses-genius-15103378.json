@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15103378",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Fecking",
+  "html_source": "<p>Irish slang for stealing</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15103378/James-joyce-ulysses-chap-11-sirens/Fecking",
+    "original_id": "15103378",
+    "referent_id": 15103378,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Fecking",
+    "prefix": "Appropriate. Kidney pie. Sweets to the. Not making much hand of it. Best value in. Characteristic of him. Power. Particular about his drink. Flaw in the glass, fresh Vartry water. ",
+    "suffix": " matches from counters to save. Then squander a sovereign in dribs and drabs. And when he's wanted not a farthing. Screwed refusing to pay his fare. Curious types. \n\n Never would R",
+    "start": 32717,
+    "end": 32724,
+    "canonical_text": "Fecking"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15103378,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

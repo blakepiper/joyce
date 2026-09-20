@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15123369",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Shoneen",
+  "html_source": "<p>One who prefers English attitudes, customs, lifestyle, or in this case, games, to Irish ones.</p><p>Derived from Irish Seoinín, from Seon (“John”) + -ín (diminutive suffix), perhaps via reference to <a href=\"https://en.wikipedia.org/wiki/John_Bull\" rel=\"noopener nofollow\">John Bull</a>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15123369/James-joyce-ulysses-chap-12-cyclops/Shoneen",
+    "original_id": "15123369",
+    "referent_id": 15123369,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "shoneen",
+    "prefix": " bloody sight better. \n\n1986#259\n\n — Is that really a fact? says Alf. \n\n — Yes, says Bloom. That's well known. Did you not know that? \n\n So off they started about Irish sports and ",
+    "suffix": " games the like of lawn tennis and about hurley and putting the stone and racy of the soil and building up a nation once again and all to that. And of course Bloom had to have his ",
+    "start": 57453,
+    "end": 57460,
+    "canonical_text": "shoneen"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 15123369,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

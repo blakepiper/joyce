@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23704710",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Insure against street accident too.",
+  "html_source": "<p>Bloom considers expanding his insurance coverage to include an incident of being struck in the street.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23704710/James-joyce-ulysses-chap-15-circe/Insure-against-street-accident-too",
+    "original_id": "23704710",
+    "referent_id": 23704710,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Insure against street accident too.",
+    "prefix": "es a mudflake from his cheek with a parcelled hand.) \n\n1986#355\n\n No thoroughfare. Close shave that but cured the stitch. Must take up Sandow's exercises again. On the hands down. ",
+    "suffix": " The Providential. (He feels his trouser pocket.) Poor mamma's panacea. Heel easily 1939#312catch in track or bootlace in a cog. Day the wheel of the black Maria peeled off my shoe",
+    "start": 9455,
+    "end": 9490,
+    "canonical_text": "Insure against street accident too."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23704710,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

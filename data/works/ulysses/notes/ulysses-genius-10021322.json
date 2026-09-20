@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10021322",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Diplodocus",
+  "html_source": "<p>A large long-neck dinosaur<br /><a href=\"http://www.nhm.ac.uk/discover/dino-directory/diplodocus.html\" rel=\"noopener nofollow\">http://www.nhm.ac.uk/discover/dino-directory/diplodocus.html</a></p><p><img src=\"https://images.genius.com/b67ea3f6efaf47d1771ecddb3d00916b.640x425x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10021322/James-joyce-ulysses-chap-15-circe/Diplodocus",
+    "original_id": "10021322",
+    "referent_id": 10021322,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Diplodocus",
+    "prefix": "tye I dislike. \n\n1961#513\n\n VIRAG \n\n(Arches his eyebrows.) Contact with a goldring, they say. Argumentum ad feminam, as we said in old Rome and ancient Greece in the consulship of ",
+    "suffix": " and Ichthyosauros. For the rest Eve's sovereign remedy. Not for sale. Hire only. Huguenot. (He twitches.) It is a funny sound. (He coughs encouragingly.) But possibly it is only a",
+    "start": 119071,
+    "end": 119081,
+    "canonical_text": "Diplodocus"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10021322,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

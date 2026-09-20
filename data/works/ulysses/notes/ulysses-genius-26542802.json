@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-26542802",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Gloomy domed livingroom",
+  "html_source": "<p>The tiny one room of the <a href=\"https://www.joyceproject.com/notes/010085towerlivingroom.htm\" rel=\"noopener nofollow\">Martello tower’s second floor</a>, preserved today just as it was in 1904, served as combination living room, bedroom and kitchen for Joyce, Gogarty and Trench (recreated in the novel as Stephen, Mulligan and Haines).</p><p><img src=\"https://images.genius.com/f09d16eff906801f1106dc327733e47a.502x335x1.jpg\" alt=\"Image description\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/26542802/James-joyce-ulysses-chap-1-telemachus/Gloomy-domed-livingroom",
+    "original_id": "26542802",
+    "referent_id": 26542802,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "gloomy domed livingroom",
+    "prefix": " of the lather in which the brush was stuck. So I carried the boat of incense then at Clongowes. I am another now and yet the same. A servant too. A server of a servant. \n\n In the ",
+    "suffix": " of the tower Buck Mulligan's gowned form moved briskly about the hearth to and fro, hiding and revealing its yellow glow. Two shafts of soft daylight fell across the flagged floor",
+    "start": 17884,
+    "end": 17907,
+    "canonical_text": "gloomy domed livingroom"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 26542802,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 8067236,
+        "login": "AndyVineborg",
+        "name": "AndyVineborg",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

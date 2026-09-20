@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8800790",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Dicky",
+  "html_source": "<p>(Clothing &amp; Fashion) a man’s false shirt front, esp one worn with full evening dress</p><p><img src=\"https://images.rapgenius.com/4e02291ad67803bb12fcb304b9d44da3.571x760x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8800790/James-joyce-ulysses-chap-7-aeolus/Dicky",
+    "original_id": "8800790",
+    "referent_id": 8800790,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "dicky",
+    "prefix": "oint, vibrating. \n\n — T is viceregal lodge. C is where murder took place. K is Knockmaroon gate. \n\n The loose flesh of his neck shook like a cock's wattles. An1961#136 illstarched ",
+    "suffix": " jutted up and with a rude gesture he thrust it back into his waistcoat. \n\n — Hello? Evening Telegraph here... Hello?... Who's there?... Yes... Yes... Yes. \n\n — F to P is the route",
+    "start": 36388,
+    "end": 36393,
+    "canonical_text": "dicky"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8800790,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

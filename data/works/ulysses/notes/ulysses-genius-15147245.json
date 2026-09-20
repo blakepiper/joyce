@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15147245",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Thole",
+  "html_source": "<p>Verb meaning to suffer, endure, tolerate, bear.</p><p>Full etymology from wiktionary reproduced below:</p><p>From Middle English thōle, from tholen, tholien (“to be made to undergo a penalty; to suffer; to experience (something unpleasant); to bear, endure, put up with; to allow, permit”), from Old English þolian (“to endure, suffer, undergo; to thole”), from Proto-Germanic <em>þuljaną (“to suffer”), from Proto-Indo-European </em>telh₂- (“to bear, suffer; to support”). The word is cognate with Danish tåle (“to tolerate”), Middle Low German dōlen (“to endure”), Middle High German doln (“to allow, bear, suffer”), Latin tollō (“to cancel, lift off, remove”), tolerō (“to bear, endure”), Norwegian Bokmål tåle (“to tolerate”), Norwegian Nynorsk tola (“to tolerate”), Swedish tåla (“to tolerate”). It is also related to English thild.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15147245/James-joyce-ulysses-chap-14-oxen-of-the-sun/Thole",
+    "original_id": "15147245",
+    "referent_id": 15147245,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "thole",
+    "prefix": "fared. Stark ruth of man his errand that him lone led till that house. \n\n Of that house A. Horne is lord. Seventy beds keeps he there teeming mothers are wont that they lie for to ",
+    "suffix": " and bring forth bairns hale so God's angel to Mary quoth. Watchers twey there walk, white sisters in ward sleepless. Smarts they still, sickness soothing: in twelve moons thrice a",
+    "start": 5207,
+    "end": 5212,
+    "canonical_text": "thole"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15147245,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

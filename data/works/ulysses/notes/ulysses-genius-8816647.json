@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8816647",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Goerz lenses",
+  "html_source": "<p>C.P. Goerz was founded in 1886 by Carl Paul Goerz. Originally, it made geometrical drawing instruments for schools. From 1888 it made cameras and lenses.<br />It is considered a premium lens for cameras.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8816647/James-joyce-ulysses-chap-8-lestrygonians/Goerz-lenses",
+    "original_id": "8816647",
+    "referent_id": 8816647,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Goerz lenses",
+    "prefix": "g the fieldglasses. Or will I drop into old Harris's and have a chat with young Sinclair? Wellmannered fellow. Probably at his lunch. Must get those old glasses of mine set right. ",
+    "suffix": " six guineas. Germans making their way everywhere. Sell on easy terms to capture trade. Undercutting. Might chance on a pair in the railway lost property office. Astonishing the th",
+    "start": 35036,
+    "end": 35048,
+    "canonical_text": "Goerz lenses"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8816647,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8793451",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Snuff at a wake",
+  "html_source": "<p>According to the website <a href=\"http://www.irishidentity.com/extras/wayoflife/stories/sting.htm\" rel=\"noopener nofollow\">irishidentity.com</a>, this idiom has an intriguing origin: at a wake,</p><blockquote><p>It was […] customary for a bowl of snuff to be placed on the chest of the dead person. This had a dual function in the snuff being a desirable commodity, brought the mourners close to the coffin to say a prayer for the deceased [sic]. Should the person in the coffin not be dead, the bowl on his or her chest would be seen to rise and fall, though no record exists of anyone being rescued by snuff. So many came forward that the bowl had to be replenished regularly, giving rise to the saying “disappeared like snuff at a wake”.</p></blockquote>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8793451/James-joyce-ulysses-chap-6-hades/Snuff-at-a-wake",
+    "original_id": "8793451",
+    "referent_id": 8793451,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "snuff at a wake",
+    "prefix": "se as Molly's namesake, Tweedy, crown solicitor for Waterford. Has that silk hat ever since. Relics of old decency. Mourning too. Terrible comedown, poor wretch! Kicked about like ",
+    "suffix": ". O'Callaghan on his last legs. \n\n And Madame. Twenty past eleven. Up. Mrs Fleming is in to clean. Doing her hair, humming: voglio e non vorrei. No: vorrei e non. Looking at the ti",
+    "start": 13658,
+    "end": 13673,
+    "canonical_text": "snuff at a wake"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8793451,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.8879310344827586
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.11206896551724138
+      }
+    ]
+  },
+  "color": "F59627"
+}

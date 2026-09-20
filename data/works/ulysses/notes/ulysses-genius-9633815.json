@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9633815",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Their land a pawnshop.",
+  "html_source": "<p>History passed on from one generation to the next, unwanted, but repeated as destiny from which one cannot seemingly escape.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9633815/James-joyce-ulysses-chap-2-nestor/Their-land-a-pawnshop",
+    "original_id": "9633815",
+    "referent_id": 9633815,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "their land a pawnshop.",
+    "prefix": "isesteemed, winning a clement master's praise. Why had they chosen all that part? Not wholly for the smooth caress. For them too history was a tale like any other too often heard, ",
+    "suffix": " \n\n Had Pyrrhus not fallen by a beldam's hand in Argos or Julius Caesar not been knifed to death. They are not to be thought away. Time has branded them and fettered they are lodge",
+    "start": 2662,
+    "end": 2684,
+    "canonical_text": "their land a pawnshop."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9633815,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3406480,
+        "login": "GavanKennedy",
+        "name": "GavanKennedy",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

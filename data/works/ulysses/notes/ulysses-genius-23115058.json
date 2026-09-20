@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23115058",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "The boards of the Gaiety when Michael Gunn was identified with the management",
+  "html_source": "<p>Michael Ralph Thomas Gunn was the builder and manager of the Gaiety opera house in Dublin.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23115058/James-joyce-ulysses-chap-16-eumaeus/The-boards-of-the-gaiety-when-michael-gunn-was-identified-with-the-management",
+    "original_id": "23115058",
+    "referent_id": 23115058,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "the boards of the Gaiety when Michael Gunn was identified with the management",
+    "prefix": " There's an example again of simple souls. \n\n However, reverting to friend Sinbad and his horrifying adventures (who reminded him a bit of Ludwig, alias Ledwidge, when he occupied ",
+    "suffix": " in the Flying Dutchman, a stupendous success, and his host of admirers came in large numbers, everyone simply flocking to hear him though ships of any sort, phantom or the reverse",
+    "start": 58031,
+    "end": 58108,
+    "canonical_text": "the boards of the Gaiety when Michael Gunn was identified with the management"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23115058,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

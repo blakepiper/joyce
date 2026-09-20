@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8849250",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Antiphone",
+  "html_source": "<p>An´ti`phone<br />n.  (Mus.) The response which one side of the choir makes to the other in a chant; alternate chanting or signing.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8849250/James-joyce-ulysses-chap-9-scylla-and-charybdis/Antiphone",
+    "original_id": "8849250",
+    "referent_id": 8849250,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "antiphone",
+    "prefix": "hts over her whom he calls his wife. No sir smile neighbour shall covet his ox or his wife or his manservant or his maidservant or his jackass. \n\n — Or his jennyass, Buck Mulligan ",
+    "suffix": "d. \n\n — Gentle Will is being roughly handled, gentle Mr Best said gently. \n\n — Which will? gagged sweetly Buck Mulligan. We are getting mixed. \n\n — The will to live, John Eglinton ",
+    "start": 45521,
+    "end": 45530,
+    "canonical_text": "antiphone"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8849250,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

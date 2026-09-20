@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4649041",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Chancel",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/275165d1d1f68893b3da872da1df28a9.259x216x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4649041/James-joyce-ulysses-chap-6-hades/Chancel",
+    "original_id": "4649041",
+    "referent_id": 4649041,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "chancel",
+    "prefix": "he mutes bore the coffin into the chapel. Which end is his head? \n\n After a moment he followed the others in, blinking in the screened light. The coffin lay on its bier before the ",
+    "suffix": ", four tall yellow candles at its corners. Always in front of us. Corny Kelleher, laying a wreath at each fore corner, beckoned to the boy to kneel. The mourners knelt here and the",
+    "start": 34494,
+    "end": 34501,
+    "canonical_text": "chancel"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4649041,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

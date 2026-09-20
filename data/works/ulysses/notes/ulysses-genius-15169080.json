@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15169080",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "ICP",
+  "html_source": "<p>This should read “1 CP” or one candle-power.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15169080/James-joyce-ulysses-chap-17-ithaca/Icp",
+    "original_id": "15169080",
+    "referent_id": 15169080,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "ICP",
+    "prefix": "ansparent kitchen panes a man regulating a gasflame of 14 C P, a man lighting a candle, a man removing in turn each of his two boots, a man leaving the kitchen holding a candle of ",
+    "suffix": ".\n\nDid the man reappear elsewhere?\n\nAlter a lapse of four minutes the glimmer of his candle was discernible through the semitransparent semicircular glass fanlight over the halldoo",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "ambiguous",
+    "confidence": 0.3057553956834532
+  },
+  "genius": {
+    "referent_id": 15169080,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

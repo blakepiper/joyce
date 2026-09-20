@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11157472",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Sierra nevada",
+  "html_source": "<p>mountains near Granada Spain</p><p><a href=\"https://www.viamichelin.com/web/Maps/Map-Sierra_Nevada-_-Granada-Spain?strLocid=31NG90NHYxMGNNemN1TURrMU1ERT1jTFRNdU16azVNREU9\" rel=\"noopener nofollow\">https://www.viamichelin.com/web/Maps/Map-Sierra_Nevada-_-Granada-Spain?strLocid=31NG90NHYxMGNNemN1TURrMU1ERT1jTFRNdU16azVNREU9</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11157472/James-joyce-ulysses-chap-18-penelope/Sierra-nevada",
+    "original_id": "11157472",
+    "referent_id": 11157472,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "sierra nevada",
+    "prefix": "I was only about ten was I yes I had the big doll with all the funny clothes dressing her up and undressing that icy wind skeeting across from those mountains the something Nevada ",
+    "suffix": " standing at the fire with the little bit of a short shift I had up 1939#538to heat myself I loved dancing about in it then make a race back into bed Im sure that fellow opposite u",
+    "start": 68126,
+    "end": 68139,
+    "canonical_text": "sierra nevada"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11157472,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

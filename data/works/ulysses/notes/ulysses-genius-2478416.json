@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2478416",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Every morning they would both have brekky, simple but perfectly served,",
+  "html_source": "<p>“Brekky” is of course breakfast, nicknamed with painful cuteness in Edy’s fantasies of marriage.</p><p><img src=\"https://images.rapgenius.com/a760gbqgluf0r0avjrfxauob8.400x224x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2478416/James-joyce-ulysses-chap-13-nausicaa/Every-morning-they-would-both-have-brekky-simple-but-perfectly-served",
+    "original_id": "2478416",
+    "referent_id": 2478416,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "every morning they would both have brekky, simple but perfectly served,",
+    "prefix": "ed sweeping moustache and they would go on the continent for their honeymoon (three wonderful weeks!) and then, when they settled down in a nice snug and cosy little homely house, ",
+    "suffix": " for their own two selves and before he went out to business he would give his dear little wifey a good hearty hug and gaze for a moment deep down into her eyes. \n\n Edy Boardman as",
+    "start": 16656,
+    "end": 16727,
+    "canonical_text": "every morning they would both have brekky, simple but perfectly served,"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2478416,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 149810,
+        "login": "perfectrhyme",
+        "name": "Perfectrhyme",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

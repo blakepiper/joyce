@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2607218",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Savingsbox",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/24a7c16c8645b94135902e858f308080.396x297x1.jpg\" alt=\"\" /></p><p>It isn’t exactly clear what Joyce means by this, but train conductors did use things similar to the above picture.</p><p>Courtesy of the <a href=\"http://cas.umt.edu/english/joyce/notes/020029savingsbox.htm\" rel=\"noopener nofollow\">Joyce Project</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2607218/James-joyce-ulysses-chap-2-nestor/Savingsbox",
+    "original_id": "2607218",
+    "referent_id": 2607218,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "savingsbox",
+    "prefix": "n old pilgrim's hoard, dead treasure, hollow shells.\n\n A sovereign fell, bright and new, on the soft pile of the tablecloth. \n\n1961#29\n\n — Three, Mr Deasy said, turning his little ",
+    "suffix": " about in his hand. These are handy things to have. See. This is for sovereigns. This is for shillings. Sixpences, halfcrowns. And here crowns. See. \n\n He shot from it two crowns a",
+    "start": 12097,
+    "end": 12107,
+    "canonical_text": "savingsbox"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9624
+  },
+  "genius": {
+    "referent_id": 2607218,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 293151,
+        "login": "jeeho",
+        "name": "Jeeho",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

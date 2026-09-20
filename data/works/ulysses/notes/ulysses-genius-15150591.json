@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15150591",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Roscommon or the wilds of Connemara or a husbandman in Sligo",
+  "html_source": "<p>Roscommon is a county in central Ireland; Sligo is a county on the west coast; Connemara is an area on the Atlantic coast in County Galway.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15150591/James-joyce-ulysses-chap-14-oxen-of-the-sun/Roscommon-or-the-wilds-of-connemara-or-a-husbandman-in-sligo",
+    "original_id": "15150591",
+    "referent_id": 15150591,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Roscommon or the wilds of Connemara or a husbandman in Sligo",
+    "prefix": " of the 1922#381island with a printed notice, saying: By the Lord Harry, Green is the grass that grows on the ground. And, says Mr Dixon, if ever he got scent of a cattleraider in ",
+    "suffix": " that was sowing as much as a handful of mustard or a bag of rapeseed out he run amok over half the countryside rooting 1939#288up with his horns whatever was planted and all by lo",
+    "start": 44198,
+    "end": 44258,
+    "canonical_text": "Roscommon or the wilds of Connemara or a husbandman in Sligo"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15150591,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

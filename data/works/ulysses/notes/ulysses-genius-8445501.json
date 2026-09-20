@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8445501",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "It is that same bull that was sent to our island by farmer Nicholas, the bravest cattlebreeder of them all, with an emerald ring in his nose",
+  "html_source": "<p>Bull refers to King Henry II who was granted the Papal Bull by Pope Adrian IV to invade &amp; govern Ireland.</p><p>Laudabiliter was a Papal Bull issued in 1155 by Pope Adrian IV who was the only English man to serve in that office. The bull purports to grant the right to the Angevin King Henry II of England to invade and govern Ireland and to enforce the Gregorian Reforms on the semi-autonomous Christian Church in Ireland.</p><p>Pope Adrian IV was born Nicholas Breakspear &amp; hence the reference Farmer Nicholas.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8445501/James-joyce-ulysses-chap-14-oxen-of-the-sun/It-is-that-same-bull-that-was-sent-to-our-island-by-farmer-nicholas-the-bravest-cattlebreeder-of-them-all-with-an-emerald-ring-in-his-nose",
+    "original_id": "8445501",
+    "referent_id": 8445501,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "It is that same bull that was sent to our island by farmer Nicholas, the bravest cattlebreeder of them all, with an emerald ring in his nose",
+    "prefix": "that's Irish, says he. Irish by name and irish by nature, says Mr Stephen, and he sent the ale purling about, an Irish bull in an English chinashop. I conceive you, says Mr Dixon. ",
+    "suffix": ". True for you, says Mr Vincent cross the table, and a bullseye into the bargain, says he, and a plumper and a portlier bull, says he, never shit on shamrock. He had horns galore, ",
+    "start": 41746,
+    "end": 41886,
+    "canonical_text": "It is that same bull that was sent to our island by farmer Nicholas, the bravest cattlebreeder of them all, with an emerald ring in his nose"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8445501,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

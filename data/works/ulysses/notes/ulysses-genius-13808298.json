@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13808298",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Minim",
+  "html_source": "<p>minim<br />n. 1 (context music English) A half note, drawn as a semibreve with a stem. 2 A unit of volume, in the Imperial and U.S. customary systems, 1/60 fluid drachm. Approximately equal to 1 drop, 62 μL or 0.9 grain (weight) of water. 3 A short vertical stroke used in handwriting. 4 Anything very minute; applied to animalcula and the like. 5 A small fish; a minnow. 6 A little man or being; a dwarf. 7 A short poetical encomium.</p><p>Probably definition  7 make the most sense.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13808298/James-joyce-ulysses-chap-14-oxen-of-the-sun/Minim",
+    "original_id": "13808298",
+    "referent_id": 13808298,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "minim",
+    "prefix": "pers, on a bridebed while clerks 1961#392sung kyries and the anthem Ut novetur sexus omnis corporis mysterium till she was there unmaided. He gave them then a much admirable hymen ",
+    "suffix": " by those delicate poets Master John Fletcher and 1986#321Master Francis Beaumont that is in their Maid's Tragedy that was writ for a like twining of lovers: To bed, to bed was the",
+    "start": 24797,
+    "end": 24802,
+    "canonical_text": "minim"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13808298,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

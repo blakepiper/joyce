@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20025527",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "No!",
+  "html_source": "<p>misprint: should be “not”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20025527/James-joyce-ulysses-chap-18-penelope/No",
+    "original_id": "20025527",
+    "referent_id": 20025527,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "no!",
+    "prefix": "comes out no matter what they say her tongue is a bit too long for my taste your blouse is open too low she says to me the pan calling the kettle blackbottom and I had to tell her ",
+    "suffix": "t to cock her legs up like that on show on the windowsill before all the people passing they all look at her like me when I was her age of course any old rag looks well on you then",
+    "start": 76892,
+    "end": 76894,
+    "canonical_text": "no"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 20025527,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11041825,
+        "login": "raggedclaws",
+        "name": "raggedclaws",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

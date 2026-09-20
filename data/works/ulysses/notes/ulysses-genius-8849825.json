@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8849825",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Hierophantic",
+  "html_source": "<p>noun<br />1. (in ancient Greece) an official expounder of rites of worship and sacrifice.<br />2. any interpreter of sacred mysteries or esoteric principles; mystagogue.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8849825/James-joyce-ulysses-chap-9-scylla-and-charybdis/Hierophantic",
+    "original_id": "8849825",
+    "referent_id": 8849825,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "hierophantic",
+    "prefix": "No birds. Frail from the housetops two plumes of smoke ascended, pluming, and in a flaw of softness softly were blown. \n\n Cease to strive. Peace of the druid priests of Cymbeline, ",
+    "suffix": ": from wide earth an altar. \n\n                                    Laud we the gods \nAnd let our crooked smokes climb to their nostrils \nFrom our bless'd altars. \n\n\n\n1922#2091932#19",
+    "start": 69549,
+    "end": 69561,
+    "canonical_text": "hierophantic"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8849825,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

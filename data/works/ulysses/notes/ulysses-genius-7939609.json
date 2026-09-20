@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-7939609",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Greville Arms",
+  "html_source": "<p>Greville Arms Hotel in Mullingar. <a href=\"http://www.grevillearmshotel.ie/\" rel=\"noopener nofollow\">http://www.grevillearmshotel.ie</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7939609/James-joyce-ulysses-chap-4-calypso/Greville-arms",
+    "original_id": "7939609",
+    "referent_id": 7939609,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Greville Arms",
+    "prefix": "with a few friends to make a scrap picnic. Give my love to mummy and to yourself a big kiss and thanks. I hear them at the piano downstairs. There is to be a concert in the 1922#63",
+    "suffix": " on Saturday. There is a young student comes here some evenings named Bannon his cousins or something are big swells he sings Boylan's (I was on the pop of writing Blazes Boylan's)",
+    "start": 25044,
+    "end": 25057,
+    "canonical_text": "Greville Arms"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 7939609,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2317454,
+        "login": "sebff",
+        "name": "sebff",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

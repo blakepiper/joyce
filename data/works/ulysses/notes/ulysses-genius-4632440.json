@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4632440",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "He has the key.",
+  "html_source": "<p>It appears that Stephen is thinking of Mulligan. Mulligan asked for the tower key and Stephen gave it to him in Chapter 1.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4632440/James-joyce-ulysses-chap-3-proteus/He-has-the-key",
+    "original_id": "4632440",
+    "referent_id": 4632440,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "He has the key.",
+    "prefix": "r. Blue dusk, nightfall, deep blue night. In the darkness of the dome they wait, their pushedback chairs, my obelisk valise, around a board of abandoned platters. Who to clear it? ",
+    "suffix": " I will not sleep there when this night comes. A shut door of a silent tower, entombing their blind bodies, the panthersahib and his pointer. Call: no answer. He lifted his feet up",
+    "start": 17428,
+    "end": 17443,
+    "canonical_text": "He has the key."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4632440,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

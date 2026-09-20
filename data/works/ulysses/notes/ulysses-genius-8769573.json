@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8769573",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Torn envelope.",
+  "html_source": "<p>“A strip of torn envelope peeped from under the dimpled pillow.” Bloom remembers that Molly hid Boylan’s letter under her pillow after she read it while he prepared her breakfast. He is thinking about Boylan, a “friend of the family”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8769573/James-joyce-ulysses-chap-4-calypso/Torn-envelope",
+    "original_id": "8769573",
+    "referent_id": 8769573,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Torn envelope.",
+    "prefix": "ching about. Not a bit funky. Her pale blue scarf loose in the wind with her hair. \n\n1986#54\n\nAll dimpled cheeks and curls, \nYour head it simply swirls. \n\n1939#51\n\n Seaside girls. ",
+    "suffix": " Hands stuck in his trousers' pockets, jarvey off for the day, singing. Friend of the family. Swurls, he says. Pier with lamps, summer evening, band, \n\n1922#64\n\nThose girls, those ",
+    "start": 27002,
+    "end": 27016,
+    "canonical_text": "Torn envelope."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8769573,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

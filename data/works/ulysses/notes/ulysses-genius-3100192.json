@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-3100192",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Houyhnhnm",
+  "html_source": "<p>The perfectly logical race of horses from <a href=\"http://poetry.genius.com/artists/Jonathan-swift\" rel=\"noopener nofollow\">Jonathan Swift’s</a> <a href=\"http://poetry.genius.com/albums/Jonathan-swift/Gulliver-s-travels\" rel=\"noopener nofollow\">Gulliver’s Travels</a>.</p><p><img src=\"https://images.rapgenius.com/a435e02a4bfcaf3c9ec3c635f2abaa8c.530x383x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3100192/James-joyce-ulysses-chap-3-proteus/Houyhnhnm",
+    "original_id": "3100192",
+    "referent_id": 3100192,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Houyhnhnm",
+    "prefix": "bbas. For whom? The hundredheaded rabble of the cathedral close. A hater 1932#36of his kind ran from them to the wood of madness, his mane foaming in the moon, his eyeballs stars. ",
+    "suffix": ", horsenostrilled. The oval equine faces, Temple, Buck Mulligan, Foxy Campbell, Lanternjaws. Abbas father, furious dean, what offence laid 1961#39fire to their brains? Paff! Descen",
+    "start": 6607,
+    "end": 6616,
+    "canonical_text": "Houyhnhnm"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3100192,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.9024390243902439
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.0975609756097561
+      }
+    ]
+  },
+  "color": "F59627"
+}

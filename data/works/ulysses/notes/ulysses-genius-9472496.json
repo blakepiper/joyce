@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9472496",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Stepaside",
+  "html_source": "<p>A suburb of Dublin…to the south-east of the city, at the foot of Three Rock Mountain. Stepaside village developed in the 18th and early 19th Centuries.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9472496/James-joyce-ulysses-chap-15-circe/Stepaside",
+    "original_id": "9472496",
+    "referent_id": 9472496,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Stepaside",
+    "prefix": "BLOOM \n\n I beg. \n\n (He swerves, sidles, stepaside, slips past and on.) \n\n1986#356\n\n BLOOM \n\n Keep to the right, right, right. If there is a signpost planted by the Touring Club at ",
+    "suffix": " who procured that public boon? I who lost my way and contributed to the columns of the Irish Cyclist the letter 1932#393headed In darkest Stepaside. Keep, keep, keep to the right.",
+    "start": 10940,
+    "end": 10949,
+    "canonical_text": "Stepaside"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9194
+  },
+  "genius": {
+    "referent_id": 9472496,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

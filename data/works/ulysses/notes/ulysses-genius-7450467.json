@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-7450467",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Last act of Lucia.",
+  "html_source": "<p>Refers to an opera by Gaetano Donizetti titled, <em>Lucia di Lammermoor</em>.</p><p>source: <a href=\"https://en.wikipedia.org/wiki/Lucia_di_Lammermoor#Act_3\" rel=\"noopener nofollow\">Wiki</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7450467/James-joyce-ulysses-chap-6-hades/Last-act-of-lucia",
+    "original_id": "7450467",
+    "referent_id": 7450467,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Last act of Lucia.",
+    "prefix": "low. Pull the pillow away and finish it off on the floor since he's doomed. Devil in that picture of sinner's1961#110 death showing him a woman. Dying to embrace her in his shirt. ",
+    "suffix": " Shall i nevermore behold thee? Bam! He expires. Gone at last. People talk about you a bit: forget you. Don't forget to pray for him. Remember him in your prayers. Even Parnell. Iv",
+    "start": 51866,
+    "end": 51884,
+    "canonical_text": "Last act of Lucia."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 7450467,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1060900,
+        "login": "dvrath",
+        "name": "dvrath",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

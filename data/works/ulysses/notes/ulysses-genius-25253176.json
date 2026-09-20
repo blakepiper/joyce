@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-25253176",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Jarvey",
+  "html_source": "<p>Coach driver.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/25253176/James-joyce-ulysses-chap-16-eumaeus/Jarvey",
+    "original_id": "25253176",
+    "referent_id": 25253176,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "jarvey",
+    "prefix": " the temperature refreshing since it cleared up after the recent visitation of Jupiter Pluvius, they dandered along past by where the empty vehicle was waiting without a fare or a ",
+    "suffix": ". As it so happened a Dublin United Tramways Company's sandstrewer happening to be returning the elder man recounted to his companion à propos of the incident his own truly miracul",
+    "start": 3077,
+    "end": 3083,
+    "canonical_text": "jarvey"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 25253176,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

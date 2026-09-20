@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21137489",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "All in all in all of us",
+  "html_source": "<p>Stephen citing to Eglinton’s earlier citation to Hamlet the prince’s description of Hamlet the king.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21137489/James-joyce-ulysses-chap-9-scylla-and-charybdis/All-in-all-in-all-of-us",
+    "original_id": "21137489",
+    "referent_id": 21137489,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "all in all in all of us",
+    "prefix": "rote it badly (He gave us light first 1932#191and the sun two days later), the lord of things as they are whom the most Roman of catholics call dio boia, hangman god, is doubtless ",
+    "suffix": ", ostler and butcher, and would be bawd and 1922#204cuckold too but that in the economy of heaven, foretold by Hamlet, there are no more marriages, glorified man, an androgynous an",
+    "start": 61182,
+    "end": 61205,
+    "canonical_text": "all in all in all of us"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21137489,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

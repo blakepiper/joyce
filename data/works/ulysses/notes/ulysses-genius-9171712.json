@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9171712",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Fought the good fight",
+  "html_source": "<p>King James Bible<br />Timothy 4:7<br />I have fought a good fight, I have finished my course, I have kept the faith:</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9171712/James-joyce-ulysses-chap-14-oxen-of-the-sun/Fought-the-good-fight",
+    "original_id": "9171712",
+    "referent_id": 9171712,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "fought the good fight",
+    "prefix": " the light whereby you read in the Sacred Book for the oil too has run low, and so with a tranquil heart to bed, to rest. He knows and will call in His own good time. You too have ",
+    "suffix": " and played loyally your man's part. Sir, to you my hand. Well done, thou good and faithful servant! \n\n1939#302\n\n There are sins or (let us call them as the world calls them) evil ",
+    "start": 97493,
+    "end": 97514,
+    "canonical_text": "fought the good fight"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9596
+  },
+  "genius": {
+    "referent_id": 9171712,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8555504",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Irish heroes and heroines",
+  "html_source": "<p>Joyce dismisses traditional heroes and idols-made-demigods, as he denigrates the myths and folklore that inevitably exaggerate their virtues and deny their vices. Again, the true heroes are like the one he presents to us in his great novel. It is Bloom with all his faults, fears, and eccentricities, whom he prototypes as the true Irish hero.</p><p>Joyce intended to have novel, style, myth and symbolism work together organically (Morris, N. A companion to James Joyce Ulysses, p22).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8555504/James-joyce-ulysses-chap-12-cyclops/Irish-heroes-and-heroines",
+    "original_id": "8555504",
+    "referent_id": 8555504,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Irish heroes and heroines",
+    "prefix": "east. From his girdle hung a row of seastones which jangled at every movement of his portentous frame and on these were graven with rude yet striking art the tribal images of many ",
+    "suffix": " of antiquity, Cuchulin, Conn of hundred battles, Niall of nine hostages, Brian of Kincora, the ardri Malachi, Art MacMurragh, Shane O'Neill, Father John Murphy, Owen Roe, Patrick ",
+    "start": 11393,
+    "end": 11418,
+    "canonical_text": "Irish heroes and heroines"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8555504,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 0.7272727272727273
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.2727272727272727
+      }
+    ]
+  },
+  "color": "F59627"
+}

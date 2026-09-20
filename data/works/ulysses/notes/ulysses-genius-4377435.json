@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4377435",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "The Mabbot street entrance of nighttown,",
+  "html_source": "<p>Mabbot Street is just north of the Liffey, and was renamed Commercial Street in the years after <em>Ulysses</em>. It’s now been somewhat bluntly renamed “James Joyce Street”, and can be seen on the <a href=\"http://www.visitdublin.com/pdf/ULYSSES-MAP.pdf\" rel=\"noopener nofollow\">Visit Dublin Ulysses Tour.</a></p><p><img src=\"https://images.rapgenius.com/13f38210c5d8da44603f68cff0603c12.1000x555x1.png\" alt=\"\" /></p><p><em>James Joyce Street, looking back towards the Liffey, via <a href=\"https://www.google.co.uk/maps/place/James+Joyce+St,+Dublin,+Ireland/@53.3513739,-6.2532899,3a,75y,162.81h,91.22t/data=!3m4!1e1!3m2!1sQDbubzrxsQc-HS7zSlkd2Q!2e0!4m2!3m1!1s0x48670e8f32f67521:0xb8b178e392c4624e\" rel=\"noopener nofollow\">Google Street View.</a></em></p><p>“Nighttown” is the part of the town where prostitutes congregated– what we call the “red light district” today.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4377435/James-joyce-ulysses-chap-15-circe/The-mabbot-street-entrance-of-nighttown",
+    "original_id": "4377435",
+    "referent_id": 4377435,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "The Mabbot street entrance of nighttown,",
+    "prefix": "\n\n[15]\n\n\n\n\n\n(",
+    "suffix": " before which stretches an uncobbled tramsiding set with skeleton tracks, red and green will-o'-the-wisps and danger signals. Rows of grimy houses with gaping doors. Rare lamps wit",
+    "start": 13,
+    "end": 53,
+    "canonical_text": "The Mabbot street entrance of nighttown,"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4377435,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

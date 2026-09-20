@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8877168",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Two puckers stripped to their pelts and putting up their props",
+  "html_source": "<p>two shirtless boxers putting up their fists (on an advertising poster in the shop window)</p><p><img src=\"https://images.rapgenius.com/8e4d10c9a3aafb9cf99d11393f9ca350.769x640x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8877168/James-joyce-ulysses-chap-10-wandering-rocks/Two-puckers-stripped-to-their-pelts-and-putting-up-their-props",
+    "original_id": "8877168",
+    "referent_id": 8877168,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "two puckers stripped to their pelts and putting up their props",
+    "prefix": "f the cottage fruitcake, jawing the whole blooming time and sighing. \n\n After Wicklow lane the window of Madame Doyle, courtdress milliner, stopped him. He stood looking in at the ",
+    "suffix": " From the sidemirrors two mourning Masters Dignam gaped silently. Myler Keogh, Dublin's pet lamb, will meet sergeantmajor Bennett, the Portobello bruiser, for a purse of fifty sove",
+    "start": 64925,
+    "end": 64996,
+    "canonical_text": "two puckers stripped to their pelts 1922#240and putting up their props."
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9323
+  },
+  "genius": {
+    "referent_id": 8877168,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

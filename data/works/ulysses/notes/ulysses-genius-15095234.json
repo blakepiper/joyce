@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15095234",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Bosthoon",
+  "html_source": "<p>Irish (noun): An uncouth or ignorant boy or man. From the Irish bastún, c. 1850</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15095234/James-joyce-ulysses-chap-10-wandering-rocks/Bosthoon",
+    "original_id": "15095234",
+    "referent_id": 15095234,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "bosthoon",
+    "prefix": "tors' waitingroom. Outside the Dublin Distillers Company's stores an outside car without fare or jarvey stood, the reins knotted to the wheel. Damn dangerous thing. Some Tipperary ",
+    "suffix": " endangering the lives of the citizens. Runaway horse. \n\n Denis Breen with his tomes, weary of having waited an hour in John Henry Menton's office, led his wife over O'Connell brid",
+    "start": 44702,
+    "end": 44710,
+    "canonical_text": "bosthoon"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15095234,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

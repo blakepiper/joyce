@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2468732",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Dullthudding",
+  "html_source": "<p>A dull sound, as that of a heavy object striking a solid surface.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2468732/James-joyce-ulysses-chap-7-aeolus/Dullthudding",
+    "original_id": "2468732",
+    "referent_id": 2468732,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "dullthudding",
+    "prefix": "f letters, postcards, lettercards, parcels, insured and paid, for local, provincial, British and overseas delivery. \n\n GENTLEMEN OF THE PRESS \n\n Grossbooted draymen rolled barrels ",
+    "suffix": " out of Prince's stores and bumped them up on the brewery float. On the brewery float bumped dullthudding barrels rolled by grossbooted draymen out of Prince's stores. \n\n — There i",
+    "start": 1041,
+    "end": 1053,
+    "canonical_text": "dullthudding"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 2468732,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8814781",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Muttonchop",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/fe711685910b2e8a7a9bb8c3a113eb0d.759x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8814781/James-joyce-ulysses-chap-8-lestrygonians/Muttonchop",
+    "original_id": "8814781",
+    "referent_id": 8814781,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "muttonchop",
+    "prefix": " Purefoy! Methodist husband. Method in his madness. Saffron bun and milk and soda lunch in the educational dairy. Eating with a stopwatch, thirtytwo chews to the minute. Still his ",
+    "suffix": " whiskers grew. Supposed to be well connected. Theodore's cousin in Dublin Castle. One tony relative in every family. Hardy annuals he presents her with. Saw him out at the Three J",
+    "start": 22287,
+    "end": 22297,
+    "canonical_text": "muttonchop"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8814781,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

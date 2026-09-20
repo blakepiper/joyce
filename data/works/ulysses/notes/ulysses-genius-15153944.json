@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15153944",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "In her glad look.",
+  "html_source": "<p>End of the Walter Pater send-up.</p><p><img src=\"https://images.genius.com/b357cb2474df81625c9911f38e882bfd.800x600x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15153944/James-joyce-ulysses-chap-14-oxen-of-the-sun/In-her-glad-look",
+    "original_id": "15153944",
+    "referent_id": 15153944,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "in her glad look.",
+    "prefix": "t must needs glance at whiles towards where his mother watches from the piazzetta giving upon the flowerclose with a faint shadow of remoteness or of reproach (alles Vergängliche) ",
+    "suffix": " \n\n Mark this farther and remember. The end comes suddenly. Enter that antechamber of birth where the studious are assembled and note their faces. Nothing, as it seems, there of ra",
+    "start": 100143,
+    "end": 100160,
+    "canonical_text": "in her glad look."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15153944,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

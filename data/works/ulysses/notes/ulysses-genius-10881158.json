@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10881158",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "L. L. D. honoris cause",
+  "html_source": "<p>Legum Doctor (LL.D.; Doctor of Laws in English) is a doctorate-level academic degree in law, or an honorary doctorate, depending on the jurisdiction</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10881158/James-joyce-ulysses-chap-17-ithaca/L-l-d-honoris-cause",
+    "original_id": "10881158",
+    "referent_id": 10881158,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "L. L. D. honoris cause",
+    "prefix": "e of the peace with a family crest and coat of arms and appropriate classical motto (Semper paratus), duly recorded in the court directory (Bloom, Leopold P., M. P., P. C., K. P., ",
+    "suffix": " Bloomville, Dundrum) and mentioned in court and fashionable intelligence (Mr and Mrs Leopold Bloom have left Kingstown for England). \n\n What course of action did he outline for hi",
+    "start": 101233,
+    "end": 101256,
+    "canonical_text": "L. L. D. honoris causa,"
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9333
+  },
+  "genius": {
+    "referent_id": 10881158,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

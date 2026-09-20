@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-27703375",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Hising up their petticoats,",
+  "html_source": "<p>Refers back to Mulligan’s ditty about Mary Ann in “Telemachus”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/27703375/James-joyce-ulysses-chap-3-proteus/Hising-up-their-petticoats",
+    "original_id": "27703375",
+    "referent_id": 27703375,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "hising up their petticoats,",
+    "prefix": "peech ceases. It flows purling, widely flowing, floating foampool, flower unfurling. \n\n Under the upswelling tide he saw the writhing weeds lift languidly and sway reluctant arms, ",
+    "suffix": " in whispering water swaying and upturning coy silver fronds. Day by day: night by night: 1932#45lifted, flooded and let fall. Lord, they are weary; and, whispered to, they sigh. S",
+    "start": 30137,
+    "end": 30164,
+    "canonical_text": "hising up their petticoats,"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 27703375,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

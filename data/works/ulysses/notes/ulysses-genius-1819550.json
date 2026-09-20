@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-1819550",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Thalatta! Thalatta!",
+  "html_source": "<p>Attic Greek for “The sea! The sea!”  Notably quoted from Xenophon’s <em>Anabasis</em>, where it appears as the cry of joy uttered by the 10,000 Greeks (a mercenary group returning from a failed campaign in Persia in 401 BC) when they saw the Black Sea; that they could see the Black Sea meant they were close to friendly territory and were finally safe.</p><p><img src=\"https://images.rapgenius.com/66067b3db9b9541d7b420f474ee04b50.290x181x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1819550/James-joyce-ulysses-chap-1-telemachus/Thalatta-thalatta",
+    "original_id": "1819550",
+    "referent_id": 1819550,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Thalatta! Thalatta!",
+    "prefix": "lls it: a great sweet mother? The snotgreen sea. The scrotumtightening sea. Epi oinopa ponton. Ah, Dedalus, the Greeks! I must teach you. You must read them in the1986#4 original. ",
+    "suffix": " She is our great sweet mother. Come and look. \n\n Stephen stood up and went over to the parapet. Leaning on it he looked down on the water and on the mailboat clearing the harbourm",
+    "start": 4648,
+    "end": 4667,
+    "canonical_text": "Thalatta! Thalatta!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1819550,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1732433,
+        "login": "SurgicalWizard",
+        "name": "SurgicalWizard",
+        "role": "contributor",
+        "attribution": 0.5483870967741935
+      },
+      {
+        "id": 176532,
+        "login": "biblicalmike",
+        "name": "Michael Bible",
+        "role": "verified_artist",
+        "attribution": 0.3978494623655914
+      },
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 0.05376344086021505
+      }
+    ]
+  },
+  "color": "F59627"
+}

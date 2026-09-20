@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8336974",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Magee, John Eglinton",
+  "html_source": "<p>William Kirkpatrick Magee and John Eglinton were in fact one &amp; the same person, the latter being the pseudonym of the former. Confusingly, Joyce/Stephen use both names throughout this episode.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8336974/James-joyce-ulysses-chap-9-scylla-and-charybdis/Magee-john-eglinton",
+    "original_id": "8336974",
+    "referent_id": 8336974,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Magee, John Eglinton",
+    "prefix": "wn. \n\n Good Bacon: gone musty. Shakespeare Bacon's wild oats. Cypherjugglers going the highroads. Seekers on the great quest. What town, good masters? Mummed in names: A. E., eon: ",
+    "suffix": ". East of the sun, west of the moon: Tir na n-og. Booted the twain and staved. \n\nHow many miles to Dublin?\nThree score and ten, sir. \nWill we be there by candlelight? \n\n — Mr Brand",
+    "start": 23395,
+    "end": 23415,
+    "canonical_text": "Magee, John Eglinton"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8336974,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2568065,
+        "login": "GeoffBobker",
+        "name": "GeoffBobker",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8342168",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Miss Dunne",
+  "html_source": "<p>Boylan’s secretary. This is the beginning of Section 7.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8342168/James-joyce-ulysses-chap-10-wandering-rocks/Miss-dunne",
+    "original_id": "8342168",
+    "referent_id": 8342168,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Miss Dunne",
+    "prefix": "t trousers after the Dalkey tram. In vain he trotted,932#205 signalling in vain among the rout of barekneed gillies smuggling implements of music through Trinity gates. \n\n*\n*  *\n\n ",
+    "suffix": " hid the Capel street library copy of The Woman in White far back in her drawer and rolled a sheet of gaudy notepaper into her typewriter. \n\n Too much mystery business in it. Is he",
+    "start": 20906,
+    "end": 20916,
+    "canonical_text": "Miss Dunne"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9449
+  },
+  "genius": {
+    "referent_id": 8342168,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 0.7777777777777777
+      },
+      {
+        "id": 2568065,
+        "login": "GeoffBobker",
+        "name": "GeoffBobker",
+        "role": "contributor",
+        "attribution": 0.2222222222222222
+      }
+    ]
+  },
+  "color": "F59627"
+}

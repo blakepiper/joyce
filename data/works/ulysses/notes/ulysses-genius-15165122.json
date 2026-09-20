@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15165122",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Gladstone bag",
+  "html_source": "<p>A <a href=\"https://en.wikipedia.org/wiki/Gladstone_bag\" rel=\"noopener nofollow\">Gladstone bag</a> is a portmanteau suitcase with a rigid frame that sometimes separated the bag into two separate sections</p><p><img src=\"https://images.genius.com/91fb844e5ba0f8fd33dca292859fb41a.778x617x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15165122/James-joyce-ulysses-chap-15-circe/Gladstone-bag",
+    "original_id": "15165122",
+    "referent_id": 15165122,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "gladstone bag",
+    "prefix": "with both hands.) \n\n I bear no hate to a living thing, \nBut I love my country beyond the king. \n\n RUMBOLD, DEMON BARBER \n\n(Accompanied by two blackmasked assistants, advances with ",
+    "suffix": " which he opens.) Ladies and gents, cleaver purchased by Mrs Pearcy to slay Mogg. Knife with which Voisin dismembered the wife of a compatriot and hid remains in a sheet in the cel",
+    "start": 220868,
+    "end": 220881,
+    "canonical_text": "gladstone bag"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15165122,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

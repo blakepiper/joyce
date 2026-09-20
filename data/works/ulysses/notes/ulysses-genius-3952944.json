@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3952944",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Law Harry",
+  "html_source": "<p>The phrase is in fact “by the Lord Harry” – a blasphemy, made by the juxtaposition of the Lord (Jesus Christ) and Harry (an old term for the Devil) – the uncle is again imagined to be incorrect.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3952944/James-joyce-ulysses-chap-3-proteus/Law-harry",
+    "original_id": "3952944",
+    "referent_id": 3952944,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "law Harry",
+    "prefix": "\n Papa's little bedpal. Lump of love. \n\n — No, uncle Richie... \n\n — Call me Richie. Damn your lithia water. It lowers. Whusky! \n\n — Uncle Richie, really... \n\n — Sit down or by the ",
+    "suffix": " I'll knock you down. \n\n Walter squints vainly for a chair. \n\n1939#31\n\n — He has nothing to sit down on, sir. \n\n — He has nowhere to put it, you mug. Bring in our chippendale chair",
+    "start": 5498,
+    "end": 5507,
+    "canonical_text": "law Harry"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3952944,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1135238,
+        "login": "Critic94",
+        "name": "Critic94",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

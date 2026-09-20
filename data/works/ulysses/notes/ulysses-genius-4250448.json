@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4250448",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Had a great leg of",
+  "html_source": "<p>Slang: influence with (Gifford, p. 610).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4250448/James-joyce-ulysses-chap-18-penelope/Had-a-great-leg-of",
+    "original_id": "4250448",
+    "referent_id": 4250448,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "had a great leg of",
+    "prefix": " the City Arms hotel when he used to be pretending to be laid up with a sick voice doing his highness to make himself interesting to that old faggot Mrs Riordan that he thought he ",
+    "suffix": " and she never left us a farthing all for masses for herself and her soul greatest miser ever was actually afraid to lay out 4d for her methylated spirit telling me all her ailment",
+    "start": 302,
+    "end": 320,
+    "canonical_text": "had a great leg of"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4250448,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.6666666666666667
+      },
+      {
+        "id": 149810,
+        "login": "perfectrhyme",
+        "name": "Perfectrhyme",
+        "role": "editor",
+        "attribution": 0.33333333333333337
+      }
+    ]
+  },
+  "color": "F59627"
+}

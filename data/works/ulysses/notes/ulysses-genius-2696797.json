@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2696797",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Kens",
+  "html_source": "<p>(Scots, Scots Irish) to know (collinsdictionary.com)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2696797/James-joyce-ulysses-chap-3-proteus/Kens",
+    "original_id": "2696797",
+    "referent_id": 2696797,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "kens",
+    "prefix": "gs, nebeneinander. Sounds solid: made by the mallet of Los Demiurgos. Am I walking into eternity along Sandymount strand? Crush, crack, crick, crick. Wild sea money. Dominie Deasy ",
+    "suffix": " them a'. \n\nWon't you come to Sandymount, \nMadeline the mare? \n\n Rhythm begins, you see. I hear. A catalectic tetrameter of iambs marching. No, agallop: deline the mare. \n\n1922#37\n",
+    "start": 1357,
+    "end": 1361,
+    "canonical_text": "kens"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2696797,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 410950,
+        "login": "FrankGiraffe",
+        "name": "FrankGiraffe",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

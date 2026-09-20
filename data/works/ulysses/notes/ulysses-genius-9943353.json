@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9943353",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Wat Tyler",
+  "html_source": "<p>Walter “Wat” Tyler (died 15 June 1381) was a leader of the 1381 Peasants' Revolt in England. He marched a group of rebels from Canterbury to the capital to oppose the institution of a poll tax and demand economic and social reforms. While the brief rebellion enjoyed early success, Tyler was killed by officers loyal to King Richard II<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9943353/James-joyce-ulysses-chap-15-circe/Wat-tyler",
+    "original_id": "9943353",
+    "referent_id": 9943353,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Wat Tyler",
+    "prefix": "s twelve dozen oysters (shells included), heals several sufferers from king's evil, contracts his face so as to resemble many historical personages, Lord Beaconsfield, Lord Byron, ",
+    "suffix": ", Moses of Egypt, Moses Maimonides, Moses Mendelssohn, Henry Irving, Rip van Winkle, Kossuth, Jean Jacques Rousseau, Baron Leopold Rothschild, Robinson Crusoe, Sherlock Holmes, Pas",
+    "start": 92396,
+    "end": 92405,
+    "canonical_text": "Wat Tyler"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9943353,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33151664",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Then",
+  "html_source": "<p>Do you know ‘what ends’ said Dixon Junior to Punch Costello.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33151664/James-joyce-ulysses-chap-14-oxen-of-the-sun/Then",
+    "original_id": "33151664",
+    "referent_id": 33151664,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Then",
+    "prefix": "against the Holy Ghost, Very God, Lord and Giver of Life? For, sirs, he said, our lust is brief. We are means to those small creatures within us and nature has other ends than we. ",
+    "suffix": " said Dixon junior to Punch Costello wist he what ends. But he had overmuch drunken and the best word he could have of him was that he would ever dishonest a woman whoso she were o",
+    "start": 16160,
+    "end": 16164,
+    "canonical_text": "Then"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 33151664,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

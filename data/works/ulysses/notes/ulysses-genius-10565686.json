@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10565686",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Marcella, the midget queen",
+  "html_source": "<p><a href=\"https://muse.jhu.edu/article/473218\" rel=\"noopener nofollow\">https://muse.jhu.edu/article/473218</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10565686/James-joyce-ulysses-chap-16-eumaeus/Marcella-the-midget-queen",
+    "original_id": "10565686",
+    "referent_id": 10565686,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Marcella, the midget queen",
+    "prefix": "m not saying that it's all a pure invention, he resumed. Analogous scenes are occasionally, if not often, met with. Giants, though that is rather a far cry, you see once in a way. ",
+    "suffix": ". In those waxworks in Henry street I myself saw some Aztecs, as they are called, sitting bowlegged. They couldn't straighten their legs if you paid them because the muscles here, ",
+    "start": 57420,
+    "end": 57445,
+    "canonical_text": "Marcella the midget queen"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 10565686,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

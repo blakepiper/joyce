@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2081148",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "But Malachias’ tale",
+  "html_source": "<p>This section (from “But Malachias' tale” to “Murderer’s ground”) is written in the style of <a href=\"http://en.wikipedia.org/wiki/Horace_Walpole\" rel=\"noopener nofollow\">Horace Walpole</a>, in particular his Gothic novel <a href=\"http://en.wikipedia.org/wiki/The_Castle_of_Otranto\" rel=\"noopener nofollow\"><em>The Castle of Otranto</em></a>.</p><p><img src=\"https://images.genius.com/057b86c2250ab797630d331d6c3f3c69.460x288x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2081148/James-joyce-ulysses-chap-14-oxen-of-the-sun/But-malachias-tale",
+    "original_id": "2081148",
+    "referent_id": 2081148,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "But Malachias' tale",
+    "prefix": "ted or in obedience to an inward voice, he delivered briefly and, as some thought, perfunctorily the ecclesiastical ordinance forbidding man to put asunder what God has joined. \n\n ",
+    "suffix": " began to freeze them with horror. He conjured up the scene before them. The secret panel beside the chimney slid back and in the recess appeared... Haines! Which of us did not fee",
+    "start": 73115,
+    "end": 73134,
+    "canonical_text": "But Malachias' tale"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2081148,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

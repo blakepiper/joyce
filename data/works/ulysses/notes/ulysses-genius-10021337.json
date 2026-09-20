@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10021337",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Ichthyo saurus",
+  "html_source": "<p>a reptilian dinosaur<br /><a href=\"http://www.prehistoric-wildlife.com/species/i/ichthyosaurus.html\" rel=\"noopener nofollow\">http://www.prehistoric-wildlife.com/species/i/ichthyosaurus.html</a></p><p><img src=\"https://images.genius.com/96f4a5106bb8a34bfe886de1eb2ff9a4.220x100x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10021337/James-joyce-ulysses-chap-15-circe/Ichthyo-saurus",
+    "original_id": "10021337",
+    "referent_id": 10021337,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Ichthyo saurus",
+    "prefix": "ye I dislike.\n\nVIRAG (Arches his eyebrows.) Contact with a goldring, they say. Argumentum ad feminam, as we said in old Rome and ancient Greece in the consulship of Diplodocus and ",
+    "suffix": ". For the rest Eve's sovereign remedy. Not for sale. Hire only. Huguenot. (He twitches.) It is a funny sound.\n\n(He coughs encouragingly.) But possibly it is only a wart. I presume ",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.6
+  },
+  "genius": {
+    "referent_id": 10021337,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

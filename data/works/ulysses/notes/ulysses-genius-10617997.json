@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10617997",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Michael Davitt",
+  "html_source": "<p>Founder of the Irish Land League (1879), which organized resistance to absentee landlordism and sought to relieve the poverty of the tenant farmers<br /><a href=\"https://www.britannica.com/biography/Michael-Davitt\" rel=\"noopener nofollow\">https://www.britannica.com/biography/Michael-Davitt</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10617997/James-joyce-ulysses-chap-16-eumaeus/Michael-davitt",
+    "original_id": "10617997",
+    "referent_id": 10617997,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Michael Davitt",
+    "prefix": "icing the trend of modern opinion, a partiality, however, which, realising his mistake, he was subsequently partially cured of, and even was twitted with going a step farther than ",
+    "suffix": " in the striking views he at one time inculcated as a backtothelander, which was one reason he strongly resented the innuendo put upon him in so barefaced a fashion 1922#610at the ",
+    "start": 109980,
+    "end": 109994,
+    "canonical_text": "Michael Davitt"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10617997,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

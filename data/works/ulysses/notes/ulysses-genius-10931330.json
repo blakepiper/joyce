@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-10931330",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Hole in the wall",
+  "html_source": "<p>A pub and restaurant at Ashtown in Dublin<br /><a href=\"http://holeinthewall.pub/index.php/hole-in-the-wall/\" rel=\"noopener nofollow\">http://holeinthewall.pub/index.php/hole-in-the-wall/</a></p><p>It features in ‘The House by the Churchyard’, Sheridan Le Fanu which is the humus out of which ‘Finnegans Wake’ grows.</p><p><img src=\"https://images.genius.com/3b0ca5dd8ecc9adc9cd218a5a70066f2.1000x524x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10931330/James-joyce-ulysses-chap-17-ithaca/Hole-in-the-wall",
+    "original_id": "10931330",
+    "referent_id": 10931330,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "hole in the wall",
+    "prefix": ", cloudbursts: its vast circumterrestrial ahorizontal curve: its secrecy in springs and latent humidity, revealed by rhabdomantic or hygrometric instruments and exemplified by the ",
+    "suffix": " at Ashtown gate, saturation of air, distillation of dew: the simplicity of its composition, two constituent parts of hydrogen with one constituent part of oxygen: its healing virt",
+    "start": 13960,
+    "end": 13976,
+    "canonical_text": "hole in the wall"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10931330,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.7640449438202248
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.2359550561797753
+      }
+    ]
+  },
+  "color": "F59627"
+}

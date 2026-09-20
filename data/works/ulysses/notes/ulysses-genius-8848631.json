@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8848631",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Antisthenes",
+  "html_source": "<p>Antisthenes of Athens (c. 445-365 BCE) was a Greek philosopher who founded the Cynic School. He was a follower of Socrates and appears in Plato’s Phaedo as one of those present at Socrates’ death. In his youth he studied rhetoric under Gorgias.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8848631/James-joyce-ulysses-chap-9-scylla-and-charybdis/Antisthenes",
+    "original_id": "8848631",
+    "referent_id": 8848631,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Antisthenes",
+    "prefix": "e, John Eglinton decided with Mr Best's approval. We begin to be interested in Mrs S. Till now we had thought of her, if at all, as a patient Griselda, a Penelope stayathome. \n\n — ",
+    "suffix": ", pupil of Gorgias, Stephen said, took the palm of beauty from Kyrios Menelaus' brooddam, Argive Helen, the wooden mare of Troy in whom a score of heroes slept, and handed it to po",
+    "start": 35408,
+    "end": 35419,
+    "canonical_text": "Antisthenes"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8848631,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

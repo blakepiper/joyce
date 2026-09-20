@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13974613",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Horryvar, mong vioo",
+  "html_source": "<p>After the French Au revoir, mon vieux (Goodbye,<br />old fellow)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13974613/James-joyce-ulysses-chap-14-oxen-of-the-sun/Horryvar-mong-vioo",
+    "original_id": "13974613",
+    "referent_id": 13974613,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Horryvar, mong vioo",
+    "prefix": "en's a maddening back. O, lust, our refuge and our strength. Decamping. Must you go? Off to mammy. Stand by. Hide my blushes someone. All in if he spots me. Comeahome, our Bantam. ",
+    "suffix": ". Dinna forget the cowslips for hersel. Cornfide. Wha gev ye thon colt? Pal to pal. Jannock. Of John Thomas, her spouse. No fake, old man Leo. S'elp me, honest injun. Shiver my tim",
+    "start": 110407,
+    "end": 110426,
+    "canonical_text": "Horryvar, mong vioo"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13974613,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

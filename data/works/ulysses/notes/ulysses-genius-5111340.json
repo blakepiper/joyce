@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5111340",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Colander",
+  "html_source": "<p>A colander is a bowl-shaped kitchen utensil with holes in it used for draining food such as pasta or rice.</p><p><img src=\"https://images.rapgenius.com/ba5e0a68dda8e9b6696a2a8e810518a8.500x317x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5111340/James-joyce-ulysses-chap-6-hades/Colander",
+    "original_id": "5111340",
+    "referent_id": 5111340,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "colander",
+    "prefix": "y. Quiet brute. Old men's dogs usually are. \n\n A raindrop spat on his hat. He drew back and saw an instant of shower spray dots over the grey flags. Apart. Curious. Like through a ",
+    "suffix": ". I thought it would. My boots were creaking I remember now. \n\n — The weather is changing, he said quietly. \n\n — A pity it did not keep up fine, Martin Cunningham said. \n\n — Wanted",
+    "start": 7645,
+    "end": 7653,
+    "canonical_text": "colander"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5111340,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

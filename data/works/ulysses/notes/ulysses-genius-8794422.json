@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8794422",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Brown habit",
+  "html_source": "<p>archaic :  clothing:  a costume characteristic of a calling, rank, or function </p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8794422/James-joyce-ulysses-chap-6-hades/Brown-habit",
+    "original_id": "8794422",
+    "referent_id": 8794422,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "brown habit",
+    "prefix": "\n — Praises be to God! Martin Cunningham said piously. \n\n Bom! Upset. A coffin bumped out on to the road. Burst open. Paddy Dignam shot out and rolling over stiff in the dust in a ",
+    "suffix": " too large for him. Red face: grey now. Mouth fallen open. Asking what's up now. Quite right to close it. Looks horrid open. Then the insides decompose quickly. Much better to clos",
+    "start": 24657,
+    "end": 24668,
+    "canonical_text": "brown habit"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8794422,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

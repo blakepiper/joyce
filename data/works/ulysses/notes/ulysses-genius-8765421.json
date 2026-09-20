@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8765421",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Model farm",
+  "html_source": "<p>A model farm is an experimental farm, which researched and demonstrated improvements in agricultural techniques, efficiency, and building layout.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8765421/James-joyce-ulysses-chap-4-calypso/Model-farm",
+    "original_id": "8765421",
+    "referent_id": 8765421,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "model farm",
+    "prefix": "rkbutcher folded the sausages he had snipped off with blotchy fingers, sausagepink. Sound meat there: like a stallfed heifer. \n\n He took a page up from the pile of cut sheets: the ",
+    "suffix": " at Kinnereth on the lakeshore of Tiberias. Can become ideal winter sanatorium. Moses Montefiore. I thought he was. Farmhouse, wall round it, blurred cattle cropping. He held the p",
+    "start": 10010,
+    "end": 10020,
+    "canonical_text": "model farm"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8765421,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

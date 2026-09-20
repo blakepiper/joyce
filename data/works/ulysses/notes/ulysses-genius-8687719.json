@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8687719",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Ass",
+  "html_source": "<p>The original : ‘Then Brian Gallagher wid house in garden’. Gifford.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8687719/James-joyce-ulysses-chap-4-calypso/Ass",
+    "original_id": "8687719",
+    "referent_id": 8687719,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "ass",
+    "prefix": " smiled, pouring. \n\n1961#62\n\nO, Milly Bloom, you are my darling. \nYou are my lookingglass from night to morning. \nI'd rather have you without a farthing \nThan Katey Keogh with her ",
+    "suffix": " and garden. \n\n1939#48\n\n Poor old professor Goodwin. Dreadful old case. Still he was a courteous old chap. Oldfashioned way he used to bow Molly off the platform. And the little mi",
+    "start": 18162,
+    "end": 18165,
+    "canonical_text": "ass"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9616
+  },
+  "genius": {
+    "referent_id": 8687719,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

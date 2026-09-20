@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15150865",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Resiled",
+  "html_source": "<p>Verb meaning abandoned as a position or course of action. From Latin resilire ‘to recoil,’ from re- ‘back’ + salire ‘to jump.’</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15150865/James-joyce-ulysses-chap-14-oxen-of-the-sun/Resiled",
+    "original_id": "15150865",
+    "referent_id": 15150865,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "resiled",
+    "prefix": " as overgrown children: the words of their tumultuary discussions were difficultly understood and not often nice: their testiness and outrageous mots were such that his intellects ",
+    "suffix": " from: nor were they scrupulously sensible of the proprieties though their fund of strong animal spirits spoke in their behalf. But the word of Mr Costello was an unwelcome languag",
+    "start": 61407,
+    "end": 61414,
+    "canonical_text": "resiled"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15150865,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

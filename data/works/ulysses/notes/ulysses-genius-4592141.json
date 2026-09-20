@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4592141",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "The incident his own truly miraculous escape of some little while back",
+  "html_source": "<p><a href=\"https://genius.com/4592171\" rel=\"noopener nofollow\">Refers to an incident in Chapter 15 “Circe” when a sand-strewer comes out of the fog and nearly run over Bloom.</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4592141/James-joyce-ulysses-chap-16-eumaeus/The-incident-his-own-truly-miraculous-escape-of-some-little-while-back",
+    "original_id": "4592141",
+    "referent_id": 4592141,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "the incident his own truly miraculous escape of some little while back",
+    "prefix": "waiting without a fare or a jarvey. As it so happened a Dublin United Tramways Company's sandstrewer happening to be returning the elder man recounted to his companion à propos of ",
+    "suffix": ". They passed the main entrance of the Great Northern railway station, the starting point for Belfast, where of course all traffic was suspended at that late hour and passing the b",
+    "start": 3229,
+    "end": 3299,
+    "canonical_text": "the incident his own truly miraculous escape of some little while back"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4592141,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

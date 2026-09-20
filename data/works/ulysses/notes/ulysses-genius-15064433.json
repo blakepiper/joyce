@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15064433",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Coigns",
+  "html_source": "<p>A coign is a prominent outer corner of a structure such as a building.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15064433/James-joyce-ulysses-chap-9-scylla-and-charybdis/Coigns",
+    "original_id": "15064433",
+    "referent_id": 15064433,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "coigns",
+    "prefix": "91961#217\n\n A dark back went before them, step of a pard, down, out by the gateway, under portcullis barbs. \n\n They followed. \n\n Offend me still. Speak on. \n\n Kind air defined the ",
+    "suffix": " of houses in Kildare street. No birds. Frail from the housetops two plumes of smoke ascended, pluming, and in a flaw of softness softly were blown. \n\n Cease to strive. Peace of th",
+    "start": 69333,
+    "end": 69339,
+    "canonical_text": "coigns"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15064433,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

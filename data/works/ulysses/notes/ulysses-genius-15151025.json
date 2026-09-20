@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15151025",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Abigail",
+  "html_source": "<p>A term from the early 1600s meaning a lady’s maid. From the name Abigail, as given to a waiting-maid in Beaumont and Fletcher’s play <a href=\"https://en.wikipedia.org/wiki/The_Scornful_Lady\" rel=\"noopener nofollow\">The Scornful Lady</a>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15151025/James-joyce-ulysses-chap-14-oxen-of-the-sun/Abigail",
+    "original_id": "15151025",
+    "referent_id": 15151025,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "abigail",
+    "prefix": "d approbation the delegates, chafing under the length and solemnity of their vigil and hoping that the joyful occurrence would palliate a licence which the simultaneous absence of ",
+    "suffix": " and officer rendered the easier, broke out at once into a strife of tongues. In vain the voice of Mr Canvasser Bloom was heard endeavouring to urge, to mollify, to restrain. The m",
+    "start": 68821,
+    "end": 68828,
+    "canonical_text": "abigail"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15151025,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

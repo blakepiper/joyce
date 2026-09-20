@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10518673",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Knockkneed",
+  "html_source": "<p>Condition where knees angle in and touch one another</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10518673/James-joyce-ulysses-chap-2-nestor/Knockkneed",
+    "original_id": "10518673",
+    "referent_id": 10518673,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "knockkneed",
+    "prefix": "\n\n Shouts rang shrill from the boys' playfield and a whirring whistle. \n\n Again: a goal. I am among them, among their battling bodies in a medley, the joust of life. You mean that ",
+    "suffix": " mother's darling who seems to be slightly crawsick? Jousts. Time shocked rebounds, shock by shock. Jousts, slush and uproar of battles, the frozen deathspew of the slain, a shout ",
+    "start": 17940,
+    "end": 17950,
+    "canonical_text": "knockkneed"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10518673,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

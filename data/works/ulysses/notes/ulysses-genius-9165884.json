@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9165884",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Consanguineous",
+  "html_source": "<p>relating to or denoting people descended from the same ancestor</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9165884/James-joyce-ulysses-chap-14-oxen-of-the-sun/Consanguineous",
+    "original_id": "9165884",
+    "referent_id": 9165884,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "consanguineous",
+    "prefix": "of delivery called by the Brandenburghers Sturzgeburt, the recorded instances of multigeminal, twikindled and monstruous births conceived 1932#371during the catamenic period or of ",
+    "suffix": " parents— in a word all the cases of human nativity which Aristotle has classified in his masterpiece with 1986#335chromolithographic illustrations. The gravest problems of obstetr",
+    "start": 70620,
+    "end": 70634,
+    "canonical_text": "consanguineous"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9165884,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8772907",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Mohammed cut a piece out of his mantle not to wake her.",
+  "html_source": "<p>Muhammad’s  favorite cat was called Muezza. There is a well-known story regarding the Prophet Muhammad and Muezza.</p><p>When the call to prayers was heard, Muezza was asleep on one of the sleeves of the Prophet’s robes. The Prophet wanted to wear the robe to go to prayers. Rather than disturb Muezza, Muhammad cut off the sleeve to leave Muezza in peace.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8772907/James-joyce-ulysses-chap-5-lotus-eaters/Mohammed-cut-a-piece-out-of-his-mantle-not-to-wake-her",
+    "original_id": "8772907",
+    "referent_id": 8772907,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Mohammed cut a piece out of his mantle not to wake her.",
+    "prefix": "ner. Near the timberyard a squatted child at marbles, alone, shooting the taw with a cunnythumb. A wise tabby, a blinking sphinx, watched from her warm sill. Pity to disturb them. ",
+    "suffix": " Open it. And once I played marbles when I went to that old dame's school. She liked mignonette. Mrs Ellis's. And Mr? He opened the letter within the newspaper. \n\n A flower. I thin",
+    "start": 14403,
+    "end": 14458,
+    "canonical_text": "Mohammed cut a piece out of his mantle not to wake her."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8772907,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

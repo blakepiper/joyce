@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9890445",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Saint Leger.",
+  "html_source": "<p>The St Leger Stakes is a Group 1 flat horse race in Great Britain open to three-year-old thoroughbred colts and fillies. It is run at Doncaster over a distance of 1-mile, 6 furlongs and 132 yards (2,937 metres), and it is scheduled to take place each year in September. Established in 1776, the St Leger is the oldest of Britain’s five Classics.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9890445/James-joyce-ulysses-chap-15-circe/Saint-leger",
+    "original_id": "9890445",
+    "referent_id": 9890445,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Saint Leger.",
+    "prefix": "David? \n\n1986#4031939#3511922#466\n\n BLOOM \n\n(Darkly.) You have said it. \n\n BROTHER BUZZ \n\n Then perform a miracle like Father Charles. \n\n BANTAM LYONS \n\n Prophesy who will win the ",
+    "suffix": " \n\n(Bloom walks on a net, covers his left eye with his left ear, passes through several walls, climbs Nelson's Pillar, hangs from the top ledge by his eyelids, eats twelve dozen oy",
+    "start": 92041,
+    "end": 92053,
+    "canonical_text": "Saint Leger."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9890445,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

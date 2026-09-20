@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3324536",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "—Monsieur de la Palice, Stephen sneered, was alive fifteen minutes before his death.",
+  "html_source": "<p><a href=\"http://en.wikipedia.org/wiki/Jacques_de_la_Palice\" rel=\"noopener nofollow\">Jacques de la Palice</a> was a famous French Marshal who had an epitaph that was often misread for humorous effect.  The epitaph read:</p><blockquote><p>Ci gît Monsieur de La Palice: Si il' n'était pas mort, il ferait encore envie.</p></blockquote><p>i.e. “Here lies Monsieur de la Palice: were he not dead, he would still be admired.”</p><p>A humorous misreading of this has the last word as “en vie” instead of “envie”, which makes it read idiotically as “were he not dead, he would still be alive.”</p><p><img src=\"https://images.rapgenius.com/9372b9fbb8adf99d483f3a428f4041e1.200x266x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3324536/James-joyce-ulysses-chap-9-scylla-and-charybdis/Monsieur-de-la-palice-stephen-sneered-was-alive-fifteen-minutes-before-his-death",
+    "original_id": "3324536",
+    "referent_id": 3324536,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "—Monsieur de la Palice, Stephen sneered, was alive fifteen minutes before his death.",
+    "prefix": "\n Twicreakingly analysis he corantoed off. Bald, most zealous by the door he gave his large ear all to the attendant's words: heard them: and was gone. \n\n1932#164\n\n Two left. \n\n — ",
+    "suffix": " \n\n — Have you found those six brave medicals, John Eglinton asked with elder's gall, to write Paradise Lost at your dictation? The Sorrows of Satan he calls it. \n\n Smile. Smile Cr",
+    "start": 883,
+    "end": 966,
+    "canonical_text": "Monsieur de la Palice, Stephen sneered, was alive fifteen minutes before his death."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 3324536,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

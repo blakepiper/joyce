@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15157407",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Teratological",
+  "html_source": "<p>Relating to abnormalities in physiological development (e.g., birth defects).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15157407/James-joyce-ulysses-chap-15-circe/Teratological",
+    "original_id": "15157407",
+    "referent_id": 15157407,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "teratological",
+    "prefix": "01932#435\n\n DR MADDEN \n\n Hypsospadia is also marked. In the interest of coming generations I suggest that the parts affected should be preserved in spirits of wine in the national ",
+    "suffix": " museum. \n\n DR CROTTHERS \n\n I have examined the patient's urine. It is albuminoid. Salivation is insufficient, the patellar reflex intermittent. \n\n DR PUNCH COSTELLO \n\n The fetor j",
+    "start": 89381,
+    "end": 89394,
+    "canonical_text": "teratological"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15157407,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

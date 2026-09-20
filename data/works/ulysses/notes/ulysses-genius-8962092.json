@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8962092",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Sepoy",
+  "html_source": "<p>noun historical<br />an Indian soldier serving under British or other European orders.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8962092/James-joyce-ulysses-chap-12-cyclops/Sepoy",
+    "original_id": "8962092",
+    "referent_id": 8962092,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "sepoy",
+    "prefix": "o bounds. Nay, even the stern provostmarshal, lieutenantcolonel Tomkin-Maxwell ffrenchmullan Tomlinson, who presided on the sad occasion, he who had blown a considerable number of ",
+    "suffix": "s from the cannonmouth without flinching, could not now restrain his natural emotion. With his mailed gauntlet he brushed away a furtive tear and was overheard, by those privileged",
+    "start": 43485,
+    "end": 43490,
+    "canonical_text": "sepoy"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8962092,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

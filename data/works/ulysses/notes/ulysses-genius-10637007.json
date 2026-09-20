@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-10637007",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Brazen Head",
+  "html_source": "<p><a href=\"http://www.brazenhead.com/history/index.php\" rel=\"noopener nofollow\">http://www.brazenhead.com/history/index.php</a></p><p><img src=\"https://images.genius.com/edc5fe31b0bef55dc10ed9b472faf23a.800x517x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10637007/James-joyce-ulysses-chap-16-eumaeus/Brazen-head",
+    "original_id": "10637007",
+    "referent_id": 10637007,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Brazen Head",
+    "prefix": "reet. There was a dosshouse in Marlborough street, Mrs Maloney's, but it was only a tanner touch and full of undesirables but M'Conachie told him you got a decent enough do in the ",
+    "suffix": " over in Winetavern 1986#504street (which was distantly suggestive to the person addressed of friar Bacon) for a bob. He was starving too though he hadn't said a word about it. \n\n ",
+    "start": 11781,
+    "end": 11792,
+    "canonical_text": "Brazen Head"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9729
+  },
+  "genius": {
+    "referent_id": 10637007,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.5
+      },
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.5
+      }
+    ]
+  },
+  "color": "F59627"
+}

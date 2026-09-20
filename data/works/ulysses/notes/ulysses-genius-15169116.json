@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15169116",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Luteofulvous",
+  "html_source": "<p>An adjective referring to a brownish-yellow color. From Latin <a href=\"https://en.wiktionary.org/wiki/luteus#Latin\" rel=\"noopener nofollow\">luteus</a>v (yellowish brown) from lutum (mud, dirt, clay); and <a href=\"https://en.wiktionary.org/wiki/fulvous\" rel=\"noopener nofollow\">fulvous</a> (reddish-brown; orange).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15169116/James-joyce-ulysses-chap-17-ithaca/Luteofulvous",
+    "original_id": "15169116",
+    "referent_id": 15169116,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "luteofulvous",
+    "prefix": "globe: its indisputable hegemony extending in square leagues over all the region below the subequatorial tropic of Capricorn: the multisecular stability of its primeval basin: its ",
+    "suffix": " bed: its capacity 1961#671to dissolve and hold in solution all soluble substances including millions of tons of the most precious metals: its slow erosions of peninsulas and islan",
+    "start": 12897,
+    "end": 12909,
+    "canonical_text": "luteofulvous"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15169116,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

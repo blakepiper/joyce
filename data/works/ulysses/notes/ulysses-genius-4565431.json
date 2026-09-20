@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4565431",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "What was his name",
+  "html_source": "<p>Molly can’t recall Lieutenant Mulvey’s first name.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4565431/James-joyce-ulysses-chap-18-penelope/What-was-his-name",
+    "original_id": "4565431",
+    "referent_id": 4565431,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "what was his name",
+    "prefix": "buttoned him and took his out and drew back the skin it had a 1961#760kind of eye in it theyre all Buttons men down the middle on the wrong side of them Molly darling he called me ",
+    "suffix": " Jack Joe Harry Mulvey was it yes I think a lieutenant he was rather fair he had a laughing kind of a voice so I went round to the whatyoucallit everything was whatyoucallit mousta",
+    "start": 60831,
+    "end": 60848,
+    "canonical_text": "what was his name"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4565431,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

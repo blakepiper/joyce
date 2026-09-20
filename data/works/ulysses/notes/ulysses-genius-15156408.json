@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15156408",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Coneymantle",
+  "html_source": "<p>A mantle is itself a cloak or shawl, but can also be a generic term meaning covering. Thus, this likely means “rabbit fur”, modifying the antecedents.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15156408/James-joyce-ulysses-chap-15-circe/Coneymantle",
+    "original_id": "15156408",
+    "referent_id": 15156408,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "coneymantle",
+    "prefix": "sink time. He offered to send me through the post a work of fiction by Monsieur Paul de Kock, entitled The Girl with the Three Pairs of Stays. \n\n MRS BELLINGHAM \n\n(In cap and seal ",
+    "suffix": ", wrapped up to the nose, steps out of her brougham and scans through tortoiseshell quizzing-1961#465glasses which she takes from inside her huge opossum muff.) Also to me. Yes, I ",
+    "start": 51791,
+    "end": 51803,
+    "canonical_text": "coney mantle"
+  },
+  "provenance": {
+    "match_method": "compact-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 15156408,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8217163",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "—For England...",
+  "html_source": "<p>Song by John Braham from the opera ‘The Americans’ (1811)</p><blockquote><p>For England, home, and beauty!<br />He cried, as ‘midst the fire he ran:<br />'England shall find that every man<br />This day will do his duty!’</p></blockquote><p>(<a href=\"https://www.youtube.com/watch?v=rswNerDQaHc\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=rswNerDQaHc</a>)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8217163/James-joyce-ulysses-chap-10-wandering-rocks/For-england",
+    "original_id": "8217163",
+    "referent_id": 8217163,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "—For England...",
+    "prefix": "und MacConnell's corner, skirting Rabaiotti's icecream car, and jerked himself up Eccles street. Towards Larry O'Rourke, in shirtsleeves in his doorway, he growled unamiably: \n\n — ",
+    "suffix": " \n\n He swung himself violently forward past Katey and Boody Dedalus, halted and growled: \n\n — home and beauty. \n\n J. J. O'Molloy's white careworn face was told that Mr Lambert was ",
+    "start": 14128,
+    "end": 14142,
+    "canonical_text": "For England..."
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9793
+  },
+  "genius": {
+    "referent_id": 8217163,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1520984,
+        "login": "RedSwanHotel",
+        "name": "RedSwanHotel",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

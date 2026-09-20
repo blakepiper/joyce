@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8108199",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Books you were going to write with letters for titles. Have you read his F? O yes, but I prefer Q. Yes, but W is wonderful. O yes, W.",
+  "html_source": "<p>Reminds of Aristotles Metaphysics which is also organized in Books from A to N.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8108199/James-joyce-ulysses-chap-3-proteus/Books-you-were-going-to-write-with-letters-for-titles-have-you-read-his-f-o-yes-but-i-prefer-q-yes-but-w-is-wonderful-o-yes-w",
+    "original_id": "8108199",
+    "referent_id": 8108199,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Books you were going to write with letters for titles. Have you read his F? O yes, but I prefer Q. Yes, but W is wonderful. O yes, W.",
+    "prefix": " night, eh? I was young. You bowed to yourself in the mirror, stepping forward to applause earnestly, striking face. Hurray for the Goddamned idiot! Hray! No-one saw: tell no-one. ",
+    "suffix": " Remember your epiphanies on green oval leaves, deeply deep, copies to be sent if you died to all the great libraries of the world, including Alexandria? Someone was to read them t",
+    "start": 8547,
+    "end": 8687,
+    "canonical_text": "Books you were going to write with letters for titles. Have you read his 1922#40F? O yes, but I prefer Q. Yes, but W is wonderful. O yes, W."
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9744
+  },
+  "genius": {
+    "referent_id": 8108199,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2433053,
+        "login": "vajkonny",
+        "name": "vajkonny",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

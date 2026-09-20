@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795400",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Don’t want your custom",
+  "html_source": "<p>custom:  BRITISH<br />regular dealings with a shop or business by customers.<br />“if you keep me waiting, I will take my custom elsewhere”<br />No one wants the hear that a cemetary wants their custom.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795400/James-joyce-ulysses-chap-6-hades/Dont-want-your-custom",
+    "original_id": "8795400",
+    "referent_id": 8795400,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "don't want your custom",
+    "prefix": " \n\n Mr O'Connell shook all their hands in silence. Mr Dedalus said: \n\n — I am come to pay you another visit. \n\n1961#106\n\n — My dear Simon, the caretaker answered in a low voice. I ",
+    "suffix": " at all. \n\n1932#95\n\n Saluting Ned Lambert and John Henry Menton he walked on at Martin Cunningham's side puzzling two long keys at his back. \n\n — Did you hear that one, he asked th",
+    "start": 42518,
+    "end": 42540,
+    "canonical_text": "don't want your custom"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8795400,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

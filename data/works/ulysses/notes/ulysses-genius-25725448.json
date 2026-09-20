@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-25725448",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Its hard to believe in it though unless it really happened to me",
+  "html_source": "<p>Molly reflects on her description of “real love” and the naivety of her daughter, considering herself to be very knowledgeable in life experiences. She thinks real love is “hard to believe” because she thinks she has never truly experienced it herself, despite her many love affairs over the years. Molly has not received what she needs emotionally from any of the lovers in her life, leading her to believe that she has yet to experience any kind of real love.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/25725448/James-joyce-ulysses-chap-18-penelope/Its-hard-to-believe-in-it-though-unless-it-really-happened-to-me",
+    "original_id": "25725448",
+    "referent_id": 25725448,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "its hard to believe in it though unless it really happened to me",
+    "prefix": "reakfast dinner and supper I thought to myself afterwards it must be real love if a man gives up his life for her that way for nothing I suppose there are a few men like that left ",
+    "suffix": " the majority of them with not a particle of love in their natures to find two people like that nowadays full up of each other that would feel the same way as you do theyre usually",
+    "start": 78574,
+    "end": 78638,
+    "canonical_text": "its hard to believe in it though unless it really happened to me"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 25725448,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 16655249,
+        "login": "EmmaMargerum",
+        "name": "EmmaMargerum",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

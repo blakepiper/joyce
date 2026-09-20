@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1872195",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "How are you blowing?",
+  "html_source": "<p>Another pun to add to the litany in this chapter – Joyce as paronomasiac runs riot here – a play on Dublin slang for ‘How’s it going?’ combined with a reference to the gale in the Odyssey that strands them on the Cyclops' shore.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1872195/James-joyce-ulysses-chap-12-cyclops/How-are-you-blowing",
+    "original_id": "1872195",
+    "referent_id": 1872195,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "How are you blowing?",
+    "prefix": " he near drove his gear into my eye. I turned around to let him have the weight of my tongue when who should I see dodging along Stony Batter only Joe Hynes. \n\n — Lo, Joe, says I. ",
+    "suffix": " Did you see that bloody chimneysweep near shove my eye out with his brush? \n\n — Soot's luck, says Joe. Who's the old ballocks you were talking to? \n\n — Old Troy, says I, was in th",
+    "start": 337,
+    "end": 357,
+    "canonical_text": "How are you blowing?"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1872195,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 211351,
+        "login": "prepski",
+        "name": "prepski",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

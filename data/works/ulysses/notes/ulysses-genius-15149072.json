@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15149072",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Algate",
+  "html_source": "<p><a href=\"https://en.wiktionary.org/wiki/algate\" rel=\"noopener nofollow\">Algate</a> is an obsolete term from Old Norse meaning “always” (or less commonly, anyway or altogether).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15149072/James-joyce-ulysses-chap-14-oxen-of-the-sun/Algate",
+    "original_id": "15149072",
+    "referent_id": 15149072,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "algate",
+    "prefix": "gh him answered that O'Hare Doctor in heaven was. Sad was the man that word to hear that him so heavied in bowels ruthful. All she there told him, ruing death for friend so young, ",
+    "suffix": " sore unwilling God's rightwiseness to withsay. She said that he had a fair sweet death through God His goodness with masspriest to be shriven, holy housel and sick men's oil to hi",
+    "start": 6743,
+    "end": 6749,
+    "canonical_text": "algate"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15149072,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

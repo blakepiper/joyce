@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8871484",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Mud Island",
+  "html_source": "<p>Ballybough is an inner city district of north east Dublin city, Ireland. The term Bailebough in Irish is derived from the ‘Baile’ Town and ‘Bocht’ meaning ‘poor’. Prior to its urbanization in the late nineteenth century, Ballybough was known as Mud Island, owing to its proximity to the mud flats that now form Fairview and environs. In 2013, Dublin City Councillor Nial Ring started a controversial campaign to change the official Irish name from Baile Bocht to Baile Bog, on the grounds that ‘Poor Town’ was insulting to the residents.</p><p><img src=\"https://images.rapgenius.com/2ee89206853a7be44f663ccf59ebf812.1000x500x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8871484/James-joyce-ulysses-chap-10-wandering-rocks/Mud-island",
+    "original_id": "8871484",
+    "referent_id": 8871484,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Mud Island",
+    "prefix": " church, north William street, on to Newcomen bridge. \n\n At Newcomen bridge Father Conmee stepped into an outward bound tram for he disliked to traverse on foot the dingy way past ",
+    "suffix": ". \n\n Father Conmee sat in a corner of the tramcar, a blue ticket tucked with care in the eye of one plump kid glove, while four shillings, a sixpence and five pennies chuted from h",
+    "start": 7119,
+    "end": 7129,
+    "canonical_text": "Mud Island"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8871484,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

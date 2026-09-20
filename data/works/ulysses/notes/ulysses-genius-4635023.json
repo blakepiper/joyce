@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4635023",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Peckish",
+  "html_source": "<p>hungry.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4635023/James-joyce-ulysses-chap-4-calypso/Peckish",
+    "original_id": "4635023",
+    "referent_id": 4635023,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "peckish",
+    "prefix": "the kitchen softly, righting her breakfast things on the humpy tray. Gelid light and air were in the kitchen but out of doors gentle summer morning everywhere. Made him feel a bit ",
+    "suffix": ". \n\n The coals were reddening. \n\n Another slice of bread and butter : three, four : right. She didn't like her plate full. Right. He turned from the tray, lifted the kettle off the",
+    "start": 543,
+    "end": 550,
+    "canonical_text": "peckish"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4635023,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

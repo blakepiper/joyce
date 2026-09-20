@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13764779",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Rathe",
+  "html_source": "<p>rathe – Obsolete (from AngloSaxon): “quickly, speedily.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13764779/James-joyce-ulysses-chap-14-oxen-of-the-sun/Rathe",
+    "original_id": "13764779",
+    "referent_id": 13764779,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "rathe",
+    "prefix": "reland's westward welkin. Full she dread that God the Wreaker all mankind would fordo with water for his evil sins. Christ's rood made she on breastbone and him drew that he would ",
+    "suffix": " infare under her thatch. That man her will wotting worthful went in Horne's house. \n\n Loth to irk in Horne's hall hat holding the seeker stood. On her stow he ere was living with ",
+    "start": 5819,
+    "end": 5824,
+    "canonical_text": "rathe"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 13764779,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

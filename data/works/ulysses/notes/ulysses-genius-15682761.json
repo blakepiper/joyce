@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15682761",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Waterbutt",
+  "html_source": "<p>A barrel to collect rainwater.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15682761/James-joyce-ulysses-chap-17-ithaca/Waterbutt",
+    "original_id": "15682761",
+    "referent_id": 15682761,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "waterbutt",
+    "prefix": "gentleman's), a sundial shaded and sheltered by laburnum or lilac trees, an exotically harmonically accorded Japanese tinkle gatebell affixed to left lateral gatepost, a capacious ",
+    "suffix": ", a lawnmower with side delivery and grassbox, a lawnsprinkler with hydraulic hose. \n\n1939#503\n\n What facilities of transit were desirable? \n\n When citybound frequent connection by",
+    "start": 98500,
+    "end": 98509,
+    "canonical_text": "waterbutt"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15682761,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 7060080,
+        "login": "keithalt",
+        "name": "keithalt",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8774506",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Windingsheet",
+  "html_source": "<p>noun</p><p>A sheet in which a corpse is wrapped for burial; a shroud.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8774506/James-joyce-ulysses-chap-6-hades/Windingsheet",
+    "original_id": "8774506",
+    "referent_id": 8774506,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "windingsheet",
+    "prefix": "ggermugger in corners. Slop about in slipperslappers for fear he'd wake. Then getting it ready. Laying it out. Molly and Mrs Fleming making the bed. Pull it more to your side. Our ",
+    "suffix": ". Never know who will touch you dead. Wash and shampoo. I believe1932#77 they clip the nails and the hair. Keep a bit in an envelope. Grow all the same after. Unclean job. \n\n All w",
+    "start": 1054,
+    "end": 1066,
+    "canonical_text": "windingsheet"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8774506,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

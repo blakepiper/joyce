@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8803458",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "By the Nilebank",
+  "html_source": "<p>Pharaoh’s Daughter Rescues Moses: Exodus 2</p><p>5 Now the daughter of Pharaoh came down to bathe at the river, while her young women walked beside the river. She saw the basket among the reeds and sent her servant woman, and she took it.</p><p>6 When she opened it, she saw the child, and behold, the baby was crying. She took pity on him and said, “This is one of the Hebrews’ children.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8803458/James-joyce-ulysses-chap-7-aeolus/By-the-nilebank",
+    "original_id": "8803458",
+    "referent_id": 8803458,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "By the Nilebank",
+    "prefix": " waters of the known globe. You have but emerged from primitive conditions: we have a literature, a priesthood, an agelong history and a polity. \n\n Nile. \n\n Child, man, effigy. \n\n ",
+    "suffix": " the babemaries kneel, cradle of bulrushes: a man supple in combat: stonehorned, stonebearded, heart of stone. \n\n— You pray to a local and obscure idol: our temples, majestic and m",
+    "start": 47335,
+    "end": 47350,
+    "canonical_text": "By the Nilebank"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8803458,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

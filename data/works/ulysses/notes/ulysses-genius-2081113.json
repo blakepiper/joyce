@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2081113",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Our worthy acquaintance",
+  "html_source": "<p>This section (from “Our worthy acquaintance” to “larum in the antechamber”) is written in the style of <a href=\"http://en.wikipedia.org/wiki/Joseph_Addison\" rel=\"noopener nofollow\">Joseph Addison</a> and <a href=\"http://en.wikipedia.org/wiki/Richard_Steele\" rel=\"noopener nofollow\">Richard Steele</a>, two Irish writers known for their essays in <a href=\"http://en.wikipedia.org/wiki/Tatler_%281709_journal%29\" rel=\"noopener nofollow\"><em>The Tatler</em></a> and <a href=\"http://en.wikipedia.org/wiki/The_Spectator_%281711%29\" rel=\"noopener nofollow\"><em>The Spectator</em></a>.</p><p><img src=\"https://images.genius.com/e21f9ed1ca913968ae6fad1b5a36e77a.220x296x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2081113/James-joyce-ulysses-chap-14-oxen-of-the-sun/Our-worthy-acquaintance",
+    "original_id": "2081113",
+    "referent_id": 2081113,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Our worthy acquaintance",
+    "prefix": "n of America. Which was the occasion, says Mr Vincent, of the composing by a boatswain of that rollicking chanty: \n\n— Pope Peter's but a pissabed. \n\n A man's a man for a' that. \n\n ",
+    "suffix": ", Mr Malachi Mulligan, now appeared in the 1922#382doorway as the students were finishing their apologue accompanied with a friend whom he had just rencountered, a young gentleman,",
+    "start": 46756,
+    "end": 46779,
+    "canonical_text": "Our worthy acquaintance"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2081113,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

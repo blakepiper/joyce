@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15126274",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Kathleen ni Houlihan",
+  "html_source": "<p>Mythical symbol of Irish nationalism, sometimes of Ireland personified; generally depicted as an old woman who needs the help of Ireland’s youth to free the country from colonial rule.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15126274/James-joyce-ulysses-chap-12-cyclops/Kathleen-ni-houlihan",
+    "original_id": "15126274",
+    "referent_id": 15126274,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Kathleen ni Houlihan",
+    "prefix": "ships. But those that came to the land of the free remember the land of bondage. And they will come again and with a vengeance, no cravens, the sons of Granuaile, the champions of ",
+    "suffix": ". \n\n — Perfectly true, says Bloom. But my point was... \n\n1986#270\n\n — We are a long time waiting for that day, citizen, says Ned. Since the poor old woman told us that the French w",
+    "start": 88208,
+    "end": 88228,
+    "canonical_text": "Kathleen ni Houlihan"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15126274,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

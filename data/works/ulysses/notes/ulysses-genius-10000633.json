@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-10000633",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Weep not for me, O daughters of Erin",
+  "html_source": "<p>Luke 23:28<br />King James Bible<br />‘But Jesus turning unto them said, Daughters of Jerusalem, weep not for me, but weep for yourselves, and for your children.’</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10000633/James-joyce-ulysses-chap-15-circe/Weep-not-for-me-o-daughters-of-erin",
+    "original_id": "10000633",
+    "referent_id": 10000633,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Weep not for me, O daughters of Erin",
+    "prefix": "general request sets fire to Bloom. Lamentations.) \n\n THE CITIZEN \n\n Thank heaven! \n\n1922#469\n\n BLOOM \n\n(In a seamless garment marked I. H. S. stands upright amid phoenix flames.) ",
+    "suffix": ". \n\n(He exhibits to Dublin reporters traces of burning. The daughters of Erin, in black garments, with large prayerbooks and long lighted candles in their hands, kneel down and pra",
+    "start": 96430,
+    "end": 96466,
+    "canonical_text": "Weep not for me, O daughters of Erin"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10000633,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.9642857142857143
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.03571428571428572
+      }
+    ]
+  },
+  "color": "F59627"
+}

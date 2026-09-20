@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15124090",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Ne bail ne mainprise",
+  "html_source": "<p>Without bail and without <a href=\"https://en.wikipedia.org/wiki/Mainprise\" rel=\"noopener nofollow\">guarantee/surety</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15124090/James-joyce-ulysses-chap-12-cyclops/Ne-bail-ne-mainprise",
+    "original_id": "15124090",
+    "referent_id": 15124090,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "ne bail ne mainprise",
+    "prefix": "forth from their donjon keep one whom the sleuthhounds of justice had apprehended in consequence of information received. And they shackled him hand and foot and would take of him ",
+    "suffix": " but preferred a charge against him for he was a malefactor. \n\n — Those are nice things, says the citizen, coming over here to Ireland filling the country with bugs. \n\n So Bloom le",
+    "start": 73191,
+    "end": 73211,
+    "canonical_text": "ne bail ne mainprise"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15124090,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

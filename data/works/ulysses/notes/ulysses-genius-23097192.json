@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23097192",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Giltrap",
+  "html_source": "<p>As we learn later in Nausicaa, Gerty’s grandfather, named Giltrap, owns a dog named Garryowen, the same name as the dog in Cyclops…so the Citizen is plausibly Gerty’s grandfather.</p><p>James J. Giltrap was also the actual owner of a champion dog named Garryowen in Joyce’s time.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23097192/James-joyce-ulysses-chap-13-nausicaa/Giltrap",
+    "original_id": "23097192",
+    "referent_id": 23097192,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Giltrap",
+    "prefix": " truth, as fair a 1986#285specimen of winsome Irish girlhood as one could wish to see. She was pronounced beautiful by all who knew her though, as folks often said, she was more a ",
+    "suffix": " than a MacDowell. Her figure was slight and graceful, inclining even to fragility but those iron jelloids she had been taking of late had done her a world of good much better than",
+    "start": 5288,
+    "end": 5295,
+    "canonical_text": "Giltrap"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 23097192,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

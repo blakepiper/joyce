@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8736650",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Got a short knock",
+  "html_source": "<p>of the gavel-</p><p><img src=\"https://images.rapgenius.com/3f29ff524ded49a5ab7485e9a859ae26.300x258x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8736650/James-joyce-ulysses-chap-4-calypso/Got-a-short-knock",
+    "original_id": "8736650",
+    "referent_id": 8736650,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Got a short knock",
+    "prefix": "ly. Pity. All the way from Gibraltar. Forgotten any little Spanish she knew. Wonder what her father gave for it. Old style. Ah yes! of course. Bought it at the governor's auction. ",
+    "suffix": ". Hard as nails at a bargain, old Tweedy. Yes, sir. At Plevna that was. I rose from the ranks, sir, and I'm proud of it. Still he had brains enough to make that corner in stamps. N",
+    "start": 3780,
+    "end": 3797,
+    "canonical_text": "Got a short knock"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8736650,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

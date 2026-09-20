@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8463619",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Saint Joseph’s church, Portland row",
+  "html_source": "<p>This was a convent in Joyce’s day, no longer in service in the 21st century.</p><p><img src=\"https://images.rapgenius.com/06586d7d6b973233a86adadd3f5b0f0f.668x501x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8463619/James-joyce-ulysses-chap-10-wandering-rocks/Saint-josephs-church-portland-row",
+    "original_id": "8463619",
+    "referent_id": 8463619,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Saint Joseph's church, Portland row",
+    "prefix": "Richmond street. All raised untidy caps. Father Conmee greeted them more than once benignly. Christian brother boys. \n\n Father Conmee smelt incense on his right hand as he walked. ",
+    "suffix": ". For aged and virtuous females. Father 1986#181Conmee raised his hat to the Blessed Sacrament. Virtuous: but occasionally they were also badtempered. \n\n Near Aldborough house Fath",
+    "start": 4916,
+    "end": 4951,
+    "canonical_text": "Saint Joseph's church, Portland row"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8463619,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

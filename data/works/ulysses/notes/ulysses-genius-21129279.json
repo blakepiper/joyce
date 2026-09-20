@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21129279",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "He kills his mother but he can’t wear grey trousers.",
+  "html_source": "<p>Stephen Dedalus is based largely on Joyce himself, since he believed he caused his mother’s death by writing and leaving home.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21129279/James-joyce-ulysses-chap-1-telemachus/He-kills-his-mother-but-he-cant-wear-grey-trousers",
+    "original_id": "21129279",
+    "referent_id": 21129279,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "He kills his mother but he can't wear grey trousers.",
+    "prefix": "ell when you're dressed. \n\n — Thanks, Stephen said. I can't wear them if they are grey. \n\n — He can't wear them, Buck Mulligan told his face in the mirror. Etiquette is etiquette. ",
+    "suffix": " \n\n He folded his razor neatly and with stroking palps of fingers felt the smooth skin. \n\n1986#5\n\n Stephen turned his gaze from the sea and to the plump face with its smokeblue mob",
+    "start": 7161,
+    "end": 7213,
+    "canonical_text": "He kills his mother but he can't wear grey trousers."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21129279,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11945345,
+        "login": "Lane-MR",
+        "name": "Lane-MR",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

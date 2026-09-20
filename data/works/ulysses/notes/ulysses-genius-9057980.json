@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-9057980",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Say prunes and prisms",
+  "html_source": "<p>‘Prunes and prisms’: a phrase spoken aloud in order to form the mouth into an attractive shape, from the advice offered by Mrs General in Dickens’s Little Dorrit (1857). From this, the phrase is used allusively to designate a prim and affected speech, look, or manner.</p><p>ELIZABETH KNOWLES. “prunes and prisms.” The Oxford Dictionary of Phrase and Fable. 2006. Encyclopedia.com.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9057980/James-joyce-ulysses-chap-13-nausicaa/Say-prunes-and-prisms",
+    "original_id": "9057980",
+    "referent_id": 9057980,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Say prunes and prisms",
+    "prefix": "t. Like Molly. Why that highclass whore in Jammet's wore her veil only to her nose. Would you mind, please, telling me the right time? I'll tell you the right time up a dark lane. ",
+    "suffix": " forty times every morning, cure for fat lips. Caressing the little boy too. Onlookers see most of the game. Of course they understand birds, animals, babies. In their line. \n\n Did",
+    "start": 63857,
+    "end": 63878,
+    "canonical_text": "Say prunes and prisms"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9057980,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.9836065573770492
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.01639344262295082
+      }
+    ]
+  },
+  "color": "F59627"
+}

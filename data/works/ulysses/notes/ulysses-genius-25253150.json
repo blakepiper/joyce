@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-25253150",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Soapsuddy handkerchief",
+  "html_source": "<p>The lemon soap he purchased in “Lotus Eaters” has been nestled up against his handkerchief since then.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/25253150/James-joyce-ulysses-chap-16-eumaeus/Soapsuddy-handkerchief",
+    "original_id": "25253150",
+    "referent_id": 25253150,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "soapsuddy handkerchief",
+    "prefix": "ly Stephen, always assuming that there was such a thing to be found. Accordingly after a few such preliminaries as brushing, in spite of his having forgotten to take up his rather ",
+    "suffix": " after it had done yeoman service in the shaving line, they both walked together along Beaver street or, more properly, lane as far as the farrier's and the distinctly fetid atmosp",
+    "start": 1379,
+    "end": 1401,
+    "canonical_text": "soapsuddy handkerchief"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 25253150,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

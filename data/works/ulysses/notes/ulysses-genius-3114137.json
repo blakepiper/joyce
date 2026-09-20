@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3114137",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Cousin Stephen, you will never be a saint",
+  "html_source": "<p>Stephen’s inner critical voice mimics a comment of <a href=\"http://poetry.genius.com/artists/John-dryden\" rel=\"noopener nofollow\">John Dryden</a></p><p><img src=\"https://images.rapgenius.com/5f5edac3318dafef7908ad9aebff6e70.593x673x1.jpg\" alt=\"\" /></p><p>to his cousin Jonathan Swift</p><p><img src=\"https://images.rapgenius.com/5d2dc679933dfe7eaed5a8fb31462c47.620x349x1.jpg\" alt=\"\" /></p><p>Religiously and politically opposed, Dryden said ‘Cousin Swift, you will never be a poet’.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3114137/James-joyce-ulysses-chap-3-proteus/Cousin-stephen-you-will-never-be-a-saint",
+    "original_id": "3114137",
+    "referent_id": 3114137,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Cousin Stephen, you will never be a saint",
+    "prefix": "e heard twine with his second bell the first bell in the transept (he is lifting his) and, rising, heard (now I am lifting) their two bells (he is kneeling) twang in diphthong. \n\n ",
+    "suffix": ". Isle of saints. You were awfully holy, weren't you? You prayed to the Blessed Virgin that you might not have a red nose. You prayed to the devil in Serpentine avenue that the fub",
+    "start": 7781,
+    "end": 7822,
+    "canonical_text": "Cousin Stephen, you will never be a saint"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3114137,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

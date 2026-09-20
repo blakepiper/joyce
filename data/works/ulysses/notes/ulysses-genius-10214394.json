@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10214394",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Gopherwood",
+  "html_source": "<p>Gopher is a Hebrew word. Although Noah’s ark was supposedly made of gopherwood, no one knows what it would be called today, perhaps cypress.<br /><a href=\"http://www.christiananswers.net/q-eden/gopherwood.html\" rel=\"noopener nofollow\">http://www.christiananswers.net/q-eden/gopherwood.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10214394/James-joyce-ulysses-chap-15-circe/Gopherwood",
+    "original_id": "10214394",
+    "referent_id": 10214394,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "gopherwood",
+    "prefix": "? Good. \n\n BLOOM \n\n Granpapachi. But... \n\n VIRAG \n\n Number two on the other hand, she of the cherry rouge and coiffeuse white, whose hair owes not a little to our tribal elixir of ",
+    "suffix": ", is in walking costume and tightly staysed by her sit, I should opine. 1932#449Backbone in front, so to say. Correct me but I always understood that the act so performed by skitti",
+    "start": 116226,
+    "end": 116236,
+    "canonical_text": "gopherwood"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10214394,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-10082292",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Assiduous",
+  "html_source": "<p>Assiduous – meticulously persevering.</p><p>Particularly apt usage for a librarian often at the task of reading, since ‘assiduous’ comes from the Latin for ‘to sit down to’ (<em>assidere</em>).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10082292/James-joyce-ulysses-chap-9-scylla-and-charybdis/Assiduous",
+    "original_id": "10082292",
+    "referent_id": 10082292,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "assiduous",
+    "prefix": "nius makes no mistakes. His errors are volitional and are the portals of discovery. \n\n Portals of discovery opened to let in the quaker librarian, softcreakfooted, bald, eared and ",
+    "suffix": ". \n\n — A shrew, John Eglinton said shrewdly, is not a useful portal of discovery, one should imagine. What useful discovery did Socrates learn from Xanthippe? \n\n1922#182\n\n — Dialec",
+    "start": 12805,
+    "end": 12814,
+    "canonical_text": "assiduous"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10082292,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2290917,
+        "login": "Reb_2015",
+        "name": "Reb_2015",
+        "role": null,
+        "attribution": 0.7037037037037037
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.2962962962962963
+      }
+    ]
+  },
+  "color": "F59627"
+}

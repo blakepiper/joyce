@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8465695",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Principes persecuti sunt me gratis: et a verbis tuis formidavit cor meum",
+  "html_source": "<p>“Princes have persecuted me without cause: and my heart standeth in awe of thy words.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8465695/James-joyce-ulysses-chap-10-wandering-rocks/Principes-persecuti-sunt-me-gratis-et-a-verbis-tuis-formidavit-cor-meum",
+    "original_id": "8465695",
+    "referent_id": 8465695,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Principes persecuti sunt me gratis: et a verbis tuis formidavit cor meum",
+    "prefix": " the young woman abruptly bent and with slow care detached from her light skirt a clinging twig. \n\n Father Conmee blessed both gravely and turned a thin page of his breviary. Sin: ",
+    "suffix": ". \n\n*\n*  *\n \n\n Corny Kelleher closed his long daybook and glanced with his drooping eye at a pine coffinlid sentried in a corner. He pulled himself erect, went 1932#201to it and, s",
+    "start": 12753,
+    "end": 12825,
+    "canonical_text": "Principes persecuti sunt me gratis: et a verbis tuis formidavit cor meum"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8465695,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15120649",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "God blimey if she ain’t a clinker, that there bleeding tart. Blimey it makes me kind of bleeding cry, straight, it does, when I sees her cause I thinks of my old mashtub what’s waiting for me down Limehouse way.",
+  "html_source": "<p>Sounded a bit negative to my modern ear, but apparently “clinker” is slang for a good looking woman, “tart” simply meant a young woman, “mashtub” is wife, and “Limehouse way” refers to inner London.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15120649/James-joyce-ulysses-chap-12-cyclops/God-blimey-if-she-aint-a-clinker-that-there-bleeding-tart-blimey-it-makes-me-kind-of-bleeding-cry-straight-it-does-when-i-sees-her-cause-i-thinks-of-my-old-mashtub-whats-waiting-for-me-down-limehouse-way",
+    "original_id": "15120649",
+    "referent_id": 15120649,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "God blimey if she ain't a clinker, that there bleeding tart. Blimey it makes me kind of bleeding cry, straight, it does, when I sees her cause I thinks of my old mashtub what's waiting for me down Limehouse way.",
+    "prefix": "t he brushed away a furtive tear and was overheard, by those privileged burghers who happened to be in his immediate entourage, to murmur to himself in a faltering undertone: \n\n — ",
+    "suffix": ". \n\n So then the citizen begins talking about the Irish language and the corporation meeting and all to that and the shoneens that can't speak their own language and Joe chipping i",
+    "start": 43779,
+    "end": 43988,
+    "canonical_text": "God blimey if she aint a clinker, that there bleeding tart. Blimey it makes me kind of bleeding cry, straight, it does, when I sees her cause I thinks of my old mashtub what's waiting for me down Limehouse way"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 15120649,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

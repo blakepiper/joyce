@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5110790",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Costdrawer",
+  "html_source": "<p>A cost accountant</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5110790/James-joyce-ulysses-chap-6-hades/Costdrawer",
+    "original_id": "5110790",
+    "referent_id": 5110790,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "costdrawer",
+    "prefix": "Mulligan cad with him? His fidus Achates! \n\n — No, Mr Bloom said. He was alone. \n\n — Down with his aunt Sally, I suppose, Mr Dedalus said, the Goulding faction, the drunken little ",
+    "suffix": " and Crissie, papa's little lump of dung, the wise child that knows her own father. \n\n Mr Bloom smiled joylessly on Ringsend road. Wallace Bros the bottleworks. Dodder bridge. \n\n R",
+    "start": 3069,
+    "end": 3079,
+    "canonical_text": "costdrawer"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5110790,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

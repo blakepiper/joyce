@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15164517",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Bit tern",
+  "html_source": "<p>Should read “<a href=\"https://en.wikipedia.org/wiki/Bittern\" rel=\"noopener nofollow\">bittern</a>”, i.e., the heron-like bird.</p><p><img src=\"https://images.genius.com/b1feeac9cfa7669c939ded82af0e8243.866x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15164517/James-joyce-ulysses-chap-15-circe/Bit-tern",
+    "original_id": "15164517",
+    "referent_id": 15164517,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "bit tern",
+    "prefix": "61#577\n\n KITTY \n\n(Jumps up.) O, they played that on the hobbyhorses at the Mirus bazaar! \n\n1939#406\n\n(She runs to Stephen. He leaves Florry brusquely and seizes Kitty. A screaming ",
+    "suffix": "'s harsh high whistle shrieks. Groangrousegurgling Toft's cumbersome whirligig turns slowly the room right roundabout the room.) \n\n THE PIANOLA \n\n My girl's a Yorkshire girl. \n\n198",
+    "start": 201549,
+    "end": 201556,
+    "canonical_text": "bittern"
+  },
+  "provenance": {
+    "match_method": "compact-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 15164517,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

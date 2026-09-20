@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9135211",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Sutler",
+  "html_source": "<p>noun  historical<br />a person who followed an army and sold provisions to the soldiers</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9135211/James-joyce-ulysses-chap-14-oxen-of-the-sun/Sutler",
+    "original_id": "9135211",
+    "referent_id": 9135211,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "sutler",
+    "prefix": "t he took the bit between his teeth like a raw colt and was more familiar with the justiciary and the parish beadle than with his volumes. One time he would be a playactor, then a ",
+    "suffix": " or a welsher, then nought would keep him from the bearpit and the cocking main, then he was for the ocean sea or to foot it on the roads with the Romany folk, kidnapping a squire'",
+    "start": 40064,
+    "end": 40070,
+    "canonical_text": "sutler"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9135211,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10121507",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Halberdier",
+  "html_source": "<p><img src=\"https://images.genius.com/ea38f6d502fc7f1706f03393fe9a90dd.372x640x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10121507/James-joyce-ulysses-chap-15-circe/Halberdier",
+    "original_id": "10121507",
+    "referent_id": 10121507,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "halberdier",
+    "prefix": "e troops. Isn't that history? Royal Dublin Fusiliers. Honoured by our monarch. \n\n THE NAVVY \n\n(Staggering past.) O, yes! O God, yes! O, make the kwawr a krowawr! O! Bo! \n\n(Casqued ",
+    "suffix": "s in armour thrust forward a pentice of gutted spearpoints. Major Tweedy, moustached like Turko the terrible, in 1986#486bearskin 1922#553cap with hackleplume and accoutrements, wi",
+    "start": 224315,
+    "end": 224325,
+    "canonical_text": "halberdier"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10121507,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

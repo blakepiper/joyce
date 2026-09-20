@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-2607477",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Ferme.",
+  "html_source": "<p>French for <em>Closed</em>.</p><p>ACCEPTED SUGGESTION: This should in fact read Fermé. The acute accent is missing from this internet version, see the original text.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2607477/James-joyce-ulysses-chap-3-proteus/Ferme",
+    "original_id": "2607477",
+    "referent_id": 2607477,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Ferme.",
+    "prefix": "ed. With mother's money order, eight shillings, the banging door of the post office slammed in your face by the usher. Hunger toothache. Encore deux minutes. Look clock. Must get. ",
+    "suffix": " Hired dog! Shoot him to bloody bits with a bang shotgun, bits man spattered walls all brass buttons. Bits all khrrrrklak in place clack back. Not hurt? O, that's all right. Shake ",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.7273
+  },
+  "genius": {
+    "referent_id": 2607477,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1618748,
+        "login": "Kataryna",
+        "name": "Kataryna",
+        "role": "contributor",
+        "attribution": 0.8275862068965517
+      },
+      {
+        "id": 293151,
+        "login": "jeeho",
+        "name": "Jeeho",
+        "role": "contributor",
+        "attribution": 0.10344827586206896
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.06896551724137931
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

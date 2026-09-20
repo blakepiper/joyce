@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8362810",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Afflatus",
+  "html_source": "<p>“Afflatus” means inspiration: an impelling mental force acting from within; Divine communication of knowledge.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8362810/James-joyce-ulysses-chap-7-aeolus/Afflatus",
+    "original_id": "8362810",
+    "referent_id": 8362810,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "afflatus",
+    "prefix": "ransfigured and of soultransfiguring deserves to live, deserves to live. \n\n His slim hand with a wave graced echo and fall. \n\n — Fine! Myles Crawford said at once. \n\n — The divine ",
+    "suffix": ", Mr O'Madden Burke said. \n\n — You like it? J. J. O'Molloy asked Stephen. \n\n Stephen, his blood wooed by grace of language and gesture, blushed. He took a cigarette from the case. ",
+    "start": 42634,
+    "end": 42642,
+    "canonical_text": "afflatus"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8362810,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

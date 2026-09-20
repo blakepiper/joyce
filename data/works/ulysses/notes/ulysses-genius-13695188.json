@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-13695188",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Couth",
+  "html_source": "<p><a href=\"https://en.wiktionary.org/wiki/couth\" rel=\"noopener nofollow\">Couth</a> is a Middle English term (now archaic) meaning familiar, known, or renowned.</p><p>Full etymology (wiktionary): From Middle English couth, from Old English cūþ (“known, plain, manifest, certain, well known, usual, noted, excellent, famous, intimate, familiar, friendly, related”), from Proto-Germanic <em>kunþaz (“known”), from Proto-Indo-European </em>ǵneh₃- (“to know”). Cognate with Scots couth (“known, familiar”), Saterland Frisian cut (“known”), Dutch kond (“known”), German kund (“known”), Icelandic kuðr, kunnur (“known”), Gothic 𐌺𐌿𐌽𐌸𐍃 (kunþs, “known”), Latin gnosco (“to know”). Doublet of could.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13695188/James-joyce-ulysses-chap-14-oxen-of-the-sun/Couth",
+    "original_id": "13695188",
+    "referent_id": 13695188,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "couth",
+    "prefix": "ed them a mickle noise as of many that sat there at meat. And there 1986#316came against the place as they stood a young learningknight yclept Dixon. And the traveller Leopold was ",
+    "suffix": " to him sithen it had happed that they had had ado each with other in the house of misericord where this learningknight lay by cause the traveller Leopold came there to be 1932#349",
+    "start": 8625,
+    "end": 8630,
+    "canonical_text": "couth"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13695188,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 0.9620253164556962
+      },
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 0.0379746835443038
+      }
+    ]
+  },
+  "color": "F59627"
+}

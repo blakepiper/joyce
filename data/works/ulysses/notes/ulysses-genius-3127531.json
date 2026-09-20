@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3127531",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "The",
+  "html_source": "<p><a href=\"http://www.columbia.edu/~fms5/ulys.htm\" rel=\"noopener nofollow\">External narrative</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3127531/James-joyce-ulysses-chap-3-proteus/The",
+    "original_id": "3127531",
+    "referent_id": 3127531,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "The",
+    "prefix": "a mahamanvantara. Pico della Mirandola like. Ay, very like a whale. When 1939#32one reads these strange pages of one long gone one feels that one is at one with one who once... \n\n ",
+    "suffix": " grainy sand had gone from under his feet. His boots trod again a damp crackling mast, razorshells, squeaking pebbles, 1961#40that on the 1932#37unnumbered pebbles beats, wood siev",
+    "start": 9080,
+    "end": 9083,
+    "canonical_text": "The"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9384
+  },
+  "genius": {
+    "referent_id": 3127531,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

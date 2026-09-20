@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-24417334",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Wildgoose chase",
+  "html_source": "<p>Joyce puts the space in between goose and chase instead of wild and goose. Changes the meaning in way that would be impossible if performed in a real play.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/24417334/James-joyce-ulysses-chap-15-circe/Wildgoose-chase",
+    "original_id": "24417334",
+    "referent_id": 24417334,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Wildgoose chase",
+    "prefix": "d free our native land. \n\n1961#451\n\n(He staggers forward, dragging them with him. Bloom stops, at fault. The dog approaches, his tongue outlolling, panting.) \n\n1932#404\n\n BLOOM \n\n ",
+    "suffix": " this. Disorderly houses. Lord knows where they are gone. Drunks cover distance double quick. Nice mixup. Scene at Westland row. Then jump in first class with third ticket. Then to",
+    "start": 30034,
+    "end": 30049,
+    "canonical_text": "Wildgoose chase"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 24417334,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 10526289,
+        "login": "satchlj",
+        "name": "satchlj",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8871299",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Arecanut paste",
+  "html_source": "<p>Areca Nut toothpaste, sold in Europe during the late 19th century, was made from the pulverised charcoal of betel nuts, also known as areca nuts. While the toothpaste turned teeth black during use, it reduced the incidence of dental decay.</p><p><img src=\"https://images.rapgenius.com/f907da0743c813bee1ed901c9bbde6b5.637x640x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8871299/James-joyce-ulysses-chap-10-wandering-rocks/Arecanut-paste",
+    "original_id": "8871299",
+    "referent_id": 8871299,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "arecanut paste",
+    "prefix": "e doffed his silk hat and smiled, as he took leave, at the jet beads of her mantilla inkshining in the sun. And smiled yet again, in going. He had cleaned his teeth, he knew, with ",
+    "suffix": ". \n\n Father Conmee walked and, walking, smiled for he thought on Father Bernard Vaughan's droll eyes and cockney voice. \n\n — Pilate! Wy don't you old back that owlin mob? \n\n1986#18",
+    "start": 2086,
+    "end": 2100,
+    "canonical_text": "arecanut paste"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8871299,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

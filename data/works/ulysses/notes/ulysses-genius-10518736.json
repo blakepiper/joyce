@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10518736",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "And you can see the darkness in their eyes.",
+  "html_source": "<p>Interesting comparison with Stephen’s earlier thoughts on darkness and relation to Maimonedes.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10518736/James-joyce-ulysses-chap-2-nestor/And-you-can-see-the-darkness-in-their-eyes",
+    "original_id": "10518736",
+    "referent_id": 10518736,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "And you can see the darkness in their eyes.",
+    "prefix": " halted. \n\n1922#331961#33\n\n — A merchant, Stephen said, is one who buys cheap and sells dear, jew or gentile, is he not? \n\n — They sinned against the light, Mr Deasy said gravely. ",
+    "suffix": " And that is why they are wanderers on the earth to this day. \n\n On the steps of the Paris stock exchange the goldskinned men quoting prices on their gemmed fingers. Gabble of gees",
+    "start": 20868,
+    "end": 20911,
+    "canonical_text": "And you can see the darkness in their eyes."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10518736,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

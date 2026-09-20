@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8484919",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Master Patrick Aloysius Dignam came out of Mangan’s, late Fehrenbach’s, carrying a pound and a half of porksteaks.",
+  "html_source": "<p>This is another one-sentence intrusion.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8484919/James-joyce-ulysses-chap-10-wandering-rocks/Master-patrick-aloysius-dignam-came-out-of-mangans-late-fehrenbachs-carrying-a-pound-and-a-half-of-porksteaks",
+    "original_id": "8484919",
+    "referent_id": 8484919,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Master Patrick Aloysius Dignam came out of Mangan's, late Fehrenbach's, carrying a pound and a half of porksteaks.",
+    "prefix": "I'll tell you a damn good one about comets' tails, he said. Come over in the sun. \n\n They crossed to the metal bridge and went along Wellington quay by the riverwall. \n\n1961#233\n\n ",
+    "suffix": " \n\n — There was a big spread out at Glencree reformatory, Lenehan said eagerly. The annual dinner, you know. Boiled shirt affair. The lord mayor was there, Val Dillon it was, and s",
+    "start": 30328,
+    "end": 30442,
+    "canonical_text": "Master Patrick Aloysius Dignam came out of Mangan's, late Fehrenbach's, carrying a pound and a half of porksteaks."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8484919,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8421377",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Pippin",
+  "html_source": "<p>Pippin – a red and yellow dessert apple.<br />A play on Original Sin &amp; eating of forbidden fruit.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8421377/James-joyce-ulysses-chap-14-oxen-of-the-sun/Pippin",
+    "original_id": "8421377",
+    "referent_id": 8421377,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "pippin",
+    "prefix": "th Augustine too, whereas that other, our grandam, which we are linked 1922#373up with by successive anastomosis of navelcords sold us all, seed, breed and generation, for a penny ",
+    "suffix": ". But here is the matter now. Or she knew him, 1939#282that second I say, and was but creature of her creature, vergine madre figlia di tuo figlio or she knew him not and then stan",
+    "start": 21484,
+    "end": 21490,
+    "canonical_text": "pippin"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8421377,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9042431",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Gerty MacDowell",
+  "html_source": "<p>Is Gerty the modern woman?<br /><a href=\"https://notekeeping.wordpress.com/2014/02/26/art-thou-real-my-ideal-james-joyces-ulysses/\" rel=\"noopener nofollow\">https://notekeeping.wordpress.com/2014/02/26/art-thou-real-my-ideal-james-joyces-ulysses/</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9042431/James-joyce-ulysses-chap-13-nausicaa/Gerty-macdowell",
+    "original_id": "9042431",
+    "referent_id": 9042431,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Gerty MacDowell",
+    "prefix": "amiss and she whispered to Edy Boardman to take him there behind the pushcar where the gentlemen couldn't see and to mind he didn't wet his new tan shoes. \n\n But who was Gerty? \n\n ",
+    "suffix": " who was seated near her companions, lost in thought, gazing far away into the distance was, in very truth, as fair a 1986#285specimen of winsome Irish girlhood as one could wish t",
+    "start": 4993,
+    "end": 5008,
+    "canonical_text": "Gerty MacDowell"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9601
+  },
+  "genius": {
+    "referent_id": 9042431,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4680871",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Bald he was and a millionaire",
+  "html_source": "<p>Medieval urban myths of Aristotle (Gifford).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4680871/James-joyce-ulysses-chap-3-proteus/Bald-he-was-and-a-millionaire",
+    "original_id": "4680871",
+    "referent_id": 4680871,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Bald he was and a millionaire",
+    "prefix": " coloured signs. Limits of the diaphane. But he adds: in bodies. Then he was aware of them bodies before of them coloured. How? By knocking his sconce against them, sure. Go easy. ",
+    "suffix": ", maestro di color che sanno. Limit of the diaphane in. Why in? Diaphane, adiaphane. If you can put your five fingers through it it is a gate, if not a door. Shut your eyes and see",
+    "start": 408,
+    "end": 437,
+    "canonical_text": "Bald he was and a millionaire"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4680871,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

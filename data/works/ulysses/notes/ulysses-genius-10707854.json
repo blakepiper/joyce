@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10707854",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "New York disaster",
+  "html_source": "<p><a href=\"https://www.nypl.org/blog/2011/06/13/great-slocum-disaster-june-15-1904\" rel=\"noopener nofollow\">https://www.nypl.org/blog/2011/06/13/great-slocum-disaster-june-15-1904</a><br />The sinking where 1024 died on the day prior to Bloomsday.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10707854/James-joyce-ulysses-chap-16-eumaeus/New-york-disaster",
+    "original_id": "10707854",
+    "referent_id": 10707854,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "New York disaster",
+    "prefix": "ration Swindle. Letter from His Grace 1986#528William ✠. Ascot Throwaway recalls Derby of '92 when Captain Marshall's dark horse, Sir Hugo, captured the blue ribband at long odds. ",
+    "suffix": ", thousand lives lost. Foot and Mouth. Funeral of the late Mr Patrick Dignam. \n\n1922#601\n\n So to change the subject he read about Dignam, R. I. P. which, he reflected, was anything",
+    "start": 85121,
+    "end": 85138,
+    "canonical_text": "New York disaster"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10707854,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

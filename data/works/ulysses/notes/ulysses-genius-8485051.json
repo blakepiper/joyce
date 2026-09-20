@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8485051",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Sweet chirp",
+  "html_source": "<p>Contrasts with “the gay sweet chirping whistling within” of Molly’s when she opened the window and tossed a coin to a one-legged sailor in Episode 3 of this chapter.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8485051/James-joyce-ulysses-chap-10-wandering-rocks/Sweet-chirp",
+    "original_id": "8485051",
+    "referent_id": 8485051,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "sweet chirp",
+    "prefix": " the rug under her and settling her boa all the time. Know what I mean? \n\n His hands moulded ample curves of air. He shut his eyes tight in delight, his body shrinking, and blew a ",
+    "suffix": " from his lips. \n\n — The lad stood to attention anyhow, he said with a sigh. She's a gamey mare and no mistake. Bloom was pointing out all the stars and the comets in the heavens t",
+    "start": 32294,
+    "end": 32305,
+    "canonical_text": "sweet chirp"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 8485051,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

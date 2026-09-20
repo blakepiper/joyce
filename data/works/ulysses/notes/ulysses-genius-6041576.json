@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-6041576",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Pax",
+  "html_source": "<p>Latin for peace</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6041576/James-joyce-ulysses-chap-12-cyclops/Pax",
+    "original_id": "6041576",
+    "referent_id": 6041576,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "pax",
+    "prefix": "ome where the boose is cheaper. \n\n1922#316\n\n — Well, says J. J. We have Edward the peacemaker now. \n\n — Tell that to a fool, says the citizen. There's a bloody sight more pox than ",
+    "suffix": " about that boyo. Edward Guelph-Wettin! \n\n — And what do you think, says Joe, of the holy boys, the priests and bishops of Ireland doing up his room in Maynooth in His Satanic Maje",
+    "start": 89948,
+    "end": 89951,
+    "canonical_text": "pax"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6041576,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1689524,
+        "login": "LeopoldQ",
+        "name": "LeopoldQ",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

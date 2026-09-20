@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-14268059",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Erect",
+  "html_source": "<p>Not that kind of erect.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/14268059/James-joyce-ulysses-chap-1-telemachus/Erect",
+    "original_id": "14268059",
+    "referent_id": 14268059,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "erect",
+    "prefix": "ligan laid it across his heaped clothes. \n\n — And twopence, he said, for a pint. Throw it there. \n\n Stephen threw two pennies on the soft heap. Dressing, undressing. Buck Mulligan ",
+    "suffix": ", with joined hands before him, said solemnly: \n\n1932#21\n\n — He who stealeth from the poor lendeth to the Lord. Thus spake Zarathustra. \n\n1922#22\n\n His plump body plunged. \n\n — We'",
+    "start": 41003,
+    "end": 41008,
+    "canonical_text": "erect"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 14268059,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 6211543,
+        "login": "sldjkbweucnci",
+        "name": "sldjkbweucnci",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

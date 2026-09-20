@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-2468850",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "The ghost walks, professor MacHugh murmured softly, biscuitfully to the dusty windowpane.",
+  "html_source": "<p>The ghost walks is Professor MacHugh’s way of saying “It’s payday”.</p><p>MacHugh is munching on a biscuit when he says this – “biscuitfully”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2468850/James-joyce-ulysses-chap-7-aeolus/The-ghost-walks-professor-machugh-murmured-softly-biscuitfully-to-the-dusty-windowpane",
+    "original_id": "2468850",
+    "referent_id": 2468850,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "The ghost walks, professor MacHugh murmured softly, biscuitfully to the dusty windowpane.",
+    "prefix": "r came from the Evening Telegraph office. Know who that is. What's up? Pop in a minute to phone. Ned Lambert it is. \n\n He entered softly. \n\n ERIN, GREEN GEM OF THE SILVER SEA \n\n — ",
+    "suffix": " \n\n Mr Dedalus, staring from the empty fireplace at Ned Lambert's quizzing face, asked of it sourly: \n\n — Agonising Christ, wouldn't it give you a heartburn on your arse? \n\n Ned La",
+    "start": 13317,
+    "end": 13406,
+    "canonical_text": "The ghost walks, professor MacHugh murmured softly, biscuitfully to the dusty windowpane."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2468850,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 0.5
+      },
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.5
+      }
+    ]
+  },
+  "color": "F59627"
+}

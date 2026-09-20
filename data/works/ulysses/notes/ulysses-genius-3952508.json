@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3952508",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "That is why mystic monks.",
+  "html_source": "<p>Mystic monks would gaze at their navels, as part of the contemplation process.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3952508/James-joyce-ulysses-chap-3-proteus/That-is-why-mystic-monks",
+    "original_id": "3952508",
+    "referent_id": 3952508,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "That is why mystic monks.",
+    "prefix": " Creation from nothing. What has she in the bag? A misbirth 1961#37with a trailing navelcord, hushed in ruddy wool. The cords of all link back, strandentwining cable of all flesh. ",
+    "suffix": " Will you be as 1939#30gods? Gaze in your omphalos. Hello! Kinch here. Put me on to Edenville. Aleph, alpha: nought, nought, one. \n\n Spouse and helpmate of Adam Kadmon: Heva, naked",
+    "start": 2438,
+    "end": 2463,
+    "canonical_text": "That is why mystic monks."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3952508,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1135238,
+        "login": "Critic94",
+        "name": "Critic94",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

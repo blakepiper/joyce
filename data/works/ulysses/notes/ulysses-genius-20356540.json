@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20356540",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "About",
+  "html_source": "<p>Mistake No. 3.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20356540/James-joyce-ulysses-chap-5-lotus-eaters/About",
+    "original_id": "20356540",
+    "referent_id": 20356540,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "about",
+    "prefix": "61#77of the beautiful name you have. Dear Henry, when will we meet? I think of you so often you have no idea. I have never felt myself so much drawn to a man as you. I feel so bad ",
+    "suffix": ". Please write me a long letter and tell me more. Remember if you do not I 1986#63will punish you. So now you know what I will do to you, you naughty boy, if you do not write. O ho",
+    "start": 15429,
+    "end": 15434,
+    "canonical_text": "about"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.975
+  },
+  "genius": {
+    "referent_id": 20356540,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13787154",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Bewray",
+  "html_source": "<p>archaic: divulge, betray or to reveal or expose.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13787154/James-joyce-ulysses-chap-14-oxen-of-the-sun/Bewray",
+    "original_id": "13787154",
+    "referent_id": 13787154,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "bewray",
+    "prefix": "that lay in man to do. Thereat laughed they all right jocundly only young Stephen and sir Leopold which never durst laugh too open by reason of a strange humour which he would not ",
+    "suffix": " and also for that he rued for her that bare whoso she might be or wheresoever. Then spoke young Stephen orgulous of mother Church that 1961#389would cast him out of her bosom, of ",
+    "start": 16940,
+    "end": 16946,
+    "canonical_text": "bewray"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13787154,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

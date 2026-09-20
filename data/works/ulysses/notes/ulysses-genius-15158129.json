@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15158129",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Aum! Hek! Wal! Ak! Lub! Mor! Ma!",
+  "html_source": "<p>My source has it that these are “root-words of speech, according to George Russell’s theories of the origins of language (e.g., ‘Ma’ is associated with thinking). From Pen. 20 c. Classics Annotated Students Edition.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15158129/James-joyce-ulysses-chap-15-circe/Aum-hek-wal-ak-lub-mor-ma",
+    "original_id": "15158129",
+    "referent_id": 15158129,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Aum! Hek! Wal! Ak! Lub! Mor! Ma!",
+    "prefix": " He is encrusted with weeds and shells. His right hand holds a bicycle pump. His left hand grasps a huge crayfish by its two talons.) \n\n MANANAUN MACLIR \n\n(With a voice of waves.) ",
+    "suffix": " White yoghin of the gods. Occult pimander of Hermes Trismegistos. (With a voice of whistling seawind.) Punarjanam patsypunjaub! I won't have my leg pulled. It has been said by one",
+    "start": 113478,
+    "end": 113510,
+    "canonical_text": "Aum! Hek! Wal! Ak! Lub! Mor! Ma!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15158129,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

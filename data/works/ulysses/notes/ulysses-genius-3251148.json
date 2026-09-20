@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3251148",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Various uses",
+  "html_source": "<p>Pragmatic Bloom at it again !</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3251148/James-joyce-ulysses-chap-7-aeolus/Various-uses",
+    "original_id": "3251148",
+    "referent_id": 3251148,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "various uses",
+    "prefix": "has a touch of jaundice, and beyond the obedient reels feeding in huge webs of paper. Clank it. Clank it. Miles of it unreeled. What becomes of it after? O, wrap up meat, parcels: ",
+    "suffix": ", thousand and one things. \n\n1932#107\n\n Slipping his words deftly into the pauses of the clanking he drew swiftly on the scarred woodwork. \n\n HOUSE OF KEY(E)S \n\n — Like that, see. ",
+    "start": 7610,
+    "end": 7622,
+    "canonical_text": "various uses"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3251148,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

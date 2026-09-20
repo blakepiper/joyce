@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23704654",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Stitch in my side",
+  "html_source": "<p>Exercise-related transient abdominal pain. A pain near the lower ribs that can occur during strenuous exercise. Of uncertain causation. Not a serious condition.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23704654/James-joyce-ulysses-chap-15-circe/Stitch-in-my-side",
+    "original_id": "23704654",
+    "referent_id": 23704654,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Stitch in my side",
+    "prefix": "er a cold sheep's trotter, sprinkled with wholepepper. He gasps, standing upright. Then bending to one side he presses a parcel against his ribs and groans.) \n\n1939#311\n\n BLOOM \n\n ",
+    "suffix": ". Why did I run? \n\n(He takes breath with care and goes forward slowly towards the lampset siding. The glow leaps again.) \n\n1986#354\n\n BLOOM \n\n What is that? A flasher? Searchlight.",
+    "start": 7717,
+    "end": 7734,
+    "canonical_text": "Stitch in my side"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23704654,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

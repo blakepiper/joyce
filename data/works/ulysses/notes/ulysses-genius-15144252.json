@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15144252",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Lutulent",
+  "html_source": "<p>Muddy, turbid, opaque, or thick. Perhaps a Joyce-ism from the Latin lutulentus (“dirty, impure”), itself from lutum (“mud, dirt”)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15144252/James-joyce-ulysses-chap-14-oxen-of-the-sun/Lutulent",
+    "original_id": "15144252",
+    "referent_id": 15144252,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "lutulent",
+    "prefix": "s incorrupted benefaction. For who is there who anything of some significance has apprehended but is conscious that that exterior splendour may be the surface of a downwardtending ",
+    "suffix": " reality or on the contrary anyone so is there inilluminated as not to perceive that as no nature's boon can contend against the bounty of increase so it behoves every most just ci",
+    "start": 1278,
+    "end": 1286,
+    "canonical_text": "lutulent"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15144252,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

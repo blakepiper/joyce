@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10550844",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Damascened with flyblown faces of the gone",
+  "html_source": "<p>From the works of Emile Zola. Described by Don Gifford in ‘Ulysses Annotated: Notes for James Joyce’s Ulysses’:</p><p>“Gervaise Macquart, the protagonist of L'assommoir (The Grog Shop or Gin Mill) (1877), lives in what Zola calls the quartier de la Goutte d'Or and, with her husband, declines into derelection, filth, inanition, and finally death as a result of alcoholism. Her daughter Nana (From Nana, 1880) is born and comes of age in the quartier; she is en route to supreme success as a grand cocotte (prostitute) when she meets a premature, and symbolic, death from small pox. The second to the last paragraph of Nana is a particularly vigorous description of the face of Nana’s corpse, devastated by smallpox as though the ‘virus’ with which she had ‘poisoned a people had mounted into her face and rotted it’ (my translation).”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10550844/James-joyce-ulysses-chap-3-proteus/Damascened-with-flyblown-faces-of-the-gone",
+    "original_id": "10550844",
+    "referent_id": 10550844,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "damascened with flyblown faces of the gone",
+    "prefix": "an of Paris, unsought by any save by me. Making his day's stations, the dingy printingcase, his three taverns, the Montmartre lair he sleeps short night in, rue de la Goutte-d'Or, ",
+    "suffix": ". Loveless, landless, wifeless. She is quite nicey comfy without her outcast man, madame in rue Git-le-Coeur, 1922#43canary and two buck lodgers. Peachy cheeks, a zebra skirt, fris",
+    "start": 15926,
+    "end": 15968,
+    "canonical_text": "damascened with flyblown faces of the gone"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10550844,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

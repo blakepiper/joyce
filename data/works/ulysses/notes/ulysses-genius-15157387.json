@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15157387",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Jerkin",
+  "html_source": "<p>A close-fitting sleeveless garment, typically of leather.</p><p><img src=\"https://images.genius.com/b89892898757743f9917441c2cc6618d.220x309x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15157387/James-joyce-ulysses-chap-15-circe/Jerkin",
+    "original_id": "15157387",
+    "referent_id": 15157387,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "jerkin",
+    "prefix": "men, sgenl inn ban bata coisde gan capall. 1961#492I call on my old friend, Dr Malachi Mulligan, sex specialist, to give medical testimony on my behalf. \n\n DR MULLIGAN \n\n(In motor ",
+    "suffix": ", green motorgoggles on his brow.) Dr Bloom is bisexually abnormal. He has recently escaped from Dr Eustace's private asylum for demented gentlemen. Born out of bedlock hereditary ",
+    "start": 88336,
+    "end": 88342,
+    "canonical_text": "jerkin"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.956
+  },
+  "genius": {
+    "referent_id": 15157387,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

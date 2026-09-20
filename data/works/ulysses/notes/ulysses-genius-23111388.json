@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-23111388",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Billsticker",
+  "html_source": "<p>A billsticker is someone who posts advertisements on walls. Bloom also refers to Boylan as a billsticker in Ithaca. It’s interesting that Corley thinks he saw Bloom and Boylan spending time together in a pub…on its face it seems unlikely, but it’s possible they were discussing one of Molly’s tours.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23111388/James-joyce-ulysses-chap-16-eumaeus/Billsticker",
+    "original_id": "23111388",
+    "referent_id": 23111388,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "billsticker",
+    "prefix": "m. \n\n — Thanks, Corley answered, you're a gentleman. I'll pay you back one time. Who's that with you? I saw him a few times in the Bleeding Horse in Camden street with Boylan, the ",
+    "suffix": ". You might put in a good word for us to get me taken 1939#434on there. I'd carry a sandwichboard only the girl in the office told me they're full up for the next three weeks, man.",
+    "start": 13886,
+    "end": 13897,
+    "canonical_text": "billsticker"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9642
+  },
+  "genius": {
+    "referent_id": 23111388,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 0.8928571428571429
+      },
+      {
+        "id": 12343896,
+        "login": "fdlp",
+        "name": "fdlp",
+        "role": null,
+        "attribution": 0.10714285714285714
+      }
+    ]
+  },
+  "color": "F59627"
+}

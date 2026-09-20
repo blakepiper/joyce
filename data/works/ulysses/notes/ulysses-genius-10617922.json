@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10617922",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Eggflip",
+  "html_source": "<p>Sometimes egg flips included brand, rum, whiskey or gin.<br /><a href=\"http://www.kidspot.com.au/kitchen/recipes/eggflip-1660\" rel=\"noopener nofollow\">http://www.kidspot.com.au/kitchen/recipes/eggflip-1660</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10617922/James-joyce-ulysses-chap-16-eumaeus/Eggflip",
+    "original_id": "10617922",
+    "referent_id": 10617922,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "eggflip",
+    "prefix": "things he popped out with attracted the elder man who was several years the other's senior or like his father. But something substantial he certainly ought to eat, were it only an ",
+    "suffix": " made on unadulterated maternal nutriment or, failing that, the homely Humpty Dumpty boiled. \n\n — At what o'clock did you dine? he questioned of the slim form and tired though unwr",
+    "start": 108463,
+    "end": 108470,
+    "canonical_text": "eggflip"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10617922,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

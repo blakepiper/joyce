@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-19202303",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "The constellation of Auriga",
+  "html_source": "<p><img src=\"https://images.genius.com/d17fa610e8b72cf654cc84e2ce4441d9.720x900x1.jpg\" alt=\"\" /></p><p><img src=\"https://images.genius.com/66e257791081ad5ee7640105fb75673f.1000x666x1.jpg\" alt=\"\" /></p><p><img src=\"https://images.genius.com/dba34696651806af820538bb6819d0ad.1000x664x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/19202303/James-joyce-ulysses-chap-17-ithaca/The-constellation-of-auriga",
+    "original_id": "19202303",
+    "referent_id": 19202303,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "the constellation of Auriga",
+    "prefix": "ilar origin which had (effectively or presumably) appeared in and disappeared from the constellation of Andromeda about the period of the birth of Stephen Dedalus, and in and from ",
+    "suffix": " some years after the birth and death of Rudolph Bloom, junior, and in and from other constellations some years before or after the birth or death of other persons: the attendant p",
+    "start": 71877,
+    "end": 71904,
+    "canonical_text": "the constellation of Auriga"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 19202303,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 4002447,
+        "login": "SmartMonkey",
+        "name": "SmartMonkey",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

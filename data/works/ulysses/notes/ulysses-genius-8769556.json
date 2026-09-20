@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8769556",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Jarvey",
+  "html_source": "<p>Jarvey   noun<br />chiefly Irish :  a hackney coach</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8769556/James-joyce-ulysses-chap-4-calypso/Jarvey",
+    "original_id": "8769556",
+    "referent_id": 8769556,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "jarvey",
+    "prefix": "se in the wind with her hair. \n\n1986#54\n\nAll dimpled cheeks and curls, \nYour head it simply swirls. \n\n1939#51\n\n Seaside girls. Torn envelope. Hands stuck in his trousers' pockets, ",
+    "suffix": " off for the day, singing. Friend of the family. Swurls, he says. Pier with lamps, summer evening, band, \n\n1922#64\n\nThose girls, those girls, \nThose lovely seaside girls. \n\n Milly ",
+    "start": 27055,
+    "end": 27061,
+    "canonical_text": "jarvey"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8769556,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

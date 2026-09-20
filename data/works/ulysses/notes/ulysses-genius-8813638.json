@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8813638",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Red",
+  "html_source": "<p>short for “red cent”</p><p>Origin<br />Early 19th century: so named because it was formerly made of copper.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8813638/James-joyce-ulysses-chap-8-lestrygonians/Red",
+    "original_id": "8813638",
+    "referent_id": 8813638,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "red",
+    "prefix": "nds of places are good for ads. That quack doctor for the clap used to be stuck up in all the greenhouses. Never see it now. Strictly confidential. Dr Hy Franks. Didn't cost him a ",
+    "suffix": " like Maginni the dancing master self advertisement. Got fellows to stick them up or stick them up himself for that matter on the q. t. running in to loosen a button. Flybynight. J",
+    "start": 5992,
+    "end": 5995,
+    "canonical_text": "red"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 8813638,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

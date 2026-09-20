@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21101886",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "He that filches from me my good name",
+  "html_source": "<p>A quotation from Iago in Othello Act III Scene III:</p><p>Who steals my purse steals trash; ‘tis something, nothing;<br />'Twas mine, 'tis his, and has been slave to thousands: But he that filches from me my good name<br />Robs me of that which not enriches him<br />And makes me poor indeed</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21101886/James-joyce-ulysses-chap-9-scylla-and-charybdis/He-that-filches-from-me-my-good-name",
+    "original_id": "21101886",
+    "referent_id": 21101886,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "he that filches from me my good name",
+    "prefix": "is brother Edmund lay dying in Southwark. \n\n Best \n\n I hope Edmund is going to catch it. I don't want Richard, my name... \n\n(Laughter.) \n\n1939#153\n\n Quakerlyster \n\n (A tempo.) But ",
+    "suffix": "... \n\n Stephen \n\n(Stringendo.) He has hidden his own name, a fair name, William, in the plays, a super here, a clown there, as a painter of old Italy set his face in a dark corner ",
+    "start": 52941,
+    "end": 52977,
+    "canonical_text": "he that filches from me my good name"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21101886,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

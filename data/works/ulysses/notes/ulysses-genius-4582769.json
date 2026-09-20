@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4582769",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Wait O Jesus wait yes that thing has come on me",
+  "html_source": "<p>Molly realizes that she has started her monthly period.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4582769/James-joyce-ulysses-chap-18-penelope/Wait-o-jesus-wait-yes-that-thing-has-come-on-me",
+    "original_id": "4582769",
+    "referent_id": 4582769,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "wait O Jesus wait yes that thing has come on me",
+    "prefix": "ery day I get up theres some new thing on sweet God 1961#768sweet God well when Im stretched out dead in my grave I suppose Ill have some peace I want to get up a minute if Im let ",
+    "suffix": " yes now wouldnt that afflict you of course all the poking and rooting and ploughing he had up in me now what am I to do Friday Saturday Sunday wouldnt that pester the soul out of ",
+    "start": 82102,
+    "end": 82149,
+    "canonical_text": "wait O Jesus wait yes that thing has come on me"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4582769,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

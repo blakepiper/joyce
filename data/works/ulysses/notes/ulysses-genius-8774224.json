@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8774224",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Chloroform",
+  "html_source": "<p>A clear, colorless, dense, sweet-smelling liquid, CHCl3, used in refrigerants, propellants, and resins, as a solvent, and sometimes as an anesthetic. Chloroform, once widely used in human and veterinary surgery, has generally been replaced by less toxic, more easily controlled agents.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8774224/James-joyce-ulysses-chap-5-lotus-eaters/Chloroform",
+    "original_id": "8774224",
+    "referent_id": 8774224,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "chloroform",
+    "prefix": "He ought to physic himself a bit. Electuary or emulsion. The first fellow that picked an herb to cure himself had a bit of pluck. Simples. Want to be careful. Enough stuff here to ",
+    "suffix": " you. Test: turns blue litmus paper red. Chloroform. Overdose of laudanum. Sleeping draughts. Lovephiltres. Paragoric poppysyrup bad for cough. Clogs the pores or the phlegm. Poiso",
+    "start": 30907,
+    "end": 30917,
+    "canonical_text": "chloroform"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8774224,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

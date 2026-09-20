@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795929",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Robert Emmet",
+  "html_source": "<p>Robert Emmet (4 March 1778 – 20 September 1803) was an Irish nationalist and Republican, orator and rebel leader. He led an abortive rebellion against British rule in 1803. He was captured by the British, tried and executed for high treason against the British king.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795929/James-joyce-ulysses-chap-6-hades/Robert-emmet",
+    "original_id": "8795929",
+    "referent_id": 8795929,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Robert Emmet",
+    "prefix": "the ropes. The grey alive crushed itself in under the plinth, wriggled itself in under it. Good hidingplace for treasure. \n\n Who lives there? Are laid the remains of Robert Emery. ",
+    "suffix": " was buried here by torchlight, wasn't he? Making his rounds. \n\n Tail gone now. \n\n One of those chaps would make short work of a fellow. Pick the bones clean no matter who it was. ",
+    "start": 59619,
+    "end": 59631,
+    "canonical_text": "Robert Emmet"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8795929,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

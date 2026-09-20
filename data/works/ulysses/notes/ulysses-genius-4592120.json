@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4592120",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Gone the way of all buttons",
+  "html_source": "<p>Bloom is hampered because he has lost one of the back buttons of his trousers.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4592120/James-joyce-ulysses-chap-16-eumaeus/Gone-the-way-of-all-buttons",
+    "original_id": "4592120",
+    "referent_id": 4592120,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "gone the way of all buttons",
+    "prefix": "of Amiens street railway terminus, Mr Bloom being handicapped 1986#501by the circumstance that one of the back buttons of his trousers had, 1961#613to vary the timehonoured adage, ",
+    "suffix": " though, entering thoroughly into the spirit of the thing, he heroically made light of the mischance. So as neither of them were particularly pressed for time, 1939#431as it happen",
+    "start": 2683,
+    "end": 2710,
+    "canonical_text": "gone the way of all buttons"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4592120,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

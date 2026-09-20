@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11163602",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Will you be my man",
+  "html_source": "<p><a href=\"http://www.jjon.org/joyce-s-environs/my-can\" rel=\"noopener nofollow\">http://www.jjon.org/joyce-s-environs/my-can</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11163602/James-joyce-ulysses-chap-18-penelope/Will-you-be-my-man",
+    "original_id": "11163602",
+    "referent_id": 11163602,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "will you be my man",
+    "prefix": "gondolas and the lake of Como he had a picture cut out of some paper of and mandolines and lanterns O how nice I said whatever I liked he was going to do immediately if not sooner ",
+    "suffix": " will you carry my can he ought to get a leather medal with a putty rim for all the plans he invents then leaving us here all day youd never know what old beggar at the door for a ",
+    "start": 73285,
+    "end": 73303,
+    "canonical_text": "will you be my man"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11163602,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

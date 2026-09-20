@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8972152",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Edward",
+  "html_source": "<p>King Edward VII took over the British throne after the death of Queen Victoria. He was a popular ruler who strengthened his country prior to World War I….he spent much of his time on the London social scene, eating, drinking, gambling and acquiring a reputation as a playboy.<br /><a href=\"http://www.biography.com/people/edward-vii-9284671\" rel=\"noopener nofollow\">http://www.biography.com/people/edward-vii-9284671</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8972152/James-joyce-ulysses-chap-12-cyclops/Edward",
+    "original_id": "8972152",
+    "referent_id": 8972152,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Edward",
+    "prefix": "nto bed and she pulling him by the whiskers and singing him old bits of songs about Ehren on the Rhine and come where the boose is cheaper. \n\n1922#316\n\n — Well, says J. J. We have ",
+    "suffix": " the peacemaker now. \n\n — Tell that to a fool, says the citizen. There's a bloody sight more pox than pax about that boyo. Edward Guelph-Wettin! \n\n — And what do you think, says Jo",
+    "start": 89840,
+    "end": 89846,
+    "canonical_text": "Edward"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9554
+  },
+  "genius": {
+    "referent_id": 8972152,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

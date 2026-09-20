@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9619890",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "My masters’ voice!",
+  "html_source": "<p><img src=\"https://images.genius.com/a0343f3f8af272b3876d3756747746d3.997x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9619890/James-joyce-ulysses-chap-15-circe/My-masters-voice",
+    "original_id": "9619890",
+    "referent_id": 9619890,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "My masters' voice!",
+    "prefix": "s stormily through his megaphone.) Dignam, Patrick T, deceased. \n\n PADDY DIGNAM \n\n(With pricked up ears, winces.) Overtones. (He wriggles forward and places an ear to the ground.) ",
+    "suffix": "! \n\n JOHN O'CONNELL \n\n Burial docket letter number U. P. eightyfive thousand. Field seventeen. House of Keys. Plot, one hundred and one. \n\n1986#386\n\n(Paddy Dignam listens with visi",
+    "start": 62692,
+    "end": 62709,
+    "canonical_text": "My master's voice"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 9619890,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

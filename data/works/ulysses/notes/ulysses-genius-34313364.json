@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-34313364",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "’Twas rank and fame",
+  "html_source": "<p>James Joyce’s Ulysses contains a number of references to the opera “The Rose of Castille” (premiered on 29 October 1857). The tenor Manuel’s aria, “Twas rank and fame that tempted thee” is quoted.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/34313364/James-joyce-ulysses-chap-11-sirens/Twas-rank-and-fame",
+    "original_id": "34313364",
+    "referent_id": 34313364,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "'Twas rank and fame",
+    "prefix": "admired, admired. But Bloom sang dumb. \n\n Admiring. \n\n Richie, admiring, descanted on that man's glorious voice. He remembered one night long ago. Never forget that night. Si sang ",
+    "suffix": ": in Ned Lambert's 'twas. Good God he never heard in all his life a note like that he never did then false one we had better part so clear so God he never 1961#276heard since love ",
+    "start": 42230,
+    "end": 42249,
+    "canonical_text": "'Twas rank and fame"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 34313364,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

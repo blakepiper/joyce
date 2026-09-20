@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10016276",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "In the beginning",
+  "html_source": "<p>John 1:1<br />King James Bible<br />In the beginning was the Word, and the Word was with God, and the Word was God.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10016276/James-joyce-ulysses-chap-15-circe/In-the-beginning",
+    "original_id": "10016276",
+    "referent_id": 10016276,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "In the beginning",
+    "prefix": "e fun of it. \n\n FLORRY-TERESA \n\n It was in consequence of a portwine beverage on top of Hennessy's three star. I was guilty with Whelan when he slipped into the bed. \n\n STEPHEN \n\n ",
+    "suffix": " was the word, in the end the world without end. Blessed be the eight beatitudes. \n\n(The beatitudes, Dixon, Madden, Crotthers, Costello, Lenehan, Bannon, Mulligan and Lynch in whit",
+    "start": 111775,
+    "end": 111791,
+    "canonical_text": "In the beginning"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10016276,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

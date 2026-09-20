@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8493403",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Stephano Dedalo, alumno optimo, palmam ferenti",
+  "html_source": "<p>“Stephen Dedalus, excellent student, bearing palms.” The palm-bearing alludes to those who greeted Jesus at his triumphal entrance into Jerusalem, the adoring crowd who “took branches of palm trees, and went forth to meet him, and cried, Hosanna.” <em>John 12:13</em>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8493403/James-joyce-ulysses-chap-10-wandering-rocks/Stephano-dedalo-alumno-optimo-palmam-ferenti",
+    "original_id": "8493403",
+    "referent_id": 8493403,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Stephano Dedalo, alumno optimo, palmam ferenti",
+    "prefix": "id. Four for sixpence. \n\n Tattered pages. The Irish Beekeeper. Life and Miracles of the Curé of Ars. Pocket Guide to Killarney. \n\n I might find here one of my pawned schoolprizes. ",
+    "suffix": ". \n\n1922#232\n\n Father Conmee, having read his little hours, walked through the hamlet of Donnycarney, murmuring vespers. \n\n Binding too good probably. What is this? Eighth and nint",
+    "start": 48583,
+    "end": 48629,
+    "canonical_text": "Stephano Dedalo, alumno optimo, palmam ferenti"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8493403,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

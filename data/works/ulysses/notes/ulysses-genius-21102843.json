@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21102843",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Firedrake",
+  "html_source": "<p>Literally a firebreathing dragon. Figuratively a meteor.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21102843/James-joyce-ulysses-chap-9-scylla-and-charybdis/Firedrake",
+    "original_id": "21102843",
+    "referent_id": 21102843,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "firedrake",
+    "prefix": "his glory of greatest shakescene in the country. What's in a name? That is what we ask ourselves in childhood when we write the name that we are told is ours. A star, a daystar, a ",
+    "suffix": ", rose at his birth. It shone by day in the heavens alone, brighter than Venus in the night, and by night it shone 1932#188over delta in Cassiopeia, the recumbent constellation whi",
+    "start": 53598,
+    "end": 53607,
+    "canonical_text": "firedrake"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21102843,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

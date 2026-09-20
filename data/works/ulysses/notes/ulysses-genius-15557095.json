@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15557095",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Bogey man",
+  "html_source": "<p>An imaginary evil character of supernatural powers, esp. a mythical hobgoblin supposed to carry off naughty children. (WordReference Random House Unabridged Dictionary of American English.)</p><p>… NAUGHTY CHILDREN…!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15557095/James-joyce-ulysses-chap-15-circe/Bogey-man",
+    "original_id": "15557095",
+    "referent_id": 15557095,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "bogey man",
+    "prefix": "al Malachi! \n\n THE MOTHER \n\n(With the subtle smile of death's madness.) I was once the beautiful May Goulding. I am dead. \n\n STEPHEN \n\n(Horrorstruck.) Lemur, who are you? No. What ",
+    "suffix": "'s trick is this? \n\n BUCK MULLIGAN \n\n(Shakes his curling capbell.) The mockery of it! Kinch killed her dogsbody 1922#539bitchbody. She kicked the bucket. (Tears of molten butter fa",
+    "start": 204559,
+    "end": 204567,
+    "canonical_text": "bogeyman"
+  },
+  "provenance": {
+    "match_method": "compact-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 15557095,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 6755983,
+        "login": "Mario_Biondi",
+        "name": "Mario_Biondi",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

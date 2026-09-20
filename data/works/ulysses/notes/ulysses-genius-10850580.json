@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10850580",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Le Verrier",
+  "html_source": "<p>French astronomer predicted the existence of Neptune from mathematics</p><p><a href=\"https://www.britannica.com/biography/Urbain-Jean-Joseph-Le-Verrier\" rel=\"noopener nofollow\">https://www.britannica.com/biography/Urbain-Jean-Joseph-Le-Verrier</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10850580/James-joyce-ulysses-chap-17-ithaca/Le-verrier",
+    "original_id": "10850580",
+    "referent_id": 10850580,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Le Verrier",
+    "prefix": "res of Saturn: the condensation of spiral nebulae into suns: the interdependent gyrations of double suns: the independent synchronous discoveries of Galileo, Simon Marius, Piazzi, ",
+    "suffix": ", Herschel, Galle: the systematisations attempted by Bode and Kepler of cubes of distances and squares of times of revolution: the almost infinite compressibility of hirsute comets",
+    "start": 70463,
+    "end": 70473,
+    "canonical_text": "Le Verrier"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10850580,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

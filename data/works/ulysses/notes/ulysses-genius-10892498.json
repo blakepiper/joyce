@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10892498",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Wonderworker,",
+  "html_source": "<p><a href=\"http://www.jjon.org/joyce-s-environs/wonderworker\" rel=\"noopener nofollow\">http://www.jjon.org/joyce-s-environs/wonderworker</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10892498/James-joyce-ulysses-chap-17-ithaca/Wonderworker",
+    "original_id": "10892498",
+    "referent_id": 10892498,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Wonderworker,",
+    "prefix": "and 10 in., forearm 8½ and 9 in., thigh 10 in. and 12 in., calf 11 in. and 12 in.: 1 prospectus of the Wonderworker, the world's greatest remedy for rectal complaints, direct from ",
+    "suffix": " Coventry House, South Place, London E. C., addressed to Mrs L. Bloom with brief accompanying note commencing: Dear Madam. \n\n1961#721\n\n Quote the textual terms in which the prospec",
+    "start": 115738,
+    "end": 115751,
+    "canonical_text": "Wonderworker,"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9597
+  },
+  "genius": {
+    "referent_id": 10892498,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

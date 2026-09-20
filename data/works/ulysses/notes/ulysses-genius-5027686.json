@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5027686",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "MacMurrough",
+  "html_source": "<p><a href=\"http://en.wikipedia.org/wiki/Diarmait_Mac_Murchada\" rel=\"noopener nofollow\">http://en.wikipedia.org/wiki/Diarmait_Mac_Murchada</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5027686/James-joyce-ulysses-chap-2-nestor/Macmurrough",
+    "original_id": "5027686",
+    "referent_id": 5027686,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "MacMurrough",
+    "prefix": "as no better than she should be, Helen, the runaway wife of Menelaus, ten years the Greeks made war on Troy. A faithless wife first brought the strangers 1961#34to our shore here, ",
+    "suffix": "'s wife and her leman, O'Rourke, prince of Breffni. A woman too brought Parnell low. Many errors, many failures but 1922#34not the one sin. I am a struggler now at the end of my da",
+    "start": 22819,
+    "end": 22830,
+    "canonical_text": "MacMurrough"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5027686,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1583205,
+        "login": "roosterdrs",
+        "name": "roosterdrs",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

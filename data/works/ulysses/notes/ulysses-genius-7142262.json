@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-7142262",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Folly. Persist.",
+  "html_source": "<blockquote><p>The fool who persists in his folly will become wise.</p></blockquote><p>— William Blake, <em>Proverbs of Hell</em>.</p><p>This line was known to Joyce. In fact Harold Bloom, in <em>James Joyce</em> (page 64), assures us that Joyce ‘quoted Blake’s dictum’ during attempts to publish his writings in America.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7142262/James-joyce-ulysses-chap-9-scylla-and-charybdis/Folly-persist",
+    "original_id": "7142262",
+    "referent_id": 7142262,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Folly. Persist.",
+    "prefix": " ave, rabbi: the Tinahely twelve. In the shadow of the glen he cooees for them. My soul's youth I gave him, night by night. Godspeed. Good hunting. \n\n Mulligan has my telegram. \n\n ",
+    "suffix": " \n\n — Our young Irish bards, John Eglinton censured, have yet to create a figure which the world will set beside Saxon Shakespeare's Hamlet though I admire him, as old Ben did, on ",
+    "start": 2110,
+    "end": 2125,
+    "canonical_text": "Folly. Persist."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 7142262,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1582711,
+        "login": "XavierDeDecker",
+        "name": "XavierDeDecker",
+        "role": "contributor",
+        "attribution": 0.9333333333333332
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.06666666666666667
+      }
+    ]
+  },
+  "color": "F59627"
+}

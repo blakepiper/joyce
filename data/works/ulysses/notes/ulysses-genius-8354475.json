@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8354475",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Blind",
+  "html_source": "<p>This is the blind stripling that Bloom helped cross Dawson Street in chapter 8 and who we saw in chapter 10 continuing his journey along Nassau Street.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8354475/James-joyce-ulysses-chap-11-sirens/Blind",
+    "original_id": "8354475",
+    "referent_id": 8354475,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "blind",
+    "prefix": "s Douce replied, tuning it for the smoking concert and I never heard such an exquisite player. \n\n — Is that a fact? \n\n — Didn't he, Miss Kennedy? The real classical, you know. And ",
+    "suffix": " too, poor fellow. Not twenty I'm sure he was. \n\n — Is that a fact? Mr Dedalus said. \n\n He drank and strayed away. \n\n1932#236\n\n — So sad to look at his face, Miss Douce condoled. \n",
+    "start": 13835,
+    "end": 13840,
+    "canonical_text": "blind"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.938
+  },
+  "genius": {
+    "referent_id": 8354475,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1520984,
+        "login": "RedSwanHotel",
+        "name": "RedSwanHotel",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

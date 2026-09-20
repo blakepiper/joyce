@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11137499",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "B Marche Paris",
+  "html_source": "<p><a href=\"https://www.lvmh.com/houses/selective-retailing/le-bon-marche/\" rel=\"noopener nofollow\">https://www.lvmh.com/houses/selective-retailing/le-bon-marche/</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11137499/James-joyce-ulysses-chap-18-penelope/B-marche-paris",
+    "original_id": "11137499",
+    "referent_id": 11137499,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "B Marche Paris",
+    "prefix": " Windmill hill to the flats that Sunday morning with Captain Rubios that was dead spyglass like the sentry had he said hed have one or two from on board I wore that frock from the ",
+    "suffix": " and the coral necklace the straits shining I could see over to Morocco almost the bay of Tangier 1922#712white and the Atlas mountain with snow on it and the straits like a river ",
+    "start": 63844,
+    "end": 63858,
+    "canonical_text": "B Marche Paris"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11137499,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

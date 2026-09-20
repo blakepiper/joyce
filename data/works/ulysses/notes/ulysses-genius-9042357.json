@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9042357",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Pouncetbox",
+  "html_source": "<p>Pouncet-box, small silver box, the sides of which are “pounced,” or pierced, with holes, containing a sponge soaked in pungent vinegar to ward off diseases and offensive odours.<br /><a href=\"http://www.britannica.com/art/pouncet-box\" rel=\"noopener nofollow\">Encyclopedia Britannica</a></p><p><img src=\"https://images.rapgenius.com/92f882406d14e859a91e06c14b8e2232.234x216x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9042357/James-joyce-ulysses-chap-13-nausicaa/Pouncetbox",
+    "original_id": "9042357",
+    "referent_id": 9042357,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "pouncetbox",
+    "prefix": "rupulously neat and clean. It was there she kept her girlish treasure trove, the tortoiseshell combs, her child of Mary badge, the whiterose scent, the eyebrowleine, her alabaster ",
+    "suffix": " and the ribbons to change when her things came home from the wash and there were some beautiful thoughts written in it in violet ink that she bought in Hely's 1922#347of Dame Stre",
+    "start": 44992,
+    "end": 45002,
+    "canonical_text": "pouncetbox"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9042357,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

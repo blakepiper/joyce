@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8794561",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Simnel cake",
+  "html_source": "<p>Simnel cake is a light fruit cake with two layers of almond paste or marzipan, one in the middle and one on top, that is toasted, and eaten during the Easter period in the United Kingdom, Ireland and some other countries.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8794561/James-joyce-ulysses-chap-6-hades/Simnel-cake",
+    "original_id": "8794561",
+    "referent_id": 8794561,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Simnel cake",
+    "prefix": "hree carriages. It's all the same. Pallbearers, gold reins, requiem mass, firing a volley. Pomp of death. Beyond the hind carriage a hawker stood by his barrow of cakes and fruit. ",
+    "suffix": "s those are, stuck together: cakes for the dead. Dogbiscuits. Who ate them? Mourners coming out. \n\n He followed his companions. Mr Kernan and Ned Lambert followed, Hynes walking af",
+    "start": 29448,
+    "end": 29459,
+    "canonical_text": "Simnel cake"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8794561,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

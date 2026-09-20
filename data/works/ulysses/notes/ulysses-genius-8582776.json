@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8582776",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Bottlenosed",
+  "html_source": "<p>Antisemitic slur.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8582776/James-joyce-ulysses-chap-12-cyclops/Bottlenosed",
+    "original_id": "8582776",
+    "referent_id": 8582776,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "bottlenosed",
+    "prefix": "ey went past, talking to him like a father, trying to sell him a secondhand coffin. \n\n — How did that Canada swindle case go off? says Joe. \n\n — Remanded, says J. J. \n\n One of the ",
+    "suffix": " fraternity it was went by the name of James 1932#290Wought alias Saphiro alias Spark and Spiro, put an ad in the papers saying he'd give a passage to Canada for twenty bob. What? ",
+    "start": 69541,
+    "end": 69552,
+    "canonical_text": "bottlenosed"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8582776,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10221182",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Fender",
+  "html_source": "<p>They will defile Bloom’s hearth by spitting in it.</p><p><img src=\"https://images.genius.com/1847b651d3a84602cdb99c8777b9c4b6.598x605x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10221182/James-joyce-ulysses-chap-15-circe/Fender",
+    "original_id": "10221182",
+    "referent_id": 10221182,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "fender",
+    "prefix": "ake. They will violate the secrets of your bottom drawer. Pages will be torn from your handbook of astronomy to make them pipespills. And they will spit in your ten shilling brass ",
+    "suffix": " from Hampton Leedom's. \n\n BLOOM \n\n Ten and six. The act of low scoundrels. Let me go. I will return. I will prove... \n\n1939#383\n\n A VOICE \n\n Swear! \n\n(Bloom clenches his fists and",
+    "start": 160300,
+    "end": 160306,
+    "canonical_text": "fender"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10221182,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

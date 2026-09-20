@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8469299",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Annesley bridge",
+  "html_source": "<p>Photo from the bridge.</p><p><img src=\"https://images.rapgenius.com/816c8d8185a7ba8e583f08730f632ca4.372x279x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8469299/James-joyce-ulysses-chap-10-wandering-rocks/Annesley-bridge",
+    "original_id": "8469299",
+    "referent_id": 8469299,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Annesley bridge",
+    "prefix": "was sitting on the edge of the seat. \n\n1932#199\n\n Father Conmee at the altarrails placed the host with difficulty in the mouth of the awkward old man who had the shaky head. \n\n At ",
+    "suffix": " the tram halted and, when it was about to go, an old woman rose suddenly from her place to alight. The conductor pulled the bellstrap to stay the car for her. She passed out with ",
+    "start": 8304,
+    "end": 8319,
+    "canonical_text": "Annesley bridge"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8469299,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795819",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Christian name",
+  "html_source": "<p>noun<br />Also called baptismal name. the name given one at baptism, as distinguished from the family name.<br />a person’s first or given name.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795819/James-joyce-ulysses-chap-6-hades/Christian-name",
+    "original_id": "8795819",
+    "referent_id": 8795819,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "christian name",
+    "prefix": "\n\n Hynes jotting down something in his notebook. Ah, the names. But he knows them all. No: coming to me. \n\n — I am just taking the names, Hynes said below his breath. What is your ",
+    "suffix": "? I'm not sure. \n\n — L, Mr Bloom said. Leopold. And you might put down M'Coy's name too. He asked me to. \n\n — Charley, Hynes said writing. I know. He was on the Freeman once. \n\n So",
+    "start": 53681,
+    "end": 53695,
+    "canonical_text": "christian name"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8795819,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

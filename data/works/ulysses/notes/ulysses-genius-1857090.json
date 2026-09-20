@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-1857090",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Fidus Achates!",
+  "html_source": "<p>Latin for “the faithful Achates”. Achates was a close buddy and companion of Aeneas' in Virgil’s <em>Aeneid</em>. Unlike Buck Mulligan, Achates doesn’t say much. As Mr. Dedalus uses it, the phrase is a cliche, but in the context of Hades it alludes to Achates' role in support of Aeneas as Aeneas gets ready for the fearful voyage to the underworld.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1857090/James-joyce-ulysses-chap-6-hades/Fidus-achates",
+    "original_id": "1857090",
+    "referent_id": 1857090,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "fidus Achates!",
+    "prefix": "ses, lurched round the corner and, swerving back to the tramtrack, rolled on noisily with chattering wheels. Mr Dedalus fell back, saying: \n\n — Was that Mulligan cad with him? His ",
+    "suffix": " \n\n — No, Mr Bloom said. He was alone. \n\n — Down with his aunt Sally, I suppose, Mr Dedalus said, the Goulding faction, the drunken little costdrawer and Crissie, papa's little lum",
+    "start": 2916,
+    "end": 2930,
+    "canonical_text": "fidus Achates!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1857090,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 0.6333333333333333
+      },
+      {
+        "id": 48446,
+        "login": "Twite",
+        "name": "Tom White",
+        "role": "contributor",
+        "attribution": 0.36666666666666664
+      }
+    ]
+  },
+  "color": "F59627"
+}

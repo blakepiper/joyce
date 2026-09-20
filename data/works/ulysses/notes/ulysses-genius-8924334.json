@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8924334",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Maunder",
+  "html_source": "<p>to talk in a rambling, foolish, or meaningless way</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8924334/James-joyce-ulysses-chap-11-sirens/Maunder",
+    "original_id": "8924334",
+    "referent_id": 8924334,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Maunder",
+    "prefix": "ause you never know exac. Organ in Gardiner street. Old Glynn fifty quid a year. Queer up there in the cockloft, alone, with stops and locks and keys. Seated all day at the organ. ",
+    "suffix": " on for hours, talking to himself or the other fellow blowing the bellows. Growl angry, then shriek cursing (want to have wadding or something in his no don't she cried), then all ",
+    "start": 67620,
+    "end": 67627,
+    "canonical_text": "Maunder"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8924334,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

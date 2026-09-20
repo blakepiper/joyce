@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11137674",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Flanders",
+  "html_source": "<p><a href=\"http://www.goodreads.com/book/show/38262.Moll_Flanders\" rel=\"noopener nofollow\">http://www.goodreads.com/book/show/38262.Moll_Flanders</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11137674/James-joyce-ulysses-chap-18-penelope/Flanders",
+    "original_id": "11137674",
+    "referent_id": 11137674,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Flanders",
+    "prefix": "t and Lord Lytton Eugene Aram Molly bawn she gave me by Mrs Hungerford on account of the name I dont like books with a Molly in them like that one he brought me about the one from ",
+    "suffix": " a whore always shoplifting 1939#533anything she could cloth and stuff and yards of it this blanket is too heavy on me thats better I havent even one decent nightdress this thing g",
+    "start": 48972,
+    "end": 48980,
+    "canonical_text": "Flanders"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11137674,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

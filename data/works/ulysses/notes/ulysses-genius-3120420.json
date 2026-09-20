@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-3120420",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Do you understand now?",
+  "html_source": "<p>This question, this part of the novel makes me think of the novel as a whole.  Do you understand now?  I can see Joyce thinking this as he finishes his work about the novel and about pragmatism; how he includes it in the novel and how society reacts to his work.</p><p>PROPOSED SUGGESTION: Yea, it’s like a challenger.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3120420/James-joyce-ulysses-chap-2-nestor/Do-you-understand-now",
+    "original_id": "3120420",
+    "referent_id": 3120420,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "Do you understand now?",
+    "prefix": "onides, dark men in mien and movement, flashing in their mocking mirrors the obscure soul of the world, a darkness shining in brightness which brightness could not comprehend.\n\n — ",
+    "suffix": " Can you work the second for yourself? \n\n — Yes, sir. \n\n In long shaky strokes Sargent copied the data. Waiting always for a word of help his hand moved faithfully the unsteady sym",
+    "start": 8760,
+    "end": 8782,
+    "canonical_text": "Do you understand now?"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3120420,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 580769,
+        "login": "tommy_hogue",
+        "name": "tommy_hogue",
+        "role": null,
+        "attribution": 0.8095238095238095
+      },
+      {
+        "id": 2707000,
+        "login": "JozueCoronel",
+        "name": "JozueCoronel",
+        "role": "contributor",
+        "attribution": 0.15873015873015872
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.031746031746031744
+      }
+    ]
+  },
+  "color": "F59627"
+}

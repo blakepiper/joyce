@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15153935",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Alles Vergangliche",
+  "html_source": "<p>German for “everything is temporary” or “all is passing/fleeting.” From Goethe’s Faust, II.1</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15153935/James-joyce-ulysses-chap-14-oxen-of-the-sun/Alles-vergangliche",
+    "original_id": "15153935",
+    "referent_id": 15153935,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "alles Vergangliche",
+    "prefix": "nt of the danger but must needs glance at whiles towards where his mother watches from the PIAZZETTA giving upon the flowerclose with a faint shadow of remoteness or of reproach (_",
+    "suffix": "_) in her glad look.\n\nMark this farther and remember. The end comes suddenly. Enter that antechamber of birth where the studious are assembled and note their faces. Nothing, as it ",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.0
+  },
+  "genius": {
+    "referent_id": 15153935,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

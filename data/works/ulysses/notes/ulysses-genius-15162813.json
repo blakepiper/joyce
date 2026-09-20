@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15162813",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Sciatica",
+  "html_source": "<p><a href=\"https://www.webmd.com/back-pain/guide/sciatica-symptoms\" rel=\"noopener nofollow\">Sciatica</a> is pain in the sciatic nerve, radiating from the lower back down through the back of one (or both) legs. Usually manifests as hip pain or lower back pain.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15162813/James-joyce-ulysses-chap-15-circe/Sciatica",
+    "original_id": "15162813",
+    "referent_id": 15162813,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "sciatica",
+    "prefix": "n life. The door and window open at a right 1986#430angle cause a draught of thirtytwo feet per second according to the law of falling bodies. I have felt this instant a twinge of ",
+    "suffix": " in my left glutear muscle. It runs in our family. Poor dear papa, a widower, was a regular barometer from it. He believed in animal heat. A skin of tabby lined his winter waistcoa",
+    "start": 139694,
+    "end": 139702,
+    "canonical_text": "sciatica"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15162813,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

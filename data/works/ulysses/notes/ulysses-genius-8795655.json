@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795655",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "O, poor Robinson Crusoe!\n How could you possibly do so?",
+  "html_source": "<p>Poor old Robinson Crusoe<br />Nursery Rhyme lyrics</p><p>Poor old Robinson Crusoe!<br />Poor old Robinson Crusoe!<br />They made him a coat,<br />Of an old nanny goat.</p><p>I wonder how they could do so!<br />With a ring a ting tang,<br />And a ring a ting tang,<br />Poor old Robinson Crusoe!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795655/James-joyce-ulysses-chap-6-hades/O-poor-robinson-crusoe-how-could-you-possibly-do-so",
+    "original_id": "8795655",
+    "referent_id": 8795655,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "O, poor Robinson Crusoe!\n How could you possibly do so?",
+    "prefix": "nts too. First thing strikes anybody. Bury the dead. Say Robinson Crusoe was true to life. Well then Friday buried him. Every Friday buries a Thursday if you come to look at it. \n\n",
+    "suffix": " \n\n Poor Dignam! His last lie on the earth in his box. When you think of them all it does seem a waste of wood. All gnawed1961#109 through. They could invent a handsome bier with a",
+    "start": 49231,
+    "end": 49286,
+    "canonical_text": "O, poor Robinson Crusoe! \nHow could you possibly do so?"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 8795655,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

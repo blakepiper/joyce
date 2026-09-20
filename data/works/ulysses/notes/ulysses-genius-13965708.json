@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13965708",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "We are nae fou. We’re nae tha fou",
+  "html_source": "<p>We are not full (ie Drunk). We are not that full. (ie Drunk) Scottish vernacular</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13965708/James-joyce-ulysses-chap-14-oxen-of-the-sun/We-are-nae-fou-were-nae-tha-fou",
+    "original_id": "13965708",
+    "referent_id": 13965708,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "We are nae fou. We're nae tha fou",
+    "prefix": "nd a wing. You larn that go off of they there Frenchy bilks? Won't wash here for nuts nohow. Lil chile velly solly. Ise de cutest colour coon down our side. Gawds teruth, Chawley. ",
+    "suffix": " Au reservoir, mossoo. Tanks you. \n\n1922#404\n\n 'Tis, sure. What say? In the speakeasy. Tight. I shee you, shir. Bantam, two days teetee. Bowsing nowt but claretwine. Garn! Have a g",
+    "start": 109224,
+    "end": 109258,
+    "canonical_text": "We are nae fou. We're nae the fou."
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9552
+  },
+  "genius": {
+    "referent_id": 13965708,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

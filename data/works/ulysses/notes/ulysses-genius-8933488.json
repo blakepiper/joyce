@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8933488",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Mr Bloom",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Italo_Svevo\" rel=\"noopener nofollow\">Italo Svevo</a> served as a protoype for Bloom during Joyce’s Triestine years (McCourt, J. The Bloom Years, p89).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8933488/James-joyce-ulysses-chap-4-calypso/Mr-bloom",
+    "original_id": "8933488",
+    "referent_id": 8933488,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Mr Bloom",
+    "prefix": "rning from the fire. \n\n The cat mewed in answer and stalked again stiffly round a leg of the table, mewing. Just how she stalks over my writingtable. Prr. Scratch my head. Prr. \n\n ",
+    "suffix": " watched curiously, kindly, the lithe black form. Clean to see: the gloss of her sleek hide, the white button under the butt of her tail, the green flashing eyes. He bent down to h",
+    "start": 1153,
+    "end": 1161,
+    "canonical_text": "Mr Bloom"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 8933488,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

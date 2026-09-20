@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4890183",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Pain, that was not yet the pain of love, fretted his heart.",
+  "html_source": "<p>Stephen’s pain is described in the terms of <a href=\"https://genius.com/Jean-paul-egide-martini-plaisir-damour-lyrics/\" rel=\"noopener nofollow\">“Plaisir d'amour”,</a> a song by Jean-Paul-Égide Martini (1741–1816):</p><p><a href=\"https://genius.com/4891964\" rel=\"noopener nofollow\">https://genius.com/4891964</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4890183/James-joyce-ulysses-chap-1-telemachus/Pain-that-was-not-yet-the-pain-of-love-fretted-his-heart",
+    "original_id": "4890183",
+    "referent_id": 4890183,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Pain, that was not yet the pain of love, fretted his heart.",
+    "prefix": "with care, in silence, seriously. \n\n Stephen, an elbow rested on the jagged granite, leaned his palm against his brow and gazed at the fraying edge of his shiny black coat-sleeve. ",
+    "suffix": " Silently, in a dream she had come to him after her death, her wasted body within its loose brown graveclothes giving off an odour of wax and rosewood, her breath, that had bent up",
+    "start": 5828,
+    "end": 5887,
+    "canonical_text": "Pain, that was not yet the pain of love, fretted his heart."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4890183,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1520984,
+        "login": "RedSwanHotel",
+        "name": "RedSwanHotel",
+        "role": "contributor",
+        "attribution": 0.7647058823529411
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.23529411764705885
+      }
+    ]
+  },
+  "color": "F59627"
+}

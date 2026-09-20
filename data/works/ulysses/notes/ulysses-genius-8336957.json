@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8336957",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Jordan",
+  "html_source": "<p>Chamberpot.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8336957/James-joyce-ulysses-chap-9-scylla-and-charybdis/Jordan",
+    "original_id": "8336957",
+    "referent_id": 8336957,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "jordan",
+    "prefix": "ch bed he slept it skills not to ask) and heard she had a soul. She read or had read to her his chapbooks preferring them to the Merry Wives and, loosing her nightly waters on the ",
+    "suffix": ", she thought over Hooks and Eyes for Believers' Breeches and The most Spiritual Snuffbox to Make the Most Devout Souls Sneeze. Venus has twisted her lips in prayer. Agenbite of in",
+    "start": 46395,
+    "end": 46401,
+    "canonical_text": "jordan"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8336957,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2568065,
+        "login": "GeoffBobker",
+        "name": "GeoffBobker",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

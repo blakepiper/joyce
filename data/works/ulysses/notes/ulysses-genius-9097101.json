@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9097101",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Half twelve. By the way go easy with that money like a good young imbecile.",
+  "html_source": "<p>There is no escape in his current predicament – he can’t help awkward thoughts.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9097101/James-joyce-ulysses-chap-3-proteus/Half-twelve-by-the-way-go-easy-with-that-money-like-a-good-young-imbecile",
+    "original_id": "9097101",
+    "referent_id": 9097101,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "half twelve. By the way go easy with that money like a good young imbecile.",
+    "prefix": "ger airs. They are coming, waves. The whitemaned seahorses, champing, brightwindbridled, the steeds of Mananaan. \n\n I mustn't forget his letter for the press. And after? The Ship, ",
+    "suffix": " Yes, I must. \n\n His pace slackened. Here. Am I going to aunt Sara's or not? My consubstantial father's voice. Did you see anything of your artist brother 1922#38Stephen lately? No",
+    "start": 3757,
+    "end": 3832,
+    "canonical_text": "half twelve. By the way go easy with that money like a good young imbecile."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9097101,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4973146",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Is it French you are talking",
+  "html_source": "<p>Ironically the milkwoman, who is symbolically associated with Irish culture in the mind of Stephen, has no knowledge of her country’s native language. As well, that an Englishman visiting the country as a tourist should instruct the native inhabitants in the necessity of reviving their cultural heritage, and be mistaken for a native of the west, is also entirely ironic.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4973146/James-joyce-ulysses-chap-1-telemachus/Is-it-french-you-are-talking",
+    "original_id": "4973146",
+    "referent_id": 4973146,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Is it French you are talking",
+    "prefix": "in God's likeness, the serpent's prey. And to the loud voice that now bids her be silent with wondering unsteady eyes. \n\n — Do you understand what he says? Stephen asked her. \n\n — ",
+    "suffix": ", sir? the old woman said to Haines. \n\n Haines spoke to her again a longer speech, confidently. \n\n — Irish, Buck Mulligan said. Is there Gaelic on you? \n\n — I thought it was Irish,",
+    "start": 24194,
+    "end": 24222,
+    "canonical_text": "Is it French you are talking"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4973146,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1045290,
+        "login": "StickRivero",
+        "name": "StickRivero",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

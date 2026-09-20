@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8446766",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Granados",
+  "html_source": "<p>Archaic – Grenades</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8446766/James-joyce-ulysses-chap-14-oxen-of-the-sun/Granados",
+    "original_id": "8446766",
+    "referent_id": 8446766,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "granados",
+    "prefix": "ord paramount of our internal polity? Where is now that gratitude which loyalty should have counselled? During the recent war whenever the enemy had a temporary advantage with his ",
+    "suffix": " did this traitor to his kind not seize that moment to discharge his piece against the empire of which he is a tenant at will while he trembled for the security of his four per cen",
+    "start": 65780,
+    "end": 65788,
+    "canonical_text": "granados"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8446766,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

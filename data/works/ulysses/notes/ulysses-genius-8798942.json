@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8798942",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "ORTHOGRAPHICAL",
+  "html_source": "<p>or·thog·ra·phy<br />noun<br />the conventional spelling system of a language. Joyce uses a newspaper style in this episode.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8798942/James-joyce-ulysses-chap-7-aeolus/Orthographical",
+    "original_id": "8798942",
+    "referent_id": 8798942,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "ORTHOGRAPHICAL",
+    "prefix": "er brought him a limp galleypage. He began to check it silently. Mr Bloom stood by, hearing the loud throbs of cranks, watching the silent typesetters at their cases. \n\n1922#116\n\n ",
+    "suffix": " \n\n Want to be sure of his spelling. Proof fever. Martin Cunningham forgot to give us his spellingbee conundrum this morning. It is amusing to view the unpar one ar alleled embarra",
+    "start": 9155,
+    "end": 9169,
+    "canonical_text": "ORTHOGRAPHICAL"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8798942,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.6
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.4
+      }
+    ]
+  },
+  "color": "F59627"
+}

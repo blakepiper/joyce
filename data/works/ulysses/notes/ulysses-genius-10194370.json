@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10194370",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Ricketts",
+  "html_source": "<p>Rickets is the softening and weakening of bones in children, usually because of an extreme and prolonged vitamin D deficiency.<br />Because rickets softens the growth plates at the ends of a child’s bones, it can cause skeletal deformities such as:<br />Bowed legs or knock knees<br />Thickened wrists and ankles<br />Breastbone projection<br /><a href=\"http://www.mayoclinic.org/diseases-conditions/rickets/home/ovc-20200467\" rel=\"noopener nofollow\">http://www.mayoclinic.org/diseases-conditions/rickets/home/ovc-20200467</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10194370/James-joyce-ulysses-chap-15-circe/Ricketts",
+    "original_id": "10194370",
+    "referent_id": 10194370,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Ricketts",
+    "prefix": " grate 1939#356is spread a screen of peacock feathers. Lynch squats crosslegged on the hearthrug of matted hair, his cap back to the front. With a wand he beats time slowly. Kitty ",
+    "suffix": ", a bony pallid whore in navy costume, doeskin gloves rolled back from a coral wristlet, a chain purse in her hand, sits perched on the edge of the table swinging her leg and glanc",
+    "start": 102174,
+    "end": 102182,
+    "canonical_text": "Ricketts"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 10194370,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15154118",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Ma mère m’a mariée",
+  "html_source": "<p>French for “my mother has married me”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15154118/James-joyce-ulysses-chap-14-oxen-of-the-sun/Ma-mere-ma-mariee",
+    "original_id": "15154118",
+    "referent_id": 15154118,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Ma mère m'a mariée",
+    "prefix": " foot. Where's that bleeding awfur? Parson Steve, apostates' creed! No, no, Mulligan! Abaft there! Shove ahead. Keep a watch on the clock. Chuckingout time. Mullee! What's on you? ",
+    "suffix": ". British Beatitudes! Retamplan Digidi Boum Boum. Ayes have it. To be printed and bound at the Druiddrum press by two designing females. Calf covers of pissedon green. Last word in",
+    "start": 105560,
+    "end": 105578,
+    "canonical_text": "Ma mère m'a mariée"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15154118,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

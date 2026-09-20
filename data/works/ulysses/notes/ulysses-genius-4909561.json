@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4909561",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Weave the wind",
+  "html_source": "<p>Frank Delaney suggests the possibility of an interesting link with T.S. Eliot’s poem <a href=\"https://genius.com/Ts-eliot-gerontion-annotated\" rel=\"noopener nofollow\">‘Gerontion’</a> which was published in 1920:</p><blockquote><p>Vacant shuttles<br />Weave the wind. I have no ghosts,<br />An old man in a draughty house<br />Under a windy knob.</p></blockquote><p>He says it may be just a coincidence but – especially in light of Haines’s later comment – it is intriguing that the poem also has the line:</p><p>My house is a decayed house,<br />And the jew squats on the window sill</p><p><a href=\"http://blog.frankdelaney.com/archives.html\" rel=\"noopener nofollow\">http://blog.frankdelaney.com/archives.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4909561/James-joyce-ulysses-chap-1-telemachus/Weave-the-wind",
+    "original_id": "4909561",
+    "referent_id": 4909561,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "weave the wind",
+    "prefix": "us1986#17 who held that the Father was Himself His own Son. Words Mulligan had spoken a moment since in mockery to the stranger. Idle mockery. The void awaits surely all them that ",
+    "suffix": ": a menace, a disarming and a worsting from those embattled angels of the church, Michael's host, who defend her ever in the hour of conflict with their lances and their shields. \n",
+    "start": 37590,
+    "end": 37604,
+    "canonical_text": "weave the wind"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4909561,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1520984,
+        "login": "RedSwanHotel",
+        "name": "RedSwanHotel",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

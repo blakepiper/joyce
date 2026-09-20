@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2081229",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "All off for a buster,",
+  "html_source": "<p>This final section is in no particular style but rather breaks off into a bunch of slang, dialect, foreign phrases, etc.</p><p><img src=\"https://images.genius.com/a986808f9c4918bdc7e9b1f1cfb34797.277x228x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2081229/James-joyce-ulysses-chap-14-oxen-of-the-sun/All-off-for-a-buster",
+    "original_id": "2081229",
+    "referent_id": 2081229,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "All off for a buster,",
+    "prefix": "3what? Ay, but her milk is hot and sweet and fattening. No dollop this but thick rich bonnyclaber. To her, old patriarch! Pap! Per deam Partulam et Pertundam nunc est bibendum! \n\n ",
+    "suffix": " armstrong, hollering down the street. Bonafides. Where you slep las nigh? Timothy of the battered naggin. Like ole Billyo. Any brollies or gumboots in the fambly? Where the Henry ",
+    "start": 104588,
+    "end": 104609,
+    "canonical_text": "All off for a buster,"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2081229,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

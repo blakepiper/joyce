@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9176156",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Bonnyclaber",
+  "html_source": "<p>chiefly dialect<br />sour milk that has thickened or curdled</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9176156/James-joyce-ulysses-chap-14-oxen-of-the-sun/Bonnyclaber",
+    "original_id": "9176156",
+    "referent_id": 9176156,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "bonnyclaber",
+    "prefix": "uzzling den, milk of madness, the honeymilk of Canaan's land. Thy cow's dug was tough, 1932#383what? Ay, but her milk is hot and sweet and fattening. No dollop this but thick rich ",
+    "suffix": ". To her, old patriarch! Pap! Per deam Partulam et Pertundam nunc est bibendum! \n\n All off for a buster, armstrong, hollering down the street. Bonafides. Where you slep las nigh? T",
+    "start": 104494,
+    "end": 104505,
+    "canonical_text": "bonnyclaber"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9176156,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

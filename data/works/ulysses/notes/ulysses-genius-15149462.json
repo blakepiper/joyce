@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15149462",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Franklin that hight Lenehan",
+  "html_source": "<p>Franklin = a man of free birth but not of the nobility.<br />hight = called/named.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15149462/James-joyce-ulysses-chap-14-oxen-of-the-sun/Franklin-that-hight-lenehan",
+    "original_id": "15149462",
+    "referent_id": 15149462,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "franklin that hight Lenehan",
+    "prefix": "cry on high and he wondered what cry that it was whether of child or woman and I marvel, said he, that it be not come or now. Meseems it dureth overlong. And he was ware and saw a ",
+    "suffix": " on that side the table 1961#387that was older than any of the tother and for that they both were knights virtuous in the one emprise and eke by cause that he was elder he spoke to",
+    "start": 12025,
+    "end": 12052,
+    "canonical_text": "franklin that hight Lenehan"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9712
+  },
+  "genius": {
+    "referent_id": 15149462,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

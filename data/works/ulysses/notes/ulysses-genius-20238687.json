@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20238687",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "He couldn’t remember the dayfather’s name",
+  "html_source": "<p>Remembering Nannetti in the Aeolus episode, who couldn’t remember Monks’s name.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20238687/James-joyce-ulysses-chap-8-lestrygonians/He-couldnt-remember-the-dayfathers-name",
+    "original_id": "20238687",
+    "referent_id": 20238687,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "he couldn't remember the dayfather's name",
+    "prefix": "eak eyes, woman. Stopped in Citron's saint Kevin's parade. Pen something. Pendennis? My memory is getting. Pen ...? of course it's years ago. Noise of the trams probably. Well, if ",
+    "suffix": " that he sees every day. \n\n1922#148\n\n Bartell d'Arcy was the tenor, just coming out then. Seeing her home after practice. Conceited fellow with his waxedup moustache. Gave her that",
+    "start": 11492,
+    "end": 11533,
+    "canonical_text": "he couldn't remember the dayfather's name"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20238687,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11041825,
+        "login": "raggedclaws",
+        "name": "raggedclaws",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

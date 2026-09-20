@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8460586",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Mountjoy square",
+  "html_source": "<p>The park across from the Catholic presbytery where Father Conmee’s journey begins. I have added a link to a blog in which I have embedded a Google Earth tour of the places Father Conmee visits on this trek. A downloaded version of the Google Earth program will allow one to view it.</p><p><a href=\"http://3d3o.blogspot.com/\" rel=\"noopener nofollow\">http://3d3o.blogspot.com/</a></p><p><img src=\"https://images.rapgenius.com/e876ca8e03e6185bcd1bc914c884bd05.640x480x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8460586/James-joyce-ulysses-chap-10-wandering-rocks/Mountjoy-square",
+    "original_id": "8460586",
+    "referent_id": 8460586,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Mountjoy square",
+    "prefix": "t a peaked cap for alms towards the very reverend John Conmee S. J. Father Conmee blessed him in the sun for his purse held, he knew, one silver crown. \n\n Father Conmee crossed to ",
+    "suffix": ". He thought, but not for long, of soldiers and sailors, whose legs had been shot off by cannonballs, ending their days in some pauper ward, and of cardinal 1932#196Wolsey's words:",
+    "start": 753,
+    "end": 768,
+    "canonical_text": "Mountjoy square"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 8460586,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

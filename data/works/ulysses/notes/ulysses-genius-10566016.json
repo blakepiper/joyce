@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10566016",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Come. I thirst.",
+  "html_source": "<p>John 19</p><p>“After this, Jesus knowing that all things were now accomplished, that the scripture might be fulfilled, saith, I thirst. Now there was set a vessel full of vinegar, and they filled a spunge with vinegar, and put it upon hyssop, and put it to his mouth. When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost”</p><p>Although Stephen is most likely thirsty for alcoholic beverages with Buck.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10566016/James-joyce-ulysses-chap-3-proteus/Come-i-thirst",
+    "original_id": "10566016",
+    "referent_id": 10566016,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Come. I thirst.",
+    "prefix": "blue. Seadeath, mildest of all deaths1922#49 known to man. Old Father Ocean. Prix de Paris: beware of imitations. Just you give it a fair trial. We enjoyed ourselves immensely. \n\n ",
+    "suffix": " Clouding over. No black clouds anywhere, are there? Thunderstorm. Allbright he falls, proud lightning of the intellect, Lucifer, dico, qui nescit occasum. No. My cockle hat and st",
+    "start": 31727,
+    "end": 31742,
+    "canonical_text": "Come. I thirst."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10566016,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

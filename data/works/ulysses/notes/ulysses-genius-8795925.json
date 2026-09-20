@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795925",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Plinth",
+  "html_source": "<p>noun<br />a heavy base supporting a statue or vase.<br />ARCHITECTURE<br />the lower square slab at the base of a column.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795925/James-joyce-ulysses-chap-6-hades/Plinth",
+    "original_id": "8795925",
+    "referent_id": 8795925,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "plinth",
+    "prefix": "22#109\n\n An obese grey rat toddled along the side of the crypt, moving the pebbles. An old stager: greatgrandfather: he knows the ropes. The grey alive crushed itself in under the ",
+    "suffix": ", wriggled itself in under it. Good hidingplace for treasure. \n\n Who lives there? Are laid the remains of Robert Emery. Robert Emmet was buried here by torchlight, wasn't he? Makin",
+    "start": 59493,
+    "end": 59499,
+    "canonical_text": "plinth"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8795925,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

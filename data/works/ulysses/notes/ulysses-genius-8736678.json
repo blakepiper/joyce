@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8736678",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Potato I have",
+  "html_source": "<p>Given to Bloom by his mother (Gifford).  The potato crop failure in the 18th century led to devastation by famine and emmigration. A plight also present in Jewish history.</p><p><img src=\"https://images.rapgenius.com/0a04bee65cd5a9dc2074748efd002533.650x434x1.jpg\" alt=\"\" /></p><p><img src=\"https://images.rapgenius.com/02d11cc631478b6a9bbd2466297eb0d8.425x282x1.jpg\" alt=\"\" /></p><p>PROPOSED SUGGESTION: Can you expound on your point here? Not sure how your annotation connects with this line.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8736678/James-joyce-ulysses-chap-4-calypso/Potato-i-have",
+    "original_id": "8736678",
+    "referent_id": 8736678,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Potato I have",
+    "prefix": " the leather headband. White slip of paper. Quite safe. \n\n1961#56\n\n On the doorstep he felt in his hip pocket for the latchkey. Not there. In the trousers I left off. Must get it. ",
+    "suffix": ". Creaky wardrobe. No use disturbing her. She turned over sleepily that time. He pulled the halldoor to after him very quietly, more, till the footleaf dropped gently over the thre",
+    "start": 4520,
+    "end": 4533,
+    "canonical_text": "Potato I have"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8736678,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.8125
+      },
+      {
+        "id": 5817434,
+        "login": "TopherGaray",
+        "name": "TopherGaray",
+        "role": null,
+        "attribution": 0.1875
+      }
+    ]
+  },
+  "color": "F59627"
+}

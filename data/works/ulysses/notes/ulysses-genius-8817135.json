@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8817135",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Bubble and squeak.",
+  "html_source": "<p>Bubble and squeak is traditionally made from cold leftover vegetables, such as those that accompanied a Sunday roast. The key ingredients are cabbage and potatoes (boiled or mashed) but other leftovers may be thrown in, as well: Brussels sprouts, kale, onions, leeks, carrots, peas, and meat. The ingredients are coarsely chopped, combined, seasoned with salt and pepper (and maybe a little freshly grated nutmeg), and pan fried until crisp and golden.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8817135/James-joyce-ulysses-chap-8-lestrygonians/Bubble-and-squeak",
+    "original_id": "8817135",
+    "referent_id": 8817135,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Bubble and squeak.",
+    "prefix": "the animal too. Pluck and draw fowl. Wretched brutes there at the cattlemarket waiting for the poleaxe to split their skulls open. Moo. Poor trembling calves. Meh. Staggering bob. ",
+    "suffix": " Butchers' buckets wobble lights. Give us that brisket off the hook. Plup. Rawhead and bloody bones. Flayed glasseyed sheep hung from their haunches, sheepsnouts bloodypapered sniv",
+    "start": 45530,
+    "end": 45548,
+    "canonical_text": "Bubble and squeak."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8817135,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

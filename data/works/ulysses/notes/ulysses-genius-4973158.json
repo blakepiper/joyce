@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4973158",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Ask nothing more of me, sweet. All I can give you I give.",
+  "html_source": "<p>These are the first two lines of “the Oblation” by Algernon Charles Swinburne mentioned in a following annotation.</p><p>PROPOSED SUGGESTION: It’s from the Bible. One of the apostles was accosted by a beggar for money but the apostle was broke then decided to heal him(a miracle). Sorry I forget the name of the apostle</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4973158/James-joyce-ulysses-chap-1-telemachus/Ask-nothing-more-of-me-sweet-all-i-can-give-you-i-give",
+    "original_id": "4973158",
+    "referent_id": 4973158,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Ask nothing more of me, sweet. All I can give you I give.",
+    "prefix": "ch milk. Buck Mulligan brought up a florin, twisted it round in his fingers and cried: \n\n — A miracle! \n\n1939#13\n\n He passed it along the table towards the old woman, saying: \n\n — ",
+    "suffix": " \n\n Stephen laid the coin in her uneager hand. \n\n1932#14\n\n — We'll owe twopence, he said. \n\n — Time enough, sir, she said, taking the coin. Time enough. Good morning, sir. \n\n She c",
+    "start": 25859,
+    "end": 25916,
+    "canonical_text": "Ask nothing more of me, sweet. All I can give you I give."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4973158,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.6727272727272726
+      },
+      {
+        "id": 1045290,
+        "login": "StickRivero",
+        "name": "StickRivero",
+        "role": "contributor",
+        "attribution": 0.32727272727272727
+      }
+    ]
+  },
+  "color": "F59627"
+}

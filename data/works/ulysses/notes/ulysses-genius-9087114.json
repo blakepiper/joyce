@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9087114",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Up his beaver",
+  "html_source": "<p>beaver<br />noun, Armor.<br />a piece of plate armor for covering the lower part of the face and throat, worn especially with an open helmet, as a sallet or basinet.</p><p><img src=\"https://images.genius.com/0ab1d3ca4de042ca723a8a50c738fc6f.95x120x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9087114/James-joyce-ulysses-chap-14-oxen-of-the-sun/Up-his-beaver",
+    "original_id": "9087114",
+    "referent_id": 9087114,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "up his beaver",
+    "prefix": "brewage like to mead. \n\n And the learning knight let pour for childe Leopold a draught and halp thereto the while all they that were there drank every each. And childe Leopold did ",
+    "suffix": " for to pleasure him and took apertly somewhat in amity for he never drank no manner of mead which he then put by and anon full privily he voided the more part in his neighbour gla",
+    "start": 11241,
+    "end": 11254,
+    "canonical_text": "up his beaver"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9087114,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

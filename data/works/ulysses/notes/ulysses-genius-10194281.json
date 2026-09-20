@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10194281",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Pray for us",
+  "html_source": "<p>A corruption of the Litany of the Saints<br /><a href=\"http://www.catholic.org/prayers/prayer.php?p=254\" rel=\"noopener nofollow\">http://www.catholic.org/prayers/prayer.php?p=254</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10194281/James-joyce-ulysses-chap-15-circe/Pray-for-us",
+    "original_id": "10194281",
+    "referent_id": 10194281,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "pray for us",
+    "prefix": "ughters of Erin, in black garments, with large prayerbooks and long lighted candles in their hands, kneel down and pray.) \n\n1986#406\n\n THE DAUGHTERS OF ERIN \n\n \n\n Kidney of Bloom, ",
+    "suffix": ".\nFlower of the Bath, pray for us.\n1932#439 Mentor of Menton, pray for us.\nCanvasser for the Freeman, pray for us.\nCharitable Mason, pray for us.\nWandering Soap, pray for us.\nSweet",
+    "start": 96708,
+    "end": 96719,
+    "canonical_text": "pray for us"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9115
+  },
+  "genius": {
+    "referent_id": 10194281,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

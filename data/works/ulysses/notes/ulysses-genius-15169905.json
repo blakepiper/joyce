@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15169905",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "M. P., P. C.",
+  "html_source": "<p>Abbreviations of Member of Parliament (MP) and Peace Commissioner (PC). KP probably refers to a Knight of the order of Saint Patrick, but I am less certain.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15169905/James-joyce-ulysses-chap-17-ithaca/M-p-p-c",
+    "original_id": "15169905",
+    "referent_id": 15169905,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "M. P., P. C.",
+    "prefix": " magistrate or justice of the peace with a family crest and coat of arms and appropriate classical motto (Semper paratus), duly recorded in the court directory (Bloom, Leopold P., ",
+    "suffix": ", K. P., L. L. D. honoris causa, Bloomville, Dundrum) and mentioned in court and fashionable intelligence (Mr and Mrs Leopold Bloom have left Kingstown for England). \n\n What course",
+    "start": 101212,
+    "end": 101224,
+    "canonical_text": "M. P., P. C."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15169905,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

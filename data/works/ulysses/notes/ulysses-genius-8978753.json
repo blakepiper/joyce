@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8978753",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Casement",
+  "html_source": "<p>Roger David Casement (1864 – 1916), formerly known as Sir Roger Casement CMG between 1911 and shortly before his execution for treason, when he was stripped of his knighthood and other honours, was a British diplomat of Irish extraction, humanitarian activist, Irish nationalist, and poet. Described as the “father of twentieth-century human rights investigations”, he was honored in 1905 for the Casement Report on the Congo and knighted in 1911 for his important investigations of human rights abuses in Peru. He then made efforts during World War I to gain German military aid for the 1916 Easter Rising which sought to gain Irish independence.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8978753/James-joyce-ulysses-chap-12-cyclops/Casement",
+    "original_id": "8978753",
+    "referent_id": 8978753,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Casement",
+    "prefix": "the flag. \n\n — Well, says J. J., if they're any worse than those Belgians in the Congo Free State they must be bad. Did you read that report by a man what's this his name is? \n\n — ",
+    "suffix": ", says the citizen. He's an Irishman. \n\n — Yes, that's the man, says J. J. Raping the women and girls and flogging the natives on the belly to squeeze all the red rubber they can o",
+    "start": 98928,
+    "end": 98936,
+    "canonical_text": "Casement"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8978753,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4877012",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Paris garden",
+  "html_source": "<p>Shakespeare uses “Paris-garden” to refer to the famous bear-garden kept by Robert de Paris in the reign of Richard II (See for example: <a href=\"https://genius.com/William-shakespeare-henry-viii-act-5-scene-4-annotated\" rel=\"noopener nofollow\">Henry VIII, Act 5, Scene 4</a>).</p><p>It was situated close to the Globe Theatre, on the southern bank of the Thames.</p><p><img src=\"https://filepicker-images.genius.com/lSBCZhCWTmeH4lo0XLsb_Screenshot%20%283%29.png\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4877012/James-joyce-ulysses-chap-9-scylla-and-charybdis/Paris-garden",
+    "original_id": "4877012",
+    "referent_id": 4877012,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Paris garden",
+    "prefix": " hour of a day in mid June, Stephen said, begging with a swift glance their hearing. The flag is up on the playhouse by the bankside. The bear Sackerson growls in the pit near it, ",
+    "suffix": ". Canvasclimbers who sailed with Drake chew their sausages among the groundlings. \n\n Local colour. Work in all you know. Make them accomplices. \n\n — Shakespeare has left the huguen",
+    "start": 8767,
+    "end": 8779,
+    "canonical_text": "Paris garden"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4877012,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1482232,
+        "login": "JayEn",
+        "name": "JayEn",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

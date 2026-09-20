@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8769969",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Recruiting poster",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/ba3d22a61ae312723a9b8b5d948bba08.1000x670x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8769969/James-joyce-ulysses-chap-5-lotus-eaters/Recruiting-poster",
+    "original_id": "8769969",
+    "referent_id": 8769969,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "recruiting poster",
+    "prefix": " Post here. No-one. In. \n\n He handed the card through the brass grill. \n\n — Are there any letters for me? he asked. \n\n While the postmistress searched a pigeonhole he gazed at the ",
+    "suffix": " with soldiers of all arms on parade: and held the tip of 1932#63his baton against his nostrils, smelling freshprinted rag paper. No answer probably. Went too far last time. \n\n The",
+    "start": 4001,
+    "end": 4018,
+    "canonical_text": "recruiting poster"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8769969,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

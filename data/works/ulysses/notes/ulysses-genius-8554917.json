@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8554917",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "John of God’s",
+  "html_source": "<p>The ‘House of St John of God’ was an insane asylum, still in operation in Dublin today, but with a more congenial self-description.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8554917/James-joyce-ulysses-chap-12-cyclops/John-of-gods",
+    "original_id": "8554917",
+    "referent_id": 8554917,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "John of God's",
+    "prefix": " Are you a strict t.t.? says Joe. \n\n — Not taking anything between drinks, says I. \n\n — What about paying our respects to our friend? says Joe. \n\n — Who? says I. Sure, he's out in ",
+    "suffix": " off his head, poor man. \n\n — Drinking his own stuff? says Joe. \n\n — Ay, says I. Whisky and water on the brain. \n\n — Come around to Barney Kiernan's, says Joe. I want to see the ci",
+    "start": 3475,
+    "end": 3488,
+    "canonical_text": "John of God's"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8554917,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

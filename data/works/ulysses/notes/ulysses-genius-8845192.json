@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8845192",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Glasthule",
+  "html_source": "<p>Glasthule (/ɡlæs.θuːl/; Irish: Glas Tuathail, meaning “Toole’s Streamlet”) is a suburb of Dublin, Ireland. It is along Dublin’s East Coast, between Dún Laoghaire and Dalkey.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8845192/James-joyce-ulysses-chap-9-scylla-and-charybdis/Glasthule",
+    "original_id": "8845192",
+    "referent_id": 8845192,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Glasthule",
+    "prefix": "phen laughed. \n\n1961#199\n\n Quickly, warningfully Buck Mulligan bent down. \n\n — The tramper Synge is looking for you, he said, to murder you. He heard you pissed on his halldoor in ",
+    "suffix": ". He's out in pampooties to murder you. \n\n — Me! Stephen exclaimed. That was your contribution to literature. \n\n Buck Mulligan gleefully bent back, laughing to the dark eavesdroppi",
+    "start": 32696,
+    "end": 32705,
+    "canonical_text": "Glasthule"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8845192,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

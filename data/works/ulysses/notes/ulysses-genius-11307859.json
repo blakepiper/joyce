@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11307859",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "16 June 1904",
+  "html_source": "<p>Bloomsday, now universally known among Joyceans. This is actually the only reference that confirms the day that Ulysses takes place.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11307859/James-joyce-ulysses-chap-10-wandering-rocks/16-june-1904",
+    "original_id": "11307859",
+    "referent_id": 11307859,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "16 June 1904",
+    "prefix": "e, Marion? Change it and get another by Mary Cecil Haye. \n\n The disk shot down the groove, wobbled a while, ceased and ogled them: six. \n\n Miss Dunne clicked on the keyboard: \n\n — ",
+    "suffix": ". \n\n Five tallwhitehatted sandwichmen between Monypeny's corner and the slab where Wolfe Tone's statue was not, eeled themselves turning H. E. L. Y.'S and plodded back as they had ",
+    "start": 21297,
+    "end": 21309,
+    "canonical_text": "16 June 1904"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11307859,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 4017165,
+        "login": "KevinFoy",
+        "name": "KevinFoy",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33270715",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "They",
+  "html_source": "<p>Wow!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33270715/James-joyce-ulysses-chap-14-oxen-of-the-sun/They",
+    "original_id": "33270715",
+    "referent_id": 33270715,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "They",
+    "prefix": "may. See ye here. And he showed them glistering coins of the tribute and goldsmiths' notes the worth of two pound nineteen shilling that he had, he said, for a song which he writ. ",
+    "suffix": " all admired to see the foresaid riches in such dearth of money as was herebefore. His words were then these as followeth: Know all men, he said, time's ruins build eternity's mans",
+    "start": 20476,
+    "end": 20480,
+    "canonical_text": "They"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 33270715,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

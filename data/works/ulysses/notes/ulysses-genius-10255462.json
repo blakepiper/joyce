@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10255462",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Soggarth Aroon",
+  "html_source": "<p>Ságart arún—Priest, dear<br />poem by John Banim (1798–1842)<br /><a href=\"http://www.bartleby.com/246/195.html\" rel=\"noopener nofollow\">http://www.bartleby.com/246/195.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10255462/James-joyce-ulysses-chap-15-circe/Soggarth-aroon",
+    "original_id": "10255462",
+    "referent_id": 10255462,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Soggarth Aroon",
+    "prefix": "ine! (She wails.) You met with poor old Ireland and how does she stand? \n\n1939#418\n\n STEPHEN \n\n How do I stand you? The hat trick! Where's the third person of the Blessed Trinity? ",
+    "suffix": "? The reverend Carrion Crow. \n\n CISSY CAFFREY \n\n(Shrill.) Stop them from fighting! \n\n A ROUGH \n\n Our men retreated. \n\n1932#511\n\n PRIVATE CARR \n\n(Tugging at his belt.) I'll wring th",
+    "start": 223448,
+    "end": 223462,
+    "canonical_text": "Soggarth Aroon"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10255462,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

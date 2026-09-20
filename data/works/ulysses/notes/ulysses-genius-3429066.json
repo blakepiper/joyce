@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-3429066",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "He",
+  "html_source": "<p>Referring to Buck Mulligan, still in parodic mode.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3429066/James-joyce-ulysses-chap-1-telemachus/He",
+    "original_id": "3429066",
+    "referent_id": 3429066,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "he",
+    "prefix": "t and intoned: \n\n — Introibo ad altare Dei. \n\n Halted, he peered down the dark winding stairs and called up coarsely: \n\n — Come up, Kinch! Come up, you fearful jesuit. \n\n Solemnly ",
+    "suffix": " came forward and mounted the round gunrest. He faced about and blessed gravely thrice the tower, the surrounding country and the awaking mountains. Then, catching sight of Stephen",
+    "start": 428,
+    "end": 430,
+    "canonical_text": "he"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9575
+  },
+  "genius": {
+    "referent_id": 3429066,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1061426,
+        "login": "tooManyWords",
+        "name": "tooManyWords",
+        "role": "contributor",
+        "attribution": 0.5
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.25
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.25
+      }
+    ]
+  },
+  "color": "F59627"
+}

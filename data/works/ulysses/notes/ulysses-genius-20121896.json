@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20121896",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Bellycrab",
+  "html_source": "<p>stomach cancer</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20121896/James-joyce-ulysses-chap-14-oxen-of-the-sun/Bellycrab",
+    "original_id": "20121896",
+    "referent_id": 20121896,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "bellycrab",
+    "prefix": "ick men's oil to his limbs. The man then right earnest asked the nun of which death the dead man was died and the nun answered him and said that he was died in Mona Island through ",
+    "suffix": " three year agone come Childermas and she 1961#385prayed to God the Allruthful to have his dear soul in his undeathliness. He heard her sad words, in held hat sad staring. So stood",
+    "start": 7090,
+    "end": 7099,
+    "canonical_text": "bellycrab"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20121896,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 11041825,
+        "login": "raggedclaws",
+        "name": "raggedclaws",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

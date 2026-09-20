@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15157132",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Scorbutic",
+  "html_source": "<p>A term meaning related to or having scurvy.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15157132/James-joyce-ulysses-chap-15-circe/Scorbutic",
+    "original_id": "15157132",
+    "referent_id": 15157132,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "scorbutic",
+    "prefix": "chine with a time fuse. \n\n1922#446\n\n BLOOM \n\n No, no. Pig's feet. I was at a funeral. \n\n FIRST WATCH \n\n(Draws his truncheon.) Liar! \n\n(The beagle lifts his snout, showing the grey ",
+    "suffix": " face of Paddy Dignam. He has gnawed all. He exhales a putrid carcasefed breath. He grows to human size and shape. His dachshund coat becomes a brown mortuary habit. His green eye ",
+    "start": 60831,
+    "end": 60840,
+    "canonical_text": "scorbutic"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15157132,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

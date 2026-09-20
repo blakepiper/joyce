@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-10931512",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "72 thermal units",
+  "html_source": "<p>Joyce’s math seems lacking as it would take 162 BTUs to heat 1 pound of water from 50 to 212 degrees Fahrenheit</p><p>A British thermal unit (BTU) is the amount of energy required to increase the temperature of one pound of water by one degree Fahrenheit (F).</p><p>Refers to specific heat capacity, now stated as</p><p><a href=\"http://www.bbc.co.uk/schools/gcsebitesize/science/aqa/heatingandcooling/buildingsrev3.shtml\" rel=\"noopener nofollow\">http://www.bbc.co.uk/schools/gcsebitesize/science/aqa/heatingandcooling/buildingsrev3.shtml</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10931512/James-joyce-ulysses-chap-17-ithaca/72-thermal-units",
+    "original_id": "10931512",
+    "referent_id": 10931512,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "72 thermal units",
+    "prefix": "rt absorbed, in part transmitted, gradually raising the temperature of the water from normal to boiling point, a rise in temperature expressible as the result of an expenditure of ",
+    "suffix": " needed to raise 1 pound of water from 50° to 212° Fahrenheit. \n\n1922#626\n\n What announced the accomplishment of this rise in temperature? \n\n A double falciform ejection of water v",
+    "start": 18153,
+    "end": 18169,
+    "canonical_text": "72 thermal units"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10931512,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.5529411764705883
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.44705882352941173
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8971137",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Conspuez les Anglais! Perfide Albion!",
+  "html_source": "<p>Roughly:<br />Damn the English! Treacherous island!</p><p>The White Cliffs of Dover may have given rise to the name Albion (Ancient Greek: Ἀλβίων), the oldest known name of the island of Great Britain.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8971137/James-joyce-ulysses-chap-12-cyclops/Conspuez-les-anglais-perfide-albion",
+    "original_id": "8971137",
+    "referent_id": 8971137,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Conspuez les Anglais! Perfide Albion!",
+    "prefix": "e anywhere in Europe except in a cabinet d'aisance. \n\n And says John Wyse: \n\n — Full many a flower is born to blush unseen. \n\n And says Lenehan that knows a bit of the lingo: \n\n — ",
+    "suffix": " \n\n1922#311\n\n He said and then lifted he in his rude great brawny strengthy hands the medher of dark strong foamy ale and, uttering his tribal slogan Lamh Dearg Abu, he drank to th",
+    "start": 77293,
+    "end": 77330,
+    "canonical_text": "Conspuez les Anglais! Perfide Albion!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8971137,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

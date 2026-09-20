@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21137577",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Take some slips from the counter going out.",
+  "html_source": "<p>Stephen makes a mental note to grab a few library slips, probably as scratch paper.</p><p>Joyce was known to compose on scraps of paper.<br /><a href=\"https://www.grin.com/document/9422\" rel=\"noopener nofollow\">https://www.grin.com/document/9422</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21137577/James-joyce-ulysses-chap-9-scylla-and-charybdis/Take-some-slips-from-the-counter-going-out",
+    "original_id": "21137577",
+    "referent_id": 21137577,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Take some slips from the counter going out.",
+    "prefix": " \n\n Suddenly happied he jumped up and reached in a stride John Eglinton's desk. \n\n — May I? he said. The Lord has spoken to Malachi. \n\n He began to scribble on a slip of paper. \n\n ",
+    "suffix": " \n\n — Those who are married, Mr Best, douce herald, said, all save one, shall live. The rest shall keep as they are. \n\n He laughed, unmarried, at Eglinton Johannes, of arts a bache",
+    "start": 61637,
+    "end": 61680,
+    "canonical_text": "Take some slips from the counter going out."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21137577,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

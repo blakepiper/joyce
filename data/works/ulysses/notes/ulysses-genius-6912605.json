@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-6912605",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "La ci darem",
+  "html_source": "<p><strong>“La ci darem la mano”</strong><br />A famous duet from Mozart’s 1787 opera <em>Don Giovanni.</em> Don Giovanni has just met Zerlina and her betrothed, Masetto. In an attempt to distract Masetto and have him removed from the scene, Giovanni offers to host a wedding celebration for the couple at his castle. When Masetto has left, Giovanni attempts to seduce Zerlina to accompany him to his castle. The title in English is “There we will give each other our hands.”</p><p><a href=\"https://www.youtube.com/watch?v=yGLPnrwzpKM\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=yGLPnrwzpKM</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6912605/James-joyce-ulysses-chap-4-calypso/La-ci-darem",
+    "original_id": "6912605",
+    "referent_id": 6912605,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "La ci darem",
+    "prefix": "d to straighten the bedspread. \n\n — Who was the letter from? he asked. \n\n Bold hand. Marion. \n\n — O, Boylan, she said. He's bringing the programme. \n\n — What are you singing? \n\n — ",
+    "suffix": " with J. C. Doyle, she said, and Love's Old Sweet Song. \n\n Her full lips, drinking, smiled. Rather stale smell that incense leaves next day. Like foul flowerwater. \n\n — Would you l",
+    "start": 19538,
+    "end": 19549,
+    "canonical_text": "Là ci darem"
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9091
+  },
+  "genius": {
+    "referent_id": 6912605,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1835164,
+        "login": "AdamKadmon",
+        "name": "AdamKadmon",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8751937",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Hone",
+  "html_source": "<p>“horse”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8751937/James-joyce-ulysses-chap-15-circe/Hone",
+    "original_id": "8751937",
+    "referent_id": 8751937,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "hone",
+    "prefix": " Bloom appears bareheaded, in a crimson velvet mantle trimmed with ermine, bearing Saint Edward's staff the orb and sceptre with the dove, the curtana. He is seated on a milkwhite ",
+    "suffix": " with long flowing crimson tail, richly caparisoned, with golden heads tall. Wild excitement. The ladies from their balconies throw down rosepetals. The air is perfumed with essenc",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "ambiguous",
+    "confidence": 0.3158892241045873
+  },
+  "genius": {
+    "referent_id": 8751937,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

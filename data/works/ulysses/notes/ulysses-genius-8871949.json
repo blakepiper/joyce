@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8871949",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Breviary",
+  "html_source": "<p>The Roman Breviary, used throughout the Latin Church, is divided into four parts according to the seasons of the year: Winter, Spring, Summer, and Autumn. It contains all the daily psalms, hymns, prayers, lessons, etc., necessary for reciting the office.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8871949/James-joyce-ulysses-chap-10-wandering-rocks/Breviary",
+    "original_id": "8871949",
+    "referent_id": 8871949,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "breviary",
+    "prefix": "d the cries of the boys' lines at their play, young cries in the quiet evening. He was their rector: his reign was mild. \n\n Father Conmee drew off his gloves and took his rededged ",
+    "suffix": " out. An ivory bookmark told him the page. \n\n Nones. He should have read that before lunch. But lady Maxwell had come. \n\n Father Conmee read in secret Pater and Ave and crossed his",
+    "start": 12005,
+    "end": 12013,
+    "canonical_text": "breviary"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 8871949,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

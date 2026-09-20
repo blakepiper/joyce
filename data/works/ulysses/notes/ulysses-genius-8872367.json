@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8872367",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Earl of Kildare",
+  "html_source": "<p>FitzGerald, Gerald, 8th Earl of Kildare, called the “Great Earl”.<br />Accused by the Archbishop of Cashel of burning down his cathedral, he answered: “I would not have done it if I had not been told that my Lord Archbishop was inside.” This frankness delighted King Henry VII, and we are told that when some one exclaimed, “All Ireland cannot govern this Earl,” Henry VII. rejoined, “Then let this Earl govern all Ireland.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8872367/James-joyce-ulysses-chap-10-wandering-rocks/Earl-of-kildare",
+    "original_id": "8872367",
+    "referent_id": 8872367,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "earl of Kildare",
+    "prefix": "207\n\n — I thought you were at a new gunpowder plot, J. J. O'Molloy said. \n\n Ned Lambert cracked his fingers in the air. \n\n — God! he cried. I forgot to tell him that one about the ",
+    "suffix": " after he set fire to Cashel cathedral. You know that one? I'm bloody sorry I did it, says he, but I declare to God I thought the archbishop was inside. He mightn't like it, though",
+    "start": 25397,
+    "end": 25412,
+    "canonical_text": "earl of Kildare"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8872367,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

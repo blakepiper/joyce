@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15129573",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Sarsfield",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Patrick_Sarsfield,_1st_Earl_of_Lucan\" rel=\"noopener nofollow\">Patrick Sarsfield</a>, Earl of Lucan, was a renowned military leader who signed the Treaty of Limerick for the Irish before leading the <a href=\"https://en.wikipedia.org/wiki/Flight_of_the_Wild_Geese\" rel=\"noopener nofollow\">Wild Geese</a> to fame in battle on continental Europe, where he died at the Battle of Landen. Reportedly, his dying words were “Would that this was for Ireland.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15129573/James-joyce-ulysses-chap-12-cyclops/Sarsfield",
+    "original_id": "15129573",
+    "referent_id": 15129573,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Sarsfield",
+    "prefix": "eneged us against the Williamites and they betrayed us. Remember Limerick and the broken treatystone. We gave our best blood to France and Spain, the wild geese. Fontenoy, eh? And ",
+    "suffix": " and O'Donnell, duke of Tetuan in Spain, and Ulysses Browne of Camus that was fieldmarshal to Maria Teresa. But what did we ever get for it? \n\n1939#239\n\n — The French! says the cit",
+    "start": 88689,
+    "end": 88698,
+    "canonical_text": "Sarsfield"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 15129573,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

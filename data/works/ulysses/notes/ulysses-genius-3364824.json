@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3364824",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Adepts",
+  "html_source": "<p>Master or Mahatma in theosophy whose spiritual awareness transcend the average persons and develop consciousness which leads to wisdom, love and purity.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3364824/James-joyce-ulysses-chap-9-scylla-and-charybdis/Adepts",
+    "original_id": "3364824",
+    "referent_id": 3364824,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "adepts",
+    "prefix": " I am the sacrificial butter. \n\n Dunlop, Judge, the noblest Roman of them all, A.E., Arval, the Name Ineffable, in heaven hight: K.H., their master, whose identity is no secret to ",
+    "suffix": ". Brothers of the great white lodge always watching to see if they can help. The Christ with the bridesister, moisture of light, born of an ensouled virgin, repentant sophia, depar",
+    "start": 3705,
+    "end": 3711,
+    "canonical_text": "adepts"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3364824,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

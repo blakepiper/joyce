@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1874597",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Maud Gonne’s letter",
+  "html_source": "<p><a href=\"http://en.wikipedia.org/wiki/Maud_Gonne\" rel=\"noopener nofollow\">Maud Gonne</a>, WB Yeats' lover, wrote a pamphlet urging young Irish women not to consort with the soldiers of the enemy.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1874597/James-joyce-ulysses-chap-5-lotus-eaters/Maud-gonnes-letter",
+    "original_id": "1874597",
+    "referent_id": 1874597,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Maud Gonne's letter",
+    "prefix": "lume. No, he's a grenadier. Pointed cuffs. There he is: royal Dublin fusiliers. Redcoats. Too showy. That must be why the women go after them. Uniform. Easier to enlist and drill. ",
+    "suffix": " about taking them off O'Connell street at night: disgrace to our Irish capital. Griffith's paper is 1961#72on the same tack now: an army rotten with venereal disease: overseas or ",
+    "start": 4767,
+    "end": 4786,
+    "canonical_text": "Maud Gonne's letter"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1874597,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 176532,
+        "login": "biblicalmike",
+        "name": "Michael Bible",
+        "role": "verified_artist",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-5111342",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Paddy Leonard",
+  "html_source": "<p>Appears as a character in “Counterparts,” ‘Dubliners,’ in Lestrygonians, and elsewhere in <em>Ulysses</em>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5111342/James-joyce-ulysses-chap-6-hades/Paddy-leonard",
+    "original_id": "5111342",
+    "referent_id": 5111342,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Paddy Leonard",
+    "prefix": " again its stiff wheels and their trunks swayed gently. Martin Cunningham twirled more quickly the peak of his beard. \n\n1922#87\n\n — Tom Kernan was immense last night, he said. And ",
+    "suffix": " taking him off to his face. \n\n1939#69\n\n — O, draw him out, Martin, Mr Power said eagerly. Wait till1961#90 you hear him, Simon, on Ben Dollard's singing of The Croppy Boy. \n\n — Im",
+    "start": 8285,
+    "end": 8298,
+    "canonical_text": "Paddy Leonard"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5111342,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 0.9285714285714286
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.07142857142857144
+      }
+    ]
+  },
+  "color": "F59627"
+}

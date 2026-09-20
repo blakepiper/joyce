@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9063772",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Bread cast on the waters",
+  "html_source": "<p>King James Bible<br />Cast thy bread upon the waters: for thou shalt find it after many days.<br />Ecclesiastes 11:1</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9063772/James-joyce-ulysses-chap-13-nausicaa/Bread-cast-on-the-waters",
+    "original_id": "9063772",
+    "referent_id": 9063772,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Bread cast on the waters",
+    "prefix": ". Who could count them? Never know what you find. Bottle with story of a treasure in it, thrown from a wreck. Parcels post. Children always want to throw things in the sea. Trust? ",
+    "suffix": ". What's this? Bit of stick. \n\n O! Exhausted that female has me. Not so young now. Will she come here tomorrow? Wait for her somewhere for ever. Must come back. Murderers do. Will ",
+    "start": 88671,
+    "end": 88695,
+    "canonical_text": "Bread cast on the waters"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9063772,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

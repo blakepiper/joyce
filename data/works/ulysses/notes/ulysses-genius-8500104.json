@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8500104",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Rotunda",
+  "html_source": "<p>The Rotunda Hospital was Dublin’s first maternity hospital. It was originally called the Dublin Lying-in Hospital. Attached to the hospital were several public function rooms including a large rotunda, after which the hospital was re-named. It was used for fund-raising events.</p><p><img src=\"https://images.rapgenius.com/9fed74645e6ce6861de342838e90ee3f.477x261x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8500104/James-joyce-ulysses-chap-6-hades/Rotunda",
+    "original_id": "8500104",
+    "referent_id": 8500104,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Rotunda",
+    "prefix": "too. Chummies and slaveys. Under the patronage of the late Father Mathew. Foundation stone for Parnell. Breakdown. Heart. \n\n White horses with white frontlet plumes came round the ",
+    "suffix": " corner, galloping. A tiny coffin flashed by. In a hurry1961#95 to bury. A mourning coach. Unmarried. Black for the married. Piebald for bachelors. Dun for a nun. \n\n — Sad, Martin ",
+    "start": 18517,
+    "end": 18524,
+    "canonical_text": "Rotunda"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8500104,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2680303,
+        "login": "Cortez67",
+        "name": "Cortez67",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

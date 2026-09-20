@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4699028",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Gay voice",
+  "html_source": "<p>While Joyce meant ‘gay’ in the original meaning of being light-hearted and/or carefree, in the context of the contrast between Mulligan’s jesting nature and Dedalus' later revealed exasperation at Haines' presence at the tower makes the description of his voice as ‘gay’ to be irritating, or overly facetious.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4699028/James-joyce-ulysses-chap-1-telemachus/Gay-voice",
+    "original_id": "4699028",
+    "referent_id": 4699028,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "gay voice",
+    "prefix": "at down on the edge of the gunrest, watching him still as he propped his mirror on the 1961#3parapet, dipped the brush in the bowl and lathered cheeks and neck. \n\n Buck Mulligan's ",
+    "suffix": " went on. \n\n1939#5\n\n — My name is absurd too: Malachi Mulligan, two dactyls. But it has a Hellenic ring, hasn't it? Tripping and sunny like the buck himself. We must go to Athens. ",
+    "start": 2352,
+    "end": 2361,
+    "canonical_text": "gay voice"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4699028,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1434474,
+        "login": "BartholomewJamesHeeren",
+        "name": "BartholomewJamesHeeren",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

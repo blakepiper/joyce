@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-3120409",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "You could have knelt down, damn it, Kinch, when your dying mother asked you, Buck Mulligan said.",
+  "html_source": "<p>Slightly ironic that the man who holds a mock service scolds another man for not praying with his mother. There is a clear limit to Mulligan’s irreverence.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3120409/James-joyce-ulysses-chap-1-telemachus/You-could-have-knelt-down-damn-it-kinch-when-your-dying-mother-asked-you-buck-mulligan-said",
+    "original_id": "3120409",
+    "referent_id": 3120409,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "You could have knelt down, damn it, Kinch, when your dying mother asked you, Buck Mulligan said.",
+    "prefix": "tephen's face. \n\n — The aunt thinks you killed your mother, he said. That's why she won't let me have anything to do with you. \n\n — Someone killed her, Stephen said gloomily. \n\n — ",
+    "suffix": " I'm hyperborean as much as you. But to think of your 1939#6mother begging you with her last breath to kneel down and pray for her. And you refused. There is something sinister in ",
+    "start": 5154,
+    "end": 5250,
+    "canonical_text": "You could have knelt down, damn it, Kinch, when your dying mother asked you, Buck Mulligan said."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3120409,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 580769,
+        "login": "tommy_hogue",
+        "name": "tommy_hogue",
+        "role": null,
+        "attribution": 0.6296296296296297
+      },
+      {
+        "id": 149810,
+        "login": "perfectrhyme",
+        "name": "Perfectrhyme",
+        "role": "editor",
+        "attribution": 0.3703703703703704
+      }
+    ]
+  },
+  "color": "F59627"
+}

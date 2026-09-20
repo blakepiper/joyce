@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5111278",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Gasworks",
+  "html_source": "<p>The Alliance and Consumer Gas Company at 110 Great Brunswick (now Pearse) Street, just southwest of the bridge over the Grand Canal. The works, notoriously odoriferous, transformed coal into gas for lighting and heating.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5111278/James-joyce-ulysses-chap-6-hades/Gasworks",
+    "original_id": "5111278",
+    "referent_id": 5111278,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Gasworks",
+    "prefix": " try to come. \n\n The carriage halted short. \n\n — What's wrong? \n\n — We're stopped. \n\n — Where are we? \n\n Mr Bloom put his head out of the window. \n\n — The grand canal, he said. \n\n ",
+    "suffix": ". Whooping cough they say it cures. Good job Milly never got it. Poor children! Doubles them up black and blue in convulsions. Shame really. Got off lightly with illnesses compared",
+    "start": 6987,
+    "end": 6995,
+    "canonical_text": "Gasworks"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5111278,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

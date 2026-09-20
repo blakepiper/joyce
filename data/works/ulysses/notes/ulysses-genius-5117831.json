@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5117831",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Kish lightship",
+  "html_source": "<p>The Kish Bank  is a shallow sand bank about seven miles (11 km) off the coast of Dublin, in Ireland. It is marked by the Kish Lighthouse, a landmark well known to sailors and ferry passengers passing through Dublin Bay and Dún Laoghaire harbour.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5117831/James-joyce-ulysses-chap-3-proteus/Kish-lightship",
+    "original_id": "5117831",
+    "referent_id": 5117831,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Kish lightship",
+    "prefix": " edge of the sea and wet sand slapped his boots. The new air greeted him, harping in wild nerves, wind of wild air 1932#40of seeds of brightness. Here, I am not walking out to the ",
+    "suffix": ", am I? He stood suddenly, his feet beginning to sink slowly in the quaking soil. Turn back. \n\n Turning, he scanned the shore south, his feet sinking again slowly in new sockets. T",
+    "start": 16884,
+    "end": 16898,
+    "canonical_text": "Kish lightship"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5117831,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1618748,
+        "login": "Kataryna",
+        "name": "Kataryna",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

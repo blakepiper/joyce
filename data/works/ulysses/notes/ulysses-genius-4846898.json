@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-4846898",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Et vidit Deus. Et erant valde bona.",
+  "html_source": "<p>Genesis 1:4 God saw that the light was good,</p><p>PROPOSED SUGGESTION: There is no word for “light” in the latin text. It is based rather on Genesis 1:31: God saw all that he had made, and it was very good.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4846898/James-joyce-ulysses-chap-3-proteus/Et-vidit-deus-et-erant-valde-bona",
+    "original_id": "4846898",
+    "referent_id": 4846898,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Et vidit Deus. Et erant valde bona.",
+    "prefix": "r the sharp rocks, cramming the scribbled note and pencil into a pocket, his hat tilted down on his eyes. That is Kevin Egan's movement I made, nodding for his nap, sabbath sleep. ",
+    "suffix": " Alo! Bonjour. Welcome as the flowers in May. Under its leaf he watched through peacocktwittering lashes the southing sun. I am caught in this burning scene. Pan's hour, the faunal",
+    "start": 28591,
+    "end": 28626,
+    "canonical_text": "Et vidit Deus. Et erant valde bona."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4846898,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2082994,
+        "login": "zebrozebry",
+        "name": "zebrozebry",
+        "role": null,
+        "attribution": 0.7446808510638298
+      },
+      {
+        "id": 1492497,
+        "login": "NilsARaknerud",
+        "name": "NilsARaknerud",
+        "role": null,
+        "attribution": 0.2127659574468085
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.0425531914893617
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33270646",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Be",
+  "html_source": "<p>This is all you’ll ever need.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33270646/James-joyce-ulysses-chap-14-oxen-of-the-sun/Be",
+    "original_id": "33270646",
+    "referent_id": 33270646,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Be",
+    "prefix": " drink we, quod he, of this mazer and quaff ye this mead which is not indeed parcel of my body but my soul's bodiment. Leave ye fraction of bread to them that live by bread alone. ",
+    "suffix": " not afeard neither for any want for this will comfort more than the other will dismay. See ye here. And he showed them glistering coins of the tribute and goldsmiths' notes the wo",
+    "start": 20211,
+    "end": 20213,
+    "canonical_text": "Be"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 33270646,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

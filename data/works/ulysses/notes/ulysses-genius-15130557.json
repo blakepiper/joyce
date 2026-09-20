@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15130557",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Introit in Epiphania Domini",
+  "html_source": "<p>The introit is a Latin term meaning an initial/entrance hymn at the start of a Mass</p><p>Epiphania Domini is Latin for “on the Epiphany of the Lord”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15130557/James-joyce-ulysses-chap-12-cyclops/Introit-in-epiphania-domini",
+    "original_id": "15130557",
+    "referent_id": 15130557,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "introit in Epiphania Domini",
+    "prefix": "es, eyes on a dish, wax candles, aspergills, unicorns. And as they wended their way by Nelson's Pillar, Henry street, Mary street, Capel street, Little Britain street chanting the ",
+    "suffix": " which beginneth Surge, illuminare and thereafter most sweetly the gradual Omnes which saith de Saba venient they did divers wonders such as casting out devils, raising the dead to",
+    "start": 110270,
+    "end": 110297,
+    "canonical_text": "introit in Epiphania Domini"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15130557,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

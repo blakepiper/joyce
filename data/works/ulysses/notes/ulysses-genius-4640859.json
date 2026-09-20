@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4640859",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "A boy for the skins",
+  "html_source": "<p>A boy that has been going through the trash heaps and garbage cans. Bloom is entering a slum district of Dublin (Gifford, p85).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4640859/James-joyce-ulysses-chap-5-lotus-eaters/A-boy-for-the-skins",
+    "original_id": "4640859",
+    "referent_id": 4640859,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "a boy for the skins",
+    "prefix": "egraph office. Could have given that address too. And past the sailors' home. He turned from the morning noises of the quayside and walked through Lime street. By Brady's cottages ",
+    "suffix": " lolled, his bucket of offal linked, smoking a chewed fagbutt. A smaller girl with scars of eczema on her forehead eyed him, listlessly holding her battered caskhoop. Tell him if h",
+    "start": 319,
+    "end": 338,
+    "canonical_text": "a boy for the skins"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4640859,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.8695652173913043
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.13043478260869565
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10016272",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Eight beatitudes",
+  "html_source": "<p><a href=\"http://www2.connectseward.org/chu/stv/beatitudes.htm\" rel=\"noopener nofollow\">http://www2.connectseward.org/chu/stv/beatitudes.htm</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10016272/James-joyce-ulysses-chap-15-circe/Eight-beatitudes",
+    "original_id": "10016272",
+    "referent_id": 10016272,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "eight beatitudes",
+    "prefix": " top of Hennessy's three star. I was guilty with Whelan when he slipped into the bed. \n\n STEPHEN \n\n In the beginning was the word, in the end the world without end. Blessed be the ",
+    "suffix": ". \n\n(The beatitudes, Dixon, Madden, Crotthers, Costello, Lenehan, Bannon, Mulligan and Lynch in white surgical students' gowns, four abreast, goosestepping, tramp fast past in nois",
+    "start": 111855,
+    "end": 111871,
+    "canonical_text": "eight beatitudes"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10016272,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

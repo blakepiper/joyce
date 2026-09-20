@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8950891",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Towser",
+  "html_source": "<p>a large rough person; especially :  one full of energy</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8950891/James-joyce-ulysses-chap-12-cyclops/Towser",
+    "original_id": "8950891",
+    "referent_id": 8950891,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "towser",
+    "prefix": "y, says Joe. And how's the old heart, citizen? says he. \n\n1961#295\n\n — Never better, a chara, says he. What Garry? Are we going to win? Eh? \n\n And with that he took the bloody old ",
+    "suffix": " by the scruff of the neck and, by Jesus, he near throttled him. \n\nThe figure seated on a large boulder at the foot of a round tower was that of a broadshouldered deepchested stron",
+    "start": 9530,
+    "end": 9536,
+    "canonical_text": "towser"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9531
+  },
+  "genius": {
+    "referent_id": 8950891,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

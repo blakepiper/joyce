@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21162415",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "A pleased bottom",
+  "html_source": "<p>A reference to Nick Bottom, a character in A Midsummer Night’s Dream.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21162415/James-joyce-ulysses-chap-9-scylla-and-charybdis/A-pleased-bottom",
+    "original_id": "21162415",
+    "referent_id": 21162415,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "A pleased bottom",
+    "prefix": "r's pate godlily with a priesteen in booktalk. \n\n — O please do, sir... I shall be most pleased... \n\n Amused Buck Mulligan mused in pleasant murmur with himself, selfnodding: \n\n — ",
+    "suffix": ". \n\n1939#157\n\n The turnstile. \n\n Is that?... Blueribboned hat... Idly writing... What? Looked?... \n\n The curving balustrade: smoothsliding Mincius. \n\n1922#206\n\n Puck Mulligan, pana",
+    "start": 64996,
+    "end": 65012,
+    "canonical_text": "A pleased bottom"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21162415,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

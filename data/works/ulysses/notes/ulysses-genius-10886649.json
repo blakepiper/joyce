@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10886649",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Society for promoting Christianity among the Jews",
+  "html_source": "<p><a href=\"https://archive.org/details/historylondonso00gidngoog\" rel=\"noopener nofollow\">https://archive.org/details/historylondonso00gidngoog</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10886649/James-joyce-ulysses-chap-17-ithaca/Society-for-promoting-christianity-among-the-jews",
+    "original_id": "10886649",
+    "referent_id": 10886649,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Society for promoting Christianity among the Jews",
+    "prefix": "ef in the tenets of the Irish (protestant) church (to which his father Rudolf Virag (later Rudolph Bloom) had been converted from the Israelitic faith and communion in 1865 by the ",
+    "suffix": ") subsequently abjured by him in favour of Roman catholicism at the epoch of and with a view to his matrimony in 1888. To Daniel Magrane and Francis Wade in 1882 during a juvenile ",
+    "start": 103029,
+    "end": 103078,
+    "canonical_text": "Society for promoting Christianity among the jews"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 10886649,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

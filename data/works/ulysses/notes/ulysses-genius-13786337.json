@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13786337",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Red",
+  "html_source": "<p>red – Variant of rede, archaic:<br />“(to) counsel, control.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13786337/James-joyce-ulysses-chap-14-oxen-of-the-sun/Red",
+    "original_id": "13786337",
+    "referent_id": 13786337,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "red",
+    "prefix": "this his son young Stephen and for that his languor becalmed him there after longest wanderings 1939#280insomuch as they feasted him for that time in the honourablest manner. Ruth ",
+    "suffix": " him, love led on with will to wander, loth to leave. \n\n For they were right witty scholars. And he heard their aresouns each gen other as touching birth and righteousness, young M",
+    "start": 14096,
+    "end": 14099,
+    "canonical_text": "red"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9676
+  },
+  "genius": {
+    "referent_id": 13786337,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

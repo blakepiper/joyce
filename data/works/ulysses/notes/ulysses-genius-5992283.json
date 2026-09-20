@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5992283",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Old Mother Hubbard went to the cupboard.",
+  "html_source": "<p>famous nursery rhyme line that concludes “to fetch her poor dog a bone.  When she got there, the cupboard was bare, and so the poor dog had none.”  The biscuit tin is empty (bare) as we previously found out so both Bob Doran and the dog “had none”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5992283/James-joyce-ulysses-chap-12-cyclops/Old-mother-hubbard-went-to-the-cupboard",
+    "original_id": "5992283",
+    "referent_id": 5992283,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Old Mother Hubbard went to the cupboard.",
+    "prefix": "\n\n So he went over to the biscuit tin Bob Doran left to see if there was anything he could lift on the nod, the old cur after 1961#325him backing his luck with his mangy snout up. ",
+    "suffix": " \n\n — Not there, my child, says he. \n\n — Keep your pecker up, says Joe. She'd have won the money only for the other dog. \n\n And J. J. and the citizen arguing about law and history ",
+    "start": 78512,
+    "end": 78552,
+    "canonical_text": "Old Mother Hubbard went to the cupboard."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5992283,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1689524,
+        "login": "LeopoldQ",
+        "name": "LeopoldQ",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

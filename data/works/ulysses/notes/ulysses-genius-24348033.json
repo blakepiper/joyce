@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-24348033",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Poor mamma’s panacea.",
+  "html_source": "<p>A reference to the potato he carries as a good luck charm and memento of his mother</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/24348033/James-joyce-ulysses-chap-15-circe/Poor-mammas-panacea",
+    "original_id": "24348033",
+    "referent_id": 24348033,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Poor mamma's panacea.",
+    "prefix": "ose shave that but cured the stitch. Must take up Sandow's exercises again. On the hands down. Insure against street accident too. The Providential. (He feels his trouser pocket.) ",
+    "suffix": " Heel easily 1939#312catch in track or bootlace in a cog. Day the wheel of the black Maria peeled off my shoe at Leonard's corner. Third time is the charm. Shoe 1961#435trick. Inso",
+    "start": 9540,
+    "end": 9561,
+    "canonical_text": "Poor mamma's panacea."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 24348033,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9699081,
+        "login": "AntoineBoisvert",
+        "name": "AntoineBoisvert",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

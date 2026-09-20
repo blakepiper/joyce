@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4143187",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Break a lance",
+  "html_source": "<p>Engage in an honourable fight.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4143187/James-joyce-ulysses-chap-2-nestor/Break-a-lance",
+    "original_id": "4143187",
+    "referent_id": 4143187,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "break a lance",
+    "prefix": " from my cousin. \n\n — Good morning, sir, Stephen said, putting the sheets in his pocket. Thank you. \n\n — Not at all, Mr Deasy said as he searched the papers on his desk. I like to ",
+    "suffix": " with you, old as I am. \n\n — Good morning, sir, Stephen said again, bowing to his bent back. \n\n He went out by the open porch and down the gravel path under the trees, hearing the ",
+    "start": 24380,
+    "end": 24393,
+    "canonical_text": "break a lance"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4143187,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1209714,
+        "login": "AlexBeston",
+        "name": "AlexBeston",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11467553",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "It seems history is to blame.",
+  "html_source": "<p>Just as Haines seems to be confessing to England’s guilt he suggests it is not the English but an impersonal history that behaved badly. A revealing comment.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11467553/James-joyce-ulysses-chap-1-telemachus/It-seems-history-is-to-blame",
+    "original_id": "11467553",
+    "referent_id": 11467553,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "It seems history is to blame.",
+    "prefix": "obacco before he spoke. \n\n — I can quite understand that, he said calmly. An Irishman must think like that, I daresay. We feel in England that we have treated you rather unfairly. ",
+    "suffix": " \n\n The proud potent titles clanged over Stephen's memory the triumph1932#19 of their brazen bells: et unam sanctam catholicam1961#20 et apostolicam ecclesiam: the slow growth and ",
+    "start": 36625,
+    "end": 36654,
+    "canonical_text": "It seems history is to blame."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11467553,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1313008,
+        "login": "PeterFif",
+        "name": "PeterFif",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

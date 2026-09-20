@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5110835",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "I’ll tickle his catastrophe,",
+  "html_source": "<p>In ‘II Henry IV’, the hostess, Fang (the sheriff’s sergeant), and his boy attempt to arrest Falstaff, who is accompanied by Page and Bardolph. Page threatens the hostess with his drawn sword: “Away, you scullion! You rampallian! You Fustilarian! I’ll tickle your catastrophe [buttocks]!”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5110835/James-joyce-ulysses-chap-6-hades/Ill-tickle-his-catastrophe",
+    "original_id": "5110835",
+    "referent_id": 5110835,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "I'll tickle his catastrophe,",
+    "prefix": "p of God and His blessed mother I'll make it my business to write a letter one of those days to his mother or his aunt or whatever she is that will open her eye as wide as a gate. ",
+    "suffix": " believe you me. \n\n He cried above the clatter of the wheels: \n\n — I won't have her bastard of a nephew ruin my son. A counterjumper's son. Selling tapes in my cousin, Peter Paul M",
+    "start": 4085,
+    "end": 4113,
+    "canonical_text": "I'll tickle his catastrophe,"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5110835,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

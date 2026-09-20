@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4667383",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "A grass one",
+  "html_source": "<p>“A grass one” means that Mr. and Mrs. Deasy are separated. [Gifford]</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4667383/James-joyce-ulysses-chap-7-aeolus/A-grass-one",
+    "original_id": "4667383",
+    "referent_id": 4667383,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "a grass one",
+    "prefix": "o! \n\n A woman brought sin into the world. For Helen, the runaway wife of Menelaus, ten years the Greeks. O'Rourke, prince of Breffni. \n\n — Is he a widower? Stephen asked. \n\n — Ay, ",
+    "suffix": ", Myles Crawford said, his eye running down the typescript. Emperor's horses. Habsburg. An Irishman saved his life on the ramparts of Vienna. Don't you forget! Maximilian Karl O'Do",
+    "start": 29424,
+    "end": 29435,
+    "canonical_text": "a grass one"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4667383,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

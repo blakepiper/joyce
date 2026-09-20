@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15123210",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "A bully",
+  "html_source": "<p>A thug hired for purposes of violence or intimidation (from Cassell’s Dictionary of Slang, p. 204)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15123210/James-joyce-ulysses-chap-12-cyclops/A-bully",
+    "original_id": "15123210",
+    "referent_id": 15123210,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "a bully",
+    "prefix": "lock. Night he was near being lagged only Paddy Leonard knew the bobby, 14A. Blind to the world up in a shebeen in Bride street after closing time, fornicating with two shawls and ",
+    "suffix": " on guard, drinking porter out of teacups. And calling himself a Frenchy for the shawls, Joseph Manuo, and talking against the Catholic religion, and he serving mass in Adam and Ev",
+    "start": 52016,
+    "end": 52023,
+    "canonical_text": "a bully"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15123210,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

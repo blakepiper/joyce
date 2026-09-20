@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9037791",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "My love and cottage near Rochelle",
+  "html_source": "<p><a href=\"http://twain.lib.niu.edu/islandora/object/niu-lincoln%3A37189\" rel=\"noopener nofollow\">http://twain.lib.niu.edu/islandora/object/niu-lincoln%3A37189</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9037791/James-joyce-ulysses-chap-13-nausicaa/My-love-and-cottage-near-rochelle",
+    "original_id": "9037791",
+    "referent_id": 9037791,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "My love and cottage near Rochelle",
+    "prefix": "nose with the pimples on it and his sandy moustache a bit white under his nose. Poor father! With all his faults she loved him still when he sang Tell me, Mary, how to woo thee or ",
+    "suffix": " and they had stewed cockles and lettuce with Lazenby's salad dressing for supper and when he sang The moon hath raised with Mr Dignam that died suddenly and was buried, God have m",
+    "start": 21869,
+    "end": 21902,
+    "canonical_text": "My love and cottage near Rochelle"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9037791,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

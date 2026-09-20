@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10504527",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Gospodi pomilooy",
+  "html_source": "<p><a href=\"https://www.youtube.com/watch?v=gph6COcAvNg\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=gph6COcAvNg</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10504527/James-joyce-ulysses-chap-16-eumaeus/Gospodi-pomilooy",
+    "original_id": "10504527",
+    "referent_id": 10504527,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Gospodi pomilooy",
+    "prefix": "merica. I seen icebergs plenty, growlers. I was in Stockholm and the Black Sea, the Dardanelles, under Captain Dalton the best bloody man that ever scuttled a ship. I seen Russia. ",
+    "suffix": ". That's how the Russians prays.\n\n—You seen queer sights, don't be talking, put in a jarvey.\n\n—Why, the sailor said, shifting his partially chewed plug, I seen queer things too, up",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.8485
+  },
+  "genius": {
+    "referent_id": 10504527,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

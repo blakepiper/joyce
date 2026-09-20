@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8332640",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Mr Brandes",
+  "html_source": "<p>Georg Brandes (1842-1927), born Morris Cohen, Of Jewish descent, was a Danish writer &amp; critic. His realistic principles were shared with Henrik Ibsen, who was admired by Joyce. His “Critical Study” of Shakespeare was highly regarded.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8332640/James-joyce-ulysses-chap-9-scylla-and-charybdis/Mr-brandes",
+    "original_id": "8332640",
+    "referent_id": 8332640,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Mr Brandes",
+    "prefix": "Eglinton. East of the sun, west of the moon: Tir na n-og. Booted the twain and staved. \n\nHow many miles to Dublin?\nThree score and ten, sir. \nWill we be there by candlelight? \n\n — ",
+    "suffix": " accepts it, Stephen said, as the first play of the closing period. \n\n — Does he? What does Mr Sidney Lee, or Mr Simon Lazarus as some aver his name is, say of it? \n\n — Marina, Ste",
+    "start": 23587,
+    "end": 23597,
+    "canonical_text": "Mr Brandes"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8332640,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2568065,
+        "login": "GeoffBobker",
+        "name": "GeoffBobker",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13785770",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Leeches",
+  "html_source": "<p>leeches (archaic)<br />doctors or healers.</p><p>Old English lǣce, of Germanic origin.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13785770/James-joyce-ulysses-chap-14-oxen-of-the-sun/Leeches",
+    "original_id": "13785770",
+    "referent_id": 13785770,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "leeches",
+    "prefix": "it had fallen1932#351out a matter of some year agone with a woman of Eblana in Horne's house that now was trespassed out of this world and the self night next before her death all ",
+    "suffix": " and pothecaries had taken counsel of her 1961#388case). And they said farther she should live because in the beginning, they said, the woman should bring forth in pain and wherefo",
+    "start": 14533,
+    "end": 14540,
+    "canonical_text": "leeches"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13785770,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

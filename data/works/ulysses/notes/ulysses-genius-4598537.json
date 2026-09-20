@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4598537",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "The figure 16",
+  "html_source": "<p>In Chapter 16 there is a sailor with the #16 tattooed on his chest.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4598537/James-joyce-ulysses-chap-16-eumaeus/The-figure-16",
+    "original_id": "4598537",
+    "referent_id": 4598537,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "the figure 16",
+    "prefix": "ey were all looking at his chest, he accommodatingly dragged his shirt more open so that, on top of the timehonoured symbol of the mariner's hope and rest, they had a full view of ",
+    "suffix": " and a young man's sideface looking frowningly rather. \n\n — Tattoo, the exhibitor explained. That was done when we were Iying becalmed off Odessa in the Black Sea under Captain Dal",
+    "start": 45518,
+    "end": 45531,
+    "canonical_text": "the figure 16"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4598537,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

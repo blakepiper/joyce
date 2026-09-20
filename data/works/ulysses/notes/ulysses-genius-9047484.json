@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9047484",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Licking pennies",
+  "html_source": "<p>Pica is characterized by an appetite for substances that are largely non-nutritive, such as ice, paper, clay, drywall or paint, metal, chalk, soil, glass, or sand…Pica is more commonly seen in women and children. Particularly it is seen in pregnant women, small children, and those with developmental disabilities such as autism.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9047484/James-joyce-ulysses-chap-13-nausicaa/Licking-pennies",
+    "original_id": "9047484",
+    "referent_id": 9047484,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Licking pennies",
+    "prefix": "one is delicate. Near her monthlies, I expect, makes them feel ticklish. I have such a bad headache today. Where did I put the letter? Yes, all right. All kinds of crazy longings. ",
+    "suffix": ". Girl in Tranquilla convent that nun 1932#332told me liked to smell rock oil. Virgins go mad in the end I suppose. Sister? How many women in Dublin have it today? Martha, she. Som",
+    "start": 55103,
+    "end": 55118,
+    "canonical_text": "Licking pennies"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9047484,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

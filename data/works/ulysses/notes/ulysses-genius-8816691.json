@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8816691",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Black glasses",
+  "html_source": "<p>solar eclipse glasses filter out all of the harmful ultraviolet and infrared light and almost all of the intense visible light to allow you to view the eclipse safely.</p><p><img src=\"https://images.rapgenius.com/b77a1268f2f12b2ce869a8c5b83c4176.1000x563x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8816691/James-joyce-ulysses-chap-8-lestrygonians/Black-glasses",
+    "original_id": "8816691",
+    "referent_id": 8816691,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "black glasses",
+    "prefix": " arm's length towards the sun. Wanted to try that often. Yes: completely. The tip of his little finger blotted out the sun's disk. Must be the focus where the rays cross. If I had ",
+    "suffix": ". Interesting. There was a lot of talk about those sunspots when we were in Lombard street west. Terrific explosions they are. There will be a total eclipse this year: autumn some ",
+    "start": 35958,
+    "end": 35971,
+    "canonical_text": "black glasses"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8816691,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

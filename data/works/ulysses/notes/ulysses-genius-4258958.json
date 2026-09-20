@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4258958",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "The middle ages",
+  "html_source": "<p>Around the 5th-15th century, usually with reference to Europe, since it refers to the period after Classical civilization and before the Reniassance. Also known as the Medieval period.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4258958/James-joyce-ulysses-chap-1-telemachus/The-middle-ages",
+    "original_id": "4258958",
+    "referent_id": 4258958,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "the middle ages",
+    "prefix": "st and looked gravely at his watcher, gathering about his legs the loose folds of his gown. The plump1932#3shadowed face and sullen oval jowl recalled a prelate, patron of arts in ",
+    "suffix": ". A pleasant smile broke quietly over his lips. \n\n — The mockery of it! he said gaily. Your absurd name, an ancient Greek! \n\n1986#3\n\n He pointed his finger in friendly jest and wen",
+    "start": 1871,
+    "end": 1886,
+    "canonical_text": "the middle ages"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4258958,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.6428571428571429
+      },
+      {
+        "id": 1254035,
+        "login": "cpage8",
+        "name": "cpage8",
+        "role": null,
+        "attribution": 0.35714285714285715
+      }
+    ]
+  },
+  "color": "F59627"
+}

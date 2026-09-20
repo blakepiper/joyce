@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23883404",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Sad",
+  "html_source": "<p>Ah dear says Bloom, that’s terrible.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23883404/James-joyce-ulysses-chap-14-oxen-of-the-sun/Sad",
+    "original_id": "23883404",
+    "referent_id": 23883404,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Sad",
+    "prefix": "feared. Glad after she was that ere adread was. Her he asked if O'Hare Doctor tidings sent from far coast and she with grameful sigh him answered that O'Hare Doctor in heaven was. ",
+    "suffix": " was the man that word to hear that him so heavied in bowels ruthful. All she there told him, ruing death for friend so young, algate sore unwilling God's rightwiseness to withsay.",
+    "start": 6613,
+    "end": 6616,
+    "canonical_text": "Sad"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23883404,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

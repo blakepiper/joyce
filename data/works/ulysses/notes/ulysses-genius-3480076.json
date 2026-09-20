@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3480076",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Whither away? Exploitable ground.",
+  "html_source": "<p>Internal narrative.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3480076/James-joyce-ulysses-chap-9-scylla-and-charybdis/Whither-away-exploitable-ground",
+    "original_id": "3480076",
+    "referent_id": 3480076,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Whither away? Exploitable ground.",
+    "prefix": "e wellpleased pleaser. \n\n1922#183\n\n A tall figure in bearded homespun rose from shadow and unveiled its cooperative watch. \n\n — I am afraid I am due at the Homestead. \n\n1939#140\n\n ",
+    "suffix": " \n\n — Are you going? John Eglinton's active eyebrows asked. Shall we see you at Moore's tonight? Piper is coming. \n\n — Piper! Mr Best piped. Is Piper back? \n\n Peter Piper pecked a ",
+    "start": 15232,
+    "end": 15265,
+    "canonical_text": "Whither away? Exploitable ground."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3480076,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

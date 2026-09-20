@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-17227400",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Tellurian",
+  "html_source": "<p>Earthly.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/17227400/James-joyce-ulysses-chap-17-ithaca/Tellurian",
+    "original_id": "17227400",
+    "referent_id": 17227400,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "tellurian",
+    "prefix": "f of dews, the ocean of fecundity. \n\n1961#701\n\n What special affinities appeared to him to exist between the moon and woman? \n\n Her antiquity in preceding and surviving successive ",
+    "suffix": " generations: her nocturnal predominance: her satellitic dependence: her luminary reflection: her constancy under all her phases, rising and setting by her appointed times, waxing ",
+    "start": 73808,
+    "end": 73817,
+    "canonical_text": "tellurian"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 17227400,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 8460622,
+        "login": "LP-Reader1",
+        "name": "LP-Reader1",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15123952",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Stubbs’s",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Stubbs%27_Gazette\" rel=\"noopener nofollow\">Stubbs' Gazette</a> is a public record of bad debtors in Ireland, first published in 1828 and published continuously since 1836 (i.e., still being published to this day)!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15123952/James-joyce-ulysses-chap-12-cyclops/Stubbss",
+    "original_id": "15123952",
+    "referent_id": 15123952,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Stubbs's",
+    "prefix": "e. \n\n — Hope so, says Ned. \n\n1986#2621922#306\n\n Now what were those two at? J. J. getting him off the grand jury list and the other give him a leg over the stile. With his name in ",
+    "suffix": ". Playing cards, hobnobbing with flash toffs with a swank glass in their eye, drinking fizz and he half smothered in writs and garnishee orders. Pawning his gold watch in Cummins o",
+    "start": 66007,
+    "end": 66015,
+    "canonical_text": "Stubbs's"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15123952,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8362655",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Lex talionis",
+  "html_source": "<p>The “eye for an eye” of the Law of Moses. The principle or law of retaliation that a punishment inflicted should correspond in degree and kind to the offense of the wrongdoer; retributive justice.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8362655/James-joyce-ulysses-chap-7-aeolus/Lex-talionis",
+    "original_id": "8362655",
+    "referent_id": 8362655,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "lex talionis",
+    "prefix": "s that? the professor asked. \n\n ITALIA, MAGISTRA ARTIUM \n\n — He spoke on the law of evidence, J. J. O'Molloy said, of Roman justice as contrasted with the earlier Mosaic code, the ",
+    "suffix": ". And he cited the Moses of Michelangelo in the Vatican. \n\n — Ha. \n\n1961#139\n\n — A few wellchosen words, Lenehan prefaced. Silence! \n\n Pause. J. J. O'Molloy took out his cigarettec",
+    "start": 41623,
+    "end": 41635,
+    "canonical_text": "lex talionis"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8362655,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

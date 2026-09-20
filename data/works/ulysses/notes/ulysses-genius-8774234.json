@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8774234",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Lovephiltres",
+  "html_source": "<p>noun: philtre<br />a drink supposed to arouse love and desire for a particular person in the drinker; a love potion.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8774234/James-joyce-ulysses-chap-5-lotus-eaters/Lovephiltres",
+    "original_id": "8774234",
+    "referent_id": 8774234,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Lovephiltres",
+    "prefix": "mself had a bit of pluck. Simples. Want to be careful. Enough stuff here to chloroform you. Test: turns blue litmus paper red. Chloroform. Overdose of laudanum. Sleeping draughts. ",
+    "suffix": ". Paragoric poppysyrup bad for cough. Clogs the pores or the phlegm. Poisons the only cures. Remedy where you least expect it. Clever of nature. \n\n — About a fortnight ago, sir? \n\n",
+    "start": 31011,
+    "end": 31023,
+    "canonical_text": "Lovephiltres"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8774234,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

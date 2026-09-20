@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15062737",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Sow by the lug",
+  "html_source": "<p>i.e., female pig by the ear</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15062737/James-joyce-ulysses-chap-9-scylla-and-charybdis/Sow-by-the-lug",
+    "original_id": "15062737",
+    "referent_id": 15062737,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "sow by the lug",
+    "prefix": "t stile. \n\n — Yes, Mr Best said youngly. I feel Hamlet quite young. The bitterness might be from the father but the passages with Ophelia are surely from the son. \n\n Has the wrong ",
+    "suffix": ". He is in my father. I am in his son. \n\n — That mole is the last to go, Stephen said, laughing. \n\n John Eglinton made a nothing pleasing mow. \n\n1961#194\n\n — If that were the birth",
+    "start": 22132,
+    "end": 22146,
+    "canonical_text": "sow by the lug"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15062737,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

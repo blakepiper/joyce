@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2636535",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "A blue French telegram",
+  "html_source": "<p>The telegrams delivered by the postal service, telephony and telegram French monopoly were always on blue paper making them distinct from other telegrams in the other Western countries which were usually on regular white paper.</p><p><img src=\"https://images.rapgenius.com/bd1ddf14ad9d70242bc1556f99e140b6.400x196x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2636535/James-joyce-ulysses-chap-3-proteus/A-blue-french-telegram",
+    "original_id": "2636535",
+    "referent_id": 2636535,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "a blue French telegram",
+    "prefix": " your valise, porter threepence, across the slimy pier at Newhaven. Comment? Rich booty you brought back; Le Tutu, five 1939#33tattered numbers of Pantalon Blanc et Culotte Rouge; ",
+    "suffix": ", curiosity to show: \n\n — Nother dying come home father. \n\n The aunt thinks you killed your mother. That's why she won't. \n\nThen here's a health to Mulligan's aunt \nAnd I'll tell y",
+    "start": 12262,
+    "end": 12284,
+    "canonical_text": "a blue French telegram"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2636535,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 168636,
+        "login": "Sarc",
+        "name": "Sarc",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

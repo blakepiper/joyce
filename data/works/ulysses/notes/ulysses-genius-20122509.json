@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20122509",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Alleged",
+  "html_source": "<p>A typo. This should be “alleges,” not “alleged.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20122509/James-joyce-ulysses-chap-14-oxen-of-the-sun/Alleged",
+    "original_id": "20122509",
+    "referent_id": 20122509,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "alleged",
+    "prefix": "which long usage has consecrated as the seat of castigation. The abnormalities of harelip, breastmole, supernumerary digits, negro's inkle, strawberry mark and portwine stain were ",
+    "suffix": " by one as a primafacie and natural hypothetical explanation of swineheaded (the case of Madame Grissel Steevens was not forgotten) or doghaired infants occasionally born. The hypo",
+    "start": 71400,
+    "end": 71407,
+    "canonical_text": "alleged"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20122509,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11041825,
+        "login": "raggedclaws",
+        "name": "raggedclaws",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

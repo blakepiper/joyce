@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8773771",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Old Glynn",
+  "html_source": "<p>John Glynn was born in Dublin in 1834. A gifted musician from an early age, he was taught music by James Wilkinson, an eminent organist. Glynn was professor of music in many of the most important schools and convents in Dublin.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8773771/James-joyce-ulysses-chap-5-lotus-eaters/Old-glynn",
+    "original_id": "8773771",
+    "referent_id": 8773771,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Old Glynn",
+    "prefix": "hole atmosphere of the. Quite right. Perfectly right that is. \n\n1922#78\n\n Mr Bloom looked back towards the choir. Not going to be any music. Pity. Who has the organ here I wonder? ",
+    "suffix": " he knew how to make that instrument talk, the vibrato: fifty pounds a year they say he had in Gardiner street. Molly was in fine voice that day, the Stabat Mater of Rossini. Fathe",
+    "start": 25024,
+    "end": 25033,
+    "canonical_text": "Old Glynn"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8773771,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

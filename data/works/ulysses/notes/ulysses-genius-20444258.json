@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20444258",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Dunphy’s",
+  "html_source": "<p>A pub. Now called Doyle’s.<br /><a href=\"https://www.rte.ie/brainstorm/2018/0607/968915-finding-the-most-authentic-joyce-pub-for-bloomsday/\" rel=\"noopener nofollow\">https://www.rte.ie/brainstorm/2018/0607/968915-finding-the-most-authentic-joyce-pub-for-bloomsday/</a></p><p>Bloom later thinks this is prime real estate for a pub because it is on the road to and from Glasnevin Cemetery.</p><p>This must be true because even though Mr Cunningham recalls a horrifying story of a corpse falling out of a coffin in front of Dunphy’s, just the mention of the place makes the men want to have a drink there after the burial.</p><p>A bleak joke within the bleak joke is that Paddy Dignam died of complications from alcoholism, but his friends are going to “drink to his health.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20444258/James-joyce-ulysses-chap-6-hades/Dunphys",
+    "original_id": "20444258",
+    "referent_id": 20444258,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Dunphy's",
+    "prefix": "galloping two abreast? \n\n — Well, there's something in that, Mr Dedalus granted. \n\n — And, Martin Cunningham said, we wouldn't have scenes like that when the hearse capsized round ",
+    "suffix": " and upset the coffin on to the road. \n\n — That was terrible, Mr Power's shocked face said, and the corpse fell about the road. Terrible! \n\n — First round Dunphy's, Mr Dedalus said",
+    "start": 24257,
+    "end": 24265,
+    "canonical_text": "Dunphy's"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 20444258,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4649125",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Et ne nos inducas in tentationem.",
+  "html_source": "<p>This is the start of The Lord’s Prayer in Latin. <em>And lead us not into temptation</em>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4649125/James-joyce-ulysses-chap-6-hades/Et-ne-nos-inducas-in-tentationem",
+    "original_id": "4649125",
+    "referent_id": 4649125,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Et ne nos inducas in tentationem.",
+    "prefix": "in. Then he walked to the other end and shook it again. Then he came back and put it back in the bucket. As you were before you rested. It's all written down: he has to do it. \n\n— ",
+    "suffix": " \n\n The server piped the answers in the treble. I often thought it would be better to have boy servants. Up to fifteen or so. After that, of course ... \n\n Holy water that was, I ex",
+    "start": 36854,
+    "end": 36887,
+    "canonical_text": "Et ne nos inducas in tentationem."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4649125,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

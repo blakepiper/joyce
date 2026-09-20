@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8231231",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Bloom is on the Rye",
+  "html_source": "<p>(<a href=\"http://www.james-joyce-music.com/song14_lyrics.html\" rel=\"noopener nofollow\">http://www.james-joyce-music.com/song14_lyrics.html</a>)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8231231/James-joyce-ulysses-chap-10-wandering-rocks/Bloom-is-on-the-rye",
+    "original_id": "8231231",
+    "referent_id": 8231231,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Bloom is on the Rye",
+    "prefix": "ants' arch. A darkbacked figure scanned books on the hawker's cart. \n\n — There he is, Lenehan said. \n\n — Wonder what he's buying, M'Coy said, glancing behind. \n\n — Leopoldo or the ",
+    "suffix": ", Lenehan said. \n\n — He's dead nuts on sales, M'Coy said. I was with him one day and he bought a book from an old one in Liffey street for two bob. There were fine plates in it wor",
+    "start": 29828,
+    "end": 29847,
+    "canonical_text": "Bloom is on the Rye"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8231231,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1520984,
+        "login": "RedSwanHotel",
+        "name": "RedSwanHotel",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

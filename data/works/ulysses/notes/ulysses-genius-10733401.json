@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-10733401",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Nap",
+  "html_source": "<p><a href=\"https://www.britannica.com/topic/nap-card-game\" rel=\"noopener nofollow\">https://www.britannica.com/topic/nap-card-game</a></p><p>The winner makes his/her ‘nap’ (G &amp; S, p576).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10733401/James-joyce-ulysses-chap-17-ithaca/Nap",
+    "original_id": "10733401",
+    "referent_id": 10733401,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "nap",
+    "prefix": "d his mind? \n\n What to do with our wives. \n\n1961#685\n\n What had been his hypothetical singular solutions? \n\n Parlour games (dominos, halma, tiddledywinks, spilikins, cup and ball, ",
+    "suffix": ", spoil five, bezique, twentyfive, beggar my neighbour, draughts, chess or backgammon): embroidery, darning or knitting for the policeaided clothing society: musical duets, mandoli",
+    "start": 42658,
+    "end": 42661,
+    "canonical_text": "nap"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9572
+  },
+  "genius": {
+    "referent_id": 10733401,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.7692307692307692
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.23076923076923075
+      }
+    ]
+  },
+  "color": "F59627"
+}

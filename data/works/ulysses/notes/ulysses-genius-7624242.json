@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-7624242",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "At eleven it is.",
+  "html_source": "<p>Reference to the funeral for Paddy Dignam in Chapter/Episode Six: Hades.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7624242/James-joyce-ulysses-chap-5-lotus-eaters/At-eleven-it-is",
+    "original_id": "7624242",
+    "referent_id": 7624242,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "At eleven it is.",
+    "prefix": " home to ma, da. Slack hour: won't be many there. He crossed Townsend street, passed the frowning face of Bethel. El, yes: house of: Aleph, Beth. And past Nichols' the undertaker. ",
+    "suffix": " Time enough. Daresay Corny Kelleher bagged the job for O'Neill's. Singing with his eyes shut. Corny. Met her once in the park. In the dark. What a lark. Police tout. Her name and ",
+    "start": 812,
+    "end": 828,
+    "canonical_text": "At eleven it is."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 7624242,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 288913,
+        "login": "jhthomps",
+        "name": "jhthomps",
+        "role": "contributor",
+        "attribution": 0.9166666666666667
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.08333333333333334
+      }
+    ]
+  },
+  "color": "F59627"
+}

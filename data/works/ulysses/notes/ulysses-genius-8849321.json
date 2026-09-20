@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8849321",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Apostolic succession",
+  "html_source": "<p>Apostolic succession<br />n<br />(Roman Catholic Church) the doctrine that the authority of Christian bishops derives from the Apostles through an unbroken line of consecration</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8849321/James-joyce-ulysses-chap-9-scylla-and-charybdis/Apostolic-succession",
+    "original_id": "8849321",
+    "referent_id": 8849321,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "apostolic succession",
+    "prefix": "son. Boccaccio's Calandrino was the first and last man who felt himself with child. Fatherhood, in the sense of conscious begetting, is unknown to man. It is a mystical estate, an ",
+    "suffix": ", from only begetter to only begotten. On that mystery and not on the madonna which the cunning Italian intellect flung to the mob of Europe the church is founded and founded irrem",
+    "start": 48620,
+    "end": 48640,
+    "canonical_text": "apostolic succession"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8849321,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

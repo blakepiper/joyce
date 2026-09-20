@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15153711",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Lafayette",
+  "html_source": "<p>An early Dublin photographer (who “limns” “images”). The “vigilant wanderer… stained by the mire of indelible dishonor” is probably Bloom. The “image of voluptuous loveliness” is probably Gerty MacDowell.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15153711/James-joyce-ulysses-chap-14-oxen-of-the-sun/Lafayette",
+    "original_id": "15153711",
+    "referent_id": 15153711,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Lafayette",
+    "prefix": "onour, but from whose steadfast and constant heart no lure or peril or threat or degradation could ever efface the image of that voluptuous loveliness which the inspired pencil of ",
+    "suffix": " has limned for ages yet to come. \n\n It had better be stated here and now at the outset that the perverted transcendentalism to which Mr S. Dedalus' (Div. Scep.) contentions would ",
+    "start": 88580,
+    "end": 88589,
+    "canonical_text": "Lafayette"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15153711,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

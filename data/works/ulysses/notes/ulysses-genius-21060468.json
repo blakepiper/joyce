@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21060468",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Murder will out.",
+  "html_source": "<p>Another Hamlet reference; and perhaps a pun on the now-abandoned home where the murder was committed</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21060468/James-joyce-ulysses-chap-6-hades/Murder-will-out",
+    "original_id": "21060468",
+    "referent_id": 21060468,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Murder will out.",
+    "prefix": "found in a garden. Her clothing1932#89 consisted of. How she met her death. Recent outrage. The weapon used. Murderer is still at large. Clues. A shoelace. The body to be exhumed. ",
+    "suffix": " \n\n1922#96\n\n Cramped in this carriage. She mightn't like me to come that way without letting her know. Must be careful about women. Catch them once with their pants down. Never for",
+    "start": 28342,
+    "end": 28358,
+    "canonical_text": "Murder will out."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21060468,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 4177912,
+        "login": "ShaneGreen",
+        "name": "ShaneGreen",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

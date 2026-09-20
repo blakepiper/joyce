@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2468990",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "—Where do you find a pressman like that now, eh? the editor cried. He flung the pages down.",
+  "html_source": "<p>He asks, in that day in age where were pressman like Tay Pay &amp; Pyatt.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2468990/James-joyce-ulysses-chap-7-aeolus/Where-do-you-find-a-pressman-like-that-now-eh-the-editor-cried-he-flung-the-pages-down",
+    "original_id": "2468990",
+    "referent_id": 2468990,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "—Where do you find a pressman like that now, eh? the editor cried. He flung the pages down.",
+    "prefix": "ather of scare journalism, Lenehan confirmed, and the brother-in-law of Chris Callinan. \n\n — Hello?... Are you there?... Yes, he's here still. Come across yourself. \n\n1932#122\n\n — ",
+    "suffix": " \n\n — Clamn dever, Lenehan said to Mr O'Madden Burke. \n\n — Very smart, Mr O'Madden Burke said. \n\n Professor MacHugh came from the inner office. \n\n1961#137\n\n — Talking about the inv",
+    "start": 37931,
+    "end": 38021,
+    "canonical_text": "Where do you find a pressman like that now, eh? the editor cried. He flung the pages down."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2468990,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

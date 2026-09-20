@@ -1,0 +1,63 @@
+{
+  "id": "ulysses-genius-4163172",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Stephen, an elbow rested on the jagged granite, leaned his palm against his brow and gazed at the fraying edge of his shiny black coat-sleeve.",
+  "html_source": "<p>Possibly the first line of the book which expresses Stephen’s abject state explicitly.</p><p>The verbs here play a crucial role in drawing a parallel between his current state of mind and his actions.</p><p>He rests his elbow on ‘jagged granite’— something that doesn’t provide comfort but, quite to the contrary, makes him feel more restless, ostensibly from lack of finding anything better suited. Comfort is not Stephen’s priority at the moment.</p><p>The ‘fraying’ edge of his coat sleeve could perhaps be an ominous symbol for his own emotional decay: he and his sleeve both are, it could be said, tattered.</p><p>The particular quality of the damage to Stephen’s coat is of interest. Frayed edges come from abrasion, as on jagged granite, while shininess comes from pressure, as when resting. Together they give the impression that Stephen’s pose here is a long-held one. As such, they not only communicate Stephen’s poverty but his stasis. As we are shown, Stephen has become ‘stuck’: in his aesthetic pursuits and in Dublin itself.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4163172/James-joyce-ulysses-chap-1-telemachus/Stephen-an-elbow-rested-on-the-jagged-granite-leaned-his-palm-against-his-brow-and-gazed-at-the-fraying-edge-of-his-shiny-black-coat-sleeve",
+    "original_id": "4163172",
+    "referent_id": 4163172,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Stephen, an elbow rested on the jagged granite, leaned his palm against his brow and gazed at the fraying edge of his shiny black coat-sleeve.",
+    "prefix": "rant smile curled his lips. \n\n — But a lovely mummer! he murmured to himself. Kinch, the loveliest mummer of them all! \n\n He shaved evenly and with care, in silence, seriously. \n\n ",
+    "suffix": " Pain, that was not yet the pain of love, fretted his heart. Silently, in a dream she had come to him after her death, her wasted body within its loose brown graveclothes giving of",
+    "start": 5685,
+    "end": 5827,
+    "canonical_text": "Stephen, an elbow rested on the jagged granite, leaned his palm against his brow and gazed at the fraying edge of his shiny black coat-sleeve."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4163172,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1217925,
+        "login": "ubiquitousbasterd",
+        "name": "ubiquitousbasterd",
+        "role": null,
+        "attribution": 0.4252873563218391
+      },
+      {
+        "id": 1313008,
+        "login": "PeterFif",
+        "name": "PeterFif",
+        "role": "contributor",
+        "attribution": 0.41379310344827586
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.13218390804597702
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.028735632183908046
+      }
+    ]
+  },
+  "color": "F59627"
+}

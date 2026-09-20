@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8814483",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Pillar of salt",
+  "html_source": "<p>Lot’s wife is a figure first mentioned in Genesis 19. The Book of Genesis describes how she became a pillar of salt after she looked back at Sodom.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8814483/James-joyce-ulysses-chap-8-lestrygonians/Pillar-of-salt",
+    "original_id": "8814483",
+    "referent_id": 8814483,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Pillar of salt",
+    "prefix": "g something catch the eye at once. Everyone dying to know what she's writing. Get twenty of them round you if you stare at nothing. Have a finger in the pie. Women too. Curiosity. ",
+    "suffix": ". Wouldn't have it of course because 1939#113he didn't think of it himself first. Or the inkbottle I suggested with a false stain of black celluloid. His ideas for ads like Plumtre",
+    "start": 8397,
+    "end": 8411,
+    "canonical_text": "Pillar of salt"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8814483,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

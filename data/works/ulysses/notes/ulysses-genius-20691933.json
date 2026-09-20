@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20691933",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "The soap I put there.",
+  "html_source": "<p>This is the lemon soap that Bloom bought at Sweny’s in Chapter 5 and moved from his hip pocket to his inner handkerchief pocket in Chapter 6. Now he moves it back to his hip pocket.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20691933/James-joyce-ulysses-chap-7-aeolus/The-soap-i-put-there",
+    "original_id": "20691933",
+    "referent_id": 20691933,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "the soap I put there.",
+    "prefix": ". Heavy greasy smell there always is in those works. Lukewarm glue in Thom's next door when I was there. \n\n1939#92\n\n He took out his handkerchief to dab his nose. Citronlemon? Ah, ",
+    "suffix": " Lose it out of that pocket. Putting back his handkerchief he took out the soap and stowed it away, buttoned, into the hip pocket of his trousers. \n\n1922#1181986#101\n\n What perfume",
+    "start": 12791,
+    "end": 12812,
+    "canonical_text": "the soap I put there."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20691933,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

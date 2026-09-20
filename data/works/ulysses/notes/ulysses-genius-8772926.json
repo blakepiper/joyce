@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8772926",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Mignonette",
+  "html_source": "<p>Mignonette sauce is a condiment usually made with minced shallots, cracked pepper, and vinegar. It is traditionally served with raw oysters.</p><p>One of the most notorious aphrodisiacs, oysters are high in zinc and have a reputation for being great for love and fertility. Researchers recently found that oysters contain amino acids that trigger production of sex hormones.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8772926/James-joyce-ulysses-chap-5-lotus-eaters/Mignonette",
+    "original_id": "8772926",
+    "referent_id": 8772926,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "mignonette",
+    "prefix": "om her warm sill. Pity to disturb them. Mohammed cut a piece out of his mantle not to wake her. Open it. And once I played marbles when I went to that old dame's school. She liked ",
+    "suffix": ". Mrs Ellis's. And Mr? He opened the letter within the newspaper. \n\n A flower. I think it's a. A yellow flower with flattened petals. Not annoyed then? What does she say? \n\n1939#59",
+    "start": 14543,
+    "end": 14553,
+    "canonical_text": "mignonette"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8772926,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

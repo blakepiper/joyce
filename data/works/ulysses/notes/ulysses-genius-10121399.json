@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10121399",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "DEMON BARBER",
+  "html_source": "<p>A term usually referencing Sweeny Todd, a homicidal character who first appeared in an 1846 story.<br /><a href=\"https://thechirurgeonsapprentice.com/2010/10/01/meat-pie-anyone-the-true-story-of-sweeney-todd-the-demon-barber-of-fleet-street/\" rel=\"noopener nofollow\">https://thechirurgeonsapprentice.com/2010/10/01/meat-pie-anyone-the-true-story-of-sweeney-todd-the-demon-barber-of-fleet-street/</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10121399/James-joyce-ulysses-chap-15-circe/Demon-barber",
+    "original_id": "10121399",
+    "referent_id": 10121399,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "DEMON BARBER",
+    "prefix": "CROPPY BOY \n\n(The ropenoose round his neck, gripes in his issuing bowels with both hands.) \n\n I bear no hate to a living thing, \nBut I love my country beyond the king. \n\n RUMBOLD, ",
+    "suffix": " \n\n(Accompanied by two blackmasked assistants, advances with gladstone bag which he opens.) Ladies and gents, cleaver purchased by Mrs Pearcy to slay Mogg. Knife with which Voisin ",
+    "start": 220795,
+    "end": 220807,
+    "canonical_text": "DEMON BARBER"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10121399,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-2607471",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Lui, c’est moi.",
+  "html_source": "<p>French for <em>I am he</em>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2607471/James-joyce-ulysses-chap-3-proteus/Lui-cest-moi",
+    "original_id": "2607471",
+    "referent_id": 2607471,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Lui, c'est moi.",
+    "prefix": "ou for murder somewhere. Justice. On the night of the seventeenth of February 1904 the prisoner was seen by two witnesses. Other fellow did it: other me. Hat, tie, overcoat, nose. ",
+    "suffix": " You seem to have enjoyed yourself. \n\n Proudly walking. Whom were you trying to walk like? Forget: a dispossessed. With mother's money order, eight shillings, the banging door of t",
+    "start": 11240,
+    "end": 11255,
+    "canonical_text": "Lui, c'est moi."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2607471,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 293151,
+        "login": "jeeho",
+        "name": "Jeeho",
+        "role": "contributor",
+        "attribution": 0.5
+      },
+      {
+        "id": 1618748,
+        "login": "Kataryna",
+        "name": "Kataryna",
+        "role": "contributor",
+        "attribution": 0.5
+      }
+    ]
+  },
+  "color": "F59627"
+}

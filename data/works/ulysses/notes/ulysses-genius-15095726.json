@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15095726",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Gombeen man",
+  "html_source": "<p>Small-time, shady, predatory businessman or politician; one who preys on others for profit, especially the poor, especially during times of duress. See this <a href=\"https://en.wikipedia.org/wiki/Gombeen_man\" rel=\"noopener nofollow\">excellent wikipedia article</a> for more.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15095726/James-joyce-ulysses-chap-10-wandering-rocks/Gombeen-man",
+    "original_id": "15095726",
+    "referent_id": 15095726,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "gombeen man",
+    "prefix": "'m barricaded 1961#243up, Simon, with two men prowling around the house trying to effect an entrance. \n\n — Jolly, Mr Dedalus said. Who is it? \n\n — O, Father Cowley said. A certain ",
+    "suffix": " of our acquaintance. \n\n — With a broken back, is it? Mr Dedalus asked. \n\n — The same, Simon, Father Cowley answered. Reuben of that ilk. I'm just waiting for Ben Dollard. He's goi",
+    "start": 51217,
+    "end": 51228,
+    "canonical_text": "gombeen man"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15095726,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11220800",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Postcard up up",
+  "html_source": "<p>Chapter 8 tells of Mr. Breen receiving a mysterious card with the message U.P. on it and his desire to take legal action against the joke for 10,000 pounds.</p><p>“–Read that, she said. He got it this morning.<br />–What is it? Mr Bloom asked, taking the card. U.P.?<br />–U.P.: up, she said. Someone taking a rise out of him. It’s a great shame for them whoever he is.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11220800/James-joyce-ulysses-chap-18-penelope/Postcard-up-up",
+    "original_id": "11220800",
+    "referent_id": 11220800,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "postcard up up",
+    "prefix": "shine and always blacks his own boots too and he always takes off his hat when he comes up in the street like then and now hes going about in his slippers to look for £10000 for a ",
+    "suffix": " O Sweetheart May wouldnt a thing like that simply bore you stiff to extinction actually too stupid even to take his boots off now what could you make of a man like that Id rather ",
+    "start": 17035,
+    "end": 17049,
+    "canonical_text": "postcard up up"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11220800,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

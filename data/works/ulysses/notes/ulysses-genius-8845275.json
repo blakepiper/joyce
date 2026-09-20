@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8845275",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Collector of prepuces",
+  "html_source": "<p>pre·puce<br />noun ANATOMY<br />technical term for foreskin.</p><p>Thus a reference to circumcision.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8845275/James-joyce-ulysses-chap-9-scylla-and-charybdis/Collector-of-prepuces",
+    "original_id": "8845275",
+    "referent_id": 8845275,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "collector of prepuces",
+    "prefix": "\n\n The door closed. \n\n — The sheeny! Buck Mulligan cried. \n\n He jumped up and snatched the card. \n\n1961#200\n\n — What's his name? Ikey Moses? Bloom. \n\n He rattled on: \n\n — Jehovah, ",
+    "suffix": ", is no more. I found him over in the museum where I went to hail the foamborn Aphrodite. The Greek mouth that has never been twisted in prayer. Every day we must do homage to her.",
+    "start": 34704,
+    "end": 34725,
+    "canonical_text": "collector of prepuces"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8845275,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

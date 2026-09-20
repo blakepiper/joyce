@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-6915752",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "She laid pennies on his eyes",
+  "html_source": "<p>A reference to Charon’s obol. Coins placed on or around the mouth before burial to guarantee the transfer of the soul to the land of the dead.</p><p>This is usually associated with the Greeks and the Romans. It is also commonly—but mistakenly—said that the coins were placed on the eyes.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6915752/James-joyce-ulysses-chap-9-scylla-and-charybdis/She-laid-pennies-on-his-eyes",
+    "original_id": "6915752",
+    "referent_id": 6915752,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "she laid pennies on his eyes",
+    "prefix": "e she was born. \n\n — She died, Stephen retorted, sixtyseven years after she was born. She saw him into and out of the world. She took his first embraces. She bore his children and ",
+    "suffix": " to keep his eyelids closed when he lay on his deathbed. \n\n1939#139\n\n Mother's deathbed. Candle. The sheeted mirror. Who brought me into this world lies there, bronzelidded, under ",
+    "start": 12139,
+    "end": 12167,
+    "canonical_text": "she laid pennies on his eyes"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 6915752,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1573568,
+        "login": "forggotten2105",
+        "name": "forggotten2105",
+        "role": null,
+        "attribution": 0.8846153846153847
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.11538461538461538
+      }
+    ]
+  },
+  "color": "F59627"
+}

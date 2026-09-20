@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-4729151",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Pale oak",
+  "html_source": "<p>Buck’s ‘equine’ face and ‘pale oak’ hair hint at the treacherous Trojan horse.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4729151/James-joyce-ulysses-chap-1-telemachus/Pale-oak",
+    "original_id": "4729151",
+    "referent_id": 4729151,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "pale oak",
+    "prefix": "his arms on the top of the staircase and looked coldly at the shaking gurgling face that blessed him, equine in its length, and at the light untonsured hair, grained and hued like ",
+    "suffix": ". \n\n Buck Mulligan peeped an instant under the mirror and then covered the bowl smartly. \n\n — Back to barracks! he said sternly. \n\n He added in a preacher's tone: \n\n — For this, O ",
+    "start": 947,
+    "end": 955,
+    "canonical_text": "pale oak"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4729151,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 0.6666666666666667
+      },
+      {
+        "id": 1313008,
+        "login": "PeterFif",
+        "name": "PeterFif",
+        "role": "contributor",
+        "attribution": 0.2777777777777778
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.05555555555555555
+      }
+    ]
+  },
+  "color": "F59627"
+}

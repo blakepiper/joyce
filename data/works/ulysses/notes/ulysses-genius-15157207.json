@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15157207",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Cui Bono?",
+  "html_source": "<p>Latin. “Who benefits, or stands to gain? To whose good is it…” (used legally, e.g., of a crime committed).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15157207/James-joyce-ulysses-chap-15-circe/Cui-bono",
+    "original_id": "15157207",
+    "referent_id": 15157207,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Cui Bono?",
+    "prefix": " of Arran Quay, Inns Quay, Rotunda, Mountjoy and North Dock, better run a tramline, I say, from the cattlemarket to the river. That's the music of the future. That's my programme. ",
+    "suffix": " But our buccaneering Vanderdeckens in their phantom ship of finance... \n\n AN ELECTOR \n\n Three times three for our future chief magistrate! \n\n(The aurora borealis of the torchlight",
+    "start": 68178,
+    "end": 68187,
+    "canonical_text": "Cui bono?"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 15157207,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

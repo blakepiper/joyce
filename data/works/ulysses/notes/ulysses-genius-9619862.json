@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9619862",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Penny catechism",
+  "html_source": "<p><img src=\"https://images.genius.com/e04be6a6ec84efd7691475a7f399528e.393x648x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9619862/James-joyce-ulysses-chap-15-circe/Penny-catechism",
+    "original_id": "9619862",
+    "referent_id": 9619862,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "penny catechism",
+    "prefix": "it. List, list, O list! \n\n1986#3851932#420\n\n BLOOM \n\n The voice is the voice of Esau. \n\n SECOND WATCH \n\n(Blesses himself.) How is that possible? \n\n FIRST WATCH \n\n It is not in the ",
+    "suffix": ". \n\n PADDY DIGNAM \n\n By metempsychosis. Spooks. \n\n A VOICE \n\n O rocks. \n\n1922#447\n\n PADDY DIGNAM \n\n(Earnestly.) Once I was in the employ of Mr J. H. Menton, solicitor, commissioner",
+    "start": 61611,
+    "end": 61626,
+    "canonical_text": "penny catechism"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9619862,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

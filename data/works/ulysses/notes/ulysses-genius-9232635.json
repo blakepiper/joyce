@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9232635",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Crubeen",
+  "html_source": "<p>An Irish dish made of boiled pigs' feet which are then typically battered and fried. They are traditionally eaten by hand.<br />Wikipedia</p><p><img src=\"https://images.genius.com/f3a05464962ece686ff3ba5df5cae018.747x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9232635/James-joyce-ulysses-chap-15-circe/Crubeen",
+    "original_id": "9232635",
+    "referent_id": 9232635,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "crubeen",
+    "prefix": "coming 1932#391rollshutter. A few moments later he emerges from under the shutter, puffing Poldy, blowing Bloohoom. In each hand he holds a parcel, one containing a lukewarm pig's ",
+    "suffix": ", the other a cold sheep's trotter, sprinkled with wholepepper. He gasps, standing upright. Then bending to one side he presses a parcel against his ribs and groans.) \n\n1939#311\n\n ",
+    "start": 7521,
+    "end": 7528,
+    "canonical_text": "crubeen"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 9232635,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

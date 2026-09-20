@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1878130",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Plucks",
+  "html_source": "<p>Dublin slang for cheeks.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1878130/James-joyce-ulysses-chap-13-nausicaa/Plucks",
+    "original_id": "1878130",
+    "referent_id": 1878130,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "plucks",
+    "prefix": "e was but eleven months and nine days old and, though still a tiny toddler, was just beginning to lisp his first babyish words. Cissy Caffrey bent over him to tease his fat little ",
+    "suffix": " and the dainty dimple in his chin. \n\n — Now, baby, Cissy Caffrey said. Say out big, big. I want a drink of water. \n\n1922#331\n\n And baby prattled after her: \n\n — A jink a jink a ja",
+    "start": 1722,
+    "end": 1728,
+    "canonical_text": "plucks"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1878130,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 211351,
+        "login": "prepski",
+        "name": "prepski",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

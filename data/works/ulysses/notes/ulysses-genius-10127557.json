@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10127557",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Tom Rochford",
+  "html_source": "<p><a href=\"http://www.facstaff.bucknell.edu/rickard/Hypermedia/HTML/rochford.html\" rel=\"noopener nofollow\">http://www.facstaff.bucknell.edu/rickard/Hypermedia/HTML/rochford.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10127557/James-joyce-ulysses-chap-15-circe/Tom-rochford",
+    "original_id": "10127557",
+    "referent_id": 10127557,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Tom Rochford",
+    "prefix": "h trembles. The dead of Dublin from Prospect and Mount Jerome in white sheepskin overcoats and black goatfell cloaks arise and appear to many. A chasm opens with a noiseless yawn. ",
+    "suffix": ", winner, in athlete's singlet and breeches, arrives at the head of the national hurdle handicap and leaps into the void. He is followed by a race of runners and leapers. In wild a",
+    "start": 226801,
+    "end": 226813,
+    "canonical_text": "Tom Rochford"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 10127557,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

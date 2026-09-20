@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3401214",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Il se promène, lisant au livre de lui-même,",
+  "html_source": "<p>From Crayonne de Theatre .The reader becomes aware of Joyce with this line as Mallarmé argued all writing is theatrical and this has been alluded to in a chapter from <em>Ulysses</em> riddled with stage references.</p><p>The line was written by Mallarmé, a note scribbled whilst watching Hamlet in France  in an attempt to distinguish the characteristics of Hamlet from those of Fortinbras. It infers a Hamlet concerned only with himself and introduces a psychoanalytical approach to the analysis of Hamlet.</p><p><img src=\"https://images.rapgenius.com/3d8cd1c39605e47955b41206e9185cd8.500x450x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3401214/James-joyce-ulysses-chap-9-scylla-and-charybdis/Il-se-promene-lisant-au-livre-de-lui-meme",
+    "original_id": "3401214",
+    "referent_id": 3401214,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "il se promène, lisant au livre de lui-même,",
+    "prefix": "nding face to Stephen. \n\n — Mallarmé, don't you know, he said, has written those wonderful prose poems Stephen MacKenna used to read to me in Paris. The one about Hamlet. He says: ",
+    "suffix": " don't you know, reading the book of himself. He describes Hamlet given in a French town, don't you know, a provincial town. They advertised it. \n\n His free hand graciously wrote t",
+    "start": 6603,
+    "end": 6646,
+    "canonical_text": "il se promène, lisant au livre de lui-même,"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3401214,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

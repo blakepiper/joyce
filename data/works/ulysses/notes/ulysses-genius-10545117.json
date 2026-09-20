@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10545117",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Peep of day boy’s hat",
+  "html_source": "<p>Peep o' Day Boys were agrarian Protestants who staged raids on Catholic cottages in the early-morning hours.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10545117/James-joyce-ulysses-chap-3-proteus/Peep-of-day-boys-hat",
+    "original_id": "10545117",
+    "referent_id": 10545117,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "peep of day boy's hat",
+    "prefix": ". Lascivious people. \n\n The blue fuse burns deadly between hands and burns clear. Loose tobaccoshreds catch fire: a flame and acrid smoke light our corner. Raw facebones under his ",
+    "suffix": ". How the head centre got away, authentic version. Got up as a young bride, man, veil, orangeblossoms, drove out the road to Malahide. Did, faith. Of lost leaders, the betrayed, wi",
+    "start": 15116,
+    "end": 15137,
+    "canonical_text": "peep of day boy's hat"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10545117,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

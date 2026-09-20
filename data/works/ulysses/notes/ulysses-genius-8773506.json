@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8773506",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Rum",
+  "html_source": "<p>RUM   adjective, Chiefly British.<br />1. odd, strange, or queer: a rum fellow.<br />2. problematic; difficult.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8773506/James-joyce-ulysses-chap-5-lotus-eaters/Rum",
+    "original_id": "8773506",
+    "referent_id": 8773506,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Rum",
+    "prefix": "Shut your eyes and open your mouth. What? Corpus: body. Corpse. Good idea the Latin. Stupefies them first. Hospice for the dying. They don't seem to chew it: only swallow it down. ",
+    "suffix": " idea: eating bits of a corpse why the cannibals cotton to it. \n\n He stood aside watching their blind masks pass down the aisle, one by one, and seek their places. He approached a ",
+    "start": 21901,
+    "end": 21904,
+    "canonical_text": "Rum"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8773506,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8765581",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Moustachecup",
+  "html_source": "<p>a drinking cup with a bar inside the rim to keep a man’s mustache out of the drink</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8765581/James-joyce-ulysses-chap-4-calypso/Moustachecup",
+    "original_id": "8765581",
+    "referent_id": 8765581,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "moustachecup",
+    "prefix": " his letter, glancing down the page and over. Thanks: new tam: Mr Coghlan: lough Owel picnic: young student: Blazes Boylan's seaside girls. \n\n The tea was drawn. He filled his own ",
+    "suffix": ", sham crown Derby, smiling. Silly Milly's birthday gift. Only five she was then. No, wait: four. I gave her the amberoid necklace she broke. Putting pieces of folded brown paper i",
+    "start": 17763,
+    "end": 17775,
+    "canonical_text": "moustachecup"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8765581,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

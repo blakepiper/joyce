@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9576129",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Phthisis",
+  "html_source": "<ol><li>A disease characterized by the wasting away or atrophy of the body or a part of the body.</li><li>Tuberculosis of the lungs. No longer in scientific use.<br />thefreedictionary.com</li></ol>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9576129/James-joyce-ulysses-chap-15-circe/Phthisis",
+    "original_id": "9576129",
+    "referent_id": 9576129,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "phthisis",
+    "prefix": "lin, W.13. \n\n(J. J. O'Molloy steps on to a low plinth and holds the lapel of his coat with solemnity. His face lengthens, grows pale and bearded, with sunken eyes, the blotches of ",
+    "suffix": " and hectic cheekbones of John F. Taylor. He1932#414applies his handkerchief to his mouth and scrutinises the galloping tide of rosepink blood.) \n\n1961#464\n\n J. J. O'MOLLOY \n\n(Almo",
+    "start": 49864,
+    "end": 49872,
+    "canonical_text": "phthisis"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9576129,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

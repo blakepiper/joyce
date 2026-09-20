@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8800355",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Steal upon larks",
+  "html_source": "<p>steal<br />verb<br />move somewhere quietly or surreptitiously.</p><p>So quiet enough to sneak up on larks.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8800355/James-joyce-ulysses-chap-7-aeolus/Steal-upon-larks",
+    "original_id": "8800355",
+    "referent_id": 8800355,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Steal upon larks",
+    "prefix": " white bowknots. \n\n — Look at the young guttersnipe behind him hue and cry, Lenehan said, and you'll kick. O, my rib risible! Taking off his flat spaugs and the walk. Small nines. ",
+    "suffix": ". \n\n1961#129\n\n He began to mazurka in swift caricature across the floor on sliding feet past the fireplace to J. J. O'Molloy who placed the tissues in his receiving hands. \n\n — Wha",
+    "start": 24609,
+    "end": 24625,
+    "canonical_text": "Steal upon larks"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8800355,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

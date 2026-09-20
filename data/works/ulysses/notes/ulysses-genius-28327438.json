@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-28327438",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "The cherry laurel water",
+  "html_source": "<p>Cosmetic remedy useful for sunburn.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/28327438/James-joyce-ulysses-chap-11-sirens/The-cherry-laurel-water",
+    "original_id": "28327438",
+    "referent_id": 28327438,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "the cherry laurel water",
+    "prefix": "steelhoofs ringhoof ringsteel. \n\n — Am I awfully sunburnt? \n\n Miss bronze unbloused her neck. \n\n1961#258\n\n — No, said Miss Kennedy. It gets brown after. Did you try the borax with ",
+    "suffix": "? \n\n Miss Douce halfstood to see her skin askance in the barmirror gildedlettered where hock and claret glasses shimmered and in their midst a shell. \n\n — And leave it to my hands,",
+    "start": 5236,
+    "end": 5259,
+    "canonical_text": "the cherry laurel water"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 28327438,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 14241959,
+        "login": "MartinMiaowtin",
+        "name": "MartinMiaowtin",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

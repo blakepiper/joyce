@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-26597748",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "And no more turn aside and brood.",
+  "html_source": "<p>a quote from “Who Goes with Fergus?” a poem by William Butler Yeats</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/26597748/James-joyce-ulysses-chap-3-proteus/And-no-more-turn-aside-and-brood",
+    "original_id": "26597748",
+    "referent_id": 26597748,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "And no more turn aside and brood.",
+    "prefix": " am caught in this burning scene. Pan's hour, the faunal noon. Among gumheavy serpentplants, milkoozing fruits, where on the tawny waters leaves lie wide. Pain is far. \n\n1922#48\n\n ",
+    "suffix": " \n\n1939#38\n\n His gaze brooded on his broadtoed boots, a buck's castoffs, nebeneinander. He counted the creases of rucked leather wherein another's foot had nested warm. The foot th",
+    "start": 28930,
+    "end": 28963,
+    "canonical_text": "And no more turn aside and brood."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 26597748,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2760866,
+        "login": "okdatapad",
+        "name": "okdatapad",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13808333",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Hat was writ for a like twining of lovers: _To bed, to bed_",
+  "html_source": "<p>A song from Beaumont (c.1584-1616) and Fletcher’s (1579-1625) playThe Maid’s Tragedy (c. 1610):<br />“To bed, to bed!<br />Corne, Hymen, lead the bride, / And lay her by<br />her husband’s side; / Bring in the virgins every<br />one, / That grieve to lie alone, / That they may<br />kiss while they may say a maid;  Tomorrow<br />‘twill be other kiss’d and said, / Hesperus,<br />be long a~shining, / While these lovers are<br />a-twining” -Gifford</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13808333/James-joyce-ulysses-chap-14-oxen-of-the-sun/Hat-was-writ-for-a-like-twining-of-lovers-to-bed-to-bed",
+    "original_id": "13808333",
+    "referent_id": 13808333,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "hat was writ for a like twining of lovers: _To bed, to bed_",
+    "prefix": "as there unmaided. He gave them then a much admirable hymen minim by those delicate poets Master John Fletcher and 1986#321Master Francis Beaumont that is in their Maid's Tragedy t",
+    "suffix": " was the burden of it to be played with accompanable concent upon the virginals. An exquisite dulcet epithalame of most mollificative suadency for juveniles amatory whom the odorif",
+    "start": 24917,
+    "end": 24974,
+    "canonical_text": "hat was writ for a like twining of lovers: To bed, to bed"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 13808333,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

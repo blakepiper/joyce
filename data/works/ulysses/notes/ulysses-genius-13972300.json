@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13972300",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Caudle",
+  "html_source": "<p>a drink (as for invalids) usually of warm ale or wine mixed with bread or gruel, eggs, sugar, and spices</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13972300/James-joyce-ulysses-chap-14-oxen-of-the-sun/Caudle",
+    "original_id": "13972300",
+    "referent_id": 13972300,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "caudle",
+    "prefix": " ropes. Me nantee saltee. Not a red at me this week gone. Yours? Mead of our fathers for the Uebermensch. Dittoh. Five number ones. You, sir? Ginger cordial. Chase me, the cabby's ",
+    "suffix": ". Stimulate the 1922#403caloric. Winding of his ticker. Stopped short never to go again when the old. Absinthe for me, savvy? Caramba! Have an eggnog or a prairie oyster. Enemy? Av",
+    "start": 106616,
+    "end": 106622,
+    "canonical_text": "caudle"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13972300,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

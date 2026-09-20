@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10733410",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Twentyfive",
+  "html_source": "<p><a href=\"https://www.britannica.com/topic/twenty-five\" rel=\"noopener nofollow\">https://www.britannica.com/topic/twenty-five</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10733410/James-joyce-ulysses-chap-17-ithaca/Twentyfive",
+    "original_id": "10733410",
+    "referent_id": 10733410,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "twentyfive",
+    "prefix": "with our wives. \n\n1961#685\n\n What had been his hypothetical singular solutions? \n\n Parlour games (dominos, halma, tiddledywinks, spilikins, cup and ball, nap, spoil five, bezique, ",
+    "suffix": ", beggar my neighbour, draughts, chess or backgammon): embroidery, darning or knitting for the policeaided clothing society: musical duets, mandoline and guitar, piano and flute, g",
+    "start": 42684,
+    "end": 42694,
+    "canonical_text": "twentyfive"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10733410,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

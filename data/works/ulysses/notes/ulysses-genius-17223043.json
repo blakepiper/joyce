@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-17223043",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Veridicity",
+  "html_source": "<p>Veridicity: A property of certain perceptions, memories and other acts of cognition which, though not in the strictest sense true – since truth is usually considered an exclusive property of propositions and judgments – tend to form true propositions.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/17223043/James-joyce-ulysses-chap-17-ithaca/Veridicity",
+    "original_id": "17223043",
+    "referent_id": 17223043,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "veridicity",
+    "prefix": "he possible evidences for and against ritual murder: the incitations of the hierarchy, the superstition of the populace, the propagation of rumour in 1939#487continued fraction of ",
+    "suffix": ", the envy of opulence, the influence of retaliation, the sporadic reappearance of atavistic delinquency, the mitigating circumstances of fanaticism, hypnotic suggestion and somnam",
+    "start": 53688,
+    "end": 53698,
+    "canonical_text": "veridicity"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 17223043,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 8460622,
+        "login": "LP-Reader1",
+        "name": "LP-Reader1",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

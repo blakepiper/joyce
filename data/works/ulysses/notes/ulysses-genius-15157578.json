@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15157578",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "A few pastilles of aconite",
+  "html_source": "<p>A few candies/lozenges of monkshood/wolfsbane, an extremely poisonous plant from the buttercup family.</p><p><img src=\"https://images.genius.com/8f829276023cc85af7c9cfdfb2d82510.1000x920x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15157578/James-joyce-ulysses-chap-15-circe/A-few-pastilles-of-aconite",
+    "original_id": "15157578",
+    "referent_id": 15157578,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "A few pastilles of aconite",
+    "prefix": "iotism, sorrow for the dead, music, future of the race. To be or not to be. Life's dream is o'er. End it peacefully. They can live on. (He gazes far away mournfully.) I am ruined. ",
+    "suffix": ". The blinds drawn. A letter. Then lie back to rest. (He breathes softly.) No more. I have lived. Fare. Farewell. \n\n1922#470\n\n ZOE \n\n(Stiffly, her finger in her neckfillet.) Honest",
+    "start": 97918,
+    "end": 97944,
+    "canonical_text": "A few pastilles of aconite"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15157578,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

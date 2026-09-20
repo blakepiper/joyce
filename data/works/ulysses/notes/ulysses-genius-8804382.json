@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8804382",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Hangende Hunger,\n Fragende Frau,\n Macht uns alle kaput.",
+  "html_source": "<p>From Wagner’s opera <em>Die Walkure</em>: “Intense desire, questioning wife, destroys us all.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8804382/James-joyce-ulysses-chap-15-circe/Hangende-hunger-fragende-frau-macht-uns-alle-kaput",
+    "original_id": "8804382",
+    "referent_id": 8804382,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Hangende Hunger,\n Fragende Frau,\n Macht uns alle kaput.",
+    "prefix": "met. (To Zoe.) You have nothing? \n\n ZOE \n\n Is he hungry? \n\n1922#522\n\n STEPHEN \n\n(Extends his hand to her smiling and chants to the air of the bloodoath in the Dusk of the Gods.) \n\n",
+    "suffix": " \n\n1961#560\n\n ZOE \n\n(Tragically.) Hamlet, I am thy father's gimlet! (She takes his hand.) Blue eye'd beauty, I'll read your hand. (She points to his forehead.) No wit, no wrinkles.",
+    "start": 181117,
+    "end": 181172,
+    "canonical_text": "Hangende Hunger, \nFragende Frau, \nMacht uns alle kaput."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 8804382,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

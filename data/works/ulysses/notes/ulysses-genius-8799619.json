@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8799619",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Next year in Jerusalem",
+  "html_source": "<p>Jews traditionally end the Passover Seder with the wish, “Next Year in Jerusalem!” The Jewish story can be summed up as a long journey from Egypt to Jerusalem. Beyond being just geographical locations, they symbolize two opposite spiritual states. The journey from Egypt to Jerusalem is a spiritual odyssey,  leaving the slavery of Egypt and heading towards the freedom of the Promised Land.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8799619/James-joyce-ulysses-chap-7-aeolus/Next-year-in-jerusalem",
+    "original_id": "8799619",
+    "referent_id": 8799619,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Next year in Jerusalem",
+    "prefix": " Reads it backwards first. Quickly he does it. Must require some practice that. mangiD. kcirtaP. Poor papa with his hagadah book, reading backwards with his finger to me. Pessach. ",
+    "suffix": ". Dear, O dear! All that long business about that brought us out of the land of Egypt and into the house of bondage Alleluia. Shema Israel Adonai Elohenu. No, that's the other. The",
+    "start": 11530,
+    "end": 11552,
+    "canonical_text": "Next year in Jerusalem"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8799619,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

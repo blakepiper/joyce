@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15140686",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "A group taken",
+  "html_source": "<p>That is, sit for a group photograph.</p><p><img src=\"https://images.genius.com/0b220324b01a811e306cd4c9fc49e257.500x376x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15140686/James-joyce-ulysses-chap-13-nausicaa/A-group-taken",
+    "original_id": "15140686",
+    "referent_id": 15140686,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "a group taken",
+    "prefix": "him, from a stroke. Her mother's birthday that was and Charley was home 1961#354on his holidays and Tom and Mr Dignam and Mrs and Patsy and Freddy Dignam and they were to have had ",
+    "suffix": ". No-one would have thought the end was so 1932#320near. Now he was laid to rest. And her mother said to him to let that be a warning to him for the rest of his days and he couldn'",
+    "start": 22270,
+    "end": 22283,
+    "canonical_text": "a group taken"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15140686,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

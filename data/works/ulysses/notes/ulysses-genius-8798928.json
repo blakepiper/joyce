@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8798928",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Galleypage",
+  "html_source": "<p>In printing and publishing, proofs are the preliminary versions of publications meant for review by authors, editors, and proofreaders, often with extra-wide margins. Galley proofs may be uncut and unbound. They are created for proofreading and copyediting purposes, but may be used for promotional and review purposes also.</p><p>Galley proofs are so named because in the days of hand-set letterpress printing, the printer would set the page into galleys—the metal trays into which type was laid and tightened into place—which would then be used to print limited copies for proofreading.</p><p>Alludes to the <em>Aeolus</em> episode of <em>The Odyssey</em> and Ulysses' windborne sailing adventures in that chapter.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8798928/James-joyce-ulysses-chap-7-aeolus/Galleypage",
+    "original_id": "8798928",
+    "referent_id": 8798928,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "galleypage",
+    "prefix": "ed premises. Longfelt want. So on. \n\n The foreman thought for an instant. \n\n — We can do that, he said. Let him give us a three months' renewal. \n\n A typesetter brought him a limp ",
+    "suffix": ". He began to check it silently. Mr Bloom stood by, hearing the loud throbs of cranks, watching the silent typesetters at their cases. \n\n1922#116\n\n ORTHOGRAPHICAL \n\n Want to be sur",
+    "start": 8997,
+    "end": 9007,
+    "canonical_text": "galleypage"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9798
+  },
+  "genius": {
+    "referent_id": 8798928,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.8518518518518519
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.14814814814814814
+      }
+    ]
+  },
+  "color": "F59627"
+}

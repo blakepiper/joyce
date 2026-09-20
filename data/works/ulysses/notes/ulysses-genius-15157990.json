@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15157990",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Mais, nom de nom, that is another pair of trousers. Jetez la gourme. Faut que jeunesse se passe.",
+  "html_source": "<p>Mais, nom de nom: (Fr.) But, name by name<br />Jetez la gourme: (Fr.) Sow wild oats<br />Faut que juenesse se passe: (Fr.) Youth must pass</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15157990/James-joyce-ulysses-chap-15-circe/Mais-nom-de-nom-that-is-another-pair-of-trousers-jetez-la-gourme-faut-que-jeunesse-se-passe",
+    "original_id": "15157990",
+    "referent_id": 15157990,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Mais, nom de nom, that is another pair of trousers. Jetez la gourme. Faut que jeunesse se passe.",
+    "prefix": "ihooping 1939#357round David's that is Circe's or what am I saying Ceres' altar and David's tip from the stable to his chief bassoonist about the alrightiness of his almightiness. ",
+    "suffix": ". (He stops, points at Lynch's cap, smiles, laughs.) Which side is your knowledge bump? \n\n1932#443\n\n THE CAP \n\n(With saturnine spleen.) Bah! It is because it is. Woman's reason. Je",
+    "start": 104488,
+    "end": 104582,
+    "canonical_text": "Mais nom de nom, that is another pair of trousers. Jetez la gourme. Faut que jeunesse se passe"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 15157990,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

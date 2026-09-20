@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8813626",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "The clap",
+  "html_source": "<p>Gonorrhoea is a sexually transmitted infection (STI) which used to be called ‘the clap’.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8813626/James-joyce-ulysses-chap-8-lestrygonians/The-clap",
+    "original_id": "8813626",
+    "referent_id": 8813626,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "the clap",
+    "prefix": "eally? It's always flowing in a stream, never the same, which in the stream of life we trace. Because life is a stream. All kinds of places are good for ads. That quack doctor for ",
+    "suffix": " used to be stuck up in all the greenhouses. Never see it now. Strictly confidential. Dr Hy Franks. Didn't cost him a red like Maginni the dancing master self advertisement. Got fe",
+    "start": 5866,
+    "end": 5874,
+    "canonical_text": "the clap"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8813626,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

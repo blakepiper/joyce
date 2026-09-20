@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8813811",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Our staple food.",
+  "html_source": "<p>Give us this day our daily bread<br />in Matthew 6:9–13, The Lord’s Prayer</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8813811/James-joyce-ulysses-chap-8-lestrygonians/Our-staple-food",
+    "original_id": "8813811",
+    "referent_id": 8813811,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Our staple food.",
+    "prefix": "ir five tall white hats: H. E. L. Y. S. Wisdom 1932#136Hely's. Y lagging behind drew a chunk of bread from under his foreboard, crammed it into his mouth and munched as he walked. ",
+    "suffix": " Three bob a day, walking along the gutters, street after street. Just keep skin and bone together, bread and skilly. They are not Boyl: no, M'Glade's men. Doesn't bring in any bus",
+    "start": 7818,
+    "end": 7834,
+    "canonical_text": "Our staple food."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8813811,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

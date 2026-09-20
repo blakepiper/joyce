@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3952787",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Dun",
+  "html_source": "<p>A bailiff in 17th century England, Joseph Dun, was very aggressive in his debt-collecting: Stephen is musing that the face peering down at him assumes he is a debt collector.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3952787/James-joyce-ulysses-chap-3-proteus/Dun",
+    "original_id": "3952787",
+    "referent_id": 3952787,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "dun",
+    "prefix": "ring his father, no less! Sir. Yes, sir. No, sir. Jesus wept: and no wonder, by Christ! \n\n1932#35\n\n I pull the wheezy bell of their shuttered cottage: and wait. They take me for a ",
+    "suffix": ", peer out from a coign of vantage. \n\n — It's Stephen, sir. \n\n — Let him in. Let Stephen in. \n\n A bolt drawn back and Walter welcomes me. \n\n1961#38\n\n — We thought you were someone ",
+    "start": 4538,
+    "end": 4541,
+    "canonical_text": "dun"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3952787,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1135238,
+        "login": "Critic94",
+        "name": "Critic94",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

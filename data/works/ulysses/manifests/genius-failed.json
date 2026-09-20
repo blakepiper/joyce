@@ -1,0 +1,214 @@
+{
+  "failed": [
+    {
+      "chapter": 7,
+      "referent_id": 2468709,
+      "referent": "Singledeck",
+      "reason": "empty annotation body",
+      "annotation_id": 2468709
+    },
+    {
+      "chapter": 10,
+      "referent_id": 5304607,
+      "referent": "Principium verborum tuorum veritas:",
+      "reason": "empty annotation body",
+      "annotation_id": 5304607
+    },
+    {
+      "chapter": 10,
+      "referent_id": 8339240,
+      "referent": "Corny Kelleher closed his long daybook and glanced with his",
+      "reason": "empty annotation body",
+      "annotation_id": 8339240
+    },
+    {
+      "chapter": 10,
+      "referent_id": 8483913,
+      "referent": "The",
+      "reason": "empty annotation body",
+      "annotation_id": 8483913
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+      "title": "Telemachus",
+      "url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated",
+      "song_id": 100869,
+      "referents": 276,
+      "notes": 276,
+      "failed_records": 0
+    },
+    {
+      "chapter": 2,
+      "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+      "title": "Nestor",
+      "url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated",
+      "song_id": 100874,
+      "referents": 106,
+      "notes": 106,
+      "failed_records": 0
+    },
+    {
+      "chapter": 3,
+      "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+      "title": "Proteus",
+      "url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated",
+      "song_id": 101026,
+      "referents": 341,
+      "notes": 341,
+      "failed_records": 0
+    },
+    {
+      "chapter": 4,
+      "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+      "title": "Calypso",
+      "url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated",
+      "song_id": 101027,
+      "referents": 161,
+      "notes": 161,
+      "failed_records": 0
+    },
+    {
+      "chapter": 5,
+      "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+      "title": "Lotus Eaters",
+      "url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated",
+      "song_id": 101028,
+      "referents": 188,
+      "notes": 188,
+      "failed_records": 0
+    },
+    {
+      "chapter": 6,
+      "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+      "title": "Hades",
+      "url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated",
+      "song_id": 101032,
+      "referents": 247,
+      "notes": 247,
+      "failed_records": 0
+    },
+    {
+      "chapter": 7,
+      "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+      "title": "Aeolus",
+      "url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated",
+      "song_id": 101033,
+      "referents": 222,
+      "notes": 221,
+      "failed_records": 1
+    },
+    {
+      "chapter": 8,
+      "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+      "title": "Lestrygonians",
+      "url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated",
+      "song_id": 101035,
+      "referents": 171,
+      "notes": 171,
+      "failed_records": 0
+    },
+    {
+      "chapter": 9,
+      "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+      "title": "Scylla and Charybdis",
+      "url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated",
+      "song_id": 101036,
+      "referents": 530,
+      "notes": 530,
+      "failed_records": 0
+    },
+    {
+      "chapter": 10,
+      "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+      "title": "Wandering Rocks",
+      "url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated",
+      "song_id": 101375,
+      "referents": 263,
+      "notes": 260,
+      "failed_records": 3
+    },
+    {
+      "chapter": 11,
+      "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+      "title": "Sirens",
+      "url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated",
+      "song_id": 101376,
+      "referents": 200,
+      "notes": 200,
+      "failed_records": 0
+    },
+    {
+      "chapter": 12,
+      "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+      "title": "Cyclops",
+      "url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated",
+      "song_id": 101377,
+      "referents": 323,
+      "notes": 323,
+      "failed_records": 0
+    },
+    {
+      "chapter": 13,
+      "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+      "title": "Nausicaa",
+      "url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated",
+      "song_id": 101419,
+      "referents": 137,
+      "notes": 137,
+      "failed_records": 0
+    },
+    {
+      "chapter": 14,
+      "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+      "title": "Oxen of the Sun",
+      "url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated",
+      "song_id": 101421,
+      "referents": 538,
+      "notes": 538,
+      "failed_records": 0
+    },
+    {
+      "chapter": 15,
+      "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+      "title": "Circe",
+      "url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated",
+      "song_id": 141146,
+      "referents": 508,
+      "notes": 508,
+      "failed_records": 0
+    },
+    {
+      "chapter": 16,
+      "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+      "title": "Eumaeus",
+      "url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated",
+      "song_id": 181579,
+      "referents": 199,
+      "notes": 199,
+      "failed_records": 0
+    },
+    {
+      "chapter": 17,
+      "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+      "title": "Ithaca",
+      "url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated",
+      "song_id": 181585,
+      "referents": 209,
+      "notes": 209,
+      "failed_records": 0
+    },
+    {
+      "chapter": 18,
+      "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+      "title": "Penelope",
+      "url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated",
+      "song_id": 172852,
+      "referents": 265,
+      "notes": 265,
+      "failed_records": 0
+    }
+  ]
+}

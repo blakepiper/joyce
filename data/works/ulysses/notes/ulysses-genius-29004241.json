@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-29004241",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Hat, tie, overcoat",
+  "html_source": "<p>Recapitulating “Human shells” theme.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/29004241/James-joyce-ulysses-chap-3-proteus/Hat-tie-overcoat",
+    "original_id": "29004241",
+    "referent_id": 29004241,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Hat, tie, overcoat",
+    "prefix": " if they arrested 1922#41you for murder somewhere. Justice. On the night of the seventeenth of February 1904 the prisoner was seen by two witnesses. Other fellow did it: other me. ",
+    "suffix": ", nose. Lui, c'est moi. You seem to have enjoyed yourself. \n\n Proudly walking. Whom were you trying to walk like? Forget: a dispossessed. With mother's money order, eight shillings",
+    "start": 11214,
+    "end": 11232,
+    "canonical_text": "Hat, tie, overcoat"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 29004241,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2715160,
+        "login": "oskular",
+        "name": "oskular",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

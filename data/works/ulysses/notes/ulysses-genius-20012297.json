@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20012297",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "In old Madrid",
+  "html_source": "<p>A popular song from ca 1889. <a href=\"https://imslp.simssa.ca/files/imglnks/usimg/e/e3/IMSLP541644-PMLP875085-58c1840f78ebc6aa858b787a022c66e4.pdf\" rel=\"noopener nofollow\">(Sheet music)</a></p><p>Sheet music for this song is visible in the photo of Molly that Bloom shows Stephen at the cabman’s shelter (Eumaeus episode), which pictures her “standing near, ostensibly with gravity, a piano on the rest of which was In Old Madrid, a ballad, pretty in its way, which was then all the vogue.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20012297/James-joyce-ulysses-chap-18-penelope/In-old-madrid",
+    "original_id": "20012297",
+    "referent_id": 20012297,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "in old Madrid",
+    "prefix": " sent the little present have just had a jolly warm bath and feel a very clean dog now enjoyed it wogger she called him wogger wd give anything to be back in Gib and hear you sing ",
+    "suffix": " or Waiting Concone is the name of those exercises he bought me one of those new some word I couldnt make out shawls amusing things but tear for the least thing still there lovely ",
+    "start": 46062,
+    "end": 46075,
+    "canonical_text": "in old Madrid"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 20012297,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11041825,
+        "login": "raggedclaws",
+        "name": "raggedclaws",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

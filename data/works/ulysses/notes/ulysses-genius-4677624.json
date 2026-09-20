@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4677624",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Flitters",
+  "html_source": "<p>Rags, Bloom sees that Stephen’s sister is dressed in rags and appears to be selling off some furniture. He is concerned about the family’s deterioration since the mother died.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4677624/James-joyce-ulysses-chap-8-lestrygonians/Flitters",
+    "original_id": "4677624",
+    "referent_id": 4677624,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "flitters",
+    "prefix": "m. Does himself well. No guests. All for number one. Watching his water. Bring your own bread and butter. His reverence mum's the word. \n\n Good Lord, that poor child's dress is in ",
+    "suffix": ". Underfed she looks too. Potatoes and marge, marge and potatoes. It's after they feel it. Proof of the pudding. Undermines the constitution. \n\n As he set foot on O'Connell bridge ",
+    "start": 2588,
+    "end": 2596,
+    "canonical_text": "flitters"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4677624,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

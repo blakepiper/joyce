@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10246526",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Age of patent medicine",
+  "html_source": "<p>The late 19th century was the golden age of patent medicines that often included alcohol and opiates.<br /><a href=\"http://www.pilgrimhallmuseum.org/pdf/Patent_Medicine.pdf\" rel=\"noopener nofollow\">http://www.pilgrimhallmuseum.org/pdf/Patent_Medicine.pdf</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10246526/James-joyce-ulysses-chap-15-circe/Age-of-patent-medicine",
+    "original_id": "10246526",
+    "referent_id": 10246526,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "age of patent medicine",
+    "prefix": "\n(To Stephen.) Say it again. \n\n1939#415\n\n STEPHEN \n\n(Nervous, friendly, pulls himself up.) I understand your point of view though I have no king myself for the moment. This is the ",
+    "suffix": "s. A discussion is difficult down here. But this is the point. You die for your country. Suppose. (He places his arm on Private Carr's sleeve.) Not that I wish it for you. But I sa",
+    "start": 218135,
+    "end": 218157,
+    "canonical_text": "age of patent medicine"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10246526,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

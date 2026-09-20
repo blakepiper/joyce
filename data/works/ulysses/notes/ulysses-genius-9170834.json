@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9170834",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Lethe",
+  "html_source": "<p>In Classical Greek, Lethe literally means “forgetfulness” or “concealment” and is related to the Greek word for “truth”: a-lethe-ia, meaning “un-forgetfulness” or “un-concealment”. The River Lethe in Greek Mythology has appeared many times in popular culture since the times of ancient Greece.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9170834/James-joyce-ulysses-chap-14-oxen-of-the-sun/Lethe",
+    "original_id": "9170834",
+    "referent_id": 9170834,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Lethe",
+    "prefix": "986#338Pisistratus. Where were they now? Neither knew. You have spoken of the past and its phantoms, Stephen said. Why think of them? If I call them into life across the waters of ",
+    "suffix": " will not the poor ghosts troop to my call? Who supposes it? I, Bous Stephanoumenos, bullockbefriending bard, am lord and giver of their life. He encircled his gadding hair with a ",
+    "start": 80720,
+    "end": 80725,
+    "canonical_text": "Lethe"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9170834,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

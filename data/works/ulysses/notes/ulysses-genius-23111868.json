@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23111868",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Captain Dalton the best bloody man that ever scuttled a ship",
+  "html_source": "<p>c.f. Byron’s “Don Juan”:</p><p>…he was the mildest manner’d man<br />That ever scuttled ship or cut a throat.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23111868/James-joyce-ulysses-chap-16-eumaeus/Captain-dalton-the-best-bloody-man-that-ever-scuttled-a-ship",
+    "original_id": "23111868",
+    "referent_id": 23111868,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Captain Dalton the best bloody man that ever scuttled a ship",
+    "prefix": "ina and North America and South America. We was chased by pirates one voyage. I seen icebergs plenty, growlers. I was in Stockholm and the Black 1939#439Sea, the Dardanelles under ",
+    "suffix": ". I seen Russia. Gospodi pomilyou. That's how the Russians prays. \n\n — You seen queer sights, don't be talking, put in a jarvey. \n\n — Why, the sailor said, shifting his partially c",
+    "start": 30744,
+    "end": 30805,
+    "canonical_text": "Captain Dalton, the best bloody man that ever scuttled a ship"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 23111868,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

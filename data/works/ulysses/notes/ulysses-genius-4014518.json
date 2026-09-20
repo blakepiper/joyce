@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4014518",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Well now I am, he mused. I looked so simple in the cradle they christened me simple Simon",
+  "html_source": "<p>The nursery rhyme: Simple Simon.</p><p><a href=\"https://www.youtube.com/watch?v=cr7jUBDSB70\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=cr7jUBDSB70</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4014518/James-joyce-ulysses-chap-11-sirens/Well-now-i-am-he-mused-i-looked-so-simple-in-the-cradle-they-christened-me-simple-simon",
+    "original_id": "4014518",
+    "referent_id": 4014518,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Well now I am, he mused. I looked so simple in the cradle they christened me simple Simon",
+    "prefix": "er hand indulgently. Tempting poor simple males. \n\n Miss Douce of satin douced her arm away. \n\n — O go away! she said. You're very simple, I don't think. \n\n1932#234\n\n He was. \n\n — ",
+    "suffix": ". \n\n — You must have been a doaty, Miss Douce made answer. And what did the doctor order today? \n\n — Well now, he mused, whatever you say yourself. I think I'll trouble you for som",
+    "start": 10070,
+    "end": 10160,
+    "canonical_text": "Well now, I am, he mused. I looked so simple in the cradle they christened me simple Simon"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 4014518,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

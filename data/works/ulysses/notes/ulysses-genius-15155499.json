@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15155499",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Howdah",
+  "html_source": "<p>A carriage positioned on the back of an elephant or camel; a Hindi word of Arabic origin.</p><p><img src=\"https://images.genius.com/32019d05e7767c3d88484e75b2d90129.453x620x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15155499/James-joyce-ulysses-chap-15-circe/Howdah",
+    "original_id": "15155499",
+    "referent_id": 15155499,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "howdah",
+    "prefix": "elled toerings. Her ankles are linked by a slender fetterchain. Beside her a camel, hooded with a turreting turban, waits. A silk ladder of innumerable rungs climbs to his bobbing ",
+    "suffix": ". He ambles near with disgruntled hindquarters. Fiercely she slaps his haunch, her goldcurb wristbangles angriling, scolding him in Moorish.) \n\n1961#439\n\n MARION \n\n Nebrakada! Femi",
+    "start": 15112,
+    "end": 15118,
+    "canonical_text": "howdah"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15155499,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

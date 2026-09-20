@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3124168",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Sandflats",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/fff200171bf053ae701ebc3980cbb4ba.500x333x1.jpg\" alt=\"\" /></p><p><img src=\"https://images.rapgenius.com/fbb059ef6d740c31bb22c8ebcb010cfc.654x224x1.gif\" alt=\"\" /></p><p><img src=\"https://images.rapgenius.com/bd4774d2c6b96e79feedf0a07fc6fed1.252x240x1.jpg\" alt=\"\" /></p><p><img src=\"https://images.rapgenius.com/c7290ddb317c0fb55f02aa0bf9e5008c.660x1000x1.jpg\" alt=\"\" /></p><p><img src=\"https://images.rapgenius.com/3c196ec47fb2a3471b0d994ee639e9dc.220x232x1.gif\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3124168/James-joyce-ulysses-chap-3-proteus/Sandflats",
+    "original_id": "3124168",
+    "referent_id": 3124168,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "sandflats",
+    "prefix": "s boots trod again a damp crackling mast, razorshells, squeaking pebbles, 1961#40that on the 1932#37unnumbered pebbles beats, wood sieved by the shipworm, lost Armada. Unwholesome ",
+    "suffix": " waited to suck his treading soles, breathing upward sewage breath. He coasted them, walking warily. A porterbottle stood up, stogged to its waist, in the cakey sand dough. A senti",
+    "start": 9308,
+    "end": 9317,
+    "canonical_text": "sandflats"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3124168,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10568197",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Glory be to God.",
+  "html_source": "<p>Sovereign Grace Catholic Prayer</p><p>“Glory be to the Father and to the Son and to the Holy Spirit. As it was in the beginning is now, and ever shall be, world without end. Amen.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10568197/James-joyce-ulysses-chap-1-telemachus/Glory-be-to-god",
+    "original_id": "10568197",
+    "referent_id": 10568197,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Glory be to God.",
+    "prefix": "milk, sir! \n\n — Come in, ma'am, Mulligan said. Kinch, get the jug. \n\n1986#11\n\n An old woman came forward and stood by Stephen's elbow. \n\n — That's a lovely morning, sir, she said. ",
+    "suffix": " \n\n — To whom? Mulligan said, glancing at her. Ah, to be sure! \n\n Stephen reached back and took the milkjug from the locker. \n\n — The islanders, Mulligan said to Haines casually, s",
+    "start": 22138,
+    "end": 22154,
+    "canonical_text": "Glory be to God."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10568197,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3789952,
+        "login": "lanes_haves",
+        "name": "lanes_haves",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

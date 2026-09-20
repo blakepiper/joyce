@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15157401",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Virgo intacta",
+  "html_source": "<p>That is, Mulligan checked various hairs on Bloom’s person to reach the determination that he is a virgin.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15157401/James-joyce-ulysses-chap-15-circe/Virgo-intacta",
+    "original_id": "15157401",
+    "referent_id": 15157401,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "virgo intacta",
+    "prefix": "ore sinned against than sinning. I have made a pervaginal examination and, after application of the acid test to 5427 anal, axillary, pectoral and pubic hairs, I declare him to be ",
+    "suffix": ". \n\n(Bloom holds his high grade hat over his genital organs.) \n\n1939#3501932#435\n\n DR MADDEN \n\n Hypsospadia is also marked. In the interest of coming generations I suggest that the",
+    "start": 89117,
+    "end": 89130,
+    "canonical_text": "virgo intacta"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15157401,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

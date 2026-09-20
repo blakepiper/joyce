@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5111393",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "It is now a month since dear Henry fled To his home up above in the sky While his family weeps and mourns his loss Hoping some day to meet him on high.",
+  "html_source": "<p>Typical of the sort of verse that appeared under “In Memoriam” in the obituary columns of daily newspapers (inserted in this case as an advertisement of the month’s mind). The linkage of Henry with “Little Flower” above recalls Bloom’s assumed name.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5111393/James-joyce-ulysses-chap-6-hades/It-is-now-a-month-since-dear-henry-fled-to-his-home-up-above-in-the-sky-while-his-family-weeps-and-mourns-his-loss-hoping-some-day-to-meet-him-on-high",
+    "original_id": "5111393",
+    "referent_id": 5111393,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "It is now a month since dear Henry fled To his home up above in the sky While his family weeps and mourns his loss Hoping some day to meet him on high.",
+    "prefix": "nks to the Little Flower. Sadly missed. To the inexpressible grief of his. Aged 88 after a long and tedious illness. Month's mind: Quinlan. On whose soul Sweet Jesus have mercy. \n\n",
+    "suffix": " \n\n1986#75\n\n I tore up the envelope? Yes. Where did I put her letter after I read it in the bath? He patted his waistcoatpocket. There all right. Dear Henry fled. Before my patienc",
+    "start": 9491,
+    "end": 9645,
+    "canonical_text": "It is now a month since dear Henry fled \nTo his home up above in the sky \nWhile his family weeps and mourns his loss \nHoping some day to meet him on high."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 5111393,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

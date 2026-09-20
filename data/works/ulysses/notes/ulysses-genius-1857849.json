@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1857849",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Mr Leopold Bloom ate with relish the inner organs of beasts and fowls",
+  "html_source": "<p>As an introduction to Bloom, this serves as an arresting contrast to Stephen Daedalus the intellectual, hifalutin type, who lives in the world of the cerebral – Bloom loves to eat meat, and lives in the world of the real, of delicious food, not abstract theories.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1857849/James-joyce-ulysses-chap-4-calypso/Mr-leopold-bloom-ate-with-relish-the-inner-organs-of-beasts-and-fowls",
+    "original_id": "1857849",
+    "referent_id": 1857849,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Mr Leopold Bloom ate with relish the inner organs of beasts and fowls",
+    "prefix": "\n\nII\n\n\n\n[4]\n\n\n\n",
+    "suffix": ". He liked thick giblet soup, nutty gizzards, a stuffed roast heart, liverslices fried with crustcrumbs, fried hencods' roes. Most of all he liked grilled mutton kidneys which gave",
+    "start": 15,
+    "end": 84,
+    "canonical_text": "Mr Leopold Bloom ate with relish the inner organs of beasts and fowls"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1857849,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 211351,
+        "login": "prepski",
+        "name": "prepski",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

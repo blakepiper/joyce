@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20224365",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Chainies",
+  "html_source": "<p>According to Gifford, “Damaged chinaware.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20224365/James-joyce-ulysses-chap-6-hades/Chainies",
+    "original_id": "20224365",
+    "referent_id": 20224365,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "chainies",
+    "prefix": " of him. Knows there are no catapults to let fly at him. Dead animal even sadder. Silly-Milly burying the little dead bird in the kitchen matchbox, a daisychain and bits of broken ",
+    "suffix": " on the grave. \n\n1939#85\n\n The Sacred Heart that is: showing it. Heart on his sleeve. Ought to be sideways and red it should be painted like a real heart. Ireland was dedicated to ",
+    "start": 58120,
+    "end": 58128,
+    "canonical_text": "chainies"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20224365,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11041825,
+        "login": "raggedclaws",
+        "name": "raggedclaws",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

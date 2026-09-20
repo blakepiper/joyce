@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4632431",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "The cold domed room of the tower waits",
+  "html_source": "<p>Stephen either sees or thinks of the Martello Tower where he was living in Chapter 1.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4632431/James-joyce-ulysses-chap-3-proteus/The-cold-domed-room-of-the-tower-waits",
+    "original_id": "4632431",
+    "referent_id": 4632431,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "The cold domed room of the tower waits",
+    "prefix": "p, am I? He stood suddenly, his feet beginning to sink slowly in the quaking soil. Turn back. \n\n Turning, he scanned the shore south, his feet sinking again slowly in new sockets. ",
+    "suffix": ". Through the barbacans the shafts of light are moving ever, slowly ever as my feet are sinking, creeping duskward over the dial floor. Blue dusk, nightfall, deep blue night. In th",
+    "start": 17077,
+    "end": 17115,
+    "canonical_text": "The cold domed room of the tower waits"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4632431,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4626870",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "There all the time without you",
+  "html_source": "<p>Stephen either doubts the idealist view of the world or he is acknowledging that escaping the illusion seems to be impossible.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4626870/James-joyce-ulysses-chap-3-proteus/There-all-the-time-without-you",
+    "original_id": "4626870",
+    "referent_id": 4626870,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "There all the time without you",
+    "prefix": "the mare. \n\n1922#37\n\n Open your eyes now. I will. One moment. Has all vanished since? If I open and am for ever in the black adiaphane. Basta! I will see if I can see. \n\n See now. ",
+    "suffix": ": and ever shall be, world without end. \n\n They came down the steps from Leahy's terrace prudently, Frauenzimmer: and down the shelving shore flabbily, their splayed feet sinking 1",
+    "start": 1701,
+    "end": 1731,
+    "canonical_text": "There all the time without you"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4626870,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

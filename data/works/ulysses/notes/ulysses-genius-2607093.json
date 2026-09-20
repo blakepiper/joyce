@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2607093",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "I’m stony.",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/5b32e224ff8bc388d2ddada284f13e2c.278x327x1.jpg\" alt=\"\" /></p><p>As in, <a href=\"http://en.wiktionary.org/wiki/stony_broke\" rel=\"noopener nofollow\"><em>stony broke</em></a>— having no money.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2607093/James-joyce-ulysses-chap-1-telemachus/Im-stony",
+    "original_id": "2607093",
+    "referent_id": 2607093,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "I'm stony.",
+    "prefix": "nt out, followed by Buck Mulligan's tender chant: \n\n— Heart of my heart, were it more, \nMore would be laid at your feet. \n\n He turned to Stephen and said: \n\n — Seriously, Dedalus. ",
+    "suffix": " Hurry out to your school kip and bring us back some money. Today the bards must drink and junket. Ireland expects that every man this day will do his duty. \n\n — That reminds me, H",
+    "start": 26291,
+    "end": 26301,
+    "canonical_text": "I'm stony."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2607093,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 293151,
+        "login": "jeeho",
+        "name": "Jeeho",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

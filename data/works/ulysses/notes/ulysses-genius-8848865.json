@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8848865",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Giglot",
+  "html_source": "<p>giglot<br />n.<br />A wanton; a lascivious or light, giddy girl.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8848865/James-joyce-ulysses-chap-9-scylla-and-charybdis/Giglot",
+    "original_id": "8848865",
+    "referent_id": 8848865,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "giglot",
+    "prefix": "for all other and singular uneared wombs, the holy office an ostler does for the stallion. Maybe, like Socrates, he had a midwife to mother as he had a shrew to wife. But she, the ",
+    "suffix": " wanton, did not break a bedvow. Two deeds are rank in that ghost's mind: a broken vow and the dullbrained yokel on whom her favour has declined, deceased husband's brother. 1932#1",
+    "start": 38336,
+    "end": 38342,
+    "canonical_text": "giglot"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8848865,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-3098980",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Lawdeedaw",
+  "html_source": "<p>Of the “upper class”, also often spelled “La-dee-dah”.</p><p><img src=\"https://images.rapgenius.com/8522ceff4c1a829852b7eeaa9583ab35.260x190x1.jpg\" alt=\"\" /></p><p>This could both be a reference to Stephen’s reluctance to accept food as a guest, and the fact that the offered food is too humble for him.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3098980/James-joyce-ulysses-chap-3-proteus/Lawdeedaw",
+    "original_id": "3098980",
+    "referent_id": 3098980,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "lawdeedaw",
+    "prefix": ". \n\n1939#31\n\n — He has nothing to sit down on, sir. \n\n — He has nowhere to put it, you mug. Bring in our chippendale chair. Would you like a bite of something? None of your damned ",
+    "suffix": " airs here. The rich of a rasher fried with a herring? Sure? So much the better. We have nothing in the house but backache pills. \n\n All'erta! \n\n He drones bars of Ferrando's aria ",
+    "start": 5745,
+    "end": 5754,
+    "canonical_text": "lawdeedaw"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3098980,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.5846153846153846
+      },
+      {
+        "id": 1135238,
+        "login": "Critic94",
+        "name": "Critic94",
+        "role": null,
+        "attribution": 0.4153846153846154
+      }
+    ]
+  },
+  "color": "F59627"
+}

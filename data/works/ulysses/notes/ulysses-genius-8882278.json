@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8882278",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Und alle Schiffe brücken.",
+  "html_source": "<p>Stephen apparently is trying to reverse translate from Jeep’s song, and intends to sing “which brings the ship into misfortune,” but his choice of German means “And all ships are bridged.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8882278/James-joyce-ulysses-chap-16-eumaeus/Und-alle-schiffe-brucken",
+    "original_id": "8882278",
+    "referent_id": 8882278,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Und alle Schiffe brücken.",
+    "prefix": "ains, divided by the upright, and, stepping over a strand of mire, went across towards Gardiner street lower, Stephen singing more boldly, but not loudly, the end of the ballad. \n\n",
+    "suffix": " \n\n The driver never said a word, good, bad or indifferent. He merely watched the two figures, as he sat on his lowbacked car, both black—one full, one lean—walk towards the railwa",
+    "start": 130436,
+    "end": 130461,
+    "canonical_text": "Und alle Schiffe brücken."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8882278,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

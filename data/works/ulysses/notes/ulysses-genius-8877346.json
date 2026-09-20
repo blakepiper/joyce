@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8877346",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Stud",
+  "html_source": "<p>A detachable collar is a shirt collar separate from the shirt, fastened to it by studs.</p><p><img src=\"https://images.rapgenius.com/ec3d37eab3914b19fa636bf407165356.1000x750x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8877346/James-joyce-ulysses-chap-10-wandering-rocks/Stud",
+    "original_id": "8877346",
+    "referent_id": 8877346,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "stud",
+    "prefix": " time. \n\n No Sandymount tram. \n\n Master Dignam walked along Nassau street, shifted the porksteaks to his other hand. His collar sprang up again and he tugged it down. The blooming ",
+    "suffix": " was too small for the buttonhole of the shirt, blooming end to it. He met schoolboys with satchels. I'm not going tomorrow either, stay away till Monday. He met other schoolboys. ",
+    "start": 66545,
+    "end": 66549,
+    "canonical_text": "stud"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8877346,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

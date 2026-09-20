@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4657203",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Doubledecker",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/33d730a4fdd571b670687adb02194428.1000x746x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4657203/James-joyce-ulysses-chap-7-aeolus/Doubledecker",
+    "original_id": "4657203",
+    "referent_id": 4657203,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "doubledecker",
+    "prefix": "ss. The hoarse Dublin United Tramway Company's timekeeper bawled them off: \n\n — Rathgar and Terenure! \n\n — Come on, Sandymount Green! \n\n Right and left parallel clanging ringing a ",
+    "suffix": " and a singledeck moved from their railheads, swerved to the down line, glided parallel. \n\n — Start, Palmerston Park! \n\n THE WEARER OF THE CROWN \n\n Under the porch of the general p",
+    "start": 481,
+    "end": 493,
+    "canonical_text": "doubledecker"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4657203,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

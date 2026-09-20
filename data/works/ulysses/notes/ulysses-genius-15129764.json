@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15129764",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Raths",
+  "html_source": "<p>A “ring fort” or circular earthwork serving as fortress and residence of an ancient Irish chief.</p><p><img src=\"https://images.genius.com/ae4114ddeeff360ff5ea7dd331b1f28c.960x684x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15129764/James-joyce-ulysses-chap-12-cyclops/Raths",
+    "original_id": "15129764",
+    "referent_id": 15129764,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "raths",
+    "prefix": "asts than the British article, be it said in passing), a Kerry calf and a golden eagle from Carrantuohill. The scenes depicted on the emunctory field, showing our ancient duns and ",
+    "suffix": " and cromlechs and grianauns and seats of learning and maledictive stones, are as wonderfully beautiful and the pigments as delicate as when the Sligo illuminators gave free rein t",
+    "start": 92548,
+    "end": 92553,
+    "canonical_text": "raths"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15129764,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

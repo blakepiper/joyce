@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11205258",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Cards",
+  "html_source": "<p>tarot cards used for fortune telling</p><p><img src=\"https://images.genius.com/1c4e8ec788eec83f857b90028a586f73.200x250x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11205258/James-joyce-ulysses-chap-18-penelope/Cards",
+    "original_id": "11205258",
+    "referent_id": 11205258,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "cards",
+    "prefix": "untleroy suit 1932#674and curly hair like a prince on the stage when I saw him at Mat Dillons he liked me too I remember they all do wait by God yes wait yes hold on he was on the ",
+    "suffix": " this morning when I laid out the deck union with a young stranger neither dark nor fair you met before I thought it meant him 1961#774but hes no chicken nor a stranger either besi",
+    "start": 97644,
+    "end": 97649,
+    "canonical_text": "cards"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9712
+  },
+  "genius": {
+    "referent_id": 11205258,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

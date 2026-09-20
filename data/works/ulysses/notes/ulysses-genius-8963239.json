@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8963239",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Compos mentis",
+  "html_source": "<p>adjective<br />having full control of one’s mind; sane.<br />“are you sure he was totally compos mentis?”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8963239/James-joyce-ulysses-chap-12-cyclops/Compos-mentis",
+    "original_id": "8963239",
+    "referent_id": 8963239,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "compos mentis",
+    "prefix": "s on my character. \n\n — Whatever statement you make, says Joe, will be taken down in evidence against you. \n\n — Of course an action would lie, says J. J. It implies that he is not ",
+    "suffix": ". U. p. up. \n\n— Compos your eye? says Alf, laughing. Do you know that 1961#320he's balmy? Look at his head. Do you know that some mornings he has to get his hat on with a shoehorn?",
+    "start": 67193,
+    "end": 67206,
+    "canonical_text": "compos mentis"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8963239,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

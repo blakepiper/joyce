@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11031785",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Shira Shirim",
+  "html_source": "<p>Shir ha-Shirim Rabbah (Hebrew: שיר השירים רבה) is a Haggadic commentary on Song of Songs</p><p><a href=\"https://www.youtube.com/watch?v=ubeVn-C1AAE\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=ubeVn-C1AAE</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11031785/James-joyce-ulysses-chap-17-ithaca/Shira-shirim",
+    "original_id": "11031785",
+    "referent_id": 11031785,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Shira Shirim",
+    "prefix": "chisedek): the visit to museum and national library (holy place): the bookhunt along Bedford row, Merchants' Arch, Wellington Quay (Simchath Torah): the music in the Ormond Hotel (",
+    "suffix": "): the altercation with a truculent troglodyte in Bernard Kiernan's premises (holocaust): a blank period of time including a cardrive, a visit to a house of mourning, a leavetaking",
+    "start": 130328,
+    "end": 130340,
+    "canonical_text": "Shira Shirim"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11031785,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

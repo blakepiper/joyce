@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9037572",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Here’s the lord mayor",
+  "html_source": "<p>Another version of the nursery rhyme:<br />Here sits the Lord Mayor……………….forehead.<br />Here sits his two men …………………eyes.<br />Here sits the rooster…………………..right cheek.<br />Here sits the hen……………………….left cheek.<br />Here sit the little chickens…………..tip of nose.<br />Here they run in……………………………mouth<br />Chin-chopper, chin-chopper, chin-chopper, chin!……..chuck the chin.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9037572/James-joyce-ulysses-chap-13-nausicaa/Heres-the-lord-mayor",
+    "original_id": "9037572",
+    "referent_id": 9037572,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "here's the lord mayor",
+    "prefix": "ong the sand and Tommy after it in full career, having won the day.\n\n—Anything for a quiet life, laughed Ciss.\n\nAnd she tickled tiny tot's two cheeks to make him forget and played ",
+    "suffix": ", here's his two horses, here's his gingerbread carriage and here he walks in, chinchopper, chinchopper, chinchopper chin. But Edy got as cross as two sticks about him getting his ",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.8235
+  },
+  "genius": {
+    "referent_id": 9037572,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21139214",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Herr Bleibtreu",
+  "html_source": "<p>Karl Bleibtreu<br /><a href=\"https://en.wikipedia.org/wiki/Karl_Bleibtreu\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Karl_Bleibtreu</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21139214/James-joyce-ulysses-chap-9-scylla-and-charybdis/Herr-bleibtreu",
+    "original_id": "21139214",
+    "referent_id": 21139214,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Herr Bleibtreu",
+    "prefix": " in that case, he said, I don't see why you should expect payment for it since you don't believe it yourself. Dowden believes there is some mystery in Hamlet but will say no more. ",
+    "suffix": ", the man Piper met in Berlin, who is working up that Rutland theory, believes that the secret is hidden in the Stratford monument. He is going to visit the present duke, Piper say",
+    "start": 62563,
+    "end": 62577,
+    "canonical_text": "Herr Bleibtreu"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21139214,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

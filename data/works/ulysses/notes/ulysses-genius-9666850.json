@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9666850",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Half a league onward",
+  "html_source": "<p><a href=\"http://poetry.eserver.org/light-brigade.html\" rel=\"noopener nofollow\">http://poetry.eserver.org/light-brigade.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9666850/James-joyce-ulysses-chap-15-circe/Half-a-league-onward",
+    "original_id": "9666850",
+    "referent_id": 9666850,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Half a league onward",
+    "prefix": "our. \n\n1961#483\n\n BLOOM \n\n On this day twenty years ago we overcame the hereditary enemy at Ladysmith. Our howitzers and camel swivel guns played on his lines with telling effect. ",
+    "suffix": "! They charge! All is lost now! Do we yield? No! We drive them headlong! Lo! We charge! Deploying to the left our light horse swept across the heights of Plevna and, uttering their",
+    "start": 76579,
+    "end": 76599,
+    "canonical_text": "Half a league onward"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9666850,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

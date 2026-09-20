@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8544398",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Elvery’s elephant",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/e6dc4292c9bb8b63e8f7ae201d24dbcb.396x387x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8544398/James-joyce-ulysses-chap-11-sirens/Elverys-elephant",
+    "original_id": "8544398",
+    "referent_id": 8544398,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Elvery's elephant",
+    "prefix": " rose higher, told, faltered, confessed, confused. \n\n Up stage strode Father Cowley. \n\n — Here, Simon, I'll accompany you, he said. Get up. \n\n By Graham Lemon's pineapple rock, by ",
+    "suffix": " jingle jogged. \n\n Steak, kidney, liver, mashed, at meat fit for princes sat princes Bloom and Goulding. Princes at meat they raised and drank Power and cider. \n\n Most beautiful te",
+    "start": 31857,
+    "end": 31874,
+    "canonical_text": "Elvery's elephant"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8544398,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

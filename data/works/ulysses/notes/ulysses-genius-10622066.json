@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10622066",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Crupper",
+  "html_source": "<p>a strap at the rear of a saddle that loops under a horse tail to keep the saddle from sliding forward</p><p><img src=\"https://images.genius.com/3906e73c22cef651654bddcae5af605c.900x900x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10622066/James-joyce-ulysses-chap-16-eumaeus/Crupper",
+    "original_id": "10622066",
+    "referent_id": 10622066,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "crupper",
+    "prefix": "l, added his quota by letting fall on the floor, which the brush would soon brush up and polish, three smoking globes of turds. Slowly, three times, one after another, from a full ",
+    "suffix": ", he mired. And humanely his driver waited till he (or she) had ended, patient in his scythed car. \n\n Side by side Bloom, profiting by the contretemps, with Stephen passed through ",
+    "start": 130052,
+    "end": 130059,
+    "canonical_text": "crupper"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10622066,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

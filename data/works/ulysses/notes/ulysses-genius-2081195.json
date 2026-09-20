@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2081195",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "The stranger still regarded",
+  "html_source": "<p>This section (from “The stranger still regarded” to “in her glad look”) is written in the style of English essayist and critic <a href=\"http://en.wikipedia.org/wiki/Walter_Pater\" rel=\"noopener nofollow\">Walter Pater</a>.</p><p><img src=\"https://images.genius.com/7872ac350507ae5f73497b132756925c.220x306x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2081195/James-joyce-ulysses-chap-14-oxen-of-the-sun/The-stranger-still-regarded",
+    "original_id": "2081195",
+    "referent_id": 2081195,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "The stranger still regarded",
+    "prefix": " one that lies 1922#400under her wrath, not for vengeance to cut him off from the living but shrouded in the piteous vesture of the past, silent, remote, reproachful. \n\n1961#421\n\n ",
+    "suffix": " on the face before him a slow recession of that false calm there, imposed, as it seemed, by habit or some studied trick, upon words so embittered as to accuse in their speaker an ",
+    "start": 98485,
+    "end": 98512,
+    "canonical_text": "The stranger still regarded"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2081195,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

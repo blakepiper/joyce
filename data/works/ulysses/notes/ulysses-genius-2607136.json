@@ -1,0 +1,63 @@
+{
+  "id": "ulysses-genius-2607136",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Kingstown pier",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/7c1509706eeab1a499d395befd5ac642.1000x744x1.jpg\" alt=\"\" /></p><p>This is the Kingstown Harbour.</p><p>Kingstown is now named <a href=\"http://en.wikipedia.org/wiki/D%C3%BAn_Laoghaire\" rel=\"noopener nofollow\">Dún Laoghaire</a>.</p><p>PROPOSED SUGGESTION: What about the significance of the pier?</p><p>–The Kingstown Harbour is next to Martello Tower in “Telemachus.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2607136/James-joyce-ulysses-chap-2-nestor/Kingstown-pier",
+    "original_id": "2607136",
+    "referent_id": 2607136,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "Kingstown pier",
+    "prefix": "papas pay. \n\n — Tell me now, Stephen said, poking the boy's shoulder with the book, what is a pier. \n\n — A pier, sir, Armstrong said. A thing out in the water. A kind of a bridge. ",
+    "suffix": ", sir. \n\n Some laughed again: mirthless but with meaning. Two in the back bench whispered. Yes. They knew: had never learned 1961#24nor ever been 1986#20innocent. All. With envy he",
+    "start": 1782,
+    "end": 1796,
+    "canonical_text": "Kingstown pier"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9655
+  },
+  "genius": {
+    "referent_id": 2607136,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 293151,
+        "login": "jeeho",
+        "name": "Jeeho",
+        "role": "contributor",
+        "attribution": 0.6307692307692307
+      },
+      {
+        "id": 4393614,
+        "login": "rageofcaliban",
+        "name": "rageofcaliban",
+        "role": null,
+        "attribution": 0.1846153846153846
+      },
+      {
+        "id": 8028950,
+        "login": "PZTT",
+        "name": "PZTT",
+        "role": null,
+        "attribution": 0.13846153846153847
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.04615384615384615
+      }
+    ]
+  },
+  "color": "F59627"
+}

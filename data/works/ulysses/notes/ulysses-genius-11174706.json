@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11174706",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Mr Bloom gazed across the road",
+  "html_source": "<p>When people want to leave or end a conversation they start looking away from the person(s) they’re speaking to.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11174706/James-joyce-ulysses-chap-5-lotus-eaters/Mr-bloom-gazed-across-the-road",
+    "original_id": "11174706",
+    "referent_id": 11174706,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Mr Bloom gazed across the road",
+    "prefix": ", Mr Bloom answered. \n\n1932#64\n\n — I must try to get out there, M'Coy said. Eleven, is it? I only heard it last night. Who was telling me? Holohan. You know Hoppy? \n\n — I know. \n\n ",
+    "suffix": " at the outsider drawn up before the door of the Grosvenor. The porter hoisted the valise up on the well. She stood still, waiting, while the man, husband, brother, like her, searc",
+    "start": 6274,
+    "end": 6304,
+    "canonical_text": "Mr Bloom gazed across the road"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11174706,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 4017165,
+        "login": "KevinFoy",
+        "name": "KevinFoy",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

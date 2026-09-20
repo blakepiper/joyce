@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-7926873",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Todd’s",
+  "html_source": "<p>I’m pretty sure this is a reference to St Columba’s College, a co-educational boarding and day school founded in 1843 located in Whitechurch, Dublin, Ireland. James Henthorn Todd was one of the founders.</p><p>PROPOSED SUGGESTION: Can you find a source for this?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7926873/James-joyce-ulysses-chap-6-hades/Todds",
+    "original_id": "7926873",
+    "referent_id": 7926873,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Todd's",
+    "prefix": "ily mortgaged. Martin is trying to get the youngster into Artane. \n\n — How many children did he leave? \n\n1961#101\n\n — Five. Ned Lambert says he'll try to get one of the girls into ",
+    "suffix": ". \n\n — A sad case, Mr Bloom said gently. Five young children. \n\n — A great blow to the poor wife, Mr Kernan added. \n\n — Indeed yes, Mr Bloom agreed. \n\n Has the laugh at him now. \n\n",
+    "start": 31808,
+    "end": 31814,
+    "canonical_text": "Todd's"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 7926873,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2319682,
+        "login": "PrincePhil",
+        "name": "PrincePhil",
+        "role": null,
+        "attribution": 0.7021276595744681
+      },
+      {
+        "id": 389740,
+        "login": "ewokABdevito",
+        "name": "EwokABdevito",
+        "role": "moderator",
+        "attribution": 0.2553191489361702
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.0425531914893617
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4545299",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "His father made his money over selling the horses for the cavalry",
+  "html_source": "<p>Thinking of the military causes Molly to think of the money that Boylan’s father made selling horses to the army.  She plans to have him spend money on her when they go to Belfast for on a concert tour.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4545299/James-joyce-ulysses-chap-18-penelope/His-father-made-his-money-over-selling-the-horses-for-the-cavalry",
+    "original_id": "4545299",
+    "referent_id": 4545299,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "his father made his money over selling the horses for the cavalry",
+    "prefix": " acres the Black Watch with their kilts in time at the march past the 10th hussars the prince of Wales own or the lancers O the lancers theyre grand or the Dublins that won Tugela ",
+    "suffix": " well he could buy me a nice present up in Belfast after what I gave him theyve 1922#700lovely linen up there or one of those nice kimono things I must buy a mothball like I had be",
+    "start": 30031,
+    "end": 30096,
+    "canonical_text": "his father made his money over selling the horses for the cavalry"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4545299,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9666407",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Run a tramline",
+  "html_source": "<p>Bloom mentioned his idea for a tram from the cattlemarket to the docks in Chapter 4:<br />“Of course if they ran a tramline along the North Circular from the cattlemarket to the quays value would go up like a shot.”<br />and Chapter 6:<br />“I can’t make out why the corporation doesn’t run a tramline from the parkgate to the quays, Mr Bloom said. All those animals could be taken in trucks down to the boats.'</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9666407/James-joyce-ulysses-chap-15-circe/Run-a-tramline",
+    "original_id": "9666407",
+    "referent_id": 9666407,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "run a tramline",
+    "prefix": "IMES \n\n Turn again, Leopold! Lord mayor of Dublin! \n\n1932#424\n\n BLOOM \n\n(In alderman's gown and chain.) Electors of Arran Quay, Inns Quay, Rotunda, Mountjoy and North Dock, better ",
+    "suffix": ", I say, from the cattlemarket to the river. That's the music of the future. That's my programme. Cui bono? But our buccaneering Vanderdeckens in their phantom ship of finance... \n",
+    "start": 68066,
+    "end": 68080,
+    "canonical_text": "run a tramline"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9666407,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

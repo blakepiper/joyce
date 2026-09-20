@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9098042",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Tumulus",
+  "html_source": "<p>burial mound</p><p><img src=\"https://images.genius.com/52c59989e5fdb9bdb1db1c021521d0ef.220x147x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9098042/James-joyce-ulysses-chap-14-oxen-of-the-sun/Tumulus",
+    "original_id": "9098042",
+    "referent_id": 9098042,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "tumulus",
+    "prefix": "ted 1986#322wattles: at last the cavity of a mountain, an occulted sepulchre amid the conclamation of the hillcat and the ossifrage. And as no man 1932#356knows the ubicity of his ",
+    "suffix": " nor to what processes we shall thereby be ushered nor whether to Tophet or to Edenville in the like way is all hidden when we would backward see from what region of remoteness the",
+    "start": 28329,
+    "end": 28336,
+    "canonical_text": "tumulus"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9098042,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

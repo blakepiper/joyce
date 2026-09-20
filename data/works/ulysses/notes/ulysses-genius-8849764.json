@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8849764",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Aengus",
+  "html_source": "<p>Also known as “Angus the young”, he was considered the Irish god of love. He was a young handsome god that had four birds flying about his head.<br />Encyclopedia Mythica</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8849764/James-joyce-ulysses-chap-9-scylla-and-charybdis/Aengus",
+    "original_id": "8849764",
+    "referent_id": 8849764,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Aengus",
+    "prefix": "in the study of the Summa contra Gentiles in the company of two gonorrheal ladies, Fresh Nelly and Rosalie, the coalquay whore. \n\n He broke away. \n\n — Come, Kinch. Come, wandering ",
+    "suffix": " of the birds. \n\n Come, Kinch. You have eaten all we left. Ay. I will serve you your orts and offals. \n\n Stephen rose. \n\n Life is many days. This will end. \n\n — We shall see you to",
+    "start": 63749,
+    "end": 63754,
+    "canonical_text": "Ængus"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 8849764,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

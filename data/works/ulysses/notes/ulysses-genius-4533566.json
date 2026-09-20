@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4533566",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Milly",
+  "html_source": "<p>Milly is Molly’s fifteen year old daughter.  Molly remembers breast feeding her when she was a baby, segueing from Boylan’s <a href=\"https://genius.com/4533558\" rel=\"noopener nofollow\">animalistic treatment of her breasts.</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4533566/James-joyce-ulysses-chap-18-penelope/Milly",
+    "original_id": "4533566",
+    "referent_id": 4533566,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Milly",
+    "prefix": "is one not so much theres the mark of his teeth still where he tried to bite the nipple I had to scream out arent they fearful trying to hurt you I had a great breast of milk with ",
+    "suffix": " enough for two what was the reason of that he said I could have got a pound a week as a wet nurse all swelled out the morning that delicate looking student that stopped in n° 28 w",
+    "start": 42620,
+    "end": 42625,
+    "canonical_text": "Milly"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 4533566,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 0.68
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.32
+      }
+    ]
+  },
+  "color": "F59627"
+}

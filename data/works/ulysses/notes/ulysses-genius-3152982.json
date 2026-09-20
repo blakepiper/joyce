@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3152982",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Brian of Kincora",
+  "html_source": "<p>Irish king, Brian Boru.  Reigned from 941-1014 CE.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3152982/James-joyce-ulysses-chap-12-cyclops/Brian-of-kincora",
+    "original_id": "3152982",
+    "referent_id": 3152982,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Brian of Kincora",
+    "prefix": "me and on these were graven with rude yet striking art the tribal images of many Irish heroes and heroines of antiquity, Cuchulin, Conn of hundred battles, Niall of nine hostages, ",
+    "suffix": ", the ardri Malachi, Art MacMurragh, Shane O'Neill, Father John Murphy, Owen Roe, Patrick Sarsfield, Red Hugh O'Donnell, Red Jim MacDermott, Soggarth Eoghan O'Growney, Michael Dwye",
+    "start": 11492,
+    "end": 11508,
+    "canonical_text": "Brian of Kincora"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3152982,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 591961,
+        "login": "dbrannen",
+        "name": "dbrannen",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

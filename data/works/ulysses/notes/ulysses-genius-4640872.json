@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4640872",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Lobbing",
+  "html_source": "<p>Lounging.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4640872/James-joyce-ulysses-chap-5-lotus-eaters/Lobbing",
+    "original_id": "4640872",
+    "referent_id": 4640872,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "lobbing",
+    "prefix": " Lovely spot it must be: the garden of the world, big lazy leaves to float about on, cactuses, flowery meads, snaky lianas they call them. Wonder is it like that. Those Cinghalese ",
+    "suffix": " about in the sun in dolce far niente, not doing a hand's turn all day. Sleep six months out of twelve. Too hot to quarrel. Influence of the climate. Lethargy. Flowers of idleness.",
+    "start": 2255,
+    "end": 2262,
+    "canonical_text": "lobbing"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4640872,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

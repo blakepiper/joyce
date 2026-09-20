@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-12763598",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Muglins",
+  "html_source": "<p><a href=\"http://www.joyceproject.com/notes/010108muglins.htm\" rel=\"noopener nofollow\">http://www.joyceproject.com/notes/010108muglins.htm</a></p><p>PROPOSED SUGGESTION: The Muglins is a small rocky island, with a lighthouse, to the east of Dalkey Island.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/12763598/James-joyce-ulysses-chap-1-telemachus/Muglins",
+    "original_id": "12763598",
+    "referent_id": 12763598,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Muglins",
+    "prefix": "ned, paler, firm and prudent. The seas' ruler, he gazed southward over the bay, empty save for the smokeplume of the mailboat vague on the bright skyline and a sail tacking by the ",
+    "suffix": ". \n\n1932#17\n\n — I read a theological interpretation of it somewhere, he said bemused. The Father and the Son idea. The Son striving to be atoned with the Father. \n\n Buck Mulligan a",
+    "start": 32392,
+    "end": 32399,
+    "canonical_text": "Muglins"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 12763598,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.6037735849056604
+      },
+      {
+        "id": 8604914,
+        "login": "seanrorydempsey",
+        "name": "seanrorydempsey",
+        "role": null,
+        "attribution": 0.3962264150943396
+      }
+    ]
+  },
+  "color": "F59627"
+}

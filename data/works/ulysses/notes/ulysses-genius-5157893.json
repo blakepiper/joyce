@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-5157893",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Tiens, quel petit pied!",
+  "html_source": "<p>French for ‘ahh what a little foot!’</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5157893/James-joyce-ulysses-chap-3-proteus/Tiens-quel-petit-pied",
+    "original_id": "5157893",
+    "referent_id": 5157893,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Tiens, quel petit pied!",
+    "prefix": "ein another's foot had nested warm. The foot that beat the ground in tripudium, foot I dislove. But you were delighted when Esther Osvalt's shoe went on you: girl I knew in Paris. ",
+    "suffix": " Staunch friend, a brother soul: Wilde's love that dare not speak its name. His arm: Cranly's arm. He now will leave me. And the blame? As I am. As I am. All or not at all. \n\n In l",
+    "start": 29276,
+    "end": 29299,
+    "canonical_text": "Tiens, quel petit pied!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5157893,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1618748,
+        "login": "Kataryna",
+        "name": "Kataryna",
+        "role": "contributor",
+        "attribution": 0.875
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.125
+      }
+    ]
+  },
+  "color": "F59627"
+}

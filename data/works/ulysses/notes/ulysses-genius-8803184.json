@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8803184",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Chapelizod",
+  "html_source": "<p>Chapelizod (Irish: Séipéal Iosóid, meaning “Iseult’s Chapel”) is a village preserved within the city of Dublin, Ireland. It lies in the wooded valley of the River Liffey, near the Strawberry Beds and the Phoenix Park.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8803184/James-joyce-ulysses-chap-7-aeolus/Chapelizod",
+    "original_id": "8803184",
+    "referent_id": 8803184,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Chapelizod",
+    "prefix": "a profession but your Cork legs are running1932#123 away with you. Why not bring in Henry Grattan and Flood and Demosthenes and Edmund Burke? Ignatius Gallaher we all know and his ",
+    "suffix": " boss, Harmsworth of the farthing press, and his American cousin of the Bowery guttersheet not to mention Paddy Kelly's Budget, Pue's Occurrences and our watchful friend The Skiber",
+    "start": 40184,
+    "end": 40194,
+    "canonical_text": "Chapelizod"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8803184,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

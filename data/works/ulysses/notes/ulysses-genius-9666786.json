@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9666786",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Black Maria",
+  "html_source": "<p>slang term for a poice wagon</p><p><img src=\"https://images.genius.com/40dd4db214d8c5393e05c4b058ec3e36.1000x750x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9666786/James-joyce-ulysses-chap-15-circe/Black-maria",
+    "original_id": "9666786",
+    "referent_id": 9666786,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Black Maria",
+    "prefix": " repudiated our former spouse and have bestowed our royal hand upon the princess Selene, the splendour of night. \n\n(The former morganatic spouse of Bloom is hastily removed in the ",
+    "suffix": ". The princess Selene, in moonblue robes, a silver crescent on her head, descends from a Sedan chair, borne by two giants. An outburst of cheering.) \n\n JOHN HOWARD PARNELL \n\n(Raise",
+    "start": 75726,
+    "end": 75737,
+    "canonical_text": "Black Maria"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9666786,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10220805",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Easter kiss",
+  "html_source": "<p>Also known as the “holy kiss” or “kiss of peace”,<br />a ceremonial kiss formerly given, especially at a baptism or Eucharistic service, as a token of Christian love and unity.<br />dictionary.com</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10220805/James-joyce-ulysses-chap-15-circe/Easter-kiss",
+    "original_id": "10220805",
+    "referent_id": 10220805,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Easter kiss",
+    "prefix": " funny little chaps are not unanimous. If they were they'd walk me off the face of the bloody globe. \n\n(His head aslant he blesses curtly with fore and middle fingers, imparts the ",
+    "suffix": " and doubleshuffles off comically, swaying his hat from side to side, shrinking quickly to the size of his trainbearers. The dwarf acolytes, giggling, peeping, nudging, ogling, 192",
+    "start": 134854,
+    "end": 134865,
+    "canonical_text": "Easter kiss"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10220805,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

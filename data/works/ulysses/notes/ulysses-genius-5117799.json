@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5117799",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Sept",
+  "html_source": "<p>A division of a family, especially a division of a clan.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5117799/James-joyce-ulysses-chap-3-proteus/Sept",
+    "original_id": "5117799",
+    "referent_id": 5117799,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "sept",
+    "prefix": "I was a strapping young gossoon at that time, I tell you. I'll show you my likeness one day. I was, faith. Lover, for her love he prowled with colonel Richard Burke, tanist of his ",
+    "suffix": ", under the walls of Clerkenwell and, crouching, saw a flame of vengeance hurl them upward in the fog. Shattered glass and toppling masonry. In gay Paree he hides, Egan of Paris, u",
+    "start": 15576,
+    "end": 15580,
+    "canonical_text": "sept"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 5117799,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1618748,
+        "login": "Kataryna",
+        "name": "Kataryna",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

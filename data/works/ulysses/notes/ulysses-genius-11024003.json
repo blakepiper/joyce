@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11024003",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Be kind to Athos",
+  "html_source": "<p>Bloom’s father asked him to care for his dog Athos as mentioned in Chapter 6:<br />“Poor old Athos! Be good to Athos, Leopold, is my last wish. Thy will be done. We obey them in the grave.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11024003/James-joyce-ulysses-chap-17-ithaca/Be-kind-to-athos",
+    "original_id": "11024003",
+    "referent_id": 11024003,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "be kind to Athos",
+    "prefix": "hole words evoke? \n\n Tomorrow will be a week that I received... it is no use Leopold to be ... with your dear mother... that is not more to stand... to her... all for me is out... ",
+    "suffix": ", Leopold... my dear son... always... of me... das Herz... Gott... dein... \n\n1961#723\n\n What reminiscences of a human subject suffering from progressive melancholia did these objec",
+    "start": 119879,
+    "end": 119895,
+    "canonical_text": "be kind to Athos"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11024003,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

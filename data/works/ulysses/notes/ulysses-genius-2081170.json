@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2081170",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "From the second constellation.",
+  "html_source": "<p>This ends the section in the style of Walter Savage Landor which began with “Francis was reminding.”</p><p><img src=\"https://images.genius.com/2f885d01e7b7c13d0dca84bc53e2104e.187x300x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2081170/James-joyce-ulysses-chap-14-oxen-of-the-sun/From-the-second-constellation",
+    "original_id": "2081170",
+    "referent_id": 2081170,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "from the second constellation.",
+    "prefix": " Theosophos told me, an orangefiery shipload from planet Alpha of the lunar chain would not assume the etheric doubles and these were therefore incarnated by the rubycoloured egos ",
+    "suffix": " \n\n However, as a matter of fact though, the preposterous surmise about him being in some description of a doldrums or other or mesmerised which was entirely due to a misconception",
+    "start": 85060,
+    "end": 85090,
+    "canonical_text": "from the second constellation."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2081170,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

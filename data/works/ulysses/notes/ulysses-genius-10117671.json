@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10117671",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Défense d’uriner",
+  "html_source": "<p><img src=\"https://images.genius.com/75e2a9ed05d596668f45f3c935ebe76f.350x489x1.gif\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10117671/James-joyce-ulysses-chap-15-circe/Defense-duriner",
+    "original_id": "10117671",
+    "referent_id": 10117671,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Défense d'uriner",
+    "prefix": "ed jujube. He is robed as a grand elect perfect and sublime mason with trowel and apron, marked made in Germany. In his left hand he holds a plasterer's bucket on which is printed ",
+    "suffix": ".A roar of welcome greets him.) \n\n EDWARD THE SEVENTH \n\n(Slowly, solemnly but indistinctly.) Peace, perfect peace. For identification, bucket in my hand. Cheerio, boys. (He turns t",
+    "start": 217417,
+    "end": 217433,
+    "canonical_text": "Défense d'uriner"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10117671,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

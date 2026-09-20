@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8687767",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Tell him silly Milly sends my best respects. I must now close with fondest love",
+  "html_source": "<p>Even initial readers will know ‘Tell him silly Milly’ refers to Boylan and the informality of the phrase is surprising. Through several explicit references to Boylan, conversational implicature and Bloom’s dark thoughts the reader becomes more aware that Boylan is a person of interest in the Bloom household.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8687767/James-joyce-ulysses-chap-4-calypso/Tell-him-silly-milly-sends-my-best-respects-i-must-now-close-with-fondest-love",
+    "original_id": "8687767",
+    "referent_id": 8687767,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Tell him silly Milly sends my best respects. I must now close with fondest love",
+    "prefix": "udent comes here some evenings named Bannon his cousins or something are big swells he sings Boylan's (I was on the pop of writing Blazes Boylan's) song about those seaside girls. ",
+    "suffix": ". \n\n Your fond daughter, \n\n MILLY. \n\n P. S. Excuse bad writing am in a hurry. Byby. \n\n M. \n\n Fifteen yesterday. Curious, fifteenth of the month too. Her first birthday away from ho",
+    "start": 25270,
+    "end": 25349,
+    "canonical_text": "Tell him silly Milly sends my best respects. I must now close with fondest love"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8687767,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

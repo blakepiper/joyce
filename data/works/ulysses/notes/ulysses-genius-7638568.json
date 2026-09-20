@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-7638568",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Who is my neighbour?",
+  "html_source": "<p>From the Parable of the Good Samaritan (Luke 10:25-37): “But he, willing to justify himself, said unto Jesus, And who is my neighbour?”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7638568/James-joyce-ulysses-chap-5-lotus-eaters/Who-is-my-neighbour",
+    "original_id": "7638568",
+    "referent_id": 7638568,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Who is my neighbour?",
+    "prefix": "e trod the worn steps, pushed the swingdoor and entered softly by the rere. \n\n1939#61\n\n Something going on: some sodality. Pity so empty. Nice discreet place to be next some girl. ",
+    "suffix": " Jammed by the hour to slow music. That woman at midnight mass. Seventh heaven. Women knelt in the benches with crimson halters round their necks, heads bowed. A batch knelt at the",
+    "start": 21157,
+    "end": 21177,
+    "canonical_text": "Who is my neighbour?"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 7638568,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2082994,
+        "login": "zebrozebry",
+        "name": "zebrozebry",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

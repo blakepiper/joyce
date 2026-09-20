@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4003035",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Bloom",
+  "html_source": "<p>Bloom has not reached the Ormond yet. He is on Wellington Quay and has not decided where to eat.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4003035/James-joyce-ulysses-chap-11-sirens/Bloom",
+    "original_id": "4003035",
+    "referent_id": 4003035,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "Bloom",
+    "prefix": "assey on you if I hear any more of your impertinent insolence. \n\n — Imperthnthn thnthnthn, bootsnout sniffed rudely, as he retreated as she threatened as he had come. \n\n1922#247\n\n ",
+    "suffix": ". \n\n On her flower frowning Miss Douce said: \n\n — Most aggravating that young brat is. If he doesn't conduct himself I'll wring his ear for him a yard long. \n\n Ladylike in exquisit",
+    "start": 4420,
+    "end": 4425,
+    "canonical_text": "Bloom"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9454
+  },
+  "genius": {
+    "referent_id": 4003035,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

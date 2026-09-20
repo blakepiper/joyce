@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15130729",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Agus",
+  "html_source": "<p>In Gaelic, agus simply means “and”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15130729/James-joyce-ulysses-chap-12-cyclops/Agus",
+    "original_id": "15130729",
+    "referent_id": 15130729,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "agus",
+    "prefix": "ity and was accompanied by the gift of a silver casket, tastefully executed in the style of ancient Celtic ornament, a work which reflects every credit on the makers, Messrs Jacob ",
+    "suffix": " Jacob. The departing guest was the recipient of a hearty ovation, many of those who were present being visibly moved when the select orchestra of Irish pipes struck up the wellkno",
+    "start": 116845,
+    "end": 116849,
+    "canonical_text": "agus"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15130729,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

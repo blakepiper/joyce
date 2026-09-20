@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10580118",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Brother Buzz",
+  "html_source": "<p>“Buzz” is slang for spreading gossip and picking pockets.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10580118/James-joyce-ulysses-chap-5-lotus-eaters/Brother-buzz",
+    "original_id": "10580118",
+    "referent_id": 10580118,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Brother Buzz",
+    "prefix": "nder through the world for the ruin of souls. \n\n The priest and the massboy stood up and walked off. All over. The women remained behind: thanksgiving. \n\n Better be shoving along. ",
+    "suffix": ". Come around with the plate perhaps. Pay your Easter duty. \n\n He stood up. Hello. Were those two buttons of my waistcoat open all the time? Women enjoy it. Never tell you. But we.",
+    "start": 28742,
+    "end": 28754,
+    "canonical_text": "Brother Buzz"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10580118,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

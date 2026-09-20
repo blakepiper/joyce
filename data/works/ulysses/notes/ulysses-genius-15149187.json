@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15149187",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Subtile",
+  "html_source": "<p><a href=\"https://en.wiktionary.org/wiki/subtile\" rel=\"noopener nofollow\">Subtile</a> is not commonly used as a countable noun but here essentially means “subtlety”.</p><p>The etymology is cool: From Latin subtilis (“fine, thin, slender, delicate”), perhaps, from sub (“under”) + tela (“a web, fabric”). See tela, toil.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15149187/James-joyce-ulysses-chap-14-oxen-of-the-sun/Subtile",
+    "original_id": "15149187",
+    "referent_id": 15149187,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "subtile",
+    "prefix": "now that he should go into that castle for to make merry with them that were there. And the traveller Leopold said that he should go otherwhither for he was a man of cautels and a ",
+    "suffix": ". Also the lady was of his avis and repreved the learningknight though she trowed well that the traveller had said thing that was false for his subtility. But the learningknight wo",
+    "start": 9205,
+    "end": 9212,
+    "canonical_text": "subtile"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15149187,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

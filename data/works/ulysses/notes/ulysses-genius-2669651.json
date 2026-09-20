@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2669651",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Give something to H H the pope for a penance",
+  "html_source": "<p>Her concept of “sin.”</p><blockquote><p>Question: Is it a more grievous offence to sin with a person in holy orders, or with a religious man or woman, than with another?</p><p>Answer: Yes, it is much more grievous and more abominable; it is likewise a greater offence to sin with a kinsman or kinswoman, or with a married man or woman, than with others.</p><p>–Reverend Andrew Donlevy, The Catechism – Published for the Royal Catholic College of St. Patrick Maynooth – 1848, Dublin</p></blockquote>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2669651/James-joyce-ulysses-chap-18-penelope/Give-something-to-h-h-the-pope-for-a-penance",
+    "original_id": "2669651",
+    "referent_id": 2669651,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "give something to H H the pope for a penance",
+    "prefix": "ke to be embraced by one in his vestments and the smell of incense off him like the pope besides theres no danger with a priest if youre married hes too careful about himself then ",
+    "suffix": " I wonder was he satisfied with me one thing I didnt like his slapping me behind going away so familiarly in the hall though I laughed Im not a horse or an ass am I I suppose he wa",
+    "start": 8975,
+    "end": 9019,
+    "canonical_text": "give something to H H the pope for a penance"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2669651,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 406252,
+        "login": "gimblewart",
+        "name": "gimblewart",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

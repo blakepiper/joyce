@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8886392",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "A. B. S",
+  "html_source": "<p>Able bodied Seaman</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8886392/James-joyce-ulysses-chap-16-eumaeus/A-b-s",
+    "original_id": "8886392",
+    "referent_id": 8886392,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "A. B. S",
+    "prefix": "come up this morning eleven o'clock. The threemaster Rosevean from Bridgwater with bricks. I shipped to get over. Paid off this afternoon. There's my discharge. See? D. B. Murphy, ",
+    "suffix": ". \n\n In confirmation of which statement he extricated from an inside pocket and handed to his neighbour a not very cleanlooking folded document. \n\n1922#5801932#534\n\n — You must hav",
+    "start": 30157,
+    "end": 30164,
+    "canonical_text": "A. B. S"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8886392,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

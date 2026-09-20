@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8803336",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "MORALE",
+  "html_source": "<p>Word play on the term “A man of high morals”?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8803336/James-joyce-ulysses-chap-7-aeolus/Morale",
+    "original_id": "8803336",
+    "referent_id": 8803336,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "MORALE",
+    "prefix": "tte from the case. J. J. O'Molloy offered his case to Myles Crawford. Lenehan lit their cigarettes as before and took his trophy, saying: \n\n — Muchibus thankibus. \n\n A MAN OF HIGH ",
+    "suffix": " \n\n — Professor Magennis was speaking to me about you, J. J. O'Molloy said to Stephen. What do you think really of that hermetic crowd, the opal hush poets: A. E. the mastermystic?",
+    "start": 42983,
+    "end": 42989,
+    "canonical_text": "MORALE"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8803336,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8262657",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Yet here’s a spot.",
+  "html_source": "<p>Lady MacBeth says this in her madness, washing her hands in Macbeth, Vi. The spots she sees on her hands are blood, and thus they represent her guilt as a murderess and regicide.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8262657/James-joyce-ulysses-chap-1-telemachus/Yet-heres-a-spot",
+    "original_id": "8262657",
+    "referent_id": 8262657,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Yet here's a spot.",
+    "prefix": "ar of his tennis shirt spoke: \n\n — I intend to make a collection of your sayings if you will let me. \n\n Speaking to me. They wash and tub and scrub. Agenbite of inwit. Conscience. ",
+    "suffix": " \n\n — That one about the cracked lookingglass of a servant being the symbol of Irish art is deuced good. \n\n Buck Mulligan kicked Stephen's foot under the table and said with warmth",
+    "start": 27170,
+    "end": 27188,
+    "canonical_text": "Yet here's a spot."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8262657,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2370588,
+        "login": "Pequod42",
+        "name": "Pequod42",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

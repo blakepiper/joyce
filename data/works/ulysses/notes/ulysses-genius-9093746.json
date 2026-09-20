@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9093746",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "The lord lieutenant’s wife",
+  "html_source": "<p>A traditional eyewitness was a woman who lived nearby, but Kernan upgrades the woman to the wife of Philipe Yorke, lord lieutenant of Ireland.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9093746/James-joyce-ulysses-chap-10-wandering-rocks/The-lord-lieutenants-wife",
+    "original_id": "9093746",
+    "referent_id": 9093746,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "the lord lieutenant's wife",
+    "prefix": "s frocktails winked in bright sunshine to his fat strut. \n\n Down there Emmet was hanged, drawn and quartered. Greasy black rope. 1922#230Dogs licking the blood off the street when ",
+    "suffix": " drove by in her noddy. \n\n Bad times those were. Well, well. Over and done with. Great topers too. Fourbottle men. \n\n Let me see. Is he buried in saint Michan's? Or no, there was a",
+    "start": 44035,
+    "end": 44061,
+    "canonical_text": "the lord lieutenant's wife"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9093746,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083736,
+        "login": "JessicaVestuto",
+        "name": "JessicaVestuto",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

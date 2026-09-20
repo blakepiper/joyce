@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10147464",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Henry Clay",
+  "html_source": "<p><img src=\"https://images.genius.com/fffbe7388b52127f3938beeae2329ddd.640x480x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10147464/James-joyce-ulysses-chap-15-circe/Henry-clay",
+    "original_id": "10147464",
+    "referent_id": 10147464,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Henry Clay",
+    "prefix": "il not at your peril or may the Lord have mercy on your soul. Remove him. (A black skullcap descends upon his head.) \n\n(The subsheriff Long John Fanning appears, smoking a pungent ",
+    "suffix": ".) \n\n LONG JOHN FANNING \n\n(Scowls and calls with rich rolling utterance.) Who'll hang Judas Iscariot? \n\n(H. Rumbold, master barber, in a bloodcoloured jerkin and tanner's apron, a ",
+    "start": 59480,
+    "end": 59490,
+    "canonical_text": "Henry Clay"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 10147464,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

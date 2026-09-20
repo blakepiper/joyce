@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15140647",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Fane",
+  "html_source": "<p>Word meaning temple, church, or holy place from  Latin “fanum”. Interestingly related to “profane”, from pro- (“before”) + fanum (“temple”)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15140647/James-joyce-ulysses-chap-13-nausicaa/Fane",
+    "original_id": "15140647",
+    "referent_id": 15140647,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "fane",
+    "prefix": "n and benediction of the Most Blessed Sacrament. They were there gathered together without distinction of social class (and a most edifying spectacle it was to see) in that simple ",
+    "suffix": " beside the waves, after the storms of this weary world, kneeling before the feet of the immaculate, reciting the litany of Our Lady of Loreto, beseeching her to intercede for them",
+    "start": 19908,
+    "end": 19912,
+    "canonical_text": "fane"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15140647,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

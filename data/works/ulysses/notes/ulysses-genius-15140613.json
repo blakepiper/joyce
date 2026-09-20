@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15140613",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "T. C. D.",
+  "html_source": "<p>An abbreviation for <a href=\"https://en.wikipedia.org/wiki/Trinity_College_Dublin\" rel=\"noopener nofollow\">Trinity College Dublin</a>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15140613/James-joyce-ulysses-chap-13-nausicaa/T-c-d",
+    "original_id": "15140613",
+    "referent_id": 15140613,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "T. C. D.",
+    "prefix": "d and wistful. Gerty MacDowell yearns in vain. Yes, she had known from the first that her daydream of a marriage has been arranged and the weddingbells ringing for Mrs Reggy Wylie ",
+    "suffix": " (because the one who married the elder brother would be Mrs Wylie) and in the fashionable intelligence 1939#254Mrs Gertrude Wylie was wearing a sumptuous confection of grey trimme",
+    "start": 13536,
+    "end": 13544,
+    "canonical_text": "T. C. D."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15140613,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

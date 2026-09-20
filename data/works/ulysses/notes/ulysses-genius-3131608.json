@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3131608",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Pigeonhouse",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/965a95bf74435449243917429451f3c1.640x480x1.jpg\" alt=\"\" /></p><p><a href=\"http://www.thepigeonhouse.info/history.html\" rel=\"noopener nofollow\">Originally Pidgeon, didn’t know that !</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3131608/James-joyce-ulysses-chap-3-proteus/Pigeonhouse",
+    "original_id": "3131608",
+    "referent_id": 3131608,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Pigeonhouse",
+    "prefix": "iners. Human shells. \n\n He halted. I have passed the way to aunt Sara's. Am I not going there? Seems not. No-one about. He turned northeast and crossed the firmer sand towards the ",
+    "suffix": ". \n\n— Qui vous a mis dans cette fichue position? \n\n— C'est le pigeon, Joseph. \n\n Patrice, home on furlough, lapped warm milk with me in the bar MacMahon. Son of the wild goose, Kev",
+    "start": 9927,
+    "end": 9938,
+    "canonical_text": "Pigeonhouse"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3131608,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-1868122",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "A server of a servant",
+  "html_source": "<p>Mulligan is an Irishman, and in Stephen’s opinion a servant to the English and/or Catholic Ireland is England’s servant and Mulligan is ultimately the servant of Ireland and conventionality.</p><p>A reference to Genesis 9:20-27, specifically Gen 9:25 – And he (Noah) said, Cursed be Canaan; a servant of servants shall he be unto his brethren.</p><p>James Joyce references this biblical episode in his 1926 letter to his patron Harriet Shaw Weaver regarding Finnegans Wake.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1868122/James-joyce-ulysses-chap-1-telemachus/A-server-of-a-servant",
+    "original_id": "1868122",
+    "referent_id": 1868122,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "A server of a servant",
+    "prefix": "lness, smelling the clammy slaver of the lather in which the brush was stuck. So I carried the boat of incense then at Clongowes. I am another now and yet the same. A servant too. ",
+    "suffix": ". \n\n In the gloomy domed livingroom of the tower Buck Mulligan's gowned form moved briskly about the hearth to and fro, hiding and revealing its yellow glow. Two shafts of soft day",
+    "start": 17851,
+    "end": 17872,
+    "canonical_text": "A server of a servant"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1868122,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1061426,
+        "login": "tooManyWords",
+        "name": "tooManyWords",
+        "role": "contributor",
+        "attribution": 0.736842105263158
+      },
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 0.1842105263157895
+      },
+      {
+        "id": 176532,
+        "login": "biblicalmike",
+        "name": "Michael Bible",
+        "role": "verified_artist",
+        "attribution": 0.07894736842105263
+      }
+    ]
+  },
+  "color": "F59627"
+}

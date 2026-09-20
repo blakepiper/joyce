@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10858731",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Brothers and sisters had he none,\n Yet that man’s father was his grandfather’s son",
+  "html_source": "<p>Bloom is looking at his reflection in the mirror. This is a rewording of a classic riddle:<br /><a href=\"http://puzzles.nigelcoldwell.co.uk/fifty.htm\" rel=\"noopener nofollow\">http://puzzles.nigelcoldwell.co.uk/fifty.htm</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10858731/James-joyce-ulysses-chap-17-ithaca/Brothers-and-sisters-had-he-none-yet-that-mans-father-was-his-grandfathers-son",
+    "original_id": "10858731",
+    "referent_id": 10858731,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Brothers and sisters had he none,\n Yet that man's father was his grandfather's son",
+    "prefix": "te asymmetrical image in the mirror then attracted his attention? \n\n1961#707\n\n The image of a solitary (ipsorelative) mutable (aliorelative) man. \n\n Why solitary (ipsorelative)? \n\n",
+    "suffix": ". \n\n Why mutable (aliorelative)? \n\n From infancy to maturity he had resembled his maternal procreatrix. From maturity to senility he would increasingly resemble his paternal procre",
+    "start": 85783,
+    "end": 85865,
+    "canonical_text": "Brothers and sisters had he none. \nYet that man's father was his grandfather's son"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 10858731,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

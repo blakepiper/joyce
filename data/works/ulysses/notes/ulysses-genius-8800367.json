@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8800367",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Mazurka",
+  "html_source": "<p>Mazurka, Polish mazurek,<br />Polish folk dance for a circle of couples, characterized by stamping feet and clicking heels and traditionally danced to the music of a village band.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8800367/James-joyce-ulysses-chap-7-aeolus/Mazurka",
+    "original_id": "8800367",
+    "referent_id": 8800367,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "mazurka",
+    "prefix": "tersnipe behind him hue and cry, Lenehan said, and you'll kick. O, my rib risible! Taking off his flat spaugs and the walk. Small nines. Steal upon larks. \n\n1961#129\n\n He began to ",
+    "suffix": " in swift caricature across the floor on sliding feet past the fireplace to J. J. O'Molloy who placed the tissues in his receiving hands. \n\n — What's that? Myles Crawford said with",
+    "start": 24652,
+    "end": 24659,
+    "canonical_text": "mazurka"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8800367,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

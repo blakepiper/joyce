@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8794408",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Funeral tram",
+  "html_source": "<p>Specially appointed hearse trams, or funeral trolley cars, were used for funeral processions in many cities in the late 19th and early 20th century, particularly cities with large tram systems.</p><p>In Milan, Italy, hearse trams were used from the 1880s (initially horse-drawn) to the 1920s. The main cemeteries, Cimitero Monumentale and Cimitero Maggiore, included funeral tram stations. Additional funeral stations were located at Piazza Firenze and at Porta Romana.</p><p><img src=\"https://images.rapgenius.com/8ecc57a9458d0875448a06248a1ed68d.1000x809x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8794408/James-joyce-ulysses-chap-6-hades/Funeral-tram",
+    "original_id": "8794408",
+    "referent_id": 8794408,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "funeral tram",
+    "prefix": "nstead of blocking up the thoroughfare, Martin Cunningham said. Quite right. They ought to. \n\n — Yes, Mr Bloom said, and another thing I often thought, is to have 1922#94municipal ",
+    "suffix": "s like they have in Milan, you know. Run the line out to the cemetery gates and have special trams, hearse and carriage and all. Don't you see what I mean? \n\n — O, that be damned f",
+    "start": 23693,
+    "end": 23705,
+    "canonical_text": "funeral tram"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8794408,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

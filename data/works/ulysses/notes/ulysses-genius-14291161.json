@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-14291161",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Mofley",
+  "html_source": "<p>misprint: this should read “money” not mofley</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/14291161/James-joyce-ulysses-chap-18-penelope/Mofley",
+    "original_id": "14291161",
+    "referent_id": 14291161,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "mofley",
+    "prefix": "e way to prevent me shutting it like that picture of that hardened criminal he was called in Lloyds Weekly News 20 years in jail then he comes out and murders an old woman for her ",
+    "suffix": " imagine his poor wife or mother or whoever she is such a face youd run miles away from I couldnt rest easy till I bolted all the doors and windows to make sure but its worse again",
+    "start": null,
+    "end": null
+  },
+  "provenance": {
+    "match_method": "unmatched",
+    "confidence": 0.7273
+  },
+  "genius": {
+    "referent_id": 14291161,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627",
+  "quarantine": true
+}

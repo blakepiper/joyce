@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21102464",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "A star by night, Stephen said. A pillar of the cloud by day",
+  "html_source": "<p>While wandering in the wilderness, the Israelites were led by pillars of fire and cloud.</p><p>“And the LORD went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night.”<br />Exodus 13:21</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21102464/James-joyce-ulysses-chap-9-scylla-and-charybdis/A-star-by-night-stephen-said-a-pillar-of-the-cloud-by-day",
+    "original_id": "21102464",
+    "referent_id": 21102464,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "A star by night, Stephen said. A pillar of the cloud by day",
+    "prefix": "cut the bread even. S. D: sua donna. Già: di lui. gelindo risolve di non amare S. D. \n\n — What is that, Mr Dedalus? the quaker librarian asked. Was it a celestial phenomenon? \n\n — ",
+    "suffix": ". \n\n What more's to speak? \n\n Stephen looked on his hat, his stick, his boots. \n\nStephanos, my crown. My sword. His boots are spoiling the shape of my feet. Buy a pair. Holes in my",
+    "start": 54482,
+    "end": 54541,
+    "canonical_text": "A star by night, Stephen said. A pillar of the cloud by day"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21102464,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

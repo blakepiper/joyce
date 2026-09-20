@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5127634",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "A horde of heresies fleeing with mitres awry",
+  "html_source": "<p>A crowd of bishops; specifically heretical ones.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5127634/James-joyce-ulysses-chap-1-telemachus/A-horde-of-heresies-fleeing-with-mitres-awry",
+    "original_id": "5127634",
+    "referent_id": 5127634,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "A horde of heresies fleeing with mitres awry",
+    "prefix": "s for pope Marcellus, the voices blended, singing alone loud in affirmation: and behind their chant the vigilant angel of the church militant disarmed and menaced her heresiarchs. ",
+    "suffix": ": Photius and the brood of mockers 1922#20of whom Mulligan was one, and Arius, warring his life long upon the consubstantiality of the Son with the Father, and Valentine, spurning ",
+    "start": 37122,
+    "end": 37166,
+    "canonical_text": "A horde of heresies fleeing with mitres awry"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5127634,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1623796,
+        "login": "StefanMichaelGramenz",
+        "name": "StefanMichaelGramenz",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

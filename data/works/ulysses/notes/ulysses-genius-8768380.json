@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8768380",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "By",
+  "html_source": "<p>“Lotus Eaters” was finished by June 5th 1917 (Ellmann, R. <em>James Joyce</em>, p. 416).</p><p>On Joyce’s method, Ellmann writes: ‘His method was to write a series of phrases down, then, as the episode took form, to cross off each one in a different coloured pencil to indicate where it might go’.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8768380/James-joyce-ulysses-chap-5-lotus-eaters/By",
+    "original_id": "8768380",
+    "referent_id": 8768380,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "By",
+    "prefix": "\n\n[5]\n\n\n\n",
+    "suffix": " lorries along sir John Rogerson's quay Mr Bloom walked soberly, past Windmill lane, Leask's the linseed crusher, the postal telegraph office. Could have given that address too. An",
+    "start": 9,
+    "end": 11,
+    "canonical_text": "By"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 8768380,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.9607843137254902
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.0392156862745098
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10896588",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Lough Neagh",
+  "html_source": "<p>There are various legends about the creation of the largest lake in the British Isles including those of people living underwater</p><p><a href=\"https://geomythology.wordpress.com/2012/07/12/lough-neagh/\" rel=\"noopener nofollow\">https://geomythology.wordpress.com/2012/07/12/lough-neagh/</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10896588/James-joyce-ulysses-chap-17-ithaca/Lough-neagh",
+    "original_id": "10896588",
+    "referent_id": 10896588,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "lough Neagh",
+    "prefix": "l maps of polychrome design or in special ordnance survey charts by employment of scale numerals and hachures. \n\n In Ireland? \n\n The cliffs of Moher, the windy wilds of Connemara, ",
+    "suffix": " with submerged petrified city, the Giant's Causeway, Fort Camden and Fort Carlisle, the Golden Vale of Tipperary, the islands of Aran, the pastures of royal Meath, Brigid's elm in",
+    "start": 125376,
+    "end": 125387,
+    "canonical_text": "lough Neagh"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10896588,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

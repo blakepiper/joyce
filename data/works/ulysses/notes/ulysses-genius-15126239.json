@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15126239",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Moya",
+  "html_source": "<p>An Irish word meaning “bitter” which has (perhaps oddly) become <a href=\"https://en.wikipedia.org/wiki/Moya\" rel=\"noopener nofollow\">a common name</a>!</p><p>Alternatively, it may come from the Irish “mar dhea” or “as it were”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15126239/James-joyce-ulysses-chap-12-cyclops/Moya",
+    "original_id": "15126239",
+    "referent_id": 15126239,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Moya",
+    "prefix": "o, the oldest flag afloat, the flag of the province of Desmond and Thomond, three crowns on a blue field, the three sons of Milesius. \n\n And he took the last swig out of the pint, ",
+    "suffix": ". All wind and piss like a tanyard cat. Cows in Connacht have long horns. As much as his bloody life is worth to go down and address his tall talk to the assembled multitude in Sha",
+    "start": 83985,
+    "end": 83989,
+    "canonical_text": "Moya"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15126239,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8800721",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "OMNIUM GATHERUM",
+  "html_source": "<p>Latin phrase that is literally translated as “a grouping of all things”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8800721/James-joyce-ulysses-chap-7-aeolus/Omnium-gatherum",
+    "original_id": "8800721",
+    "referent_id": 8800721,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "OMNIUM GATHERUM",
+    "prefix": "ot the lord lieutenant of Finland between you? You look as though you had done the deed. General Bobrikoff. \n\n — We were only thinking about it, Stephen said. \n\n1922#1291961#134\n\n ",
+    "suffix": " \n\n — All the talents, Myles Crawford said. Law, the classics... \n\n — The turf, Lenehan put in. \n\n — Literature, the press. \n\n — If Bloom were here, the professor said. The gentle ",
+    "start": 33023,
+    "end": 33038,
+    "canonical_text": "OMNIUM GATHERUM"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8800721,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

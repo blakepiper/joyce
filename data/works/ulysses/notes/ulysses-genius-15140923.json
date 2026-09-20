@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15140923",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Sodality",
+  "html_source": "<p>A <a href=\"https://en.wikipedia.org/wiki/Sodality\" rel=\"noopener nofollow\">sodality</a> is a religious confraternity or association; typically a Roman Catholic brotherhood or guild.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15140923/James-joyce-ulysses-chap-13-nausicaa/Sodality",
+    "original_id": "15140923",
+    "referent_id": 15140923,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "sodality",
+    "prefix": "erced her own heart. Gerty could picture the whole scene in the church, the stained glass windows lighted up, the candles, the flowers and the blue banners of the blessed Virgin's ",
+    "suffix": " and Father 1922#342Conroy was helping Canon O'Hanlon at the altar, carrying things in and out with his eyes cast down. He looked almost a saint and his confessionbox was so quiet ",
+    "start": 31422,
+    "end": 31430,
+    "canonical_text": "sodality"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15140923,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

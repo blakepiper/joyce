@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21164324",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Nine men’s morrice",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Nine_men%27s_morris\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Nine_men%27s_morris</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21164324/James-joyce-ulysses-chap-9-scylla-and-charybdis/Nine-mens-morrice",
+    "original_id": "21164324",
+    "referent_id": 21164324,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "nine men's morrice",
+    "prefix": "thinks of Homer. \n\n He stopped at the stairfoot. \n\n — I have conceived a play for the mummers, he said solemnly. \n\n1939#158\n\n The pillared Moorish hall, shadows entwined. Gone the ",
+    "suffix": " with caps of indices. \n\n In sweetly varying voices Buck Mulligan read his tablet: \n\nEveryman His own Wife\nor\nA Honeymoon in the Hand\n(a national immorality in three orgasms) \nby\nB",
+    "start": 67249,
+    "end": 67267,
+    "canonical_text": "nine men's morrice"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21164324,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

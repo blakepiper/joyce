@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2468632",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Rathgar",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/42ndnsqeg3ng0a9krgcnhjjdg.789x515x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2468632/James-joyce-ulysses-chap-7-aeolus/Rathgar",
+    "original_id": "2468632",
+    "referent_id": 2468632,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Rathgar",
+    "prefix": "\n\n[7]\n\n\n IN THE HEART OF THE HIBERNIAN METROPOLIS \n\nBefore Nelson's pillar trams slowed, shunted, changed trolley, started for Blackrock, Kingstown and Dalkey, Clonskea, ",
+    "suffix": " and Terenure, Palmerston Park and upper Rathmines, Sandymount Green, Rathmines, Ringsend and Sandymount Tower, Harold's Cross. The hoarse Dublin United Tramway Company's timekeepe",
+    "start": 170,
+    "end": 177,
+    "canonical_text": "Rathgar"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 2468632,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

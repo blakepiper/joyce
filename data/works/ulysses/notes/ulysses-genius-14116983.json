@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-14116983",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Nobble",
+  "html_source": "<p>nobble – English slang:<br />“catch, seize.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/14116983/James-joyce-ulysses-chap-15-circe/Nobble",
+    "original_id": "14116983",
+    "referent_id": 14116983,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "nobble",
+    "prefix": "s. Be a prism. You have that something within, the higher self. You can rub shoulders with a Jesus, a Gautama, an Ingersoll. Are you all in this vibration? I say you are. You once ",
+    "suffix": " that, congregation, and a buck joyride to heaven becomes a back number. You got me? It's a lifebrightener, sure. The hottest stuff ever was. It's the whole pie with jam in. It's j",
+    "start": 109774,
+    "end": 109780,
+    "canonical_text": "nobble"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 14116983,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

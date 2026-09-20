@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8849306",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Boccaccio’s Calandrino",
+  "html_source": "<p>Calandrino is a character from Giovanni Boccaccio’s the Decameron, in which he appears in four stories</p><p>Calandrino is convinced that he is pregnant in story IX, 3. To give him a painless miscarriage he takes a potion that is specially prepared by his friends, Bruno and Buffalmacco.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8849306/James-joyce-ulysses-chap-9-scylla-and-charybdis/Boccaccios-calandrino",
+    "original_id": "8849306",
+    "referent_id": 8849306,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Boccaccio's Calandrino",
+    "prefix": "corpse of John Shakespeare does not walk the night. From hour to hour it rots and rots. He rests, 1922#198disarmed of fatherhood, having devised that mystical estate upon his son. ",
+    "suffix": " was the first and last man who felt himself with child. Fatherhood, in the sense of conscious begetting, is unknown to man. It is a mystical estate, an apostolic succession, from ",
+    "start": 48445,
+    "end": 48467,
+    "canonical_text": "Boccaccio's Calandrino"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8849306,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

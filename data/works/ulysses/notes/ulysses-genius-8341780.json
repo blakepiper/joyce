@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8341780",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "He gazed over Stephen’s shoulder at Goldsmith’s knobby poll.",
+  "html_source": "<p>The bronze statue of the poet Oliver Goldsmith (1728-1774), outside Trinity College where he graduated. “poll” refers firstly to his head, “knobby” because of his baldness. But it also refers to the famous couplet, penned by David Garrick, based on Goldsmith’s poor speaking manner:</p><p>Here lies Nolly Goldsmith, for shortness called Noll,<br />Who wrote like an angel, but talked like poor Poll. [Poll here meaning a parrot.]</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8341780/James-joyce-ulysses-chap-10-wandering-rocks/He-gazed-over-stephens-shoulder-at-goldsmiths-knobby-poll",
+    "original_id": "8341780",
+    "referent_id": 8341780,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "He gazed over Stephen's shoulder at Goldsmith's knobby poll.",
+    "prefix": "r, the stalk of the red flower between his smiling teeth. \n\n — May I say a word to your telephone, missy? he asked roguishly. \n\n*\n*  *\n\n1986#187\n\n — Ma! Almidano Artifoni said. \n\n ",
+    "suffix": " \n\n Two carfuls of tourists passed slowly, their women sitting fore, gripping the handrests. Palefaces. Men's arms frankly round their stunted forms. They looked from Trinity to th",
+    "start": 19237,
+    "end": 19297,
+    "canonical_text": "He gazed over Stephen's shoulder at Goldsmith's knobby poll."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8341780,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2568065,
+        "login": "GeoffBobker",
+        "name": "GeoffBobker",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

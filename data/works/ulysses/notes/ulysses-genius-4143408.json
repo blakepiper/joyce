@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4143408",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Shotover",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/5fbfc7633d097a3fc385b532ea57bf65.240x159x1.jpg\" alt=\"\" /></p><p>Shotover, 1879-1898, was a racehorse, winning the 2000 Guineas, Newmarket &amp; the Epsom Derby in 1882. The Duke bought the horse for 1600 guineas.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4143408/James-joyce-ulysses-chap-2-nestor/Shotover",
+    "original_id": "4143408",
+    "referent_id": 4143408,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "Shotover",
+    "prefix": " the princely presence. Framed around the walls images of vanished horses stood in homage, their 1986#26meek heads poised in air: lord Hastings' Repulse, the duke of Westminster's ",
+    "suffix": ", the duke of Beaufort's Ceylon, prix de Paris, 1866. Elfin riders sat them, watchful of a sign. He saw their speeds, backing king's colours, and shouted with the shouts of vanishe",
+    "start": 17071,
+    "end": 17079,
+    "canonical_text": "Shotover"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4143408,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1209714,
+        "login": "AlexBeston",
+        "name": "AlexBeston",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

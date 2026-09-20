@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20223500",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "He",
+  "html_source": "<p>Misprint. Should be “She”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20223500/James-joyce-ulysses-chap-6-hades/He",
+    "original_id": "20223500",
+    "referent_id": 20223500,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "He",
+    "prefix": "ry Menton asked. I know his face. \n\n Ned Lambert glanced back. \n\n — Bloom, he said, Madam Marion Tweedy that was, is, I mean, the soprano. She's his wife. \n\n — O, to be sure, John ",
+    "suffix": "nry Menton said. I haven't seen her for some time. She was a finelooking woman. I danced with her, wait, fifteen seventeen golden years ago, at Mat Dillon's in Roundtown. And a goo",
+    "start": 41389,
+    "end": 41391,
+    "canonical_text": "He"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.6216
+  },
+  "genius": {
+    "referent_id": 20223500,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11041825,
+        "login": "raggedclaws",
+        "name": "raggedclaws",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

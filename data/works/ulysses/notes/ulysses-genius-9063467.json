@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9063467",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Little man in a cloak",
+  "html_source": "<p><img src=\"https://images.genius.com/2a0893405e35c882d35c076faf9db3b0.400x599x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9063467/James-joyce-ulysses-chap-13-nausicaa/Little-man-in-a-cloak",
+    "original_id": "9063467",
+    "referent_id": 9063467,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "little man in a cloak",
+    "prefix": " 1961#377hopping mice. What frightens them, light or noise? Better sit still. All instinct like the bird in drouth got water out of the end of a jar by throwing in pebbles. Like a ",
+    "suffix": " he is with tiny hands. Weeny bones. Almost see them shimmering, kind of a bluey white. Colours depend on 1939#272the light you see. Stare the sun for example like the eagle then l",
+    "start": 79928,
+    "end": 79949,
+    "canonical_text": "little man in a cloak"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9063467,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

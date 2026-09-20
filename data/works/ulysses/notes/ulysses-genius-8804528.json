@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8804528",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Deus nobis haec otia fecit",
+  "html_source": "<p>Publius Vergilius Maro (October 15, 70 BC – September 21, 19 BC), known in English as Virgil<br />Eclogues (37 BC)</p><p>Deus nobis haec otia fecit.<br />God has given us this ease.<br />Book I, line 6.</p><p>Variant translations:<br />God gave us this leisure.<br />God hath given us this tranquillity.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8804528/James-joyce-ulysses-chap-7-aeolus/Deus-nobis-haec-otia-fecit",
+    "original_id": "8804528",
+    "referent_id": 8804528,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "deus nobis haec otia fecit",
+    "prefix": "2#132\n\n VIRGILIAN, SAYS PEDAGOGUE. SOPHOMORE \nPLUMPS FOR OLD MAN MOSES \n\n — Call it, wait, the professor said, opening his long lips wide to reflect. Call it, let me see. Call it: ",
+    "suffix": ". \n\n — No, Stephen said. I call it A Pisgah Sight of Palestine or the Parable of The Plums. \n\n — I see, the professor said. \n\n1986#122\n\n He laughed richly. \n\n — I see, he said agai",
+    "start": 58985,
+    "end": 59011,
+    "canonical_text": "deus nobis haec otia fecit"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8804528,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

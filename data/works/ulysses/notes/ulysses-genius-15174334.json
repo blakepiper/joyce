@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15174334",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Lord Napier",
+  "html_source": "<p>There are many Lord Napiers in history, but this almost certainly refers to the Governor of Gibraltar from 1876-1883</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15174334/James-joyce-ulysses-chap-18-penelope/Lord-napier",
+    "original_id": "15174334",
+    "referent_id": 15174334,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "Lord Napier",
+    "prefix": "lp us thats all right for tonight now the lumpy old jingly bed always reminds me of old Cohen I suppose he scratched himself in it often enough and he thinks father bought it from ",
+    "suffix": " that I used to admire when I was a little girl because I told him easy piano O I like my bed God here we are as bad as ever after 16 years how many houses were we in at all Raymon",
+    "start": 90279,
+    "end": 90290,
+    "canonical_text": "Lord Napier"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15174334,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

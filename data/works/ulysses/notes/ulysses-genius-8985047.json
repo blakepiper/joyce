@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8985047",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Come back to Erin",
+  "html_source": "<p><a href=\"https://www.youtube.com/watch?v=R0fYLUYIhLk\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=R0fYLUYIhLk</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8985047/James-joyce-ulysses-chap-12-cyclops/Come-back-to-erin",
+    "original_id": "8985047",
+    "referent_id": 8985047,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Come back to Erin",
+    "prefix": "parting guest was the recipient of a hearty ovation, many of those who were present being visibly moved when the select orchestra of Irish pipes struck up the wellknown strains of ",
+    "suffix": ", followed immediately by Rakoczsy's March. Tarbarrels and bonfires were lighted along the coastline of the four seas on the summits of the Hill of Howth, Three Rock Mountain, Suga",
+    "start": 117043,
+    "end": 117060,
+    "canonical_text": "Come back to Erin"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8985047,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

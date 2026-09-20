@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9093263",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Uncle John",
+  "html_source": "<p>May Goulding Dedalus and Richie Goulding’s brother, John Goulding</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9093263/James-joyce-ulysses-chap-10-wandering-rocks/Uncle-john",
+    "original_id": "9093263",
+    "referent_id": 9093263,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "uncle John",
+    "prefix": "lliams's row. He halted near his daughter. \n\n — It's time for you, she said. \n\n — Stand up straight for the love of the lord Jesus, Mr Dedalus said. Are you trying to imitate your ",
+    "suffix": ", the cornetplayer, head upon shoulder? Melancholy God! \n\n Dilly shrugged her shoulders. Mr Dedalus placed his hands on them and held them back. \n\n — Stand up straight, girl, he sa",
+    "start": 37677,
+    "end": 37687,
+    "canonical_text": "uncle John"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9093263,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3083736,
+        "login": "JessicaVestuto",
+        "name": "JessicaVestuto",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

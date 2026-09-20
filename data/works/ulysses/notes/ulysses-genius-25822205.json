@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-25822205",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Dos huevos estrellados senor Lord",
+  "html_source": "<p>Spanish for “two fried/cracked eggs sir/mister.” She follows the same line preceding with criada and before that of speaking on Italian and Spanish.</p><p>“Huevos” can be slang for testicles, furthering the sexual imagery.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/25822205/James-joyce-ulysses-chap-18-penelope/Dos-huevos-estrellados-senor-lord",
+    "original_id": "25822205",
+    "referent_id": 25822205,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "dos huevos estrellados senor Lord",
+    "prefix": "l the time Id have to introduce myself not knowing me from Adam very funny wouldnt it Im his wife or pretend we were in Spain with him half awake without a Gods notion where he is ",
+    "suffix": " the cracked things come into my head sometimes itd be great fun supposing he stayed with us why not theres the room upstairs empty and Millys bed in the back room he could do his ",
+    "start": 110509,
+    "end": 110542,
+    "canonical_text": "dos huevos estrellados señor Lord"
+  },
+  "provenance": {
+    "match_method": "fuzzy",
+    "confidence": 0.9697
+  },
+  "genius": {
+    "referent_id": 25822205,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 16822162,
+        "login": "DominicDElia",
+        "name": "DominicDElia",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

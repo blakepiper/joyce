@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15150326",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Horns of Hatten",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Horns_of_Hattin\" rel=\"noopener nofollow\">The Horns of Hattin</a>: An extinct volcano with two peaks in the Lower Galilee, Israel. Some identify it as the location of Jesus' sermon on the mount. It was also the site of Saladin’s victory over the crusaders in 1187.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15150326/James-joyce-ulysses-chap-14-oxen-of-the-sun/Horns-of-hatten",
+    "original_id": "15150326",
+    "referent_id": 15150326,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Horns of Hatten",
+    "prefix": "e Indian of dark speech with whom thy daughters did lie luxuriously? Look forth now, my people, upon the land of behest, even from Horeb and from Nebo and from Pisgah and from the ",
+    "suffix": " unto a land flowing with milk and money. But thou hast suckled me with a bitter milk: my moon and my sun thou hast quenched for ever. And thou hast left me alone for ever in the d",
+    "start": 26819,
+    "end": 26834,
+    "canonical_text": "Horns of Hatten"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15150326,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

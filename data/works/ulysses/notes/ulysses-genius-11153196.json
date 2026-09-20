@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11153196",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "De la Flora",
+  "html_source": "<p>Of course, Molly does marry a man named Bloom.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11153196/James-joyce-ulysses-chap-18-penelope/De-la-flora",
+    "original_id": "11153196",
+    "referent_id": 11153196,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "de la Flora",
+    "prefix": "outh his mouth was sweetlike young I put my knee up to him a few times to learn the way what did I tell him I was engaged for fun to the son of a Spanish nobleman named Don Miguel ",
+    "suffix": " and he believed me that I was to be married to him in 3 years time theres many a true word spoken in jest there is a flower that bloometh a few things I told him true about 1932#6",
+    "start": 57523,
+    "end": 57534,
+    "canonical_text": "de la Flora"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 11153196,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

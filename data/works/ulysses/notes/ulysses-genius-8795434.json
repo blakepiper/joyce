@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795434",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Habeas corpus",
+  "html_source": "<p>Habeas corpus: Latin for “you [shall] have the body”) is a legal action or writ by means of which detainees can seek relief from unlawful imprisonment.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795434/James-joyce-ulysses-chap-6-hades/Habeas-corpus",
+    "original_id": "8795434",
+    "referent_id": 8795434,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Habeas corpus",
+    "prefix": "r's prosperous bulk. All want to be on good terms with him. Decent fellow, John O'Connell, real good sort. Keys: like Keyes's ad: no fear of anyone getting out. No passout checks. ",
+    "suffix": ". I must see about that ad after the funeral. Did I write Ballsbridge on the envelope I took to cover when she disturbed me writing to Martha?1986#88 Hope it's not chucked 1922#103",
+    "start": 44178,
+    "end": 44191,
+    "canonical_text": "Habeas corpus"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8795434,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

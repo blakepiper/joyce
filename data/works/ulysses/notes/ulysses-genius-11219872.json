@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11219872",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Angelus",
+  "html_source": "<p>The Angelus is recited in monasteries at 6 am, noon and 6 pm while a bell is rung.</p><p><a href=\"http://www.preces-latinae.org/thesaurus/Cotidiana/Angelus.html\" rel=\"noopener nofollow\">http://www.preces-latinae.org/thesaurus/Cotidiana/Angelus.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11219872/James-joyce-ulysses-chap-18-penelope/Angelus",
+    "original_id": "11219872",
+    "referent_id": 11219872,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "angelus",
+    "prefix": "he only way a quarter after what an unearthly hour I suppose theyre just getting up in China now combing out their 1939#550pigtails for the day well soon have the nuns ringing the ",
+    "suffix": " theyve nobody coming in to spoil their sleep except an odd priest or two for his night office or the alarmclock next door at cockshout clattering the brains out of itself let me s",
+    "start": 114714,
+    "end": 114721,
+    "canonical_text": "angelus"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11219872,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

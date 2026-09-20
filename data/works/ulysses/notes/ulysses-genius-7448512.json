@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-7448512",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Remember. Haroun al Raschid.",
+  "html_source": "<p>Stephen is trying to remember his dream involving 8th Century caliph Harun al-Rashid, who appears prominently in <em>One Thousand and One Nights</em>, and is also the subject of Yeats' 1923 (one year after <em>Ulysses</em>) poem, “The Gift of Harun al-Rashid.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7448512/James-joyce-ulysses-chap-3-proteus/Remember-haroun-al-raschid",
+    "original_id": "7448512",
+    "referent_id": 7448512,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Remember. Haroun al Raschid.",
+    "prefix": "his claws, soon ceasing, a pard, a panther, got in spousebreach, vulturing the dead. \n\n After he woke me up last night same dream or was it? Wait. Open hallway. Street of harlots. ",
+    "suffix": " I am almosting it. That man led me, spoke. I was not afraid. The melon he had he held against my face. Smiled: creamfruit smell. That was the rule, said. In. Come. Red carpet spre",
+    "start": 23667,
+    "end": 23695,
+    "canonical_text": "Remember. Haroun al Raschid."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 7448512,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1060900,
+        "login": "dvrath",
+        "name": "dvrath",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

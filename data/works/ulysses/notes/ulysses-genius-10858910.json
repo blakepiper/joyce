@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10858910",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Secret History of the Court of Charles II",
+  "html_source": "<p><a href=\"https://archive.org/details/secrethistoryco00mccogoog\" rel=\"noopener nofollow\">https://archive.org/details/secrethistoryco00mccogoog</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10858910/James-joyce-ulysses-chap-17-ithaca/Secret-history-of-the-court-of-charles-ii",
+    "original_id": "10858910",
+    "referent_id": 10858910,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Secret History of the Court of Charles II",
+    "prefix": "Denis Florence M'Carthy's Poetical Works (copper beechleaf bookmark at p. 5).\nShakespeare's Works (dark crimson morocco, goldtooled). \nThe Useful Ready Reckoner (brown cloth).\nThe ",
+    "suffix": " (red cloth, tooled binding). \nThe Child's Guide (blue cloth). \nWhen We Were Boys by William O'Brien M. P. (green cloth, slightly faded, envelope bookmark at p. 217). \nThoughts fro",
+    "start": 86578,
+    "end": 86619,
+    "canonical_text": "Secret History of the Court of Charles II"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10858910,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

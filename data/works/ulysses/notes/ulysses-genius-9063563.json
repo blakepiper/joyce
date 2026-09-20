@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9063563",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Tephilim",
+  "html_source": "<p>Tefillin are a set of small black leather boxes containing scrolls of parchment inscribed with verses from the Torah. They are worn by male observant Jews during weekday morning prayers.  Wikipedia</p><p>Bloom is thinking of the mezuzah and realizes his mistake.</p><p>A mezuzah is a piece of parchment (often contained in a decorative case) inscribed with specified Hebrew verses from the Torah (Deuteronomy 6:4-9 and 11:13-21). In mainstream, i.e. Rabbinic Judaism, a mezuzah is affixed to the doorframe of Jewish homes to fulfill the mitzvah (Biblical commandment) to inscribe the words of the Shema “on the doorposts of your house” (Deuteronomy 6:9). Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9063563/James-joyce-ulysses-chap-13-nausicaa/Tephilim",
+    "original_id": "9063563",
+    "referent_id": 9063563,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "tephilim",
+    "prefix": " ever he does. Smelling the tail end of ports. How can they like the sea? Yet they do. The anchor's weighed. Off he sails with a scapular or a medal on him for luck. Well. And the ",
+    "suffix": " no what's this they call it poor papa's father had on his door to touch. That brought us out of the land of Egypt and into the house of bondage. Something in all those superstitio",
+    "start": 81865,
+    "end": 81873,
+    "canonical_text": "tephilim"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9063563,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

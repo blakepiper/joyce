@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9165832",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Twilight sleep",
+  "html_source": "<p>A term applied to the combination of analgesia (pain relief) and amnesia (loss of memory) produced by a mixture of morphine and scopolamine (“scope”) given by a hypodermic injection (an injection under the skin). The mixture of the two drugs created a state in which the woman, while responding somewhat to pain, did not remember it after delivering her baby. Twilight sleep was once in vogue in obstetrics.<br />MedicineNet.com</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9165832/James-joyce-ulysses-chap-14-oxen-of-the-sun/Twilight-sleep",
+    "original_id": "9165832",
+    "referent_id": 9165832,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "twilight sleep",
+    "prefix": "n consequence of 1922#390defective reunion of the maxillary knobs along the medial line so that (as he said) one ear could hear what the other spoke, the benefits of anesthesia or ",
+    "suffix": ", the prolongation of labour pains in advanced gravidancy by reason of pressure on the vein, the premature relentment of the amniotic fluid (as exemplified in the actual case) with",
+    "start": 69969,
+    "end": 69983,
+    "canonical_text": "twilight sleep"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9165832,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

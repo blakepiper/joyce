@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-17435024",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Rosenallis, barony of Tinnahinch",
+  "html_source": "<p>Rosenallis is a village situated in Slieve Bloom mountains.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/17435024/James-joyce-ulysses-chap-7-aeolus/Rosenallis-barony-of-tinnahinch",
+    "original_id": "17435024",
+    "referent_id": 17435024,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Rosenallis, barony of Tinnahinch",
+    "prefix": "ures sell a weekly, not the stale news in the official gazette. Queen Anne is dead. Published by authority in the year one thousand and.1961#118 Demesne situate in the townland of ",
+    "suffix": ". To all 1922#114whom it may concern schedule pursuant to statute showing return of number of mules and jennets exported from Ballina. Nature notes. Cartoons. Phil Blake's weekly P",
+    "start": 4922,
+    "end": 4954,
+    "canonical_text": "Rosenallis, barony of Tinnahinch"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 17435024,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 8604914,
+        "login": "seanrorydempsey",
+        "name": "seanrorydempsey",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

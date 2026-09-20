@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10617971",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Buckshot Foster",
+  "html_source": "<p>Chief secretary for Ireland 1880-1802 and an opponent of home rule.<br /><a href=\"https://www.britannica.com/biography/William-Edward-Forster\" rel=\"noopener nofollow\">https://www.britannica.com/biography/William-Edward-Forster</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10617971/James-joyce-ulysses-chap-16-eumaeus/Buckshot-foster",
+    "original_id": "10617971",
+    "referent_id": 10617971,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Buckshot Foster",
+    "prefix": "o speak, in the one train of thought. At his age when dabbling in politics roughly some score of years previously when he had been a quasi aspirant to parliamentary honours in the ",
+    "suffix": " days he too recollected in retrospect (which was a source of keen satisfaction in itself) he had a sneaking regard for those same ultra ideas. For instance, when the evicted tenan",
+    "start": 109267,
+    "end": 109282,
+    "canonical_text": "Buckshot Foster"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10617971,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-2669643",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Who the German Emperor",
+  "html_source": "<p>Reference to Wilhelm I (1797 – 1888)</p><p>He was the king of Prussia between the dates of 1861 and 1888 and a German Emperor from 1871 and 1888, (Gifford).</p><p><img src=\"https://images.rapgenius.com/c278166859ad580203975b37d9e0d1ac.561x800x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2669643/James-joyce-ulysses-chap-18-penelope/Who-the-german-emperor",
+    "original_id": "2669643",
+    "referent_id": 2669643,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "who the German Emperor",
+    "prefix": "numents and he tired me out with statues encouraging him making him worse than he is who is in your mind now tell me who are you thinking of who is it tell me his name who tell me ",
+    "suffix": " is it yes imagine Im him think of him can you feel him trying to make a whore of me what he never will he ought to give it up now at this age of his life simply ruination for any ",
+    "start": 7040,
+    "end": 7062,
+    "canonical_text": "who the german Emperor"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 2669643,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.5344827586206897
+      },
+      {
+        "id": 406252,
+        "login": "gimblewart",
+        "name": "gimblewart",
+        "role": null,
+        "attribution": 0.46551724137931033
+      }
+    ]
+  },
+  "color": "F59627"
+}

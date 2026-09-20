@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21162877",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "I hardly hear",
+  "html_source": "<p>Mulligan is parodying Yeats' poem Baile and Aillinn (1903), which begins</p><p>I HARDLY hear the curlew cry,<br />Nor the grey rush when the wind is high,<br />Before my thoughts begin to run<br />On the heir of Uladh, Buan’s son,<br />Baile, who had the honey mouth;<br />And that mild woman of the south,<br />Aillinn, who was King Lugaidh’s heir.<br />Their love was never drowned in care<br />Of this or that thing, nor grew cold<br />Because their bodies had grown old.<br />Being forbid to marry on earth,<br />They blossomed to immortal mirth.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21162877/James-joyce-ulysses-chap-9-scylla-and-charybdis/I-hardly-hear",
+    "original_id": "21162877",
+    "referent_id": 21162877,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "I hardly hear",
+    "prefix": "hedo's toyable fair hair. \n\n1961#215\n\n Eh... I just eh... wanted... I forgot... he... \n\n — Longworth and M'Curdy Atkinson were there... \n\n Puck Mulligan footed featly, trilling: \n\n",
+    "suffix": " the purlieu cry \nOr a tommy talk as I pass one by\nBefore my thoughts begin to run\nOn F. M'Curdy Atkinson,\nThe same that had the wooden leg\nAnd that filibustering filibeg\nThat neve",
+    "start": 66065,
+    "end": 66078,
+    "canonical_text": "I hardly hear"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21162877,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

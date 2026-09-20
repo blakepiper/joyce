@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15063401",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Punkt.",
+  "html_source": "<p>German for “point” or “dot”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15063401/James-joyce-ulysses-chap-9-scylla-and-charybdis/Punkt",
+    "original_id": "15063401",
+    "referent_id": 15063401,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Punkt.",
+    "prefix": "r his daughters, \nFor his sister, for his old cronies in Stratford \nAnd in London. And therefore when he was urged, \nAs I believe, to name her \nHe left her his \nSecondbest \nBed. \n\n",
+    "suffix": "\n\nLeftherhis\nSecondbest\nLeftherhis\nBestabed\nSecabest\nLeftabed. \n\n1932#182\n\n Woa! \n\n — Pretty countryfolk had few chattels then, John Eglinton observed, as they have still if our pe",
+    "start": 40160,
+    "end": 40165,
+    "canonical_text": "Punkt"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 15063401,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

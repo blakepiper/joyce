@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8522510",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "M’appari tutt’amor:\n Il mio sguardo l’incontr",
+  "html_source": "<p>“All love appeared to me : My eyes encountered her.” From Flotow’s opera <em>Martha</em>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8522510/James-joyce-ulysses-chap-11-sirens/Mappari-tuttamor-il-mio-sguardo-lincontr",
+    "original_id": "8522510",
+    "referent_id": 8522510,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "M'appari tutt'amor:\n Il mio sguardo l'incontr",
+    "prefix": "st Farewell. A headland, a ship, a sail upon the billows. Farewell. A lovely girl, her veil awave upon the wind upon the headland, wind aroundfr her. \n\n Cowley sang: \n\n1939#198\n\n— ",
+    "suffix": "... \n\n She waved, unhearing Cowley, her veil, to one departing, dear one, to wind, love, speeding sail, return. \n\n1932#244\n\n — Go on, Simon. \n\n — Ah, sure, my dancing days are done",
+    "start": 31221,
+    "end": 31266,
+    "canonical_text": "M'appari tutt'amor: \nIl mio sguardo l'incontr"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 8522510,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

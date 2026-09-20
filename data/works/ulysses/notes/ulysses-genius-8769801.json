@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8769801",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Sleeping sickness",
+  "html_source": "<p>General symptoms include:<br />Anxiety<br />Mood changes<br />Fever<br />Headache<br />Weakness<br />Insomnia at night<br />Sleepiness during the day (may be uncontrollable)<br />Sweating<br />Swollen lymph nodes all over the body<br />Swollen, red, painful nodule at site of the fly bite</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8769801/James-joyce-ulysses-chap-5-lotus-eaters/Sleeping-sickness",
+    "original_id": "8769801",
+    "referent_id": 8769801,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Sleeping sickness",
+    "prefix": "arrel. Influence of the climate. Lethargy. Flowers of idleness. The air feeds most. Azotes. Hothouse in Botanic gardens. Sensitive plants. Waterlilies. Petals too tired 1986#58to. ",
+    "suffix": " 1961#71in the air. Walk on roseleaves. Imagine trying to eat tripe and cowheel. Where was the chap I saw in that picture somewhere? Ah yes, in the dead sea floating on his back, r",
+    "start": 2559,
+    "end": 2576,
+    "canonical_text": "Sleeping sickness"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8769801,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

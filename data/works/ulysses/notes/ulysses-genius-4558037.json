@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4558037",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Assuming Mulvey to be the first term of his series,",
+  "html_source": "<p>Bloom lists all of Molly’s male admirers – at least those that he knows about.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4558037/James-joyce-ulysses-chap-17-ithaca/Assuming-mulvey-to-be-the-first-term-of-his-series",
+    "original_id": "4558037",
+    "referent_id": 4558037,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Assuming Mulvey to be the first term of his series,",
+    "prefix": "himself to be first, last, only and alone whereas he is neither first nor last nor only nor alone in a series originating in and repeated to infinity. \n\n What preceding series? \n\n ",
+    "suffix": " Penrose, Bartell d'Arcy, professor Goodwin, Julius Mastiansky, John Henry Menton, Father 1986#601Bernard Corrigan, a farmer at the Royal Dublin Society's Horse 1932#634Show, Maggo",
+    "start": 135610,
+    "end": 135661,
+    "canonical_text": "Assuming Mulvey to be the first term of his series,"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4558037,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

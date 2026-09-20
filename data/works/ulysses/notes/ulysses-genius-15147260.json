@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15147260",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Bairns",
+  "html_source": "<p>Bairn is a term meaning baby or child; it is chiefly Scottish and Northern English.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15147260/James-joyce-ulysses-chap-14-oxen-of-the-sun/Bairns",
+    "original_id": "15147260",
+    "referent_id": 15147260,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "bairns",
+    "prefix": "an his errand that him lone led till that house. \n\n Of that house A. Horne is lord. Seventy beds keeps he there teeming mothers are wont that they lie for to thole and bring forth ",
+    "suffix": " hale so God's angel to Mary quoth. Watchers twey there walk, white sisters in ward sleepless. Smarts they still, sickness soothing: in twelve moons thrice an hundred. Truest bedth",
+    "start": 5229,
+    "end": 5235,
+    "canonical_text": "bairns"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 15147260,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8768974",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "THE MALE BRUTES",
+  "html_source": "<p>These represent Odysseus’s crew, whom Circe has enchanted (drugged heads) in <em>The Odyssey</em>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8768974/James-joyce-ulysses-chap-15-circe/The-male-brutes",
+    "original_id": "8768974",
+    "referent_id": 8768974,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "THE MALE BRUTES",
+    "prefix": "odour of her armpits, the vice of her painted eyes, the rustle of her slip in whose sinuous folds lurks the lion reek of all the male brutes that have possessed her.) \n\n1932#441\n\n ",
+    "suffix": " \n\n(Exhaling sulphur of rut and dung and ramping in their loosebox, faintly roaring, their drugged heads swaying to and fro.) Good! \n\n(Zoe and Bloom reach the doorway where two sis",
+    "start": 100302,
+    "end": 100317,
+    "canonical_text": "THE MALE BRUTES"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8768974,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

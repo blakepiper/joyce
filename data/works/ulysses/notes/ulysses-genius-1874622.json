@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-1874622",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Henry Flower Esq,",
+  "html_source": "<p>Bloom’s pen name.</p><p>PROPOSED SUGGESTION: A possible link to the chapter and theme of the ‘lotus eaters’, as well as a play on his own name, ‘Bloom’ – like a flower in bloom.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1874622/James-joyce-ulysses-chap-5-lotus-eaters/Henry-flower-esq",
+    "original_id": "1874622",
+    "referent_id": 1874622,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Henry Flower Esq,",
+    "prefix": "swer probably. Went too far last time. \n\n The postmistress handed him back through the grill his card with a letter. He thanked her and glanced rapidly at the typed envelope. \n\n\n\n ",
+    "suffix": ", \n\n c/o P. O. Westland Row, \n\n City. \n\n\n\n1922#69\n\n Answered anyhow. He slipped card and letter into his sidepocket, reviewing again the soldiers on parade. Where's old Tweedy's re",
+    "start": 4333,
+    "end": 4350,
+    "canonical_text": "Henry Flower, Esq"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 1874622,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 4393614,
+        "login": "rageofcaliban",
+        "name": "rageofcaliban",
+        "role": null,
+        "attribution": 0.8648648648648648
+      },
+      {
+        "id": 176532,
+        "login": "biblicalmike",
+        "name": "Michael Bible",
+        "role": "verified_artist",
+        "attribution": 0.08108108108108109
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.05405405405405405
+      }
+    ]
+  },
+  "color": "F59627"
+}

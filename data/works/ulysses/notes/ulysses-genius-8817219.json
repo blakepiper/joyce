@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8817219",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Ham and his descendants",
+  "html_source": "<p>The Curse of Ham (also called the curse of Canaan) refers to the curse that Ham’s father, Noah, placed upon Ham’s youngest son, Canaan, after Ham “saw his father’s nakedness” because of drunkenness in Noah’s tent. It is related in the Book of Genesis 9:20-27.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8817219/James-joyce-ulysses-chap-8-lestrygonians/Ham-and-his-descendants",
+    "original_id": "8817219",
+    "referent_id": 8817219,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Ham and his descendants",
+    "prefix": " — Hello, Flynn. \n\n — How's things? \n\n — Tiptop... Let me see. I'll take a glass of burgundy and... let me see. \n\n Sardines on the shelves. Almost taste them by looking. Sandwich? ",
+    "suffix": " mustered and bred there. Potted meats. What is home without Plumtree's potted meat? Incomplete. What a stupid ad! Under the obituary notices they stuck it. All up a plumtree. Dign",
+    "start": 46418,
+    "end": 46441,
+    "canonical_text": "Ham and his descendants"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8817219,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

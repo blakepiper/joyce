@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8500081",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Under the patronage of the late Father Mathew",
+  "html_source": "<p>In 1891 the statue of Fr. Theobald Mathew, the Apostle of Temperance, was unveiled on Sackville Street (now O'Connell Street). It was sculpted by Mary Redmond.</p><p><img src=\"https://images.rapgenius.com/63ed161957abb8f7e131788529073f7a.600x913x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8500081/James-joyce-ulysses-chap-6-hades/Under-the-patronage-of-the-late-father-mathew",
+    "original_id": "8500081",
+    "referent_id": 8500081,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Under the patronage of the late Father Mathew",
+    "prefix": "temperance hotel, Falconer's railway guide, civil service college, Gill's, catholic club, the industrious blind. Why? Some reason. Sun or wind. At night too. Chummies and slaveys. ",
+    "suffix": ". Foundation stone for Parnell. Breakdown. Heart. \n\n White horses with white frontlet plumes came round the Rotunda corner, galloping. A tiny coffin flashed by. In a hurry1961#95 t",
+    "start": 18364,
+    "end": 18409,
+    "canonical_text": "Under the patronage of the late Father Mathew"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8500081,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2680303,
+        "login": "Cortez67",
+        "name": "Cortez67",
+        "role": null,
+        "attribution": 0.8928571428571429
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.10714285714285714
+      }
+    ]
+  },
+  "color": "F59627"
+}

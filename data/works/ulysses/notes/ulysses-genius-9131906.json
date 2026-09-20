@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9131906",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Tipstaff",
+  "html_source": "<p>A contemporary synonym would be bailiff<br /><a href=\"http://www.legalgenealogist.com/blog/2014/01/29/the-duties-of-the-tipstaff/\" rel=\"noopener nofollow\">http://www.legalgenealogist.com/blog/2014/01/29/the-duties-of-the-tipstaff/</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9131906/James-joyce-ulysses-chap-14-oxen-of-the-sun/Tipstaff",
+    "original_id": "9131906",
+    "referent_id": 9131906,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "tipstaff",
+    "prefix": " and low taverns with crimps, ostlers, bookies, Paul's men, runners, flatcaps, waistcoateers, ladies of the bagnio and other rogues of the game or with a chanceable catchpole or a ",
+    "suffix": " often at nights till broad day of whom he picked up between his sackpossets much loose gossip. He took his ordinary at a boilingcook's and if he had but gotten into him a mess of ",
+    "start": 38526,
+    "end": 38534,
+    "canonical_text": "tipstaff"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9131906,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

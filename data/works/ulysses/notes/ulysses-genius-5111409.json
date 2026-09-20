@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5111409",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "The Queen’s theatre",
+  "html_source": "<p>At 209 Great Brunswick (now Pearse) Street, one of the three major theaters in Dublin at the turn of the century. The Theatre Royal was primarily used for dramatic presentations, the Gaiety for the more socially prominent musical events, and the Queen’s for productions that fit neither category.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5111409/James-joyce-ulysses-chap-6-hades/The-queens-theatre",
+    "original_id": "5111409",
+    "referent_id": 5111409,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "the Queen's theatre",
+    "prefix": "1961#91 suit with a crape armlet. Not much grief there. Quarter mourning. People in law perhaps. \n\n They went past the bleak pulpit of saint Mark's, under the railway bridge, past ",
+    "suffix": ": in silence. Hoardings: Eugene Stratton, Mrs Bandmann Palmer. Could I go to see Leah tonight, I wonder. I said I. Or the Lily of Killarney? Elster Grimes Opera Company. Big powerf",
+    "start": 10626,
+    "end": 10645,
+    "canonical_text": "the Queen's theatre"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5111409,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

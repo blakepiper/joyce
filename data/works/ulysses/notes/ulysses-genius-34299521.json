@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-34299521",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Is there Gaelic on you?",
+  "html_source": "<p>According to Gifford, “a west-of-Ireland, peasant colloquialism” for “do you speak Irish”?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/34299521/James-joyce-ulysses-chap-1-telemachus/Is-there-gaelic-on-you",
+    "original_id": "34299521",
+    "referent_id": 34299521,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "Is there Gaelic on you?",
+    "prefix": "Stephen asked her. \n\n — Is it French you are talking, sir? the old woman said to Haines. \n\n Haines spoke to her again a longer speech, confidently. \n\n — Irish, Buck Mulligan said. ",
+    "suffix": " \n\n — I thought it was Irish, she said, by the sound of it. Are you from the west, sir? \n\n — I am an Englishman, Haines answered. \n\n — He's English, Buck Mulligan said, and he thin",
+    "start": 24350,
+    "end": 24373,
+    "canonical_text": "Is there Gaelic on you?"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 34299521,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

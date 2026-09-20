@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10607003",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Pink edition",
+  "html_source": "<p>The Evening Telegraph paper was published on distinctive pink newspaper, which marked it out visually from the buff (brownish-yellow) paper colour used by one of its Dublin rivals, the Dublin Evening Mail.<br /><a href=\"https://en.wikipedia.org/wiki/Evening_Telegraph_\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Evening_Telegraph_</a>(Dublin)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10607003/James-joyce-ulysses-chap-16-eumaeus/Pink-edition",
+    "original_id": "10607003",
+    "referent_id": 10607003,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "pink edition",
+    "prefix": "pose he were to pen something out of the common groove (as he fully intended doing) at the rate of one guinea per column, My Experiences, let us say, in a Cabman's Shelter. \n\n The ",
+    "suffix": ", extra sporting, of the Telegraph, tell a graphic lie, lay, as luck would have it, beside his elbow and as he was just puzzling again, far from satisfied, over a country belonging",
+    "start": 84250,
+    "end": 84262,
+    "canonical_text": "pink edition"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10607003,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-8871920",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Lychgate",
+  "html_source": "<p>A lychgate (from Old English <em>lic</em>, meaning corpse), also spelled lichgate, lycugate or, as two separate words, lych gate,  is a gateway covered with a roof found at the entrance to many traditional English or English-style churchyards.</p><p><img src=\"https://images.rapgenius.com/f51cd89b304bf725d62dff5adfdc140f.220x348x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8871920/James-joyce-ulysses-chap-10-wandering-rocks/Lychgate",
+    "original_id": "8871920",
+    "referent_id": 8871920,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "lychgate",
+    "prefix": "wingroom, ceiled with full fruit clusters. And the hands of 1961#223a bride and of a bridegroom, noble to noble, were impalmed by Don John Conmee. \n\n It was a charming day. \n\n The ",
+    "suffix": " of a field showed Father Conmee breadths of cabbages, curtseying to him with ample underleaves. The sky showed him a flock of small white clouds going slowly down the wind. Mouton",
+    "start": 11371,
+    "end": 11379,
+    "canonical_text": "lychgate"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8871920,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.8805970149253731
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.11940298507462688
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8803976",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Adulterer",
+  "html_source": "<p>Emma, Lady Hamilton 1765 – 1815<br />Lord Nelson’s great love was Emma, a lady who had a quite remarkable (and scandalous) past.<br /><a href=\"http://www.historic-uk.com/HistoryUK/HistoryofEngland/Emma-Lady-Hamilton/\" rel=\"noopener nofollow\">http://www.historic-uk.com/HistoryUK/HistoryofEngland/Emma-Lady-Hamilton/</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8803976/James-joyce-ulysses-chap-7-aeolus/Adulterer",
+    "original_id": "8803976",
+    "referent_id": 8803976,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "adulterer",
+    "prefix": " \n\n — Easy all, Myles Crawford said. No poetic licence. We're in the archdiocese here. \n\n — And settle down on their striped petticoats, peering up at the statue of the onehandled ",
+    "suffix": ". \n\n — Onehandled adulterer! the professor cried. I like that. I see the idea. I see what you mean. \n\n1932#131\n\n DAMES DONATE DUBLIN'S CITS \nSPEEDPILLS VELOCITOUS AEROLITHS, BELIEF",
+    "start": 56883,
+    "end": 56892,
+    "canonical_text": "adulterer"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9476
+  },
+  "genius": {
+    "referent_id": 8803976,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

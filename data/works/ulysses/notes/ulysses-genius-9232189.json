@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9232189",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Introit",
+  "html_source": "<p>noun<br />a psalm or antiphon sung or said while the priest approaches the altar for the Eucharist.<br />wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9232189/James-joyce-ulysses-chap-15-circe/Introit",
+    "original_id": "9232189",
+    "referent_id": 9232189,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "introit",
+    "prefix": "r voice soaring higher.) \n\nShe has it, she got it, \nWherever she put it, \nThe leg of the duck. \n\n1939#309\n\n(Stephen, flourishing the ashplant in his left hand, chants with joy the ",
+    "suffix": " for paschal time. Lynch, his jockeycap low on his brow, attends him, a sneer of discontent wrinkling his face.) \n\n STEPHEN \n\nVidi aquam egredientem de templo a latere dextro. Alle",
+    "start": 3330,
+    "end": 3337,
+    "canonical_text": "introit"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9232189,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

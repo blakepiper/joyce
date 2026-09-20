@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15153566",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Francis was reminding",
+  "html_source": "<p>This begins the section in the style of <a href=\"https://en.wikipedia.org/wiki/Walter_Savage_Landor\" rel=\"noopener nofollow\">Walter Savage Landor</a> which began with “Francis was reminding.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15153566/James-joyce-ulysses-chap-14-oxen-of-the-sun/Francis-was-reminding",
+    "original_id": "15153566",
+    "referent_id": 15153566,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Francis was reminding",
+    "prefix": "mply swirling, writhing in the skies a mysterious writing till, after a myriad metamorphoses of symbol, it blazes, Alpha, a ruby and triangled sign upon the forehead of Taurus. \n\n ",
+    "suffix": " Stephen of years before when they 1961#414had been at school together in Conmee's time. He asked about Glaucon, Alcibiades, 1986#338Pisistratus. Where were they now? Neither knew.",
+    "start": 80393,
+    "end": 80414,
+    "canonical_text": "Francis was reminding"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15153566,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

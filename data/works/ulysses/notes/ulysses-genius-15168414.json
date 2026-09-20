@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15168414",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Ubi patria,",
+  "html_source": "<p>“Ubi patria… vita bene” meaning where [my] country [is], [there is the] good life.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15168414/James-joyce-ulysses-chap-16-eumaeus/Ubi-patria",
+    "original_id": "15168414",
+    "referent_id": 15168414,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Ubi patria,",
+    "prefix": "vital issue at stake and it's feasible and would be provocative of friendlier intercourse between man and man. At least that's my idea for what it's worth. I call that patriotism. ",
+    "suffix": " as we learned a smattering of in our classical days in Alma Mater, vita bene. Where you can live well, the sense is, if you work. \n\n Over his untasteable apology for a cup of coff",
+    "start": 77563,
+    "end": 77574,
+    "canonical_text": "Ubi patria,"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15168414,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

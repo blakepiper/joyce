@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4565513",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "H M S Calypso",
+  "html_source": "<p>Molly remembers that Mulvey’s hat had the name of his ship on it.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4565513/James-joyce-ulysses-chap-18-penelope/H-m-s-calypso",
+    "original_id": "4565513",
+    "referent_id": 4565513,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "H M S Calypso",
+    "prefix": "Hebrew on them I wanted to fire his pistol he said he hadnt one he didnt know what to make of me with his peak cap on that he always wore crooked as often as I settled it straight ",
+    "suffix": " swinging my hat that old Bishop that spoke off the altar his long preach about womans higher functions about girls now riding the bicycle and wearing peak caps and the new woman b",
+    "start": 62233,
+    "end": 62246,
+    "canonical_text": "H M S Calypso"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4565513,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

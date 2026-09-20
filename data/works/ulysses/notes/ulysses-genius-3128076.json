@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3128076",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Sentinel",
+  "html_source": "<p>The bottle sticks up out of the waste.</p><p><img src=\"https://images.rapgenius.com/740836f39e781ebeefbd9a272a6f999e.1000x293x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3128076/James-joyce-ulysses-chap-3-proteus/Sentinel",
+    "original_id": "3128076",
+    "referent_id": 3128076,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "sentinel",
+    "prefix": "flats waited to suck his treading soles, breathing upward sewage breath. He coasted them, walking warily. A porterbottle stood up, stogged to its waist, in the cakey sand dough. A ",
+    "suffix": ": isle of dreadful thirst. Broken hoops on the shore; at the land a maze of dark cunning nets; farther away chalkscrawled backdoors and on the higher beach a dryingline with two cr",
+    "start": 9492,
+    "end": 9500,
+    "canonical_text": "sentinel"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3128076,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

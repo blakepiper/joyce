@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5117808",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "O, O THE BOYS OF\n KILKENNY...",
+  "html_source": "<p>Traditional Irish song:<br />Boys of Kilkenny</p><p>Oh the boys of Kilkenny are stout roving blades,<br />And whenever they meet with the nice little maids,<br />They’ll kiss them and coax them and spend their money free,<br />And of all towns in Ireland Kilkenny for me.<br />And of all towns in Ireland Kilkenny for me.</p><p>Through the town of Kilkenny there runs a clear stream,<br />In the town of Kilkenny there lives a fair dame,<br />He lips are like roses and he cheeks much the same,<br />Like a dish of ripe strawberries smothered in cream.<br />Like a dish of ripe strawberries smothered in cream.</p><p>Her eyes are as black as Kilkenny’s famed coal,<br />Which through my poor bosom has burned a great hole,<br />Her mind, like its river, is mild, clear and pure,<br />But her heart is more hard than its marble I’m sure,<br />But her heart is more hard than its marble I’m sure.</p><p>Oh Kilkenny’s a fine town it shines where it stands,<br />And the more I think of it the more my heart warms,<br />And if I was in Kilkenny, I’d think myself at home<br />For ‘tis there I’ have sweethearts but here I have none,<br />For ‘tis there I’d gave sweethearts but here I have none</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5117808/James-joyce-ulysses-chap-3-proteus/O-o-the-boys-of-kilkenny",
+    "original_id": "5117808",
+    "referent_id": 5117808,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "O, O THE BOYS OF\n KILKENNY...",
+    "prefix": "ring blades. Know that old lay? I taught Patrice that. Old Kilkenny: saint Canice, Strongbow's castle on the Nore. Goes like this. O, O. He takes me, Napper Tandy, by the hand. \n\n ",
+    "suffix": " \n\n Weak wasting hand on mine. They have forgotten Kevin Egan, not he them. Remembering thee, O Sion. \n\n He had come nearer the edge of the sea and wet sand slapped his boots. The ",
+    "start": 16548,
+    "end": 16577,
+    "canonical_text": "O, O the boys of \nKilkenny..."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 5117808,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1618748,
+        "login": "Kataryna",
+        "name": "Kataryna",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

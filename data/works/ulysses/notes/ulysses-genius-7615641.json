@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-7615641",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Papal bull",
+  "html_source": "<p>A particular type of letters patent or charter issued by a Pope of the Catholic Church. It is named after the lead seal (bulla) that was appended in order to authenticate it.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7615641/James-joyce-ulysses-chap-9-scylla-and-charybdis/Papal-bull",
+    "original_id": "7615641",
+    "referent_id": 7615641,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "papal bull",
+    "prefix": " his head wagging, he came near, drew a folded telegram from his pocket. His mobile lips read, smiling with new delight. \n\n — Telegram! he said. Wonderful inspiration! Telegram! A ",
+    "suffix": "! \n\n1932#178\n\n He sat on a corner of the unlit desk, reading aloud joyfully: \n\n1986#163\n\n — The sentimentalist is he who would enjoy without incurring the immense debtorship for a ",
+    "start": 31410,
+    "end": 31420,
+    "canonical_text": "papal bull"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 7615641,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2082826,
+        "login": "Jmpetro",
+        "name": "Jmpetro",
+        "role": null,
+        "attribution": 0.96875
+      },
+      {
+        "id": 3189631,
+        "login": "jayclay",
+        "name": "jayclay",
+        "role": "editor",
+        "attribution": 0.03125
+      }
+    ]
+  },
+  "color": "F59627"
+}

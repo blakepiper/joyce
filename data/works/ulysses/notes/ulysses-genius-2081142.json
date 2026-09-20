@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2081142",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Acid and inoperative.",
+  "html_source": "<p>This ends the section in the style of Junius, which began with “But with what fitness.”</p><p><img src=\"https://images.genius.com/90435108de9d5dc836583aba660e08a6.200x160x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2081142/James-joyce-ulysses-chap-14-oxen-of-the-sun/Acid-and-inoperative",
+    "original_id": "2081142",
+    "referent_id": 2081142,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "acid and inoperative.",
+    "prefix": " and flourished and was abundant in balm but, transplanted to a clime more temperate, its roots have lost their quondam vigour while the stuff that comes away from it is stagnant, ",
+    "suffix": " \n\n The news was imparted with a circumspection recalling the ceremonial usages of the Sublime Porte by the second female infirmarian to the junior medical officer in residence, wh",
+    "start": 68128,
+    "end": 68149,
+    "canonical_text": "acid and inoperative."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2081142,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 22483,
+        "login": "Panurge",
+        "name": "Panurge",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

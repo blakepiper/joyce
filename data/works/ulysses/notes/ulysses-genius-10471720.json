@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10471720",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "The Bisley",
+  "html_source": "<p><a href=\"http://www.armycadethistory.com/Bisley_main.htm\" rel=\"noopener nofollow\">http://www.armycadethistory.com/Bisley_main.htm</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10471720/James-joyce-ulysses-chap-16-eumaeus/The-bisley",
+    "original_id": "10471720",
+    "referent_id": 10471720,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "the Bisley",
+    "prefix": "ts to kill, \nNever missed nor he never will. \n\n A silence ensued till Mr Bloom for agreeableness' sake just felt like asking him whether it was for a marksmanship competition like ",
+    "suffix": ". \n\n — Beg pardon, the sailor said. \n\n — Long ago? Mr Bloom pursued without flinching a hairsbreadth. \n\n1939#438\n\n — Why, the sailor replied, relaxing to a certain extent under the",
+    "start": 27272,
+    "end": 27282,
+    "canonical_text": "the Bisley"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10471720,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

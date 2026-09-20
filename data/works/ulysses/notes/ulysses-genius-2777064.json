@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2777064",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "They",
+  "html_source": "<p>Stephen’s parents</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2777064/James-joyce-ulysses-chap-3-proteus/They",
+    "original_id": "2777064",
+    "referent_id": 2777064,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "They",
+    "prefix": "rlasting to everlasting. Womb of sin. \n\n Wombed in sin darkness I was too, made not begotten. By them, the man with my voice and my eyes and a ghostwoman with ashes on her breath. ",
+    "suffix": " clasped and sundered, did the coupler's will. From before the ages He willed me and now may not will me away or ever. A lex eterna stays about Him. Is that then the divine substan",
+    "start": 2975,
+    "end": 2979,
+    "canonical_text": "They"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 2777064,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 242580,
+        "login": "CaseyVickstrom",
+        "name": "CaseyVickstrom",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

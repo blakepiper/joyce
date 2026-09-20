@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20135209",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "The bar MacMahon",
+  "html_source": "<p>A bar in Paris.</p><p>This memory of meeting Patrice in Paris is triggered by the sight of the Pigeonhouse, which brings to mind the “c'est le pigeon” joke, which comes from a book Patrice promised to send Stephen (<em>La Vie de Jesus</em>).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20135209/James-joyce-ulysses-chap-3-proteus/The-bar-macmahon",
+    "original_id": "20135209",
+    "referent_id": 20135209,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "the bar MacMahon",
+    "prefix": "ssed the firmer sand towards the Pigeonhouse. \n\n— Qui vous a mis dans cette fichue position? \n\n— C'est le pigeon, Joseph. \n\n Patrice, home on furlough, lapped warm milk with me in ",
+    "suffix": ". Son of the wild goose, Kevin Egan of Paris. My father's a bird, he lapped the sweet lait chaud with pink young tongue, plump bunny's face. Lap, lapin. He hopes to win in the gros",
+    "start": 10074,
+    "end": 10090,
+    "canonical_text": "the bar MacMahon"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20135209,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11041825,
+        "login": "raggedclaws",
+        "name": "raggedclaws",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

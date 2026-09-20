@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20239119",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "By long chalks",
+  "html_source": "<p>by long chalks = by far</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20239119/James-joyce-ulysses-chap-8-lestrygonians/By-long-chalks",
+    "original_id": "20239119",
+    "referent_id": 20239119,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "by long chalks",
+    "prefix": "od fortune to meet with the approval of the eminent 1922#152poet A. E. (Mr Geo. Russell). No time to do her hair drinking sloppy tea with a book of poetry. \n\n1939#117\n\n Best paper ",
+    "suffix": " for a small ad. Got the provinces now. Cook and general, exc. cuisine, housemaid kept. Wanted live man for spirit counter. Resp. girl (R.C.) wishes to hear of post in fruit or por",
+    "start": 20397,
+    "end": 20411,
+    "canonical_text": "by long chalks"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20239119,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11041825,
+        "login": "raggedclaws",
+        "name": "raggedclaws",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

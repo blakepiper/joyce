@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4667413",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "KYRIE ELEISON!",
+  "html_source": "<p>Greek: “Lord have mercy” from the Catholic Mass. [Gifford]</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4667413/James-joyce-ulysses-chap-7-aeolus/Kyrie-eleison",
+    "original_id": "4667413",
+    "referent_id": 4667413,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "KYRIE ELEISON!",
+    "prefix": "whose mentality is the maxim: time is money. Material domination. Dominus! Lord! Where is the spirituality? Lord Jesus? Lord Salisbury? A sofa in a westend club. But the Greek! \n\n ",
+    "suffix": " \n\n A smile of light brightened his darkrimmed eyes, lengthened his long lips. \n\n — The Greek! he said again. Kyrios! Shining word! The vowels the Semite and the 1939#99Saxon know ",
+    "start": 30603,
+    "end": 30617,
+    "canonical_text": "KYRIE ELEISON!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4667413,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

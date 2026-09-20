@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23609416",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Sinn Fein amhain!",
+  "html_source": "<p>“Ourselves alone.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23609416/James-joyce-ulysses-chap-12-cyclops/Sinn-fein-amhain",
+    "original_id": "23609416",
+    "referent_id": 23609416,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "Sinn Fein amhain!",
+    "prefix": "ays the citizen taking up his pintglass and glaring at Bloom. \n\n — Ay, ay, says Joe. \n\n — You don't grasp my point, says Bloom. What I mean is... \n\n — Sinn Fein! says the citizen. ",
+    "suffix": " The friends we love are by our side and the foes we hate before us. \n\n The last farewell was affecting in the extreme. From the belfries far and near the funereal deathbell tolled",
+    "start": 32795,
+    "end": 32812,
+    "canonical_text": "Sinn Fein amhain!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23609416,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

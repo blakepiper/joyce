@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10968100",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Punish me, please.",
+  "html_source": "<p>Thinking of Martha’s letter.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10968100/James-joyce-ulysses-chap-5-lotus-eaters/Punish-me-please",
+    "original_id": "10968100",
+    "referent_id": 10968100,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Punish me, please.",
+    "prefix": "ing if you understood what it was all about. Wonderful organisation 1986#67certainly, goes 1961#82like clockwork. Confession. Everyone wants to. Then I will tell you all. Penance. ",
+    "suffix": " Great weapon in their hands. More than doctor or solicitor. Woman dying to. And I schschschschschsch. And did you chachachachacha? And why did you? Look down at her ring to find a",
+    "start": 27147,
+    "end": 27165,
+    "canonical_text": "Punish me, please."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10968100,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1060900,
+        "login": "dvrath",
+        "name": "dvrath",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

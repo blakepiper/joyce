@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-17222943",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Hypostasis",
+  "html_source": "<p>noun<br />1.<br />MEDICINE<br />the accumulation of fluid or blood in the lower parts of the body or organs under the influence of gravity, as occurs in cases of poor circulation or after death.<br />2.<br />PHILOSOPHY<br />an underlying reality or substance, as opposed to attributes or to that which lacks substance.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/17222943/James-joyce-ulysses-chap-17-ithaca/Hypostasis",
+    "original_id": "17222943",
+    "referent_id": 17222943,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "hypostasis",
+    "prefix": "destination of a future. \n\n What were Stephen's and Bloom's quasisimultaneous volitional quasisensations of concealed identities? \n\n Visually, Stephen's: The traditional figure of ",
+    "suffix": ", depicted by Johannes Damascenus, Lentulus Romanus and Epiphanius Monachus as leucodermic, sesquipedalian with winedark hair. \n\n Auditively, Bloom's: The traditional accent of the",
+    "start": 50423,
+    "end": 50433,
+    "canonical_text": "hypostasis"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 17222943,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 8460622,
+        "login": "LP-Reader1",
+        "name": "LP-Reader1",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

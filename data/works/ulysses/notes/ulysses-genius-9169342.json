@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9169342",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Mananaun",
+  "html_source": "<p>Manannán or Manann (Old Irish Manandán), also known as Manannán mac Lir (Mac Lir meaning “son of the sea”), is a sea deity in Irish mythology.  Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9169342/James-joyce-ulysses-chap-14-oxen-of-the-sun/Mananaun",
+    "original_id": "9169342",
+    "referent_id": 9169342,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Mananaun",
+    "prefix": " Meet me at Westland Row station at ten past eleven. He was gone. Tears gushed from the eyes of the dissipated host. The seer raised his hand to heaven, murmuring: The vendetta of ",
+    "suffix": "! The sage repeated: Lex talionis. The sentimentalist is he who would enjoy without incurring the immense debtorship for a thing done. Malachias, overcome by emotion, ceased. The m",
+    "start": 74572,
+    "end": 74580,
+    "canonical_text": "Mananaun"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9169342,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

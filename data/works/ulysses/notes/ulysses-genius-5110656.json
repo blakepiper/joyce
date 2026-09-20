@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5110656",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Mr Power",
+  "html_source": "<p>Jack Power, fictional, is attached to the offices of the Royal Irish Constabulary in Dublin Castle,  “semi-military police” (Gladstone). Modeled after Scotland Yard, its members armed and charged with suppressing Irish political dissidents and thus with the maintenance of British overlordship in Ireland, its functions were much more political than Scotland Yard.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5110656/James-joyce-ulysses-chap-6-hades/Mr-power",
+    "original_id": "5110656",
+    "referent_id": 5110656,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Mr Power",
+    "prefix": "\n\n[6]\n\n\n\nMartin Cunningham, first, poked his silkhatted head into the creaking carriage and, entering deftly, seated himself. ",
+    "suffix": " stepped in after him, curving his height with care. \n\n — Come on, Simon. \n\n — After you, Mr Bloom said. \n\n Mr Dedalus covered himself quickly and got in, saying: \n\n Yes, yes. \n\n —",
+    "start": 126,
+    "end": 134,
+    "canonical_text": "Mr Power"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9761
+  },
+  "genius": {
+    "referent_id": 5110656,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

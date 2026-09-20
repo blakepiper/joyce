@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8769539",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "All dimpled cheeks and curls, Your head it simply swirls.",
+  "html_source": "<p>A slightly mistaken chorus from the song Seaside Girls mentioned in Milly’s letter above.</p><p>Those girls, those girls, those lovely seaside girls,<br />All dimples, smiles, and curls — your head it simply whirls!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8769539/James-joyce-ulysses-chap-4-calypso/All-dimpled-cheeks-and-curls-your-head-it-simply-swirls",
+    "original_id": "8769539",
+    "referent_id": 8769539,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "All dimpled cheeks and curls, Your head it simply swirls.",
+    "prefix": "en milk too long. On the Erin's King that day round round the Kish. Damned old tub pitching about. Not a bit funky. Her pale blue scarf loose in the wind with her hair. \n\n1986#54\n\n",
+    "suffix": " \n\n1939#51\n\n Seaside girls. Torn envelope. Hands stuck in his trousers' pockets, jarvey off for the day, singing. Friend of the family. Swurls, he says. Pier with lamps, summer eve",
+    "start": 26916,
+    "end": 26974,
+    "canonical_text": "All dimpled cheeks and curls, \nYour head it simply swirls."
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 8769539,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

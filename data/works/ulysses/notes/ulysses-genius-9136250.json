@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-9136250",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "’tis pity she’s a trollop",
+  "html_source": "<p>‘Tis Pity She’s a Whore’ is a tragedy written by John Ford. It was likely first performed between 1629 and 1633. The play’s treatment of the subject of incest made it one of the most controversial works in English literature.<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9136250/James-joyce-ulysses-chap-14-oxen-of-the-sun/Tis-pity-shes-a-trollop",
+    "original_id": "9136250",
+    "referent_id": 9136250,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "'tis pity she's a trollop",
+    "prefix": "laughter at his 1922#384smalls, smote himself bravely below the diaphragm, exclaiming with an admirable droll mimic of Mother Grogan (the most excellent creature of her sex though ",
+    "suffix": "): There's a belly that never bore a bastard. This was so happy a conceit that it renewed the storms of mirth and threw the whole room into the most violent agitations of delight. ",
+    "start": 52808,
+    "end": 52833,
+    "canonical_text": "'tis pity she's a trollop"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9136250,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 0.975609756097561
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.024390243902439025
+      }
+    ]
+  },
+  "color": "F59627"
+}

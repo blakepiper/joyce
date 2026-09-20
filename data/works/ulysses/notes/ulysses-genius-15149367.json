@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15149367",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Wheatkidneys",
+  "html_source": "<p>Wheat grains for bread-making (the dough is described figuratively rising at the end of the sentence).</p><p><img src=\"https://images.genius.com/89a3758145bc332458db92531e6b7a4a.900x599x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15149367/James-joyce-ulysses-chap-14-oxen-of-the-sun/Wheatkidneys",
+    "original_id": "15149367",
+    "referent_id": 15149367,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "wheatkidneys",
+    "prefix": "gal land because of the fatness that therein is like to the juices of the olivepress. And also it was a marvel to see in that castle how by magic they make a compost out of fecund ",
+    "suffix": " out of Chaldee that by aid of certain angry spirits that they do into it swells up wondrously like to a vast mountain. And they teach the serpents there to entwine themselves up o",
+    "start": 10785,
+    "end": 10797,
+    "canonical_text": "wheatkidneys"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15149367,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

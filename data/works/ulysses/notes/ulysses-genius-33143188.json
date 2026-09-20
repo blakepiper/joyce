@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-33143188",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Then",
+  "html_source": "<p>Madden further explained, that she was dead but her husband wouldn’t let her die because he prays (?). The rest of the throng didn’t react well to this.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/33143188/James-joyce-ulysses-chap-14-oxen-of-the-sun/Then",
+    "original_id": "33143188",
+    "referent_id": 33143188,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Then",
+    "prefix": "xed hot upon that head what with argument and what for their drinking but the franklin Lenehan was prompt each when to pour them ale so that at the least way mirth might not lack. ",
+    "suffix": " young Madden showed all the whole affair and when he said how that she was dead and how for holy religion sake by rede of palmer and bedesman and for a vow he had made to Saint Ul",
+    "start": 15407,
+    "end": 15411,
+    "canonical_text": "Then"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9712
+  },
+  "genius": {
+    "referent_id": 33143188,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

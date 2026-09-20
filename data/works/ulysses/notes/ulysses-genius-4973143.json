@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4973143",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "And to the loud voice that now bids her be silent with wondering unsteady eyes.",
+  "html_source": "<p>The “loud voice” is Haines who has begun speaking Gaelic to her.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4973143/James-joyce-ulysses-chap-1-telemachus/And-to-the-loud-voice-that-now-bids-her-be-silent-with-wondering-unsteady-eyes",
+    "original_id": "4973143",
+    "referent_id": 4973143,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "And to the loud voice that now bids her be silent with wondering unsteady eyes.",
+    "prefix": " she slights. To the voice that will shrive and oil for the grave all there is of her but her woman's unclean loins, of man's flesh made not in God's likeness, the serpent's prey. ",
+    "suffix": " \n\n — Do you understand what he says? Stephen asked her. \n\n — Is it French you are talking, sir? the old woman said to Haines. \n\n Haines spoke to her again a longer speech, confide",
+    "start": 24053,
+    "end": 24132,
+    "canonical_text": "And to the loud voice that now bids her be silent with wondering unsteady eyes."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4973143,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1045290,
+        "login": "StickRivero",
+        "name": "StickRivero",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

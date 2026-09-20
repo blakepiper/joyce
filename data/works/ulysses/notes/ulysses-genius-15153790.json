@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15153790",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Lic. in Midw., F. K. Q. C. P. I.",
+  "html_source": "<p>Licentiate in Midwifery, Fellow of the King and Queen’s College of Physicians in Ireland.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15153790/James-joyce-ulysses-chap-14-oxen-of-the-sun/Lic-in-midw-f-k-q-c-p-i",
+    "original_id": "15153790",
+    "referent_id": 15153790,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Lic. in Midw., F. K. Q. C. P. I.",
+    "prefix": "ersy with Mr L. Bloom (Pubb. Canv.) which took place in the commons' hall of the National Maternity Hospital, 29, 30 and 31 Holles street, of which, as is well known, Dr A. Horne (",
+    "suffix": ") is the able and popular master, he is reported by eyewitnesses as having stated that once a woman has let the cat into the bag (an esthetic allusion, presumably, to one of the mo",
+    "start": 94579,
+    "end": 94611,
+    "canonical_text": "Lic. in Midw., F. K. Q. C. P. I."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15153790,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

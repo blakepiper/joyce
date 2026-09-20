@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1822866",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "You wouldn’t kneel down to pray for your mother on her deathbed when she asked you.",
+  "html_source": "<p>This scene is played at the end of <em>A Portrait of an Artist as a Young Man</em>.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1822866/James-joyce-ulysses-chap-1-telemachus/You-wouldnt-kneel-down-to-pray-for-your-mother-on-her-deathbed-when-she-asked-you",
+    "original_id": "1822866",
+    "referent_id": 1822866,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "You wouldn't kneel down to pray for your mother on her deathbed when she asked you.",
+    "prefix": "r mother die. I see them pop off every day in the Mater and Richmond and cut up into tripes in the dissectingroom. It's a beastly thing and nothing else. It simply doesn't matter. ",
+    "suffix": " Why? Because you have the cursed jesuit strain in you, only it's injected the wrong way. To me it's all a mockery and beastly. Her cerebral lobes are not functioning. She calls th",
+    "start": 12142,
+    "end": 12225,
+    "canonical_text": "You wouldn't kneel down to pray for your mother on her deathbed when she asked you."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1822866,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 176532,
+        "login": "biblicalmike",
+        "name": "Michael Bible",
+        "role": "verified_artist",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

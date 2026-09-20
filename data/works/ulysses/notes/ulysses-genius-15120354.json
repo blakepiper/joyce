@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15120354",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Evviva",
+  "html_source": "<p>(Ital.) Hooray; also “long live…” (as in “evviva la regina!”)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15120354/James-joyce-ulysses-chap-12-cyclops/Evviva",
+    "original_id": "15120354",
+    "referent_id": 15120354,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "evviva",
+    "prefix": "he even more excitable foreign delegates cheered vociferously in a medley of cries, hoch, banzai, eljen, zivio, chinchin, polla kronia, hiphip, vive, Allah, amid which the ringing ",
+    "suffix": " of the delegate of the land of song (a high double F recalling those piercingly lovely notes with which the eunuch Catalani beglamoured our greatgreatgrandmothers) was easily dist",
+    "start": 38304,
+    "end": 38310,
+    "canonical_text": "evviva"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15120354,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

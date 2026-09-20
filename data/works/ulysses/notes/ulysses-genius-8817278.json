@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8817278",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Gorgonzola",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/972b2bab268752cba8861a1d085e9120.1000x665x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8817278/James-joyce-ulysses-chap-8-lestrygonians/Gorgonzola",
+    "original_id": "8817278",
+    "referent_id": 8817278,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Gorgonzola",
+    "prefix": "that cutlet with a sprig of parsley. Take one Spanish onion. God made food, the devil the cooks. Devilled crab. \n\n — Wife well? \n\n — Quite well, thanks... A cheese sandwich, then. ",
+    "suffix": ", have you? \n\n — Yes, sir. \n\n Nosey Flynn sipped his grog. \n\n — Doing any singing those times? \n\n Look at his mouth. Could whistle in his own ear. Flap ears to match. Music. Knows ",
+    "start": 47906,
+    "end": 47916,
+    "canonical_text": "Gorgonzola"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8817278,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

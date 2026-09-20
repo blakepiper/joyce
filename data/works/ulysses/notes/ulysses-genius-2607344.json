@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-2607344",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "Telegraph. Irish Homestead.",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/01e62f93dda158ed06f0ff2d9ae2881a.240x256x1.jpg\" alt=\"\" /></p><p>The <a href=\"http://en.wikipedia.org/wiki/Evening_Telegraph_%28Dublin%29\" rel=\"noopener nofollow\"><em>Evening Telegraph</em></a> and the <a href=\"http://en.wikipedia.org/wiki/Irish_Homestead\" rel=\"noopener nofollow\"><em>Irish Homestead</em></a> were Dublin newspapers.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2607344/James-joyce-ulysses-chap-2-nestor/Telegraph-irish-homestead",
+    "original_id": "2607344",
+    "referent_id": 2607344,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "Telegraph. Irish Homestead.",
+    "prefix": " great teacher. \n\n Stephen rustled the sheets again. \n\n — As regards these, he began. \n\n — Yes, Mr Deasy said. You have two copies there. If you can have them published at once. \n\n",
+    "suffix": "\n\n — I will try, Stephen said, and let you know tomorrow. I know two editors slightly. \n\n — That will do, Mr Deasy said briskly. I wrote last night to Mr Field, M.P. There is a mee",
+    "start": 23690,
+    "end": 23717,
+    "canonical_text": "Telegraph. Irish Homestead."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2607344,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 293151,
+        "login": "jeeho",
+        "name": "Jeeho",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

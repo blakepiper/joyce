@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-15148145",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Ywimpled",
+  "html_source": "<p>The y- prefix is from Old/Middle English and is a way of signifying the past participle. Examples from Canterbury Tales include ybore (carried) and yfalle (fallen). It is cognate with the German prefix ge- (e.g., tragen= “to carry”; getragen = “carried”).</p><p>A wimple is a nun’s hood which covers the head and hair. I’m not sure what to make of the double markers for past tense here.</p><p><img src=\"https://images.genius.com/a1552f5107527131a66eaed3eb43832c.300x419x1.jpg\" alt=\"\" /></p><p>PROPOSED SUGGESTION: According to Miriam-Webster, in Scotland, “wimple” could mean “curve” or “bend”. So, perhaps Joyce meant that Bloom was walking with his head down?</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15148145/James-joyce-ulysses-chap-14-oxen-of-the-sun/Ywimpled",
+    "original_id": "15148145",
+    "referent_id": 15148145,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "ywimpled",
+    "prefix": "s thrice an hundred. Truest bedthanes they twain are, for Horne holding wariest ward. \n\n1986#315\n\n In ward wary the watcher hearing come that man mildhearted eft rising with swire ",
+    "suffix": " to him her gate wide undid. Lo, levin leaping lightens in eyeblink Ireland's westward welkin. Full she dread that God the Wreaker all mankind would fordo with water for his evil s",
+    "start": 5562,
+    "end": 5570,
+    "canonical_text": "ywimpled"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15148145,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 0.7967479674796748
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.2032520325203252
+      }
+    ]
+  },
+  "color": "F59627"
+}

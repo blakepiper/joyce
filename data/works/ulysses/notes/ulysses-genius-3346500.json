@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3346500",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Judge",
+  "html_source": "<p>Gifford : William Q Judge: Irish American Theosophist. he split with the others hence the <em>noblest Roman</em> quote.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3346500/James-joyce-ulysses-chap-9-scylla-and-charybdis/Judge",
+    "original_id": "3346500",
+    "referent_id": 3346500,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Judge",
+    "prefix": " Hiesos Kristos, magician of the beautiful, the Logos who suffers in us at every moment. This verily is that. I am the fire upon the altar. I am the sacrificial butter. \n\n Dunlop, ",
+    "suffix": ", the noblest Roman of them all, A.E., Arval, the Name Ineffable, in heaven hight: K.H., their master, whose identity is no secret to adepts. Brothers of the great white lodge alwa",
+    "start": 3566,
+    "end": 3571,
+    "canonical_text": "Judge"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 3346500,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

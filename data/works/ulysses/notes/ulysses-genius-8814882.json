@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8814882",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Joe Chamberlain",
+  "html_source": "<p>Joseph Chamberlain (8 July 1836 – 2 July 1914) was a British politician and statesman, who was first a radical Liberal then, after opposing Home Rule for Ireland, a Liberal Unionist, eventually serving as a leading imperialist in coalition with the Conservatives.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8814882/James-joyce-ulysses-chap-8-lestrygonians/Joe-chamberlain",
+    "original_id": "8814882",
+    "referent_id": 8814882,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Joe Chamberlain",
+    "prefix": "ce whistle in my ears still. All skedaddled. Why he fixed on me. Give me in charge. Right here it began. \n\n1932#144\n\n — Up the Boers! \n\n — Three cheers for De Wet! \n\n — We'll hang ",
+    "suffix": " on a sourapple tree. \n\n1986#133\n\n Silly billies: mob of young cubs yelling their guts out. Vinegar hill. The Butter exchange band. Few years' time half of them magistrates and civ",
+    "start": 27302,
+    "end": 27317,
+    "canonical_text": "Joe Chamberlain"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9086
+  },
+  "genius": {
+    "referent_id": 8814882,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

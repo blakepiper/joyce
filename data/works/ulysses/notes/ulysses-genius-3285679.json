@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3285679",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Vicechancellor",
+  "html_source": "<p>Ned lambert is well connected :Hedges Eyre Chatterton, a Dublin councillor/politician. The odd duvet day doesn’t bother him.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3285679/James-joyce-ulysses-chap-7-aeolus/Vicechancellor",
+    "original_id": "3285679",
+    "referent_id": 3285679,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "vicechancellor",
+    "prefix": "is other hand. \n\n High falutin stuff. Bladderbags. Ned Lambert is taking a day off I see. Rather upsets a man's day, a funeral does. He has influence they say. Old Chatterton, the ",
+    "suffix": ", is his granduncle or his greatgranduncle. Close on ninety they say. Subleader for his death written this long time perhaps. Living to spite them. Might go first himself. Johnny, ",
+    "start": 14814,
+    "end": 14828,
+    "canonical_text": "vicechancellor"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3285679,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

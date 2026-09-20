@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8544432",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "F sharp major",
+  "html_source": "<p>The answer could also be D sharp minor, which, also has six sharps. Given the maudlin mood at the bar and restaurant of the Ormond Hotel, a minor mode might have been more appropriate.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8544432/James-joyce-ulysses-chap-11-sirens/F-sharp-major",
+    "original_id": "8544432",
+    "referent_id": 8544432,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "F sharp major",
+    "prefix": "d men and true. \n\n1961#282\n\n — Do, do, they begged in one. \n\n I'll go. Here, Pat, return. Come. He came, he came, he did not stay. To me. How much? \n\n — What key? Six sharps? \n\n — ",
+    "suffix": ", Ben Dollard said. \n\n1939#206\n\n Bob Cowley's outstretched talons griped the black deepsounding chords. \n\n Must go prince Bloom told Richie prince. No, Richie said. Yes, must. Got ",
+    "start": 55805,
+    "end": 55818,
+    "canonical_text": "F sharp major"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8544432,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

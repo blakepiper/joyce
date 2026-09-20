@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3120461",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "—Mrkgnao! the cat cried",
+  "html_source": "<p>He uses Mrkgnao to replace meow so that even the smallest detail, such as a cat’s noise, shows the replacement of the traditional with the modern.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3120461/James-joyce-ulysses-chap-4-calypso/Mrkgnao-the-cat-cried",
+    "original_id": "3120461",
+    "referent_id": 3120461,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "—Mrkgnao! the cat cried",
+    "prefix": "loss of her sleek hide, the white button under the butt of her tail, the green flashing eyes. He bent down to her, his hands on his knees. \n\n — Milk for the pussens, he said. \n\n — ",
+    "suffix": ". \n\n They call them stupid. They understand what we say better than we understand them. She understands all she wants to. Vindictive too. Wonder what I look like to her. Height of ",
+    "start": 1410,
+    "end": 1432,
+    "canonical_text": "Mrkgnao! the cat cried"
+  },
+  "provenance": {
+    "match_method": "normalized-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 3120461,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 580769,
+        "login": "tommy_hogue",
+        "name": "tommy_hogue",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15149673",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Maugre",
+  "html_source": "<p>Term from the 14th c. meaning “notwithstanding” or “in spite of”.</p><p>Etymology (wiktionary):<br />From Middle English, from Anglo-Norman malgré, from mal (“bad”) + gre (“pleasure\", “grace”) (from Old French, from Latin gratum)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15149673/James-joyce-ulysses-chap-14-oxen-of-the-sun/Maugre",
+    "original_id": "15149673",
+    "referent_id": 15149673,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "maugre",
+    "prefix": " the poor lendeth 1922#372to the Lord for he was of a wild manner when he was drunken and that he was now in that taking it appeared eftsoons. \n\n But sir Leopold was passing grave ",
+    "suffix": " his word by cause he still had pity of the terrorcausing shrieking of shrill women in their labour and as he was minded of his good lady Marion that had borne him an only manchild",
+    "start": 18758,
+    "end": 18764,
+    "canonical_text": "maugre"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15149673,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

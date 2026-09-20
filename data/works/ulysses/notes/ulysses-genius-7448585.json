@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-7448585",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Frate porcospino",
+  "html_source": "<p>Italian: brother porcupine</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/7448585/James-joyce-ulysses-chap-3-proteus/Frate-porcospino",
+    "original_id": "7448585",
+    "referent_id": 7448585,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "frate porcospino",
+    "prefix": "e thy fambles, red thy gan \nAnd thy quarrons dainty is. \nCouch a hogshead with me then. \nIn the darkmans clip and kiss. \n\n1932#43\n\n Morose delectation Aquinas tunbelly calls this, ",
+    "suffix": ". Unfallen Adam rode and not rutted. Call away let him: thy quarrons dainty is. Language no whit worse than his. Monkwords, marybeads jabber on their girdles: roguewords, tough nug",
+    "start": 24844,
+    "end": 24860,
+    "canonical_text": "frate porcospino"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 7448585,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1060900,
+        "login": "dvrath",
+        "name": "dvrath",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

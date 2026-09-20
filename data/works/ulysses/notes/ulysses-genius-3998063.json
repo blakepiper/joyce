@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3998063",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Eau de Nil",
+  "html_source": "<p>What the Excellency’s wife is wearing :</p><p><img src=\"https://images.rapgenius.com/4b3389d659ddf83487a111afe0a51071.500x375x1.jpg\" alt=\"\" /></p><p>ACCEPTED SUGGESTION: Eau de Nil (French) literally means “water of the Nile.” Here, it refers to the color of the Excellancy’s wife’s robes–pale green color</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3998063/James-joyce-ulysses-chap-11-sirens/Eau-de-nil",
+    "original_id": "3998063",
+    "referent_id": 3998063,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "eau de Nil",
+    "prefix": "2#246crossblind of the Ormond bar heard the viceregal hoofs go by, ringing steel. \n\n — Is that her? asked Miss Kennedy. \n\n Miss Douce said yes, sitting with his ex, pearl grey and ",
+    "suffix": ". \n\n — Exquisite contrast, Miss Kennedy said. \n\n When all agog Miss Douce said eagerly: \n\n — Look at the fellow in the tall silk. \n\n — Who? Where? gold asked more eagerly. \n\n — In ",
+    "start": 2731,
+    "end": 2741,
+    "canonical_text": "eau de Nil"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.967
+  },
+  "genius": {
+    "referent_id": 3998063,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

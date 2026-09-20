@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10016303",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Pagoda hat",
+  "html_source": "<p><img src=\"https://images.genius.com/5acb43209be57b339eabb8ee73d830c9.500x335x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10016303/James-joyce-ulysses-chap-15-circe/Pagoda-hat",
+    "original_id": "10016303",
+    "referent_id": 10016303,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "pagoda hat",
+    "prefix": "Best enters in hairdresser's attire, shinily laundered, his locks in curlpapers. He leads John Eglinton who wears a mandarin's kimono of Nankeen yellow, lizardlettered, and a high ",
+    "suffix": ".) \n\n BEST \n\n(Smiling, lifts the hat and displays a shaven poll from the crown of which bristles a pigtail toupee tied with an orange topknot.) I was just beautifying him, don't yo",
+    "start": 112514,
+    "end": 112524,
+    "canonical_text": "pagoda hat"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10016303,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

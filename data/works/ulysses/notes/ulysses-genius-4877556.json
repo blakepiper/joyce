@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4877556",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Absit nomen!",
+  "html_source": "<p>Another example of a harmless expression that contains rather complex wordplay. First of all, <em>absit nomen!</em> (literally “let the name be absent”) is a play on <em>absit omen</em>, which is is the Latin equivalent of “Knock on wood!”. Stephen is obviously referring to some ominous meaning of the name “Myrto”. What could it be?</p><p>“Myrto” is derived from the Greek <em>Μυρτε</em>, which translates to “myrtle”. It is the name of a plant used to adorn brides in wedding ceremonies. Thus, “myrtle” has become associated with virginity.</p><p>In other words, when Stephen is saying “Myrto (absit nomen!)” he is actually making a dirty joke.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4877556/James-joyce-ulysses-chap-9-scylla-and-charybdis/Absit-nomen",
+    "original_id": "4877556",
+    "referent_id": 4877556,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "absit nomen!",
+    "prefix": " did Socrates learn from Xanthippe? \n\n1922#182\n\n — Dialectic, Stephen answered: and from his mother how to bring thoughts into the world. What he learnt from his other wife Myrto (",
+    "suffix": "), Socratididion's Epipsychidion, no man, not a woman, will ever know. But neither the midwife's lore nor the caudlelectures saved him from the archons of Sinn Fein and their naggi",
+    "start": 13117,
+    "end": 13129,
+    "canonical_text": "absit nomen!"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4877556,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1482232,
+        "login": "JayEn",
+        "name": "JayEn",
+        "role": "editor",
+        "attribution": 0.9805825242718447
+      },
+      {
+        "id": 149810,
+        "login": "perfectrhyme",
+        "name": "Perfectrhyme",
+        "role": "editor",
+        "attribution": 0.01941747572815534
+      }
+    ]
+  },
+  "color": "F59627"
+}

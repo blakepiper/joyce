@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15168851",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Potheen",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Poit%C3%ADn\" rel=\"noopener nofollow\">Potheen</a> (Irish: Poitín) is a strong alcoholic spirit made from various sugar sources, commonly potato. It is mostly illegal to sell at its higher percentages of alcohol content.</p><p><img src=\"https://images.genius.com/3a0ef9606f48db8ba1e8c0b788e8278d.623x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15168851/James-joyce-ulysses-chap-16-eumaeus/Potheen",
+    "original_id": "15168851",
+    "referent_id": 15168851,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "potheen",
+    "prefix": "calculated to freeze the marrow of anybody's bones and mauling their largesized charms betweenwhiles with rough and tumble gusto to the 1922#611accompaniment of large potations of ",
+    "suffix": " and the usual blarney about himself for as to who he in reality was let XX equal my right name and address, as Mr Algebra remarks passim. At the same time he inwardly chuckled ove",
+    "start": 113107,
+    "end": 113114,
+    "canonical_text": "potheen"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9712
+  },
+  "genius": {
+    "referent_id": 15168851,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795787",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Someone walking over it",
+  "html_source": "<p>folk legend that a sudden cold sensation was caused by someone walking over the place that one’s grave was eventually going to be. This belief is in line with the workings of people’s minds in England in the Middle Ages, in which the distinction between life and death was much less clear than we see it now.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795787/James-joyce-ulysses-chap-6-hades/Someone-walking-over-it",
+    "original_id": "8795787",
+    "referent_id": 8795787,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Someone walking over it",
+    "prefix": "ll. Nice change of air. Out of the fryingpan of life into the fire of purgatory. \n\n Does he ever think of the hole waiting for himself? They say you do when you shiver in the sun. ",
+    "suffix": ". Callboy's warning. Near you. Mine over there towards Finglas, the plot I bought. Mamma, poor mamma, and little Rudy. \n\n The gravediggers took up their spades and flung heavy clod",
+    "start": 52414,
+    "end": 52437,
+    "canonical_text": "Someone walking over it"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8795787,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

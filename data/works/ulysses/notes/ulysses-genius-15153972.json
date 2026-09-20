@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15153972",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Zermatt alpenstocks",
+  "html_source": "<p><a href=\"https://en.wikipedia.org/wiki/Zermatt\" rel=\"noopener nofollow\">Zermatt</a> is a mountaineering/resort town in the Swiss Alps. Alpenstocks are metal-tipped sticks used for climbing.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15153972/James-joyce-ulysses-chap-14-oxen-of-the-sun/Zermatt-alpenstocks",
+    "original_id": "15153972",
+    "referent_id": 15153972,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Zermatt alpenstocks",
+    "prefix": " 1922#401of all them after, cockerel, jackanapes, welsher, pilldoctor, punctual Bloom at heels with a universal grabbing at headgear, ashplants, bilbos, Panama hats and scabbards, ",
+    "suffix": " and what not. A dedale of lusty youth, noble every student 1939#303there. Nurse Callan taken aback in the hallway cannot stay them nor smiling surgeon coming downstairs with news ",
+    "start": 101279,
+    "end": 101298,
+    "canonical_text": "Zermatt alpenstocks"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15153972,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

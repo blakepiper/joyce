@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8799970",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Weathercocks",
+  "html_source": "<p>Which way is the wind blowing?</p><p><img src=\"https://images.rapgenius.com/5143864795455e3e4ed750d64218b7f8.1000x831x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8799970/James-joyce-ulysses-chap-7-aeolus/Weathercocks",
+    "original_id": "8799970",
+    "referent_id": 8799970,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Weathercocks",
+    "prefix": "rk for the Express with Gabriel Conroy. Wellread fellow. Myles Crawford began on the Independent. Funny the way those newspaper men veer about when they get wind of a new opening. ",
+    "suffix": ". Hot and cold in the same breath. Wouldn't know which to believe. One story good till you hear the next. Go for one another baldheaded in the papers and then all blows over. Hail ",
+    "start": 17082,
+    "end": 17094,
+    "canonical_text": "Weathercocks"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8799970,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

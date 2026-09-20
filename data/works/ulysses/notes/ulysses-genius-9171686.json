@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9171686",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Lord Bobs of Waterford",
+  "html_source": "<p>Field Marshal Frederick Sleigh Roberts, 1st Earl Roberts, VC, KG, KP, GCB, OM, GCSI, GCIE, KStJ, VD, PC (30 September 1832 – 14 November 1914) was a British soldier who was one of the most successful commanders of the 19th century. He served in the Indian rebellion, the Expedition to Abyssinia and the Second Anglo-Afghan War before leading British Forces to success in the Second Boer War<br />Wikipedia</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9171686/James-joyce-ulysses-chap-14-oxen-of-the-sun/Lord-bobs-of-waterford",
+    "original_id": "9171686",
+    "referent_id": 9171686,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "lord Bobs of Waterford",
+    "prefix": "ice, Frederick Albert (if he had lived), Mamy, Budgy (Victoria Frances), Tom, Violet Constance Louisa, darling little Bobsy (called after our famous hero of the South African war, ",
+    "suffix": " and Candahar) and now this last pledge of their union, a Purefoy if ever there was one, with the true Purefoy nose. Young hopeful will be christened Mortimer Edward after the infl",
+    "start": 96748,
+    "end": 96770,
+    "canonical_text": "lord Bobs of Waterford"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9171686,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

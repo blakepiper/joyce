@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-17300708",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Oxters",
+  "html_source": "<p>Armpits.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/17300708/James-joyce-ulysses-chap-15-circe/Oxters",
+    "original_id": "17300708",
+    "referent_id": 17300708,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "oxters",
+    "prefix": "1932#388\n\n CISSY CAFFREY \n\nI gave it to Molly \nBecause she was jolly, \nThe leg of the duck, \nThe leg of the duck. \n\n(Private Carr and Private Compton, swaggersticks tight in their ",
+    "suffix": ", as they march unsteadily rightaboutface and burst together from their mouths a volleyed fart. Laughter of men from the lane. A hoarse virago retorts.) \n\n THE VIRAGO \n\n Signs on y",
+    "start": 2360,
+    "end": 2366,
+    "canonical_text": "oxters"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 17300708,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 8618059,
+        "login": "solsolis",
+        "name": "solsolis",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

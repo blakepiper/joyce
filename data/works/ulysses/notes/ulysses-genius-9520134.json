@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9520134",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Frieze overcoat",
+  "html_source": "<p><img src=\"https://images.genius.com/7f50ab43335307158389ada91a406502.200x301x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9520134/James-joyce-ulysses-chap-15-circe/Frieze-overcoat",
+    "original_id": "9520134",
+    "referent_id": 9520134,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "frieze overcoat",
+    "prefix": "ou saw all the secrets of my bottom drawer. (She paws his sleeve, slobbering.) Dirty married man! I love you for doing that to me. \n\n(She glides away crookedly. Mrs Breen in man's ",
+    "suffix": " with loose 1922#420bellows pockets, stands in the causeway, her roguish eyes wideopen, smiling in all her herbivorous buckteeth.) \n\n MRS BREEN \n\n Mr... \n\n BLOOM \n\n(Coughs gravely.",
+    "start": 18289,
+    "end": 18304,
+    "canonical_text": "frieze overcoat"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9520134,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

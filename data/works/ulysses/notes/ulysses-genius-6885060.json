@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-6885060",
+  "work_id": "ulysses",
+  "chapter_id": "o0-kJZUBeQi-aLQfULNV",
+  "title": "Alacrity",
+  "html_source": "<p>Promptness, readiness, eagerness. Note the sound qualities of the word especially in the next section.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/6885060/James-joyce-ulysses-chap-11-sirens/Alacrity",
+    "original_id": "6885060",
+    "referent_id": 6885060,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-11-sirens-annotated"
+  },
+  "anchor": {
+    "text": "alacrity",
+    "prefix": "er today? \n\n — Well now, he mused, whatever you say yourself. I think I'll trouble you for some fresh water and a half glass of whisky. \n\n1986#214\n\n Jingle. \n\n — With the greatest ",
+    "suffix": ", Miss Douce agreed. \n\n With grace of alacrity towards the mirror gilt Cantrell and Cochrane's she turned herself. With grace she tapped a measure of gold whisky from her crystal k",
+    "start": 10426,
+    "end": 10434,
+    "canonical_text": "alacrity"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9513
+  },
+  "genius": {
+    "referent_id": 6885060,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1618748,
+        "login": "Kataryna",
+        "name": "Kataryna",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

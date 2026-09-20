@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4846934",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Diebus ac noctibus iniurias patiens ingemiscit.",
+  "html_source": "<p>Days and nights it [Creation] sighs patiently over injustices.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4846934/James-joyce-ulysses-chap-3-proteus/Diebus-ac-noctibus-iniurias-patiens-ingemiscit",
+    "original_id": "4846934",
+    "referent_id": 4846934,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "diebus ac noctibus iniurias patiens ingemiscit.",
+    "prefix": "5lifted, flooded and let fall. Lord, they are weary; and, whispered to, they sigh. Saint Ambrose heard it, sigh of leaves and waves, waiting, awaiting the fullness of their times, ",
+    "suffix": " To no end gathered; vainly then released, forth 1961#49flowing, wending back: loom of the moon. Weary too in sight of lovers, lascivious men, a naked woman shining in her courts, ",
+    "start": 30440,
+    "end": 30487,
+    "canonical_text": "diebus ac noctibus iniurias patiens ingemiscit."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4846934,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1492497,
+        "login": "NilsARaknerud",
+        "name": "NilsARaknerud",
+        "role": null,
+        "attribution": 0.6428571428571429
+      },
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 0.35714285714285715
+      }
+    ]
+  },
+  "color": "F59627"
+}

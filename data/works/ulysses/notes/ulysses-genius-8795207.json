@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8795207",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Saint Werburgh",
+  "html_source": "<p>St. Werburgh’s Church is a Church of Ireland church in Dublin, Ireland, and was built in 1178, shortly after the arrival of the Anglo-Normans in the town, and named after St. Werburgh, abbess of Ely and patron saint of Chester who died in 699 AD. It is located in Werburgh Street, close to Dublin Castle. Sir Philip Hoey, a clergyman attached at one time to St Werburgh’s church, left a sum of money to purchase an organ. It was built by Millars of College Street and first publicly performed in June 1768.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8795207/James-joyce-ulysses-chap-6-hades/Saint-werburgh",
+    "original_id": "8795207",
+    "referent_id": 8795207,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "saint Werburgh",
+    "prefix": " bad gas. Must be an infernal lot of bad gas round the place. Butchers, for instance: they get like1961#103 raw beefsteaks. Who was telling me? Mervyn Brown. Down in the vaults of ",
+    "suffix": "'s lovely old organ hundred and fifty they have to bore a hole in the coffins1986#85 sometimes to let out the bad gas and burn it. Out it rushes: blue. One whiff of that and you're",
+    "start": 36316,
+    "end": 36330,
+    "canonical_text": "saint Werburgh"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8795207,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

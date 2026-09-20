@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23885631",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "And",
+  "html_source": "<p>I’m cautious and sober so I’ll look after them in there.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23885631/James-joyce-ulysses-chap-14-oxen-of-the-sun/And",
+    "original_id": "23885631",
+    "referent_id": 23885631,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "And",
+    "prefix": "ich he did do make a salve of volatile salt and chrism as much as he might suffice. And he said now that he should go into that castle for to make merry with them that were there. ",
+    "suffix": " the traveller Leopold said that he should go otherwhither for he was a man of cautels and a subtile. Also the lady was of his avis and repreved the learningknight though she trowe",
+    "start": 9109,
+    "end": 9112,
+    "canonical_text": "And"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 23885631,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

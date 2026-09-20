@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11205246",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Lord Fauntleroy suit",
+  "html_source": "<p><img src=\"https://images.genius.com/18f809dc04f3d21f0ee9abb4ae7802bc.556x798x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11205246/James-joyce-ulysses-chap-18-penelope/Lord-fauntleroy-suit",
+    "original_id": "11205246",
+    "referent_id": 11205246,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "lord Fauntleroy suit",
+    "prefix": "one thing nor the other  of course he insisted hed go into mourning for the cat I suppose hes a man now by this time he was an innocent boy then and a darling little fellow in his ",
+    "suffix": " 1932#674and curly hair like a prince on the stage when I saw him at Mat Dillons he liked me too I remember they all do wait by God yes wait yes hold on he was on the cards this mo",
+    "start": 97457,
+    "end": 97477,
+    "canonical_text": "lord Fauntleroy suit"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11205246,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

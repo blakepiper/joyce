@@ -1,0 +1,56 @@
+{
+  "id": "ulysses-genius-1382160",
+  "work_id": "ulysses",
+  "chapter_id": "nU-kJZUBeQi-aLQfULNV",
+  "title": "Dear Henry",
+  "html_source": "<p>Our hero Leopold <strong>Bloom’s</strong> pseudonym is Henry <strong>Flower.</strong></p><p>PROPOSED SUGGESTION: Already annotated earlier</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1382160/James-joyce-ulysses-chap-5-lotus-eaters/Dear-henry",
+    "original_id": "1382160",
+    "referent_id": 1382160,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-5-lotus-eaters-annotated"
+  },
+  "anchor": {
+    "text": "Dear Henry",
+    "prefix": "s Ellis's. And Mr? He opened the letter within the newspaper. \n\n A flower. I think it's a. A yellow flower with flattened petals. Not annoyed then? What does she say? \n\n1939#59\n\n \n",
+    "suffix": ", \n\n\n I got your last letter to me and thank you very much for it. I am sorry you did not like my last letter. Why did you enclose the stamps? I am awfully angry with you. I do wis",
+    "start": 14737,
+    "end": 14747,
+    "canonical_text": "Dear Henry"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.948
+  },
+  "genius": {
+    "referent_id": 1382160,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 3756868,
+        "login": "JustinClarke",
+        "name": "JustinClarke",
+        "role": "contributor",
+        "attribution": 0.4444444444444444
+      },
+      {
+        "id": 68632,
+        "login": "SvenTheVegabond",
+        "name": "SvenTheVegabond",
+        "role": "contributor",
+        "attribution": 0.4444444444444444
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.1111111111111111
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11204975",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Goodbye sweetheart",
+  "html_source": "<p><a href=\"https://www.youtube.com/watch?v=60M-i-heMOg\" rel=\"noopener nofollow\">https://www.youtube.com/watch?v=60M-i-heMOg</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11204975/James-joyce-ulysses-chap-18-penelope/Goodbye-sweetheart",
+    "original_id": "11204975",
+    "referent_id": 11204975,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "goodbye sweetheart",
+    "prefix": "the maiden on the hawthorn bough he was always on for flirtyfying too when I sang Maritana with him at Freddy Mayers private opera he had a delicious glorious voice Phoebe dearest ",
+    "suffix": " sweetheart he always sang it not like Bartell Darcy 1986#636sweet tart goodbye of course he had the gift of the voice so there was no art in it all over you like a warm showerbath",
+    "start": 96273,
+    "end": 96291,
+    "canonical_text": "goodbye sweetheart"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11204975,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

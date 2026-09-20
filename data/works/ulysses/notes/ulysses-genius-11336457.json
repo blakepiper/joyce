@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11336457",
+  "work_id": "ulysses",
+  "chapter_id": "qk-kJZUBeQi-aLQfULNV",
+  "title": "Devils gap steps",
+  "html_source": "<p>Devil’s Gap Footpath links Gibraltar’s Upper Town to Devil’s Gap Battery</p><p><a href=\"https://en.wikipedia.org/wiki/Footpaths_of_Gibraltar#Devil.27s_Gap_Footpath\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Footpaths_of_Gibraltar#Devil.27s_Gap_Footpath</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11336457/James-joyce-ulysses-chap-18-penelope/Devils-gap-steps",
+    "original_id": "11336457",
+    "referent_id": 11336457,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-18-penelope-annotated"
+  },
+  "anchor": {
+    "text": "devils gap steps",
+    "prefix": "name Id go and drown myself in the first river if I had a name like her O my and all the bits of streets Paradise ramp and Bedlam ramp and Rodgers ramp and Crutchetts ramp and the ",
+    "suffix": " well small blame to me if I am a harumscarum I know I am a bit I declare to God I dont feel a day older than then I wonder could I get my tongue round any of the Spanish como esta",
+    "start": 109198,
+    "end": 109214,
+    "canonical_text": "devils gap steps"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11336457,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10016159",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Creole Sue",
+  "html_source": "<p><a href=\"http://www.loc.gov/jukebox/recordings/detail/id/7531/\" rel=\"noopener nofollow\">http://www.loc.gov/jukebox/recordings/detail/id/7531/</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10016159/James-joyce-ulysses-chap-15-circe/Creole-sue",
+    "original_id": "10016159",
+    "referent_id": 10016159,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Creole Sue",
+    "prefix": " he is seen, vergerfaced, above a rostrum about which the banner of old glory is draped. He thumps the parapet.) \n\n ELIJAH \n\n No yapping, if you please, in this booth. Jake Crane, ",
+    "suffix": ", Dove Campbell, Abe Kirschner, do your coughing with your mouths shut. Say, I am operating all this trunk line. Boys, do it now. God's time is 12.25. Tell mother you'll be there. ",
+    "start": 108970,
+    "end": 108980,
+    "canonical_text": "Creole Sue"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10016159,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

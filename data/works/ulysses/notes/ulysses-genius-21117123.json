@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21117123",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "The ghost and the prince",
+  "html_source": "<p>The ghost of the dead king and the troubled prince are both named Hamlet. Eglinton’s opinion is that all of Shakespeare’s characters are expressions of aspects of Shakespeare’s self.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21117123/James-joyce-ulysses-chap-9-scylla-and-charybdis/The-ghost-and-the-prince",
+    "original_id": "21117123",
+    "referent_id": 21117123,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "the ghost and the prince",
+    "prefix": " the other plays which I have not read. \n\n1939#155\n\n He laughed to free his mind from his mind's bondage. \n\n Judge Eglinton summed up. \n\n — The truth is midway, he affirmed. He is ",
+    "suffix": ". He is all in all. \n\n — He is, Stephen said. The boy of act one is the mature man of act five. All in all. In Cymbeline, in Othello he is bawd and cuckold. He acts and is acted on",
+    "start": 59038,
+    "end": 59062,
+    "canonical_text": "the ghost and the prince"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21117123,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

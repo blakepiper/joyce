@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10517088",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Steam tram",
+  "html_source": "<p><a href=\"http://www.stthomasjobstown.com/web_pages/LH03.html\" rel=\"noopener nofollow\">http://www.stthomasjobstown.com/web_pages/LH03.html</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10517088/James-joyce-ulysses-chap-16-eumaeus/Steam-tram",
+    "original_id": "10517088",
+    "referent_id": 10517088,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "steam tram",
+    "prefix": "rejuvenation, offering a plethora of attractions as well as a bracing tonic for the system in and around Dublin and its picturesque environs even, Poulaphouca to which there was a ",
+    "suffix": ", but also farther away from the madding crowd in Wicklow, rightly termed the garden of Ireland, an ideal neighbourhood for elderly wheelmen so long as it didn't come down, and in ",
+    "start": 37035,
+    "end": 37045,
+    "canonical_text": "steam tram"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10517088,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

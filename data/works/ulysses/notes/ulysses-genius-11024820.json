@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-11024820",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Dreadful catastrophe in New York",
+  "html_source": "<p><img src=\"https://images.genius.com/585678b32d9ba94264e4af4b2afdf438.469x760x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/11024820/James-joyce-ulysses-chap-10-wandering-rocks/Dreadful-catastrophe-in-new-york",
+    "original_id": "11024820",
+    "referent_id": 11024820,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "dreadful catastrophe in New York",
+    "prefix": "William Gallagher and perceived the odours that came from baconflitches and ample cools of butter. He passed Grogan's the Tobacconist against which newsboards leaned and told of a ",
+    "suffix": ". In America those things were continually happening. Unfortunate people to die like that, unprepared. Still, an act of perfect contrition. \n\n1939#1621932#198\n\n Father Conmee went ",
+    "start": 5560,
+    "end": 5592,
+    "canonical_text": "dreadful catastrophe in New York"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 11024820,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 4017165,
+        "login": "KevinFoy",
+        "name": "KevinFoy",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-38690438",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Old Monks, the dayfather.",
+  "html_source": "<p>The oldest printer in the printing house. For more info: <a href=\"https://www.jjon.org/jioyce-s-people/monks\" rel=\"noopener nofollow\">https://www.jjon.org/jioyce-s-people/monks</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/38690438/James-joyce-ulysses-chap-7-aeolus/Old-monks-the-dayfather",
+    "original_id": "38690438",
+    "referent_id": 38690438,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Old Monks, the dayfather.",
+    "prefix": " good idea: horseshow month. Ballsbridge. Tourists over for the show. \n\n1922#117\n\n A DAYFATHER \n\n He walked on through the caseroom passing an old man, bowed, spectacled, aproned. ",
+    "suffix": " Queer lot of stuff he must have put through his hands in his time: obituary notices, pubs' ads, speeches, divorce suits, found drowned. Nearing the end of his tether now. Sober se",
+    "start": 10880,
+    "end": 10905,
+    "canonical_text": "Old Monks, the dayfather."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 38690438,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 23750768,
+        "login": "MardouFox",
+        "name": "MardouFox",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

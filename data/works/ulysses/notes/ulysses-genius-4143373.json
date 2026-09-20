@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-4143373",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "On the spindle side",
+  "html_source": "<p>Also known as the “distaff side”, the spindle side refers to the female line of descent of a family. The male side would be spear.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4143373/James-joyce-ulysses-chap-2-nestor/On-the-spindle-side",
+    "original_id": "4143373",
+    "referent_id": 4143373,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "On the spindle side",
+    "prefix": "d and armed, the planters' covenant. The black north and true blue bible. Croppies lie down. \n\n Stephen sketched a brief gesture. \n\n — I have rebel blood in me too, Mr Deasy said. ",
+    "suffix": ". But I am descended from sir John Blackwood who voted for the union. We are all Irish, all kings' sons. \n\n — Alas, Stephen said. \n\n — Per vias rectas, Mr Deasy said firmly, was hi",
+    "start": 15636,
+    "end": 15655,
+    "canonical_text": "On the spindle side"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4143373,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1209714,
+        "login": "AlexBeston",
+        "name": "AlexBeston",
+        "role": "contributor",
+        "attribution": 0.56
+      },
+      {
+        "id": 1,
+        "login": "LEMON",
+        "name": "Tom Lehman",
+        "role": "staff",
+        "attribution": 0.44
+      }
+    ]
+  },
+  "color": "F59627"
+}

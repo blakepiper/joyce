@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23609309",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Deterrent effect",
+  "html_source": "<p>Bloom and the Citizen are described by the narrator of debating whether capital punishment is morally justifiable because the fear of the punishment deters people from committing crimes.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23609309/James-joyce-ulysses-chap-12-cyclops/Deterrent-effect",
+    "original_id": "23609309",
+    "referent_id": 23609309,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "deterrent effect",
+    "prefix": "the codology of the business and the old dog smelling him all the time I'm told those jewies does have a sort of a queer odour coming off them for dogs about I don't know what all ",
+    "suffix": " and so forth and so on. \n\n1939#221\n\n — There's one thing it hasn't a deterrent effect on, says Alf. \n\n — What's that? says Joe. \n\n — The poor bugger's tool that's being hanged, sa",
+    "start": 28155,
+    "end": 28171,
+    "canonical_text": "deterrent effect"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9453
+  },
+  "genius": {
+    "referent_id": 23609309,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

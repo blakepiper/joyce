@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4636646",
+  "work_id": "ulysses",
+  "chapter_id": "nE-kJZUBeQi-aLQfULNV",
+  "title": "Rudy",
+  "html_source": "<p>Bloom and Molly’s son Rudy died soon after birth. Bloom still thinks of him often and has not been able to enjoy a normal sex life in the ten or eleven years since Rudy died.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4636646/James-joyce-ulysses-chap-4-calypso/Rudy",
+    "original_id": "4636646",
+    "referent_id": 4636646,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-4-calypso-annotated"
+  },
+  "anchor": {
+    "text": "Rudy",
+    "prefix": " she was born, running to knock up Mrs Thornton in Denzille street.1932#58 Jolly old woman. Lots of babies she must have helped into the world. She knew from the first poor little ",
+    "suffix": " wouldn't live. Well, God is good, sir. She knew at once. He would be eleven now if he had lived. \n\n His vacant face stared pitying at the postscript. Excuse bad writing. Hurry. Pi",
+    "start": 25752,
+    "end": 25756,
+    "canonical_text": "Rudy"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4636646,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1324776,
+        "login": "GBDiscussion",
+        "name": "GBDiscussion",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-2470559",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Poxy bowsy",
+  "html_source": "<p>It’s used as a generalised insult for a “low life”, guttersnipe etc. Probably deriving from “boozy”, it’s often heard in combination e.g. “Ye poxy bowsy”.</p><p>Most used in Dublin but understood all over the country.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/2470559/James-joyce-ulysses-chap-1-telemachus/Poxy-bowsy",
+    "original_id": "2470559",
+    "referent_id": 2470559,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "poxy bowsy",
+    "prefix": "fit well enough, Stephen answered. \n\n Buck Mulligan attacked the hollow beneath his underlip. \n\n — The mockery of it, he said contentedly. Secondleg they should be. God knows what ",
+    "suffix": " left them off. I have a lovely pair with a hair stripe, grey. You'll look spiffing in them. I'm not joking, Kinch. You look damn well when you're dressed. \n\n — Thanks, Stephen sai",
+    "start": 6840,
+    "end": 6850,
+    "canonical_text": "poxy bowsy"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 2470559,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 257607,
+        "login": "ButterflyPimp",
+        "name": "Professor Frost",
+        "role": "contributor",
+        "attribution": 0.9444444444444444
+      },
+      {
+        "id": 171793,
+        "login": "stephen_j_p",
+        "name": "Stephen Pringle",
+        "role": "editor",
+        "attribution": 0.05555555555555555
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10858896",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Useful Ready Reckoner",
+  "html_source": "<p><a href=\"https://archive.org/details/readyreckonerort00fenn\" rel=\"noopener nofollow\">https://archive.org/details/readyreckonerort00fenn</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10858896/James-joyce-ulysses-chap-17-ithaca/Useful-ready-reckoner",
+    "original_id": "10858896",
+    "referent_id": 10858896,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Useful Ready Reckoner",
+    "prefix": "blin Post Office Directory, 1886.922#660\nDenis Florence M'Carthy's Poetical Works (copper beechleaf bookmark at p. 5).\nShakespeare's Works (dark crimson morocco, goldtooled). \nThe ",
+    "suffix": " (brown cloth).\nThe Secret History of the Court of Charles II (red cloth, tooled binding). \nThe Child's Guide (blue cloth). \nWhen We Were Boys by William O'Brien M. P. (green cloth",
+    "start": 86537,
+    "end": 86558,
+    "canonical_text": "Useful Ready Reckoner"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10858896,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

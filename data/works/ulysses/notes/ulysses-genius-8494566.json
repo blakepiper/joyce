@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8494566",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "The",
+  "html_source": "<p>Episode 15 begins.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8494566/James-joyce-ulysses-chap-10-wandering-rocks/The",
+    "original_id": "8494566",
+    "referent_id": 8494566,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "The",
+    "prefix": "oldly forward, linked to his bulk. \n\n1922#235\n\n — Filberts I believe they were, Mr Dedalus said, as he dropped his glasses on his coatfront, following them. \n\n*\n*  *\n\n1961#245\n\n — ",
+    "suffix": " youngster will be all right, Martin Cunningham said, as they passed out of the Castleyard gate. \n\n The policeman touched his forehead. \n\n — God bless you, Martin Cunningham said, ",
+    "start": 55019,
+    "end": 55022,
+    "canonical_text": "The"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9009
+  },
+  "genius": {
+    "referent_id": 8494566,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

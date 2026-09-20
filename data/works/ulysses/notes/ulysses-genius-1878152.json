@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1878152",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Every little Irishman’s house is his castle",
+  "html_source": "<p>A play on the phrase ‘Every Englishman’s Home is his Castle’.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1878152/James-joyce-ulysses-chap-13-nausicaa/Every-little-irishmans-house-is-his-castle",
+    "original_id": "1878152",
+    "referent_id": 1878152,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "every little Irishman's house is his castle",
+    "prefix": "at it was to be architecturally improved by a frontdoor like the Martello tower had. But if Master Tommy was headstrong Master Jacky was selfwilled too and, true to the maxim that ",
+    "suffix": ", he fell upon his hated rival and to such purpose that the wouldbe assailant came to grief and (alas to relate!) the coveted castle too. Needless to say the cries of discomfited M",
+    "start": 3144,
+    "end": 3187,
+    "canonical_text": "every little Irishman's house is his castle"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1878152,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 211351,
+        "login": "prepski",
+        "name": "prepski",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

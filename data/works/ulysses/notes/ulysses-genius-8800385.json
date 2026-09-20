@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8800385",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Thanky vous",
+  "html_source": "<p>franglais    noun<br />informal a humorous language that mixes French and English</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8800385/James-joyce-ulysses-chap-7-aeolus/Thanky-vous",
+    "original_id": "8800385",
+    "referent_id": 8800385,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Thanky vous",
+    "prefix": " the professor and took one himself. Lenehan promptly struck a match for them and lit their cigarettes in turn. J. J. O'Molloy opened his case again and offered it. \n\n1922#125\n\n — ",
+    "suffix": ", Lenehan said, helping himself. \n\n1939#97\n\n The editor came from the inner office, a straw hat awry on his brow. 1932#116He declaimed in song, pointing sternly at professor MacHug",
+    "start": 25721,
+    "end": 25732,
+    "canonical_text": "Thanky vous"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8800385,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

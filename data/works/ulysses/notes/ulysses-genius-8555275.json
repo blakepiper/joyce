@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8555275",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Cruiskeen lawn",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/403a91e76f1babc4145d646ab8ef4f2d.300x400x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8555275/James-joyce-ulysses-chap-12-cyclops/Cruiskeen-lawn",
+    "original_id": "8555275",
+    "referent_id": 8555275,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "cruiskeen lawn",
+    "prefix": " confab with himself and that bloody mangy mongrel, Garryowen, and he waiting for what the sky would drop in the way of drink. \n\n — There he is, says I, in his gloryhole, with his ",
+    "suffix": " and his load of papers, working for the cause. \n\n The bloody mongrel let a grouse out of him would give you the creeps. Be a corporal work of mercy if someone would take the life ",
+    "start": 8127,
+    "end": 8141,
+    "canonical_text": "cruiskeen lawn"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8555275,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1376638,
+        "login": "BillGibbons",
+        "name": "BillGibbons",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

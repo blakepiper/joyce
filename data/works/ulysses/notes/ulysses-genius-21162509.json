@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21162509",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Sweat of monks",
+  "html_source": "<p>Here Mulligan is insultingly referencing attempts by the Church to censor certain theatrical works.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21162509/James-joyce-ulysses-chap-9-scylla-and-charybdis/Sweat-of-monks",
+    "original_id": "21162509",
+    "referent_id": 21162509,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "sweat of monks",
+    "prefix": " We went over to their playbox, Haines and I, the plumbers' hall. Our players are creating a new art for Europe like the Greeks or M. Maeterlinck. Abbey Theatre! I smell the pubic ",
+    "suffix": ". \n\n He spat blank. \n\n Forgot: any more than he forgot the whipping lousy Lucy gave him. And left the femme de trente ans. And why no other children born? And his first child a gir",
+    "start": 65570,
+    "end": 65584,
+    "canonical_text": "sweat of monks"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21162509,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

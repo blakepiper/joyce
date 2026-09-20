@@ -1,0 +1,49 @@
+{
+  "id": "ulysses-genius-3098950",
+  "work_id": "ulysses",
+  "chapter_id": "m0-kJZUBeQi-aLQfULNV",
+  "title": "Mananaan",
+  "html_source": "<p><a href=\"http://www.princeton.edu/~achaney/tmve/wiki100k/docs/Manann%C3%A1n_mac_Lir.html\" rel=\"noopener nofollow\">Irish/Welsh/Cornish sea deity</a> who gives his name to the Isle of Man and Anglesey (also known as Ynys Mon).</p><p><img src=\"https://images.rapgenius.com/20e9f002a659ab1f0337b7a996d3350e.150x180x1.jpg\" alt=\"\" /></p><p>Resurfaces in ‘Scylla and Charybdis’ in Stephen’s internal narrative.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3098950/James-joyce-ulysses-chap-3-proteus/Mananaan",
+    "original_id": "3098950",
+    "referent_id": 3098950,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-3-proteus-annotated"
+  },
+  "anchor": {
+    "text": "Mananaan",
+    "prefix": "mophorion, with clotted hinderparts. \n\n Airs romped round him, nipping and eager airs. They are coming, waves. The whitemaned seahorses, champing, brightwindbridled, the steeds of ",
+    "suffix": ". \n\n I mustn't forget his letter for the press. And after? The Ship, half twelve. By the way go easy with that money like a good young imbecile. Yes, I must. \n\n His pace slackened.",
+    "start": 3680,
+    "end": 3688,
+    "canonical_text": "Mananaan"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3098950,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 170881,
+        "login": "Abraxas01",
+        "name": "Abraxas01",
+        "role": "editor",
+        "attribution": 0.6833333333333332
+      },
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 0.31666666666666665
+      }
+    ]
+  },
+  "color": "F59627"
+}

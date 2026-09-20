@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8877336",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Red flower in a toff’s mouth",
+  "html_source": "<p>Blazes Boylan after he left the fruit shop where he bought a red flower</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8877336/James-joyce-ulysses-chap-10-wandering-rocks/Red-flower-in-a-toffs-mouth",
+    "original_id": "8877336",
+    "referent_id": 8877336,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "red flower in a toff's mouth",
+    "prefix": "dle of next week, man. But the best pucker for science was Jem Corbet before Fitzsimons knocked the stuffings out of him, dodging and all. \n\n In Grafton street Master Dignam saw a ",
+    "suffix": " and a swell pair of kicks on him and he listening to what the drunk was telling him and grinning all the time. \n\n No Sandymount tram. \n\n Master Dignam walked along Nassau street, ",
+    "start": 66232,
+    "end": 66260,
+    "canonical_text": "red flower in a toff's mouth"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8877336,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8813732",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Dunsink time",
+  "html_source": "<p>On August 2nd 1880, the official time in Ireland was set to be Dublin Mean Time. This was administered from Dunsink Observatory to the northwest of Dublin city.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8813732/James-joyce-ulysses-chap-8-lestrygonians/Dunsink-time",
+    "original_id": "8813732",
+    "referent_id": 8813732,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Dunsink time",
+    "prefix": "I don't believe it. He wouldn't surely? \n\n No, no. \n\n Mr Bloom moved forward raising his troubled eyes. Think no more about that. After one. Timeball on the ballastoffice is down. ",
+    "suffix": ". Fascinating little book that is of sir Robert Ball's. Parallax. I never exactly understood. There's a priest. Could ask him. Par it's Greek: parallel, parallax. Met him pike hose",
+    "start": 6510,
+    "end": 6522,
+    "canonical_text": "Dunsink time"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8813732,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

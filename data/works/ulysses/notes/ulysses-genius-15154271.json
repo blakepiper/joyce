@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15154271",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Laetabuntur in cubilibus suis",
+  "html_source": "<p>Latin for “They shall rejoice in their beds.” This is an adaptation of Psalms 149:5,<br />Exultabunt sancti in gloria; laudabunt in cubilibus suis. (The saints shall exult in glory: they shall praise in their beds.)</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15154271/James-joyce-ulysses-chap-14-oxen-of-the-sun/Laetabuntur-in-cubilibus-suis",
+    "original_id": "15154271",
+    "referent_id": 15154271,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Laetabuntur in cubilibus suis",
+    "prefix": "ce. Pflaaaap! \n\n Lynch! Hey? Sign on long o me. Denzille lane this way. Change here for Bawdyhouse. We two, she said, will seek the kips where shady Mary is. Righto, any old time. ",
+    "suffix": ". You coming long? Whisper, who the sooty hell's the johnny in the black duds? Hush! Sinned against the light and even now that day is at hand when he shall come to judge the world",
+    "start": 113960,
+    "end": 113989,
+    "canonical_text": "Laetabuntur in cubilibus suis"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15154271,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

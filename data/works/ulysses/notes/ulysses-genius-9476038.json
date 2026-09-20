@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9476038",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Yashmak",
+  "html_source": "<p><img src=\"https://images.genius.com/de333ea1a7e63aa61bb87e40c5e6f166.200x248x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9476038/James-joyce-ulysses-chap-15-circe/Yashmak",
+    "original_id": "9476038",
+    "referent_id": 9476038,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "yashmak",
+    "prefix": "dsome woman in Turkish costume stands before him. Opulent curves fill out her scarlet 1922#417trousers and jacket, slashed with gold. A wide yellow cummerbund girdles her. A white ",
+    "suffix": ", violet in the night, covers her face, leaving free only her large dark eyes and raven hair.) \n\n BLOOM \n\n Molly! \n\n MARION \n\n Welly? Mrs Marion from this out, my dear man, when yo",
+    "start": 14383,
+    "end": 14390,
+    "canonical_text": "yashmak"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9476038,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

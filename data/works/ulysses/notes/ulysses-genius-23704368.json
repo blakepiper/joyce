@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23704368",
+  "work_id": "ulysses",
+  "chapter_id": "p0-kJZUBeQi-aLQfULNV",
+  "title": "Way for the parson",
+  "html_source": "<p>Private Compton may be joking that Stephen, in his Latin Quarter hat and black clothes, looks like a parson.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23704368/James-joyce-ulysses-chap-15-circe/Way-for-the-parson",
+    "original_id": "23704368",
+    "referent_id": 23704368,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-15-circe-annotated"
+  },
+  "anchor": {
+    "text": "Way for the parson",
+    "prefix": "k sockets of caps on their blond cropped polls. Stephen Dedalus and Lynch pass through the crowd close to the redcoats.) \n\n1986#3511961#430\n\n PRIVATE COMPTON \n\n(Jerks his finger.) ",
+    "suffix": ". \n\n PRIVATE CARR \n\n(Turns and calls.) What ho, parson! \n\n CISSY CAFFREY \n\n(Her voice soaring higher.) \n\nShe has it, she got it, \nWherever she put it, \nThe leg of the duck. \n\n1939#",
+    "start": 3054,
+    "end": 3072,
+    "canonical_text": "Way for the parson"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23704368,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

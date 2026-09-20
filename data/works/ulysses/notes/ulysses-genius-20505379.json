@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20505379",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Silver threads among the grey",
+  "html_source": "<p>A corrupted quote to the song “Silver Threads Among the Gold” (1873)</p><p><a href=\"https://en.wikipedia.org/wiki/Silver_Threads_Among_the_Gold\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Silver_Threads_Among_the_Gold</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20505379/James-joyce-ulysses-chap-6-hades/Silver-threads-among-the-grey",
+    "original_id": "20505379",
+    "referent_id": 20505379,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Silver threads among the grey",
+    "prefix": "e it's not chucked 1922#103in the dead letter office. Be the better of a shave. Grey sprouting beard. That's the first sign when the hairs come out grey. And temper getting cross. ",
+    "suffix": ". Fancy being his wife. Wonder1961#107 how he had the gumption to propose to any girl. Come out and live in the graveyard. Dangle that before her. It might thrill her first. Courti",
+    "start": 44524,
+    "end": 44553,
+    "canonical_text": "Silver threads among the grey"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20505379,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

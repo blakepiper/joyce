@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13973938",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Glint",
+  "html_source": "<p>glint – Slang for a look or<br />glance.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13973938/James-joyce-ulysses-chap-14-oxen-of-the-sun/Glint",
+    "original_id": "13973938",
+    "referent_id": 13973938,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "glint",
+    "prefix": ". Au reservoir, mossoo. Tanks you. \n\n1922#404\n\n 'Tis, sure. What say? In the speakeasy. Tight. I shee you, shir. Bantam, two days teetee. Bowsing nowt but claretwine. Garn! Have a ",
+    "suffix": ", do. Gum, I'm jiggered. And been to barber he have. Too full for words. With a railway bloke. How come you so? Opera he'd like? Rose of Castile. Rows of cast. Police! Some H2O for",
+    "start": 109437,
+    "end": 109442,
+    "canonical_text": "glint"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13973938,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

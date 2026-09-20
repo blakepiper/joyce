@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-17404098",
+  "work_id": "ulysses",
+  "chapter_id": "mk-kJZUBeQi-aLQfULNV",
+  "title": "A coughball of laughter leaped from his throat dragging after it a rattling chain of phlegm",
+  "html_source": "<p>Happy Bloom’s day, y'all!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/17404098/James-joyce-ulysses-chap-2-nestor/A-coughball-of-laughter-leaped-from-his-throat-dragging-after-it-a-rattling-chain-of-phlegm",
+    "original_id": "17404098",
+    "referent_id": 17404098,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-2-nestor-annotated"
+  },
+  "anchor": {
+    "text": "A coughball of laughter leaped from his throat dragging after it a rattling chain of phlegm",
+    "prefix": "And do you know why? \n\n He frowned sternly on the bright air. \n\n — Why, sir? Stephen asked, beginning to smile. \n\n — Because she never let them in, Mr Deasy said solemnly.1932#33\n\n",
+    "suffix": ". He turned back quickly, coughing, laughing, his lifted arms waving to the air. \n\n — She never let them in, he cried again through his laughter as he stamped on gaitered feet over",
+    "start": 25380,
+    "end": 25471,
+    "canonical_text": "A coughball of laughter leaped from his throat dragging after it a rattling chain of phlegm"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 17404098,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

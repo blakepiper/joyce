@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-21139101",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "Eclecticon",
+  "html_source": "<p>Stephen (Joyce?) embeds eclectic into Eglinton’s surname.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/21139101/James-joyce-ulysses-chap-9-scylla-and-charybdis/Eclecticon",
+    "original_id": "21139101",
+    "referent_id": 21139101,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "Eclecticon",
+    "prefix": "said promptly. \n\n1939#156\n\n — Are you going to write it? Mr Best asked. You ought to make it a dialogue, don't you know, like the Platonic dialogues Wilde wrote. \n\n1986#175\n\n John ",
+    "suffix": " doubly smiled. \n\n — Well, in that case, he said, I don't see why you should expect payment for it since you don't believe it yourself. Dowden believes there is some mystery in Ham",
+    "start": 62347,
+    "end": 62357,
+    "canonical_text": "Eclecticon"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 21139101,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

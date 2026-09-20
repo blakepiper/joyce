@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8231077",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "The Woman in White",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/568eadd1516422dc1302f7704fa64864.406x600x1.jpg\" alt=\"\" /></p><p>1904 Routledge paperback<br />(<a href=\"http://www.wilkie-collins.info/books_woman_white.htm\" rel=\"noopener nofollow\">http://www.wilkie-collins.info/books_woman_white.htm</a>)<br />1860 novel by Wilkie Collins</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8231077/James-joyce-ulysses-chap-10-wandering-rocks/The-woman-in-white",
+    "original_id": "8231077",
+    "referent_id": 8231077,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "The Woman in White",
+    "prefix": "tted,932#205 signalling in vain among the rout of barekneed gillies smuggling implements of music through Trinity gates. \n\n*\n*  *\n\n Miss Dunne hid the Capel street library copy of ",
+    "suffix": " far back in her drawer and rolled a sheet of gaudy notepaper into her typewriter. \n\n Too much mystery business in it. Is he in love with that one, Marion? Change it and get anothe",
+    "start": 20954,
+    "end": 20972,
+    "canonical_text": "The Woman in White"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8231077,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1520984,
+        "login": "RedSwanHotel",
+        "name": "RedSwanHotel",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

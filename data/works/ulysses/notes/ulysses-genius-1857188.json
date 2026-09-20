@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-1857188",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Falconer’s railway guide,",
+  "html_source": "<p><em>Falconer’s Railway, Coach, Car and Steam Navigation Guide for Ireland</em> was a … well, it speaks for itself. Bizarrely, it’s <a href=\"http://www.amazon.co.uk/Falconers-Railway-Coach-Navigation-Ireland/dp/1236124154\" rel=\"noopener nofollow\">still in print</a>.</p><p><img src=\"https://images.genius.com/755dc6c7eca782a3b5f4b8eba80c6f7c.300x385x1.png\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/1857188/James-joyce-ulysses-chap-6-hades/Falconers-railway-guide",
+    "original_id": "1857188",
+    "referent_id": 1857188,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Falconer's railway guide,",
+    "prefix": ". \n\n — No suffering, he said. A moment and all is over. Like dying in sleep. \n\n No-one spoke. \n\n Dead side of the street this. Dull business by day, land agents, temperance hotel, ",
+    "suffix": " civil service college, Gill's, catholic club, the industrious blind. Why? Some reason. Sun or wind. At night too. Chummies and slaveys. Under the patronage of the late Father Math",
+    "start": 18202,
+    "end": 18227,
+    "canonical_text": "Falconer's railway guide,"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 1857188,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 48446,
+        "login": "Twite",
+        "name": "Tom White",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

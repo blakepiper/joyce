@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15165404",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Aperient",
+  "html_source": "<p>A term meaning “aiding in the relief of constipation”.<br />First used in early 17th century: From Latin aperient- ‘opening,’ from aperire .</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15165404/James-joyce-ulysses-chap-16-eumaeus/Aperient",
+    "original_id": "15165404",
+    "referent_id": 15165404,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "aperient",
+    "prefix": "s who you got drunk with though, touching the much vexed question of stimulants, he relished a glass of choice old wine in season as both nourishing and bloodmaking and possessing ",
+    "suffix": " virtues (notably a 1939#432good burgundy which he was a staunch believer in) still never beyond a certain point where he invariably drew the line as it simply led to trouble all r",
+    "start": 6699,
+    "end": 6707,
+    "canonical_text": "aperient"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15165404,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15154214",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Bonsoir la compagnie",
+  "html_source": "<p>French for bidding “goodnight” to “friends/company”.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15154214/James-joyce-ulysses-chap-14-oxen-of-the-sun/Bonsoir-la-compagnie",
+    "original_id": "15154214",
+    "referent_id": 15154214,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Bonsoir la compagnie",
+    "prefix": "sterioria nostria. Closingtime, gents. Eh? Rome boose for the Bloom toff. I hear you say onions? Bloo? Cadges ads. Photo's papli, by all that's gorgeous. Play low, pardner. Slide. ",
+    "suffix": ". And snares of the poxfiend. Where's the buck and Namby Amby? Skunked? Leg bail. Aweel, ye maun e'en gang yer gates. Checkmate. King to tower. Kind Kristyann wil yu help yung man ",
+    "start": 111418,
+    "end": 111438,
+    "canonical_text": "Bonsoir la compagnie"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15154214,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

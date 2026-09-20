@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8877159",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Sidemirrors",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/56f1b826db5283df986839d63361118e.778x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8877159/James-joyce-ulysses-chap-10-wandering-rocks/Sidemirrors",
+    "original_id": "8877159",
+    "referent_id": 8877159,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "sidemirrors",
+    "prefix": "klow lane the window of Madame Doyle, courtdress milliner, stopped him. He stood looking in at the two puckers stripped to their pelts 1922#240and putting up their props. From the ",
+    "suffix": " two mourning Masters Dignam gaped silently. Myler Keogh, Dublin's pet lamb, will meet sergeantmajor Bennett, the Portobello bruiser, for a purse of fifty sovereigns. Gob, that'd b",
+    "start": 65006,
+    "end": 65017,
+    "canonical_text": "sidemirrors"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8877159,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

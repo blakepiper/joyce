@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8962147",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Cynanthropy",
+  "html_source": "<p>A delusion in which one barks and growls, imagining oneself to be a dog.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8962147/James-joyce-ulysses-chap-12-cyclops/Cynanthropy",
+    "original_id": "8962147",
+    "referent_id": 8962147,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "cynanthropy",
+    "prefix": "l those who are interested in the spread of human culture among the lower animals (and their name is legion) should make a point of not missing the really marvellous exhibition of ",
+    "suffix": " given by the famous old Irish red setter wolfdog formerly known by the sobriquet of Garryowen and recently rechristened 1939#226by his large circle of friends and acquaintances Ow",
+    "start": 46367,
+    "end": 46378,
+    "canonical_text": "cynanthropy"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8962147,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

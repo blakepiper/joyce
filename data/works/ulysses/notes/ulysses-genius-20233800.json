@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-20233800",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "The proud man’s",
+  "html_source": "<p>“the proud man’s contumely”</p><p>From Hamlet’s “To be or not to be” speech. One in a long list of ills that make life hard to bear.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/20233800/James-joyce-ulysses-chap-7-aeolus/The-proud-mans",
+    "original_id": "20233800",
+    "referent_id": 20233800,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "the proud man's",
+    "prefix": "peech, mark you, the professor said, of a finished orator, full of courteous haughtiness and pouring in chastened diction I will not say 1922#135the vials of his wrath but pouring ",
+    "suffix": " contumely upon the new movement. It was then a new movement. We were weak, therefore worthless. \n\n He closed his long thin lips an instant but, eager to be on, raised an outspanne",
+    "start": 44551,
+    "end": 44566,
+    "canonical_text": "the proud man's"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 20233800,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 11041825,
+        "login": "raggedclaws",
+        "name": "raggedclaws",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

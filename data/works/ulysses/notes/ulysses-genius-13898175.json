@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13898175",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Hist",
+  "html_source": "<p>exclamation, archaic:<br />used to attract attention or call for silence.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13898175/James-joyce-ulysses-chap-14-oxen-of-the-sun/Hist",
+    "original_id": "13898175",
+    "referent_id": 13898175,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "hist",
+    "prefix": "ckjohn's bivouac. \n\n1939#284\n\n A black crack of noise in the street here, alack, bawled back. Loud on left Thor thundered: in anger awful the hammerhurler. Came now the storm that ",
+    "suffix": " his heart. And Master Lynch bade him have a care to flout and witwanton as the god self was angered for his hellprate and paganry. And he that had erst challenged to be so doughty",
+    "start": 29121,
+    "end": 29125,
+    "canonical_text": "hist"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 13898175,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9169351",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Lex talionis",
+  "html_source": "<p>The law of retaliation</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9169351/James-joyce-ulysses-chap-14-oxen-of-the-sun/Lex-talionis",
+    "original_id": "9169351",
+    "referent_id": 9169351,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "Lex talionis",
+    "prefix": "ion at ten past eleven. He was gone. Tears gushed from the eyes of the dissipated host. The seer raised his hand to heaven, murmuring: The vendetta of Mananaun! The sage repeated: ",
+    "suffix": ". The sentimentalist is he who would enjoy without incurring the immense debtorship for a thing done. Malachias, overcome by emotion, ceased. The mystery 1939#296was unveiled. Hain",
+    "start": 74601,
+    "end": 74613,
+    "canonical_text": "Lex talionis"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9169351,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

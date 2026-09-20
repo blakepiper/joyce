@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8433599",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "_Maid’s Tragedy_",
+  "html_source": "<p>Synopsis of the play – The Maid’s Tragedy – a really sad play.<br /><a href=\"https://en.wikipedia.org/wiki/The_Maid%27s_Tragedy\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/The_Maid%27s_Tragedy</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8433599/James-joyce-ulysses-chap-14-oxen-of-the-sun/Maids-tragedy",
+    "original_id": "8433599",
+    "referent_id": 8433599,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "_Maid's Tragedy_",
+    "prefix": "erium till she was there unmaided. He gave them then a much admirable hymen minim by those delicate poets Master John Fletcher and 1986#321Master Francis Beaumont that is in their ",
+    "suffix": " that was writ for a like twining of lovers: To bed, to bed was the burden of it to be played with accompanable concent upon the virginals. An exquisite dulcet epithalame of most m",
+    "start": 24901,
+    "end": 24915,
+    "canonical_text": "Maid's Tragedy"
+  },
+  "provenance": {
+    "match_method": "punctuation-exact",
+    "confidence": 0.99
+  },
+  "genius": {
+    "referent_id": 8433599,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2468153,
+        "login": "Aiydta",
+        "name": "Aiydta",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

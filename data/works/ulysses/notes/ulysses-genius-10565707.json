@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-10565707",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Albert William Quill",
+  "html_source": "<p><a href=\"https://books.google.com/books?id=EqpBAQAAMAAJ&amp;pg=PA47&amp;lpg=PA47&amp;dq=Albert+William+Quill&amp;source=bl&amp;ots=vcGOTSluq1&amp;sig=NKealu-jRC7kG5Vd833ZbqEHOu4&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjN4N_o-MfPAhVLxmMKHToMCkwQ6AEITjAN#v=onepage&amp;q=Albert%20William%20Quill&amp;f=false\" rel=\"noopener nofollow\">https://books.google.com/books?id=EqpBAQAAMAAJ&amp;pg=PA47&amp;lpg=PA47&amp;dq=Albert+William+Quill&amp;source=bl&amp;ots=vcGOTSluq1&amp;sig=NKealu-jRC7kG5Vd833ZbqEHOu4&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjN4N_o-MfPAhVLxmMKHToMCkwQ6AEITjAN#v=onepage&amp;q=Albert%20William%20Quill&amp;f=false</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/10565707/James-joyce-ulysses-chap-16-eumaeus/Albert-william-quill",
+    "original_id": "10565707",
+    "referent_id": 10565707,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "Albert William Quill",
+    "prefix": "hink of her name for the moment till the jarvey who had really quite a look of Henry Campbell remembered it, Palme, on Booterstown Strand, that was the talk of the town that year (",
+    "suffix": " wrote a fine piece of original verse of distinctive merit 1922#592on the topic for the Irish Times), breakers running over her and crowds and crowds on the shore in commotion petr",
+    "start": 61584,
+    "end": 61604,
+    "canonical_text": "Albert William Quill"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 10565707,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

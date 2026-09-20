@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9090165",
+  "work_id": "ulysses",
+  "chapter_id": "ok-kJZUBeQi-aLQfULNV",
+  "title": "Mr Thomas Kernan",
+  "html_source": "<p>From Section 11: “Mr Kernan, pleased with the order he had booked, walked boldly along James’s street.”</p><p>From Section 12: “Mr Kernan halted and preened himself before the sloping mirror of Peter Kennedy, hairdresser. Stylish coat, beyond a doubt.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9090165/James-joyce-ulysses-chap-10-wandering-rocks/Mr-thomas-kernan",
+    "original_id": "9090165",
+    "referent_id": 9090165,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-10-wandering-rocks-annotated"
+  },
+  "anchor": {
+    "text": "Mr Thomas Kernan",
+    "prefix": "1932#226by obsequious policemen and proceeded past Kingsbridge along the northern quays. The viceroy was most cordially greeted on his way through the metropolis. At Bloody bridge ",
+    "suffix": " beyond the river greeted him vainly from afar. Between Queen's and Whitworth bridges lord Dudley's viceregal carriages passed and were unsaluted by Mr Dudley White, B. L., M. A., ",
+    "start": 68374,
+    "end": 68390,
+    "canonical_text": "Mr Thomas Kernan"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9090165,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 3083675,
+        "login": "brnmzsk",
+        "name": "brnmzsk",
+        "role": null,
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-19202255",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Constellation of Andromeda",
+  "html_source": "<p><img src=\"https://images.genius.com/b72e674b21b52f8d60f70c4cb21d39aa.450x450x1.jpg\" alt=\"\" /></p><p><img src=\"https://images.genius.com/9edfaeb73f9839785b99921da4b1b608.500x629x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/19202255/James-joyce-ulysses-chap-17-ithaca/Constellation-of-andromeda",
+    "original_id": "19202255",
+    "referent_id": 19202255,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "constellation of Andromeda",
+    "prefix": "ionalis about the period of the birth of Leopold Bloom and of other stars of (presumably) similar origin which had (effectively or presumably) appeared in and disappeared from the ",
+    "suffix": " about the period of the birth of Stephen Dedalus, and in and from the constellation of Auriga some years after the birth and death of Rudolph Bloom, junior, and in and from other ",
+    "start": 71784,
+    "end": 71810,
+    "canonical_text": "constellation of Andromeda"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 19202255,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 4002447,
+        "login": "SmartMonkey",
+        "name": "SmartMonkey",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

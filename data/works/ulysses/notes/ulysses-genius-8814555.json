@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8814555",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Wimple",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/1f61a7a2a0732f4c167b535725b368be.363x500x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8814555/James-joyce-ulysses-chap-8-lestrygonians/Wimple",
+    "original_id": "8814555",
+    "referent_id": 8814555,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Wimple",
+    "prefix": "y's Ltd, 85 Dame street. Well out of that ruck I am. Devil of a job it was collecting accounts of those convents. Tranquilla convent. That was a nice nun there, really sweet face. ",
+    "suffix": " suited her small head. Sister? Sister? I am sure she was crossed in love by her eyes. Very hard to bargain with that sort of woman. I disturbed her at her devotions that morning. ",
+    "start": 9015,
+    "end": 9021,
+    "canonical_text": "Wimple"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8814555,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

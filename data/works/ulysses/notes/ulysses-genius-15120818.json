@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15120818",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Ranns",
+  "html_source": "<p>Rann is an Old Irish word just meaning a stanza of (Irish) poetry</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15120818/James-joyce-ulysses-chap-12-cyclops/Ranns",
+    "original_id": "15120818",
+    "referent_id": 15120818,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "ranns",
+    "prefix": "from us!) has left no stone unturned in his efforts to delucidate and compare the verse recited and has found it bears a striking resemblance 1922#298(the italics are ours) to the ",
+    "suffix": " of ancient Celtic bards. We are not speaking so much of those delightful lovesongs with which the writer who conceals his identity under the graceful pseudonym of the Little Sweet",
+    "start": 46997,
+    "end": 47002,
+    "canonical_text": "ranns"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15120818,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

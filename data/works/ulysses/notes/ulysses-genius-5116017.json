@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-5116017",
+  "work_id": "ulysses",
+  "chapter_id": "nk-kJZUBeQi-aLQfULNV",
+  "title": "Plasto’s.",
+  "html_source": "<p>Hatter at 1 Great Brunswick (now Pearse) Street, where Bloom purchased his hat.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/5116017/James-joyce-ulysses-chap-6-hades/Plastos",
+    "original_id": "5116017",
+    "referent_id": 5116017,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-6-hades-annotated"
+  },
+  "anchor": {
+    "text": "Plasto's.",
+    "prefix": "t week. Fun on the Bristol. Martin Cunningham could work a pass for the Gaiety. Have to stand a drink or two. As broad as it's long. \n\n He's coming in the afternoon. Her songs. \n\n ",
+    "suffix": " Sir Philip Crampton's memorial fountain bust. Who was he? \n\n — How do you do? Martin Cunningham said, raising his palm to his brow in salute. \n\n — He doesn't see us, Mr Power said",
+    "start": 11040,
+    "end": 11049,
+    "canonical_text": "Plasto's."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 5116017,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1139514,
+        "login": "KeasttheBeast",
+        "name": "KeasttheBeast",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

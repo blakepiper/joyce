@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15169417",
+  "work_id": "ulysses",
+  "chapter_id": "qU-kJZUBeQi-aLQfULNV",
+  "title": "Mischna and Ghemara",
+  "html_source": "<p>The <a href=\"https://en.wikipedia.org/wiki/Gemara\" rel=\"noopener nofollow\">Mishnah</a> is a very early collection of Jewish oral tradition that teaches Jewish law through the presentation of cases. The <a href=\"https://en.wikipedia.org/wiki/Gemara\" rel=\"noopener nofollow\">Gemara</a> consists of Rabbinical analyses and commentaries on the Mishnah. As indicated here, the Talmud comprises both.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15169417/James-joyce-ulysses-chap-17-ithaca/Mischna-and-ghemara",
+    "original_id": "15169417",
+    "referent_id": 15169417,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-17-ithaca-annotated"
+  },
+  "anchor": {
+    "text": "Mischna and Ghemara",
+    "prefix": "archaeological, genealogical, hagiographical, exegetical, homilectic, toponomastic, historical and religious literatures comprising the works of rabbis and culdees, Torah, Talmud (",
+    "suffix": "), Massor, Pentateuch, Book of the Dun Cow, Book of Ballymote, Garland of Howth, Book of Kells: their dispersal, persecution, survival and revival: the isolation of their synagogic",
+    "start": 48662,
+    "end": 48681,
+    "canonical_text": "Mischna and Ghemara"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15169417,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-15128520",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "Shielings",
+  "html_source": "<p>A Scottish term for a roughly constructed hut, usually of stone and thatch, intended to provide cover for one while pasturing/grazing animals far from other shelter.</p><p><img src=\"https://images.genius.com/fc99faab39e219d2b94499c3f37375ae.615x373x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/15128520/James-joyce-ulysses-chap-12-cyclops/Shielings",
+    "original_id": "15128520",
+    "referent_id": 15128520,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "shielings",
+    "prefix": "\n\n — We'll put force against force, says the citizen. We have our greater Ireland beyond the sea. They were driven out of house and home in the black 47. Their mudcabins and their ",
+    "suffix": " by the roadside were laid low by the batteringram and the Times rubbed its hands and told the whitelivered Saxons there would soon be as few Irish in Ireland as redskins in Americ",
+    "start": 87556,
+    "end": 87565,
+    "canonical_text": "shielings"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 15128520,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2698574,
+        "login": "anhinga",
+        "name": "anhinga",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23609073",
+  "work_id": "ulysses",
+  "chapter_id": "pE-kJZUBeQi-aLQfULNV",
+  "title": "The sons of deathless Leda",
+  "html_source": "<p>Castor and Pollux.<br /><a href=\"https://en.wikipedia.org/wiki/Castor_and_Pollux\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Castor_and_Pollux</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23609073/James-joyce-ulysses-chap-12-cyclops/The-sons-of-deathless-leda",
+    "original_id": "23609073",
+    "referent_id": 23609073,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated"
+  },
+  "anchor": {
+    "text": "the sons of deathless Leda",
+    "prefix": "rd him and straightway brought him a crystal cup full of the foamy ebon ale which the noble twin brothers Bungiveagh and Bungardilaun brew ever in their divine alevats, cunning as ",
+    "suffix": ". For they garner the succulent berries of the hop and mass and sift and bruise and brew them and they mix therewith sour juices and bring the must to the sacred fire and cease not",
+    "start": 18058,
+    "end": 18084,
+    "canonical_text": "the sons of deathless Leda"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23609073,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 9980247,
+        "login": "AZHickman",
+        "name": "AZHickman",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

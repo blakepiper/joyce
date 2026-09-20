@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13796698",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Akeled",
+  "html_source": "<p>akeled – Obsolete: “cooled,<br />became cold.”</p><p>A little anecdote  about Joyce’s use of this word:</p><p> <a href=\"http://digicoll.library.wisc.edu/cgi-bin/JoyceColl/JoyceColl-idx?type=turn&amp;entity=JoyceColl.BudgenUlysses.p0045&amp;id=JoyceColl.BudgenUlysses&amp;isize=text\" rel=\"noopener nofollow\">http://digicoll.library.wisc.edu/cgi-bin/JoyceColl/JoyceColl-idx?type=turn&amp;entity=JoyceColl.BudgenUlysses.p0045&amp;id=JoyceColl.BudgenUlysses&amp;isize=text</a></p><p>The Chatterton in the anecdote is Thomas Chatterton, poet (1752-1770).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13796698/James-joyce-ulysses-chap-14-oxen-of-the-sun/Akeled",
+    "original_id": "13796698",
+    "referent_id": 13796698,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "akeled",
+    "prefix": "nd she was wondrous stricken of heart for that evil hap and for his burial did him on a fair corselet of lamb's wool, the flower of the flock, lest he might perish utterly and lie ",
+    "suffix": " (for it was then about the midst of the winter) and now Sir Leopold that had of his body no manchild for an heir looked upon him his friend's son and was shut up in sorrow for his",
+    "start": 19218,
+    "end": 19224,
+    "canonical_text": "akeled"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 13796698,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-23242700",
+  "work_id": "ulysses",
+  "chapter_id": "qE-kJZUBeQi-aLQfULNV",
+  "title": "Osier",
+  "html_source": "<p>A willow with flexible branches used to make wickerwork, native to Europe and Asia, and introduced to North America. It’s not a common tree in South America, but it’s unclear if Joyce would have known this.</p><p><a href=\"https://en.wikipedia.org/wiki/Willow\" rel=\"noopener nofollow\">https://en.wikipedia.org/wiki/Willow</a></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/23242700/James-joyce-ulysses-chap-16-eumaeus/Osier",
+    "original_id": "23242700",
+    "referent_id": 23242700,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-16-eumaeus-annotated"
+  },
+  "anchor": {
+    "text": "osier",
+    "prefix": "triped loincloths, squatted, blinking, suckling, 1961#625frowning, sleeping amid a swarm of infants (there must have been quite a score of them) outside some primitive shanties of ",
+    "suffix": ". \n\n — Chews coca all day, the communicative tarpaulin added. Stomachs like breadgraters. Cuts off their diddies when they can't bear no more children. See them sitting there stark",
+    "start": 31827,
+    "end": 31832,
+    "canonical_text": "osier"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 23242700,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 1639227,
+        "login": "PauliPrinciple",
+        "name": "PauliPrinciple",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

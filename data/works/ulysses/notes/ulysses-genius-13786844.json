@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-13786844",
+  "work_id": "ulysses",
+  "chapter_id": "pk-kJZUBeQi-aLQfULNV",
+  "title": "Leman",
+  "html_source": "archaic  sweetheart, lover; especially : mistress",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/13786844/James-joyce-ulysses-chap-14-oxen-of-the-sun/Leman",
+    "original_id": "13786844",
+    "referent_id": 13786844,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-14-oxen-of-the-sun-annotated"
+  },
+  "anchor": {
+    "text": "leman",
+    "prefix": " to Punch Costello wist he what ends. But he had overmuch drunken and the best word he could have of him was that he would ever dishonest a woman whoso she were or wife or maid or ",
+    "suffix": " if it so fortuned him to be delivered of his spleen of lustihead. Whereat Crotthers of Alba Longa sang young Malachi's praise of that beast the unicorn how once in the millennium ",
+    "start": 16362,
+    "end": 16367,
+    "canonical_text": "leman"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.98
+  },
+  "genius": {
+    "referent_id": 13786844,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 5881310,
+        "login": "BenSwisher",
+        "name": "BenSwisher",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

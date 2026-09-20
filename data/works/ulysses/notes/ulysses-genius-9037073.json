@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9037073",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Iron jelloids",
+  "html_source": "<p>Iron Jelloids are used in the treatment of iron deficiency and those of the B vitamins and vitamin C.<br /><a href=\"https://imedi.co.uk/iron-jelloids\" rel=\"noopener nofollow\">https://imedi.co.uk/iron-jelloids</a></p><p><img src=\"https://images.rapgenius.com/f8d6e57d25f914354be1ceefcf1ca0ea.600x802x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9037073/James-joyce-ulysses-chap-13-nausicaa/Iron-jelloids",
+    "original_id": "9037073",
+    "referent_id": 9037073,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "iron jelloids",
+    "prefix": "unced beautiful by all who knew her though, as folks often said, she was more a Giltrap than a MacDowell. Her figure was slight and graceful, inclining even to fragility but those ",
+    "suffix": " she had been taking of late had done her a world of good much better than the Widow Welch's female pills and she was much better of those discharges she used to get and that tired",
+    "start": 5388,
+    "end": 5401,
+    "canonical_text": "iron jelloids"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9037073,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

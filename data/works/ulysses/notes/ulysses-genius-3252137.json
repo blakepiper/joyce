@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-3252137",
+  "work_id": "ulysses",
+  "chapter_id": "n0-kJZUBeQi-aLQfULNV",
+  "title": "Mr Bloom moved nimbly aside",
+  "html_source": "<p>In differentiating Bloom through physicality again, Joyce extends the distinction with a heroic aspect to the movement and allusion to Odysseus.</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/3252137/James-joyce-ulysses-chap-7-aeolus/Mr-bloom-moved-nimbly-aside",
+    "original_id": "3252137",
+    "referent_id": 3252137,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-7-aeolus-annotated"
+  },
+  "anchor": {
+    "text": "Mr Bloom moved nimbly aside",
+    "prefix": "ambert nodded. \n\n — But listen to this, he said. \n\n The doorknob hit Mr Bloom in the small of the back as the door was pushed in. \n\n — Excuse me, J. J. O'Molloy said, entering. \n\n ",
+    "suffix": ". \n\n — I beg yours, he said. \n\n — Good day, Jack. \n\n — Come in. Come in. \n\n — Good day. \n\n — How are you, Dedalus? \n\n — Well. And yourself? \n\n J. J. O'Molloy shook his head. \n\n1932",
+    "start": 15837,
+    "end": 15864,
+    "canonical_text": "Mr Bloom moved nimbly aside"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 3252137,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 804232,
+        "login": "jackiemac",
+        "name": "jackiemac",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

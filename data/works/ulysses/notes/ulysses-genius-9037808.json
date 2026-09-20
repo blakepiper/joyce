@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-9037808",
+  "work_id": "ulysses",
+  "chapter_id": "pU-kJZUBeQi-aLQfULNV",
+  "title": "Lazenby’s salad dressing",
+  "html_source": "<p><img src=\"https://images.rapgenius.com/28999970473aaea1b20d8cf57f9c9da7.671x1000x1.jpg\" alt=\"\" /></p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/9037808/James-joyce-ulysses-chap-13-nausicaa/Lazenbys-salad-dressing",
+    "original_id": "9037808",
+    "referent_id": 9037808,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-13-nausicaa-annotated"
+  },
+  "anchor": {
+    "text": "Lazenby's salad dressing",
+    "prefix": " Poor father! With all his faults she loved him still when he sang Tell me, Mary, how to woo thee or My love and cottage near Rochelle and they had stewed cockles and lettuce with ",
+    "suffix": " for supper and when he sang The moon hath raised with Mr Dignam that died suddenly and was buried, God have mercy on him, from a stroke. Her mother's birthday that was and Charley",
+    "start": 21948,
+    "end": 21972,
+    "canonical_text": "Lazenby's salad dressing"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 9037808,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

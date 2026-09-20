@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4876692",
+  "work_id": "ulysses",
+  "chapter_id": "oU-kJZUBeQi-aLQfULNV",
+  "title": "O.P.",
+  "html_source": "<p>For “ordinary person” or “ordinary people”. It is a play on George William Russell’s pseudonym A.E. (sometimes AE).</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4876692/James-joyce-ulysses-chap-9-scylla-and-charybdis/Op",
+    "original_id": "4876692",
+    "referent_id": 4876692,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-9-scylla-and-charybdis-annotated"
+  },
+  "anchor": {
+    "text": "O.P.",
+    "prefix": "p. The Christ with the bridesister, moisture of light, born of an ensouled virgin, repentant sophia, departed to the plane of buddhi. The life esoteric is not for ordinary person. ",
+    "suffix": " must work off bad karma first. Mrs Cooper Oakley once glimpsed our very illustrious sister H.P.B.'s elemental. \n\n O, fie! Out on't! Pfuiteufel! You naughtn't to look, missus, 1961",
+    "start": 3965,
+    "end": 3969,
+    "canonical_text": "O.P."
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 4876692,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1482232,
+        "login": "JayEn",
+        "name": "JayEn",
+        "role": "editor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

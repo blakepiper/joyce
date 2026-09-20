@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-4973042",
+  "work_id": "ulysses",
+  "chapter_id": "mU-kJZUBeQi-aLQfULNV",
+  "title": "Mother Grogan",
+  "html_source": "<p>Mother Grogan is a character that appears in the anonymous Irish folk song “Ned Grogan.”</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/4973042/James-joyce-ulysses-chap-1-telemachus/Mother-grogan",
+    "original_id": "4973042",
+    "referent_id": 4973042,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-1-telemachus-annotated"
+  },
+  "anchor": {
+    "text": "mother Grogan",
+    "prefix": "Mulligan, you do make strong tea, don't you? \n\n Buck Mulligan, hewing thick slices from the loaf, said in an old woman's wheedling voice: \n\n — When I makes tea I makes tea, as old ",
+    "suffix": " said. And when I makes water I makes water. \n\n — By Jove, it is tea, Haines said. \n\n Buck Mulligan went on hewing and wheedling: \n\n — So I do, Mrs Cahill, says she. Begob, ma'am, ",
+    "start": 20410,
+    "end": 20423,
+    "canonical_text": "mother Grogan"
+  },
+  "provenance": {
+    "match_method": "contextual",
+    "confidence": 0.9751
+  },
+  "genius": {
+    "referent_id": 4973042,
+    "annotation_state": "accepted",
+    "classification": "accepted",
+    "contributors": [
+      {
+        "id": 1045290,
+        "login": "StickRivero",
+        "name": "StickRivero",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}

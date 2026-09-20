@@ -1,0 +1,42 @@
+{
+  "id": "ulysses-genius-8817109",
+  "work_id": "ulysses",
+  "chapter_id": "oE-kJZUBeQi-aLQfULNV",
+  "title": "Father O’Flynn",
+  "html_source": "<p>Irish song<br />Of priests we can offer a charmin variety,<br />Far renownd for learnin and piety;<br />Still, Id advance ye widout impropriety,<br />Father OFlynn as the flowr of them all.</p><p>cho: Heres a health to you, Father OFlynn,<br />Slainte and slainte and slainte agin;<br />Powrfulest preacher, and tenderest teacher,<br />And kindliest creature in ould Donegal.</p><p>Dont talk of your Provost and Fellows of Trinity,<br />Famous forever at Greek and Latinity,<br />Dad and the divils and all at Divinity<br />Father OFlynn d make hares of them all!</p>",
+  "media_doc_ids": [],
+  "source": {
+    "type": "genius",
+    "url": "https://genius.com/8817109/James-joyce-ulysses-chap-8-lestrygonians/Father-oflynn",
+    "original_id": "8817109",
+    "referent_id": 8817109,
+    "page_url": "https://genius.com/James-joyce-ulysses-chap-8-lestrygonians-annotated"
+  },
+  "anchor": {
+    "text": "Father O'Flynn",
+    "prefix": "ate's empty. After you with our incorporated drinkingcup. Like sir Philip Crampton's fountain. Rub off the microbes with your handkerchief. Next chap rubs on a new batch with his. ",
+    "suffix": " would make hares of them all. Have rows all the same. All for number one. Children fighting for the scrapings of the pot. Want a souppot as big as the Phoenix park. Harpooning fli",
+    "start": 44673,
+    "end": 44687,
+    "canonical_text": "Father O'Flynn"
+  },
+  "provenance": {
+    "match_method": "exact",
+    "confidence": 1.0
+  },
+  "genius": {
+    "referent_id": 8817109,
+    "annotation_state": "pending",
+    "classification": "unreviewed",
+    "contributors": [
+      {
+        "id": 2976434,
+        "login": "DonFordham",
+        "name": "DonFordham",
+        "role": "contributor",
+        "attribution": 1.0
+      }
+    ]
+  },
+  "color": "F59627"
+}
