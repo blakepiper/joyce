@@ -15,6 +15,9 @@ local reading state are shared by both works.
 
 ## Use
 
+From the repository root, start the pinned Guix shell with `guix time-machine -C channels.scm -- shell -m manifest.scm`.
+If you do not need the pinned Guix version, use `guix shell -m manifest.scm` instead.
+
 Run the included launcher:
 
 ```sh
