@@ -18,6 +18,9 @@ local reading state are shared by both works.
 From the repository root, start the pinned Guix shell with `guix time-machine -C channels.scm -- shell -m manifest.scm`.
 If you do not need the pinned Guix version, use `guix shell -m manifest.scm` instead.
 
+To launch directly from the repository root, run `guix shell -m manifest.scm -- ./joyce`.
+This opens the reader in your browser; press Ctrl-C in the terminal to stop the server.
+
 Run the included launcher:
 
 ```sh
