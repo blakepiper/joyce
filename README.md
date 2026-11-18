@@ -15,19 +15,18 @@ local reading state are shared by both works.
 
 ## Use
 
-From the repository root, start the pinned Guix shell with `guix time-machine -C channels.scm -- shell -m manifest.scm`.
-If you do not need the pinned Guix version, use `guix shell -m manifest.scm` instead.
-
-To launch directly from the repository root, run `guix shell -m manifest.scm -- ./joyce`.
-This opens the reader in your browser; press Ctrl-C in the terminal to stop the server.
-
-Run the included launcher:
+Python 3 is required to serve the local files. The project has no Python package
+dependencies. From the repository root, run:
 
 ```sh
 ./joyce
 ```
 
-Or serve the repository with any static server:
+The launcher starts a local HTTP server and opens the reader in your browser.
+Press Ctrl-C in the terminal to stop the server. If port 8000 is busy, it
+chooses another available port.
+
+Alternatively, serve the repository with any static server:
 
 ```sh
 python3 -m http.server 8000
